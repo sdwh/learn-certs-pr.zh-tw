@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-200
 displayName: MS-200
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>該測驗的內容已於 2019 年 12 月 4 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>該測驗的內容已於 2019 年 12 月 4 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
 
   該測驗的應試者是消息傳遞管理員，他們在本地和雲企業環境中部署、配置、管理、故障排除和監視收件人、權限、郵件保護、郵件流和公共文件夾。
 
@@ -19,7 +19,7 @@ subTitle: '這項測驗衡量您完成以下專業任務的能力：管理現代
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-200&examname=Exam%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-200&examname=測驗%20MS-200:%20規劃和配置一套消息平台&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-200
 locales:
 - en
 levels:

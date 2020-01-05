@@ -6,14 +6,14 @@ metadata:
 uid: exam.az-300
 displayName: AZ-300
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>該測驗的內容已於 2019 年 12 月 4 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>該測驗的內容已於 2019 年 12 月 4 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
 
   參加此測驗的應試者是 Azure 解決方案架構師，他們為利益相關者提供建議，並將業務需求轉換為安全、可擴展和可靠的解決方案。應試者應該在 IT 運營的各個方面都擁有先進的經驗和知識，包括網絡、虛擬化、身份、安全性、業務連續性、災難恢復、資料管理、預算和治理。該角色要求管理每個領域的決策對整體解決方法的影響方式。應試者必須精通 Azure 管理、Azure 開發 與 DevOps，而且至少要在這些領域中的一個領域中擁有專家水平的技能。
 subTitle: '這項測驗衡量您完成以下技術任務的能力：部署和配置基礎設施；實作工作量和安全性；創建和部署應用程式；實作身份驗證和安全資料；並針對雲端和 Azure 存儲進行開發。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-300&examname=Exam%20AZ-300:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-300
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-300&examname=測驗%20AZ-300:%20Microsoft%20Azure%20架構師技術&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-300
 locales:
 - en
 - ja
