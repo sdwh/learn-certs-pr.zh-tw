@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-900
 displayName: AZ-900
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>該測驗的內容已於 2019 年 10 月 23 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>該測驗的內容已於 2019 年 10 月 23 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
 
   該測驗是為希望展示雲端服務基礎知識以及 Microsoft Azure 如何提供這些服務的應試者而設計的。該測驗適用於具有非技術背景的應試者，例如那些參與銷售或購買基於雲端的解決方案和服務的人，或者參與過基於雲的解決方案和服務的人，以及具有技術背景的需要驗證他們關於雲端服務的基礎知識的人。
   不需要專業 IT 經驗，但是，一些一般的 IT 知識或經驗會是有益的。
@@ -16,7 +16,7 @@ subTitle: '這項測驗將衡量您理解以下概念的能力：雲端概念；
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-900
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-900&examname=測驗%20AZ-900:%20Microsoft%20Azure%20基本原理&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-900
 locales:
 - en
 - ja

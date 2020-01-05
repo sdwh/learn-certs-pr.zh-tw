@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>該測驗的內容已於 2019 年 12 月 3 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>該測驗的內容已於 2019 年 12 月 3 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
 
   參加該測驗的應試者是 DevOps 專業人士，他們將人員、流程和技術結合在一起，不斷提供可滿足最終用戶需求和業務目標的有價值的產品和服務。DevOps 專業人員透過優化實踐、改善溝通和協作以及創建自動化來簡化交付。他們為應用程式代碼和基礎設施設計和實作策略，以實現持續集成、測試、交付、監視和反饋。
 
@@ -15,7 +15,7 @@ subTitle: '該測驗衡量您設計 DevOps 策略並實作以下功能的能力�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-400&examname=Exam%20AZ-400:%20Microsoft%20Azure%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-400&examname=測驗%20AZ-400:%20Microsoft%20Azure%20DevOps%20解決方案&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
 - ja
