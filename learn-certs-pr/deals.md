@@ -46,7 +46,7 @@ ms.author: micsullivan
 
 [**瞭解更多**](/learn/certifications/certification-exam-policies)
 
-## <a name="frequently-ask-questions"> 常見問題集
+## <a name="frequently-ask-questions"></a> 常見問題集
 
 **問。Q. 什麼是重測？**
 
