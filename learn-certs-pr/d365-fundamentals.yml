@@ -22,7 +22,7 @@ products:
 courses:
 - uid: course.mb-900t01
 paths:
-- uid: learn-dynamics.dyn-power-plat-bus-app-fundamentals
+- uid: learn-dynamics.wwl.dynamics-365-fundamentals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj0
 exams:
 - uid: exam.mb-900

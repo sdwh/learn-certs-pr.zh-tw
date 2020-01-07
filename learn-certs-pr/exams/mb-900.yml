@@ -30,7 +30,7 @@ products:
 courses:
 - uid: course.mb-900t01
 paths:
-- uid: learn-dynamics.dyn-power-plat-bus-app-fundamentals
+- uid: learn-dynamics.wwl.dynamics-365-fundamentals
 relatedCertifications:
 - related:
     uid: certification.d365-fundamentals
