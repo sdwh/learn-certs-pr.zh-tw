@@ -1068,7 +1068,7 @@ Microsoft Certification Program 要求應試者必須先接受 NDA 的條款才�
 
 **我如何申請無障礙設施?**
 
-如果您在測驗時需要特殊設備或其他任何無障礙設施，您可以透過[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 使用其“合理調整申請系統” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) 申請無障礙設施。上文中[參加測驗時的特殊無障礙設施](#special-accommodations-when-taking-exams) 部分提供了更多詳細資訊。
+如果您在測驗時需要特殊設備或其他任何無障礙設施，您可以透過[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 使用其“合理調整申請系統” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) 申請無障礙設施。上文中參加測驗時的特殊無障礙設施 部分提供了更多詳細資訊。
 
 **為什麼需要提交文件？**
 
