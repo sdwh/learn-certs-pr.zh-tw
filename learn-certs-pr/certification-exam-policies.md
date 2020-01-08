@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 全世界的合作夥伴和客戶皆期盼 Microsoft 提供最高品質的測驗和認證。我們已擬定 Microsoft 認證測驗規定來支援認證規劃的目標，其中包括：
 
-## 安全與重考規定
+## <a name="security-policies"></a> 安全與重考規定
 
 Microsoft 制定了明確的規範內容來處理 Microsoft Certified Professional (MCP) 測驗安全相關的議題。
 
@@ -518,7 +518,7 @@ Microsoft 專業認證：[網路安全性憑證](https://academy.microsoft.com/e
 
 下載：[成績單服務應用程式](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## 對於 Microsoft 認證測驗題目提出異議
+## <a name="policies-5"></a> 對於 Microsoft 認證測驗題目提出異議
 
 [每道考試題目都經過仔細審查](https://www.microsoft.com/zh-tw/learning/certification-exams.aspx), 由一群技術與職責專家嚴謹檢閱，這些專家細究了各個題目的技術正確性、清晰度以及相關性。若您認為在 Microsoft 認證測驗中看到無效的特定問題，可以依照下列所述的步驟要求評估該問題。您必须在参加考試後30天内提交考試項目質疑表。
 
@@ -554,7 +554,7 @@ Microsoft 專業認證：[網路安全性憑證](https://academy.microsoft.com/e
 
 如果您因為考試無法以您本地語言提供而需要延長時間，需要使用特殊設備，或申請在考試時提供其他任何無障礙設施，您可透過 Certiport 按 [此處](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations) 描述的步驟申請無障礙設施。
 
-### 取消與重新排程策略：
+### <a name="cancellation-and-reschedule-policy"></a> 取消與重新排程策略：
 
 - 如果您在您的預約前至少 6 個工作天重新排程或取消測驗預約，則不收取費用。
 - 如果您在註冊測驗時間的 5 個工作天內取消或重新排程測驗，則需要收取一定費用。

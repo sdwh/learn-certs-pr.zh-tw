@@ -29,7 +29,7 @@ Microsoft Certified Trainer 計畫是年度會員制的計畫。您必須符合�
 
 [探索所有 MCT 可用權益。](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
-## 先決條件
+## <a name="mctinfoheading-3"></a> 先決條件
 
 MCT 計畫是專為全球各地積極提供 Microsoft 技術訓練工作的教育人員而設計的。如果您擁有合格認證並且您對於提供 Microsoft 技術訓練充滿熱情，我們鼓勵您考慮申請參加。
 
@@ -37,7 +37,7 @@ MCT 計畫是專為全球各地積極提供 Microsoft 技術訓練工作的教�
 
 ### MCT 計畫參加條件
 
-- 擁有最新 Microsoft 認證或 MCT 計畫申請資格 。 
+- 擁有最新 Microsoft 認證或 MCT 計畫申請資格 。
 （參見下方的合格認證清單）
 - 滿足下列其中一項條件，以證明教學skills:
   - 教學技能認證：
