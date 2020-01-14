@@ -1,0 +1,174 @@
+### YamlMime:Course
+title: Microsoft Azure 管理員
+metadata:
+  title: '課程 AZ-103T00-A: Microsoft Azure 管理員'
+  description: '課程 AZ-103T00-A: Microsoft Azure 管理員'
+uid: course.az-103t00
+courseNumber: 'AZ-103T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-virtual-network
+- azure-resource-manager
+exams:
+- uid: exam.az-103
+summary: |-
+  本課程教IT專業人員如何管理其Azure訂閱，創建和擴展虛擬機器，實作儲存解決方案，配置虛擬網路，備份和共享資料，連接Azure和內部網站，管理網路流量，實作Azure Active Directory，安全 身份識別，並監視您的解決方案。
+
+  #### 對象設定檔
+  本課程適用於Azure管理員。Azure管理員管理跨儲存，網路和計算雲端功能的雲端服務，並對整個IT生命週期中的每項服務都有深刻的瞭解。他們接受終端使用者對新雲端應用程式的請求，並就可以使用的服務提出建議，以實作最佳性能和規模，並根據需要進行配置，調整大小，監控和調整。該角色需要與供應商進行溝通和協調。Azure管理員使用Azure入口，並且隨著他們變得更加熟練，他們使用PowerShell和命令行界面。
+prerequisitesSection: |-
+  - 瞭解內部虛擬化技術，包括&#58; VM，虛擬網路和虛擬硬碟。
+  - 瞭解網路配置，包括TCP/IP，網域名稱系統(DNS)，虛擬專用網路(VPN)，防火牆和加密技術。
+  - 瞭解Active Directory概念，包括網域，樹系，網域控制器，複製，Kerberos協議和輕型目錄存取協議(LDAP)。
+  - 瞭解彈性和災害復原，包括備份和還原操作。
+outlineSection: |-
+  ### 模組 1&#58; Azure管理
+  在本模組中，您將瞭解Azure管理員用來管理其基礎結構的工具。這包括Azure入口、Cloud Shell、Azure PowerShell、CLI、資源管理器和資源管理器範本。本模組中的示範將確保您在課程實驗室中取得成功。
+  #### 課程
+  - Azure入口和Cloud Shell
+  - Azure PowerShell和CLI
+  - 資源管理員
+  - ARM範本
+
+
+  ### 模組 2&#58; Azure虛擬機器
+  在本模組中，您將瞭解Azure虛擬機器，包括規劃，創建，可用性和擴展。
+
+  #### 課程
+  - 虛擬機器規劃
+  - 創建虛擬機器
+  - 虛擬機器可用性
+  - 虛擬機器擴展
+
+
+  #### 實驗室 &#58; 部署和管理虛擬機器
+
+  #### 實驗室 &#58; 虛擬機器和秤集
+
+  ### 模組 3&#58; 天藍色儲存
+  在本模組中，您將學習基本的儲存功能，包括儲存帳戶、blob 儲存體、Azure 檔案和儲存安全性。
+  #### 課程
+  - 儲存帳戶
+  - Azure Blob
+  - Azure 檔案
+  - 儲存安全
+
+
+  #### 實驗室 &#58; 實作和管理儲存
+
+  ### 模組 4&#58; 虛擬網路
+  在本模組中，您將學習基本的虛擬網路概念，例如虛擬網路，IP尋址，Azure DNS和網路安全群組。
+  #### 課程
+  - 虛擬網路
+  - IP地址和端點
+  - Azure DNS
+  - 網路安全群組
+
+
+  #### 實驗室 &#58; 配置Azure DNS
+
+  ### 模組 5&#58; 網站間連接
+  在本模組中，您將學習網站間連接功能，包括VNet對等，VNet到VNet連接，網站到網站連接和ExpressRoute。
+  #### 課程
+  - VNet對等
+  - VNet到VNet連接
+  - ExpressRoute連接
+
+
+  #### 實驗室 &#58; VNet對等與服務鏈接
+
+  ### 模組 6&#58; 監控
+  在本模組中，您將瞭解有關監視Azure基礎結構的資訊，包括Azure Monitor，警示，記錄分析和Network Watcher。
+
+  #### 課程
+  - Azure監控器
+  - Azure警示
+  - 記錄分析
+  - 網路監看員
+
+
+  #### 實驗室 &#58; 網路監看員
+
+  ### 模組 7&#58; 資料保護
+  在本模組中，您將瞭解資料複製策略，備份檔案和資料夾以及虛擬機器備份。
+
+  #### 課程
+  - 資料複製
+  - 檔案和資料夾備份
+  - 虛擬機器備份
+
+
+  #### 實驗室 &#58; 區域之間的天藍色網站恢復
+
+  ### 模組 8&#58; 網路流量管理
+  在本模組中，您將瞭解網路流量策略，包括服務端點，網路路由，Azure負載平衡器和Azure Traffic Manager。
+
+  #### 課程
+  - 網路路由
+  - Azure負載平衡器
+  - Azure流量管理員
+
+
+  #### 實驗室 &#58; 負載平衡器和流量管理員
+
+  ### 模組 9&#58; Azure Active Directory
+  在本模組中，您將瞭解Azure Active Directory（AD），包括Azure AD Connect和Azure AD Join。
+
+  #### 課程
+  - Azure Active Directory
+  - Azure AD連接
+  - Azure AD加入
+
+
+  #### 實驗室 &#58; 實作目錄同步
+
+  ### 模組 10&#58; 保護身份識別
+  在本模組中，您將學習如何保護身份識別，包括多重要素驗證，Azure AD身分識別保護和自助式密碼重設。
+  #### 課程
+  - 多重要素驗證
+  - Azure AD身分識別保護
+  - 自助式密碼重設
+
+
+  #### 實驗室 &#58; Azure AD身分識別保護
+
+  #### 實驗室 &#58; 自助式密碼重設
+
+  ### 模組 11&#58; 控管與合規性
+  在本模組中，您將學習有關管理訂閱和帳戶的資訊，包括角色型存取控制，使用者和群組以及Azure策略。
+
+  #### 課程
+  - 訂閱和帳戶
+  - 角色型存取控制（RBAC）
+  - 使用者和群組
+  - Azure策略
+
+
+  #### 實驗室 &#58; 角色型存取控制
+
+  #### 實驗室 &#58; 控管與合規性
+
+  ### 模組 12&#58; 資料服務
+  在本模組中，您將學習如何使用匯入及匯出服務，資料箱，內容傳送網路和檔案同步有效地共享資料。
+
+  #### 課程
+  - 內容傳送網路
+  - 檔案同步
+  - 匯入及匯出服務
+  - 資料盒
+
+
+  #### 實驗室 &#58; 檔案同步
+

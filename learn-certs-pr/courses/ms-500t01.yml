@@ -1,0 +1,134 @@
+### YamlMime:Course
+title: 管理 Microsoft 365 身份識別和存取
+metadata:
+  title: '課程 MS-500T01-A: 管理 Microsoft 365 身份識別和存取'
+  description: '課程 MS-500T01-A: 管理 Microsoft 365 身份識別和存取'
+uid: course.ms-500t01
+courseNumber: 'MS-500T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 管理 Microsoft 365 中使用者和群組安全性
+- skill: 在 Microsoft 365 中管理密碼
+- skill: 描述 Azure 身分識別保護功能
+- skill: 計劃和實作 Azure AD Connect
+- skill: 管理已同步處理的身份識別
+- skill: 計劃實作同盟身份識別
+- skill: 描述和使用條件式存取
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-500
+summary: |-
+  使用身份識別和存取管理幫助防止憑據洩露。在本課程中，您將學習如何確保使用者存取組織資源。明確的說，本課程涵蓋使用者密碼保護，多重要素驗證，如何啟用 Azure 身份識別保護，如何配置 Active Directory 同盟服務，如何設定和使用 Azure AD Connect，並向您介紹條件式存取。您還將學習管理 Microsoft 365 系統的外部存取解決方案。
+
+  #### 對象設定檔
+  本課程適用於 Microsoft 365 安全性系統管理員角色。該角色與 Microsoft 365 企業系統管理員，企業利害關係和其他工作負載管理員共同作業以計劃和實作安全性策略，並確保解決方案符合組織的政策和法規。
+
+  本角色主動保護 Microsoft 365 企業環境。
+  責任包括回應威脅，實作，管理和監視 Microsoft 365 環境的安全性和合規性解決方案。他們回應事件，調查和強制資料控管。
+
+
+  Microsoft 365 安全性系統管理員熟悉 Microsoft 365 工作負載，並且在身份識別保護，資訊保護，威脅防護，安全性管理和資料控管方面擁有豐富的技能與經驗。此角色側重於 Microsoft 365 環境，且包括混合式環境。
+prerequisitesSection: |-
+  學習者應該已經具備以下技能才能開始本課程&#58;
+  - 對 Microsoft Azure 的基本概念瞭解。
+  - 使用 Windows 10 裝置的經驗。
+  - 使用Office 365的經驗。
+  - 對授權和驗證的基本瞭解。
+  - 對電腦網路的基本瞭解。
+  - 管理行動裝置的工作知識。
+outlineSection: |-
+  ### 模組 1&#58; 使用者和群組安全性
+  本模組說明如何在 Microsoft 365 中管理使用者帳號和群組。向您介紹Azure AD中的特權身份識別管理以及身份識別保護。該模組為課程的其餘部分奠定基礎。
+  #### 課程
+  - 在 Microsoft 365 的使用者帳號
+  - 在 Microsoft 365 中管理員角色和安全性群組
+  - Microsoft 365 中的密碼管理
+  - Azure AD身分識別保護
+
+
+  ### 實驗室 &#58; 管理您的 Microsoft 365 身分識別環境
+  - 設定您的實驗室環境
+  - 使用 Microsoft 365 系統管理中心管理 Microsoft 365 身份識別環境
+  - 指派服務管理員
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 Microsoft 365 中的使用者身份識別
+  - 從 Microsoft 365 系統管理中心和 Windows PowerShell 中創建使用者帳號
+  - 描述和使用 Microsoft 365 管理員角色
+  - 描述 Microsoft 365 中可用的各種類型的群組
+  - 計劃密碼原則和驗證
+  - 在 Office 365 中實作多重要素驗證
+  - 描述Azure身份識別保護以及可以保護哪種身份識別
+  - 描述如何啟用 Azure 身份識別保護
+  - 識別漏洞和風險事件
+
+
+  ### 模組 2&#58; 身分識別同步處理
+  本模塊說明關於同步處理身分識別的概念。明確的說，專注於 Azure AD Connect 和管理目錄同步處理，以確保合適人選連線到您的 Microsoft 365 系統。
+  #### 課程
+  - 身份識別同步處理簡介
+  - 計劃 Azure AD Connect
+  - 實作 Azure AD Connect
+  - 管理同步身份識別
+
+
+  #### 實驗室 &#58; 實作身分識別同步處理
+  - 設定您的組織以進行身分識別同步處理
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 Microsoft 365 身份識別驗證選項
+  - 說明目錄同步處理
+  - 計劃目錄同步處理
+  - 描述和實作 Azure AD Connect
+  - 配置 Azure AD Connect 必要條件
+  - 設定 Azure AD Connect
+  - 使用目錄同步處理管理使用者
+  - 使用目錄同步處理管理群組
+  - 使用 Azure AD Connect 同步處理安全性群組
+
+
+  ### 模組 3&#58; 同盟身分識別
+  本模組全部是關於 Active Directory 同盟服務（ADFS）。明確的說，您將學習如何計劃和管理 AD FS，以實作要從其他目錄向使用者提供的存取等級。
+  #### 課程
+  - 同盟識別身分簡介
+  - 計劃 AD FS部署
+  - 實作 AD FS
+
+  完成本單元後，學生將能夠&#58;
+  - 描述宣告式驗證和同盟驗證信任
+  - 描述 AD FS 如何工作
+  - 計劃 AD FS 環境，包括最佳做法，高可用性和容量計劃
+  - 在 Microsoft Azure 中計劃Active Directory 同盟驗證服務
+  - 安裝和配置 AD FS 的 Web 應用程式 Proxy
+  - 使用 Azure AD Connect 配置AD FS
+
+
+  ### 模組 4&#58; 存取管理
+  本模組描述 Microsoft 365 的條件式存取以及如何使用它來控制您的組織中存取資源。該模組還介紹角色型存取控制（RBAC）和外部存取的解決方案。
+  #### 課程
+  - 條件式存取
+  - 管理裝置存取
+  - 角色型存取控制 (RBAC)
+  - 外部存取的解決方案
+
+  完成本單元後，學生將能夠&#58;
+  - 描述條件式存取的概念
+  - 描述條件式存取原則
+  - 計劃裝置合規性
+  - 配置條件式使用者和群組
+  - 配置 RBAC
+  - 區分 Azure RBAC 和 Azure AD 管理角色
+  - 管理外部存取
+  - 解釋 Azure AD B2B 共同作業的授權指引
+

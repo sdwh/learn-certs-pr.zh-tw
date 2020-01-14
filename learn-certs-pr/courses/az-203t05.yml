@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: 監控，最佳化解決方法，並為其疑難排解故障
+metadata:
+  title: '課程 AZ-203T05-A: 監視，疑難​​排解和最佳化Azure解決方案'
+  description: '課程 AZ-203T05-A: 監視，疑難​​排解和最佳化Azure解決方案'
+uid: course.az-203t05
+courseNumber: 'AZ-203T05-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  在本課程中，學生將獲得確保Azure受控的應用程式按預期高效運行所需的知識和技能。學生將學習Azure Monitor的操作方式，以及如何使用Log Analytics和Application Insights之類的工具來更好地瞭解他們的應用程式中發生了什麼。學生還將學習如何實作自動縮放，對解決方案進行檢測以支援監視和日誌記錄，以及如何使用Azure快取和CDN選項來增強終端使用者體驗。
+
+  #### 對象設定檔
+  - 本課程的學生對Azure開發或透過Microsoft Azure開發人員助理認證測驗感興趣。
+  - 學生應具有1-2年的開發經驗。本課程假定學生知道如何編碼並具有Azure的基本知識。
+prerequisitesSection: |-
+  - 學生應具有1-2年的開發經驗。本課程假定學生知道如何編碼並具有Azure的基本知識。
+  - 建議學生具有在PowerShell或Azure CLI，在Azure入口中工作以及至少使用一種Azure支援的程式設計語言的經驗。本課程中的大多數示例都在C#.NET中提供。
+outlineSection: |-
+  ### 模組 1&#58; Azure Monitor簡介
+  Azure Monitor是一項中央服務，其中包括監視和最佳化解決方案所需的所有工具。
+  #### 課程
+  - Overview of Azure Monitor
+
+  完成本單元後，學生將能夠&#58; 
+  - 瞭解Azure Monitor的工作方式
+  - 瞭解Azure Monitor在何處以及如何收集資料
+
+
+  ### 模組 2&#58; 開發代碼以支援應用程式和服務的可伸縮性
+  本模組介紹應用程式如何擴展以及如何處理一些疑難​​排解。
+  #### 課程
+  - 實作自動縮放
+  - 實作解決單例應用程式實例的代碼
+  - 實作處理暫時性錯誤的代碼
+
+  完成本單元後，學生將能夠&#58; 
+  - 瞭解自動擴展模式和擴展解決方案的最佳做法
+  - 使用Azure CLI與資源的特定副本進行通訊
+  - 處理解決方案中的暫時性錯誤
+
+
+  ### 模組 3&#58; 支援監控和記錄的儀器解決方案
+  此模組涵蓋向您的應用程式添加代碼以將資料發送到Azure Monitor。
+  #### 課程
+  - 使用Application Insights在應用或伺服器中配置檢測
+  - 使用 Azure Monitor 分析與排疑解決方法
+
+  完成本單元後，學生將能夠&#58; 
+  - 向網頁，控制台應用程式和Windows桌面應用程式添加默認代碼以支援遙測
+  - 使用儀表板和其他工具監控其應用程式並進行疑難​​排解
+
+
+  ### 模組 4&#58; 將快取和內容交付整合到解決方案中
+  此模組向學生展示如何利用Azure Redis快取和Azure CDN更快地將資產交付給使用者。
+  #### 課程
+  - Azure Cache for Redis
+  - Develop for storage on CDNs
+
+  完成本單元後，學生將能夠&#58; 
+  - 瞭解Azure Redis快取的運行方式以及如何對其進行配置和互動
+  - Manage Azure CDN

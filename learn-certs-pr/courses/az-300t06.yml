@@ -1,0 +1,110 @@
+### YamlMime:Course
+title: 開發雲端
+metadata:
+  title: '課程 AZ-300T06-A: 開發雲端'
+  description: '課程 AZ-300T06-A: 開發雲端'
+uid: course.az-300t06
+courseNumber: 'AZ-300T06-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 如何設定一個以訊息為基礎的整合架構
+- skill: 瞭解如何開發非同步處理
+- skill: 開始創建用於自動縮放的應用程式
+- skill: 了解Azure認知服務解決方案
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  瞭解如何配置以訊息為基礎的整合架構，開發異步處理，創建用於自動縮放的應用程式，以及更好地瞭解Azure Cognitive Services解決方案。
+
+  #### 對象設定檔
+  成功的雲端解決方案架構師從在作業系統，虛擬化，雲端基礎結構，儲存結構，計費和網路方面的實踐經驗開始擔任此職務。
+outlineSection: |-
+  ### 模組 1&#58; 開發長期任務和分散式交易
+  本模組的主題包括&#58; 使用批處理實作大規模，並行和高性能的應用程式； 使用Microsoft Azure虛擬機器的HPC； 使用佇列實作彈性應用程式； 以及透過使用Webhooks實作代碼來解決應用程式事件。實作Webhook可以為外部資源提供應用程式的URL。 每當做出要求應用程式執行操作的更改時，外部資源就會向該URL發出HTTP請求。
+
+
+  ### 模組 2&#58; 配置以訊息為基礎的整合架構
+
+  #### 課程
+  - 配置應用或服務以發送電子郵件
+  - 配置事件發布和訂閱模型
+  - 配置Azure中繼服務
+  - 使用Microsoft Graph配置應用和服務
+  
+  完成本單元後，學生將能夠&#58; 
+  - 配置以訊息為基礎的整合架構
+
+
+  ### 模組 3&#58; 異步處理開發
+  #### 課程
+  - 實作並行性，多執行緒和處理
+  - 實作Azure功能和Azure邏輯應用
+  - 實作用於儲存或資料存取的介面
+  - 實作適當的異步計算模型
+  - 實作自動縮放規則和模式
+
+  完成本單元後，學生將能夠&#58; 
+  - 瞭解如何開發異步處理
+
+
+  ### 模組 4&#58; 自動縮放開發
+  #### 課程
+  - 實作自動縮放規則和模式
+  - 實作用於解決單例應用程式實例的代碼
+  - 實作解決暫時性的代碼
+
+  完成本單元後，學生將能夠&#58; 
+  - 開始創建用於自動縮放的應用
+
+
+  ### 模組 5&#58; 開發Azure認知服務解決方案
+  #### 課程
+  - 使用計算機視覺開發解決方案
+  - 使用Bing Web搜尋開發解決方案
+  - 使用自訂語音服務開發解決方案
+  - 使用QnA Maker開發解決方案
+
+  完成本單元後，學生將能夠&#58; 
+  - 瞭解Azure認知服務解決方案
+
+
+  ### 模組 6&#58; 為Azure儲存開發
+  #### 課程
+  - 開發使用Azure Cosmos DB儲存的解決方案
+  - 開發使用關係資料庫的解決方案
+  - 使用實體架構核心對資料庫建模
+  - 開發使用Microsoft Azure Blob 儲存體的解決方案
+  - 在.NET中操作Blob容器屬性
+
+  完成本單元後，學生將能夠&#58; 
+  - 瞭解Azure儲存服務，例如Blob和Cosmos DB

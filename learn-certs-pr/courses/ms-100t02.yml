@@ -1,0 +1,67 @@
+### YamlMime:Course
+title: Microsoft 365 租戶與服務管理
+metadata:
+  title: '課程 MS-100T02-A: Microsoft 365 租用戶和服務管理'
+  description: '課程 MS-100T02-A: Microsoft 365 租用戶和服務管理'
+uid: course.ms-100t02
+courseNumber: 'MS-100T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 規劃他們的 Microsoft 365 內部部署基礎結構
+- skill: 計劃他們的身份識別和驗證解決方案
+- skill: 規劃和配置他們的 Microsoft 365 體驗
+- skill: 利用 Microsoft 的 FastTrack 和合作夥伴服務
+- skill: 實作他們的網域服務
+- skill: 配置他們的 Microsoft 365 租用戶角色
+- skill: 管理他們的 Microsoft 365 租用戶健康狀況和服務
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  瞭解 Microsoft 365 租用戶和服務管理，包括如何計劃，管理和自訂組織的 Microsoft 365 租用戶和服務。
+
+  #### 對象設定檔
+  本課程適用於有志於 Microsoft 365 企業管理員角色並已完成 Microsoft 365 角色型的管理員認證途徑之一的人員。
+prerequisitesSection: |-
+  - 完成的角色型管理員課程，例如傳訊，團隊工作，安全性和合規性或共同作業。
+  - 對 DNS 的精通理解以及 Microsoft 365 服務的基本功能經驗。
+  - 精通理解一般的 IT 慣例。
+outlineSection: |-
+  ### 模組 1&#58; 設計您的 Microsoft 365 租用戶
+  #### 課程
+  - 規劃他們的 Microsoft 365 內部部署基礎結構
+  - 計劃您的身份識別和驗證解決方案
+
+
+  ### 模組 2&#58; 配置您的 Microsoft 365 租用戶
+  #### 課程
+  - 計劃您的 Microsoft 365 體驗
+  - 配置 Microsoft 365 體驗
+  - 利用 FastTrack 和合作夥伴服務
+  - 實作您的網域服務
+
+
+  ### 模組 3&#58; 管理您的 Microsoft 365 租用戶
+  #### 課程
+  - 配置租用戶角色
+  - 管理租用戶健康狀況和服務
+
+
+  ### 模組 4&#58; 實習實驗室
+
+  #### 實驗室 &#58; Microsoft 365 租用戶和服務管理"
+  - 演練 1&#58; 設定 Microsoft 365 試用租用戶
+  - 演練 2&#58; 管理 Microsoft 365 使用者，群組和管理
+  - 演練 3&#58; 配置版權管理和合規性
+  - 演練 4&#58; 監視 並進行疑難排解 Microsoft 365

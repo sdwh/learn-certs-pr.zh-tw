@@ -1,0 +1,79 @@
+### YamlMime:Course
+title: 了解Cloud Architect技術解決方案
+metadata:
+  title: '課程 AZ-300T03-A: 瞭解Cloud Architect技術解決方案的'
+  description: '課程 AZ-300T03-A: 瞭解Cloud Architect技術解決方案的'
+uid: course.az-300t03
+courseNumber: 'AZ-300T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 設計和連接模式
+- skill: 混合式網路
+- skill: 調整資料和快取的持久性
+- skill: 衡量資料存取的輸送量和結構Access
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  本課程向IT專業人員教授如何並行和異步進行操作。而且，發生失敗時，整個企業系統必須如何保持彈性，同樣重要的是，如何使部署自動化和可預測。透過使用《 Azure應用程式架構指南》和《 Azure參考架構》作為基礎，您將瞭解監視和遙測對於獲取對系統的瞭解至關重要。 
+
+  學生將學習重要的雲端設計模式，例如分區工作負載，其中將模組化應用程式劃分為可以整合到較大應用程式中的功能單元。在這種情況下，每個模組都處理應用程式整體功能的一部分，並代表一系列相關問題。 
+  
+  負載平衡是使用算法在各個端點之間指派應用程式流量或負載的地方。負載平衡器允許創建您的網站的多個實例，以便它們可以以可預測的方式運行。在Azure中，如果公司需要非常特定的負載平衡器配置，則可以使用虛擬機器中受控的虛擬負載平衡器。
+
+  此外，暫時性錯誤處理有助於定義內部部署開發應用程式與處理暫時性錯誤之間的主要區別。暫時性錯誤是由於服務中的臨時中斷或過長的延遲而發生的錯誤。 
+
+  最後，本課程包括對混合網路的討論，概述了網站到網站的連接，點對網站的連接以及兩者的結合。
+
+  #### 對象設定檔
+  成功的Azure解決方案架構師首先要具備作業系統、虛擬化、雲端基礎設施、儲存結構、計費和網路方面的經驗。
+outlineSection: |-
+  ### 模組 1&#58; 選擇計算和儲存解決方案
+  本模組包括以下主題&#58; Azure建築中心； 雲端設計模式； 競爭消費者模式； 快取模式 以及用於將資料存放區劃分為水平分區或分片的分片模式。每個分片都具有相同的架構，但是擁有自己的獨特資料子集。
+
+  完成本單元後，學生將瞭解&#58; 
+  - 設計和連接模式
+
+
+  ### 模組 2&#58; 混合網路
+  本模組包括以下主題&#58; 網站到網站的連接； 點到網站連接； 結合網站到網站和點到網站的連接； 虛擬網路到虛擬網路的連接； 以及跨雲端提供商進行連接以進行失敗轉移，備份，甚至在諸如AWS之類的提供商之間移轉。
+  
+  完成本單元後，學生將瞭解&#58; 
+  - 混合網路
+
+
+  ### 模組 3&#58; 測量吞吐量和資料存取結構
+  本模組包括以下主題&#58; DTU – Azure SQL資料庫； RU – Azure Cosmos資料庫； 結構化和非結構化資料； 和使用結構化資料存放區
+
+  完成本單元後，學生將能夠&#58; 
+  - 解決資料和快取的持久性
+  - 測量輸送量和資料存取結構

@@ -1,0 +1,119 @@
+### YamlMime:Course
+title: 管理 Microsoft 365 內建合規性
+metadata:
+  title: '課程 MS-500T04-A: 管理 Microsoft 365 內建合規性'
+  description: '課程 MS-500T04-A: 管理 Microsoft 365 內建合規性'
+uid: course.ms-500t04
+courseNumber: 'MS-500T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 計劃和部署資料封存和保留系統
+- skill: 在合規性管理員中執行評估
+- skill: 透過 Exchange 管理電子郵件保留
+- skill: 進行稽核記錄調查
+- skill: 創建和管理eDiscovery調查
+- skill: 管理 GDPR 資料主體要求
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-500
+summary: |-
+  您的組織可能需要內部原則和資料保留和調查的外部要求。在本課程中，您將學習在Microsoft 365中進封存和保留以及資料控管以及如何進行內容搜尋和調查。明確的說，本課程涵蓋資料保留原則和標籤，SharePoint 的就地記錄管理，電子郵件保留以及如何進行支援eDiscovery調查的內容搜尋。該課程還可以幫助您的組織準備一般資料保護規範（GDPR） 。
+
+  #### 對象設定檔
+  本課程適用於 Microsoft 365 安全性系統管理員角色。該角色與 Microsoft 365 企業系統管理員，企業利害關係和其他工作負載管理員共同作業以計劃和實作安全性策略，並確保解決方案符合組織的政策和法規。
+
+  本角色主動保護 Microsoft 365 企業環境。責任包括回應威脅，實作，管理和監視 Microsoft 365 環境的安全性和合規性解決方案。他們回應事件，調查和強制資料控管。
+
+  Microsoft 365 安全性系統管理員熟悉 Microsoft 365 工作負載，並且在身份識別保護，資訊保護，威脅防護，安全性管理和資料控管方面擁有豐富的技能與經驗。此角色側重於 Microsoft 365 環境，且包括混合式環境。
+prerequisitesSection: |-
+  學習者應該已經具備以下技能才能開始本課程&#58;
+  - 對 Microsoft Azure 的基本概念瞭解。
+  - 使用 Windows 10 裝置的經驗。
+  - 使用Office 365的經驗。
+  - 對授權和驗證的基本瞭解。
+  - 對電腦網路的基本瞭解。
+  - 管理行動裝置的工作知識。
+outlineSection: |-
+  ### 模組 1&#58; 封存和保留
+  本模組說明與 Microsoft 365（包括 Exchange 和 SharePoint）的資料保留和封存有關的概念。
+
+  #### 課程
+  - Microsoft 365中的封存
+  - Microsoft 365中的保留
+  - 在安全性和合規性中心中創建保留原則
+  - 在 Exchange 中實作封存和保留
+  - 在 SharePoint 中就地記錄管理
+
+
+  ### 實驗室 &#58; 封存和保留
+  - 在您的組織中創建並授權使用者
+  - 配置保留標記和原則
+  - MRM保留原則
+
+  完成本模組後，您將能夠&#58;
+  - 描述 Microsoft 365 中的資料控管。
+  - 描述就地封存和記錄管理之間的區別。
+  - 說明如何在 Exchange 中封存資料。
+  - 辨識到 SharePoint 中就地記錄管理的好處。
+  - 說明 Exchange 中的郵件記錄管理（MRM）與安全性和合規性中心保留之間的差異。
+  - 說明保留原則如何運作。
+  - 創建保留原則。
+  - 啟用和停用就地封存。
+  - 創建有用的保留標記。
+
+
+  ### 模組 2&#58; 在 Microsoft 365 中的資料控管
+  本模組著重於 Microsoft 365中的資料控管。該模組將向您介紹合規性管理員並討論 GDPR。
+  #### 課程
+  - 計劃安全性和合規性需求
+  - 在 Exchange Online 中建立道德管束
+  - 管理電子郵件中的保留
+  - 疑難排解資料控管
+  - 分析和遙測
+
+  完成本模組後，您將能夠&#58;
+  - 計劃安全性和合規性角色。
+  - 描述您需要為 GDPR 考慮的內容。
+  - 描述 Exchange 中的道德管束是什麼以及如何運作。
+  - 使用信箱中的保留標記
+  - 使用電子郵件訊息和電子郵件資料夾描述保留原則
+  - 說明如何計算元素的保留天數。
+  - 修復未以預期方式執行的保留策略。
+
+
+  ### 模組 3&#58; 管理搜尋和調查
+  該模組著重於內容搜尋和調查。明確的說，涵蓋如何使用eDiscovery對 Microsoft 365 資料進行進階調查。同時涵蓋稽核紀錄，並討論 GDPR 資料主體要求。
+  #### 課程
+  - 在安全性和合規性中心中搜尋內容
+  - 稽核記錄調查
+  - 進階eDiscovery
+
+
+  #### 實驗室 &#58; eDiscovery
+  - 在您的組織中創建並授權使用者
+  - 調查您的 Microsoft 365 資料
+
+  完成本模組後，您將能夠&#58;
+  - 描述如何使用內容搜尋。
+  - 設計內容搜尋。
+  - 配置搜尋權限篩選。
+  - 描述什麼是稽核紀錄以及搜尋 Office 365 稽核紀錄所需的權限。
+  - 配置稽核原則。
+  - 輸入搜尋稽核原則的條件。
+  - 將搜尋結果匯出到 CSV 檔案。
+  - 描述什麼是進階eDiscovery以及需要哪些要求。
+  - 分析在進階eDiscovery中的資料。
+  - 檢視進階eDiscovery事件記錄檔。
+  - 使用 Express Analytics。
+

@@ -1,0 +1,79 @@
+### YamlMime:Course
+title: 開發作為服務計算解決方法的 Azure 基礎架構
+metadata:
+  title: '課程 AZ-203T01-A: 開發Azure基礎結構即服務計算解決方案'
+  description: '課程 AZ-203T01-A: 開發Azure基礎結構即服務計算解決方案'
+uid: course.az-203t01
+courseNumber: 'AZ-203T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  在本課程中，學生將獲得在其開發解決方案中實作Azure IaaS服務和功能所需的知識和技能。該課程涵蓋調配虛擬機器，使用批處理服務部署/維護資源以及如何使用Azure Kubernetes Service創建容器化解決方案。
+
+  #### 對象設定檔
+  - 本課程的學生對Azure開發或透過Microsoft Azure開發人員助理認證測驗感興趣。
+prerequisitesSection: |-
+  - 學生應具有1-2年的開發經驗。本課程假定學生知道如何編碼並具有Azure的基本知識。
+  - 建議學生具有在PowerShell或Azure CLI，在Azure入口中工作以及至少使用一種Azure支援的程式設計語言的經驗。本課程中的大多數示例都在C＃.NET中提供。
+outlineSection: |-
+  ### 模組 1&#58; 使用虛擬機器的解決方案
+  學生將學習如何正確規劃VM部署。它涵蓋透過使用Azure入口，PowerShell和透過代碼創建VM。它還介紹範本如何創建和使用Azure資源管理器(ARM)進行可重複的部署，以及如何使用Azure磁碟加密來保護VM上的資訊。
+  #### 課程
+  - 供應虛擬機器
+  - 創建ARM範本
+  - 為VM配置Azure磁碟加密
+
+  完成本單元後，學生將能夠&#58; 
+  - 瞭解如何使用Azure入口，PowerShell和代碼來創建和部署虛擬機器。
+  - 瞭解如何使用Azure入口和Visual Studio創建和部署ARM。
+  - 瞭解不同的加密選項，並瞭解如何對現有和新部署進行加密。
+
+
+  ### 模組 2&#58; 使用Azure批處理服務實作批處理作業
+  Azure Batch創建和管理計算節點（虛擬機器）集區，安裝要運行的應用程式，併規劃要在節點上運行的作業。
+  #### 課程
+  - Azure批處理概述
+  - 使用Azure CLI和Azure入口運行批處理作業
+  - 使用代碼運行批處理作業
+  - 使用批處理服務API管理批處理作業
+
+  完成本單元後，學生將能夠&#58; 
+  - 瞭解Azure Batch服務的工作方式
+  - 瞭解如何使用Azure CLI創建和運行批處理作業
+  - 瞭解如何使用代碼創建和運行批處理作業
+  - 瞭解如何使用Azure Batch Service API管理作業
+
+
+  ### 模組 3&#58; 創建容器化解決方案
+  您可以構建和運行基於Kubernetes編排和管理這些應用程式組件可用性的現代，可移植，基於微服務的應用程式。隨著團隊透過採用基於微服務的應用程式而進步，Kubernetes支援無狀態和有狀態應用程式。
+  #### 課程
+  - 建立一個 Azure 受控 Kubernetes 服務 (AKS) 叢集
+  - 為解決方法建立容器映像
+  - 向 Azure 容器註冊表發佈一個映像
+  - 透過使用 Azure 容器執行個體或 AKS 運行容器
+
+  完成本單元後，學生將能夠&#58; 
+  - Learn core concepts for AKS
+  - Learn how to deploy AKS clusters
+  - 向 Azure 容器註冊表發佈一個映像
+  - Learn about Azure Container Instances and how to deploy to them

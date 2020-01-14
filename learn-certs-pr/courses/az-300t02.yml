@@ -1,0 +1,83 @@
+### YamlMime:Course
+title: 實作工作負載和安全性
+metadata:
+  title: '課程 AZ-300T02-A: 實作工作負載和安全性'
+  description: '課程 AZ-300T02-A: 實作工作負載和安全性'
+uid: course.az-300t02
+courseNumber: 'AZ-300T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 評估並執行伺服器移轉到Azure
+- skill: 實作和管理應用程式服務
+- skill: 實作高階虛擬網路
+- skill: 使用Azure AD保護身份識別
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  本課程教授IT專業人員如何發現、評估、規劃和實作將內部資源和基礎設施移轉到Azure。學生將學習如何使用Azure移轉來執行對成功移轉至關重要的發現和評估階段。學生還將學習如何使用Azure網站恢復來執行工作負載到Azure的實際移轉。本課程主要關注在Hyper-V基礎設施上使用ASR來準備和完成移轉過程。 
+
+  此外，學生將學習如何部署無伺服器計算特性，如Azure函數、事件網格和服務匯流排。學生將學習Azure多因素身份識別驗證如何幫助保護對資料和應用程式的存取，幫助滿足客戶對簡單登錄過程的需求。此外，學生還將學習如何使用Azure Active Directory特權身份識別管理來管理、控制和監視對組織內Azure資源的存取。
+
+  瞭解如何管理和維護開發人員構建和部署的核心web應用程式和服務的基礎設施。學生將學習Azure應用程式服務如何被用作一個平臺即服務(PaaS)，用於在web和行動環境中部署雲端應用程式。
+
+  最後，學生將瞭解如何實作高階網路功能，如應用閘道器；如何配置負載平衡；將內部網路與Azure虛擬網路整合；以及如何使用網路監看員來監視和排除問題。
+
+  #### 對象設定檔
+  成功的Azure解決方案架構師首先要具備作業系統、虛擬化、雲端基礎設施、儲存結構、計費和網路方面的經驗。
+outlineSection: |-
+  ### 模組 1&#58; 評估和執行伺服器移轉到Azure
+  該模組將工作負載移轉到一個新環境(無論是另一個資料中心還是公共雲端)，併爲移轉設定明確的目標。目標包括以技術爲中心和以商務爲中心的移轉目標，以及對組織商務的好處。活動包括Azure移轉過程的組件&#58;創建一個專案，創建一個收集器，評估準備情況，並估計成本。此外，您還將收到Azure網站恢復(ASR)的概述，其中包括端到端場景。
+
+  完成本單元後，學生將能夠&#58; 
+  - 評估並執行伺服器移轉到Azure
+
+
+  ### 模組 2&#58; 實施和管理應用程式服務
+  本模組包括以下主題&#58;部署Web應用程式；管理Web應用程式；應用服務安全；Serverless計算概念；管理事件網格；管理服務匯流排；和管理邏輯應用程式。
+
+  完成本單元後，學生將能夠&#58; 
+  - 實作與管理應用程式服務
+
+
+  ### 模組 3&#58; 實作進階虛擬網路
+  本模組包括以下主題&#58;Azure負載平衡器；Azure應用閘道器；網站VPN連接；以及ExpressRoute的概述，它允許公司透過連接提供商提供的專用私有連接將內部網路擴展到Microsoft雲端。
+
+  完成本單元後，學生將能夠&#58; 
+  - 實作高階虛擬網路
+
+
+  ### 模組 4&#58; 保護身份識別
+  本模組包括以下主題，重點是身份識別和角色&#58; Azure AD身份識別保護； Azure網域和租用戶； Azure使用者和組； Azure角色； 以及側重於Azure AD Connect以將內部目錄與Azure Active Directory整合的Azure AD整合選項的概述。
+
+  完成本單元後，學生將能夠&#58; 
+  - Secure identities using Azure AD.

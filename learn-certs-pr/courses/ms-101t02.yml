@@ -1,0 +1,114 @@
+### YamlMime:Course
+title: Microsoft 365 致性管理
+metadata:
+  title: '課程 MS-101T02-A: Microsoft 365 合規性管理'
+  description: '課程 MS-101T02-A: Microsoft 365 合規性管理'
+uid: course.ms-101t02
+courseNumber: 'MS-101T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: '理解 Microsoft 365 中的資料控管，包括: 封存、保留、資訊版權管理、安全多用途網際網路郵件擴充（S/MIME）、Office 365 郵件加密和資料外洩防護'
+- skill: 在 SharePoint 中實作就地記錄管理
+- skill: 在 Exchange 中實作封存和保留
+- skill: 在安全性和合規性中心中創建保留原則
+- skill: 計劃他們的安全性和合規性需求
+- skill: 在 Exchange Online 中建立道德管束
+- skill: 從內建範本創建 DLP 原則
+- skill: 創建自訂 DLP 原則
+- skill: 創建 DLP 原則以保護文件
+- skill: 實作原則提示
+- skill: 管理電子郵件中的保留
+- skill: 疑難排解資料控管
+- skill: 實作資訊保護
+- skill: 實作進階實作防護
+- skill: 瞭解 Windows 資訊保護
+- skill: 在安全性和合規性中心中搜尋內容
+- skill: 稽核記錄調查
+- skill: 管理進階eDiscovery
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  瞭解 Microsoft 365 合規性管理，包括 Microsoft 365 中的資料保留和資料外洩防護解決方案，Microsoft 365 中的封存和保留，實作和管理資料控管以及管理搜尋和調查。
+
+  #### 對象設定檔
+  本課程適用於有志於 Microsoft 365 企業管理員角色並已完成 Microsoft 365 角色型的管理員認證途徑之一的人員。
+prerequisitesSection: |-
+  - 完成的角色型管理員課程，例如傳訊，團隊工作，安全性和合規性或共同作業。
+  - 對 DNS 的精通理解以及 Microsoft 365 服務的基本功能經驗。
+  - 精通理解一般的 IT 慣例。
+outlineSection: |-
+  ### 模組 1&#58; Microsoft 365 中的資料控管簡介
+  #### 課程
+  - Microsoft 365 中的封存簡介
+  - Microsoft 365 中的保留簡介
+  - 資訊版權管理簡介
+  - 安全多用途網際網路郵件擴充簡介
+  - Office 365 郵件加密簡介
+  - 資料外洩防護簡介
+
+
+  ### 模組 2&#58; Microsoft 365 中的封存和保留
+  #### 課程
+  - 在 SharePoint 中就地記錄管理
+  - 在 Exchange 中實作封存和保留
+  - SCC 中的保留原則
+  - 實作您的網域服務
+
+
+  ### 模組 3&#58; 實作在 Microsoft 365 Intelligence 中的資料控管
+  #### 課程
+  - 計劃您的安全性和合規性需求
+  - 在 Exchange Online 中建立道德管束
+  - 從內建範本創建簡單 DLP 原則
+  - 創建自訂 DLP 原則
+  - 創建 DLP 原則以保護文件
+  - 使用原則提示
+
+
+  ### 模組 4&#58; 在 Microsoft 365 中管理資料控管
+  #### 課程
+  - 管理電子郵件中的保留
+  - 疑難排解資料控管
+  - 實作資訊保護
+  - 實作進階實作防護
+  - Windows 資訊保護簡介
+
+
+  ### 模組 5&#58; 管理搜尋和調查
+  #### 課程
+  - 在安全性和合規性中心中搜尋內容
+  - 稽核記錄調查
+  - 管理進階eDiscovery
+
+
+  ### 模組 6&#58; 實習實驗室
+
+  ### 實驗室 &#58; 設定您的實驗室環境
+  - 演練 1&#58; 初始化組織中的合規性
+
+
+  ### 實驗室 &#58; Microsoft 365 中的封存和保留
+  - 演練 1&#58; 配置保留標記和原則
+  - 演練 2&#58; 配置 AIP 和 WIP
+
+
+  #### 實驗室 &#58; 實作資料控管
+  - 演練 1&#58; 測試 DLP 原則
+  - 演練 2&#58; 使用 Azure 資訊保護
+  - 演練 3&#58; 使用 Windows 資訊保護
+
+
+  #### 實驗室 &#58; 驗證您的資料控管政策
+  - 演練 1&#58; 調查您的 Microsoft 365 資料

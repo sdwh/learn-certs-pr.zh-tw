@@ -1,0 +1,110 @@
+### YamlMime:Course
+title: 'Dynamics 365: Power Platform 應用程式'
+metadata:
+  title: '課程 MB-200T01-A: Dynamics 365: Power Platform 應用程式'
+  description: '課程 MB-200T01-A: Dynamics 365: Power Platform 應用程式'
+uid: course.mb-200t01
+courseNumber: 'MB-200T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 識別平台元件。
+- skill: 理解管理員選項
+- skill: 有效地對資料建模。
+- skill: 在 Power Platform 上構建基本的模型驅動式應用程式。
+- skill: 在 Power Platform 上構建基本的畫布應用程式。
+- skill: 使用安全性管理使用者對資料和功能的存取。
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  Microsoft Power Platform 透過自動化例行任務和標準化最佳實作來協助組織最佳化其營運。本訓練提供 Microsoft Dynamics 365 和 Power Platform 的高等級功能概觀，並為其他 Microsoft Dynamics 365 和 Power Platform 訓練產品提供基礎。
+
+  在本課程中，我們全球認可的專家將與學生分享基礎知識，以讓他們準備在 Power Platform 上構建應用程式。
+
+  #### 對象設定檔
+  Dynamics 365 客戶參與功能顧問負責執行發現，擷取需求，吸引主題專家和利益相關者參與，翻譯需求以及配置解決方案和應用程式。功能顧問使用現成功能，無程式碼擴充性，應用程式和服務整合來實作解決方案。
+prerequisitesSection: |-
+  本課程適用於有志於 Microsoft 365 企業管理員角色並已完成 Microsoft 365 工作負載管理員認證途徑之一的人員。
+outlineSection: |-
+  ### 模組 1&#58; 平台概述
+  在本模組中，學生將學習 Power Platform 的基礎知識。他們將瀏覽各種管理員入口網站和選項，以及安裝應用程式。
+  #### 課程
+  - 概述
+  - 配置Power Platform環境
+  - 創建應用程式
+  - 發現和計劃
+  - 模組摘要
+
+  完成本單元後，學生將能夠&#58;
+  - 識別常見的平台元件及其用途
+
+
+  ### 模組 2&#58; 數據建模
+  在本模組中，學生將學習如何使用平台的實體，屬性和關係有效地對資料建模。
+  #### 課程
+  - 資料模組基礎
+  - 關係
+  - 其他實體選項
+  - 其他欄位選項
+  - 國際化
+  - 模組摘要
+
+  完成本單元後，學生將能夠&#58;
+  - 創建和使用關係和實體
+
+
+  ### 模組 3&#58; 模型驅動式應用程式
+  在本模組中，學生將學習模型驅動式應用程式以及如何配置和使用它們。
+  #### 課程
+  - 配置模型驅動式應用程式
+  - 配置模型驅動式表單
+  - 配置檢視表
+  - 配置模型驅動式圖表
+  - 配置模型驅動式儀表板
+  - 配置報告
+  - 模組摘要
+
+  完成本單元後，學生將能夠&#58;
+  - 創建和修改表單，檢視表，儀表板和其他用戶體驗元件
+
+
+  ### 模組 4&#58; 畫布應用程式
+  在本模組中，學生將學習如何創建和使用畫布應用程式，以及畫布應用程式和模型驅動式應用程式之間的差異。
+  #### 課程
+  - 應用程式基礎
+  - 處理資料和服務
+  - 自訂使用者體驗
+  - 整合模型驅動式應用程式
+  - 模組摘要
+
+  完成本單元後，學生將能夠&#58;
+  - 創建畫布應用程式
+  - 使用CDS資料
+
+
+  ### 模組 5&#58; 安全性
+  在本模組中，學生將學習平台的安全模型如何管理使用者體驗以及對資料和功能的訪問。
+  #### 課程
+  - 安全概述
+  - 商務單位
+  - 管理安全角色
+  - 管理團隊
+  - 配置階層安全性
+  - 模組摘要
+
+  完成本單元後，學生將能夠&#58;
+  - 創建和使用商務單位。
+  - 創建，修改和使用安全角色

@@ -1,0 +1,140 @@
+### YamlMime:Course
+title: Dynamics 365 for Finance and Operations 的核心共同特徵
+metadata:
+  title: '課程 MB-300T01-A: Dynamics 365 for Finance and Operations 的核心共同特徵'
+  description: '課程 MB-300T01-A: Dynamics 365 for Finance and Operations 的核心共同特徵'
+uid: course.mb-300t01
+courseNumber: 'MB-300T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  組織使用 Dynamics 365 for Finance and Operations 以降低營運成本並快速回應不斷變化的商務需求。該解決方案使組織可以實現這些目標。 
+
+  本課程討論 Microsoft Dynamics 365 for Finance and Operations 的核心元件。
+
+  #### 對象設定檔
+  Dynamics 365 客戶參與功能顧問負責執行發現，擷取需求，吸引主題專家和利害關係人參與，翻譯需求以及配置解決方案和應用程式。功能顧問使用現成功能，無程式碼擴充性，應用程式和服務整合來實作解決方案。
+prerequisitesSection: |-
+  基本理解 ERP 和 CRM 概念。
+outlineSection: |-
+  ### 模組 1&#58; Dynamics 365 for Finance and Operation 入門
+  本模組提供理解什麼是 Dynamics 365 for Finance and Operations，以及所支援的產業。
+  描述Finance and Operations （財務和營運）的模組，此類模組中功能的目的以及它們如何支援產業特定領域。
+  #### 課程
+  - 簡介
+  - 產業重點
+  - 財務管理簡介
+  - 員工管理簡介
+  - 供應鏈管理簡介
+  - 模組摘要
+
+  學生將理解什麼是 財務和運營中的，以及所支援的產業。他們將熟悉財務和運營中的模組，且那些模組中功能的目的以及它們如何支援產業特定領域。
+
+  ### 模組 2&#58; 生命週期服務入門
+  Microsoft Dynamics 生命週期服務（LCS）是一個協作工作區，客戶及其合作夥伴使用來管理 Dynamics 365 for Finance and Operations，從售前到實作以及最後到生產環境，無論是在雲端還是內部部署。它提供了有助於管理專案的清單和工具，包括可以幫助管理實作過程的方法。
+  #### 課程
+  - 理解生命週期服務的功能和工具
+  - 重用現有資產，複製和共享資料
+  - 理解任務記錄器功能
+  - 創建業務流程模型
+  - 執行LCS問題搜尋工具並分析結果
+  - 瞭解如何使用 Regression Suite 自動化工具
+  - 練習實驗室
+  - 模組摘要
+
+  學生將能夠&#58;
+  - 理解用於財務和營運的 LCS 的功能和工具
+  - 重用現有資產，複製和共享資料
+  - 理解任務記錄器功能
+  - 創建業務流程模型
+  - 使用業務流程模型（BPM）識別和分析差距
+  - 執行LCS問題搜尋工具並分析結果
+
+
+  ### 模組 3&#58; 使用生命週期服務進行設計和計劃
+  透過適當的計劃，Dynamics 365 for Finance and Operations 實施將會成功。在客戶簽署購買財務和營運授權的合約後，作為功能顧問的工作首先是管理應用程式生命週期，並朝著可預測，可重複的高品質實作邁進。
+  #### 課程
+  - 簡介
+  - 雲端實作階段
+  - 內部部署實作的各個階段
+  - 創建功能設計文件（FDD）
+  - 模組摘要
+
+  學生將能夠&#58;
+  - 使用 LCS 中的方法為收集的需求準備文件
+  - 定義用案件場景
+  - 參與功能需求文件（FRD）的創建
+  - 理解創建和維護文件化流程的重要性
+  - 參與階段型的計劃流程和解決方案設計
+  - 根據提出的解決方案描述未來狀態商務流程
+  - 確定何時建造與購買
+  - 創建功能設計文件（FDD）
+
+
+  ### 模組 4&#58; 報告和分析概觀
+  Dynamics 365 for Finance and Operations 中的報告可以簡單定義為資料結構化表示。
+  在理想情況下，報告以允許使用者做出最新決定的方式具體化資料。
+  財務和營運支援廣泛的資訊存取方案。
+  #### 課程
+  - 理解報告和查詢
+  - 瞭解財務報告
+  - 將PowerBI配置為實例
+  - 練習實驗室
+  - 模組摘要
+
+  學生將學到&#58;
+  - 財務和營運中不同類型的報告和查詢
+  - 財務報告
+  - 為Microsoft Power Platform配置財務和營運
+
+
+  ### 模組 5&#58; 建立和測試行動應用程式
+  本模組說明 Dynamics 365 for Finance and Operations 行動應用程式的準則和設計模式。此外，還說明如何根據使用案件方案建立和測試行動應用程式。
+  行動平台可輕鬆更改表單和行動應用程式定義，以包括針對 Finance and Operations 進行的自訂。
+  行動應用程式可實現豐富的離線和行動互動，並提供易於使用的設計師體驗。開發人員可以在 Microsoft Visual Studio 中創建簡化的表單，然後設計公開此功能的行動應用程式。
+  #### 課程
+  - 統一操作行動應用程式概觀
+  - 建立和使用行動應用程式
+  - 練習實驗室
+  - 模組摘要
+
+  學生將學習如何創建行動應用程式並將其發佈在 Finance and Operations 中。
+  理解行動應用程式的設計考量有助於創建行動應用程式以符合現代應用程式的使用者體驗。學生還已經瞭解到，要使用 Finance and Operations 並與之配合使用，他們需要下載 Microsoft Dynamics 365 Unified Operations 應用程式。
+  此外，他們還已經發現如何執行 Dynamics 365 Unified Operations 應用程式以連線到 Finance and Operations，以及如何使用已發佈的行動應用程式並下拉即可重新整理資料。
+
+  ### 模組 6&#58; 創建，維護和使用工作流程
+  工作流程代表商務程序。它透過顯示誰必須完成工作，做出決定或核准文件來定義文件如何在系統中流動或移動。
+
+  一些組織要求特定的程序由輸入記錄的人以外的使用者核准。這些工作流程程序可能需要手動核准，工作流程核准或不核准。
+  #### 課程
+  - 商務流程的工作流程
+  - 創建和設定工作流程。
+  - 為使用者分配工作流程接觸點
+  - 使用工作項目
+  - 練習實驗室
+  - 模組摘要
+
+  在本模組中，學生學習如何透過使用工作流程來套用自動化，並發現定義特定類型可以使企業控制關鍵劉程中的每個步驟。學生還瞭解到，工作流程可以用作程序步驟，使用核准多種日誌類型。此外，他們瞭解到可以為每個工作流程定義多個版本並修改現有工作流程而無需刪除原始工作流程。
+  這些工作流程程序可能需要手動核准，工作流程核准或不核准。在理解工作流程架構、元素和動作之後，他們隨後學習如何設定工作流程，配置工作流程屬性以及在工作流中新增手動或自動任務。最後，他們學習如何在工作流程中配置核准程序，將使用者分配給工作流程接觸點，在工作流程中配置核准步驟以及使用工作項目功能來處理工作流程。
+
+  ### 模組 7&#58; 課程總結
+  最終評估和課程摘要，以及課程的課程後調查。
+  #### 課程
+  - 最終評估
+  - 課程摘要
+  - 課後調查
+
+  學生將完成課程。

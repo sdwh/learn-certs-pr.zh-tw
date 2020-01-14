@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: 設計與實作 Azure AI 解決方法
+metadata:
+  title: '課程 AI-100T01-A: 設計和實作 Azure AI 解決方案'
+  description: '課程 AI-100T01-A: 設計和實作 Azure AI 解決方案'
+uid: course.ai-100t01
+courseNumber: 'AI-100T01-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- ai-engineer
+products:
+- azure
+- azure-cognitive-services
+- azure-bot-service
+- azure-machine-learning-service
+- azure-machine-learning-studio
+- azure-search
+exams:
+- uid: exam.ai-100
+summary: |-
+  透過使用來自Microsoft Azure平台的人工智慧來構建客戶支援聊天機器人，從而獲得設計Azure AI解決方案的必要知識，包括語言理解和Azure認知服務中的預建AI功能。
+
+  #### 對象設定檔
+  本課程面向雲端解決方案架構師，Azure人工智慧設計師和AI開發人員。
+prerequisitesSection: |-
+  在參加本課程之前，學生必須具備&#58; 
+  - Azure Fundamentals
+  - 瞭解Azure儲存技術
+  - C＃知識
+outlineSection: |-
+  ### 模組 1&#58; Azure認知服務簡介
+  該學生將瞭解Microsoft Azure上可用的認知服務及其在構建AI解決方案中的作用。
+  #### 課程
+  - Azure認知服務概述
+  - 在Azure入口上創建認知服務
+  - 存取和測試認知服務
+
+
+  ### 模組 2&#58; 建立機器人
+  該學生將瞭解Microsoft Bot Framework和Bot Services。
+  #### 課程
+  - 介紹Bot服務
+  - 創建一個基本的聊天機器人
+  - 使用Bot模擬器進行測試
+
+
+  ### 模組 3&#58; 使用QnA Maker增強機器人
+  學生將瞭解QnA Maker以及如何將Bot和QnA Maker整合在一起以建立有用的知識庫來進行使用者交互。
+  #### 課程
+  - 介紹QnA Maker
+  - 透過QnA Maker實作知識庫
+  - 將QnA與Bot整合
+
+
+  ### 模組 4&#58; 學習如何使用LUIS創建語言理解功能
+  學生將學習有關意圖和話語的語言理解(LUIS)，以及如何創建意圖和話語以支援自然語言處理解決方案。
+  #### 課程
+  - 介紹語言理解
+  - 創建一個新的LUIS服務
+  - 建立LUIS
+
+
+  ### 模組 5&#58; 透過LUIS增強您的機器人
+  該學生將學習如何將LUIS與Bot整合在一起，以更好地瞭解使用者與Bot交互時的意圖。
+  #### 課程
+  - AI應用程式的語言理解概述
+  - 整合LUIS和Bot以創建基於AI的解決方案
+
+
+  ### 模組 6&#58; 將認知服務與Bot和Agent整合
+  該學生將學習如何將Bot和Agent與Azure認知服務整合在一起以實作高階功能，例如情感分析，圖像和文本分析以及OCR和對象檢測。
+  #### 課程
+  - 瞭解Bot互動的認知服務
+  - 使用文本分析為您的機器人執行情感分析
+  - 透過語言認知服務檢測機器人中的語言
+  - 將計算機視覺與Bot整合

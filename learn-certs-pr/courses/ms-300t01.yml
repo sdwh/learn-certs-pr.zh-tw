@@ -1,0 +1,102 @@
+### YamlMime:Course
+title: 管理 Office 365 內容服務
+metadata:
+  title: '課程 MS-300T01-A: 管理 Office 365 內容服務'
+  description: '課程 MS-300T01-A: 管理 Office 365 內容服務'
+uid: course.ms-300t01
+courseNumber: 'MS-300T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 配置 SharePoint 網站集合
+- skill: 管理網站集合儲存空間限制
+- skill: 部署商務用 OneDrive 同步處理用戶端
+- skill: 使用群組原則來控制 OneDrive 同步處理用戶端設定
+- skill: 在 SharePoint Online 和商務用 OneDrive 中管理資料的外部共用
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  內容是每個組織最關鍵的數位資產。在本課程中，您將學習如何計劃，配置和管理 SharePoint 網站集合和商務用 OneDrive，以啟用可轉換內容生命週期的現代內容服務。明確的說，本課程討論現代 SharePoint 網站結構，例如 SharePoint 中樞網站。提供在組織內採用和部署商務用 OneDrive for Business 的最佳做法。同時涵蓋 SharePoint Online 和商務用 OneDrive for business 中的共享、安全性和監視。
+
+  本課程適用於在組織中部署和管理團隊工作基礎結構的 IT 專業人員。
+
+  這是針對團隊工作管理員角色在一系列的四門課程中的第一門課程。這些課程幫助準備 MS-300 測驗&#58; 部署 Microsoft 365 團隊工作。
+
+  #### 對象設定檔
+  本課程適用於 Microsoft 365 團隊工作管理員角色。此角色負責配置、部署與管理專注於高效率，有效的共同作業與採用的 Office 365 與 Azure 工作負載。他們管理應用程式，服務和支援基礎結構構，以滿足商務需求。管理員知道並可以區分產品和服務，但可能無法直接管理每個產品或服務。
+
+  Teamwork 管理員必須能夠部署，管理，轉移與保護 SharePoint（線上，本地與混合），OneDrive 與團隊。
+
+  Teamwork 管理員對以下應用程式和服務的整合點有基本的理解&#58; Office，PowerApps，Flow，Yammer，Microsoft Graph，Stream，Planner 和 Project。管理員理解如何整合協力廠商應用程式與服務，包括商務營運應用程式。
+prerequisitesSection: |-
+  學習者應該已經具備以下技能才能開始本課程&#58;
+  - 使用 Windows PowerShell 的經驗
+  - 對 Active Directory 和 Azure AD 的基本理解
+  - 對行動裝置管理和其他作業系統（Android和macOS）有基本理解
+outlineSection: |-
+  ### 模組 1&#58; 計劃和配置 SharePoint 網站集合
+  此模組全部是關於計劃，配置和管理 SharePoint 網站集合。討論 SharePoint 管理員如何使用 SharePoint 系統管理中心來管理組織中網站集合的生命週期。
+  #### 課程
+  - SharePoint Online 概觀
+  - 配置網站集合
+  - 管理網站集合
+
+
+  完成本單元後，學生將能夠&#58;
+  - 說明網站集概念
+  - 創建網站集合
+  - 管理網站集合儲存空間限制
+  - 創建和配置 SharePoint 中樞網站
+  - 描述如何使用 SharePoint 系統管理中心管理網站集合
+
+
+  ### 模組 2&#58; 配置和管理商務用OneDrive
+  本模組說明如何計劃商務用 OneDrive 的部署。討論根據不同方案部署商務用 OneDrive 的不同方法。同時介紹在商務用 OneDrive 中管理內容的功能。
+
+  #### 課程
+  - 商務用 OneDrive 概述
+  - 部署商務用 OneDrive
+  - 管理商務用 OneDrive
+
+
+  完成本單元後，學生將能夠&#58;
+  - 管理使用儲存空間限制
+  - 在商務用 OneDrive 中配置資料保留
+  - 使用群組原則來控制 OneDrive 同步處理用戶端設定
+  - 描述部署商務用 OneDrive的不同方法
+  - 描述如何使用 OneDrive 系統管理中心管理商務用 OneDrive
+
+
+  ### 模組 3&#58; SharePoint 和 OneDrive 中的共用，安全性和監視
+  此模塊專注於 SharePoint 和 OneDrive 中的共用，安全性和監視明確的說，我們討論在 SharePoint 和 OneDrive 中計劃和管理外部共用以及存取控制。同時討論如何使用 Office 365 系統管理中心來監視 SharePoint Online 和商務用 OneDrive for Business 中的活動。
+
+
+  #### 課程
+  - 在 SharePoint 和 OneDrive 中管理共用
+  - 在 SharePoint 和 OneDrive 中管理安全性
+  - 監視SharePoint和OneDrive
+
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 SharePoint Online 和商務用 OneDrive for business中的外部共用
+  - 描述管理存取 SharePoint Online 和商務用 OneDrive 的裝置選項
+  - 檢視用於衡量 SharePoint Online 和商務用 OneDrive 使用量的 Office 365 報告
+
+
+  ### 模組 4&#58; 課程總結
+
+  #### 實驗室 &#58; 創建和配置網站集合
+

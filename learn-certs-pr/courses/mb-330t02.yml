@@ -1,0 +1,100 @@
+### YamlMime:Course
+title: 在Dynamics 365 for Finance and Operations 中使用品質管理，公司間交易和總體規劃
+metadata:
+  title: '課程 MB-330T02-A: 在Dynamics 365 for Finance and Operations 中使用品質管理，公司間交易和總體規劃'
+  description: '課程 MB-330T02-A: 在Dynamics 365 for Finance and Operations 中使用品質管理，公司間交易和總體規劃'
+uid: course.mb-330t02
+courseNumber: 'MB-330T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  組織使用 Dynamics 365 for Finance and Operations 透過現代化的商務物流，及時提供客戶回應，取得預測深入解析，簡化採購以及統一銷售到實現的流程來自動化和簡化供應鏈。本課程討論如何在 Dynamics 365 for Finance and Operations 中使用品質管理，公司間交易和總體規劃
+
+  #### 對象設定檔
+  Dynamics 365 客戶參與功能顧問負責執行發現，擷取需求，吸引主題專家和利害關係人參與，翻譯需求以及配置解決方案和應用程式。功能顧問使用現成功能，無程式碼擴充性，應用程式和服務整合來實作解決方案。
+prerequisitesSection: |-
+  基本理解 ERP 和 CRM 概念。
+outlineSection: |-
+  ### 模組 1&#58; 配置和使用品質控制和管理流程
+  在本模組中，我們描述如何在 Finance and Operations 中配置和使用品質控制，如何使用品質控制功能，如何定義和維護不符合項以及如何處理更正。但首先讓我們熟悉品質管理的整體流程。
+  #### 課程
+  - 簡介
+  - 執行品質控制和管理流程
+  - 套用庫存凍結
+  - 執行隔離管理
+  - 練習實驗室
+  - 模組摘要
+
+
+  在本模組中，學生學習如何&#58;
+  - 執行品質控制和品質管理流程
+  - 套用庫存凍結
+  - 執行隔離管理
+
+
+  ### 模組 2&#58; 配置和使用公司間交易關係
+  Dynamics 365 for Finance and Operations 中的公司間功能提供一種機制，用於將來自多個公司的靜態和動態資料彙總為單一資料庫中的獨立法律實體。公司間交易使遍布全球的製造基地，經銷中心和銷售子公司以作為一個統一的組織。本主題說明如何在財務和營運中配置並使用公司間交易關係。
+  #### 課程
+  - 簡介
+  - 理解公司間交易
+  - 設定公司間交易關係
+  - 處理公司間鏈結訂單
+  - 設定公司間協議和直接交貨
+  - 練習實驗室
+  - 模組摘要
+
+
+  在本模組中，學生學習如何&#58;
+  - 配置公司間交易關係的產品
+  - 配置公司間交易關係
+  - 配置公司間協議
+  - 處理公司間訂單
+  - 處理公司間直接交貨
+  - 處理公司間費用
+  - 瞭解公司間退貨訂單鏈結
+
+
+  ### 模組 3&#58; 配置和使用總體規劃
+  本主題說明如何在“財務和營運”中配置並執行總體規劃。
+  #### 課程
+  - 簡介
+  - 總體規劃考量和設定
+  - 創建總體規劃
+  - 瞭解需求和供應預測
+  - 配置項目覆蓋
+  - 公司間計劃簡介
+  - 執行計劃和確認計劃訂單
+  - 練習實驗室
+  - 模組摘要
+
+
+  在本模組中，學生學習如何&#58;
+  - 定義總體規劃原則
+  - 瞭解需求和供應預測
+  - 配置計算的延遲
+  - 配置項目覆蓋
+  - 理解公司間總體規劃的簡介
+  - 執行計劃和確認計劃訂單
+
+
+  ### 模組 4&#58; 課程總結
+  最終評估和課程摘要，以及課程的課程後調查。
+  #### 課程
+  - 最終評估
+  - 課程摘要
+  - 課後調查
+
+
+  學生將完成課程。

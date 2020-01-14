@@ -1,0 +1,85 @@
+### YamlMime:Course
+title: 建立和部署應用程式
+metadata:
+  title: '課程 AZ-300T04-A: 建立和部署應用程式'
+  description: '課程 AZ-300T04-A: 建立和部署應用程式'
+uid: course.az-300t04
+courseNumber: 'AZ-300T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用Shell命令創建App Service Web App
+- skill: 創建背景工作
+- skill: 使用Swagger記錄API
+- skill: 創建可靠服務
+- skill: 創建 Reliable Actors 應用程式
+- skill: 動手操作可靠的集合
+- skill: 瞭解 Azure 容器登錄
+- skill: 瞭解 Azure 容器實例
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  本課程教IT專業人員如何構建邏輯應用程式解決方案，以透過將任務和商務流程自動化為工作流程來跨企業或組織整合應用程式，資料，系統和服務。Logic Apps是Azure中的雲端服務，可簡化您如何設計和創建可擴展的解決方案，以進行應用整合，資料整合，系統整合，企業應用程式整合（EAI）和企業對企業（B2B）通訊，無論是在雲端中，或兩者兼有。
+
+  學生還將看到Azure Service Fabric如何成為一個分佈式系統平台，使封裝，部署和管理可伸縮且可靠的微服務和容器變得容易。Service Fabric還解決 開發和管理雲端本機應用程式中的重大挑戰。開發人員和管理員可以避免複雜的基礎結構問題，而專注於實作關鍵任務，可擴展，可靠和可管理的高要求工作負載。Service Fabric代表了用於構建和管理在容器中運行的這些企業級，一級，雲端級應用程式的下一代平台。
+
+  最後，您將瞭解Azure Kubernetes服務（AKS）如何簡化在Azure中部署受控Kubernetes叢集的過程。AKS透過將大部分責任轉移給Azure來降低管理Kubernetes的複雜性和營運開銷。作為受控的Kubernetes服務，Azure可為您處理關鍵任務，例如健康情況監視和維護。
+
+  #### 對象設定檔
+  成功的雲端解決方案架構師從在作業系統，虛擬化，雲端基礎結構，儲存結構，計費和網路方面的實踐經驗開始擔任此職務。
+outlineSection: |-
+  ### 模組 1&#58; 使用PaaS創建Web應用程式
+  該模組提供並概述了用於受控Web應用程式，REST API和行動後端的Azure App Service Web應用程式。主題包括&#58; 使用Shell命令創建App Service Web App； 創建後台任務； 使用Swagger記錄API； 以及Logic Apps如何透過將任務和商務流程自動化為工作流來幫助構建跨企業或組織的應用程式，資料，系統和服務整合解決方案的說明。
+
+  完成本單元後，學生將能夠&#58; 
+  - 使用Shell命令創建App Service Web App
+  - 創建後台任務
+  - 使用Swagger記錄API
+
+
+  ### 模組 2&#58; 創建在Service Fabric上運行的應用程式和服務
+  該模組概述了作為分佈式系統平台的Azure Service Fabric，使打包，部署和管理可伸縮且可靠的微服務和容器變得容易。該模組還解決 開發和管理雲端原生應用程式中的挑戰。
+  其他主題包括&#58; 創建可靠的服務； 創建一個可靠的演員應用程式； 並使用可靠的收藏。
+
+  完成本單元後，學生將能夠&#58; 
+  - 建立可靠的服務
+  - 創建可靠的演員應用程式
+  - 動手操作可靠的收藏
+
+
+  ### 模組 3&#58; 使用Azure Kubernetes服務此模組 重點介紹Azure
+  Kubernetes服務（AKS），用於在Azure中部署和管理Kubernetes叢集。主題包括如何透過將大量職責轉移給Azure來減少管理Kubernetes的運營開銷，例如健康情況監視和維護。
+  其他主題包括&#58; Azure容器註冊表和Azure容器實例。
+
+  完成本單元後，學生將能夠&#58; 
+  - 瞭解Azure容器註冊表
+  - 使用Azure容器實例

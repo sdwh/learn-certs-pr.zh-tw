@@ -1,0 +1,90 @@
+### YamlMime:Course
+title: 在Dynamics 365 for Finance and Operations 配置和使用流程製造
+metadata:
+  title: '課程 MB-320T03-A: 在Dynamics 365 for Finance and Operations 配置和使用流程製造'
+  description: '課程 MB-320T03-A: 在Dynamics 365 for Finance and Operations 配置和使用流程製造'
+uid: course.mb-320t03
+courseNumber: 'MB-320T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-320
+summary: |-
+  組織透過選擇自動調整的製造流程，改善營運程序，簡化資源管理，加快產品交付並提高品質和客戶滿意度，借助 Dynamics 365 for Finance and Operations 以使用關聯的營運更智慧地運行。
+  本課程討論如何在 Dynamics 365 for Finance and Operations 配置和使用流程製造
+
+prerequisitesSection: |-
+  基本理解 ERP 和 CRM 概念。
+outlineSection: |-
+  ### 模組 1&#58; 流程製造入門
+  本主題說明如何在“財務和營運”中開始流程製造。
+  #### 課程
+  - 簡介
+  - 理解流程製造
+  - 理解公式管理
+  - 理解關聯產品和副產品
+  - 配置核准的廠商
+  - 練習實驗室
+  - 模組摘要
+
+
+  在這個模組中，學生學到&#58;
+  - 理解流程製造
+  - 理解公式管理
+  - 理解關聯產品和副產品
+  - 理解核准的廠商
+
+
+  ### 模組 2&#58; 識別和配置流程製造的批次屬性
+  本主題說明如何在“財務和營運”中配置批次屬性。
+
+  #### 課程
+  - 簡介
+  - 識別和配置批處理屬性
+  - 創建和配置 Catch Weight 項目
+  - 設置效能管理
+  - 練習實驗室
+  - 模組摘要
+
+
+  在本模組中，學生學習如何&#58;
+  - 理解批次屬性
+  - 識別和配置批處理屬性
+  - 理解批次和批次控制流程
+  - 配置批次重新作業
+
+
+  ### 模組 3&#58; 配置商品定價和產品合規性
+  本主題說明如何在“財務和營運”中使用商品定價和合規性。
+  #### 課程
+  - 簡介
+  - 配置商品定價
+  配置產品合規性
+  - 練習實驗室
+  - 模組摘要
+
+
+  在本模組中，學生學習如何&#58;
+  - 配置商品定價
+  配置產品合規性
+
+
+  ### 模組 4&#58; 課程總結
+  最終評估和課程摘要，以及課程的課程後調查。
+  #### 課程
+  - 最終評估
+  - 課程摘要
+  - 課後調查
+
+
+  學生將完成課程。

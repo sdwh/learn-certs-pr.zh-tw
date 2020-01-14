@@ -1,0 +1,119 @@
+### YamlMime:Course
+title: 實作 SharePoint 2019 服務應用程式
+metadata:
+  title: '課程 MS-301T02-A: 實作 SharePoint 2019 服務應用程式'
+  description: '課程 MS-301T02-A: 實作 SharePoint 2019 服務應用程式'
+uid: course.ms-301t02
+courseNumber: 'MS-301T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 佈建 BDC 服務應用程式實例。
+- skill: 配置 Secure Store Service 應用程式。
+- skill: 描述如何配置 SharePoint 2019 中我的網站
+- skill: 描述如何配置使用者設定檔服務應用程式。
+- skill: 描述如何計劃 SharePoint Active Directory 匯入和同步處理。
+- skill: 說明如何橫跨網站集合創建和發佈內容類型。
+- skill: 識別受管理的中繼資料服務的功能。
+- skill: 配置字詞組和字詞以進行受管理的瀏覽。
+- skill: 描述搜尋元件的功能。
+- skill: 說明如何計劃和配置搜尋拓撲。
+- skill: 描述如何配置搜尋中心。
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  SharePoint Server 2019 旨在滿足現代工作型態的需求。提供使用者新的現代體驗，這些體驗在 SharePoint Online 中既直觀又熟悉。在本課程中，您將學習如何計劃，配置和管理 SharePoint 2019 中的服務應用程式，例如受管理的中繼資料，Business Connectivity Service 和企業搜尋。
+
+  本課程適用於在組織中部署和管理團隊工作基礎結構的 IT 專業人員。
+
+  這是針對團隊工作管理員角色在一系列的四門課程中的第二門課程。這些課程幫助準備 MS-301 測驗&#58; 部署 SharePoint Server 混合式。
+
+  #### 對象設定檔
+  本課程適用於 Microsoft 365 團隊工作管理員角色。此角色負責配置、部署與管理專注於高效率，有效的共同作業與採用的 Office 365 與 Azure 工作負載。他們管理應用程式，服務和支援基礎結構構，以滿足商務需求。管理員知道並可以區分產品和服務，但可能無法直接管理每個產品或服務。
+
+  Teamwork 管理員必須能夠部署，管理，轉移與保護 SharePoint（線上，本地與混合），OneDrive 與團隊。
+
+  Teamwork 管理員對以下應用程式和服務的整合點有基本的理解&#58; Office，PowerApps，Flow，Yammer，Microsoft Graph，Stream，Planner 和 Project。管理員理解如何整合協力廠商應用程式與服務，包括商務營運應用程式。
+prerequisitesSection: |-
+  學習者應該已經具備以下技能才能開始本課程&#58;
+  - 使用 Windows PowerShell 的經驗。
+  - 對 SQL Server 管理的基本理解。
+  - 對網路功能的基本理解，包括DNS。
+  - Windows 伺服器管理的工作知識。
+  - 對 Active Directory 和 Azure AD 的基本理解。
+  - 對行動裝置管理和其他作業系統（Android和macOS）的基本理解
+outlineSection: |-
+  ### 模組 1&#58; SharePoint 服務應用程式
+  該模組全部是關於 SharePoint 服務應用程式和工作流程。描述如何佈建和管理 BCS 服務應用程式和使用者設定檔服務應用程式。明確的說，我們討論如何匯入和匯出 BDC 模型以及如何將使用者屬性匯入 SharePoint。
+  #### 課程
+  - SharePoint Service 應用程式和工作流程
+  - 計劃和配置 Business Connectivity Services（BCS）和 Secure Store
+  - 計劃和配置使用者設定檔
+
+  完成本單元後，學生將能夠&#58;
+  - 說明 BDC 模型的關鍵元件。
+  - 描述 BCS 的高級架構。
+  - 佈建 BDC 服務應用程式實例。
+  - 配置 Secure Store Service 應用程式。
+  - 說明 Secure Store Service 的目的。
+  - 管理 BDC 服務應用程式實例的權限。
+  - 描述如何配置使用者設定檔屬性。
+  - 描述如何管理 SharePoint 2019 中的對象。
+  - 描述如何配置 SharePoint 2019 中我的網站
+  - 描述如何配置使用者設定檔服務應用程式。
+  - 描述如何計劃 SharePoint Active Directory 匯入和同步處理。
+
+
+  ### 模組 2&#58; 計劃和配置受管理的中計資料
+  該模組是關於整合功能的，如受管理的中繼資料服務，內容類型和字詞組，這些功能使您可以創建和散播資訊架構。介紹內容類型的目的以及受管理的中繼資料服務背後的概念，包括分類法，字詞組和企業關鍵字。
+
+  #### 課程
+  - 管理內容類型
+  - 受管理的中繼資料
+  - 配置受管理的中繼資料服務
+
+  完成本單元後，學生將能夠&#58;
+  - 說明內容類型的功能和使用情況。
+  - 描述受管理的中繼資料的功能。
+  - 說明如何橫跨網站集合創建和發佈內容類型。
+  - 識別受管理的中繼資料服務的功能。
+  - 創建和管理字詞群組，字詞組和字詞
+  - 配置字詞組和字詞以進行受管理的瀏覽。
+
+
+  ### 模組 3&#58; 計劃和配置搜尋
+  此模組是關於企業搜尋服務應用程式。提供有關計劃和配置內容來源、編目排程和編目規則的詳細資料。還討論如何佈建一系列搜尋元件的搜尋管理，例如查詢規則，結果類型和顯示範本。
+  #### 課程
+  - 計劃企業搜尋
+  - 配置企業搜尋
+  - 管理企業搜尋
+
+  完成本單元後，學生將能夠&#58;
+  - 描述搜尋元件的功能。
+  - 說明如何計劃和配置搜尋拓撲。
+  - 描述如何計劃和配置內容來源。
+  - 描述如何計劃和配置編目排程。
+  - 描述如何計劃和配置編目規則。
+  - 描述如何管理搜尋結構。
+  - 描述如何配置搜尋中心。
+  - 說明查詢規則的使用和部署。
+  - 說明結果來源的使用和部署。
+
+
+  ### 模組 4&#58; 課程總結
+
+  #### 實驗室 &#58; 配置企業搜尋
+

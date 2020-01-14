@@ -1,0 +1,100 @@
+### YamlMime:Course
+title: 'Dynamics 365: Power Platform 自動化'
+metadata:
+  title: '課程 MB-200T02-A: Dynamics 365: Power Platform 自動化'
+  description: '課程 MB-200T02-A: Dynamics 365: Power Platform 自動化'
+uid: course.mb-200t02
+courseNumber: 'MB-200T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 識別 Power Platform 中可用的自動化選項。
+- skill: 識別何時使用什麼自動化。
+- skill: 創建和使用商務規則。
+- skill: 創建和使用工作流程。
+- skill: 創建並使用 Microsoft Flow。
+- skill: 創建和使用商務程序流程。
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  Microsoft Power Platform 透過自動化例行任務和標準化最佳實作來協助組織最佳化其營運。本訓練提供 Microsoft Dynamics 365 和 Power Platform 的高等級功能概觀，並為其他 Microsoft Dynamics 365 和 Power Platform 訓練產品提供基礎。
+
+  在本課程中，我們全球認可的專家將指導學生完成各種可用的自動化選項以及如何在真實世界案例中使用它們。
+
+  #### 對象設定檔
+  Dynamics 365 客戶參與功能顧問負責執行發現，擷取需求，吸引主題專家和利益相關者參與，翻譯需求以及配置解決方案和應用程式。功能顧問使用現成功能，無程式碼擴充性，應用程式和服務整合來實作解決方案。
+prerequisitesSection: |-
+  熟悉商務應用程式，並希望為您的商務自訂和實作。
+outlineSection: |-
+  ### 模組 1&#58; 平台自動化概述
+  在本模組中，學生將學習 Power Platform 自動化功能的基本知識。
+  他們將學習自動化的需求以及如何將需求映射到功能。
+  #### 課程
+  - 平台自動化概觀
+  - 模組摘要
+
+  完成本單元後，學生將能夠&#58;
+  - 識別常見的平台自動化及其用途  
+
+
+  ### 模組 2&#58; 商務規則
+  在本模組中，學生將學習如何建立和使用商務程序流程，以及它們如何與其他平台自動化一起工作。
+  #### 課程
+  - 商務規則簡介
+  - 其他商務規則詳細資訊
+  - 模組摘要
+
+  完成本單元後，學生將能夠&#58;
+  - 創建和使用商務規則。
+
+
+  ### 模組 3&#58; 工作流程
+  在本模組中，學生將學習如何建立和使用商務程序流程，以及它們如何與其他平台自動化一起工作。
+  #### 課程
+  - 工作流程簡介
+  - 建立工作流程
+  - 進階工作流程
+  - 模組摘要
+
+  完成本單元後，學生將能夠&#58;
+  - 創建和使用工作流程。
+
+
+  ### 模組 4&#58; Microsoft Flow
+  在本模組中，學生將學習如何建立和使用 Microsoft Flows，以及它們如何與其他平台自動化一起工作。
+  #### 課程
+  - Microsoft Flow簡介
+  - 其他流程概念
+  - 使用CDS
+  - 建立核准流程
+  - 從應用程式開始
+  - 流程部署考量
+  - 模組摘要
+
+  完成本單元後，學生將能夠&#58;
+  - 創建並使用 Microsoft Flow。
+
+
+  ### 模組 5&#58; 商務程序流程
+  在本模組中，學生將學習如何建立和使用商務程序流程，以及它們如何與其他平台自動化一起工作。
+  #### 課程
+  - 商務流程介紹
+  - 配置商務流程
+  - 其他商務程序流程詳細資訊
+  - 模組摘要
+
+  完成本單元後，學生將能夠&#58;
+  - 創建和使用商務流程。

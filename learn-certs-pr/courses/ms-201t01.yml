@@ -1,0 +1,72 @@
+### YamlMime:Course
+title: 定義混合式傳訊策略
+metadata:
+  title: '課程 MS-201T01-A: 定義混合式傳訊策略'
+  description: '課程 MS-201T01-A: 定義混合式傳訊策略'
+uid: course.ms-201t01
+courseNumber: 'MS-201T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 計劃信箱移轉
+- skill: 計劃 IMAP 移轉
+- skill: 計劃轉換和分段移轉
+- skill: 執行進階移轉
+- skill: 理解 Exchange 混合式部署要求
+- skill: 執行混合式設定精靈
+- skill: 部署和管理邊際傳輸伺服器
+- skill: 使用 HCW 配置混合式部署
+- skill: 實作進階混合式功能
+- skill: 疑難排解混合式部署
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-201
+summary: |-
+  本課程向學生介紹混合式傳訊的世界。
+  學生將學習如何部署 Exchange 組織的混合環境以及如何將信箱移轉到 Exchange Online。他們將從檢查可用的信箱移轉選項開始，然後著重於計劃混合式部署。最後，學生將學習如何實作混合式部署並進行疑難排解。
+
+  #### 對象設定檔
+  訊息系統管理員在內部部署和雲端企業環境中
+  部署、配置、管理和疑難排解收件者、權限、郵件保護、郵件流程和公用資料夾。責任包括管理郵件檢疫，訊息傳遞基礎結構以及混合設定和移轉。訊息系統管理員還實作和管理災害復原、高可用性和用戶端存取。若要實現滿足現代組織商務需求的安全混合式拓撲，訊息系統管理員必須與安全性系統管理員和 Microsoft 365 企業管理員共同作業。消息傳遞管理員應該具有身份驗證類型、許可以及與 Microsoft 365 應用程式集成的實用知識。
+prerequisitesSection: |-
+  - 精通瞭解DNS。
+  - 對 Exchange Server 或 Exchange Online 中的訊息傳遞有基本的瞭解。
+  - 對 Active Directory 和網域控制器基礎結構以及身份識別管理有基本瞭解。
+  - 具有 Microsoft 365 服務和目錄同步處理的基本功能經驗。
+  - 至少5年的一般 IT 經驗。
+outlineSection: |-
+  ### 模組 1&#58; 執行信箱資料庫
+  #### 課程
+  - 計劃信箱移轉
+  - 計劃 IMAP 移轉
+  - 計劃轉換和分段移轉
+  - 執行進階移轉
+
+
+  ### 模組 2&#58; 計劃混合式環境
+  #### 課程
+  - Exchange 混合式部署要求
+  - 計劃以執行混合式設定精靈
+
+
+  ### 模組 3&#58; 部署和疑難排解混合式環境
+  #### 課程
+  - 部署和管理邊際傳輸伺服器
+  - 使用 HCW 配置混合式部署
+  - 實作進階混合式功能
+  - 疑難排解混合式部署
+
+
+  ### 模組 4&#58; 實驗室 - 混合式部署和管理
+
+  #### 實驗室 &#58; 混合式部署和管理
+  - 演練 1&#58; 執行信箱移轉到Microsoft 365
+  - 演練 2&#58; 管理混合式方案

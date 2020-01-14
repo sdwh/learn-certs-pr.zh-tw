@@ -1,0 +1,329 @@
+### YamlMime:Course
+title: SharePoint 2016 進階技術
+metadata:
+  title: '課程 20339-2-A: SharePoint 2016的進階技術'
+  description: '課程 20339-2-A: SharePoint 2016的進階技術'
+uid: course.20339-2
+courseNumber: '20339-2-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述核心SharePoint 2016架構及其新增功能和改進功能。
+- skill: 描述SharePoint 2016中的關鍵混合功能。
+- skill: 規劃和設計SharePoint 2016環境，以滿足高可用性和災害復原的要求。
+- skill: 規劃和實作Business Connectivity Service和安全存放區服務。
+- skill: 為SharePoint 2016部署配置和管理生產力服務。
+- skill: 在SharePoint 2016部署中管理解決方案。
+- skill: 規劃和配置社交計算功能。
+- skill: 規劃和配置面向網際網路環境的Web內容管理。
+- skill: 在SharePoint 2016部署中規劃和配置企業內容管理。
+- skill: 規劃和配置商業智慧解決方案。
+- skill: 規劃和配置工作管理，生產力以及共同作業平台和功能。
+- skill: 執行升級或移轉到SharePoint 2016。
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.70-339
+summary: |-
+  本課程為期五天，將教您如何規劃，配置和管理SharePoint 2016環境中的高階功能。本課程的重點關注領域包括實作高可用性，災害復原，服務應用程式架構和Microsoft Business Connectivity Services。本課程還將重點介紹社交計算功能，生產力以及共同作業平台和功能。學生還將學習商業智慧解決方案，企業內容管理，Web內容管理基礎結構，解決方案和應用程式。本課程還涵蓋如何制定和實作控管規劃，以及如何執行升級或移轉到SharePoint 2016。
+
+  這是針對IT專業人員的兩門課程中的第二部分，與SharePoint 2016 IT Pro認證保持一致。
+
+  #### 對象設定檔
+  本課程針對有經驗的IT專業人員，他們有興趣學習如何在資料中心或雲端中安裝，配置，部署和管理SharePoint 2016安裝。 
+  
+  學生通常應具有四年以上的動手經驗*，以規劃和維護SharePoint以及SharePoint所依賴的其他核心技術，包括Windows Server 2012 R2或更高版本、網際網路資訊服務(IIS)、Microsoft SQL Server 2014 R2或更高版本、Active Directory網域服務(AD Ds)和網路基礎結構服務。
+  
+  學生應該已經完成課程20339-1A&#58; 規劃和管理Microsoft SharePoint 2016，或者在學習本課程之前已經獲得了同等的知識和經驗。最低資格的應試者通常&#58; 
+  
+  - 具有Microsoft SharePoint Online的工作知識，最好具有實踐經驗。
+  - 熟悉SharePoint Server工作負載。
+  - 具有商務持續性管理方面的經驗，包括資料備份，還原和高可用性。
+  - 具有認證和安全技術的經驗。
+  - 具有Windows PowerShell的經驗。
+  
+  實際經驗或工作經驗應來自基於解決方案的角色，應試者應聘於SharePoint Server空間中的多個解決方案，包括文件管理，內容管理和搜尋。
+prerequisitesSection: |-
+  該課程的理想應試者必須具有至少一年在大型企業中部署和管理多個SharePoint Server 2013伺服器陣列的經驗。應試者應已完成課程20339-1A&#58; 規劃和管理Microsoft SharePoint 2016，或應具有同等技能。
+  
+  在參加本課程之前，學生必須證明以下技能&#58; 
+  - 至少一年的將商務需求映射到邏輯和實體技術設計的經驗。
+  - 網路設計的工作知識，包括網路安全。
+  - 在Windows Server 2012 R2企業伺服器或Windows Server 2016環境中的軟體管理經驗。
+  - 在原生、虛擬和在雲端中部署和管理應用程式。
+  - 管理IIS。
+  - 配置AD DS以用於身份識別驗證和授權以及作為使用者儲存。
+  - 使用Windows PowerShell 2.0或更高版本遠端管理應用程式。
+  - 將應用程式連接到SQL Server。
+  - 實作宣告型的安全性。
+outlineSection: |-
+  ### 模組 1&#58; SharePoint 2016簡介
+  此模組描述了SharePoint Server環境的核心架構組件，還有助於識別SharePoint 2016中新的折舊和刪除的功能。
+  #### 課程
+  - SharePoint 2016架構的核心組件
+  - SharePoint 2016中的新增功能，不建議使用的功能和已刪除的功能
+  - SharePoint 2016和SharePoint Online版本
+
+
+  #### 實驗室 &#58; 複習Microsoft SharePoint 2016的核心概念
+  - 配置SharePoint 2016伺服器陣列
+  - 創建和配置網站集合和網站
+  - 使用SharePoint 2016命令行管理程序設定服務應用程式
+
+  完成本單元後，學生將能夠&#58; 
+  - 描述Microsoft-SharePoint 2016的架構功能。
+  - 確定SharePoint 2016中的新功能，不推薦使用的和已刪除的功能。
+  - 描述內部SharePoint 2016和Microsoft SharePoint Online的版本。and Microsoft SharePoint Online.
+
+  ### 模組 2&#58; SharePoint 2016混合方案簡介
+  本模組描述了SharePoint 2016中的關鍵混合功能，並幫助您準備混合SharePoint 2016部署。
+  #### 課程
+  - 探索SharePoint 2016中的混合功能
+  - 準備混合SharePoint 2016部署
+
+
+  #### 實驗室 &#58; 配置Office 365租用戶
+  - 創建Office 365租用戶
+
+
+  #### 實驗室 &#58; 創建混合團隊網站
+  - 準備SharePoint環境
+  - 運行SharePoint混合式選擇器
+
+  完成本單元後，學生將能夠&#58; 
+  - 描述SharePoint Server 2016中的關鍵混合功能。
+  - 準備混合SharePoint 2016部署。
+
+
+  ### 模組 3&#58; 設計商務持續性管理策略
+  本模組說明如何選擇適當的資料庫伺服器配置以滿足可用性要求。它還描述如何設計實體架構和基礎結構以滿足高可用性要求。最後，該模組說明如何開發和實作備份和還原策略。
+  #### 課程
+  - 設計資料庫拓撲以實作高可用性和災害復原
+  - 設計SharePoint基礎結構以實作高可用性
+  - 規劃災害復原
+
+
+  #### 實驗室 &#58; 規劃並執行備份和還原
+  - 創建備份和還原規劃
+  - 測試備份和還原過程
+
+  完成本單元後，學生將能夠&#58; 
+  - 選擇適當的資料庫伺服器配置以滿足可用性要求。
+  - 設計實體架構和基礎結構以滿足高可用性要求。
+  - 制定並實作備份和還原策略。
+
+
+  ### 模組 4&#58; 規劃和實作Business Connectivity Service和安全存放區服務
+  本模組說明如何配置Business Connectivity Service (BCS)，並說明如何配置和管理Secure Store Service應用程式。它還說明如何配置和管理BCS模型。
+  #### 課程
+  - 規劃和配置BCS
+  - 配置Secure Store Service
+  - 管理BCS模型
+
+
+  #### 實驗室 &#58; 配置BCS和Secure Store Service
+  - 配置BDC服務應用程式
+  - 配置Secure Store Service
+
+
+  #### 實驗室 &#58; 管理BDC模型
+  - 配置Secure Store Service目標應用程式
+  - 導入和配置BDC模型
+
+  完成本單元後，學生將能夠&#58; 
+  - 規劃和配置Business Connectivity Service應用程式。
+  - 規劃和配置Secure Store Service應用程式。
+  - 管理Business Data Connectivity模型。
+
+
+  ### 模組 5&#58; 為SharePoint 2016部署配置生產力服務
+  此模組描述SharePoint增益集架構。本模組還說明如何配置和管理SharePoint應用程式和應用程式目錄。此外，此模組介紹如何設定Microsoft Access服務、Microsoft Visio服務、Microsoft Word 自動化服務、Microsoft PowerPoint自動化服務和SharePoint翻譯服務。
+  #### 課程
+  - 瞭解SharePoint增益集架構
+  - 設定和管理應用程式和應用程式目錄
+  - 提供生產力服務
+
+
+  #### 實驗室 &#58; 配置和管理SharePoint增益集
+  - 配置SharePoint伺服器陣列以支援應用程式
+  - 創建和配置公司應用目錄
+  - 部署和監控應用
+
+  完成本單元後，學生將能夠&#58; 
+  - 描述Microsoft SharePoint增益集和支援的SharePoint基礎結構。
+  - 設定和配置SharePoint增益集和應用程式目錄。
+  - 管理在SharePoint 2016部署中如何使用應用程式。
+
+
+  ### 模組 6&#58; Microsoft SharePoint 2016中的管理解決方案
+  本模組描述了SharePoint 2016功能和解決方案的目的和結構。此外，它還說明如何在Microsoft SharePoint 2016中管理沙箱解決方案。
+  #### 課程
+  - 瞭解SharePoint 2016解決方案架構
+  - 管理沙盒解決方案
+
+
+  #### 實驗室 &#58; 管理解決方案
+  - 配置SharePoint伺服器陣列以支援沙盒解決方案
+  - 配置SharePoint網站以支援沙盒解決方案
+  - 部署伺服器陣列解決方案
+
+  完成本單元後，學生將能夠&#58; 
+  - 在Microsoft SharePoint中管理功能和解決方案 2016 年。
+  - 在SharePoint 2016部署中管理 沙盒解決方案。
+
+
+  ### 模組 7&#58; 建立人脈
+  本模組說明如何管理使用者設定檔以及如何規劃和配置“我的網站”和社交功能。本模組還介紹如何配置社區網站。
+  #### 課程
+  - 管理使用者設定檔
+  - 促進社交互動
+  - 建立社區
+
+
+  #### 實驗室 &#58; 設定檔同步和“我的網站”
+  - 配置設定檔同步
+  - 配置我的網站
+
+
+  #### 實驗室 &#58; 配置社區網站
+  - 建立社區網站基礎結構
+  - 配置社區網站參與
+
+  完成本單元後，學生將能夠&#58; 
+  - 在Microsoft SharePoint 2016中管理使用者設定檔，
+  並使用Microsoft Identity Manager（MIM）2016配置
+  使用者設定檔同步。
+  - 在SharePoint 2016中啟用社交互動。
+  - 在SharePoint 2016中構建社區和社區網站。
+
+
+  ### 模組 8&#58; 規劃和配置Web內容管理
+  本模組說明如何規劃和配置Web內容管理基礎結構以滿足商務需求。本模組還描述支援如何配置受管理導覽和產品目錄網站，以及如何配置對多語言網站的。此外，它還說明支援如何規劃和管理髮佈網站的設計和自訂，以及如何規劃和配置對行動使用者的。
+  #### 課程
+  - 規劃和實作網路內容管理基礎結構
+  - 配置受管理導覽和目錄網站
+  - 支援多種語言和語言環境
+  - 啟用設計和定制
+  - 支援行動使用者
+
+
+  #### 實驗室 &#58; 配置受管理導覽和目錄網站
+  - 配置產品目錄網站
+  - 配置跨網站發布
+  - 配置發布網站
+
+
+  #### 實驗室 &#58; 配置設備通道
+  - 配置設備通道
+
+  完成本單元後，學生將能夠&#58; 
+  - 規劃和配置Web內容管理基礎結構。
+  - 配置受管理導覽和產品目錄網站。
+  - 規劃和配置對多語言 網站和語言環境的支援。
+  - 管理髮佈網站的 設計和自訂。
+  - 規劃和配置對行動使用者的支援。
+
+
+  ### 模組 9&#58; 規劃和配置企業內容管理
+  本模組說明如何規劃內容和文件的管理，以及如何規劃和eDiscovery文件探索。此外，它描述如何規劃記錄管理和合規性。
+  #### 課程
+  - 規劃企業內容管理
+  - 規劃和eDiscovery文件探索
+  - 規劃記錄管理
+
+
+  #### 實驗室 &#58; 在SharePoint 2016中eDiscovery文件探索
+  - 創建和eDiscovery文件探索中心
+  - 發現和保存內容
+  - 查詢和導出內容
+
+
+  #### 實驗室 &#58; 在SharePoint Server 2016中配置記錄管理
+  - 配置就地記錄管理
+
+  完成本單元後，學生將能夠&#58; 
+  - 規劃如何管理內容和文件。
+  - 規劃和eDiscovery文件探索。
+  - 規劃記錄管理和合規性。
+
+
+  ### 模組 10&#58; 規劃和配置商業智慧解決方案
+  本模組說明如何規劃SharePoint 2016的商業智慧（BI）架構，以及如何部署和管理BI服務。此外，該模組說明如何規劃和配置高階分析工具。
+  #### 課程
+  - 規劃BI架構
+  - 規劃，部署和管理BI服務
+  - 規劃和配置高階分析工具
+
+
+  #### 實驗室 &#58; 安裝Office Online伺服器
+  - 部署Office Online伺服器
+
+
+  #### 實驗室 &#58; 為SharePoint 2016配置PowerPivot和Power View
+  - 為SharePoint 2016配置PowerPivot
+  - 為SharePoint配置Power View
+
+  完成本單元後，學生將能夠&#58; 
+  - 說明Microsoft SharePoint商業智慧
+  （Bi）架構，其組件以及商業智慧規劃。
+  - 規劃，部署和管理核心Microsoft SharePoint
+  2016 BI 服務。
+  - 配置SharePoint 2016和Microsoft SQL Server 2014中
+  可用的高階BI選項。
+
+
+  ### 模組 11&#58; 規劃和配置生產力與共同作業
+  本模組說明共同作業如何規劃和配置生產力和功能。本模組還說明如何在SharePoint 2016中規劃和配置複合解決方案。
+  #### 課程
+  - 規劃和配置共同作業功能
+  - 規劃和配置組合
+
+
+  #### 實驗室 &#58; 配置和使用專案網站
+  - 創建Office Online Server伺服器陣列並在SharePoint 2016中配置整合
+  - 創建專案網站
+  - 配置專案網站
+  - 參與專案團隊
+  - 配置Project Server整合
+
+
+  #### 實驗室 &#58; 配置工作流程
+  - 配置Microsoft Azure工作流和Microsoft SharePoint工作流服務
+  - 創建和測試工作流程
+
+  完成本單元後，學生將能夠&#58; 
+  - 描述如何規劃和配置SharePoint 共同作業和共同創作選項。
+  - 配置專案網站並吸引團隊。
+  - 規劃和配置組合。
+  - 在SharePoint 2016中配置工作流。
+
+
+  ### 模組 12&#58; 升級和移轉到SharePoint 2016
+  本模組說明如何為升級或移轉到SharePoint 2016做準備。此外，它還說明如何管理網站集合以及如何將其升級到SharePoint 2016。最後，該模組描述如何將高階內容從SharePoint Server 2013升級到SharePoint 2016。
+  #### 課程
+  - 準備升級或移轉
+  - 升級到SharePoint 2016
+  - 規劃和管理網站集合升級
+
+
+  #### 實驗室 &#58; 從Microsoft SharePoint Server 2013執行內容資料庫移轉和升級
+  - 移轉SharePoint Server 2013受管理的中繼資料服務
+  - 升級SharePoint Server 2013內容資料庫
+
+
+  #### 實驗室 &#58; 管理網站集合升級
+  - 準備要升級的網站集合
+  - 升級網站集合
+
+  完成本單元後，學生將能夠&#58; 
+  - 規劃並準備升級。
+  - 執行資料和服務應用程式的升級。
+  - 升級網站集合。
+  - 將高階內容從SharePoint Server 2013升級到SharePoint 2016。

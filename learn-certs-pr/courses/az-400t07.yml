@@ -1,0 +1,80 @@
+### YamlMime:Course
+title: 設計一個 DevOps 策略
+metadata:
+  title: '課程 AZ-400T07-A: 設計一個 DevOps 策略'
+  description: '課程 AZ-400T07-A: 設計一個 DevOps 策略'
+uid: course.az-400t07
+courseNumber: 'AZ-400T07-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 制定共享目標和時間表的轉型規劃。
+- skill: 選擇一個專案並標識專案指標和KPI。
+- skill: 建立團隊和敏捷的組織結構。
+- skill: 制定專案品質策略。
+- skill: 規劃安全的開發實踐和合規性規則。
+- skill: 移轉和合併成品。
+- skill: 移轉和整合原始檔控制措施。
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  本課程提供設計DevOps策略的知識和技能。學生將學習如何規劃轉型，選擇專案和創建團隊結構。學生還將學習如何制定品質和安全策略。還將規劃移轉和合併成品和原始檔控制的規劃。
+
+  #### 對象設定檔
+  本課程的學生對規劃DevOps專案或透過Microsoft Azure DevOps Solutions認證測驗感興趣。
+prerequisitesSection: |-
+  - 有關Azure，版本控制，敏捷軟體開發和核心軟體開發原理的基礎知識。在提供軟體的組織中擁有經驗會很有幫助。
+  - 另外，建議您具有在IDE中工作的經驗，以及一些有關Azure入口的知識。但是，可能沒有這些技術的技術背景，但對DevOps的實踐會隨著文化的變化而感到好奇的學生，無論如何都應能夠遵循程序和說明性的持續整合說明。
+outlineSection: |-
+  ### 模組 1&#58; DevOps規劃
+  在本模組中，學生將學習有關轉換規劃，專案選擇和團隊結構的知識。
+  #### 課程
+  - 轉型規劃
+  - 專案選擇
+  - 團隊結構
+
+
+  #### 實驗室 &#58; Azure董事會的敏捷規劃和專案組合管理
+  完成本單元後，學生將能夠&#58; 
+  - 制定共享目標和時間表的轉型規劃
+  - 選擇一個專案並確定專案指標和KPI
+  - 建立團隊和敏捷的組織結構
+
+
+  ### 模組 2&#58; 品質和安全性規劃
+  在本模組中，學生將學習有關製定品質策略和規劃安全開發的知識。
+  #### 課程
+  - 制定品質策略
+  - 規劃安全開發
+
+
+  #### 實驗室 &#58; 具有LaunchDarkly和AzureDevOps的功能標誌管理
+  完成本單元後，學生將能夠&#58; 
+  - 制定專案品質策略
+  - 規劃安全的開發實踐和合規性規則。
+
+
+  ### 模組 3&#58; 移轉和整合成品和工具
+  在本模組中，學生將學習有關移轉和合併成品以及移轉和整合原始檔控制措施的知識。
+  #### 課程
+  - 移轉和整合文物
+  - 移轉和整合原始檔控制
+
+
+  #### 實驗室 &#58; 將Azure Repos和Azure Pipelines與Eclipse整合
+  完成本單元後，學生將能夠&#58; 
+  - 移轉和合併成品
+  - 移轉和整合原始檔控制措施

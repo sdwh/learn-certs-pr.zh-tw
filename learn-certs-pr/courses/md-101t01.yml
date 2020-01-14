@@ -1,0 +1,110 @@
+### YamlMime:Course
+title: 部署現代智慧桌面
+metadata:
+  title: '課程 MD-101T01-A: 部署現代智慧桌面'
+  description: '課程 MD-101T01-A: 部署現代智慧桌面'
+uid: course.md-101t01
+courseNumber: 'MD-101T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 開發作業系統部署和升級策略
+- skill: 描述部署的不同方法
+- skill: 理解哪些方案可以使用本地部署和雲端型解決方案
+- skill: 部署桌面並將其移轉到 Windows 10
+- skill: 計劃和配置 Windows Update 原則
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  隨著桌上型電腦的發展，用於部署和更新的方法也隨之發展。在本課程中，您將學習如何計劃和實作作業系統部署策略。本課程將幫助學生理解可用的各種方法、他們適合的方案以及如何使用現代方法部署 Windows。本課程還將涵蓋計劃和實作 Windows 更新策略。
+
+  #### 對象設定檔
+  現代智慧桌面管理員（MDA）在企業環境中部署，配置，保護，管理和監視裝置和用戶端應用程式。責任包括管理身分識別，存取，原則，更新和應用程式。MDA 與 M365 企業管理員共同作業以設計和實作可滿足現代組織商務需求的裝置策略。（MDA）必須熟悉M365工作負載，並且在部署，配置和維護 Windows 10 和非 Windows 裝置方面擁有豐富的技能與經驗。MDA 角色著重於雲端服務，而不是內部部署管理技術。
+prerequisitesSection: |-
+  現代智慧桌面管理員（MDA）
+  必須熟悉M365工作負載，並且必須在部署，配置和維護 Windows 10 和
+  非 Windows 裝置方面
+  擁有豐富技能和經驗。MDA 角色著重於雲端服務，而不是
+  內部部署管理技術。
+outlineSection: |-
+  ### 模組 1&#58; 計劃作業系統部署策略
+  本模組說明如何計劃和實作部署策略。涵蓋部署 Windows 的各種方法和方案。討論內部部署和雲端技術以及新部署、升級和移轉的移轉。
+  #### 課程
+  - Windows 即服務概述
+  - Windows 10 部署選項
+  - Windows 10部署注意事項
+
+
+  #### 實驗室 &#58; 練習實驗室 - 計劃 Windows 10 部署
+  完成本單元後，學生將能夠&#58;
+  - 描述 Windows 即服務。
+  - 描述部署的不同方法。
+  - 理解內部部署和雲端型解決方案之間的差異。
+  - 描述動態佈建的方法。
+  - 描述 Windows 評估和部署工具套件中可用的不同工具。
+  - 描述就地升級和移轉方案和限制。
+
+
+  ### 模組 2&#58; 實作 Windows 10 
+  本模塊涵蓋用於部署 Windows 10 的新現代方法，例如 Windows Autopilot 和佈建套件。本模塊還涵蓋了用於升級計劃，應用程式相容性和移轉方法的工具。
+  #### 課程
+  - 使用動態部署實作 Windows 10
+  - 使用 Windows AutoPilot 部署 Windows 10
+  - 升級裝置到Windows 10
+
+
+  #### 實驗室 &#58; 練習實驗室 - 實作 Windows 10  
+  - 創建和部署佈建套件
+  - 移轉使用者設定
+  - 使用 AutoPilot 部署 Windows 10
+
+
+  完成本單元後，學生將能夠&#58;
+  - 開發作業系統部署和升級策略
+  - 理解部署的不同方法。
+  - 理解哪些方案可以使用本地部署和雲端型解決方案。
+  - 部署桌面並將其移轉到 Windows 10。
+  - 計劃和配置 Windows Update 原則。
+
+
+  ### 模組 3&#58; 在 Windows 10中更新應用程式
+  本模組介紹如何管理 Windows 更新。本模組介紹 Windows 10 的服務選項。學生將學習部署更新的不同方法以及如何配置 Windows 更新策略。
+  #### 課程
+  - 更新 Windows10
+  - Windows Update for Business
+  - Windows Analytics 簡介
+
+
+  #### 實驗室 &#58; 練習實驗室-管理 Windows 10 的更新
+  - 手動配置 Windows Update 設定 。
+  - 使用GPO配置 Windows Update
+
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 Windows 10 服務管道。
+  - 使用群組原則設定配置 Windows 更新。
+  - 將 Windows Update for Business 配置為部署作業系統更新。
+  - 使用 Windows Analytics 評估升級整備程度和更新合規性。
+
+
+  ### 模組 4&#58; 課程總結
+  #### 課程
+  - 期末測驗
+
+
+  #### 實驗室 &#58; 已評分的實驗室
+  完成本單元後，學生將能夠&#58;
+  - 創建佈建套件。
+  - 配置 Autopilot 部署。
+  - 描述用於計劃升級和移轉。
+  - 描述用於移轉使用者資料的方法。

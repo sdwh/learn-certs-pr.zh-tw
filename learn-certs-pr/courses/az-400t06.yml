@@ -1,0 +1,95 @@
+### YamlMime:Course
+title: 實作持續回饋
+metadata:
+  title: '課程 AZ-400T06-A: Implementing Continuous Feedback'
+  description: '課程 AZ-400T06-A: Implementing Continuous Feedback'
+uid: course.az-400t06
+courseNumber: 'AZ-400T06-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 衡量終端使用者滿意度的設計實踐
+- skill: 設計過程以捕獲和分析來自外部源的使用者回饋
+- skill: 用戶端應用程式損毀報告資料的設計路由
+- skill: 建議監視工具與技術
+- skill: 建議系​​統與功能使用情況追蹤工具
+- skill: 設定用戶端應用程式的毀損報告整合
+- skill: 開發監控與狀態儀表板
+- skill: 為用戶端應用程式損毀報告資料實作路由
+- skill: 實作工具以追蹤系統使用情況，功能使用情況與程序
+- skill: 將票務系統與開發團隊的工作管理系統整合和配置
+- skill: 分析警示以建立基準線
+- skill: 分析遙測以建立基準線
+- skill: 執行即時網站檢閱並擷取系統中斷的回饋
+- skill: 執行持續調整以減少無意義或無法運作的警示
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  本課程提供了實作連續回饋的知識和技能。學生將學習如何推薦和設計系統回饋機制，實作將系統回饋傳遞給開發團隊的過程，以及最佳化回饋機制。
+
+  #### 對象設定檔
+  本課程的學生對實作DevOps流程或透過Microsoft Azure DevOps Solutions認證測驗感興趣。
+prerequisitesSection: |-
+  本課程的學生對實作DevOps流程或透過Microsoft Azure DevOps Solutions認證測驗感興趣。
+outlineSection: |-
+  ### 模組 1&#58; 推薦和設計系統回饋機制
+  #### 課程
+  - 內循環
+  - 持續實驗的心態
+  - 衡量終端使用者滿意度的設計實踐
+  - 設計過程以捕獲和分析使用者回饋
+  - 自動執行應用程式分析的設計過程
+
+
+  #### 實驗室 &#58; Azure DevOps與團隊之間的整合
+
+  #### 實驗室 &#58; 功能標誌
+  完成本單元後，學生將能夠&#58; 
+  - 衡量終端使用者滿意度的設計實踐
+  - 設計流程以捕獲和分析來自外部資源的使用者回饋
+  - 用戶端應用程式損毀報告資料的設計路由
+  - 推薦監控工具和技術
+  - 推薦系統和功能使用情況追蹤工具
+
+
+  ### 模組 2&#58; 將系統回饋路由到開發團隊的實作過程
+  #### 課程
+  - 實作工具以追蹤系統使用情況，功能使用情況和流程
+  - 為行動應用程式損毀報告資料實作路由
+  - 開發監控和狀態儀表板
+  - 整合和配置票務系統
+
+  完成本單元後，學生將能夠&#58; 
+  - 設定用戶端應用程式的毀損報告整合
+  - 開發監控和狀態儀表板
+  - 實作用戶端應用程式損毀報告資料的路由
+  - 實作工具以追蹤系統使用情況，功能使用情況和流程
+  - 與開發團隊的工作管理整合和配置票務系統
+
+
+  ### 模組 3&#58; 最佳化回饋機制
+  #### 課程
+  - 網站可靠性工程
+  - 分析遙測以建立基準線
+  - 執行持續調整以減少無意義或無法運作的警示
+  - 分析警示以建立基準線
+  - 無懈可擊的後期模式和公正的文化
+
+  完成本單元後，學生將能夠&#58; 
+  - 分析警示以建立基準線
+  - 分析遙測以建立基準線
+  - 執行即時網站檢閱並擷取系統中斷的回饋
+  - 執行持續調整以減少無意義或無法運作的警示

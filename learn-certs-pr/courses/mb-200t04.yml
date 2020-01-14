@@ -1,0 +1,92 @@
+### YamlMime:Course
+title: 'Dynamics 365: Power Platform 測試和部署'
+metadata:
+  title: '課程 MB-200T04-A: Dynamics 365: Power Platform 測試和部署'
+  description: '課程 MB-200T04-A: Dynamics 365: Power Platform 測試和部署'
+uid: course.mb-200t04
+courseNumber: 'MB-200T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 啟用和更新第一方應用程式。
+- skill: 安裝第三方應用程式。
+- skill: 配置受管理和未受管理的解決方案
+- skill: 更新和修補解決方案。
+- skill: 散發解決方案。
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  Microsoft Power Platform 透過自動化例行任務和標準化最佳實作來協助組織最佳化其營運。本訓練提供 Microsoft Dynamics 365 和 Power Platform 的高等級功能概觀，並為其他 Microsoft Dynamics 365 和 Power Platform 訓練產品提供基礎。
+
+  在本課程中，或由全球認可的專家指導學生完成管理解決方案及其部署。
+
+  #### 對象設定檔
+  Dynamics 365 客戶參與功能顧問負責執行發現，擷取需求，吸引主題專家和利益相關者參與，翻譯需求以及配置解決方案和應用程式。功能顧問使用現成功能，無程式碼擴充性，應用程式和服務整合來實作解決方案。
+prerequisitesSection: |-
+  熟悉商務應用程式，並希望為您的商務自訂和實作。
+outlineSection: |-
+  ### 模組 1&#58; 管理執行個體和應用程式
+  在本模組中，學生將學習如何啟用和更新第一方應用程式，安裝第三方應用程式以及使用管理入口網站進行配置。
+  #### 課程
+  - 概述
+  - 管理應用程式
+  - 模組摘要
+
+  完成本單元後，學生將能夠&#58;
+  - 啟用和更新第一方應用程式。
+  - 安裝第三方應用程式。
+
+
+  ### 模組 2&#58; 管理解決方案
+  在本模組中，學生將學習如何創建，管理和部署解決方案。
+  #### 課程
+  - 解決方案概念
+  - 規劃和創建解決方案
+  - 使用解決方案元件
+  - 散發解決方案
+  - 使用受管理解決方案
+  - 模組摘要
+
+  完成本單元後，學生將能夠&#58;
+  - 使用解決方案創建，管理和部署自訂項目
+
+
+  ### 模組 3&#58; 其他部署考量
+  在本模組中，學生將學習如何為行動裝置配置和部署元件，如 Microsoft Flow。
+  #### 課程
+  - 配置
+  - 行動裝置配置設定
+  - 行動裝置配置
+  - 模組摘要
+
+  完成本單元後，學生將能夠&#58;
+  - 配置行動裝置
+  - 配置元件
+
+
+  ### 模組 4&#58; 文件和測試
+  在本模組中，學生將學習如何設計測試計劃和執行效能微調。
+  #### 課程
+  - 創建測試計劃
+  - 使用者界面測試
+  - 效能最佳化和微調
+  - 文件
+  - 與客戶互動
+  - 模組摘要
+
+  完成本單元後，學生將能夠&#58;
+  - 創建和使用測試計劃
+  - 尋找效能微調工具

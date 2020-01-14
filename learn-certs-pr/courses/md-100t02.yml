@@ -1,0 +1,119 @@
+### YamlMime:Course
+title: 配置 Windows 10
+metadata:
+  title: '課程 MD-100T02-A: 安裝 Windows 10'
+  description: '課程 MD-100T02-A: 安裝 Windows 10'
+uid: course.md-100t02
+courseNumber: 'MD-100T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 配置 Windows 裝置和驅動程式
+- skill: 配置 Windows 儲存
+- skill: 在 Windows 中配置網路設定
+- skill: 配置 Windows 的遠端管理
+- skill: 在 Windows 中配置和管理應用程式
+- skill: 配置 Internet Explorer
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-100
+summary: |-
+  在 本課程中，學生將學習如何支援安裝工作
+  與 Windows 10 相關聯。學生將學習技能，包括
+  管理儲存，檔案，驅動程式和印表機，以及
+  如何配置 Windows 10 網路連線。本課程還將涵蓋管理和部署 應用程式。
+
+  #### 對象設定檔
+  本測驗的 應試者是執行 Windows 10 核心服務的安裝，配置，一般本機管理 一般本機管理和維護的 IT 專業人員。
+  應試者可能還熟悉企業方案和雲端整合 服務。
+prerequisitesSection: |-
+  本測驗的 應試者是執行 Windows 10 核心服務的安裝，配置，一般本機管理 一般本機管理和維護的 IT 專業人員。
+  應試者可能還熟悉企業方案和雲端整合 服務。
+outlineSection: |-
+  ### 模組 1&#58; 配置週邊設備和驅動程式
+  本模組將涵蓋裝置攝訂。學生將學習裝置驅動程式如何運作以及如何安裝。還將向學生介紹如何管理和配置列印機等硬體周邊設備。
+  #### 課程
+  - 管理裝置和驅動程式
+  - 管理印表機
+
+
+  完成本單元後，學生將能夠&#58;
+  - 描述與驅動程式有關的概念。
+  - 安裝裝置驅動程式
+  - 描述印表機管理概念。
+  - 配置用戶端列印和管理列印伺服器屬性。
+
+
+  ### 模組 2&#58; 配置網路功能
+  在本模組中，學生將學習網路功能概念。本模組將介紹 IPv4 和 IPv6，以及 DNS 等概念。學生將學習如何在 Windows 中配置網路設定以及無線網路技術。該模組將總結遠端管理 Windows 的方法。
+  #### 課程
+  - 配置 IP 網路連線能力
+  - 實作名稱解析
+  - 實現無線網路連線
+  - 遠端存取概觀
+  - 遠端管理
+
+
+  完成本單元後，學生將能夠&#58;
+  - 描述不同類型的應用程式。
+  - 手動安裝應用程式，並使用自動化方法。
+  - 使用 Windows Store 管理應用程式部署
+  - 瞭解 Windows 10 中的網頁瀏覽器功能。
+
+
+  ### 模組 3&#58; 配置儲存
+  本模組涵蓋 Windows 10 中的儲存配置和管理。將向學生介紹本機，雲端和虛擬儲存選項。本課程還將涵蓋在用戶端裝置上配置儲存並介紹儲存空間。
+  #### 課程
+  - 儲存選項概觀
+  - 使用 OneDrive
+  - 管理磁碟、磁碟分割和磁碟區
+  - 維護磁碟和磁碟區
+  - 管理儲存空間
+
+
+  #### 實驗室 &#58; 練習實驗室&#58; 管理儲存
+  - 新增磁碟
+  - 創建簡單磁碟區
+  - 壓縮資料夾
+  - 啟用磁碟配額
+  - 創建儲存空間
+
+
+  完成本單元後，學生將能夠&#58;
+  - 描述本機，雲端和虛擬儲存的選項和優勢。
+  - 配置 OneDrive
+  - 配置本機磁碟分割和磁碟區
+  - 描述儲存空間的功能和優勢。
+
+
+  ### 模組 4&#58; 在 Windows 10 中更新應用程式
+  在本模組中，將向學生介紹 Windows 10 中的應用程式管理。本模組將涵蓋不同類型的應用程式和支援的的安裝方法。學生將學習如何使用手動和自動方法安裝應用程式，以及如何使用 Windows Store 管理應用程式傳遞。最後，本模組將涵蓋 Internet Explorer 和 Microsoft Edge 之間的差異。
+  #### 課程
+  - 提供使用者應用程式
+  - 管理通用 Windows 應用程式
+  - Windows Store
+  - Windows 10 中的網頁瀏覽器
+
+
+  完成本單元後，學生將能夠&#58;
+  - 描述不同類型的應用程式。
+  - 手動安裝應用程式，並使用自動化方法。
+  - 使用 Windows Store 管理應用程式部署
+  - 瞭解 Windows 10 中的網頁瀏覽器功能。
+
+
+  ### 模組 5&#58; 課程總結
+  #### 課程
+  - 期末測驗
+
+
+  #### 實驗室 &#58; 已評分的實驗室

@@ -1,0 +1,91 @@
+### YamlMime:Course
+title: 用於 SAP 工作負載的 Microsoft Azure 規劃和管理
+metadata:
+  title: '課程 AZ-120T00-A: 規劃和管理Microsoft Azure for SAP Workloads'
+  description: '課程 AZ-120T00-A:規劃和管理Microsoft Azure for SAP Workloads'
+uid: course.az-120t00
+courseNumber: 'AZ-120T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 移轉SAP HANA，S/4HANA，SAP NetWeaver到Azure
+- skill: 利用Azure入口，Cloud Shell，Azure PowerShell，CLI和資源管理器
+- skill: 使用網站間連接功能，包括VNet對等和VNet到VNet連接
+- skill: 使用Azure Active Directory（AAD）和Azure AD Connect
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+- devops-engineer
+products:
+- azure
+exams:
+- uid: exam.az-120
+summary: |-
+  本課程教給在SAP解決方案方面經驗豐富的IT專業人員如何利用Azure資源（包括虛擬機器，虛擬網路，儲存帳戶的部署和配置）以及包括實作和管理混合身份識別的Azure AD。本課程的學生將透過概念，方案，過程和動手實驗學習如何在Azure上最佳規劃和實作SAP解決方案的移轉和操作。您將收到有關訂閱，創建和擴展虛擬機器，實作儲存解決方案，配置虛擬網路，備份和共享資料，連接Azure和內部網站，管理網路流量，實作Azure Active Directory，安全身份識別以及監視您的解決方案。
+
+  #### 對象設定檔
+  
+  本課程適用於在Azure上移轉和管理SAP解決方案的Azure管理員。Azure管理員管理跨儲存，網路和計算雲端功能的雲端服務，並對整個IT生命週期中的每項服務都有深刻的瞭解。他們接受終端使用者對新雲端應用程式的請求，並就可使用的服務提出建議，以實作最佳性能和規模，並根據需要提供，調整大小，監控和調整。該角色需要與供應商進行溝通和協調。Azure管理員使用Azure入口，並且隨著他們變得更加熟練，他們使用PowerShell和命令行界面。
+prerequisitesSection: |-
+  - 適用於SAP的Azure解決方案的管理員和架構師應具有SAP應用程式，SAP HANA，S/4HANA，SAP NetWeaver，SAP BW，用於SAP應用程式和資料庫的OS伺服器的紮實知識。
+  - 在學習本課程之前，建議學生參加Azure管理員（AZ-103）或Azure解決方案架構師（AZ-300）訓練以及SAP HANA和Linux訓練。
+outlineSection: |-
+  ### 模組1&#58; 簡介
+  
+  包含SAP和Microsoft合作關係的概述。
+
+  ### 模組2&#58; Azure上SAP的基礎
+  
+  包含有關Azure計算，Azure儲存，Azure網路，SAP HANA for Azure（大型實例），身份識別服務，控管和可管理性，備份和資料保護服務以及移轉服務的簡短課程。
+
+  ### 模組3&#58; Azure上的SAP認證產品
+  
+  包含有關一般先決條件的課程（公共雲端環境中的SAP支援），針對SAP工作負載的Azure部署選項，針對Azure的SAP產品特定支援，針對SAP工作負載的Azure作業系統支援，針對SAP工作負載的Azure儲存支援，針對SAP的網路支援SAP，對SAP的資料庫支援，對SAP的高可用性和災害復原支援以及對SAP的監視要求。
+  
+  #### 實驗室 &#58; 線上實驗室 &#58; 在Azure VM上實作Linux叢集
+  
+  #### 實驗室 &#58; 線上實驗室 &#58; 在Azure VM上實作Windows叢集
+  
+  ### 模組4&#58; Azure參考架構上的SAP
+  
+  包含有關在SAP NetWeaver上使用AnyDB，SAP S4 HANA和SAP HANA在Azure VM上的Azure（大型實例）上的課程。
+
+  ### 模組4&#58; Azure參考架構上的SAP
+  
+  包含有關在SAP NetWeaver上使用AnyDB，SAP S4 HANA和SAP HANA在Azure VM上的Azure（大型實例）上的課程。
+
+  ### 模組5&#58; 在Azure上實作SAP解決方案的規劃
+    
+  包含有關Azure Vm計算，網路和儲存考量的課程。以及Azure VM高可用性和災害復原，Azure VM備份考量，Azure VM監視考量，Azure VM安全考量以及Azure VM身份識別驗證和存取控制考量。
+
+  ### 模組6&#58; 規劃將SAP工作負載移轉到Azure
+    
+  包含有關將SAP系統移轉到Microsoft Azure和SAP工作負載規劃和部署清單的策略的課程。
+  
+  ### 模組7&#58; 實作基於Azure VM的SAP解決方案
+    
+  包含有關Azure VM部署方法，單實例實作（2層或3層），在Azure VM上使用AnyDB實作HA SAP NetWeaver，在Azure VM上實作HA SAP HANA，為SAP配置Azure增強監控擴展以及實作AD和基於Azure AD的身份識別驗證。
+  
+  ### 模組8&#58; 模組8-部署HANA大型實例（HLI）
+    
+  包含有關實作HANA大型實例（HLI）的課程。
+  
+  ### 模組9&#58; 將SAP工作負載移轉到Azure
+    
+  包含有關移轉選項，DMO方法論，雲端移轉選項和超大型資料庫到Azure移轉的課程。
+  
+  #### 實驗室 &#58; 運行Linux的Azure VM上的線上實驗室 實作SAP架構
+  
+  #### 實驗室 &#58; 運行Windows的Azure VM上的線上實驗室 實作SAP架構
+  
+  ### 模組10&#58; 在Azure上維護SAP
+    
+  包含有關以下內容的課程: 遠端管理，執行備份和還原，作業系統和工作負載更新，垂直和水平擴展以及災害復原（DR）。
+  
+  ### 模組11&#58; 在Azure上對SAP進行監視和疑難​​排解
+    
+  包含有關監視Azure VM，監視Azure上的SAP HANA（大型實例）以及將SAP解決方案與Microsoft雲端服務整合的課程。

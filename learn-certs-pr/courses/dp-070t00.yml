@@ -1,0 +1,95 @@
+### YamlMime:Course
+title: 將開放原始碼資料工作負載移轉到Azure
+metadata:
+  title: '課程 DP-070T00-A: 將開放原始碼資料工作負載移轉到Azure'
+  description: '課程 DP-070T00-A: 將開放原始碼資料工作負載移轉到Azure'
+uid: course.dp-070t00
+courseNumber: 'DP-070T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 將內部MySQL移轉到Azure SQL DB for MySQL
+- skill: 將內部部署 PostgreSQL 移轉到 Azure SQL DB for PostgreSQL
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- sql-server
+summary: |-
+  本課程將使學生能夠瞭解Azure SQL資料庫，並向學生提供將MySQL和PostgreSQL工作負載移轉到Azure SQL資料庫所需的知識。
+
+  #### 對象設定檔
+  本課程的主要對像是規劃將MySQL或Postgres DB工作負載移轉到Azure SQL DB的資料庫開發人員。
+  本課程的主要讀者是MySQL / Postgres管理員，旨在提高人們對Azure SQL DB的功能和優勢的認識。
+prerequisitesSection: |-
+  參加訓練的學生除了具備專業經驗外，還應具備以下技術知識&#58; 
+  - 對開放原始碼關係資料庫管理系統（例如Postgres和/或MySQL），SQL管理，備份和恢復技術（即傾印表資料）的一些瞭解
+outlineSection: |-
+  ### 模組 1&#58; 移轉到適用於MySQL和PostgreSQL的Azure SQL資料庫
+  本模組描述了Azure SQL DB的優點和架構。
+  #### 課程
+  - OSS資料庫概述
+  - 常見的OSS資料庫工作負載
+  - 移轉中的客戶挑戰
+
+
+  #### 實驗室 &#58; 創建來源OSS資料庫
+  - 安裝Postgres移轉資料庫伺服器
+  - 安裝MySQL移轉資料庫伺服器
+  - 從Postgres / MySQL進行備份/資料傾印
+  - 從資料傾印還原
+
+  在本模組的最後，學生將能夠&#58; 
+  - OSS資料庫概述
+  - 常見的OSS資料庫工作負載
+  - 移轉中的客戶挑戰
+
+
+  ### 模組 2&#58; 將內部MySQL移轉到Azure SQL DB for MySQL
+  本模組描述了將MySQL工作負載移轉到Azure SQL DB的好處和過程
+  #### 課程
+  - 為MySQL配置和管理Azure SQL DB
+  - 將內部MySQL移轉到SQL DB for MySQL
+  - 應用程式移轉
+  - 移轉後考量
+
+
+  #### 實驗室 &#58; 將MySQL資料庫工作負載移轉到Azure SQL DB
+  - 將MySQL資料庫工作負載移轉到Azure SQL DB
+  - 定義源資料庫和目標資料庫
+  - 執行移轉
+  - 驗證移轉
+
+  在本模組的最後，學生將能夠&#58; 
+  - 為MySQL配置和管理Azure SQL DB
+  - 將內部MySQL移轉到SQL DB for MySQL
+  - 應用程式移轉
+  - 移轉後考量
+
+
+  ### 模組 3&#58; 將內部PostgreSQL移轉到Azure SQL DB for PostgreSQL
+  本模組描述了將PostgreSQL DB工作負載移轉到Azure SQL DB的好處和過程
+  #### 課程
+  - 為PostgreSQL配置和管理Azure SQL DB
+  - 將內部MySQL移轉到PostgreSQL的SQL DB
+  - 應用程式移轉
+  - 移轉後考量
+
+
+  #### 實驗室 &#58; 將PostgreSQL資料庫工作負載移轉到Azure SQL資料庫
+  - 為PostgreSQL配置Azure SQL DB
+  - 定義源資料庫和目標資料庫
+  - 執行移轉
+  - 驗證移轉
+
+  在本模組的最後，學生將能夠&#58; 
+  - 為PostgreSQL配置和管理Azure SQL DB
+  - 將內部MySQL移轉到PostgreSQL的SQL DB
+  - 應用程式移轉
+  - 移轉後考量
+
+  #### 其他閱讀本課程不需要其他閱讀

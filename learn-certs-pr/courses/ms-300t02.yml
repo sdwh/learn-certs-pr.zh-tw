@@ -1,0 +1,100 @@
+### YamlMime:Course
+title: 線上管理 SharePoint
+metadata:
+  title: '課程 MS-300T02-A: 線上管理 SharePoint'
+  description: '課程 MS-300T02-A: 線上管理 SharePoint'
+uid: course.ms-300t02
+courseNumber: 'MS-300T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述如何配置使用者設定檔屬性
+- skill: 描述如何管理對象
+- skill: 描述如何使用應用程式目錄製作自訂應用程式
+- skill: 創建和管理字詞群組，字詞組和字詞
+- skill: 描述現代和傳統搜尋體驗之間的差異
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  在本課程中，您將學習如何使用適當的權限設定來管理使用者個人資料和應用程式。我們還將討論如何計劃和配置受管理的中繼資料，Business Connectivity Services 和搜尋，以允許在 Office 365 中尋找，使用和管理內容。
+
+  本課程適用於在組織中部署和管理團隊工作基礎結構的 IT 專業人員。
+
+  這是針對團隊工作管理員角色在一系列的四門課程中的第二門課程。這些課程幫助準備 MS-300 測驗&#58; 部署 Microsoft 365 團隊工作。
+
+  #### 對象設定檔
+  本課程適用於 Microsoft 365 團隊工作管理員角色。此角色負責配置、部署與管理專注於高效率，有效的共同作業與採用的 Office 365 與 Azure 工作負載。他們管理應用程式，服務和支援基礎結構構，以滿足商務需求。管理員知道並可以區分產品和服務，但可能無法直接管理每個產品或服務。
+
+  Teamwork 管理員必須能夠部署，管理，轉移與保護 SharePoint（線上，本地與混合），OneDrive 與團隊。
+
+  Teamwork 管理員對以下應用程式和服務的整合點有基本的理解&#58; Office，PowerApps，Flow，Yammer，Microsoft Graph，Stream，Planner 和 Project。管理員理解如何整合協力廠商應用程式與服務，包括商務營運應用程式。
+prerequisitesSection: |-
+  學習者應該已經具備以下技能才能開始本課程&#58;
+  - 使用 Windows PowerShell 的經驗
+  - 對 Active Directory 和 Azure AD 的基本理解
+  - 對行動裝置管理和其他作業系統（Android和macOS）有基本理解
+outlineSection: |-
+  ### 模組 1&#58; 管理使用者設定檔和應用程式
+  此模組是有關 SharePoint Online 中的使用者設定檔和自訂。討論如何在 SharePoint Online 中管理使用者設定檔。還介紹如何使用應用程式目錄使自訂商務應用程式可用於您的 SharePoint Online。
+
+  #### 課程
+  - 管理使用者設定檔
+  - 計劃和配置自訂項和應用程式
+
+
+  完成本單元後，學生將能夠&#58;
+  - 描述如何配置使用者設定檔屬性
+  - 描述如何管理對象
+  - 描述如何使用應用程式目錄製作自訂應用程式
+
+
+  ### 模塊2&#58; 規劃和配置受管理的中繼資料和商務連線性
+  此模組是有關受管理的中繼資料和 Business Connectivity Services。介紹中繼資料的概念以及匯入字詞組的流程。同時描述如何管理 Business Connectivity Services 和創建外部清單。
+
+
+  #### 課程
+  - 計劃和配置受管理的中繼資料
+  - 計劃和 Business Connectivity Services（BCS）和 Secure Store Service
+
+
+  完成本單元後，學生將能夠&#58;
+  - 描述受管理的中繼資料的功能
+  - 創建和管理字詞群組，字詞組和字詞
+  - 說明 BDC 模型的關鍵元件
+  - 描述 BCS 的高級架構
+  - 說明 Secure Store Service 的目的
+
+
+  ### 模組 3&#58; 計劃和配置搜尋
+  此模組是關於企業搜尋服務應用程式。提供有關計劃和配置內容來源、編目排程和編目規則的詳細資料。還討論如何佈建一系列搜尋元件的搜尋管理，例如查詢規則，結果類型和顯示範本。
+
+  #### 課程
+  - SharePoint Online 中的搜尋概述
+  - 管理搜尋
+
+
+  完成本單元後，學生將能夠&#58;
+  - 描述現代和傳統搜尋體驗之間的差異
+  - 描述如何計劃和配置內容來源
+  - 描述如何管理搜尋結構
+  - 說明查詢規則的使用和部署
+  - 說明結果來源的使用和部署
+
+
+  ### 模組 4&#58; 課程總結
+
+  #### 實驗室 &#58; 匯入字詞組
+

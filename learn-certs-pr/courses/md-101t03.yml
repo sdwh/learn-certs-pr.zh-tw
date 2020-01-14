@@ -1,0 +1,113 @@
+### YamlMime:Course
+title: 保護現代智慧桌面和裝置
+metadata:
+  title: '課程 MD-101T03-A: 保護現代智慧桌面和裝置'
+  description: '課程 MD-101T03-A: 保護現代智慧桌面和裝置'
+uid: course.md-101t03
+courseNumber: 'MD-101T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 Azure AD 的優勢和功能
+- skill: 使用 Azure AD 和 Active Directory DS 管理使用者
+- skill: 實作 Windows Hello 企業版
+- skill: 根據合規性原則配置條件式存取規則
+- skill: 描述用於保護裝置和資料的各種工具
+- skill: 實作 Windows Defender 進階威脅防護
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  每天，更多組織要求 IT 支援員工行動力。現代環境要求桌面管理員能夠管理和支援電話，平板電腦和電腦，無論它們是由組織擁有還是由員工個人擁有。同時，IT 必須仍然能夠保護這些裝置存取的資料。在本課程中，將向學生介紹現代管理中安全性的關鍵概念。本課程涵蓋驗證，身份識別和存取，以及如何保護這些類別。將向學生介紹 Azure Active Directory，並教導其如何使用 Microsoft Intune 透過合規性原則保護裝置和資料。最後，本課程將涵蓋 Azure 資訊保護和 Windows Defender 進階威脅防護的關鍵功能以及如何實作這些功能。
+
+  #### 對象設定檔
+  現代智慧桌面管理員（MDA）在企業環境中部署，配置，保護，管理和監視裝置和用戶端應用程式。責任包括管理身分識別，存取，原則，更新和應用程式。MDA 與 M365 企業管理員共同作業以設計和實作可滿足現代組織商務需求的裝置策略。MDA 必須熟悉 M365 工作負載，並且必須在部署，配置和維護 Windows 10 和非 Windows 裝置方面擁有豐富的技能與經驗。MDA 角色著重於雲端服務，而不是內部部署管理技術。
+prerequisitesSection: |-
+  現代智慧桌面管理員（MDA）
+  必須熟悉 M365 工作負載，並且必須在部署，配置和維護 Windows 10 和
+  非 Windows 裝置方面
+  擁有豐富技能和經驗。MDA 角色著重於雲端服務，而不是
+  內部部署管理技術。
+outlineSection: |-
+  ### 模組 1&#58; 在 Azure AD 中管理驗證
+  在本模組中，將向學生介紹在 Azure Active Directory（Azure Ad）的雲端中目錄概念。學生將學習 Azure AD 和 Active Directory DS 之間的相似性和差異以及如何在兩者之間進行同步。學生將探索 Azure AD 中的身分識別管理，並學習使用 Windows Hello 企業版的身分識別保護以及 Azure AD 身分識別保護和多重要素驗證。該模組將以安全存取公司資源作為結束，並介紹諸如 Windows 10 中的 Always On VPN 和遠端連線之類的概念。
+  #### 課程
+  - Azure AD 概述
+  - 在 Azure AD 中管理身份識別
+  - 在 Azure AD 中保護身份識別
+  - 管理裝置驗證
+  - 啟用公司存取
+
+
+  #### 實驗室 &#58; 練習實驗室- 在 Azure AD 中管理物件和驗證
+  - 使用企業移動性 + 安全性（EMS）租用戶啟用和配置 Azure AD Premium
+  - 使用 UI 和 Windows PowerShell 創建用戶和群組物件
+  - 在 Azure AD 中為使用者帳號配置自助式密碼重設（SSPR）
+  - 將裝置加入 Azure AD
+
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 Azure AD 的功能。
+  - 使用 Azure AD 和 Active Directory DS 管理使用者。
+  - 實作 Windows Hello 企業版。
+  - 將裝置加入 Azure AD
+  - 描述啟用來自外部網路存取的方法。
+
+
+  ### 模組 2&#58; 管理裝置和裝置原則
+  在本模組中，將向學生介紹使用 Intune 管理裝置安全性。學生將發現 Intune 如何可以使用裝置設定檔配置來管理裝置的設定以保護裝置上的資料。學生將學習如何創建和部署合規性原則以及如何使用合規性原則進行條件式存取。該模組總結 Intune 中註冊的監視裝置。
+  #### 課程
+  - Microsoft Intune 概述
+  - 使用 Intune 管理裝置
+  - 實作裝置合規性原則
+
+
+  #### 實驗室 &#58; 練習實驗室-管理裝置
+  - 配置 Microsoft Intune 進行裝置管理
+  - 配置合規性原則和裝置設定檔
+  - 註冊 Windows 10 裝置並管理合規性
+
+
+  完成本單元後，學生將能夠&#58;
+  - 使用 Intune 描述行動裝置管理。
+  - 創建並指派裝置設定檔以保護裝置上的資料。
+  - 部署合規性和條件式存取原則。
+  - 使用 Intune 監視裝置合規性。
+
+
+  ### 模組 3&#58; 管理安全性
+  在本模組中，學生將資料保護。主題將包括 Windows 和 Azure 資訊保護以及 Windows 10 支援的各種加密技術。本模組還涵蓋 Windows Defender 進階威脅防護（Windows Defender ATP）的關鍵功能，以及如何在您的組織中裝置上實作這些功能。該模組結束時將使用 Windows Defender 並使用防毒、防火牆和 Credential Guard 等功能。
+  #### 課程
+  - 實作裝置資料保護
+  - 管理 Windows Defender ATP
+  - 在 Windows 10 中管理 Windows Defender
+
+
+  #### 實驗室 &#58; 練習實驗室-管理 Windows 10 的安全性
+  - 配置加密檔案系統（EFS）
+  - 配置 BitLocker
+  - 在 Intune 中配置 WIP 原則 
+  - 配置 Windows Defender
+
+
+  完成本單元後，學生將能夠&#58;
+  - 描述保護裝置資料的方法。
+  - 描述 Windows Defender ATP 的功能和優勢。
+  - 部署和管理 Windows Defender 用戶端的設定。
+
+
+  ### 模組 4&#58; 課程總結
+  #### 課程
+  - 期末測驗
+
+
+  #### 實驗室 &#58; 已評分的實驗室

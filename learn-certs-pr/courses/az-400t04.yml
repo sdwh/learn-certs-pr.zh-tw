@@ -1,0 +1,72 @@
+### YamlMime:Course
+title: 實作相依性管理
+metadata:
+  title: '課程 AZ-400T04-A: 實作相依性管理'
+  description: '課程 AZ-400T04-A: 實作相依性管理'
+uid: course.az-400t04
+courseNumber: 'AZ-400T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 建議成品管理工具與作法
+- skill: 抽象一般套件以啟用共用與重複使用
+- skill: 檢查程式碼基底以識別可以轉換為包套件的程式碼相依性
+- skill: 識別並建議整個解決方法中的標準化軟體套件類型與版本
+- skill: 重構現有建置管線以實現發行套件的版本策略
+- skill: 管理安全性與合規性
+- skill: 檢查開放原始碼軟體包的安全性與授權證合規性
+- skill: 設定組件管線以存取安全性與授權等級
+- skill: 設定對套件摘要的安全存取
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  本課程提供實作相依性管理的知識和技能。學生將學習如何設計相依性管理策略以及如何管理安全性和合規性。
+
+  #### 對象設定檔
+  本課程的學生對實作相依關係管理或透過Microsoft Azure DevOps Solutions認證測驗感興趣。
+prerequisitesSection: |-
+  關於Azure，版本控制，敏捷軟體開發和核心軟體開發原理的基礎知識。在提供軟體的組織中擁有經驗會很有幫助。
+outlineSection: |-
+  ### 模組 1&#58; 設計相依性管理策略
+  #### 課程
+  - 簡介
+  - 封裝相依性
+  - 封裝管理
+  - 實作版本控制策略
+
+
+  #### 實驗室 &#58; 更新軟體包
+  完成本單元後，學生將能夠&#58; 
+  - 推薦成品管理工具和實踐
+  - 抽象的通用軟體包以實作共享和重用
+  - 檢查代碼庫以確定可以轉換為程序包的代碼相依性關係
+  - 確定並推薦整個解決方案中的標準化軟體包類型和版本
+  - 重構現有的構建管道以實作發布包的版本策略
+  - 管理安全性和合規性
+
+
+  ### 模組 2&#58; 管理安全性和合規性
+  #### 課程
+  - 簡介
+  - 封裝安全
+  - 開放原始碼軟體
+  - 整合許可證和漏洞掃描
+
+  完成本單元後，學生將能夠&#58; 
+  - 檢查開放式程式碼軟體套件的安全性與授權合規性，以符合公司標準
+  - 配置構建管道以存取軟體包安全性和許可證等級
+
+  - 設定對套件摘要的安全存取

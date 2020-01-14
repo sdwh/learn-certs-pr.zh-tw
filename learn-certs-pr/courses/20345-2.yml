@@ -1,0 +1,284 @@
+### YamlMime:Course
+title: 設計和部署Microsoft Exchange Server 2016/2019
+metadata:
+  title: '課程 20345-2-B: 設計和部署Microsoft Exchange Server 2016/2019'
+  description: '課程 20345-2-B: 設計和部署Microsoft Exchange Server 2016/2019'
+uid: course.20345-2
+courseNumber: '20345-2-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 規劃Exchange Server部署。
+- skill: 規劃和部署Exchange Server硬體，虛擬化，信箱資料庫和公用資料夾。
+- skill: 規劃Exchange Server中的訊息傳輸。
+- skill: 規劃和部署Exchange Server中的用戶端存取服務。
+- skill: 設計和實作高可用性的Exchange Server環境。
+- skill: 透過使用受控可用性和預期狀態設定（DSC）維護Exchange Server。
+- skill: 規劃訊息安全性，並設計和實作Exchange Server中的Active Directory權限管理服務（AD RMS）和Microsoft Azure RMS。
+- skill: 設計並實作訊息保留和歸檔。
+- skill: 設計和實作資料外洩防護策略，就地保留和eDiscovery。
+- skill: 設計和實作Exchange Server組織之間的訊息共存。
+- skill: 規劃並實作從早期版本的Exchange Server到Exchange Server 2019的升級。
+- skill: Plan a hybrid Exchange deployment.
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.70-345
+summary: |-
+  本課程為經驗豐富的Exchange Server管理員提供了設計和實作Exchange Server訊息環境的知識。該課程涵蓋如何設計和配置Exchange Server部署中的高階組件，例如網站彈性，高階安全性，合規性，存檔和發現解決方案，與其他Exchange組織或Exchange Online的共存以及從早期版本的Exchange Server移轉。該課程還提供了指南，最佳做法和考量，有助於最佳化Exchange Server部署。
+
+  #### 對象設定檔
+  本課程的受眾包括經驗豐富的訊息傳遞管理員，訊息傳遞架構師或顧問的IT專業人員。本課程是為企業環境中負責設計和部署Exchange Server解決方案的人員而設計的，其中包括包含早期版本的Exchange Server或Exchange Online的環境。參加本課程的學生應具有Exchange Server 2019或早期版本的Exchange Server的經驗。
+prerequisitesSection: |-
+  參加訓練的學生除了具備專業經驗外，還應具備以下技術知識&#58; 
+  - 參加課程20345-1B&#58; 管理Microsoft Exchange Server 2016/2019或具有同等知識
+  - 至少有兩年使用任何版本的Exchange Server的經驗
+  - 至少有六個月的Exchange Server 2013或Exchange Server 2016工作經驗
+  - 至少兩年的Windows Server作業系統管理經驗，包括Windows Server 2016或Windows Server 2019
+  - 至少有兩年使用Active Directory網域服務（AD DS）的經驗
+  - 至少兩年的域名解析工作經驗，包括網域名稱系統 (DNS)
+  - 處理證書的經驗，包括公開金鑰基礎結構(PKI)證書
+  - 有使用 Windows PowerShell 的經驗
+outlineSection: |-
+  ### 模組 1&#58; 規劃Exchange Server部署
+  本模組說明了Exchange Server的關鍵功能，並說明如何收集商務需求。它還說明如何規劃Exchange Server部署以及如何將統一訊息移轉到Cloud Voicemail。
+  
+  #### 課程
+  - Exchange Server 2019中的新功能
+  - 收集Exchange Server部署的商務需求
+  - 規劃Exchange Server部署
+  - 規劃將統一訊息（UM）移轉到Cloud Voicemail
+
+
+  #### 實驗室 &#58; 規劃Exchange Server 2019部署
+  - 評估現有的通訊基礎結構
+  - 確定要求
+  - 討論&#58; Exchange Server 2019的部署設計
+
+  完成本單元後，學生將能夠&#58; 
+  - 描述Exchange Server 2019中的新功能
+  - 描述如何收集Exchange Server部署的商務需求
+  - 規劃Exchange Server部署
+  - 規劃如何將Exchange Server 2016 UM移轉到Cloud Voicemail
+
+
+  ### 模組 2&#58; 規劃和部署Exchange Server信箱服務
+  本模組說明如何規劃和實作Exchange Server硬體，Exchange Server虛擬化，Azure整合和公用資料夾。
+  #### 課程
+  - 規劃Exchange Server硬體要求
+  - 規劃用於虛擬化和Microsoft Azure整合的Exchange Server
+  - 規劃和實作公用資料夾
+
+
+  #### 實驗室 &#58; 規劃和實作Exchange Server信箱伺服器，資料庫和公用資料夾
+  - 規劃信箱伺服器的配置和位置
+  - 規劃信箱資料庫
+  - 實作信箱資料庫
+  - 規劃和實作公用資料夾
+
+  完成本單元後，學生將能夠&#58; 
+  - 規劃和實作Exchange Server硬體
+  - 規劃Exchange Server虛擬化和Microsoft Azure整合
+  - 規劃和實作公用資料夾
+
+
+  ### 模組 3&#58; 規劃訊息傳輸
+  本模組說明如何在內部以及從網際網路到網際網路的地方規劃和實作郵件路由。該模組還描述了組織中與運輸有關的任務。
+  #### 課程
+  - 設計訊息路由
+  - 設計運輸服務
+  - 設計訊息路由邊界
+  - 設計和實作運輸合規性
+
+
+  #### 實驗室 &#58; 規劃訊息傳輸
+  - 規劃冗餘和安全的訊息傳輸
+  - 規劃運輸合規性
+  - 遵守運輸法規
+
+  完成本單元後，學生將能夠&#58; 
+  - 設計訊息路由
+  - 設計運輸服務
+  - 設計外部訊息路由
+  - 設計並實作運輸合規性
+
+
+  ### 模組 4&#58; 規劃和部署用戶端存取
+  本模組說明如何規劃和實作Exchange Server用戶端，用戶端存取，Microsoft Office Online Server以及Microsoft SharePoint與Exchange Server的共存。它還說明了外部用戶端存取的設計和實作。
+  #### 課程
+  - 規劃Exchange Server用戶端
+  - 規劃用戶端存取
+  - 規劃和實作Office Online伺服器
+  - 規劃和實作SharePoint 2019與Exchange Server 2019的共存
+  - 設計外部用戶端存取
+
+
+  #### 實驗室 &#58; 規劃和部署用戶端存取解決方案
+  - 規劃和配置名稱空間
+  - 規劃和配置用戶端存取服務選項
+  - 規劃和部署Office Online伺服器
+  - 規劃和實作反向代理
+
+  完成本單元後，學生將能夠&#58; 
+  - 規劃Exchange Server用戶端
+  - 規劃用戶端存取
+  - 規劃和實作Office Online伺服器
+  - 規劃和實作SharePoint並與Exchange Server共存
+  - 設計外部用戶端存取
+
+
+  ### 模組 5&#58; 設計和實作高可用性
+  本模組說明如何規劃和實作Exchange Server的高可用性。它還說明如何規劃負載平衡。最後，它說明如何規劃和實作網站彈性。
+  #### 課程
+  - 規劃Exchange Server的高可用性
+  - 規劃負載平衡
+  - 規劃網站彈性
+
+
+  #### 實驗室 &#58; 設計和實作高可用性
+  - 規劃高可用性和網站彈性
+  - 創建網站彈性DAG
+  - 驗證網站的彈性
+  - 創建滯後的資料庫副本
+  - 從滯後的資料庫副本中恢復資料
+
+  完成本單元後，學生將能夠&#58; 
+  - 規劃Exchange伺服器的高可用性
+  - 規劃Exchange Server部署中的負載平衡
+  - 規劃Exchange Server部署中的網站彈性
+
+
+  ### 模組 6&#58; 維護Exchange Server
+  本模組說明如何使用受管理的可用性和DSC維護Exchange Server。
+  #### 課程
+  - 使用受管理的可用性來提高高可用性
+  - 實作DSC
+
+
+  #### 實驗室 &#58; 維護Exchange Server
+  - 使用Windows PowerShell調查和配置受管理的可用性
+  - 實作DSC
+
+  完成本單元後，學生將能夠&#58; 
+  - 使用受管理的可用性來提高高可用性
+  - 實作DSC
+
+
+  ### 模組 7&#58; 設計訊息安全性
+  本模組說明如何規劃訊息安全以及如何在Exchange Server組織中設計和實作AD RMS和Azure RMS。
+  #### 課程
+  - 規劃訊息傳遞安全性
+  - 設計和實作AD RMS和Azure RMS
+
+
+  #### 實驗室 &#58; 設計訊息傳遞安全性
+  - 規劃訊息傳遞安全性
+  - 實作AD RMS
+  - 將AD RMS與Exchange Server整合
+  - 創建訊息傳輸規則以保護電子郵件
+
+  完成本單元後，學生將能夠&#58; 
+  - 規劃訊息安全
+  - 設計和實作AD RMS和Azure RMS
+
+
+  ### 模組 8&#58; 設計和實作訊息保留和歸檔
+  本模組說明了歸檔和訊息記錄管理的目的。它還說明如何設計和實作就地存檔和訊息保留
+  #### 課程
+  - 歸檔和訊息記錄管理概述
+  - 設計就地存檔
+  - 設計和實作訊息保留
+
+
+  #### 實驗室 &#58; 設計和實作訊息保留和歸檔
+  - 設計訊息保留和歸檔
+  - 實作訊息保留和歸檔
+
+  完成本單元後，學生將能夠&#58; 
+  - 說明歸檔和訊息記錄管理的目的
+  - 設計和實作就地存檔
+  - 設計和實作訊息保留
+
+
+  ### 模組 9&#58; 設計和實作訊息傳遞合規性
+  本模組說明如何設計和實作資料外洩防護策略，就地保留和就地eDiscovery。
+  #### 課程
+  - 設計和實作資料外洩防護的政策
+  - 設計和實作就地保留
+  - 設計和實作就地eDiscovery
+
+
+  #### 實驗室 &#58; 設計和實作訊息傳遞合規性
+  - 設計訊息傳遞合規性
+  - 實作資料外洩預防
+  - 實作就地eDiscovery
+  - 比較訊息傳遞策略和合規性選項
+
+  完成本單元後，學生將能夠&#58; 
+  - 設計和實作資料外洩防護
+  - 設計和實作就地保留
+  - 設計和實作就地eDiscovery
+
+
+  ### 模組 10&#58; 設計和實作訊息共存
+  本模組說明如何設計和實作聯合。它還說明如何設計Exchange Server組織之間的共存。最後，它解釋跨樹系如何設計和實作信箱行動。
+  #### 課程
+  - 設計和實作聯盟
+  - 設計Exchange組織之間的共存
+  - 設計和實作跨樹系信箱行動
+
+
+  #### 實驗室 &#58; 實作訊息共存
+  - 實作訊息路由共存
+  - 移轉使用者信箱
+
+  完成本單元後，學生將能夠&#58; 
+  - 設計和實作聯盟
+  - 設計Exchange Server組織之間的共存
+  - 設計和實作跨樹系信箱行動
+
+
+  ### 模組 11&#58; 升級到Exchange Server 2019
+  本模組概述了您選擇實作Exchange Server 2019時所具有的選項，並提供了有關如何將現有Exchange Server 2013或Exchange Server 2016組織升級到Exchange Server 2019的詳細資訊。
+  #### 課程
+  - 規劃從以前的Exchange Server版本進行升級
+  - 從以前的Exchange Server版本實作升級
+
+
+  #### 實驗室 &#58; 從Exchange Server 2013升級到Exchange Server 2019
+  - 記錄Exchange Server 2013組織
+  - 部署Exchange Server 2019
+  - 從Exchange Server 2013升級到Exchange Server 2019
+  - 刪除Exchange Server 2013
+
+  完成本單元後，學生將能夠&#58; 
+  - 規劃升級到Exchange Server 2019
+  - 實作到Exchange Server 2019的升級
+
+
+  ### 模組 12&#58; 規劃混合Exchange Server部署
+  本模組說明混合部署的基礎知識以及如何規劃混合部署中的身份識別驗證。它還說明如何實作Microsoft Azure Active Directory(Azure AD)Connect，混合開發以及用於混合部署的高階功能。
+  #### 課程
+  - 混合部署的基礎
+  - 規劃和實作混合部署
+  - 實作 Azure AD Connect
+  - 實作混合部署
+  - 為混合部署實作高階功能
+
+
+  #### 實驗室 &#58; 規劃混合Exchange部署
+  - 為混合Exchange部署制定規劃
+
+  完成本單元後，學生將能夠&#58; 
+  - 解釋混合部署的基礎
+  - 在混合環境中規劃身份識別驗證
+  - 實作Azure AD Connect
+  - 實作混合部署
+  - 為混合部署實作高階功能

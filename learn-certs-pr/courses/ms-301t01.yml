@@ -1,0 +1,106 @@
+### YamlMime:Course
+title: 實作 SharePoint 2019 基礎結構
+metadata:
+  title: '課程 MS-301T01-A: 實作 SharePoint 2019 基礎結構'
+  description: '課程 MS-301T01-A: 實作 SharePoint 2019 基礎結構'
+uid: course.ms-301t01
+courseNumber: 'MS-301T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 SharePoint 2019 中的 MinRole 功能
+- skill: 描述如何安裝和配置 SharePoint 2019
+- skill: 描述如何實作 SharePoint 高可用性
+- skill: 描述 SharePoint 2019 中驗證基礎結構
+- skill: 解釋同盟身份背後的概念
+- skill: 描述如何創建網站集合
+- skill: 描述如何計劃 SharePoint 2019 中授權
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  SharePoint Server 2019 旨在滿足現代工作型態的需求。提供使用者新的現代體驗，這些體驗在 SharePoint Online 中既直觀又熟悉。在本課程中，您將學習如何部署和配置 SharePoint Server 2019。我們還將討論如何在內部部署驗證和安全性下計劃和配置 SharePoint 以保護環境。您還將學習如何管理 SharePoint 內容以與現代資訊架構保持一致。
+
+  本課程適用於在組織中部署和管理團隊工作基礎結構的 IT 專業人員。
+
+  這是針對團隊工作管理員角色在一系列的四門課程中的第一門課程。這些課程幫助準備 MS-301 測驗&#58; 部署 SharePoint Server 混合式。
+
+  #### 對象設定檔
+  本課程適用於 Microsoft 365 團隊工作管理員角色。此角色負責配置、部署與管理專注於高效率，有效的共同作業與採用的 Office 365 與 Azure 工作負載。他們管理應用程式，服務和支援基礎結構構，以滿足商務需求。管理員知道並可以區分產品和服務，但可能無法直接管理每個產品或服務。
+
+  Teamwork 管理員必須能夠部署，管理，轉移與保護 SharePoint（線上，本地與混合），OneDrive 與團隊。
+
+  Teamwork 管理員對以下應用程式和服務的整合點有基本的理解&#58; Office，PowerApps，Flow，Yammer，Microsoft Graph，Stream，Planner 和 Project。管理員理解如何整合協力廠商應用程式與服務，包括商務營運應用程式。
+prerequisitesSection: |-
+  學習者應該已經具備以下技能才能開始本課程&#58;
+  - 使用 Windows PowerShell 的經驗
+  - 對SQL Server 管理的基本理解
+  - 對網路功能的基本理解，包括DNS
+  - Windows 伺服器管理的工作知識
+  - 對 Active Directory 和 Azure AD 的基本理解
+  - 對行動裝置管理和其他作業系統（Android和macOS）有基本理解
+outlineSection: |-
+  ### 模組 1&#58; SharePoint 基礎結構
+  此模組是關於基本 SharePoint 基礎結構。描述 SharePoint 陣列中的元件。討論如何安裝和配置 SharePoint 陣列
+
+  #### 課程
+  - 計劃 SharePoint 陣列
+  - SharePoint 2019
+  - 安裝和管理 SharePoint 陣列
+
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 SharePoint 2019 中的 MinRole 功能
+  - 描述如何安裝和配置 SharePoint 2019
+  - 描述如何實作 SharePoint 高可用性
+  - 計劃伺服器陣列備份和還原
+
+
+  ### 模組 2&#58; SharePoint 驗證和安全性
+  此模組是關於 SharePoint 驗證和安全性。介紹 SharePoint 2019 中不同的驗證方法。
+
+  #### 課程
+  - 計劃驗證
+  - 配置同盟驗證
+
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 SharePoint 2019 中驗證基礎結構
+  - 描述 NTLM 和 Kerberos 驗證
+  - 描述伺服器對伺服器驗證
+  - 解釋同盟身份背後的概念
+
+
+  ### 模組 3&#58; SharePoint 內容管理
+  此模組是關於 SharePoint 內容管理。討論 SharePoint 中內容結構。還提供有關 SharePoint 中授權和內容存取的詳細資訊。
+
+  #### 課程
+  - SharePoint 內容結構概述
+  - 管理存取內容
+  - 管理網站集合
+
+
+  完成本單元後，學生將能夠&#58;
+  - 說明網站集概念
+  - 描述如何創建網站集合
+  - 描述如何計劃 SharePoint 2019 中授權
+  - 描述如何計劃 SharePoint 2019 中管理權限等級
+  - 描述如何計劃 SharePoint 2019 中管理 SharePoint 群組
+
+
+  ### 模組 4&#58; 課程總結
+
+  #### 實驗室 &#58; 創建和配置Web應用程式
+

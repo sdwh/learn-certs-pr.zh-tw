@@ -1,0 +1,128 @@
+### YamlMime:Course
+title: 實作 Microsoft 365 威脅防護
+metadata:
+  title: '課程 MS-500T02-A: 實作 Microsoft 365 威脅防護'
+  description: '課程 MS-500T02-A: 實作 Microsoft 365 威脅防護'
+uid: course.ms-500t02
+courseNumber: 'MS-500T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述網路攻擊威脅向量。
+- skill: 描述 Microsoft 365 的安全性解決方案
+- skill: 使用 Microsoft 安全分數來評估您的安全性狀態。
+- skill: 使用 Microsoft 安全性與合規性中心中安全性儀表板。
+- skill: 配置 Microsoft 365 各種進階威脅防護服務。
+- skill: 配置進階威脅分析。
+- skill: 計劃和部署行動裝置管理。
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-500
+summary: |-
+  威脅防護透過整合和自動化安全性來幫助阻止損害姓攻擊。在本課程中，您將學習有助於保護 Microsoft 365 環境的威脅防護技術。明確的說，您將學習威脅向量和他們的 Microsoft 安全性解決方案。您將學習安全分數，Exchange Online 保護，Azure 進階威脅防護，Windows Defender 進階威脅防護，以及如何使用 Microsoft 365 威脅情報。還討論保護行動裝置和應用程式。本課程的目標是幫助您配置 Microsoft 365 部署，以達成所需的安全性狀態。
+
+  #### 對象設定檔
+  本課程適用於 Microsoft 365 安全性系統管理員角色。該角色與 Microsoft 365 企業系統管理員，企業利害關係和其他工作負載管理員共同作業以計劃和實作安全性策略，並確保解決方案符合組織的政策和法規。
+
+  本角色主動保護 Microsoft 365 企業環境。責任包括回應威脅，實作，管理和監視 Microsoft 365 環境的安全性和合規性解決方案。他們回應事件，調查和強制資料控管。
+
+  Microsoft 365 安全性系統管理員熟悉 Microsoft 365 工作負載，並且在身份識別保護，資訊保護，威脅防護，安全性管理和資料控管方面擁有豐富的技能與經驗。此角色側重於 Microsoft 365 環境，且包括混合式環境。
+prerequisitesSection: |-
+  學習者應該已經具備以下技能才能開始本課程&#58;
+  - 對 Microsoft Azure 的基本概念瞭解。
+  - 使用 Windows 10 裝置的經驗。
+  - 使用Office 365的經驗。
+  - 對授權和驗證的基本瞭解。
+  - 對電腦網路的基本瞭解。
+  - 管理行動裝置的工作知識。
+outlineSection: |-
+  ### 模組 1&#58; 在 Microsoft 365 中安全性
+  本模組首先說明存在的各種網路攻擊威脅。然後，向您介紹 Microsoft 解決方案，以防止這些威脅。該模組以 Microsoft 安全分數以及如何將其用於評估和報告您的組織安全性狀態的說明作為結束。
+  #### 課程
+  - 威脅向量和資料外洩
+  - Microsoft 365 的安全性解決方案
+  - Microsoft 安全分數
+
+  完成本單元後，學生將能夠&#58;
+  - 描述駭客透過電子郵件入侵使用者帳號的幾種技術。
+  - 描述駭客用來控制資源的技術。
+  - 列出使用 Exhange Online Protection 和 Office 365 ATP 可以避免的威脅類型。
+  - 描述 Microsoft 365 威脅情報如何使您的組織中安全人員和管理員受益。
+  - 描述安全分數的好處以及可以分析哪一種服務。
+  - 關於安全性方面，描述如何使用該工具來識別您目前的狀態與您想達到的狀態的差距。
+
+
+  ### 模組 2&#58; 進階威脅防護
+  本模組說明 Microsoft 365 中可用的各種威脅防護技術和服務。明確的說，該模塊涵蓋透過 Exchange Online Protection，Azure 進階威脅防護和 Windows Defender 進階威脅防護進行的郵件保護。
+  #### 課程
+  - Exchange Online Protection
+  - Office 365 進階威脅防護。
+  - 管理安全附件
+  - 管理安全連結
+  - Azure 進階威脅防護
+  - Windows Defender 進階威脅防護
+
+
+  #### 實驗室 &#58; 進階威脅防護。
+  - 設定您的實驗室環境
+  - 編輯 ATP 安全連結原則並創建安全附件原則
+
+  完成本單元後，學生將能夠&#58;
+  - 描述由 Exchange Online Protection 分析電子郵件時的反惡意程式碼管道。
+  - 描述如何使用安全附件封鎖電子郵件附件和文件中的零時差惡意程式碼。
+
+  - 描述安全連結如何保護使用者免受內嵌在電子郵件和指向惡意網站的文件中的惡意 URL 的侵害。
+  - 配置 Azure 進階威脅防護
+  - 配置 Windows Defender ATP
+  - 將 Windows Defender ATP 與 Azure ATP 整合在一起。
+
+
+  ### 模組 3&#58; 威脅情報
+  本模組說明 Microsoft 威脅情報，為您提供評估和解決網路威脅的工具。您將在 Microsoft 365 安全性和合規中心中學習如何使用安全儀表板。 還說明並配置 Microsoft 進階威脅分析。
+  #### 課程
+  - Microsoft 365 威脅情報
+  - 使用安全性儀表板
+  - 配置進階威脅分析
+
+
+  #### 實驗室 &#58; 進階威脅分析
+  - 啟用和安裝 ATA Center
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 Microsoft 365 中威脅情報如何由 Microsoft Intelligent Security Graph 提供支援。
+  - 描述如何使用 Threat Explorer 來調查威脅並幫助保護租用戶。
+  - 描述安全性儀表板如何使高階主管深入解析主要風險，全球趨勢，保護品質以及組織面臨的威脅。
+  - 描述如何將安全性儀表板用作啟動點，以使安全分析人員可以使用 Threat Explorer 向下鑽取更多詳細資訊。
+  - 描述什麼是進階威脅分析（ATA）以及部署它需要哪些要求。
+  - 配置進階威脅分析。
+
+
+  ### 模組 4&#58; 行動性
+  本模塊全部是關於保護行動裝置和應用程式。學生將學習行動裝置管理及其如何使用 Intune。他們還將學習如何將 Intune 和 Azure AD 用於保護行動應用程式。
+  #### 課程
+  - 計劃行動應用程式管理
+  - 計劃行動裝置管理
+  - 部署行動裝置管理
+  - 將裝置註冊到行動裝置管理
+
+  完成本單元後，學生將能夠&#58;
+  - 描述行動應用程式考慮事項。
+  - 使用 Intune 管理行動應用程式。
+  - 使用 MDM 管理裝置
+  - 比較 Office 365 和 Intune 的MDM。
+  - 配置 MDM 網域。
+  - 管理裝置安全性原則。
+  - 定義公司裝置註冊原則。
+  - 將裝置註冊到MDM。
+  - 配置裝置註冊管理員角色。
+

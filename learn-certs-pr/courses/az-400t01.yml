@@ -1,0 +1,110 @@
+### YamlMime:Course
+title: 實作DevOps開發流程
+metadata:
+  title: '課程 AZ-400T01-A: 實作DevOps開發流程'
+  description: '課程 AZ-400T01-A: 實作DevOps開發流程'
+uid: course.az-400t01
+courseNumber: 'AZ-400T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述採用原始檔控制的好處
+- skill: 從 TFVC 移轉 Git
+- skill: 縮放 Enterprise DevOps的 Git 
+- skill: 實作與管理基礎架構的構建
+- skill: 管理應用程式配置和機密
+- skill: 實施行動DevOps策略
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  本課程提供實作DevOps流程的知識和技能。學生將學習如何使用原始檔控制，為企業擴展Git以及實作和管理構建基礎結構。
+
+  #### 對象設定檔
+  本課程的學生對實作DevOps流程或透過Microsoft Azure DevOps Solutions認證測驗感興趣。
+prerequisitesSection: |-
+  關於Azure，版本控制，敏捷軟體開發和核心軟體開發原理的基礎知識。在提供軟體的組織中擁有經驗會很有幫助。
+outlineSection: |-
+  ### 模組 1&#58; 原始檔控制入門
+  #### 課程
+  - 什麼是原始檔控制？
+  - 原始檔控制的好處
+  - 原始檔控制系統的類型
+  - Azure Repos簡介
+  - 從Team Foundation版本控制（TFVC）移轉到Git
+  - 驗證您的Git回購
+
+  完成本單元後，學生將能夠&#58; 
+  - 描述使用原始檔控制的好處
+  - 從TFVC移轉到Git
+
+
+  ### 模組 2&#58; 為企業DevOps擴展git
+  #### 課程
+  - 如何構建您的Git回購
+  - Git分支工作流程
+  - 與拉取請求共同作業
+  - 為什麼要關心GitHooks？
+  - 促進內部開放原始碼
+  - Git版本
+  - 公共專案
+  - Git中的檔案
+
+  完成本單元後，學生將能夠&#58; 
+  - 適用於企業DevOps的Scale Git
+
+
+  ### 模組 3&#58; 實作和管理構建基礎結構
+  #### 課程
+  - DevOps中的管道概念
+  - Azure管道
+  - 評估受控代理與私有代理的使用
+  - 代理集區
+  - 管道和並行
+  - Azure DevOps和開放原始碼專案
+  - Azure Pipelines YAML與Visual Designer
+  - 設定私人代理
+  - 將Jenkins與Azure Pipelines整合
+  - 將外部原始檔控制與Azure Pipelines整合
+  - 分析和整合Docker多階段構建
+
+  完成本單元後，學生將能夠&#58; 
+  - 實作和管理構建基礎結構
+
+
+  ### 模組 4&#58; 管理應用程式配置和機密
+  #### 課程
+  - 安全性簡介
+  - 實作安全性且合規性的開發流程
+  - 重新考慮應用程式配置資料
+  - 管理機密，權杖和證書
+  - 實作用於管理管道安全性和合規性的工具
+
+  完成本單元後，學生將能夠&#58; 
+  - 管理應用程式配置和機密
+
+
+  ### 模組 5&#58; 實作行動DevOps策略
+  #### 課程
+  - 行動DevOps簡介
+  - Visual Studio App Center簡介
+  - 管理行動目標設備集合和通訊群組
+  - 管理目標UI測試設備集合
+  - 提供測試儀設備以進行部署
+  - 創建公共和私人通訊群組
+
+  完成本單元後，學生將能夠&#58; 
+  - 實作行動DevOps策略
+

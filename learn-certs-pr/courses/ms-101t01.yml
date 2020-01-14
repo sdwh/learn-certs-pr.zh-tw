@@ -1,0 +1,71 @@
+### YamlMime:Course
+title: Microsoft 365 安全管理
+metadata:
+  title: '課程 MS-101T01-A: Microsoft 365 安全性管理'
+  description: '課程 MS-101T01-A: Microsoft 365 安全性管理'
+uid: course.ms-101t01
+courseNumber: 'MS-101T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 管理安全性指標
+- skill: 在 Microsoft 365 中實作安全性解決方案
+- skill: 計劃和配置 Azure AD 身份識別保護
+- skill: 實作 Microsoft 安全分數
+- skill: 實作 Exchange Online Protection
+- skill: 實作進階威脅防護。
+- skill: 管理安全附件和安全連結
+- skill: 實作 Microsoft 365 威脅情報
+- skill: 使用 Microsoft 365 安全性儀表板
+- skill: 配置進階威脅分析
+- skill: 實作雲端應用程式安全性
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  瞭解 Microsoft 365 安全性管理，包括如何管理安全性指標，如何啟用 Azure AD 身份識別保護，如何配置 Microsoft 365 安全性服務以及使用者 Microsoft 365 威脅情報。
+
+  #### 對象設定檔
+  本課程適用於有志於 Microsoft 365 企業管理員角色並已完成 Microsoft 365 角色型的管理員認證途徑之一的人員。
+prerequisitesSection: |-
+  - 完成的角色型管理員課程，例如傳訊，團隊工作，安全性和合規性或共同作業。
+  - 對 DNS 的精通理解以及 Microsoft 365 服務的基本功能經驗。
+  - 精通理解一般的 IT 慣例。
+outlineSection: |-
+  ### 模組 1&#58; 設計您的 Microsoft 365 租用戶
+  #### 課程
+  - 規劃他們的 Microsoft 365 內部部署基礎結構
+  - 計劃您的身份識別和驗證解決方案
+
+
+  ### 模組 2&#58; 配置您的 Microsoft 365 租用戶
+  #### 課程
+  - 計劃您的 Microsoft 365 體驗
+  - 配置 Microsoft 365 體驗
+  - 利用 FastTrack 和合作夥伴服務
+  - 實作您的網域服務
+
+
+  ### 模組 3&#58; 管理您的 Microsoft 365 租用戶
+  #### 課程
+  - 配置租用戶角色
+  - 管理租用戶健康狀況和服務
+
+
+  ### 模組 4&#58; 實習實驗室
+
+  ### 實驗室 &#58; 管理 Microsoft 365 安全性
+  - 演練 1&#58; 設定您的實驗室環境
+  - 演練 2&#58; 編輯 ATP 安全連結原則並創建安全附件原則
+  - 演練 3&#58; 啟用和安裝 ATA Center
+

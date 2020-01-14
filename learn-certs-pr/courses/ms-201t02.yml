@@ -1,0 +1,72 @@
+### YamlMime:Course
+title: 管理郵件安全性，檢疫和合規性
+metadata:
+  title: '課程 MS-201T02-A: 管理郵件安全性，檢疫和合規性'
+  description: '課程 MS-201T02-A: 管理郵件安全性，檢疫和合規性'
+uid: course.ms-201t02
+courseNumber: 'MS-201T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 計劃郵件檢疫
+- skill: 管理反惡意程式碼和反垃圾郵件原則
+- skill: 管理進階威脅防護。
+- skill: 計劃 SCC 中郵件合規性
+- skill: 計劃 Exchange 中郵件合規性
+- skill: 管理 Exchange Online 封存和稽核
+- skill: 管理內容搜尋
+- skill: 管理系統管理員角色
+- skill: 管理使用者角色型權限
+- skill: 計劃 Exchange 設定 - RBAC 和 AD 分割的權限
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-201
+summary: |-
+  在本課程中，您將瞭解不同與郵件相關的安全性和合規性服務配置和 Exchange Server 和 Exchange Online 的設定。您將首先檢查 Exchange Online Protection 和 Exchange 進階威脅防護的郵件檢疫基礎知識，以及使用 Exchange 的連線和垃圾郵件篩選。然後，您將從訊息傳遞合規性角度檢查訊息傳遞合規性解決方案，例如保留和防止資料外洩的原則，以及稽核紀錄調查和 eDiscovery 搜尋機制。您將學習如何計劃正確的部署以及如何為每個解決方案執行基本的實作流程。您將透過檢查如何管理指派給使用者和管理員角色的權限來總結本課程。
+
+  #### 對象設定檔
+  訊息系統管理員在內部部署和雲端企業環境中部署、配置、管理和疑難排解收件者、權限、郵件保護、郵件流程和公用資料夾。責任包括管理郵件檢疫，訊息傳遞基礎結構以及混合設定和移轉。訊息系統管理員還實作和管理災害復原、高可用性和用戶端存取。若要實現滿足現代組織商務需求的安全混合式拓撲，訊息系統管理員必須與安全性系統管理員和 Microsoft 365 企業管理員共同作業。消息傳遞管理員應該具有身份驗證類型、許可以及與 Microsoft 365 應用程式集成的實用知識。
+prerequisitesSection: |-
+  - 精通瞭解DNS。
+  - 對 Exchange Server 或 Exchange Online 中的訊息傳遞有基本的瞭解。
+  - 對 Active Directory 和網域控制器基礎結構以及身份識別管理有基本瞭解。
+  - 具有 Microsoft 365 服務和目錄同步處理的基本功能經驗。
+  - 至少5年的一般 IT 經驗。
+outlineSection: |-
+  ### 模組 1&#58; 管理郵件檢疫
+  #### 課程
+  - 計劃郵件檢疫
+  - 管理反惡意程式碼和反垃圾郵件原則
+  - 管理進階威脅防護。
+
+
+  ### 模組 2&#58; 管理合規性
+  #### 課程
+  - SCC 中郵件合規性
+  - Exchange 中郵件合規性
+  - 管理 Exchange Online 封存和稽核
+  - 管理內容搜尋
+
+
+  ### 模組 3&#58; 管理角色型權限
+  #### 課程
+  - 管理系統管理員角色
+  - 管理使用者角色
+  - Exchange 設定 - RBAC 和 AD 分割的權限
+
+
+  ### 模組 4&#58; 實驗室 - 管理郵件檢疫
+
+  ### 實驗室 &#58; 管理郵件檢疫
+  - 演練 1&#58; 在內部部署解決方案中管理郵件檢疫
+  - 演練 2&#58; 在雲端解決方案中管理郵件檢疫
+  - 演練 3&#58; 在混合式解決方案中管理郵件檢疫
+

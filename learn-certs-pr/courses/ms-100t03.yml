@@ -1,0 +1,83 @@
+### YamlMime:Course
+title: Microsoft 365 身份管理
+metadata:
+  title: '課程 MS-100T03-A: Microsoft 365 身份識別管理'
+  description: '課程 MS-100T03-A: Microsoft 365 身份識別管理'
+uid: course.ms-100t03
+courseNumber: 'MS-100T03-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 在 Microsoft 365 中管理使用者帳號和授權
+- skill: 在 Microsoft 365中管理系統管理員角色和安全性群組
+- skill: 計劃和實作密碼管理
+- skill: 管理 Microsoft 365 身份驗證和佈建選項
+- skill: 計劃目錄同步處理
+- skill: 計劃和實作 Azure AD Connect
+- skill: 管理已同步處理的身份識別
+- skill: 計劃和實作 ADFS 部署
+- skill: 在 Azure AD 中實作應用程式
+- skill: 配置 Azure AD 應用程式 Proxy
+- skill: 設計外部存取解決方法
+- skill: 管理他們的 Microsoft 365 租用戶健康狀況和服務
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  瞭解 Microsoft 365 身份識別管理，包括如何管理雲端身份識別的使用者安全性群組和授權，以及如何計劃和實作身份識別同步處理，同盟識別身分，應用程式和外部存取。
+
+  #### 對象設定檔
+  本課程適用於有志於 Microsoft 365 企業管理員角色並已完成 Microsoft 365 角色型的管理員認證途徑之一的人員。
+prerequisitesSection: |-
+  - 完成的角色型管理員課程，例如傳訊，團隊工作，安全性和合規性或共同作業。
+  - 對 DNS 的精通理解以及 Microsoft 365 服務的基本功能經驗。
+  - 精通理解一般的 IT 慣例。
+outlineSection: |-
+  ### 模組 1&#58; 管理雲端身份識別的使用者安全性群組和授權
+  #### 課程
+  - 在 Microsoft 365 中的用戶帳戶和許可證
+  - 在 Microsoft 365 中管理系統管理員角色和安全性群組
+  - Microsoft 365 中的密碼管理
+
+
+  ### 實驗室 &#58; 管理您的 Microsoft 365 身分識別環境
+  - 演練 1&#58; 設定您的實驗室環境
+  - 演練 2&#58; 使用 Microsoft 365 系統管理中心管理 Microsoft 365 身份識別環境
+  - 演練 3&#58; 使用 Windows PowerShell 管理 Microsoft 365 身份識別環境
+
+
+  ### 模組 2&#58; 計劃和實作身分識別同步處理
+  #### 課程
+  - 身份識別同步處理簡介
+  - 計劃 Azure AD Connect
+  - 實作 Azure AD Connect
+  - 管理同步身份識別
+
+
+  #### 實驗室 &#58; 實作身分識別同步處理
+  - 演練 1&#58; 設定您的組織以進行身分識別同步處理
+  - 演練 2&#58; 實作身分識別同步處理
+
+
+  ### 模組 3&#58; 計劃和實作同盟識別身分
+  #### 課程
+  - 同盟識別身分簡介
+  - 計劃 AD FS部署
+  - 實作 AD FS
+
+
+  ### 模組 4&#58; 實作應用程式和外部存取
+  #### 課程
+  - 在 Azure AD 中實作應用程式
+  - 配置 Azure AD 應用程式 Proxy
+  - 設計外部存取的解決方案

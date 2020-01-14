@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: 'Microsoft PowerApps + Dynamics 365 開發人員'
+metadata:
+  title: '課程 MB-400T00-A: Microsoft PowerApps + Dynamics 365 開發人員'
+  description: '課程 MB-400T00-A: Microsoft PowerApps + Dynamics 365 開發人員'
+uid: course.mb-400t00
+courseNumber: 'MB-400T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 創建並記錄資料模型
+- skill: 實作實體和欄位
+- skill: 創建和維護解決方案
+- skill: 自動化商務流程
+- skill: 擴充使用者體驗
+- skill: 開發整合
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-400
+summary: |-
+  Microsoft Power Platform 透過自動化例行任務和標準化最佳做法來協助組織最佳化其營運。PowerApps開發人員是專業的軟體開發人員，他擴充 Power Platform 以解決複雜的商務問題。在本課程中，PowerApps 開發人員將建立有關他們對 Power Platform，Microsoft 堆疊以及標準開發工具和練習的現有知識。PowerApps 開發人員將學習如何預估工作量和範圍。驗證需求和設計技術架構；創建資料模型； 確定實作工具；並記錄其技術設計。廣泛的主題將包括實現使用者安全性和可存取性； 管理環境； 擴充公共資料服務； 創建和使用網頁資源； 和使用外掛程式。
+
+  #### 對象設定檔
+  
+  PowerApps 開發人員負責設計，開發，保護，擴充和整合平台實作。開發人員實作解決方案的元件，包括應用程式增強功能，自訂使用者體驗，系統整合，資料轉換，自訂流程自動化和自訂視覺效果 
+prerequisitesSection: |-
+  在參加本課程之前，學生必須具備:
+  
+  - 對 Power Platform 的基本理解。
+  - 具有針對 Microsoft 堆疊和 Visual Studio 進行軟體開發的經驗。
+  - 在 Azure 中管理解決方案的經驗（首選）。
+outlineSection: |-
+  #### 模組 1&#58;使用 Power Platform 開發簡介
+  
+  在本模組中，學生將學習開發人員資源以及如何利用它們來擴充 Power Platform。
+
+  #### 課程
+  - Power Platform 開發人員資源簡介
+  - 使用開發人員工具擴充 Power Platform
+  - 擴充 Power Platform 簡介
+  
+  完成本單元後，學生將能夠&#58;
+  
+  - 識別開發人員工具的功能
+  - 使用開發人員工具
+
+  ### 模組 2&#58;擴充 Power Platform 公共資料服務
+  
+  在本模組中，學生將學習如何以及何時使用外掛程式或其他工具來擴充公共資料服務。
+  
+  #### 課程
+  - 開發人員公共資料服務簡介
+  - 擴充外掛程式
+  
+  完成本單元後，學生將能夠&#58;
+  
+  - 撰寫外掛程式
+  - 使用外掛程式擴充公共資料服務
+
+  ### 模組 3&#58;擴充 Power Platform 使用者體驗
+  
+  在本模組中，學生將學習如何利用網頁資源和用戶端指令碼來擴充 Power Platform 使用者體驗。
+  
+  #### 課程
+  - 網頁資源簡介
+  - 使用用戶端指令碼執行常見操作
+  - 使用用戶端指令碼自動化商務流程
+
+  完成本單元後，學生將能夠&#58;
+
+  - 使用網頁資源
+  - 撰寫用戶端指令碼
+  - 擴充商務程序流程

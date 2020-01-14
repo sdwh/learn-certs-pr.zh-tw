@@ -1,0 +1,75 @@
+### YamlMime:Course
+title: Office 365 管理
+metadata:
+  title: '課程 MS-100T01-A: Office 365 管理'
+  description: '課程 MS-100T01-A: Office 365 管理'
+uid: course.ms-100t01
+courseNumber: 'MS-100T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Office 365 概觀
+- skill: 將組織移動到 Office 365
+- skill: 配置 Office 365
+- skill: 管理 Office 365 ProPlus 部署
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  瞭解 Office 365 管理 ，包括 Office 365 的關鍵元件，如何將組織移轉到 Office 365，如何配置 Office 365 以及如何管理 Office 365 ProPlus 部署。
+
+  #### 對象設定檔
+  本課程適用於有志於 Microsoft 365 企業管理員角色並已完成 Microsoft 365 角色型的管理員認證途徑之一的人員。
+prerequisitesSection: |-
+  - 完成的角色型管理員課程，例如傳訊，團隊工作，安全性和合規性或共同作業。
+  - 對 DNS 的精通理解以及 Microsoft 365 服務的基本功能經驗。
+  - 精通理解一般的 IT 慣例。
+outlineSection: |-
+  ### 模組 1&#58; 將組織移動到 Office 365
+  #### 課程
+  - Exchange 概觀
+  - SharePoint Online
+  - 團隊
+  - 其他資源 
+
+
+  ### 模組 2&#58; 配置您的 Microsoft 365 租用戶
+  #### 課程
+  - 計劃您的 Office 365 的網路
+  - 規劃服務設定
+  - 計劃您的混合式環境
+  - 規劃向Office 365的移轉
+
+
+  ### 模組 3&#58; 配置 Office 365
+  #### 課程
+  - Office 365 客戶概觀
+  - 配置 Office 客戶連線到 Office 365
+
+
+  #### 模組 4&#58; 管理 Office 365 ProPlus 部署
+  #### 課程
+  - 管理使用者驅動的用戶端安裝
+  - 管理集中式 Office 365 ProPlus 部署
+  - 配置 Office 遙測
+  - 配置Microsoft Analytics
+
+
+  ### 模組 5&#58; 實習實驗室
+
+  #### 模組 &#58; 管理 Office 365 
+  - 演練 1&#58; 設定 Microsoft 365 試用租用戶
+  - 演練 2&#58; 準備 Office 365 ProPlus 受管理的安裝
+  - 演練 3&#58; 管理使用者驅動的 Office 365 ProPlus 安裝
+  - 演練 4&#58; 管理集中式 Office 365 ProPlus 安裝
+  - 演練 5&#58; 部署和配置 Office 遙測元件

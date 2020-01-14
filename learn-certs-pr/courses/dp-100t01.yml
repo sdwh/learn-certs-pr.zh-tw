@@ -1,0 +1,58 @@
+### YamlMime:Course
+title: 在Azure上設計與實作資料科學解決方法
+metadata:
+  title: '課程 DP-100T01-A: 在Azure上設計和實作資料科學解決方案'
+  description: '課程 DP-100T01-A: 在Azure上設計和實作資料科學解決方案'
+uid: course.dp-100t01
+courseNumber: 'DP-100T01-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-scientist
+products:
+- azure
+- azure-data-science-vm
+exams:
+- uid: exam.dp-100
+summary: |-
+  獲得有關如何使用Azure服務來開發，訓練和部署機器學習解決方案的必要知識。本課程首先概述支援資料科學的Azure服務。從那裡開始，它著重於使用Azure的首要資料科學服務Azure機器學習服務來自動化資料科學管道。本課程側重於Azure，不教學生如何進行資料科學。假定學生已經知道這一點。
+
+  #### 對象設定檔
+  本課程面向資料科學家以及在訓練和部署機器學習模型方面負有重要責任的人員。
+prerequisitesSection: |-
+  在參加本課程之前，學生必須具備&#58; 
+  - 獲得[Azure Fundamentals認證](https://docs.microsoft.com/zh-cn/learn/certifications/azure-fundamentals)。
+  - 瞭解資料科學，包括如何準備資料，訓練模型以及評估競爭模型以選擇最佳模型。
+  - 如何使用Python程式設計語言進行編程以及如何使用Python庫&#58; pandas，scikit-learn，matplotlib和seaborn。
+outlineSection: |-
+  ### 模組 1&#58; 在Azure上進行資料科學
+  學生將學習資料科學過程和資料科學家的角色。然後將其應用於瞭解Azure服務如何支援和增強資料科學過程。
+  #### 課程
+  - 介紹資料科學過程
+  - Azure資料科學選項概述
+  - 介紹Azure筆記本
+
+
+  ### 模組 2&#58; 使用Azure機器學習服務進行資料科學
+  學生將學習如何使用Azure機器學習服務（AML）端到端自動化資料科學過程。
+  #### 課程
+  - 介紹AML服務
+  - 使用AML服務註冊和部署ML模型
+
+
+  ### 模組 3&#58; 使用AML服務自動進行機器學習
+  在本模組中，學生將學習機器學習管道以及AML服務的AutoML和HyperDrive如何使其中一些費力的部分自動化。
+  #### 課程
+  - 自動化機器學習模型選擇
+  - 使用HyperDrive自動執行超參數調整
+
+
+  ### 模組 4&#58; 使用AML服務管理和監視機器學習模型
+  在本模組中，學生將學習如何在AML服務中自動管理和監視機器學習模型。
+  #### 課程
+  - 管理和監控機器學習模型

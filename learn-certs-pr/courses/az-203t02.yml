@@ -1,0 +1,86 @@
+### YamlMime:Course
+title: 開發作為服務計算解決方法的 Azure 平台
+metadata:
+  title: '課程 AZ-203T02-A: Develop Azure Platform as a Service compute solutions'
+  description: '課程 AZ-203T02-A: Develop Azure Platform as a Service compute solutions'
+uid: course.az-203t02
+courseNumber: 'AZ-203T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  在本課程中，學生將獲得在其開發解決方案中實作Azure平台即服務功能和服務所需的知識和技能。學生將學習如何創建和管理Azure App Service資源，在其行動應用程式中整合推送和離線同步，以及如何記錄API。學生還將學習如何創建和測試Azure函數。
+
+  #### 對象設定檔
+  - 本課程的學生對Azure開發或透過Microsoft Azure開發人員助理認證測驗感興趣。
+  - 學生應具有1-2年的開發經驗。本課程假定學生知道如何編碼並具有Azure的基本知識。
+prerequisitesSection: |-
+  - 學生應具有1-2年的開發經驗。本課程假定學生知道如何編碼並具有Azure的基本知識。
+  - 建議學生具有在PowerShell或Azure CLI，在Azure入口中工作以及至少使用一種Azure支援的程式設計語言的經驗。本課程中的大多數示例都在C#.NET中提供。
+outlineSection: |-
+  ### 模組 1&#58; 創建App Service網路應用
+  Azure App Service Web Apps（或僅Web Apps）是用於受控Web應用程式，REST API和行動後端的服務。Web Apps透過安全性，負載平衡，自動縮放和自動化管理，將Microsoft Azure的功能添加到您的應用程式中。
+  #### 課程
+  - Azure App Service核心概念
+  - 創建Azure應用服務Web應用
+  - 透過在Azure App Service中使用WebJobs創建後台任務
+
+  完成本單元後，學生將能夠&#58; 
+  - 瞭解App Service核心概念和功能
+  - 使用Azure CLI，Azure入口和PowerShell創建App Service Web應用程式
+  - 創建連續的和触發的WebJob
+
+
+  ### 模組 2&#58; 創建Azure應用服務行動應用
+  Azure App Service的行動應用程式功能為企業開發人員和系統整合商提供了高度可擴展且可在全球範圍內使用的行動應用程式開發平台。
+  #### 課程
+  - App Service中的行動應用程式入門
+  - 為您的應用程式啟用推送通知
+  - 為您的應用啟用離線同步
+
+  完成本單元後，學生將能夠&#58; 
+  - 將他們的應用程式推送到行動應用程式服務
+  - 註冊用於推送通知的應用
+
+
+  ### 模組 3&#58; 創建Azure應用服務API應用
+  本模組介紹如何創建和記錄Azure App Service API。
+  #### 課程
+  - 創建API
+  - 使用Swagger記錄API
+
+  完成本單元後，學生將能夠&#58; 
+  - 創建一個APIM實例並創建一個新的API
+  - 使用Swashbuckle在ASP.NET Core中創建Swagger對象
+
+
+  ### 模組 4&#58; 實作Azure功能
+  Azure Functions是一種用於在雲端中輕鬆運行小段代碼或“函數”的解決方案。您可以只編寫解決問題所需的代碼，而無需擔心整個應用程式或運行該問題的基礎結構。
+  #### 課程
+  - Azure功能概述
+  - 使用Visual Studio開發Azure函數
+  - 實作持久功能
+
+  完成本單元後，學生將能夠&#58; 
+  - 瞭解Azure功能的核心功能
+  - 創建函數，綁定和触發器
+  - 瞭解耐用功能的常見模式並能夠創建它們

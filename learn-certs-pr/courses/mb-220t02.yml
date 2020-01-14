@@ -1,0 +1,76 @@
+### YamlMime:Course
+title: 在 Dynamics 365 for Marketing 中設定事件和調查
+metadata:
+  title: '課程 MB-220T02-A: 在 Dynamics 365 for Marketing 中設定事件和調查'
+  description: '課程 MB-220T02-A: 在 Dynamics 365 for Marketing 中設定事件和調查'
+uid: course.mb-220t02
+courseNumber: 'MB-220T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 設訂和管理事件計劃功能
+- skill: 創建事件傳訊，自訂事件入門網站，管理註冊和簽入
+- skill: 設計，配置和散發調查
+- skill: 檢閱並理解事件和調查深入解析
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-marketing
+exams:
+- uid: exam.mb-220
+summary: |-
+  事件、網路研討會和調查通常是行銷組織如何吸引客戶的關鍵部分。活動和網路研討會包含許多活動內容，並且管理起來很複雜。Dynamics 365 for Marketing 透過將所有計劃資料集中到一個中央位置並透過可自訂的事件入口網站提供執行管道來簡化此過程。調查通常在後置事件提供，但也可以在整個行銷生命週期中使用，以請求回應。透過 Microsoft 的客戶之聲解決方案，調查易於設定、管理、執行以及與事件關聯。
+
+  本課程將涵蓋事件計劃，包括設定和管理工作階段，演講者，行程，等候清單，場地，贊助者，廠商，物流和住宿；以及事件執行，例如創建自訂註冊欄位，管理註冊和簽入以及事件入口網站；然後該課程將涵蓋建立問卷和發佈。最後，總結事件和調查結果。
+
+
+  透過自訂義示範瞭解 Dynamics 365 for Marketing 中的所有事件和調查功能，檢查您的知識問題以及實際操作學習實驗室。
+
+  #### 對象設定檔
+  本課程是為想要學習如何利用 Dynamics 365 進行企業行銷的IT或市場行銷專業人員設計的。
+prerequisitesSection: |-
+  在參加本課程之前，學生必須具備&#58;
+  - 理解Dynamics 365的基礎知識以及行銷原則，策略和過程的知識
+outlineSection: |-
+  ### 模組 1&#58; 事件
+  在本模組中，學生將學習 Dynamics 365 for Marketing 中管理事件計劃和執行 。
+  #### 課程
+  - 管理事件計劃
+  - 管理事件執行
+
+  完成本單元後，學生將能夠&#58;
+  - 創建現場和網路研討會事件
+  - 設置式健計劃功能，例如會議，演講者，事件通行證，候補名單，場地和讚助商
+  - 創建和管理重複事件
+  - 創建自訂註冊欄位
+  - 創建事件輸出訊息傳遞
+  - 設置和管理事件入口網站，註冊和簽到功能
+
+
+  ### 模組 2&#58; 客戶之聲
+  在本模組中，學生將檢閱如何在 Dynamics 365 for Marketing 中配置，設計和散發“客戶之聲”調查。
+  #### 課程
+  - 創建調查
+
+  完成本單元後，學生將能夠&#58;
+  - 創建可重複使用的調查主題
+  - 創建，設計，預覽和發布調查
+
+  - 瞭解如何透過 Dynamics 365 for Marketing 管道散發調查
+  - 複製，匯入，翻譯，關閉，停止或刪除調查
+
+
+  ### 模組 3&#58; 結果
+  在結果模組中，學生將檢閱行銷試驗並調查深入解析。
+  #### 課程
+  - 檢閱事件和調查結果
+
+  完成本單元後，學生將能夠&#58;
+  - 利用事件儀表板評估事件的結果
+  - 檢閱調查結果

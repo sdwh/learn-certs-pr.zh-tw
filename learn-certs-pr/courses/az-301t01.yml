@@ -1,0 +1,75 @@
+### YamlMime:Course
+title: 設計身份識別和安全
+metadata:
+  title: '課程 AZ-301T01-A: 身份識別和安全性設計'
+  description: '課程 AZ-301T01-A: 身份識別和安全性設計'
+uid: course.az-301t01
+courseNumber: 'AZ-301T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用Azure AD B2B或B2C將現有解決方案與外部身份識別提供商整合。
+- skill: 設計一個混合式身份識別解決方案。
+- skill: 確定何時使用Azure AD的高階功能，例如受控服務式身份識別，MFA和特權身份識別管理。
+- skill: 使用Key Vault保護應用程式機密。
+- skill: 使用SQL資料庫和Azure儲存功能保護應用程式資料的安全。
+- skill: 詳細介紹認知服務中可用的各種API。
+- skill: 確定何時使用Face API，語音API或語言理解(LUIS)服務。
+- skill: 描述與Bot Framework和Azure Bot Services的關係。
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-301
+summary: |-
+  瞭解如何在Azure的內容中管理安全性和身份識別。此外，還將向您介紹Azure中可用的多種軟體即服務(SaaS)功能，這些功能可以整合到現有的Azure解決方案中。
+
+  #### 對象設定檔
+  成功的雲端解決方案架構師從在作業系統，虛擬化，雲端基礎結構，儲存結構，計費和網路方面的實踐經驗開始擔任此職務。
+outlineSection: |-
+  ### 模組 1&#58; 管理Azure解決方案的安全性和身份識別
+  本模組討論了Azure內容中的安全性和身份識別。為了安全起見，此模組檢查了用於監視安全性的各種選項，可用於保護資料的選項以及用於保護應用程式機密的選項。對於身份識別，此模組專門針對Azure Active Directory(Azure AD)和可用的各種功能，例如，多重要素驗證（MFA），受控服務式身份識別識別，Azure AD Connect，ADFS和Azure AD B2B / B2C。
+
+  #### 實驗室 &#58; 保護Azure中的秘密
+  完成本單元後，學生將能夠&#58; 
+  - 使用Azure AD B2B或B2C將現有解決方案與外部身份識別識別提供商整合。
+  - 設計混合身份識別解決方案。
+  - 確定何時使用Azure AD的高階功能，例如受控服務式身份識別，MFA和特權身份識別管理。
+  - 使用Key Vault保護應用程式機密。
+  - 使用SQL資料庫和Azure儲存功能保護應用程式資料的安全。
+
+
+  ### 模組 2&#58; 整合Azure平台上可用的SaaS服務
+  本模組介紹了Azure中可用的多種SaaS服務，這些服務可整合到現有的Azure解決方案中。這些服務包括認知服務，機器人服務，機器學習和媒體服務。
+
+  #### 實驗室 &#58; 將服務實例部署為整體Azure解決方案的組件
+  完成本單元後，學生將能夠&#58; 
+  - 詳細介紹認知服務中可用的各種API。
+  - 確定何時使用Face API，語音API或語言理解(LUIS)服務。
+

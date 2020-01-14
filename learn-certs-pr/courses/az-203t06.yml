@@ -1,0 +1,97 @@
+### YamlMime:Course
+title: 連接與使用 Azure 服務和第三方服務
+metadata:
+  title: '課程 AZ-203T06-A: 連接並使用Azure和第三方服務'
+  description: '課程 AZ-203T06-A: 連接並使用Azure和第三方服務'
+uid: course.az-203t06
+courseNumber: 'AZ-203T06-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  本課程全部有關應用程式和服務之間的通訊。學生將學習如何使用API管理創建和管理自己的API，以及如何在開發解決方案中使用Azure中事件型和以訊息為基礎的不同服務。在整個課程中，學生將學習如何使用Azure入口，Azure CLI，REST和應用程式代碼創建和整合這些資源。
+
+  #### 對象設定檔
+  - 本課程的學生對Azure開發或透過Microsoft Azure開發人員助理認證測驗感興趣。
+  - 學生應具有1-2年的開發經驗。本課程假定學生知道如何編碼並具有Azure的基本知識。
+  - 建議學生具有在PowerShell或Azure CLI，在Azure入口中工作以及至少使用一種Azure支援的程式設計語言的經驗。本課程中的大多數示例都在C#.NET中提供。
+prerequisitesSection: |-
+  - 學生應具有1-2年的開發經驗。本課程
+  假定學生知道
+  Azure的基本知識。
+  - 建議學生具有在PowerShell或Azure CLI，
+  在Azure入口中工作以及
+  至少使用一種Azure支援的程式設計語言的經驗。本課程中的大多數示例都
+  在C#.NET中提供。
+outlineSection: |-
+  ### 模組 1&#58; Develop an App Service Logic App
+  Logic Apps透過將任務和商務流程自動化為工作流來幫助您構建解決方案，以在企業或組織中整合應用程式，資料，系統和服務。本模組介紹了它們是什麼以及如何創建它們。
+  #### 課程
+  - Azure Logic應用概述
+  - 使用Visual Studio創建邏輯應用
+  - 為Logic Apps創建自訂連接器
+  - 為Logic Apps創建自訂範本
+
+  完成本單元後，學生將能夠&#58; 
+  - 瞭解如何創建和管理Azure Logic應用
+
+
+  ### 模組 2&#58; 將Azure搜尋整合到解決方案中
+  Azure搜尋是一種即服務搜尋的雲端解決方案，為開發人員提供API和工具，可為Web，行動和企業應用程式中的私有異類內容添加豐富的搜尋體驗。在本模組中，學生將學習如何將Azure搜尋整合到他們的解決方案中。
+  #### 課程
+  - 創建和查詢Azure搜尋索引
+  - Azure搜尋中的全文本搜尋
+
+  完成本單元後，學生將能夠&#58; 
+  - 提供服務，創建索引，載入資料並執行搜尋
+
+
+  ### 模組 3&#58; API管理
+  API管理（APIM）幫助組織將API發布給外部，合作夥伴和內部開發人員，以釋放其資料和服務的潛力。
+  #### 課程
+  - API管理服務簡介
+  - 保護您的API
+  - 定義API政策
+
+  完成本單元後，學生將能夠&#58; 
+  - 使用Azure入口，帶有訂閱和用戶端證書的安全API來配置APIM服務，並使用API策略來修改API的行為
+
+
+  ### 模組 4&#58; 開發基於事件的解決方案
+  本模組涵蓋透過在應用程式中整合Azure事件網格，事件中心和通知中心，在Azure中開發事件型的解決方案。
+  #### 課程
+  - 實作使用Azure事件網格的解決方案
+  - 實作使用Azure事件中心的解決方案
+  - 實作使用Azure通知中心的解決方案
+
+  完成本單元後，學生將&#58; 
+  - 瞭解服務的工作方式以及如何將其整合到解決方案中
+
+
+  ### 模組 5&#58; 開發以訊息為基礎的解決方案
+  Microsoft Azure Service Bus是一個完全受控的企業整合訊息代理。服務匯流排最常用於使應用程式和服務彼此分離，並且是異步資料和狀態傳輸的可靠且安全的平台。Azure佇列儲存是一項用於儲存大量訊息的服務，可以使用HTTP或HTTPS透過身份識別驗證的調用從世界任何地方存取這些訊息。
+  #### 課程
+  - 實作使用Azure Service Bus的解決方案
+  - 實作使用Azure佇列儲存佇列的解決方案
+
+  完成本單元後，學生將&#58; 
+  - 瞭解如何在解決方案中利用基於Azure訊息的服務

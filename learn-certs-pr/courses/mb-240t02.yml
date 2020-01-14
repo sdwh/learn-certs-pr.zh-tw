@@ -1,0 +1,64 @@
+### YamlMime:Course
+title: Dynamics 365 for Field Service 的工單和交貨執行
+metadata:
+  title: '課程 MB-240T02-A: Dynamics 365 for Field Service 的工單和交貨執行'
+  description: '課程 MB-240T02-A: Dynamics 365 for Field Service 的工單和交貨執行'
+uid: course.mb-240t02
+courseNumber: 'MB-240T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 確定工單生命週期中涉及的關鍵領域。
+- skill: 產生可用於自動創建工單的合約。
+- skill: 利用 Dynamics 365 for Field Service 的庫存管理功能。
+- skill: 在整個生命週期內創建和處理採購單。
+- skill: 部署和配置現場服務行動應用程式。
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  許多組織依賴行動員工向其客戶提供產品和服務。Dynamics 365 for Field Service 透過提供各種工具以幫助組織更好地在市場中定位，這些工具可幫助有效識別和排程資源，以及協助管理行動工作者的工作負載。 
+
+  本課程將使學生能夠執行、識別和配置用於提供現場服務和行動解決方案的關鍵元件所需的技能。關鍵主題包括識別典型工單生命週期的外觀，以及將推動配置決策的組織考慮因素。此外，本課程將著重於與工單相關的常用元件，包括合約，庫存元件，採購和行動性策略。     
+
+  本課程幫助學生更好理解全貌，並最終目標集中於工作訂單的交付和執行，這些執行有助於設計出與客戶和組織目標相一致的更有效的解決方案。
+
+prerequisitesSection: |-
+  對 Dynamics 365 特色，功能和導航的基本理解。
+outlineSection: |-
+  ### 模組 1&#58; 現場服務工單
+  #### 課程
+  - 配置現場服務工單
+  - 創建工單
+  - 管理工單
+
+
+  ### 模組 2&#58; 現場服務合約
+  #### 課程
+  - 使用現場服務合約
+  - 設定預訂
+  - 設定發票
+
+
+  ### 模組 3&#58; 庫存與採購
+  #### 課程
+  - 管理客戶資產
+  - 管理庫存
+  - 採購和退貨
+
+
+  ### 模組 4&#58; 現場服務行動裝置
+  #### 課程
+  - 現場服務行動應用程式概觀
+  - 安裝和部署現場服務行動專案
+  - 管理行動專案
+  - 部署行動用戶端

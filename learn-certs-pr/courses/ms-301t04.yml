@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: 移轉到 SharePoint Online
+metadata:
+  title: '課程 MS-301T04-A: 移轉到 SharePoint Online'
+  description: '課程 MS-301T04-A: 移轉到 SharePoint Online'
+uid: course.ms-301t04
+courseNumber: 'MS-301T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 計劃內容移轉程序。
+- skill: 描述在移轉程序中利用可用資源和工具。
+- skill: 使用 SharePoint 移轉評估工具(SMAT)存取要移轉的資料。
+- skill: 使用 SharePoint 移轉評估工具(SPMT)將內容移轉到雲端中。
+- skill: 管理和監視移轉程序。
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  商務氣氛已經改變。人們希望交流時沒有共同作業障礙。企業開始考慮將內容移轉到雲端作為具有成本效益的解決方案，並使使用者幾乎可以從任何地方連接到他們所需的資源和內容。在本課程中，您將學習如何計劃內容移轉程序以及將內容移轉到 SharePoint Online 和商務用 OneDrive時要使用的可用資源和工具。具體來說，本課程涵蓋如何在不同的移轉方案中使用 SharePoint 移轉評估工具（SMAT）和 SharePoint 移轉工具（SPMT）。
+
+  本課程適用於在組織中部署和管理團隊工作基礎結構的 IT 專業人員。
+
+  這是針對團隊工作管理員角色在一系列的四門課程中的最後一門課程。這些課程幫助準備 MS-301 測驗&#58; 部署 SharePoint Server 混合式。
+
+  #### 對象設定檔
+  本課程適用於 Microsoft 365 團隊工作管理員角色。此角色負責配置、部署與管理專注於高效率，有效的共同作業與採用的 Office 365 與 Azure 工作負載。他們管理應用程式，服務和支援基礎結構構，以滿足商務需求。管理員知道並可以區分產品和服務，但可能無法直接管理每個產品或服務。
+
+  Teamwork 管理員必須能夠部署，管理，轉移與保護 SharePoint（線上，本地與混合），OneDrive 與團隊。
+
+  Teamwork 管理員對以下應用程式和服務的整合點有基本的理解&#58; Office，PowerApps，Flow，Yammer，Microsoft Graph，Stream，Planner 和 Project。管理員理解如何整合協力廠商應用程式與服務，包括商務營運應用程式。
+prerequisitesSection: |-
+  學習者應該已經具備以下技能才能開始本課程&#58;
+  - 使用 Windows PowerShell 的經驗。
+  - 對 SQL Server 管理的基本理解。
+  - 對網路功能的基本理解，包括DNS。
+  - Windows 伺服器管理的工作知識。
+  - 對 Active Directory 和 Azure AD 的基本理解。
+  - 對行動裝置管理和其他作業系統（Android和macOS）的基本理解
+outlineSection: |-
+  ### 模組 1&#58; 移轉介紹
+  本模塊全部是關於計劃向雲端的移轉程序。提供描述在移轉程序中利用可用資源和工具的概述。
+
+  #### 課程
+  - 移轉概述
+  - 利用 FastTrack 和合作夥伴服務
+
+  完成本單元後，學生將能夠&#58;
+  - 計劃內容移轉程序。
+  - 描述在移轉程序中利用可用資源和工具。
+
+
+  ### 模組 2&#58; 移轉到 SharePoint Online
+  該模塊專注於使用 SharePoint 移轉工具（SPMT）將內容移轉到雲端。明確的說，討論 SPMT 的要求和限制。介紹不同移轉方法的不同資料來源 ，例如檔案共用和 SharePoint 內容。
+
+  #### 課程
+  - 準備移轉
+  - 將內容遷移轉到雲端
+  - 管理和監視移轉程序。
+
+  完成本單元後，學生將能夠&#58;
+  - 使用 SharePoint 移轉評估工具（SMAT）存取要移轉的資料。
+  - 使用 SharePoint 移轉評估工具（SPMT）將內容移轉到雲端中。
+  - 管理和監視移轉程序。。
+
+
+  ### 模組 3&#58; 課程總結
+
+  ### 實驗室 &#58; 移轉檔案到 SharePoint Online
+

@@ -1,0 +1,104 @@
+### YamlMime:Course
+title: Dynamics 365 for Finance and Operations 的核心共同配置
+metadata:
+  title: '課程 MB-300T02-A: Dynamics 365 for Finance and Operations 的核心配置'
+  description: '課程 MB-300T02-A: Dynamics 365 for Finance and Operations 的核心配置'
+uid: course.mb-300t02
+courseNumber: 'MB-300T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  組織使用 Dynamics 365 for Finance and Operations 以降低營運成本並快速回應不斷變化的商務需求。該解決方案使組織可以實現這些目標。 
+
+  本課程討論如何配置 Microsoft Dynamics 365 for Finance and Operations 的核心元件。
+
+  #### 對象設定檔
+  Dynamics 365 客戶參與功能顧問負責執行發現，擷取需求，吸引主題專家和利害關係人參與，翻譯需求以及配置解決方案和應用程式。功能顧問使用現成功能，無程式碼擴充性，應用程式和服務整合來實作解決方案。
+prerequisitesSection: |-
+  基本理解 ERP 和 CRM 概念。
+outlineSection: |-
+  ### 模組 1&#58;設定和配置法律實體
+  本模組說明 Dynamics 365 for Finance and Operations 中法律實體和號碼序列的設定和配置。
+  #### 課程
+  - 創建法律實體並產生號碼序列
+  - 創建一個號碼序列
+  - 創建組織階層
+  - 套用目的和原則
+  - 配置月曆和日期間隔
+  - 練習實驗室
+  - 模組摘要
+  
+
+  學生已經學會如何手動或使用精靈創建法律實體並產生號碼序列。學生還配置月曆和日期間隔。此外，他們學習如何創建組織階層，套用目的以及設定原則，以簡化業務策略和報告結構。
+
+  ### 模組 2&#58; 管理使用者和安全性
+  Microsoft Dynamics 365 for Finance and Operations 具有一系列安全和配置選項，可幫助確保敏感資料的安全。這一切都意味著使用者可以繼續專注於自己的角色，而系統則保持盡可能的簡化。
+  知道如何實作不同的安全選項將幫助公司支付其安全要求。當理解財務和營運的安全性架構後，可以更輕鬆地自訂安全性以滿足業務需求。
+  #### 課程
+  - 理解安全性架構
+  - 管理使用者和安全性
+  - 設定並套用職責隔離
+  - 執行安全報告
+  - 設定批次工作和警示
+  - 練習實驗室
+  - 模組摘要
+  
+
+  在本模組中，學生將有&#58;
+  - 理解財務和營運的安全性架構
+  - 受管理的使用者
+  - 受管理的安全
+  - 套用責任隔離
+  - 執行安全報告
+
+
+  ### 模組 3&#58; 執行個人化
+  使用系統時，個人化可以節省時間和工作量。
+  #### 課程
+  - 描述並套用使用者選項
+  - 創建，匯出和匯入個人化設置
+  - 創建和維護記錄範本
+  - 練習實驗室
+  - 模組摘要
+  
+
+  現在，學生已經學習如何使用 Finance and Operations 的個人化功能來使用和套用使用者選項，創建個人化以及匯出供其他使用者使用的個人化。
+  他們還學習到自訂和個人化之間的差異。
+  特別是，個人化如何幫助節省個人化常用欄位值的時間，並允許創建和維護記錄範本。
+
+  ### 模組 4&#58;實施通用整合功能
+  Microsoft Dynamics 365 與許多其他常見程式整合。 例如，電子郵件，Microsoft Office 和 Power BI。
+  #### 課程
+  - Microsoft Office 整合
+  - 配置電子郵件
+  - 創建和維護電子郵件範本
+  - 使用 Power BI
+  - 設置網路列印
+  - 將資料整合到供應用程式使用的公共資料服務中
+  - 練習實驗室
+  - 模組摘要
+  
+
+  在本模組中，學生將學習如何在 Dynamics 365 for Finance and Operations 中使用 Microsoft Office 整合，配置電子郵件（SMTP / Exchange）以及創建和維護電子郵件範本，以在向客戶發送電子郵件時標準化消息。透過設定網路列印功能，可以遠端使用公司網路印表機。最後，本模組提供如何從多個來源的資料整合到供應用程式使用的公共資料服務，以及如何使用資料管理工作區將資料整合到 Dynamics 365 for Finance and Operations 的概述。
+
+  ### 模組 5&#58; 課程總結
+  最終評估和課程摘要，以及課程的課程後調查。
+  #### 課程
+  - 最終評估
+  - 課程摘要
+  - 課後調查
+  
+  學生將完成課程。

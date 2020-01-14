@@ -1,0 +1,130 @@
+### YamlMime:Course
+title: 管理現代智慧桌面和裝置
+metadata:
+  title: '課程 MD-101T02-A: 管理現代智慧桌面和裝置'
+  description: '課程 MD-101T02-A: 管理現代智慧桌面和裝置'
+uid: course.md-101t02
+courseNumber: 'MD-101T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 理解共同管理策略的好處和方法
+- skill: 配置 Intune
+- skill: 在Intune中註冊裝置並配置裝置原則
+- skill: 管理使用者設定檔和資料夾重新導向
+- skill: 計劃行動應用程式管理策略
+- skill: 管理和部署應用程式，包括 Office 365 ProPlus 和 Internet Explorer 設定
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  隨著
+  組織要求使員工行動性更高，桌面管理員
+  的角色實際上不再僅僅是“桌面”管理。
+  隨著 BYOD 變得司空見慣，以及員工存取個人裝置上的商務行應用程式的需求，
+  無論擁有權如何，桌上型電腦管理的範圍都
+  必須包括桌上型電腦和行動裝置。在本課程中，
+  將向學生介紹現代管理和共同管理
+  策略的關鍵元件。他們將檢查需要些什麼才可以把 Microsoft Intune 整合到
+  組織中，以及如何使用它來管理
+  現代桌上型電腦和裝置。學生還將學習應用程式
+  和瀏覽器型應用程式部署和管理方法。
+
+  #### 對象設定檔
+  現代智慧桌面管理員（MDA）在企業環境中部署，配置，保護，管理和監視裝置和用戶端應用程式。責任包括管理身分識別，存取，原則，更新和應用程式。MDA 與 M365 企業管理員共同作業以設計和實作可滿足現代組織商務需求的裝置策略。MDA 必須熟悉 M365 工作負載，並且必須在部署，配置和維護 Windows 10 和非 Windows 裝置方面擁有豐富的技能與經驗。MDA 角色著重於雲端服務，而不是內部部署管理技術。
+prerequisitesSection: |-
+  現代智慧桌面管理員（MDA）
+  必須熟悉 M365 工作負載，並且必須在部署，配置和維護 Windows 10 和
+  非 Windows 裝置方面
+  擁有豐富技能和經驗。MDA 角色著重於雲端服務，而不是
+  內部部署管理技術。
+outlineSection: |-
+  ### 模組 1&#58; 裝置註冊
+  在本模組中，學生將研究共同管理的好處和先決條件，並學習如何進行計劃。此模組還將涵蓋 Azure AD join、Microsoft Intune 簡介以及如何配置註冊裝置的原則。
+  該模組將總結概述 Intune 中的裝置庫存，並使用 Intune 主控台，Power BI 和 Microsoft Graph 進行報告。
+  #### 課程
+  - 裝置管理選項
+  - 管理 Intune 裝置註冊和庫存
+
+
+  #### 實驗室 &#58; 練習實驗室- 裝置註冊和管理
+  - 安裝 MDM 移轉分析工具（MMAT）
+  - 獲得 Intune 和 Azure AD Premium 授權並啟用裝置管理
+  - 在 Intune 中註冊裝置
+  - 在 Intune 中管理裝置
+  - 創建裝置清查報表
+
+
+  完成本單元後，學生將能夠&#58;
+  - 描述移轉到共同管理的好處和方法
+  - 使用 Microsoft Intune 部署 MDM
+  - 配置裝置註冊
+  - 在 Windows Intune 中註冊桌上型電腦和行動裝置
+  - 配置和下載清查報表
+
+
+  ### 模組 2&#58; 配置設定檔
+  該模組更深入探討 Intune 裝置設定檔，包括裝置設定檔的類型以及內建和自訂設定檔之間的差異。學生將學習關於如何將設定檔指派給 Azure AD 群組以及在 Intune 中監視裝置和設定檔。本模組總結概述使用 Windows Analytics 進行健康和合規性報告。
+  #### 課程
+  - 配置裝置設定檔
+  -管理使用者設定檔
+  - 監視裝置
+
+
+  #### 實驗室 &#58; 練習實驗室-管理設定檔
+  - 配置漫遊使用者設定檔和資料夾重新導向
+  - 根據方案創建和部署裝置設定檔
+  - 變更部署的原則並監視使用者和裝置活動
+  - 配置企業狀態漫遊
+
+
+  完成本單元後，學生將能夠&#58;
+  - 描述裝置設定檔的類型
+  - 創建和指派裝置設定檔
+  - 配置使用者設定檔和資料夾重新導向
+  - 使用 Intune 和 Windows Analytics 監視並報告裝置
+
+
+  ### 模組 3&#58; 應用程式管理
+  在本模組中，學生將學習內部部署的應用程式管理和雲端型解決方案。本模組將涵蓋如何在 Intune 中管理 Office 365 ProPlus 部署以及如何在未註冊的裝置上管理應用程式。該模組將總結概述 Internet Explorer 和 Microsoft Edge 的企業模式並使用 Intune 追蹤已安裝的應用程式、授權和指派的應用程式。
+  #### 課程
+  - 實作行動應用程式管理（MAM）
+  - 部署和更新應用程式
+  - 管理應用程式
+
+
+  #### 實驗室 &#58; 練習實驗室-管理應用程式
+  - 使用 Intune 部署應用程式
+  - 從 Intune 配置和部署 Office 365 ProPlus
+  - 在 Intune 中配置 MAM 策略
+
+
+  完成本單元後，學生將能夠&#58;
+  - 描述應用程式管理的方法
+  - 使用 Intune 和群組原則部署應用程式
+  - 配置商務用 Microsoft Store
+  - 使用 Intune 部署 Office365 ProPlus
+  - 管理和報告應用程式清查和授權
+  - 配置 Internet Explorer 企業模式
+
+
+  ### 模組 4&#58; 課程總結
+  #### 課程
+  - 期末測驗
+
+
+  #### 實驗室 &#58; 已評分的實驗室
+  完成本單元後，學生將能夠&#58;
+  - 描述裝置設定檔的類型
+  - 創建和指派裝置設定檔
+  - 配置使用者設定檔和資料夾重新導向
+  - 使用 Intune 和 Windows Analytics 監視並報告裝置

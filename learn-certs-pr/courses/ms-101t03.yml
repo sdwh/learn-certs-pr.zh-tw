@@ -1,0 +1,86 @@
+### YamlMime:Course
+title: Microsoft 365 裝置管理
+metadata:
+  title: '課程 MS-101T03-A: Microsoft 365 裝置管理'
+  description: '課程 MS-101T03-A: Microsoft 365 裝置管理'
+uid: course.ms-101t03
+courseNumber: 'MS-101T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 共同管理計劃
+- skill: 準備 Windows 10 裝置以進行共同管理
+- skill: 從設定管理員轉換到 Intune
+- skill: 配置商務用 Microsoft Store
+- skill: 規劃行動應用程式管理
+- skill: 計劃您的 Windows 10 部署策略
+- skill: 計劃您的 Windows 10 啟動訂閱策略
+- skill: 解決Windows 10升級錯誤
+- skill: 實作 Windows 10分析
+- skill: 部署行動裝置管理
+- skill: 使用行動裝置管理管理裝置
+- skill: 將裝置註冊到行動裝置管理
+- skill: 管理裝置合規性
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  本課程介紹 Microsoft 365 裝置管理的世界 - 從建立 Microsoft Intune，到將裝置註冊到 Intune，以監視裝置，再使用條件式存取原則控制使用者可以從已註冊的設備中執行什麼操作。
+  如果已經在使用諸如設定管理員之類的傳統裝置管理工具來管理裝置，那麼將有興趣瞭解如何順暢移動到現代管理，由 Intune 管理裝置以及如何從新裝置管理功能中受益。 功能，例如合規性，條件式存取和 Windows Autopilot，以從雲端中部署新設備。
+
+  #### 對象設定檔
+  本課程適用於有志於 Microsoft 365 企業管理員角色並已完成 Microsoft 365 角色型的管理員認證途徑之一的人員。
+prerequisitesSection: |-
+  - 完成的角色型管理員課程，例如傳訊，團隊工作，安全性和合規性或共同作業。
+  - 對 DNS 的精通理解以及 Microsoft 365 服務的基本功能經驗。
+  - 精通理解一般的 IT 慣例。
+outlineSection: |-
+  ### 模組 1&#58; 計劃裝置管理
+  #### 課程
+  - 共同管理簡介
+  - 準備您的 Windows 10 裝置以進行共同管理
+  - 從設定管理員轉換到Intune
+  - 商務用 Microsoft Store 簡介
+  - 計劃行動應用程式管理
+
+
+  ### 模組 2&#58; 計劃您的 Windows 10 部署策略
+  #### 課程
+  - Windows 10 部署方案
+  - 計劃您的 Windows 10 啟動訂閱策略
+  - 解決Windows 10升級錯誤
+  - Windows Analytics 簡介
+
+
+  ### 模組 3&#58; 實作行動裝置管理
+  #### 課程
+  - 計劃行動裝置管理
+  - 部署行動裝置管理
+  - 將裝置註冊到MDM
+  - 管理裝置相容性
+
+
+  ### 模組 4&#58; 實習實驗室
+
+  #### 實驗室 &#58; 使用商務用 Microsoft Store
+  - 演練 1&#58; 佈建和管理商務用 Microsoft Store
+  - 演練 2&#58; 使用商務用 Microsoft Store
+
+
+  #### 實驗室 &#58; 使用Intune管理裝置
+  - 演練 1&#58; 取得 Intune 並啟用裝置管理
+  - 演練 2&#58; 配置 Intune 的 Azure AD
+  - 演練 3&#58; 創建 Intune 原則
+  - 演練 4&#58; 註冊 Windows 10 裝置
+  - 演練 5&#58; 在 Intune 中管理和監視裝置
+

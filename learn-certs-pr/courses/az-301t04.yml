@@ -1,0 +1,92 @@
+### YamlMime:Course
+title: 設計一個基礎架構策略
+metadata:
+  title: '課程 AZ-301T04-A: 設計基礎結構策略'
+  description: '課程 AZ-301T04-A: 設計基礎結構策略'
+uid: course.az-301t04
+courseNumber: 'AZ-301T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述從“雲端設計模式”中提取的各種模式。
+- skill: 使用負載平衡器在多個負載之間指派網路流量。
+- skill: 設計雲端和內部部署之間的混合連接方案。
+- skill: 設計一個或多個虛擬機器的可用性集。
+- skill: 描述容錯網域和更新網域之間的差異。
+- skill: 編寫一個VM Scale Set ARM範本。
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-301
+summary: |-
+  瞭解如何描述Azure中VNET的DNS和IP策略，比較即席連接和混合連接的連接選項，如何使用負載平衡器在多個負載之間指派網路流量以及如何設計雲端和內部部署之間的混合連接方案。
+
+  #### 對象設定檔
+  成功的雲端解決方案架構師從在作業系統，虛擬化，雲端基礎結構，儲存結構，計費和網路方面的實踐經驗開始擔任此職務。
+outlineSection: |-
+  ### 模組 1&#58; Azure中的應用程式架構模式
+  此模組介紹並查看Microsoft模式和實踐團隊規定的常見Azure模式和架構。每個模式都分為性能，彈性和可伸縮性類別，並在該類別內類似模式的內容中進行描述。
+
+  完成本單元後，學生將能夠&#58; 
+  - 找到並參考Cloud Design Patterns文件。
+  - 找到並引用Azure架構中心。
+  - 描述從Cloud Design Patterns中提取的各種模式。
+
+
+  ### 模組 2&#58; 構建基於Azure IaaS的伺服器應用程式（ADSK）
+  此模組確定理想情況下使用Azure中的基礎結構即服務服務部署的工作負載。該模組重點介紹Azure中的虛擬機器(VM)規模集和VM服務，以及如何使用最佳實踐和功能（例如可用性集合）將工作負載最佳地部署到這些服務。
+
+  #### 實驗室 &#58; 構建基於Azure IaaS的伺服器應用程式。
+  完成本單元後，學生將能夠&#58; 
+  - 設計一個或多個虛擬機器的可用性集合。
+  - 描述容錯網域和更新網域之間的差異。
+  - 編寫VM規模集Azure資源管理器(ARM)範本。
+  - 將虛擬機器加入Azure或混合網路中的網域。
+
+
+  ### 模組 3&#58; 網路Azure應用程式組件
+  本模組描述了可用於Azure上部署的解決方案的各種網路和連接選項。該模組探討了從臨時連接到長期混合連接方案的連接選項。該模組還討論了一些性能和安全問題，這些問題與平衡多個計算實例上的工作負載，將內部基礎結構連接到雲端以及為內部資料創建閘道器有關。
+
+  #### 實驗室 &#58; 部署網路基礎結構以在Azure解決方案中使用
+  完成本單元後，學生將能夠&#58; 
+  - 描述Azure中VNET的DNS和IP策略。
+  - 比較臨時和混合連接的連接選項。
+  - 使用負載平衡器在多個負載之間指派網路流量。
+  - 設計雲端和內部部署之間的混合連接方案。
+
+
+  ### 模組 4&#58; 使用Messaging Services整合Azure解決方案組件
+  本模組描述並比較了可用於Azure平台上受控的解決方案的整合和通訊服務。所描述的訊息傳遞服務包括Azure儲存佇列，服務匯流排佇列，服務匯流排轉送，IoT中心，事件中心和通知中心。整合服務包括Azure Functions和Logic Apps。
+
+  #### 實驗室 &#58; 使用Messaging Services整合Azure解決方案組件
+  完成本單元後，學生將能夠&#58; 
+  - 將儲存佇列與服務匯流排佇列進行比較。
+  - 確定何時在解決方案中使用Azure Functions或Logic Apps整合組件。
+  - 描述IoT中心，事件中心和時序見解之間的差異。

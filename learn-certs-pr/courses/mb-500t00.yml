@@ -1,0 +1,95 @@
+### YamlMime:Course
+title: 'Microsoft Dynamics 365: 財務和營運應用程式開發人員'
+metadata:
+  title: '課程 MB-500T00-A: Microsoft Dynamics 365: 財務和營運應用程式開發人員'
+  description: '課程 MB-500T00-A: Microsoft Dynamics 365: 財務和營運應用程式開發人員'
+uid: course.mb-500t00
+courseNumber: 'MB-500T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-500
+summary: |-
+  開發人員訓練。Microsoft Dynamics 365 財務和營運應用程序開發人員實作和擴充應用程式以滿足商務需求。應試者透過使用標準應用程式編碼模式、延伸功能以及外部整合來提供完全實作的解決方案。
+
+  #### 對象設定檔
+  
+  Microsoft Dynamics 365 Finance and Operations 應用程式開發人員   
+
+outlineSection: |-
+  #### 模組 1&#58; 概觀與架構
+  
+  描述Dynamics 365生態系統和 Dynamics 365 Finance and Operations（FO）軟體的主要元件，描述D365FO的架構，描述相關的 D365FO 設計和部署考量
+  
+  #### 實驗室 &#58; 開發環境配置和專案/模型創建
+  
+  #### 模組 2&#58; 開發者工具
+
+  使用生命週期服務管理系統實作，使用 Visual Studio 自訂 D365FO，使用版本控制管理原始程式碼和成品，使用其他開發工具完成任務
+  
+  #### 實驗室 &#58; 使用DevOps進行原始檔控制
+
+  #### 模組 3&#58; 解決方案設計
+  確定所需的應用程式堆疊元件和伺服器架構，實作施軟體生命週期管理（ALM），設計 D365FO 解決方案
+
+  #### 實驗室 &#58; 資料結構開發
+  
+  #### 模組 4&#58; AOT元素
+  
+  創建表單，創建和擴充表格，創建擴充資料型態（EDT）和列舉，創建類別並擴充 AOT 元素
+  
+  #### 實驗室 &#58; 中繼資料擴充和開發
+  
+  #### 模組 5&#58; 程式碼開發與測試
+
+  
+  開發X ++程式碼，開發物件導向的程式碼，擴充 D365 FO 功能，描述測試架構和工具，執行單元測試
+  
+  #### 實驗室 &#58; 程式碼擴充和開發
+  
+  #### 模組 6&#58; 資料移轉
+  
+  描述移轉工具和方法，計劃移轉策略，準備移轉資料和移轉資料
+
+  #### 實驗室 &#58; 使用資料實體進行資料匯出/匯入
+  
+  #### 實驗室 &#58; 重複資料傳輸
+  
+  #### 模組 7&#58; 架構
+  
+  實作 D365 FO 功能
+  
+  #### 實驗室 &#58; SysExtension架構
+  
+  #### 模組 8&#58; 整合
+  
+  識別資料整合模式和方案，實作資料整合概念和解決方案，實作重複整合，整合 D365FO 與 Microsoft Azure，疑難排解整合錯誤，實作資料管理套件 API
+  
+  #### 實驗室 &#58; OData 整合
+
+  #### 實驗室 &#58; 邏輯應用程式整合
+  
+  #### 實驗室 &#58; 呼叫外部Web服務
+
+  #### 模組 9&#58; 報告
+  
+  描述 D365FO 中報表工具的功能和限制性，設計，創建和修訂​​動態報表，設計，創建和修訂​​
+  Dynamics 工作區，設計，創建和修訂連結到 D365FO 外部資料儲存的資料來源
+
+  #### 實驗室 &#58; F&O的Power BI報表
+  
+  #### 模組 10&#58; 安全與效能
+  
+  描述和實作效能工具和 LCS 環境監視工具，實作角色型的安全原則和要求，套用基本效能最佳化技術，最佳化批次程序效能，最佳化使用者界面效能，增強整合效能，最佳化報表效能
+  
+  #### 實驗室 &#58; 非同步和沙箱功能

@@ -1,0 +1,89 @@
+### YamlMime:Course
+title: 實作持續整合
+metadata:
+  title: '課程 AZ-400T02-A: 實作連續整合'
+  description: '課程 AZ-400T02-A: 實作連續整合'
+uid: course.az-400t02
+courseNumber: 'AZ-400T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 解釋為什麼持續整合很重要
+- skill: 使用Azure DevOps實作持續整合
+- skill: 配置版本和可用選項
+- skill: 創建自動構建工作流程
+- skill: 將其他構建工具與Azure DevOps整合
+- skill: 創建混合構建過程
+- skill: 描述什麼是代碼品質以及如何對其進行度量
+- skill: 檢測代碼氣味
+- skill: 整合自動化測試以提高代碼品質
+- skill: 報告測試期間的代碼覆蓋率
+- skill: 添加工具以衡量技術債務
+- skill: 檢測開放原始碼和其他許可問題
+- skill: 實作一個容器構建策略
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  本課程提供知識和技能，以實作持續整合的DevOps實踐。學生將學習如何在Azure DevOps管道中實作持續整合，如何管理代碼品質和安全性原則以及如何實作容器構建策略。
+
+  #### 對象設定檔
+  本課程的學生對DevOps持續整合過程或透過Microsoft Azure DevOps Solutions認證測驗感興趣。
+prerequisitesSection: |-
+  - 學生應具有有關Azure，版本控制，敏捷軟體開發和核心軟體開發原理的基礎知識。在提供軟體的組織中擁有經驗會很有幫助。
+  - 建議您具有在IDE中工作的經驗，以及有關Azure入口的一些知識。但是，可能沒有這些技術的技術背景，但對DevOps的實踐會隨著文化的變化而感到好奇的學生，無論如何都應能夠遵循程序和說明性的持續整合說明。
+outlineSection: |-
+  ### 模組 1&#58; 在Azure DevOps管道中實作持續整合
+  在本單元中，將向您介紹持續整合的原理，包括&#58; 好處，挑戰，建立最佳實踐和實作步驟。您還將瞭解有關使用工作流，觸發器，代理和工具實作構建策略的資訊。
+  #### 課程
+  - 持續整合概述
+  - 實作構建策略
+
+
+  #### 實驗室 &#58; 啟用與Azure管道的持續整合
+
+  #### 實驗室 &#58; 創建Jenkins構建作業並觸發CI
+  完成本單元後，學生將&#58; 
+  - 能夠解釋為什麼持續整合很重要
+  - 使用Azure DevOps實作持續整合
+
+
+  ### 模組 2&#58; 管理代碼品質和安全策略
+  在本模組中，您將學習如何管理代碼品質，包括&#58; 技術債務，SonarCloud和其他工具解決方案。您還將學習如何使用開放原始碼，OWASP和WhiteSource Bolt管理安全策略。
+  #### 課程
+  - 管理代碼品質
+  - 管理安全策略
+
+
+  #### 實驗室 &#58; 使用Azure DevOps和SonarCloud管理技術債務
+
+  #### 實驗室 &#58; 使用WhiteSource Bolt和Azure DevOps檢查漏洞
+  完成本單元後，學生將能夠&#58; 
+  - 管理代碼品質，包括&#58; 技術債務SonarCloud和其他工具解決方案。
+  - 使用開放原始碼，OWASP和WhiteSource Bolt管理安全策略。
+  - 管理代碼品質，包括&#58; 技術債務，SonarCloud和其他工具解決方案。
+
+
+  ### 模組 3&#58; 實作容器構建策略
+  在本模組中，您將學習如何實作容器策略，包括容器與虛擬機器的區別以及微服務如何使用容器。您還將學習如何使用Docker實作容器。
+  #### 課程
+  - 實作集裝箱建造策略
+
+
+  #### 實驗室 &#58; 具有Azure和Docker映像的現有.NET應用程式
+  完成本單元後，學生將能夠&#58; 
+  - 實作容器策略，包括容器與虛擬機器的區別以及微服務如何使用容器。
+  - 使用Docker實作容器。
+

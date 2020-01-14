@@ -1,0 +1,60 @@
+### YamlMime:Course
+title: 配置 Dynamics 365 Field Service
+metadata:
+  title: '課程 MB-240T01-A: 配置 Dynamics 365 Field Service'
+  description: '課程 MB-240T01-A: 配置 Dynamics 365 Field Service'
+uid: course.mb-240t01
+courseNumber: 'MB-240T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 識別現場服務實作中涉及的重要元件。
+- skill: 定義將交付給客戶的產品和服務。
+- skill: 確定在特定方案中使用哪些定價選項。
+- skill: 確定需要哪些資源。
+- skill: 配置系統以支持資源需求。
+- skill: 定義經常報告的問題，並對其進行範本化以便於使用。
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  Dynamics 365 for Field Service 透過提供各種工具幫助組織更好在市場中定位，這些工具可幫助識別和安排資源以及管理行動工作人員的工作負載。本課程將使學生擁有識別和配置用於交付現場服務和行動解決方案的關鍵元件所需的技能。關鍵主題包括識別組織考量，將推動配置決策和常見配置方面。 
+
+  本課程幫助學生更好理解全貌，並圍繞實作的最終目標，這些目標有助於設計出與客戶和組織目標相一致的更有效的解決方案。
+prerequisitesSection: |-
+  對 Dynamics 365 特色，功能和導航的基本理解。
+outlineSection: |-
+  ### 課程 1&#58; 配置 Field Service
+  #### 課程
+  - 現場服務簡介
+  - 定義產品和服務
+  - 定義稅法
+
+
+  ### 模組 2&#58; 資源調度配置
+  #### 課程
+  - 對應和位置資訊
+  - 配置資源元件
+  - 定義帳戶喜好設定
+
+
+  ### 模組 3&#58; 定義和配置可預訂資源
+  #### 課程
+  - 定義可預訂資源
+  - 資源集區，人員和設施
+
+
+  ### 模組 4&#58; 處理和配置事件
+  #### 課程
+  - 創建事件
+  - 使用服務工作
+  - 定義產品，服務和技能

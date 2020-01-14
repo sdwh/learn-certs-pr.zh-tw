@@ -1,0 +1,126 @@
+### YamlMime:Course
+title: Implementing 實作應用程式基礎結構
+metadata:
+  title: '課程 AZ-400T05-A: 實作應用程式基礎結構'
+  description: '課程 AZ-400T05-A: 實作應用程式基礎結構'
+uid: course.az-400t05
+courseNumber: 'AZ-400T05-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 將基礎結構和配置作為代碼原則
+- skill: 使用Microsoft自動化技術（例如ARM範本，PowerShell和Azure CLI）部署和管理基礎結構
+- skill: 描述Azure可用的部署模型和服務
+- skill: 部署和配置受控Kubernetes集群
+- skill: 使用帶有Azure的第三方工具和服務來部署和配置基礎結構，例如Chef，Puppet，Ansible，SaltStack和Terraform
+- skill: 為發布管道和應用程式基礎結構定義基礎結構和配置策略以及適當的工具集
+- skill: 在您的應用程式基礎結構中實作合規性和安全性
+learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  本課程提供在DevOps管道中部署應用程式基礎結構的知識和技能。
+  學生將學習如何將基礎結構實作為代碼和配置管理，如何使用常見的自動化工具來配置Azure基礎結構，以及如何使用各種Azure服務和部署方法來部署應用程式基礎結構。
+  學生還將學習如何將第三方部署工具與Chef和Puppet等Azure整合在一起，以將合規性和安全性納入發布管道。
+
+  #### 對象設定檔
+  本課程的學生對實作應用程式基礎結構以及該基礎結構的管理和配置，或透過Microsoft Azure DevOps Solutions認證測驗感興趣。
+prerequisitesSection: |-
+  學生應具有有關Azure的基礎知識，虛擬機器和容器的使用經驗以及對自動化和指令碼的瞭解。
+  
+  有使用Windows或Linux在軟體開發或操作環境中工作的經驗會有所幫助，但不是必需的。
+  
+  學生還應該具有一般應用程式開發和部署過程的知識。
+outlineSection: |-
+  ### 模組 1&#58; 基礎結構和配置Azure工具
+  #### 課程
+  - 學習目標
+  - 基礎結構作為代碼和配置管理
+  - 使用ARM範本創建Azure資源
+  - 使用Azure CLI創建Azure資源
+  - 使用Azure PowerShell創建Azure資源
+  - 其他自動化工具
+  - 版本控制
+  - 使用ARM範本進行實驗室部署到Azure
+  - 模組複習題
+
+  完成本單元後，學生將能夠&#58; 
+  - 將基礎結構和配置作為代碼原則
+  - 使用Microsoft自動化技術（例如ARM範本，PowerShell和Azure CLI）部署和管理基礎結構
+
+
+  ### 模組 2&#58; Azure部署模型和服務
+  #### 課程
+  - 學習目標
+  - 部署模型和選項
+  - Azure基礎結構即服務(IaaS)服務
+  - 具有DevOps的Azure自動化
+  - 預期狀態設定（DSC）
+  - Azure平台即服務(PaaS)服務
+  - Azure服務結構
+  - 實驗室Azure自動化-IaaS或PaaS部署
+  - Moduel評論問題
+
+  完成本單元後，學生將能夠&#58; 
+  - 描述Azure可用的部署模型和服務
+
+
+  ### 模組 3&#58; 創建和管理Kubernetes服務基礎結構
+  #### 課程
+  - 學習目標
+  - Azure Kubernetes服務
+  - 實驗室部署和擴展AKS集群
+  - 模組複習題
+
+  完成本單元後，學生將能夠&#58; 
+  - 部署和配置受控Kubernetes集群
+
+
+  ### 模組 4&#58; Azure提供的第三方和開放原始碼工具
+  #### 課程
+  - 學習目標
+  - Chef
+  - Puppet
+  - Ansible
+  - Cloud-Init
+  - Terraform
+  - 使用X在Azure中進行實驗室配置和配置應用程式
+
+  - 模組複習題
+
+  完成本單元後，學生將能夠&#58; 
+  - 使用帶有Azure的第三方工具和服務來部署和配置基礎結構，例如Chef，Puppet，Ansible，SaltStack和Terraform
+
+
+
+  ### 模組 5&#58; 在基礎結構中實作合規性和安全性
+  #### 課程
+  - DevOps的安全性和合規性原則
+
+  - Azure安全中心
+
+  - 實驗室將掃描擴展程序或工具整合到Azure DevOps管道/安全中心中
+
+  - 模組複習題
+
+  完成本單元後，學生將能夠&#58; 
+  - 為發布渠道和應用程式基礎結構定義基礎結構和配置策略以及適當的工具集
+
+  - 在您的應用程式基礎結構中實作合規性和安全性
+
+
+  ### 模組 6&#58; 課程完成
+  #### 課程
+  - 期末測驗
