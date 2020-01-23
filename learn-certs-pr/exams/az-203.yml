@@ -1,13 +1,11 @@
 ### YamlMime:Examination
 title: 為 Microsoft Azure 開發解決方案
 metadata:
-  title: '測驗 AZ-203：開發用於 Microsoft Azure 的解決方案'
-  description: '測驗 AZ-203：開發用於 Microsoft Azure 的解決方案'
+  title: '測驗 AZ-203: 開發用於 Microsoft Azure 的解決方案'
+  description: '測驗 AZ-203: 開發用於 Microsoft Azure 的解決方案'
 uid: exam.az-203
 displayName: AZ-203
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>該測驗的內容已於 2019 年 11 月 6 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
-  
   此測驗的應試者是負責設計與構建雲端解決方法（如應用程式與服務等）的 Azure 開發人員。他們參與了開發過程的全部階段，包括從解決方法設計到開發與部署，再到測試與維護。他們與雲端解決方法架構師、雲端 DBA、雲端管理員以及實作解決方法的客戶進行過合作。
   <br/>
 
@@ -27,7 +25,6 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容已於 2019 年 11 月 3 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。
 - 開發 Azure 基礎設施即服務計算解決方案 (10-15%)
 - 開發 Azure 平台即服務計算解決方案 (20-25%)
 - 開發 Azure 存儲 (15-20%)

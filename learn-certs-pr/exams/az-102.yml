@@ -6,8 +6,8 @@ metadata:
 uid: exam.az-102
 displayName: AZ-102
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>該測驗已於 2019年6月30日到期。測驗將在中部標準時間晚間11點59分到期</div>
-  <br/> 
+  <div style='color&#58; red; font-weight&#58; bold;'>該測驗已於 2019年6月30日到期。測驗將在中部標準時間晚間11點59分到期<br/> <br/> </div>
+  
   此項測驗僅適用於已參加 [測驗 70-533](https://www.microsoft.com/zh-tw/learning/exam-70-533.aspx) 的應試者&#58; 實作 Microsoft Azure Infrastructure Solutions如果你仍未參加測驗 533，你將無法通過參加 本測驗 獲得認證。
 
   此轉換測驗針對的是已經通過即將被新的角色導向的認證測驗替代的現有測驗，從而在內容領域中展示了其技能的人。他們除了已通過當前的認證之外，而且還具有我們認為獲取這項新認證所應具有的能力。那些已經通過現有測驗的人已經展示了他們的勝任能力，我們不想再次針對相同內容對他們展開又一次測試。
@@ -17,7 +17,7 @@ summary: |-
   此測驗的應試者是 Azure 管理員，他們管理跨越儲存、安全性、網路與計算雲端功能的雲端服務。應試者對整個 IT 生命週期中的每項服務都有深入的瞭解，並接受雲端基礎結構服務、應用程式與環境的請求。他們針對最佳性能與規模使用服務提出建議，並適當地佈建、規模、監控與調整資源。
 
   測驗的應試者應該熟練使用 PowerShell 與命令列界面。應試者應具備 Azure 門戶、ARM 範本、作業系統、虛擬化、雲端基礎結構、儲存結構與網路的基本瞭解或知識。
-subTitle: '此項測驗僅適用於已參加 [測驗 70-533](https://www.microsoft.com/zh-tw/learning/exam-70-533.aspx) 的應試者：實作 Microsoft Azure Infrastructure Solutions若您沒有參加測驗 533，那麼您將無法透過此測驗獲得認證。'
+subTitle: '此項測驗僅適用於已參加 測驗 70-533 的應試者：實作 Microsoft Azure Infrastructure Solutions若您沒有參加測驗 533，那麼您將無法透過此測驗獲得認證。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwA
 practiceTestUrl: https://www.mindhub.com/product-p/mu-az-102_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice

@@ -1,13 +1,13 @@
 ### YamlMime:Certification
-title: 'Microsoft 認證的：Azure Data 工程師助理'
+title: 'Microsoft 認證的: Azure Data 工程師助理'
 metadata:
-  title: 'Microsoft 認證的：Azure Data 工程師助理'
-  description: 'Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理，監控，安全性和隱私權，以滿足業務需求。'
+  title: 'Microsoft 認證的: Azure Data 工程師助理'
+  description: 'Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理、監控、安全性和隱私權、以滿足業務需求。'
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理，監控，安全性和隱私權，以滿足業務需求。
-subTitle: Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理，監控，安全性和隱私權，以滿足業務需求。
+  Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理、監控、安全性和隱私權、以滿足業務需求。
+subTitle: Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理、監控、安全性和隱私權、以滿足業務需求。
 levels:
 - intermediate
 skills:

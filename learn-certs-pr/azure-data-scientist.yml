@@ -1,13 +1,13 @@
 ### YamlMime:Certification
-title: 'Microsoft 認證的：Azure 資料科學家助理'
+title: 'Microsoft 認證的: Azure 資料科學家助理'
 metadata:
-  title: 'Microsoft 認證的：Azure 資料科學家助理'
-  description: 'Azure Data 科學家應用Azure的機器學習技術來訓練，評估和部署解決業務問題的模型。'
+  title: 'Microsoft 認證的: Azure 資料科學家助理'
+  description: 'Azure Data 科學家應用Azure的機器學習技術來訓練、評估和部署解決業務問題的模型。'
 uid: certification.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Azure Data 科學家應用Azure的機器學習技術來訓練，評估和部署解決業務問題的模型。
-subTitle: Azure Data 科學家應用Azure的機器學習技術來訓練，評估和部署解決業務問題的模型。
+  Azure Data 科學家應用Azure的機器學習技術來訓練、評估和部署解決業務問題的模型。
+subTitle: Azure Data 科學家應用Azure的機器學習技術來訓練、評估和部署解決業務問題的模型。
 levels:
 - intermediate
 skills:

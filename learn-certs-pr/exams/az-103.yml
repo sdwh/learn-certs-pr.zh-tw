@@ -1,13 +1,11 @@
 ### YamlMime:Examination
 title: Microsoft Azure 管理員
 metadata:
-  title: '測驗 AZ-103：Microsoft Azure 管理員'
-  description: '測驗 AZ-103：Microsoft Azure 管理員'
+  title: '測驗 AZ-103: Microsoft Azure 管理員'
+  description: '測驗 AZ-103: Microsoft Azure 管理員'
 uid: exam.az-103
 displayName: AZ-103
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>該測驗的內容已於 2019 年 12 月 4 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
-
   自2019年5月1日起，你僅需要通過測驗 AZ-103 便可獲得此認證。這項新測驗結合了AZ-100 和 AZ-101 （將在2019年5月1日退役）的技能，大部分的新測驗內容將取自 AZ-100。
 
   此測驗的應試者是 Azure 管理員，他們管理跨越儲存、安全性、網路與計算雲端功能的雲端服務。應試者對整個 IT 生命週期中的每項服務都有深入的瞭解，並接受雲端基礎結構服務、應用程式與環境的請求。他們針對最佳性能與規模使用服務提出建議，並適當地佈建、規模、監控與調整資源。
@@ -26,7 +24,6 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容已於 2019 年 12 月 4 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。
 - 管理 Azure 訂閱和資源 (15-20%)
 - 實作和管理存儲 (15-20%)
 - 部署和管理虛擬機 (VM) (15-20%)

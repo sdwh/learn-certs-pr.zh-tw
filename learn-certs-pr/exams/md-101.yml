@@ -1,14 +1,11 @@
 ### YamlMime:Examination
 title: 管理智慧桌面（測試版）
 metadata:
-  title: '測驗 MD-101：管理智慧桌面'
-  description: '測驗 MD-101：管理智慧桌面'
+  title: '測驗 MD-101: 管理智慧桌面'
+  description: '測驗 MD-101: 管理智慧桌面'
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>該測驗的內容已於 2019 年 11 月 22 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。<br/></div>
-  <br/>
-  
   如果您在 [測驗 70-698](https://www.microsoft.com/zh-tw/learning/exam-70-698.aspx) 2019 年 3 月31 日過期之前通過了該測驗，您只需要使用 MD-101 即可獲得“智慧桌面”認證。參加此測驗的應試者在企業環境中部署、配置、保護、管理和監視設備和客戶端應用程式的管理員。應試者管理身份、存取、策略、更新與應用程式。
   <br/>
 
@@ -26,7 +23,6 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容已於 2019 年 11 月 22 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。
 - 部署和更新操作系統 (15-20%)
 - 管理策略和檔案 (35-40%)
 - 管理和保護設備 (15-20%)

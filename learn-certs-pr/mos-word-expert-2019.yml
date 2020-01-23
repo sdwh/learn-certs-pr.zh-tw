@@ -1,7 +1,7 @@
 ### YamlMime:Certification
-title: 'Microsoft Office Specialist：Microsoft Word Expert (Word 和 Word 2019)'
+title: 'Microsoft Office Specialist: Microsoft Word Expert (Word 和 Word 2019)'
 metadata:
-  title: 'Microsoft Office Specialist：Microsoft Word Expert (Word 和 Word 2019)'
+  title: 'Microsoft Office Specialist: Microsoft Word Expert (Word 和 Word 2019)'
   description: '透過取得 Microsoft Office Specialist 認證，展現您具備充分運用 Office 所需的進階技能。特定 Office 程式中的專家認證。'
 uid: certification.mos-word-expert-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
@@ -28,7 +28,7 @@ resources:
 - title: 訓練和認證指南
   description: 在簡明的訓練和認證指南中探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Replay
+- title: 重測
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證

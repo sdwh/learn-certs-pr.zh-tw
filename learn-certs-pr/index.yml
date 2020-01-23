@@ -76,7 +76,7 @@ trainingSection:
     summary: 借助 Microsoft Learn，任何人都可以按照自己的速度和時間表掌握核心概念。無論是學習一項核心任務的單一模組，還是透過相關模組的集合全面探索某個主題。
     browseLinks:
     - text: 瀏覽全部學習路徑
-      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
+      url: https://docs.microsoft.com/zh-tw/learn/browse/?resource_type=learning%20path
   - image:
       alt: 名男子向圍坐在桌旁的四人作報告
       src: /learn/certifications/images/image-working-group.jpg
@@ -100,7 +100,7 @@ resourcesSection:
       url: /learn/certifications/browse
 
 statisticsSection:
-  title: 為何要認證？
+  title: 為何要認證
   summary: 認證是對您專業優勢的證明，是產業認可的職位技能的體現。
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf

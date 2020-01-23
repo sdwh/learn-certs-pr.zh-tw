@@ -1,13 +1,11 @@
 ### YamlMime:Examination
 title: Microsoft Azure 安全技術
 metadata:
-  title: '測驗 AZ-500：Microsoft Azure 安全技術'
-  description: '測驗 AZ-500：Microsoft Azure 安全技術'
+  title: '測驗 AZ-500: Microsoft Azure 安全技術'
+  description: '測驗 AZ-500: Microsoft Azure 安全技術'
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>該測驗的內容已於 2019 年 12 月 4 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
-
   參加此測驗的應試者是 Microsoft Azure 安全工程師，他們將實作安全控制、維護安全狀態、管理身份和訪問並保護資料、應用程式和網絡。應試者可以使用各種安全工具來識別和補救漏洞，實作威脅防護，並對安全事件升級做出響應。作為 Microsoft Azure 安全工程師，應試者通常是致力於基於雲端的管理和安全性的較大團隊中的一員，並且還可以保護混合環境作為端到端基礎設施的一部分。
 
   參加該測驗的應試者應具有較強的腳本編寫和自動化技能；對網絡、虛擬化和雲端 N 層架構的深刻理解；並且對雲端功能，Microsoft Azure 產品和服務以及其他 Microsoft 產品和服務非常熟悉。
@@ -24,7 +22,6 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容已於 2019 年 12 月 4 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。
 - 管理身份和訪問 (20-25%)
 - 實作平台保護 (35-40%)
 - 管理安全操作 (15-20%)

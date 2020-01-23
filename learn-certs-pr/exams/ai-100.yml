@@ -1,13 +1,11 @@
 ### YamlMime:Examination
 title: 設計與實作 Azure AI 解決方法
 metadata:
-  title: '測驗 AI-100：設計和實作 Azure AI 解決方案'
-  description: '測驗 AI-100：設計和實作 Azure AI 解決方案'
+  title: '測驗 AI-100: 設計和實作 Azure AI 解決方案'
+  description: '測驗 AI-100: 設計和實作 Azure AI 解決方案'
 uid: exam.ai-100
 displayName: AI-100
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>該測驗的內容已於 2019 年 11 月 26 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
-  
   本測驗的應試者將分析AI 解決方案的需求，推薦合適的工具和技術，並實作滿足可伸縮性和效能要求的解決方案。
   <br/>
 
@@ -28,7 +26,6 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容已於 2019 年 12 月 26 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。
 - 分析工作量要求 (25-30%)
 - 設計 AI 策略 (40-45%)
 - 實作和監控 AI 解決方案 (25-30%)

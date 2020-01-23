@@ -1,13 +1,13 @@
 ### YamlMime:Certification
-title: 'Microsoft 認證：Azure 開發人員助理'
+title: 'Microsoft 認證: Azure 開發人員助理'
 metadata:
-  title: 'Microsoft 認證：Azure 開發人員助理'
-  description: 'Microsoft Azure 開發人員設計，組建，測試和維護雲端解決方案（如應用程式和服務），與雲端解決方案架構師，雲端 DBAs，雲端管理員和客戶合作以實作這些解決方案。'
+  title: 'Microsoft 認證: Azure 開發人員助理'
+  description: 'Microsoft Azure 開發人員設計、組建、測試和維護雲端解決方案（如應用程式和服務）、與雲端解決方案架構師、雲端 DBAs、雲端管理員和客戶合作以實作這些解決方案。'
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Azure開發人員設計，組建，測試和維護雲端解決方案（如應用程式和服務），與雲端解決方案架構師，雲端DBAs，雲端管理員和客戶合作以實作這些解決方案。
-subTitle: Microsoft Azure開發人員設計，組建，測試和維護雲端解決方案（如應用程式和服務），與雲端解決方案架構師，雲端DBAs，雲端管理員和客戶合作以實作這些解決方案。
+  Microsoft Azure開發人員設計、組建、測試和維護雲端解決方案（如應用程式和服務）、與雲端解決方案架構師、雲端DBAs、雲端管理員和客戶合作以實作這些解決方案。
+subTitle: Microsoft Azure開發人員設計、組建、測試和維護雲端解決方案（如應用程式和服務）、與雲端解決方案架構師、雲端DBAs、雲端管理員和客戶合作以實作這些解決方案。
 levels:
 - intermediate
 skills:
@@ -57,7 +57,7 @@ exams:
 - uid: exam.az-203
 resources:
 - title: 認證學習途徑
-  description: '發現訓練資源以獲得 Microsoft 認證：Azure 開發人員助理。'
+  description: '發現訓練資源以獲得 Microsoft 認證: Azure 開發人員助理。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: 訓練和認證指南
   description: 在簡明的訓練和認證指南中探索所有認證。
