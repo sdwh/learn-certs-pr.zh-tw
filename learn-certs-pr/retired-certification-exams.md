@@ -2,7 +2,6 @@
 title: Microsoft 到期測驗| Microsoft Docs
 description: Microsoft 到期測驗
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

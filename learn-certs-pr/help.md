@@ -2,7 +2,6 @@
 title: Microsoft 訓練和認證說明 | Microsoft Docs
 description: Microsoft 訓練和認證說明
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

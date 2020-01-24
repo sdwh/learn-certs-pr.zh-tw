@@ -2,7 +2,6 @@
 title: Microsoft 撤銷課程 | Microsoft Docs
 description: Microsoft 淘汰課程
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

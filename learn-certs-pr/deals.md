@@ -2,7 +2,6 @@
 title: 優惠| Microsoft Docs
 description: 優惠 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

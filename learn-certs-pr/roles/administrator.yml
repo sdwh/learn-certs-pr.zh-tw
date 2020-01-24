@@ -2,10 +2,10 @@
 title: 管理員 
 metadata: 
   title: 管理員 
-  description: 管理員實作、監控和維護 Microsoft 解決方案，包括與計算、儲存、網路和安全性相關的主要服務。
+  description: 管理員實作、監控和維護 Microsoft 解決方案、包括與計算、儲存、網路和安全性相關的主要服務。
 uid: role.administrator 
 summary: | 
-  管理員實作、監控和維護 Microsoft 解決方案，包括與計算、儲存、網路和安全性相關的主要服務。
+  管理員實作、監控和維護 Microsoft 解決方案、包括與計算、儲存、網路和安全性相關的主要服務。
 subTitle: 管理員實作、監控和維護 Microsoft 解決方案。
 certificationPaths: 
 - title: Azure Administrator

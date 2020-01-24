@@ -2,7 +2,6 @@
 title: 成為經 Microsoft 認證的訓練師 | Microsoft Docs
 description: 成為經 Microsoft 認證的訓練師
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

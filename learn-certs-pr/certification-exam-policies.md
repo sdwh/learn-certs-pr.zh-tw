@@ -2,7 +2,6 @@
 title: 認證-測驗-策略 | Microsoft Docs
 description: 認證-測驗-策略
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

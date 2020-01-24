@@ -2,11 +2,11 @@
 title: 安全工程師
 metadata: 
   title: 安全工程師 
-  description: 安全工程師實作安全控制和威脅防護，管理身分識別和存取，並保護資料、應用程式和網路。
+  description: 安全工程師實作安全控制和威脅防護、管理身分識別和存取、並保護資料、應用程式和網路。
 uid: role.security-engineer 
 summary: | 
-  安全工程師實作安全控制和威脅防護，管理身分識別和存取，並保護資料、應用程式和網路。
-subTitle: 安全工程師實作安全控制和威脅防護，管理身分識別和存取，並保護資料、應用程式和網路。
+  安全工程師實作安全控制和威脅防護、管理身分識別和存取、並保護資料、應用程式和網路。
+subTitle: 安全工程師實作安全控制和威脅防護、管理身分識別和存取、並保護資料、應用程式和網路。
 certificationPaths: 
 - title: Azure 安全工程師
   linkedInKeywords: Azure 安全工程師

@@ -2,7 +2,6 @@
 title: 用於大量授權客戶的軟體訓練 | Microsoft Docs
 description: 用於大量授權客戶的軟體訓練 
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

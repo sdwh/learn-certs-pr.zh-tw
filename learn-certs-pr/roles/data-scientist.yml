@@ -2,11 +2,11 @@
 title: 資料科學家 
 metadata: 
   title: 資料科學家 
-  description: 資料科學家應用機器學習技術來訓練，評估和部署解決業務問題的模型。 
+  description: 資料科學家應用機器學習技術來訓練、評估和部署解決業務問題的模型。 
 uid: role.data-scientist 
 summary: | 
-  資料科學家應用機器學習技術來訓練，評估和部署解決業務問題的模型。
-subTitle: 資料科學家應用機器學習技術來訓練，評估和部署解決業務問題的模型。
+  資料科學家應用機器學習技術來訓練、評估和部署解決業務問題的模型。
+subTitle: 資料科學家應用機器學習技術來訓練、評估和部署解決業務問題的模型。
 certificationPaths: 
 - title: Azure 資料科學家
   linkedInKeywords: Azure 資料科學家

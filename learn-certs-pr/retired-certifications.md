@@ -2,7 +2,6 @@
 title: Microsoft 撤銷的認證 | Microsoft Docs
 description: Microsoft 撤銷的認證
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

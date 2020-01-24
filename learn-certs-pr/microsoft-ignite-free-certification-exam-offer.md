@@ -2,7 +2,6 @@
 title: 'Microsoft Ignite 和 Microsoft Ignite The Tour: 免費認證測驗優惠 | Microsoft Docs'
 description: 'Microsoft Ignite 和 Microsoft Ignite The Tour: 免費認證測驗優惠' 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
