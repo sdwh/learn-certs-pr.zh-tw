@@ -6,12 +6,12 @@ metadata:
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
-  本認證可驗證您具備以下相關能力，能將您的公司移至雲端、提高使用者生產力與機動性、減少資料遺失的機會，並改善組織的資料安全性。該認證可用於滿足成為 [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/zh-tw/learning/m365-enterprise-administrator.aspx)
+  本認證可驗證您具備以下相關能力，能將您的公司移至雲端、提高使用者生產力與機動性、減少資料遺失的機會，並改善組織的資料安全性。該認證可用於滿足成為 [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
   
   要成為一名 MCSE 生產力解決方案專家，請完成下列要求&#58;
   - 贏取一項先決條件認證
-    - 先決條件選項 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/zh-tw/learning/mcsa-windows-server-certification.aspx)
-    - 先決條件選項 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/zh-tw/learning/mcsa-windows-server-2016-certification.aspx)
+    - 先決條件選項 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
+    - 先決條件選項 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
   - 通過一項有效測驗。
     - [70-333&#58; 使用 2015 年 Skype 企業版部署企業語音](/learn/certifications/exams/70-333)
     - [70-334&#58; Microsoft Skype 企業版核心解決方案](/learn/certifications/exams/70-334)
@@ -53,4 +53,4 @@ resources:
   href: help.md
 - title: 認證儀錶板
   description: 檢閱並管理您的預定測驗、證書和成績單。
-  href: https://www.microsoft.com/zh-tw/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

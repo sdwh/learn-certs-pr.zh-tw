@@ -16,7 +16,7 @@ skillsGained:
 - skill: 詳細介紹認知服務中可用的各種API。
 - skill: 確定何時使用Face API，語音API或語言理解(LUIS)服務。
 - skill: 描述與Bot Framework和Azure Bot Services的關係。
-learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

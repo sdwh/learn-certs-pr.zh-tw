@@ -76,7 +76,7 @@ trainingSection:
     summary: 借助 Microsoft Learn，任何人都可以按照自己的速度和時間表掌握核心概念。無論是學習一項核心任務的單一模組，還是透過相關模組的集合全面探索某個主題。
     browseLinks:
     - text: 瀏覽全部學習路徑
-      url: https://docs.microsoft.com/zh-tw/learn/browse/?resource_type=learning%20path
+      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
   - image:
       alt: 名男子向圍坐在桌旁的四人作報告
       src: /learn/certifications/images/image-working-group.jpg
@@ -91,7 +91,7 @@ resourcesSection:
   items:
     - title: 找一個 Microsoft 學習合作夥伴
       summary: 我們的全球合作夥伴網路可以為 Microsoft 技術提供靈活，以解決方案為基礎的自訂訓練。
-      url: https://www.microsoft.com/zh-tw/learning/partners.aspx
+      url: https://www.microsoft.com/learning/partners.aspx
     - title: 認證與測驗支援
       summary: 透過支援論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
       url: /learn/certifications/help
@@ -105,7 +105,7 @@ statisticsSection:
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
     iframeTitle: Microsoft 認證
-    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
     title: Microsoft 認證的好處
     summary: 在獲得認證後，23％ 的 Microsoft 認證技術人員報告稱薪資漲幅高達 20％。更重要的是，經過認證的員工經常被委託監督他們的同事，讓他們走上快速晉升的通道。— 2017 Pearson VUE 認證價值白皮書
   items:

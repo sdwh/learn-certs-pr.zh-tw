@@ -14,7 +14,7 @@ skillsGained:
 - skill: 設計一個或多個虛擬機器的可用性集。
 - skill: 描述容錯網域和更新網域之間的差異。
 - skill: 編寫一個VM Scale Set ARM範本。
-learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

@@ -6,7 +6,7 @@ metadata:
 uid: exam.md-100
 displayName: MD-100
 summary: |-
-  如果您在2019年3月31日到期之前通過了 [測驗 70-698](https://www.microsoft.com/zh-tw/learning/exam-70-698.aspx), 您只需要參加測驗 MD-101 即可獲得現代桌面認證。此測驗的應試者是在企業環境中部署、設定、保護、管理與監控裝置與用戶端應用程式的管理員。應試者管理身份、存取、策略、更新與應用程式。
+  如果您在2019年3月31日到期之前通過了 [測驗 70-698](https://www.microsoft.com/learning/exam-70-698.aspx), 您只需要參加測驗 MD-101 即可獲得現代桌面認證。此測驗的應試者是在企業環境中部署、設定、保護、管理與監控裝置與用戶端應用程式的管理員。應試者管理身份、存取、策略、更新與應用程式。
 
   作為管理員，應試者通常與 Microsoft 365 企業管理員合作來設計與實作滿足現代組織業務需求的裝置策略。
 
@@ -55,7 +55,7 @@ resources:
   href: ../help.md
 - title: 認證儀錶板
   description: 檢閱並管理您的預定測驗、證書和成績單。
-  href: https://www.microsoft.com/zh-tw/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 請求無障礙設施
   description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
