@@ -13,7 +13,7 @@ skillsGained:
 - skill: 實作Azure資料加密方法
 - skill: 安全網際網路協議以及如何在Azure上實作它們
 - skill: 描述Azure安全服務和功能
-learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -39,7 +39,7 @@ summary: |-
   #### 對象設定檔
   學生應具有至少一年的實踐經驗，以確保Azure工作負載的安全，並具有關於Azure工作負載的安全控制的經驗。
 prerequisitesSection: |-  
-  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/zh-tw/learn/certifications/azure-administrator)
+  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/learn/certifications/azure-administrator)
 outlineSection: |-
   ### 模組 1&#58; 身分識別和存取
   #### 課程

@@ -17,7 +17,7 @@ skillsGained:
 - skill: 為Azure中受控的解決方案設計警示方案。
 - skill: 為Azure中受控的基礎結構和資料選擇適當的備份選項。
 - skill: 自動部署將來的資源，以進行備份恢復或擴展。
-learningPartnersLink: https://www.microsoft.com/zh-tw/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

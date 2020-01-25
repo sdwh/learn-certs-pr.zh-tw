@@ -8,7 +8,7 @@ displayName: MS-202
 summary: |-
   <div style='color&#58; red; font-weight&#58; bold;'>該測驗已於 2019年9月30日到期。測驗將在中部標準時間晚間11點59分到期<br/><br/></div>
      
-  該測驗僅適用於已參加 [測驗 70-345&#58;](https://www.microsoft.com/zh-tw/learning/exam-70-345.aspx) 設計和部署 Microsoft Exchange Server 2016 的應試者。若您沒有參加測驗 345，那麼您將無法透過此測驗獲得認證。
+  該測驗僅適用於已參加 [測驗 70-345&#58;](https://www.microsoft.com/learning/exam-70-345.aspx) 設計和部署 Microsoft Exchange Server 2016 的應試者。若您沒有參加測驗 345，那麼您將無法透過此測驗獲得認證。
 
   該測驗的應試者是消息傳遞管理員，他們在本地和雲企業環境中部署、配置、管理、故障排除和監視收件人、權限、郵件保護、郵件流和公共文件夾。
 
@@ -51,7 +51,7 @@ resources:
   href: ../help.md
 - title: 認證儀錶板
   description: 檢閱並管理您的預定測驗、證書和成績單。
-  href: https://www.microsoft.com/zh-tw/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 請求無障礙設施
   description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
