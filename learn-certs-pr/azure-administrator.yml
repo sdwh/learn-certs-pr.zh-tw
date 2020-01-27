@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 認證的: Azure Administrator Associate'
+title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
-  title: 'Microsoft 認證的: Azure Administrator Associate'
-  description: 'Azure 管理員實作、監控和維護 Microsoft Azure 解決方案，包括與計算、儲存、網路和安全性相關的主要服務。'
+  title: 'Microsoft Certified: Azure Administrator Associate'
+  description: Azure 管理員實作、監控和維護 Microsoft Azure 解決方案，包括與計算、儲存、網路和安全性相關的主要服務。
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Azure 管理員實作、監控和維護 Microsoft Azure 解決方案，包括與計算、儲存、網路和安全性相關的主要服務。 [瞭解更多關於在2019年5月1日生效的此認證。](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
+summary: Azure 管理員實作、監控和維護 Microsoft Azure 解決方案，包括與計算、儲存、網路和安全性相關的主要服務。 [瞭解更多關於在2019年5月1日生效的此認證。](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
 subTitle: Azure 管理員實作、監控和維護 Microsoft Azure 解決方案，包括與計算、儲存、網路和安全性相關的主要服務。
 levels:
 - intermediate
@@ -38,7 +37,7 @@ exams:
 - uid: exam.az-103
 resources:
 - title: 認證學習路徑
-  description: '發現訓練資源,以成為經 Microsoft 認證的：Azure Administrator Associate。'
+  description: '發現訓練資源,以成為經 Microsoft Certified: Azure Administrator Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

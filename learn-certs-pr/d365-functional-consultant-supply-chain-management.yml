@@ -1,13 +1,12 @@
 ### YamlMime:Certification
-title: 'Microsoft 認證的: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 認證的: Dynamics 365 Supply Chain Management Functional Consultant Associate'
-  description: 'Dynamics 365 供應鏈管理功能顧問助理負責為客戶簡明化成本核算、庫存管理、整體規劃、以及倉儲管理。'
+  title: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+  description: Dynamics 365 供應鏈管理功能顧問助理負責為客戶簡明化成本核算、庫存管理、整體規劃、以及倉儲管理。
 uid: certification.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Dynamics 365 供應鏈管理功能顧問助理負責為客戶簡明化成本核算、庫存管理、整體規劃、以及倉儲管理。
-subTitle: 'Dynamics 365 供應鏈管理功能顧問助理負責為客戶簡明化成本核算、庫存管理、整體規劃、以及倉儲管理。'
+summary: Dynamics 365 供應鏈管理功能顧問助理負責為客戶簡明化成本核算、庫存管理、整體規劃、以及倉儲管理。
+subTitle: Dynamics 365 供應鏈管理功能顧問助理負責為客戶簡明化成本核算、庫存管理、整體規劃、以及倉儲管理。
 levels:
 - intermediate
 skills:
@@ -49,7 +48,7 @@ exams:
 - uid: exam.mb-330
 resources:
 - title: 認證學習路徑
-  description: '發現訓練資源，以成為經 Microsoft 認證的：Dynamics 365 Supply Chain Management Functional Consultant Associate。'
+  description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35nkT
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

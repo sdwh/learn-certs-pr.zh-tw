@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: '經 Microsoft 365 認證的: 現代智慧桌面管理員助理'
+title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
 metadata:
-  title: '經 Microsoft 365 認證的: 現代智慧桌面管理員助理'
-  description: '現代智慧桌面管理員在企業環境中部署，設定，保護，管理和監控裝置和客戶端應用程式。'
+  title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
+  description: 現代智慧桌面管理員在企業環境中部署，設定，保護，管理和監控裝置和客戶端應用程式。
 uid: certification.modern-desktop
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  現代智慧桌面管理員在企業環境中部署，設定，保護，管理和監控裝置和客戶端應用程式。
+summary: 現代智慧桌面管理員在企業環境中部署，設定，保護，管理和監控裝置和客戶端應用程式。
 subTitle: 現代智慧桌面管理員在企業環境中部署，設定，保護，管理和監控裝置和客戶端應用程式。
 levels:
 - intermediate
@@ -25,7 +24,6 @@ type: role-based
 products:
 - m365
 - windows
-
 courses:
 - uid: course.md-100t01
 - uid: course.md-100t02
@@ -42,7 +40,7 @@ exams:
 - uid: exam.md-101
 resources:
 - title: 認證學習路徑
-  description: '發現訓練資源,以成為經 Microsoft 認證的：Modern Desktop Administrator Associate。'
+  description: '發現訓練資源,以成為經 Microsoft 365 Certified: Modern Desktop Administrator Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

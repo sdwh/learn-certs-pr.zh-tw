@@ -5,20 +5,23 @@ metadata:
   description: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
 uid: exam.mb-200
 displayName: MB-200
-summary: |-
+summary: >-
   該測驗的應試者是功能顧問，他們可以存取企業授權產品的特性和功能。作為一名功能顧問，候選人知道功能的捆綁版本，但並不主要使用這些捆綁產品。
+
   <br/>
+
 
   應試者主要負責配置系統以滿足客戶需求，執行與實現新特性和功能相關的設計任務，以及實現和測試系統更改。
 
+
   應試者規劃解決方案的功能設計，實現應用程式生命周期管理(ALM)過程，從遺留系統和外部系統移轉資料和對象，將 Power 平台與其他系統整合，並管理 Power 平台環境。
-subTitle: '此測驗測量您在完成以下技術任務時的能力：執行發現，計劃與分析; 管理用戶體驗設計; 管理實體與這裡;實作安全性; 實作整合; 以及執行解決方案部署與測試。'
+subTitle: 此測驗測量您在完成以下技術任務時的能力：執行發現，計劃與分析; 管理用戶體驗設計; 管理實體與這裡;實作安全性; 實作整合; 以及執行解決方案部署與測試。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-200&examname=MB-200:%20Microsoft%20Power%20Platform%20+%20Dynamics%20365%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-200&examname=MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 levels:
 - intermediate
 skills:
@@ -30,17 +33,17 @@ skills:
 - 執行解決方案部署和測試 (25-30%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-sales
-- dynamics-marketing
-- dynamics-field-service
-- dynamics-customer-service
 exams:
 - uid: exam.mb-210
 - uid: exam.mb-220
 - uid: exam.mb-230
 - uid: exam.mb-240
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
 courses:
 - uid: course.mb-200t01
 - uid: course.mb-200t02
@@ -61,7 +64,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: 訓練和認證指南
-  description: '透過一份簡潔的訓練和認證指南探索所有認證。'
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 重測
   description: 查看兩份可幫助您提高成功幾率的好提議。

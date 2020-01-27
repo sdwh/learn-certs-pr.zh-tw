@@ -1,19 +1,19 @@
 ### YamlMime:Examination
-title: 設計和部署 Microsoft Exchange Server 2016
+title: Designing and Deploying Microsoft Exchange Server 2016
 metadata:
-  title: '測驗 70-345: 設計和部署 Microsoft Exchange Server 2016'
-  description: '測驗 70-345: 設計和部署 Microsoft Exchange Server 2016'
+  title: '測驗 70-345: Designing and Deploying Microsoft Exchange Server 2016'
+  description: '測驗 70-345: Designing and Deploying Microsoft Exchange Server 2016'
 uid: exam.70-345
 displayName: 70-345
-summary: |-
+summary: >-
   本考試的應試者是IT顧問或高級管理人員，他們作為管理團隊的技術主管。應試者應熟悉整合 Microsoft Exchange Server 與商務用 Skype 和 Office 365 的要求。
+
 
   應試者應至少擁有三年設計和管理Exchange 伺服器的經驗以及在企業環境中負責Exchange 2016訊息傳遞環境。
 subTitle: 本考試的應試者是IT顧問或高級管理人員，他們作為管理團隊的技術主管。應試者應熟悉整合 Microsoft Exchange Server 與商務用 Skype 和 Office 365 的要求。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8do
 practiceTestUrl: https://www.mindhub.com/70-345-designing-and-deploying-microsoft-exchange/p/MU-70-345?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=345&examname=設計和部署%20Microsoft%20Exchange%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2F70-345
 locales:
 - en
 - es
@@ -23,7 +23,8 @@ locales:
 - de
 - ja
 - pt-br
-levels: 
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=345&examname=Designing%20and%20Deploying%20Microsoft%20Exchange%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2F70-345
+levels:
 - advanced
 skills:
 - 計劃、部署、管理和排除信箱資料庫問題(15-20%)

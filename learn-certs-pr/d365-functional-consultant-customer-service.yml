@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 認證的: Dynamics 365 客戶服務功能顧問助理'
+title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 認證的: Dynamics 365 客戶服務功能顧問助理'
-  description: 'Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速、敏捷且利用AI的CX解決方案、以推動可預測客戶需求的可採取動作的見解。'
+  title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+  description: Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速、敏捷且利用AI的CX解決方案、以推動可預測客戶需求的可採取動作的見解。
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速、敏捷且利用AI的CX解決方案、以推動可預測客戶需求的可採取動作的見解。
+summary: Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速、敏捷且利用AI的CX解決方案、以推動可預測客戶需求的可採取動作的見解。
 subTitle: Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速、敏捷且利用AI的CX解決方案、以推動可預測客戶需求的可採取動作的見解。
 levels:
 - intermediate
@@ -51,7 +50,7 @@ exams:
 - uid: exam.mb-230
 resources:
 - title: 認證學習路徑
-  description: '發現訓練資源，以成為經 Microsoft 認證的：Dynamics 365 客戶服務功能顧問助理。'
+  description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

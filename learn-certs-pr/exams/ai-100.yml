@@ -1,28 +1,32 @@
 ### YamlMime:Examination
-title: 設計與實作 Azure AI 解決方法
+title: Designing and Implementing an Azure AI Solution
 metadata:
-  title: '測驗 AI-100: 設計和實作 Azure AI 解決方案'
-  description: '測驗 AI-100: 設計和實作 Azure AI 解決方案'
+  title: '測驗 AI-100: Designing and Implementing an Azure AI Solution'
+  description: '測驗 AI-100: Designing and Implementing an Azure AI Solution'
 uid: exam.ai-100
 displayName: AI-100
-summary: |-
+summary: >-
   本測驗的應試者將分析AI 解決方案的需求，推薦合適的工具和技術，並實作滿足可伸縮性和效能要求的解決方案。
+
   <br/>
+
 
   應試者從解決方案架構師那裡轉化願景，並與資料科學家，資料工程師，IoT專家和AI開發人員合作，構建完整的端到端解決方案。應試者設計並實作使用Microsoft Azure認知服務和Azure 機器人服務的AI應用程式和代理。應試者可以推薦使用開放原始碼技術的解決方案。
 
+
   應試者知道組成 Azure 人工智慧 (AI)組合的各種組件，以及可用的資料儲存選項。
 
+
   應試者實作AI解決方案，在Azure中使用Cognitive Services，Azure機器人，Azure搜尋和資料儲存。應試者應了解何時應開發自定義API以滿足特定要求。
-subTitle: '這項測驗衡量您完成以下技術任務的能力：分析解決方案要求；設計解決方案；將 AI 模型整合到解決方案中；並部署和管理解決方案。'
+subTitle: 這項測驗衡量您完成以下技術任務的能力：分析解決方案要求；設計解決方案；將 AI 模型整合到解決方案中；並部署和管理解決方案。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AI-100&examname=測驗%20AI-100:%20設計和實作%20Azure%20AI%20解決方案&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AI-100&examname=%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fai-100
 levels:
 - intermediate
 skills:
@@ -51,7 +55,7 @@ relatedCertifications:
     uid: certification.azure-ai-engineer
 resources:
 - title: 認證學習途徑
-  description: '發現訓練資源以獲得 Microsoft 認證：Azure AI 工程助理。'
+  description: 發現訓練資源以獲得 Microsoft 認證：Azure AI 工程助理。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWusKi
 - title: 訓練和認證指南
   description: 在簡明的訓練和認證指南中探索所有認證。

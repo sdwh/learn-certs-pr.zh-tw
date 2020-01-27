@@ -1,22 +1,24 @@
 ### YamlMime:Examination
-title: '為 SAP 工作負載規劃並管理 Microsoft Azure （beta）'
+title: Planning and Administering Microsoft Azure for SAP Workloads (beta)
 metadata:
-  title: '測驗 AZ-120：為 SAP 工作負載規劃並管理 Microsoft Azure （beta）'
-  description: '測驗 AZ-120：為 SAP 工作負載規劃並管理 Microsoft Azure （beta）'
+  title: '測驗 AZ-120：Planning and Administering Microsoft Azure for SAP Workloads (beta)'
+  description: '測驗 AZ-120：Planning and Administering Microsoft Azure for SAP Workloads (beta)'
 uid: exam.az-120
 displayName: AZ-120
-summary: |-
+summary: >-
   此測驗的應試者是對SAP景觀認證流程和特定於 SAP 解決方案長期作業的產業標準有深入瞭解的架構師和工程師。應試者針對服務提出建議，並適當調整資源以實現最佳的復原，校能，規模，供應，大小和監控。
+
 
   Azure for SAP Workloads 的架構師應具有 SAP 應用程式，SAP HANA，S/4HANA，SAP NetWeaver，SAP BW，用於 SAP 應用程式和資料庫的 OS 伺服器，Azure 入口網站，ARM 範本，作業系統，虛擬化，雲端基礎結構， 儲存結構，高可用性設計，災害復原設計，資料保護概念和網路的豐富經驗和知識。
 
+
   強烈建議此測驗的應試者除具有 SAP HANA 和 Linux 認證外，還應具有 Azure 管理員或 Azure 架構師認證。
-subTitle: '本測驗會評量您達成下方技術性工作的能力：將 SAP Workloads 移轉至 Azure；設計一個支援 SAP Workloads（工作負載） 的 Azure 解決方案；組建並部署 SAP Workloads；驗證 Azure Infrastructure for SAP Workloads；以及操作 Azure SAP Architecture（基礎結構）。'
+subTitle: 本測驗會評量您達成下方技術性工作的能力：將 SAP Workloads 移轉至 Azure；設計一個支援 SAP Workloads（工作負載） 的 Azure 解決方案；組建並部署 SAP Workloads；驗證 Azure Infrastructure for SAP Workloads；以及操作 Azure SAP Architecture（基礎結構）。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-120&examname=測驗%20AZ-120:%20為%20SAP%20工作負載規劃並管理%20Microsoft%20Azure(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-120
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-120&examname=測驗%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-120
 levels:
 - advanced
 skills:

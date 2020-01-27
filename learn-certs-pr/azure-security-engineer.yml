@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 認證的：Azure Security Engineer Associate'
+title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
-  title: 'Microsoft 認證的：Azure Security Engineer Associate'
-  description: 'Azure 安全工程師實作安全控制和威脅防護，管理身分識別和存取，並保護雲端和混合環境中作為端到端基礎架構一部分的資料、應用程式和網路。'
+  title: 'Microsoft Certified: Azure Security Engineer Associate'
+  description: Azure 安全工程師實作安全控制和威脅防護，管理身分識別和存取，並保護雲端和混合環境中作為端到端基礎架構一部分的資料、應用程式和網路。
 uid: certification.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Azure 安全工程師實作安全控制和威脅防護，管理身分識別和存取，並保護雲端和混合環境中作為端到端基礎架構一部分的資料、應用程式和網路。
+summary: Azure 安全工程師實作安全控制和威脅防護，管理身分識別和存取，並保護雲端和混合環境中作為端到端基礎架構一部分的資料、應用程式和網路。
 subTitle: Azure 安全工程師實作安全控制和威脅防護，管理身分識別和存取，並保護雲端和混合環境中作為端到端基礎架構一部分的資料、應用程式和網路。
 levels:
 - intermediate

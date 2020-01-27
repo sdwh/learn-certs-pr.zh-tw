@@ -6,27 +6,26 @@ metadata:
 uid: certification.microsoft-office-specialist-master-certification-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  This certification demonstrates that you have the deepest level of skills needed to proficiently use Office programs by earning a Microsoft Office Specialist Master certification.
+  該認證展現您取得 Microsoft Office Specialist Master 認證，具備嫻熟使用 Office 程式所需之程度最高深技能。
   
-  To earn a Microsoft Office Specialist Master certification, complete the following requirements&#58;
+  要獲得Microsoft Office Specialist Master認證，請完成以下要求&#58;
 
-  - Pass each of the three required exams
-    - [77-726&#58; Word 2016 Expert&#58; Creating Documents for Effective Communication](/learn/certifications/exams/77-726)
+  - 通過三門必要測驗
+   - [77-726&#58; Word 2016 Expert&#58; Creating Documents for Effective Communication](/learn/certifications/exams/77-726)
     - [77-728&#58; Excel 2016 Expert&#58; Interpreting Data for Insights](/learn/certifications/exams/77-728)
     - [77-729&#58; PowerPoint 2016&#58; Core Presentation Design and Delivery Skills](/learn/certifications/exams/77-729)
-  - Pass one of the elective exams 
+  - 通過其中一項可選測驗
     - [77-730&#58; Access 2016&#58; Core Database Management, Manipulation, and Query Skills](/learn/certifications/exams/77-730)
     - [77-731&#58; Outlook 2016&#58; Core Communication, Collaboration and Email Skills](/learn/certifications/exams/77-731)
-  
-subTitle: This certification demonstrates that you have the deepest level of skills needed to proficiently use Office programs by earning a Microsoft Office Specialist Master certification.
+subTitle: 該認證展現您取得 Microsoft Office Specialist Master 認證，具備嫻熟使用 Office 程式所需之程度最高深技能。
 levels:
 - advanced
 skills:
-- Microsoft Office Excel 2016 (required)
-- Microsoft Office PowerPoint 2016 (required)
-- Microsoft Office Word 2016 (required)
-- Microsoft Office Access 2016 (pick one)
-- Microsoft Office Outlook 2016 (pick one)
+- Microsoft Office Excel 2016 (必要)
+- Microsoft Office PowerPoint 2016 (必要)
+- Microsoft Office Word 2016 (必要)
+- Microsoft Office Access 2016 (選擇一項)
+- Microsoft Office Outlook 2016 (選擇一項)
 roles:
 - business-user
 type: mos
@@ -37,15 +36,15 @@ exams:
 - uid: exam.77-728
 - uid: exam.77-729
 resources:
-- title: Training and certification guide
-  description: Explore all certifications in a concise training and certifications guide.
+- title: 訓練和認證指南
+  description: 在簡明的訓練和認證指南中探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Replay
-  description: See two great offers to help boost your odds of success.
+- title: 重測
+  description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
-- title: Support for certifications
-  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+- title: 支持認證
+  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
-- title: Certification dashboard
-  description: Review and manage your scheduled appointments, certificates, and transcripts.
-  href: https://www.microsoft.com/en-us/learning/dashboard.aspx
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx

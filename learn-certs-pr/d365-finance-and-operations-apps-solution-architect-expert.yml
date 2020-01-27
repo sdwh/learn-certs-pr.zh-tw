@@ -1,13 +1,14 @@
 ### YamlMime:Certification
-title: 'Microsoft 認證: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
+title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
 metadata:
-  title: 'Microsoft 認證: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
+  title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
   description: Microsoft Dynamics 365 財務與營運應用程式解決方案架構師是值得信賴的咨詢顧問，他們與組織和實作團隊成員合作，將業務需求細化為定義明確、成本效益高的解決方案。
 uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
+summary: >-
   Microsoft Dynamics 365 財務與營運應用程式解決方案架構師是值得信賴的咨詢顧問，他們與組織和實作團隊成員合作，將業務需求細化為定義明確、成本效益高的解決方案。
-  
+
+
   <div style="color:red"><br/><strong>NOTE&#58; This certification will not be available until January 27, 2020</strong></div>
 subTitle: Microsoft Dynamics 365 財務與營運應用程式解決方案架構師是值得信賴的咨詢顧問，他們與組織和實作團隊成員合作，將業務需求細化為定義明確、成本效益高的解決方案。
 levels:
@@ -21,9 +22,6 @@ roles:
 type: role-based
 products:
 - dynamics
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
-exams:
-- uid: exam.mb-700
 prerequisites:
 - uid: certification.d365-functional-consultant-financials
   isOptional: false
@@ -33,6 +31,9 @@ prerequisites:
   isOptional: false
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
+exams:
+- uid: exam.mb-700
 resources:
 - title: 訓練和認證指南
   description: 在簡明的訓練和認證指南中探索所有認證。

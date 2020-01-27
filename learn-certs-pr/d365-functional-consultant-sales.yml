@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 認證的: Dynamics 365 Sales Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 認證的: Dynamics 365 Sales Functional Consultant Associate'
-  description: 'Microsoft Dynamics 365 Sales Functional Consultants實作的解決方案可預測和規劃客戶連接、透過處理和關閉來管理交易、並使用資料分析加速銷售團隊的績效。'
+  title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
+  description: Microsoft Dynamics 365 Sales Functional Consultants實作的解決方案可預測和規劃客戶連接、透過處理和關閉來管理交易、並使用資料分析加速銷售團隊的績效。
 uid: certification.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft Dynamics 365 Sales Functional Consultants實作的解決方案可預測和規劃客戶連接、透過處理和關閉來管理交易、並使用資料分析加速銷售團隊的績效。
+summary: Microsoft Dynamics 365 Sales Functional Consultants實作的解決方案可預測和規劃客戶連接、透過處理和關閉來管理交易、並使用資料分析加速銷售團隊的績效。
 subTitle: Microsoft Dynamics 365 Sales Functional Consultants實作的解決方案可預測和規劃客戶連接、透過處理和關閉來管理交易、並使用資料分析加速銷售團隊的績效。
 levels:
 - intermediate
@@ -52,7 +51,7 @@ exams:
 - uid: exam.mb-210
 resources:
 - title: 認證學習路徑
-  description: '發現訓練資源，以成為經 Microsoft 認證的：Dynamics 365 Sales Functional Consultant Associate。'
+  description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

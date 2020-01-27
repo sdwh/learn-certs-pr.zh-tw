@@ -1,24 +1,25 @@
 ### YamlMime:Examination
-title: Microsoft Azure DevOps 解決方法
+title: Microsoft Azure DevOps Solutions
 metadata:
-  title: '測驗 AZ-400: Microsoft Azure DevOps 解決方案'
-  description: '測驗 AZ-400: Microsoft Azure DevOps 解決方案'
+  title: '測驗 AZ-400: Microsoft Azure DevOps Solutions'
+  description: '測驗 AZ-400: Microsoft Azure DevOps Solutions'
 uid: exam.az-400
 displayName: AZ-400
-summary: |-
+summary: >-
   參加該測驗的應試者是 DevOps 專業人士，他們將人員、流程和技術結合在一起，不斷提供可滿足最終用戶需求和業務目標的有價值的產品和服務。DevOps 專業人員透過優化實踐、改善溝通和協作以及創建自動化來簡化交付。他們為應用程式代碼和基礎設施設計和實作策略，以實現持續集成、測試、交付、監視和反饋。
 
+
   應試者必須精通 Agile 實踐。他們必須熟悉 Azure 管理和 Azure開發，並且至少精通其中一個領域。Azure DevOps 專業人員必須能夠使用 Azure 技術設計和實作 DevOps 實踐，以進行版本控制、法規遵從性、基礎設施作為代碼、配置管理、生成、發布和測試。
-subTitle: '該測驗衡量您設計 DevOps 策略並實作以下功能的能力：DevOps 開發流程；依賴管理；應用程式基礎設施；以及持續的集成、交付和反饋。'
+subTitle: 該測驗衡量您設計 DevOps 策略並實作以下功能的能力：DevOps 開發流程；依賴管理；應用程式基礎設施；以及持續的集成、交付和反饋。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-400&examname=測驗%20AZ-400:%20Microsoft%20Azure%20DevOps%20解決方案&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-400&examname=測驗%20AZ-400:%20Microsoft%20Azure%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-400
 levels:
 - advanced
 skills:
@@ -37,11 +38,6 @@ products:
 - azure-kubernetes-service
 - azure-container-instances
 - azure-automation
-paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02
@@ -50,12 +46,17 @@ courses:
 - uid: course.az-400t05
 - uid: course.az-400t06
 - uid: course.az-400t07
+paths:
+- uid: learn.azdo.evolve-your-devops-practices
+- uid: learn.azdo.build-applications-with-azure-devops
+- uid: learn.azdo.deploy-applications-with-azure-devops
+- uid: learn.azdo.automate-deployments-azure-devops
 relatedCertifications:
 - related:
     uid: certification.azure-devops
 resources:
 - title: 認證學習途徑
-  description: '發現訓練資源以獲得 Microsoft 認證：Azure DevOps 工程專家。'
+  description: '發現訓練資源以獲得 Microsoft Certified: Azure DevOps Engineer Expert。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
 - title: 訓練和認證指南
   description: 在簡明的訓練和認證指南中探索所有認證。

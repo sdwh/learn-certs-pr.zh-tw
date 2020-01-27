@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: '經 Microsoft 365 認證的: Teamwork 管理員助理'
+title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
 metadata:
-  title: '經 Microsoft 365 認證的: Teamwork 管理員助理'
-  description: 'Microsoft 365 Teamwork 管理員設定、部署和管理著重於高效率且有效共同合作的 Office 365 工作負載，例如 SharePoint（線上、內部部署和混合），OneDrive 和 Teams。'
+  title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
+  description: Microsoft 365 Teamwork 管理員設定、部署和管理著重於高效率且有效共同合作的 Office 365 工作負載，例如 SharePoint（線上、內部部署和混合），OneDrive 和 Teams。
 uid: certification.m365-teamwork-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft 365 Teamwork 管理員設定、部署和管理著重於高效率且有效共同合作的 Office 365 工作負載，例如 SharePoint（線上、內部部署和混合），OneDrive 和 Teams。
+summary: Microsoft 365 Teamwork 管理員設定、部署和管理著重於高效率且有效共同合作的 Office 365 工作負載，例如 SharePoint（線上、內部部署和混合），OneDrive 和 Teams。
 subTitle: Microsoft 365 Teamwork 管理員設定、部署和管理著重於高效率且有效共同合作的 Office 365 工作負載，例如 SharePoint（線上、內部部署和混合），OneDrive 和 Teams。
 levels:
 - intermediate
@@ -44,7 +43,7 @@ exams:
 - uid: exam.ms-301
 resources:
 - title: 認證學習路徑
-  description: '發現訓練資源,以成為經 Microsoft 認證的：Teamwork Administrator Associate。'
+  description: '發現訓練資源,以成為經 Microsoft 365 Certified: Teamwork Administrator Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

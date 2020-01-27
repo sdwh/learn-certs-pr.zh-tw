@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 認證的: Power Apps + Dynamics 365 Developer Associate'
+title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
 metadata:
-  title: 'Microsoft 認證的: Power Apps + Dynamics 365 Developer Associate'
+  title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
   description: 處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。應試者實作解決方案的組件包括應用程式精進、自定義使用者體驗、系統整合、資料轉換、自定義流程自動化以及自定義可視化。
 uid: certification.power-apps-and-d365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。應試者實作解決方案的組件包括應用程式精進、自定義使用者體驗、系統整合、資料轉換、自定義流程自動化以及自定義可視化。
+summary: 處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。應試者實作解決方案的組件包括應用程式精進、自定義使用者體驗、系統整合、資料轉換、自定義流程自動化以及自定義可視化。
 subTitle: 處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。
 levels:
 - intermediate

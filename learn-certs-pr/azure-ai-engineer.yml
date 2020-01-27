@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 認證的: Azure AI 工程師助理'
+title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
-  title: 'Microsoft 認證的: Azure AI 工程師助理'
-  description: 'Azure AI 工程師使用認知服務、機器學習和知識探勘來構建和實作涉及自然語言處理、語音、電腦視覺 、機器人和代理的Microsoft AI解決方案。'
+  title: 'Microsoft Certified: Azure AI Engineer Associate'
+  description: Azure AI 工程師使用認知服務、機器學習和知識探勘來構建和實作涉及自然語言處理、語音、電腦視覺 、機器人和代理的Microsoft AI解決方案。
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Azure AI 工程師使用認知服務、機器學習和知識探勘來構建和實作涉及自然語言處理、語音、電腦視覺 、機器人和代理的Microsoft AI解決方案。
+summary: Azure AI 工程師使用認知服務、機器學習和知識探勘來構建和實作涉及自然語言處理、語音、電腦視覺 、機器人和代理的Microsoft AI解決方案。
 subTitle: Azure AI 工程師使用認知服務、機器學習和知識探勘來構建和實作涉及自然語言處理、語音、電腦視覺 、機器人和代理的Microsoft AI解決方案。
 levels:
 - intermediate
@@ -37,7 +36,7 @@ exams:
 - uid: exam.ai-100
 resources:
 - title: 認證學習路徑
-  description: '發現訓練資源,以成為經 Microsoft 認證的：Azure AI Engineer Associate。'
+  description: '發現訓練資源,以成為經 Microsoft Certified: Azure AI Engineer Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWusKi
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
