@@ -31,7 +31,7 @@ exams:
 - uid: exam.ms-600
 resources:
 - title: 認證學習途徑
-  description: 發現訓練資源,以成為經 Microsoft 認證的： Developer Associate.
+  description: '發現訓練資源,以成為經 Microsoft 365 Certified: Developer Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: 訓練和認證指南
   description: 在簡明的訓練和認證指南中探索所有認證。

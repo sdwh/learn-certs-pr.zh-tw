@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Managing Modern Desktops
 metadata:
-  title: '測驗 MD-101: 管理智慧桌面'
-  description: '測驗 MD-101: 管理智慧桌面'
+  title: '測驗 MD-101: Managing Modern Desktops'
+  description: '測驗 MD-101: Managing Modern Desktops'
 uid: exam.md-101
 displayName: MD-101
 summary: >-
@@ -23,7 +23,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJV
 practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MD-101&examname=測驗%20MD-101:%20管理智慧桌面&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmd-101
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MD-101&examname=測驗%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 levels:
 - intermediate
 skills:
@@ -47,7 +47,7 @@ relatedCertifications:
     uid: certification.modern-desktop
 resources:
 - title: 認證學習途徑
-  description: 發現訓練資源以獲得 Microsoft 認證：智慧桌面管理員助理。
+  description: '發現訓練資源以獲得 Microsoft Certified: Modern Desktop Administrator Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: 訓練和認證指南
   description: 在簡明的訓練和認證指南中探索所有認證。

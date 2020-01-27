@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Planning and Administering Microsoft Azure for SAP Workloads (beta)
 metadata:
-  title: 測驗 AZ-120：Planning and Administering Microsoft Azure for SAP Workloads (beta)
-  description: 測驗 AZ-120：Planning and Administering Microsoft Azure for SAP Workloads (beta)
+  title: '測驗 AZ-120：Planning and Administering Microsoft Azure for SAP Workloads (beta)'
+  description: '測驗 AZ-120：Planning and Administering Microsoft Azure for SAP Workloads (beta)'
 uid: exam.az-120
 displayName: AZ-120
 summary: >-
@@ -18,7 +18,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-120&examname=測驗%20AZ-120:%20為%20SAP%20工作負載規劃並管理%20Microsoft%20Azure(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-120
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-120&examname=測驗%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-120
 levels:
 - advanced
 skills:

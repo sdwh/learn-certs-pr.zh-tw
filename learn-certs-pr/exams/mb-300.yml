@@ -21,7 +21,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-300&examname=測驗%20MB-300:%20Microsoft%20Dynamics%20365：核心財務與營運&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-300
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-300&examname=測驗%20MB-300:%20Microsoft%20Dynamics%20365%20Unified%20Operations%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-300
 levels:
 - intermediate
 skills:

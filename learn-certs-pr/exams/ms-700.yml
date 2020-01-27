@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Managing Microsoft Teams
 metadata:
-  title: 測驗 MS-700：Managing Microsoft Teams
-  description: 測驗 MS-700：Managing Microsoft Teams
+  title: '測驗 MS-700：Managing Microsoft Teams'
+  description: '測驗 MS-700：Managing Microsoft Teams'
 uid: exam.ms-700
 displayName: MS-700
 summary: >-
@@ -21,7 +21,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-700&examname=測驗%20MS-700:%20管理%20Microsoft%20Teams%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-700
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-700&examname=測驗%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-700
 levels:
 - intermediate
 skills:
@@ -42,7 +42,7 @@ relatedCertifications:
     uid: certification.m365-teams-administrator-associate
 resources:
 - title: 認證學習途徑
-  description: 發現訓練資源,以成為經 Microsoft 認證的： Teams Administrator Associate.
+  description: '發現訓練資源,以成為經 Microsoft Certified: Teams Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
 - title: 訓練和認證指南
   description: 在簡明的訓練和認證指南中探索所有認證。

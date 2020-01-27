@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Microsoft 365 Identity and Services
 metadata:
-  title: 測驗 MS-100：Microsoft 365 Identity and Services
-  description: 測驗 MS-100：Microsoft 365 Identity and Services
+  title: '測驗 MS-100：Microsoft 365 Identity and Services'
+  description: '測驗 MS-100：Microsoft 365 Identity and Services'
 uid: exam.ms-100
 displayName: MS-100
 summary: >-
@@ -17,7 +17,7 @@ practiceTestUrl: https://us.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_med
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-100&examname=測驗%20MS-100:%20Microsoft%20365%20身份辨識與服務&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-100&examname=測驗%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-100
 levels:
 - advanced
 skills:

@@ -23,7 +23,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-330&examname=測驗%20MB-330:%20Microsoft%20Dynamics%20365%20供應鏈管理​&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-330
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-330&examname=測驗%20MB-330:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Supply%20Chain%20Management&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-330
 levels:
 - intermediate
 skills:
@@ -53,7 +53,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-supply-chain-management
 resources:
 - title: 認證學習路徑
-  description: 發現訓練資源, 以成為經 Microsoft 認證的：Dynamics 365 Supply Chain Management Functional Consultant Associate。
+  description: '發現訓練資源, 以成為經 Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35nkT
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

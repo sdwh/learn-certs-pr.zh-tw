@@ -49,7 +49,7 @@ exams:
 - uid: exam.az-400
 resources:
 - title: 認證學習路徑
-  description: 發現訓練資源,以成為經 Microsoft 認證的：Azure DevOps Engineer Expert。
+  description: '發現訓練資源,以成為經 Microsoft Certified: Azure DevOps Engineer Expert。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

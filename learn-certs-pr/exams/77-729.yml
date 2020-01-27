@@ -17,6 +17,9 @@ summary: >
 subTitle: 成功的應試者將對 PowerPoint 環境有基本的瞭解，並展示 PowerPoint 2016 的正確應用。應試者可以建立、編輯與強化簡報與投影片放映。簡報範例包括專業級銷售演示，員工訓練，教學材料與展台投影片演示。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -35,7 +38,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

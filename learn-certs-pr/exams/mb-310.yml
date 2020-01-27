@@ -25,7 +25,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHU
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-310&examname=測驗%20MB-310:%20Microsoft%20Dynamics%20365財務&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-310
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-310&examname=測驗%20MB-310:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Financials&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-310
 levels:
 - intermediate
 skills:
@@ -57,7 +57,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-financials
 resources:
 - title: 認證學習路徑
-  description: 發現訓練資源，以成為經 Microsoft 認證的：Dynamics 365 Finance Functional Consultant Associate.
+  description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svL
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

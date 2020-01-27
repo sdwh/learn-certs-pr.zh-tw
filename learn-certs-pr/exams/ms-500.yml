@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Microsoft 365 Security Administration
 metadata:
-  title: 測驗 MS-500：Microsoft 365 Security Administration
-  description: 測驗 MS-500：Microsoft 365 Security Administration
+  title: '測驗 MS-500：Microsoft 365 Security Administration'
+  description: '測驗 MS-500：Microsoft 365 Security Administration'
 uid: exam.ms-500
 displayName: MS-500
 summary: >-
@@ -19,7 +19,7 @@ practiceTestUrl: https://www.mindhub.com/p/MU-MS-500?utm_source=microsoft&utm_me
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-500&examname=測驗%20MS-500:%20Microsoft%20365%20企業管理員&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-500&examname=測驗%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-500
 levels:
 - intermediate
 skills:
@@ -43,7 +43,7 @@ relatedCertifications:
     uid: certification.m365-security-administrator
 resources:
 - title: 認證學習路徑
-  description: 發現訓練資源, 以成為經 Microsoft 認證的：Security Administrator Associate。
+  description: '發現訓練資源, 以成為經 Microsoft Certified: Security Administrator Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

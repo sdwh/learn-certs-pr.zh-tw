@@ -9,6 +9,9 @@ summary: "Word 2016 測驗的成功應試者具備對 Word 環境的基本瞭解
 subTitle: Word 2016 測驗的成功應試者具備對 Word 環境的基本瞭解，以及獨立完成工作的能力。應試者能夠針對各種用途與狀況建立及編輯兩到三頁的文件，來示範 Word 2016 主要功能的正確應用。文件範例包括具有專業外觀的報告、多欄電子報、履歷以及商業書信。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfI
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

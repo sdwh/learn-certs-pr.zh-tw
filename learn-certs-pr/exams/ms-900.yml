@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Microsoft 365 Fundamentals
 metadata:
-  title: 測驗 MS-900：Microsoft 365 Fundamentals
-  description: 測驗 MS-900：Microsoft 365 Fundamentals
+  title: '測驗 MS-900：Microsoft 365 Fundamentals'
+  description: '測驗 MS-900：Microsoft 365 Fundamentals'
 uid: exam.ms-900
 displayName: MS-900
 summary: >-
@@ -18,10 +18,10 @@ locales:
 - en
 - ja
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-900&examname=測驗%20MS-900:%20Microsoft%20365%20基本事件&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-900
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-900&examname=測驗%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Fms-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
@@ -44,7 +44,7 @@ relatedCertifications:
     uid: certification.microsoft-365-fundamentals
 resources:
 - title: 認證學習路徑
-  description: 發現訓練資源, 以成為經 Microsoft 認證的：基礎知識
+  description: '發現訓練資源, 以成為經 Microsoft Certified: Fundamentals'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

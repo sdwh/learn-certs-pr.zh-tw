@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Microsoft 365 Mobility and Security
 metadata:
-  title: 測驗 MS-101：Microsoft 365 Mobility and Security
-  description: 測驗 MS-101：Microsoft 365 Mobility and Security
+  title: '測驗 MS-101：Microsoft 365 Mobility and Security'
+  description: '測驗 MS-101：Microsoft 365 Mobility and Security'
 uid: exam.ms-101
 displayName: MS-101
 summary: >-
@@ -16,7 +16,7 @@ practiceTestUrl: https://us.mindhub.com/p/MU-MS-101?utm_source=microsoft&utm_med
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-101&examname=測驗%20MS-101:%20Microsoft%20365%20行動性與安全&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-101
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-101&examname=測驗%20MS-101:%20Microsoft%20365%20Mobility%20and%20Security&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-101
 levels:
 - advanced
 skills:

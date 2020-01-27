@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Microsoft Power Platform Fundamentals (beta)
 metadata:
-  title: 測驗 PL-900： Microsoft Power Platform Fundamentals (beta)
-  description: 測驗 PL-900：Microsoft Power Platform Fundamentals (beta)
+  title: '測驗 PL-900： Microsoft Power Platform Fundamentals (beta)'
+  description: '測驗 PL-900：Microsoft Power Platform Fundamentals (beta)'
 uid: exam.pl-900
 displayName: PL-900
 summary: >-
@@ -15,7 +15,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=PL-900&examname=測驗%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fpl-900
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=PL-900&examname=測驗%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fpl-900
 levels:
 - beginner
 skills:

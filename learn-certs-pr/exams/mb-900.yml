@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Fundamentals
 metadata:
-  title: 測驗 MB-900：Microsoft Dynamics 365 Fundamentals
-  description: 測驗 MB-900：Microsoft Dynamics 365 Fundamentals
+  title: '測驗 MB-900：Microsoft Dynamics 365 Fundamentals'
+  description: '測驗 MB-900：Microsoft Dynamics 365 Fundamentals'
 uid: exam.mb-900
 displayName: MB-900
 summary: >-
@@ -37,7 +37,7 @@ relatedCertifications:
     uid: certification.d365-fundamentals
 resources:
 - title: 認證學習路徑
-  description: 發現訓練資源, 以成為經 Microsoft 認證的：Dynamics 365 基本知識。
+  description: '發現訓練資源, 以成為經 Microsoft Certified: Dynamics 365 Fundamentals。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

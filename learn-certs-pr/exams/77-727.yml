@@ -17,6 +17,9 @@ summary: >
 subTitle: 成功申請 Microsoft Office Excel 2016 認證測驗的人員對 Excel 環境與獨立完成任務的能力有基本的瞭解。應試者瞭解且可示範 Excel 2016 主要功能的正確應用。應試者可建立及編輯含多個工作表的活頁簿，且可使用圖形元素以視覺化方式呈現資料。活頁簿示例包括具有專業外觀的預算、財務報表、團隊績效圖表、銷售發票與資料輸入日誌。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfJ
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -35,7 +38,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

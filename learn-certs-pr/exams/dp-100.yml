@@ -18,7 +18,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DP-100&examname=測驗%20DP-100:%20在Azure上設計與實作資料科學解決方法&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fdp-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DP-100&examname=測驗%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 levels:
 - intermediate
 skills:
@@ -45,7 +45,7 @@ relatedCertifications:
     uid: certification.azure-data-scientist
 resources:
 - title: 認證學習途徑
-  description: 發現訓練資源,以成為經 Microsoft 認證的：Azure Data Scientist Associate。
+  description: '發現訓練資源,以成為經 Microsoft Certified: Azure Data Scientist Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: 訓練和認證指南
   description: 在簡明的訓練和認證指南中探索所有認證。

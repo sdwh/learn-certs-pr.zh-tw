@@ -1,12 +1,12 @@
 ### YamlMime:Examination
 title: Microsoft 365 Teamwork Administrator Certification Transition
 metadata:
-  title: 測驗 MS-302：Microsoft 365 Teamwork Administrator Certification Transition
-  description: 測驗 MS-302：Microsoft 365 Teamwork Administrator Certification Transition
+  title: '測驗 MS-302：Microsoft 365 Teamwork Administrator Certification Transition'
+  description: '測驗 MS-302：Microsoft 365 Teamwork Administrator Certification Transition'
 uid: exam.ms-302
 displayName: MS-302
-summary: "<div style='color&#58; red; font-weight&#58; bold;'>該測驗已於 2019年9月30日到期。測驗將在中部標準時間晚間11點59分到期\n<br/>   \n該測驗僅適用於已參加 [測驗 70-339&#58;](https://www.microsoft.com/learning/exam-70-339.aspx) 管理 Microsoft SharePoint Server 2016 的應試者。若您沒有參加測驗 339，那麼您將無法透過此測驗獲得認證。\n\n此測驗的應試者是團隊管理員，他們負責設定、部署與管理專注於高效率，有效的共同作業與採用的 Office 365 與 Azure 工作負載。團隊工作管理員可管理應用程式，服務與支援基礎架構，以滿足業務需求。Teamwork 管理員必須能夠部署，管理，轉移與保護 SharePoint（線上，本地與混合），OneDrive 與團隊。\n\n團隊工作管理員參與有關治理的決策，並與其他管理員合作實施治理機構做出的許多決策。團隊工作管理員與 Messaging Administrator 共同作業設定與電子郵件任務相關的選項與安全性，語音管理員在組織中整合語音功能，以及安全管理員以確保端到端的安全性。\n\n測驗的應試者使用以下應用程式與服務對整合點有基本的了解：Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner, 與 Project。管理員了解如何整合協力廠商應用程式與服務，包括商務營運應用程式。應試者還瞭解 SQL Server 管理概念、Azure Active Directory、PowerShell、網路、Windows 伺服器管理、網域名稱系統（DNS）、Active Directory 行動裝置管理與替代作業系統。"
-subTitle: 此項測驗僅適用於已參加 測驗 70-339 的應試者：管理Microsoft SharePoint Server 2016。若您沒有參加測驗 339，那麼您將無法透過此測驗獲得認證。
+summary: "<div style='color&#58; red; font-weight&#58; bold;'>該測驗已於 2019年9月30日到期。測驗將在中部標準時間晚間11點59分到期\n<br/>   \n該測驗僅適用於已參加 [測驗 70-339&#58;](https://www.microsoft.com/learning/exam-70-339.aspx) Managing Microsoft SharePoint Server 2016. 的應試者。若您沒有參加測驗 339，那麼您將無法透過此測驗獲得認證。\n\n此測驗的應試者是團隊管理員，他們負責設定、部署與管理專注於高效率，有效的共同作業與採用的 Office 365 與 Azure 工作負載。團隊工作管理員可管理應用程式，服務與支援基礎架構，以滿足業務需求。Teamwork 管理員必須能夠部署，管理，轉移與保護 SharePoint（線上，本地與混合），OneDrive 與團隊。\n\n團隊工作管理員參與有關治理的決策，並與其他管理員合作實施治理機構做出的許多決策。團隊工作管理員與 Messaging Administrator 共同作業設定與電子郵件任務相關的選項與安全性，語音管理員在組織中整合語音功能，以及安全管理員以確保端到端的安全性。\n\n測驗的應試者使用以下應用程式與服務對整合點有基本的了解：Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner, 與 Project。管理員了解如何整合協力廠商應用程式與服務，包括商務營運應用程式。應試者還瞭解 SQL Server 管理概念、Azure Active Directory、PowerShell、網路、Windows 伺服器管理、網域名稱系統（DNS）、Active Directory 行動裝置管理與替代作業系統。"
+subTitle: 此項測驗僅適用於已參加 測驗 70-339 的應試者：Managing Microsoft SharePoint Server 2016。若您沒有參加測驗 339，那麼您將無法透過此測驗獲得認證。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC7x
 locales:
