@@ -1,13 +1,12 @@
 ### YamlMime:Certification
-title: 'Microsoft 認證的: Dynamics 365 Finance Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 認證的: Dynamics 365 Finance Functional Consultant Associate'
-  description: 'Dynamics 365 財務功能顧問負責統一全球財務與操作、自動化任務與流程、以及簡明化客戶預定、銷售、開票與報告工作。'
+  title: 'Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
+  description: Dynamics 365 財務功能顧問負責統一全球財務與操作、自動化任務與流程、以及簡明化客戶預定、銷售、開票與報告工作。
 uid: certification.d365-functional-consultant-financials
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-   Dynamics 365 財務功能顧問負責統一全球財務與操作、自動化任務與流程、以及簡明化客戶預定、銷售、開票與報告工作。
-subTitle: 'Dynamics 365 財務功能顧問負責統一全球財務與操作、自動化任務與流程、以及簡明化客戶預定、銷售、開票與報告工作。'
+summary: Dynamics 365 財務功能顧問負責統一全球財務與操作、自動化任務與流程、以及簡明化客戶預定、銷售、開票與報告工作。
+subTitle: Dynamics 365 財務功能顧問負責統一全球財務與操作、自動化任務與流程、以及簡明化客戶預定、銷售、開票與報告工作。
 levels:
 - intermediate
 skills:
@@ -51,7 +50,7 @@ exams:
 - uid: exam.mb-310
 resources:
 - title: 認證學習路徑
-  description: '發現訓練資源，以成為經 Microsoft 認證的：Dynamics 365 Finance Functional Consultant Associate'
+  description: 發現訓練資源，以成為經 Microsoft 認證的：Dynamics 365 Finance Functional Consultant Associate
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svL
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

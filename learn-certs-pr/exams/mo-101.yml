@@ -1,19 +1,18 @@
 ### YamlMime:Examination
-title: Microsoft Word Expert (Word 和 Word 2019)
+title: Microsoft Word Expert (Word and Word 2019)
 metadata:
-  title: 'MO-101: Microsoft Word Expert (Word 和 Word 2019)'
-  description: 'MO-101: Microsoft Word Expert (Word 和 Word 2019)'
+  title: 'MO-101: Microsoft Word Expert (Word and Word 2019)'
+  description: 'MO-101: Microsoft Word Expert (Word and Word 2019)'
 uid: exam.mo-101
 displayName: MO-101
-summary: |-
-  獲得此認證的個人擁有大約 150 個小時的教學經驗和產品實踐經驗，已在產業專家層面證明其能力，並準備進入工作市場。他們可以從專家層面展示 Word 主要功能的正確應用，並可以獨立完成任務。
+summary: 獲得此認證的個人擁有大約 150 個小時的教學經驗和產品實踐經驗，已在產業專家層面證明其能力，並準備進入工作市場。他們可以從專家層面展示 Word 主要功能的正確應用，並可以獨立完成任務。
 subTitle: 本測驗衡量的是為各種特殊目的和情況創建並管理專業文件的能力。該測驗涵蓋了自訂 Word 環境以符合專案需求並提高生產力的能力。Expert 等級文件的範例包括商業計劃、論文、書籍、專業摺頁冊及大宗郵件。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8K
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - 管理文件選項和設定
@@ -23,7 +22,7 @@ skills:
 roles:
 - developer
 products:
-- office 
+- office
 - office-word
 relatedCertifications:
 - related:
@@ -41,4 +40,3 @@ resources:
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
-

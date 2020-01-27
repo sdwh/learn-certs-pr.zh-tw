@@ -1,27 +1,30 @@
 ### YamlMime:Examination
-title: 設計 Azure 資料解決方法
+title: Designing an Azure Data Solution
 metadata:
-  title: '測驗 DP-201：設計 Azure 資料解決方法'
-  description: '測驗 DP-201：設計 Azure 資料解決方法'
+  title: 測驗 DP-201：Designing an Azure Data Solution
+  description: 測驗 DP-201：Designing an Azure Data Solution
 uid: exam.dp-201
 displayName: DP-201
-summary: |-
+summary: >-
   此考試的應試者是Microsoft Azure資料工程師，他們與企業利害關係人合作，辨識和滿足資料要求，設計使用Azure資料服務的資料解決方案。
+
   <br/>
+
 
   Azure資料工程師負責與資料相關的任務，包括設計使用關聯式和非關聯式資料儲存，批次和即時資料處理解決方案以及資料安全性和合規性解決方案的Azure資料儲存解決方案。
 
+
   此測驗的應試者必須設計使用以下Azure服務的資料解決方案：Azure Cosmos DB、Azure SQL 資料庫、Azure SQL 資料倉儲、Azure Data Lake 儲存、Azure Data Factory、Azure 串流分析、 Azure Databricks 和 Azure Blob 儲存體。
-subTitle: '此測驗測量您完成以下技術任務的能力：設計 Azure 資料儲存解決方案；設計資料處理解決方案；以及為資料安全性和合規性進行設計。'
+subTitle: 此測驗測量您完成以下技術任務的能力：設計 Azure 資料儲存解決方案；設計資料處理解決方案；以及為資料安全性和合規性進行設計。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DP-201&examname=測驗%20DP-201:%20設計%20Azure%20資料解決方法&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fdp-201
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DP-201&examname=測驗%20DP-201:%20設計%20Azure%20資料解決方法&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fdp-201
 levels:
 - intermediate
 skills:
@@ -30,6 +33,8 @@ skills:
 - 資料安全和遵從性設計(25-30%)
 roles:
 - data-engineer
+exams:
+- uid: exam.dp-200
 products:
 - azure
 - azure-cosmos-db
@@ -42,8 +47,6 @@ products:
 - azure-storage
 - azure-monitor
 - azure-hdinsight
-exams:
-- uid: exam.dp-200
 courses:
 - uid: course.dp-201t01
 paths:
@@ -61,7 +64,7 @@ relatedCertifications:
     uid: certification.azure-data-engineer
 resources:
 - title: 認證學習路徑
-  description: '發現訓練資源,以成為經 Microsoft 認證的：Azure Data Engineer Associate。'
+  description: 發現訓練資源,以成為經 Microsoft 認證的：Azure Data Engineer Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
@@ -81,4 +84,3 @@ resources:
 - title: 測驗規則和常見問題解答
   description: 檢閱測驗規定和常見問題解答。
   href: ../certification-exam-policies.md
-

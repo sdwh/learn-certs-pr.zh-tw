@@ -1,25 +1,27 @@
 ### YamlMime:Examination
-title: Microsoft Azure 基本原理
+title: Microsoft Azure Fundamentals
 metadata:
-  title: '測驗 AZ-900: Microsoft Azure 基本原理'
-  description: '測驗 AZ-900: Microsoft Azure 基本原理'
+  title: '測驗 AZ-900: Microsoft Azure Fundamentals'
+  description: '測驗 AZ-900: Microsoft Azure Fundamentals'
 uid: exam.az-900
 displayName: AZ-900
-summary: |-
+summary: >-
   該測驗是為希望展示雲端服務基礎知識以及 Microsoft Azure 如何提供這些服務的應試者而設計的。該測驗適用於具有非技術背景的應試者，例如那些參與銷售或購買基於雲端的解決方案和服務的人，或者參與過基於雲的解決方案和服務的人，以及具有技術背景的需要驗證他們關於雲端服務的基礎知識的人。
+
   不需要專業 IT 經驗，但是，一些一般的 IT 知識或經驗會是有益的。
 
+
   本測驗可以作為學習雲服務以及這些概念如何被 Microsoft Azure 作為範例的第一步。它可以作為 Microsoft Azure 或 Microsoft 云服務測驗的前導。雖然這是驗證基礎知識的有益的第一步，但是在參加任何其他基於 Azure 的認證之前，參加測驗不是先決條件。
-subTitle: '這項測驗將衡量您理解以下概念的能力：雲端概念；核心 Azure 服；安全性、隱私權、合規性和信任；以及 Azure 定價和支持。'
+subTitle: 這項測驗將衡量您理解以下概念的能力：雲端概念；核心 Azure 服；安全性、隱私權、合規性和信任；以及 Azure 定價和支持。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-900&examname=測驗%20AZ-900:%20Microsoft%20Azure%20基本原理&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-900
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-900&examname=測驗%20AZ-900:%20Microsoft%20Azure%20基本原理&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-900
 levels:
 - beginner
 skills:
@@ -40,7 +42,7 @@ relatedCertifications:
     uid: certification.azure-fundamentals
 resources:
 - title: 認證學習途徑
-  description: '發現訓練資源以獲得 Microsoft 認證：Azure 基本原理。'
+  description: 發現訓練資源以獲得 Microsoft 認證：Azure 基本原理。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: 訓練和認證指南
   description: 在簡明的訓練和認證指南中探索所有認證。

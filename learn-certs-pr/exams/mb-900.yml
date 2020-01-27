@@ -1,22 +1,23 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Fundamentals
 metadata:
-  title: '測驗 MB-900：Microsoft Dynamics 365 Fundamentals'
-  description: '測驗 MB-900：Microsoft Dynamics 365 Fundamentals'
+  title: 測驗 MB-900：Microsoft Dynamics 365 Fundamentals
+  description: 測驗 MB-900：Microsoft Dynamics 365 Fundamentals
 uid: exam.mb-900
 displayName: MB-900
-summary: |-
+summary: >-
   本測驗適用於希望展示 Microsoft Dynamics 365，Power Platform 應用程式和雲端計算模型的基礎知識的應試者本測驗將涵蓋採用 Dynamics 365，Power Platform 和雲服務的一般考慮因素和優勢。此測驗可視為Dynamics 365認證和訓練的前身。
+
 
   本測驗的應試者應具備資訊科技（IT）環境方面的一般知識或相關工作經驗。應試者還應對商務場景和解決 IT 專案的業務，法律和安全要求的經驗有基本的瞭解
 subTitle: 此測驗測量您了解Microsoft Dynamics 365; Power 平台; 雲端概念; 授權選項; 以及部署和發行選項的能力。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVu
 practiceTestUrl: https://us.mindhub.com/p/MU-MB-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-900&examname=測驗%20MB-900:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-900
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-900&examname=測驗%20MB-900:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-900
 levels:
 - beginner
 skills:
@@ -25,7 +26,7 @@ skills:
 - 瞭解部署和發佈(20-25%)
 roles:
 - developer
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-900t01
@@ -36,7 +37,7 @@ relatedCertifications:
     uid: certification.d365-fundamentals
 resources:
 - title: 認證學習路徑
-  description: '發現訓練資源, 以成為經 Microsoft 認證的：Dynamics 365 基本知識。'
+  description: 發現訓練資源, 以成為經 Microsoft 認證的：Dynamics 365 基本知識。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
@@ -53,4 +54,3 @@ resources:
 - title: 測驗規則和常見問題解答
   description: 檢閱測驗規定和常見問題解答。
   href: ../certification-exam-policies.md
-

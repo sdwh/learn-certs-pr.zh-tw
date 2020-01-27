@@ -1,23 +1,26 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 銷售
+title: Microsoft Dynamics 365 Sales
 metadata:
-  title: '測驗 MB-210：Microsoft Dynamics 365 銷售'
-  description: '測驗 MB-210：Microsoft Dynamics 365 銷售'
+  title: 測驗 MB-210：Microsoft Dynamics 365 Sales
+  description: 測驗 MB-210：Microsoft Dynamics 365 Sales
 uid: exam.mb-210
 displayName: MB-210
-summary: |-
+summary: >-
   本次測驗的應試者是 Dynamics 365 專業銷售顧問。應試者負責實施支持銷售生命周期的解決方案，以高效有效地運行，以滿足收入目標、業務戰略和公司目標。
+
   <br/>
+
 
   應試者負責配置和擴展領導、聯絡人、客戶、機會和支持實體的核心功能，以映射到公司現有的銷售流程。他們負責識別可用的機會，從而能夠使用 Power Apps 為多台設備開發統一體驗，使用 Power Automate 整合應用程式、商務流程，以及使用其他自動化工具建構支援與加速“走向現金之旅”的應用程式。
 
+
   應試者必須具有較強的商業知識，最好是銷售領域的一個或多個銷售職位的第一人稱經驗。
-subTitle: '此測驗測量您在完成以下技術任務時的能力：執行配置，管理核心銷售實體與管理銷售實體。'
+subTitle: 此測驗測量您在完成以下技術任務時的能力：執行配置，管理核心銷售實體與管理銷售實體。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-210&examname=測驗%20MB-210:%20Microsoft%20Dynamics%20365%20銷售&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-210&examname=測驗%20MB-210:%20Microsoft%20Dynamics%20365%20銷售&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 levels:
 - intermediate
 skills:
@@ -26,11 +29,11 @@ skills:
 - 管理銷售實體 (35-40%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-sales
 exams:
 - uid: exam.mb-200
+products:
+- dynamics
+- dynamics-sales
 courses:
 - uid: course.mb-210t01
 paths:
@@ -42,7 +45,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-sales
 resources:
 - title: 認證學習路徑
-  description: '發現訓練資源, 以成為經 Microsoft 認證的：Dynamics 365 Sales Functional Consultant Associate。'
+  description: 發現訓練資源, 以成為經 Microsoft 認證的：Dynamics 365 Sales Functional Consultant Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

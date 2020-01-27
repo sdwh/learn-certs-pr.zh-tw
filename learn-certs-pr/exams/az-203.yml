@@ -1,27 +1,30 @@
 ### YamlMime:Examination
-title: 為 Microsoft Azure 開發解決方案
+title: Developing Solutions for Microsoft Azure
 metadata:
   title: '測驗 AZ-203: 開發用於 Microsoft Azure 的解決方案'
   description: '測驗 AZ-203: 開發用於 Microsoft Azure 的解決方案'
 uid: exam.az-203
 displayName: AZ-203
-summary: |-
+summary: >-
   此測驗的應試者是負責設計與構建雲端解決方法（如應用程式與服務等）的 Azure 開發人員。他們參與了開發過程的全部階段，包括從解決方法設計到開發與部署，再到測試與維護。他們與雲端解決方法架構師、雲端 DBA、雲端管理員以及實作解決方法的客戶進行過合作。
+
   <br/>
+
 
   應試者應精通使用 Azure 工具與技術（包括儲存、安全、計算與通信）開發應用與服務。
 
+
   應試者必須在軟體開發的全部階段擁有至少一年的可擴展解決方法開發經驗，而且需要精通至少一種雲端支援程式設計語言。
-subTitle: '該測驗衡量您完成以下技術任務的能力：開發 Azure 基礎設施即服務計算解決方案；開發 Azure 平台即服務計算解決方案；開發 Azure 存儲；實作 Azure 安全；監視、排除故障和優化解決方案；並連接並使用 Azure 服務和第三方服務。'
+subTitle: 該測驗衡量您完成以下技術任務的能力：開發 Azure 基礎設施即服務計算解決方案；開發 Azure 平台即服務計算解決方案；開發 Azure 存儲；實作 Azure 安全；監視、排除故障和優化解決方案；並連接並使用 Azure 服務和第三方服務。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-203&examname=測驗%20AZ-203:%20開發用於%20Microsoft%20Azure%20的解決方案&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-203
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-203&examname=測驗%20AZ-203:%20開發用於%20Microsoft%20Azure%20的解決方案&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
@@ -33,6 +36,8 @@ skills:
 - 連接並使用 Azure 和第三方服務 (20-25%)
 roles:
 - developer
+exams:
+- uid: exam.az-202
 products:
 - azure
 - azure-virtual-machines
@@ -44,8 +49,6 @@ products:
 - azure-bot-service
 - azure-functions
 - azure-logic-apps
-exams:
-- uid: exam.az-202
 courses:
 - uid: course.az-203t01
 - uid: course.az-203t02
@@ -71,7 +74,7 @@ relatedCertifications:
     uid: certification.azure-developer
 resources:
 - title: 認證學習途徑
-  description: '發現訓練資源以獲得 Microsoft 認證：Azure 開發人員助理。'
+  description: 發現訓練資源以獲得 Microsoft 認證：Azure 開發人員助理。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: 訓練和認證指南
   description: 在簡明的訓練和認證指南中探索所有認證。

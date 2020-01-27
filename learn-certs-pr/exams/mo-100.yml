@@ -1,19 +1,18 @@
 ### YamlMime:Examination
-title: Microsoft Word (Word 和 Word 2019)
+title: Microsoft Word (Word and Word 2019)
 metadata:
-  title: 'MO-100: Microsoft Word (Word 和 Word 2019)'
-  description: 'MO-100: Microsoft Word (Word 和 Word 2019)'
+  title: 'MO-100: Microsoft Word (Word and Word 2019)'
+  description: 'MO-100: Microsoft Word (Word and Word 2019)'
 uid: exam.mo-100
 displayName: MO-100
-summary: |-
-  獲得此認證的個人擁有大約150個小時的教學經驗和產品實踐經驗，已在產業助理層面證明其能力，並準備進入工作 市場。他們可以展示Word的主要功能的正確應用，並可以獨立完成任務。
+summary: 獲得此認證的個人擁有大約150個小時的教學經驗和產品實踐經驗，已在產業助理層面證明其能力，並準備進入工作 市場。他們可以展示Word的主要功能的正確應用，並可以獨立完成任務。
 subTitle: 該測驗透過各種用途與狀況建立及編輯文件，來衡量Word 主要功能的正確應用的能力。該測驗涵蓋建立和維護專業外觀報告，多欄電子報，簡歷和商務信函的能力。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - 管理 資料 (20-25%)
@@ -25,7 +24,7 @@ skills:
 roles:
 - developer
 products:
-- office 
+- office
 - office-word
 relatedCertifications:
 - related:
