@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 認證的: Azure Data 工程師助理'
+title: 'Microsoft Certified: Azure Data Engineer Associate'
 metadata:
-  title: 'Microsoft 認證的: Azure Data 工程師助理'
-  description: 'Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理、監控、安全性和隱私權、以滿足業務需求。'
+  title: 'Microsoft Certified: Azure Data Engineer Associate'
+  description: Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理、監控、安全性和隱私權、以滿足業務需求。
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理、監控、安全性和隱私權、以滿足業務需求。
+summary: Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理、監控、安全性和隱私權、以滿足業務需求。
 subTitle: Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理、監控、安全性和隱私權、以滿足業務需求。
 levels:
 - intermediate
@@ -15,8 +14,8 @@ skills:
 - 管理和開發資料處理
 - 監控和最佳化資料解決方案
 - 設計Azure資料儲存解存決方案
-- 設計資料處理解決方案 
-- 設計資料安全性和合規性 
+- 設計資料處理解決方案
+- 設計資料安全性和合規性
 roles:
 - data-engineer
 type: role-based
@@ -51,7 +50,7 @@ exams:
 - uid: exam.dp-201
 resources:
 - title: 認證學習路徑
-  description: '發現訓練資源,以成為經 Microsoft 認證的：Azure Data Engineer Associate。'
+  description: 發現訓練資源,以成為經 Microsoft 認證的：Azure Data Engineer Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

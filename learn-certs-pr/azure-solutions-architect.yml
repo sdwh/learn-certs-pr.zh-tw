@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 認證的：Azure 解決方法架構師專家'
+title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
-  title: 'Microsoft 認證的：Azure 解決方法架構師專家'
-  description: 'Azure 解決方案架構師必須擁有計算、網路、儲存和安全性方面的專業知識，這樣他們才可以設計在Azure上執行的解決方案。'
+  title: 'Microsoft Certified: Azure Solutions Architect Expert'
+  description: Azure 解決方案架構師必須擁有計算、網路、儲存和安全性方面的專業知識，這樣他們才可以設計在Azure上執行的解決方案。
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Azure 解決方案架構師必須擁有計算、網路、儲存和安全性方面的專業知識，這樣他們才可以設計在Azure上執行的解決方案。
+summary: Azure 解決方案架構師必須擁有計算、網路、儲存和安全性方面的專業知識，這樣他們才可以設計在Azure上執行的解決方案。
 subTitle: Azure 解決方案架構師必須擁有計算、網路、儲存和安全性方面的專業知識，這樣他們才可以設計在Azure上執行的解決方案。
 levels:
 - advanced
@@ -47,7 +46,6 @@ products:
 - azure-cosmos-db
 - azure-sql-database
 - azure-event-hubs
-
 courses:
 - uid: course.az-300t01
 - uid: course.az-300t02
@@ -75,7 +73,7 @@ exams:
 - uid: exam.az-301
 resources:
 - title: 認證學習路徑
-  description: '發現訓練資源,以成為經 Microsoft 認證的：Azure Solutions Architect Expert。'
+  description: 發現訓練資源,以成為經 Microsoft 認證的：Azure Solutions Architect Expert。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

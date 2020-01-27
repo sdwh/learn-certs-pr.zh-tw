@@ -1,22 +1,23 @@
 ### YamlMime:Examination
-title: Microsoft 365 身份辨識與服務
+title: Microsoft 365 Identity and Services
 metadata:
-  title: '測驗 MS-100：Microsoft 365 身份辨識與服務'
-  description: '測驗 MS-100：Microsoft 365 身份辨識與服務'
+  title: 測驗 MS-100：Microsoft 365 Identity and Services
+  description: 測驗 MS-100：Microsoft 365 Identity and Services
 uid: exam.ms-100
 displayName: MS-100
-summary: |-
+summary: >-
   此測驗的應試者是參與評估、規劃、移轉、部署與管理 Microsoft 365 服務的 Microsoft 365 企業管理員。他們為企業執行 Microsoft 365 租戶管理任務，包括其身份識別，安全性，合規性與支援的技術。
 
+
   應試者具有 Microsoft 365 工作負載的工作知識，且應該是至少一個 Microsoft 365 工作負載（Exchange、SharePoint、Skype for Business 或 Windows 即服務）的管理員。應試者還具備網路、伺服器管理和 IT 基礎知識（如 DNS，Active Directory 與 PowerShell）的工作知識。
-subTitle: '此測驗測量您在完成以下技術任務時的能力：設計與實作 Microsoft 365 服務；管理用戶身份與角色；管理訪問和身份驗證；以及規劃 Office 365 工作負載與應用程式。'
+subTitle: 此測驗測量您在完成以下技術任務時的能力：設計與實作 Microsoft 365 服務；管理用戶身份與角色；管理訪問和身份驗證；以及規劃 Office 365 工作負載與應用程式。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-100&examname=測驗%20MS-100:%20Microsoft%20365%20身份辨識與服務&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-100
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-100&examname=測驗%20MS-100:%20Microsoft%20365%20身份辨識與服務&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-100
 levels:
 - advanced
 skills:
@@ -26,12 +27,12 @@ skills:
 - 規劃 Office 365 工作負載與應用程式 (10-15%)
 roles:
 - administrator
+exams:
+- uid: exam.ms-101
 products:
 - m365
 - azure-active-directory
 - office-365
-exams:
-- uid: exam.ms-101
 courses:
 - uid: course.ms-100t01
 - uid: course.ms-100t02
@@ -41,7 +42,7 @@ relatedCertifications:
     uid: certification.m365-enterprise-administrator
 resources:
 - title: 訓練和認證指南
-  description: '透過一份簡潔的訓練和認證指南探索所有認證。'
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 重測
   description: 查看兩份可幫助您提高成功幾率的好提議。

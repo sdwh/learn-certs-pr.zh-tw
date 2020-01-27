@@ -5,17 +5,18 @@ metadata:
   description: '測驗 70-339: Managing Microsoft SharePoint Server 2016'
 uid: exam.70-339
 displayName: 70-339
-summary: |-
+summary: >-
   本測驗的目標對象是在資料中心和雲端中負責安裝、設定、部署和管理 SharePoint 2016 安裝且經驗豐富的 IT 專業人員。應試者通常擁有四年以上規劃與維護 SharePoint 與 SharePoint 依賴之其他核心技術的經驗，包含 Windows Server 2008 R2 或更新版本、Internet Information Services (IIS)、SQL Server 2008 R2 或更新版本、Active Directory 及網路功基礎架構服務。
 
+
   應試者也應具備商務連續性管理的相關經驗，除了驗證和安全性技術之外，還包括資料備份、還原和高可用性的經驗。相當建議擁有 PowerShell 的相關經驗。
+
 
   本測驗的次要對象是配合內部商業客戶使用 SharePoint 2016，並積極參與管理企業營運 (LOB) 專案的商務應用程式管理員 (BAA)。
 subTitle: 本測驗的目標對象是在資料中心和雲端中負責安裝、設定、部署和管理 SharePoint 2016 安裝且經驗豐富的 IT 專業人員。應試者通常擁有四年以上規劃與維護 SharePoint 與 SharePoint 依賴之其他核心技術的經驗，包含 Windows Server 2008 R2 或更新版本、Internet Information Services (IIS)、SQL Server 2008 R2 或更新版本、Active Directory 及網路功基礎架構服務。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBh
 practiceTestUrl: https://www.mindhub.com/70-339-Managing-Microsoft-SharePoint-Server-2016-p/mu-70-339_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2F70-339
 locales:
 - en
 - es
@@ -25,7 +26,8 @@ locales:
 - de
 - ja
 - pt-br
-levels: 
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2F70-339
+levels:
 - intermediate
 skills:
 - 設計 SharePoint 基礎結構 (15–20%)

@@ -1,23 +1,22 @@
 ### YamlMime:Certification
-title: '經 Microsoft 365 認證的: Enterprise Administrator Expert'
+title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
-  title: '經 Microsoft 365 認證的: Enterprise Administrator Expert'
-  description: 'Microsoft 365 企業管理員評估，規劃，遷移，部署和管理 Microsoft 365 服務。'
+  title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
+  description: Microsoft 365 企業管理員評估，規劃，遷移，部署和管理 Microsoft 365 服務。
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Microsoft 365 企業管理員評估，規劃，遷移，部署和管理 Microsoft 365 服務。
+summary: Microsoft 365 企業管理員評估，規劃，遷移，部署和管理 Microsoft 365 服務。
 subTitle: Microsoft 365 企業管理員評估，規劃，遷移，部署和管理 Microsoft 365 服務。
 levels:
 - advanced
 skills:
 - 設計與實作 Microsoft 365 服務
-- 管理使用者身分識別與角色 
+- 管理使用者身分識別與角色
 - 管理存取與驗證
 - 規劃 Office 365 工作負載與應用程式
 - 實作現代裝置服務
 - 實作 Microsoft 365 安全與威脅管理
-- 管理 Microsoft 365 控管與合規性 
+- 管理 Microsoft 365 控管與合規性
 roles:
 - administrator
 type: role-based

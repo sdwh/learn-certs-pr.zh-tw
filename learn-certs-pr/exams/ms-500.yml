@@ -1,23 +1,25 @@
 ### YamlMime:Examination
-title: Microsoft 365 企業管理員
+title: Microsoft 365 Security Administration
 metadata:
-  title: '測驗 MS-500：Microsoft 365 企業管理員'
-  description: '測驗 MS-500：Microsoft 365 企業管理員'
+  title: 測驗 MS-500：Microsoft 365 Security Administration
+  description: 測驗 MS-500：Microsoft 365 Security Administration
 uid: exam.ms-500
 displayName: MS-500
-summary: |-
+summary: >-
   此測驗的應試者實作，管理與監視 Microsoft 365 與混合式環境的安全性與合規性解決方法。Microsoft 365 安全管理員可主動保護 Microsoft 365 企業環境，回覆威脅，執行調查並實作資料控管。Microsoft 365 安全管理員與 Microsoft 365 企業管理員，企業利害關係人與其他工作負載管理員共同作業，以規劃與實作安全策略，並確保解決方法符合組織的策略與規定。
+
   <br/>
 
+
   此測驗的應試者熟悉 Microsoft 365 工作負載，在身份保護，資訊保護，威脅防護，安全管理與料控管方面擁有豐富的技能與經驗。此角色側重於 Microsoft 365 環境，且包括混合式環境。
-subTitle: '此測驗測量您在完成以下技術任務時的能力：實作並管理身份和存取；實作並管理威脅防護；實作並管理資訊保護；以及管理 Microsoft 365 中的治理與合規性功能。'
+subTitle: 此測驗測量您在完成以下技術任務時的能力：實作並管理身份和存取；實作並管理威脅防護；實作並管理資訊保護；以及管理 Microsoft 365 中的治理與合規性功能。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI3
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-500&examname=測驗%20MS-500:%20Microsoft%20365%20企業管理員&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-500
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-500&examname=測驗%20MS-500:%20Microsoft%20365%20企業管理員&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-500
 levels:
 - intermediate
 skills:
@@ -41,7 +43,7 @@ relatedCertifications:
     uid: certification.m365-security-administrator
 resources:
 - title: 認證學習路徑
-  description: '發現訓練資源, 以成為經 Microsoft 認證的：Security Administrator Associate。'
+  description: 發現訓練資源, 以成為經 Microsoft 認證的：Security Administrator Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

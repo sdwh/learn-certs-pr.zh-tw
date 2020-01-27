@@ -1,24 +1,27 @@
 ### YamlMime:Examination
-title: 部署 Microsoft 365 Teamwork
+title: Deploying Microsoft 365 Teamwork
 metadata:
-  title: '測驗 MS-300：部署 Microsoft 365 Teamwork'
-  description: '測驗 MS-300：部署 Microsoft 365 Teamwork'
+  title: 測驗 MS-300：Deploying Microsoft 365 Teamwork
+  description: 測驗 MS-300：Deploying Microsoft 365 Teamwork
 uid: exam.ms-300
 displayName: MS-300
-summary: |-
+summary: >-
   此測驗的應試者是團隊管理員，他們負責設定、部署與管理專注於高效率，有效的共同作業與採用的 Office 365 與 Azure 工作負載。團隊工作管理員可管理應用程式，服務與支援基礎架構，以滿足業務需求。Teamwork 管理員必須能夠部署，管理，轉移與保護 SharePoint（線上，本地與混合），OneDrive 與團隊。
+
   <br/>
 
+
   團隊工作管理員參與有關治理的決策，並與其他管理員合作實施治理機構做出的許多決策。團隊工作管理員與 Messaging Administrator 共同作業設定與電子郵件任務相關的選項與安全性，語音管理員在組織中整合語音功能，以及安全管理員以確保端到端的安全性。
-  
+
+
   測驗的應試者使用以下應用程式與服務對整合點有基本的了解：Office, Power Apps, Flow, Yammer, Microsoft Graph, Stream, Planner, 與 Project。管理員了解如何整合協力廠商應用程式與服務，包括商務營運應用程式。應試者還瞭解 SQL Server 管理概念、Azure Active Directory、PowerShell、網路、Windows 伺服器管理、網域名稱系統（DNS）、Active Directory 行動裝置管理與替代作業系統。
-subTitle: '此測驗測量您在完成以下技術任務時的能力：設定與管理 SharePoint Online；設定與管理 OneDrive for Business；設定與管理團隊；以及設定與管理工作負載整合。'
+subTitle: 此測驗測量您在完成以下技術任務時的能力：設定與管理 SharePoint Online；設定與管理 OneDrive for Business；設定與管理團隊；以及設定與管理工作負載整合。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI2
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-300&examname=測驗%20MS-300:%20部署%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-300
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-300&examname=測驗%20MS-300:%20部署%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-300
 levels:
 - intermediate
 skills:
@@ -28,14 +31,14 @@ skills:
 - 設定及管理工作負載整合 (15-20%)
 roles:
 - administrator
+exams:
+- uid: exam.ms-301
 products:
 - m365
 - office-sp
 - office-onedrive
 - office-teams
 - office-yammer
-exams:
-- uid: exam.ms-301
 courses:
 - uid: course.ms-300t01
 - uid: course.ms-300t02
@@ -46,7 +49,7 @@ relatedCertifications:
     uid: certification.m365-teamwork-administrator
 resources:
 - title: 認證學習路徑
-  description: '發現訓練資源, 以成為經 Microsoft 認證的：Teamwork 管理員助理。'
+  description: 發現訓練資源, 以成為經 Microsoft 認證的：Teamwork 管理員助理。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

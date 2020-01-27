@@ -1,13 +1,14 @@
 ### YamlMime:Certification
-title: '經 Microsoft 365 認證的: Teams Administrator Associate'
+title: 'Microsoft 365 Certified: Teams Administrator Associate'
 metadata:
-  title: '經 Microsoft 365 認證的: Teams Administrator Associate'
+  title: 'Microsoft 365 Certified: Teams Administrator Associate'
   description: Microsoft Teams 團隊管理員為 Microsoft  團隊設定、部署和管理 Office 365 工作負載，著重於在企業環境中進行高效和有效的共同作業和交流。
 uid: certification.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
+summary: >-
   Microsoft Teams 團隊管理員為 Microsoft  團隊設定、部署和管理 Office 365 工作負載，著重於在企業環境中進行高效和有效的共同作業和交流。
-  
+
+
   Microsoft Teams 管理員必須能夠規劃、部署和管理團隊聊天、應用程式、頻道、會議、音頻會議，現場活動和通話。
 subTitle: Microsoft Teams 團隊管理員為 Microsoft  團隊設定、部署和管理 Office 365 工作負載，著重於在企業環境中進行高效和有效的共同作業和交流。
 levels:
@@ -31,7 +32,7 @@ exams:
 - uid: exam.ms-700
 resources:
 - title: 認證學習途徑
-  description: '發現訓練資源,以成為經 Microsoft 認證的： Teams Administrator Associate.'
+  description: 發現訓練資源,以成為經 Microsoft 認證的： Teams Administrator Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
 - title: 訓練和認證指南
   description: 在簡明的訓練和認證指南中探索所有認證。
