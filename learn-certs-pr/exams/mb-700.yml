@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
 metadata:
-  title: 測驗 MB-700：Microsoft Dynamics 365：財務與營運 APP 解決方案架構師 (beta)
-  description: 測驗 MB-700：Microsoft Dynamics 365：財務與營運 APP 解決方案架構師 (beta)
+  title: '測驗 MB-700：Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
+  description: '測驗 MB-700：Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
 uid: exam.mb-700
 displayName: MB-700
 summary: >-
@@ -21,7 +21,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-700&examname=測驗%20MB-700:%20Microsoft%20Dynamics%20365:%20財務與營運%20APP%20解決方案架構師%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-700
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-700&examname=測驗%20MB-700:%20Microsoft%20Dynamics%20365%3A%20Finance%20and%20Operations%20Apps%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-700
 levels:
 - advanced
 skills:

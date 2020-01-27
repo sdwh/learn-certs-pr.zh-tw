@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Implementing an Azure Data Solution
 metadata:
-  title: 測驗 DP-200：Implementing an Azure Data Solution
-  description: 測驗 DP-200：Implementing an Azure Data Solution
+  title: '測驗 DP-200：Implementing an Azure Data Solution'
+  description: '測驗 DP-200：Implementing an Azure Data Solution'
 uid: exam.dp-200
 displayName: DP-200
 summary: >-
@@ -22,7 +22,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DP-200&examname=測驗%20DP-200:%20實作%20Azure%20資料解決方法&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fdp-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DP-200&examname=測驗%20DP-200:%20Implementing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 levels:
 - intermediate
 skills:
@@ -62,7 +62,7 @@ relatedCertifications:
     uid: certification.azure-data-engineer
 resources:
 - title: 認證學習路徑
-  description: 發現訓練資源，以成為經 Microsoft 認證的：Azure Data Engineer Associate。
+  description: '發現訓練資源，以成為經 Microsoft Certified: Azure Data Engineer Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

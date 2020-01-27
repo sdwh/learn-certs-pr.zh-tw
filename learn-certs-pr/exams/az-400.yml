@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Microsoft Azure DevOps Solutions
 metadata:
-  title: '測驗 AZ-400: Microsoft Azure DevOps 解決方案'
-  description: '測驗 AZ-400: Microsoft Azure DevOps 解決方案'
+  title: '測驗 AZ-400: Microsoft Azure DevOps Solutions'
+  description: '測驗 AZ-400: Microsoft Azure DevOps Solutions'
 uid: exam.az-400
 displayName: AZ-400
 summary: >-
@@ -19,7 +19,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-400&examname=測驗%20AZ-400:%20Microsoft%20Azure%20DevOps%20解決方案&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-400&examname=測驗%20AZ-400:%20Microsoft%20Azure%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-400
 levels:
 - advanced
 skills:
@@ -56,7 +56,7 @@ relatedCertifications:
     uid: certification.azure-devops
 resources:
 - title: 認證學習途徑
-  description: 發現訓練資源以獲得 Microsoft 認證：Azure DevOps 工程專家。
+  description: '發現訓練資源以獲得 Microsoft Certified: Azure DevOps Engineer Expert。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
 - title: 訓練和認證指南
   description: 在簡明的訓練和認證指南中探索所有認證。

@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Deploying Microsoft 365 Teamwork
 metadata:
-  title: 測驗 MS-300：Deploying Microsoft 365 Teamwork
-  description: 測驗 MS-300：Deploying Microsoft 365 Teamwork
+  title: '測驗 MS-300：Deploying Microsoft 365 Teamwork'
+  description: '測驗 MS-300：Deploying Microsoft 365 Teamwork'
 uid: exam.ms-300
 displayName: MS-300
 summary: >-
@@ -21,7 +21,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-300&examname=測驗%20MS-300:%20部署%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-300
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-300&examname=測驗%20MS-300:%20Deploying%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fms-300
 levels:
 - intermediate
 skills:
@@ -49,7 +49,7 @@ relatedCertifications:
     uid: certification.m365-teamwork-administrator
 resources:
 - title: 認證學習路徑
-  description: 發現訓練資源, 以成為經 Microsoft 認證的：Teamwork 管理員助理。
+  description: '發現訓練資源, 以成為經 Microsoft Certified: Teamwork Administrator Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

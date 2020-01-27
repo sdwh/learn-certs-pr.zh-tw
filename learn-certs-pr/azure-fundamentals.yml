@@ -28,7 +28,7 @@ exams:
 - uid: exam.az-900
 resources:
 - title: 認證學習路徑
-  description: 發現訓練資源,以成為經 Microsoft 認證的：Azure Fundamentals。
+  description: '發現訓練資源,以成為經 Microsoft Certified: Azure Fundamentals。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

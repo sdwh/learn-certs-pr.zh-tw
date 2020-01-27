@@ -22,7 +22,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-103&examname=測驗%20AZ-103:%20Microsoft%20Azure%20管理員&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-103
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-103&examname=測驗%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-103
 levels:
 - intermediate
 skills:
@@ -52,7 +52,7 @@ relatedCertifications:
     uid: certification.azure-administrator
 resources:
 - title: 認證學習途徑
-  description: 發現訓練資源以獲得 Microsoft 認證：Azure 管理員助理。
+  description: '發現訓練資源以獲得 Microsoft Certified: Azure Administrator Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: 訓練和認證指南
   description: 在簡明的訓練和認證指南中探索所有認證。

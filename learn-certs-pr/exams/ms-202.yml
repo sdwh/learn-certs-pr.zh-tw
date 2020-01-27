@@ -1,12 +1,12 @@
 ### YamlMime:Examination
 title: Microsoft 365 Messaging Administrator Certification Transition
 metadata:
-  title: 測驗 MS-202：Microsoft 365 Messaging Administrator Certification Transition
-  description: 測驗 MS-202：Microsoft 365 Messaging Administrator Certification Transition
+  title: '測驗 MS-202：Microsoft 365 Messaging Administrator Certification Transition'
+  description: '測驗 MS-202：Microsoft 365 Messaging Administrator Certification Transition'
 uid: exam.ms-202
 displayName: MS-202
-summary: "<div style='color&#58; red; font-weight&#58; bold;'>該測驗已於 2019年9月30日到期。測驗將在中部標準時間晚間11點59分到期<br/><br/></div>\n   \n該測驗僅適用於已參加 [測驗 70-345&#58;](https://www.microsoft.com/learning/exam-70-345.aspx) 設計和部署 Microsoft Exchange Server 2016 的應試者。若您沒有參加測驗 345，那麼您將無法透過此測驗獲得認證。\n\n該測驗的應試者是消息傳遞管理員，他們在本地和雲企業環境中部署、配置、管理、故障排除和監視收件人、權限、郵件保護、郵件流和公共文件夾。\n\n消息傳遞管理員負責管理衛生、消息傳遞基礎設施、混合配置、移轉、災難恢復、高可用性和客戶機存取。\n\n消息傳遞管理員與安全管理員和 Microsoft 365 企業管理員協作，以實現滿足現代組織業務需求的安全混合拓撲。\n\n消息傳遞管理員應該具有身份驗證類型、許可和與 Microsoft 365 應用程式整合的工作知識。"
-subTitle: 此項測驗僅適用於已參加 測驗 70-345 的應試者：設計和部署 Microsoft Exchange Server 2016。若您沒有參加測驗 345，那麼您將無法透過此測驗獲得認證。
+summary: "<div style='color&#58; red; font-weight&#58; bold;'>該測驗已於 2019年9月30日到期。測驗將在中部標準時間晚間11點59分到期<br/><br/></div>\n   \n該測驗僅適用於已參加 [測驗 70-345&#58;](https://www.microsoft.com/learning/exam-70-345.aspx) Designing and Deploying Microsoft Exchange Server 2016. 的應試者。若您沒有參加測驗 345，那麼您將無法透過此測驗獲得認證。\n\n該測驗的應試者是消息傳遞管理員，他們在本地和雲企業環境中部署、配置、管理、故障排除和監視收件人、權限、郵件保護、郵件流和公共文件夾。\n\n消息傳遞管理員負責管理衛生、消息傳遞基礎設施、混合配置、移轉、災難恢復、高可用性和客戶機存取。\n\n消息傳遞管理員與安全管理員和 Microsoft 365 企業管理員協作，以實現滿足現代組織業務需求的安全混合拓撲。\n\n消息傳遞管理員應該具有身份驗證類型、許可和與 Microsoft 365 應用程式整合的工作知識。"
+subTitle: 此項測驗僅適用於已參加 測驗 70-345 的應試者：Designing and Deploying Microsoft Exchange Server 2016。若您沒有參加測驗 345，那麼您將無法透過此測驗獲得認證。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8R
 locales:

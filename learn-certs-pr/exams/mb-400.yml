@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Microsoft Power Apps + Dynamics 365 Developer (beta)
 metadata:
-  title: 測驗 MB-400：Microsoft Power Apps + Dynamics 365 Developer (beta)
-  description: 測驗 MB-400：Microsoft Power Apps + Dynamics 365 Developer (beta)
+  title: '測驗 MB-400：Microsoft Power Apps + Dynamics 365 Developer (beta)'
+  description: '測驗 MB-400：Microsoft Power Apps + Dynamics 365 Developer (beta)'
 uid: exam.mb-400
 displayName: MB-400
 summary: >-
@@ -18,7 +18,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-400&examname=測驗%20MB-400:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Developer%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-400&examname=測驗%20MB-400:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Developer%20&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fmb-400
 levels:
 - intermediate
 skills:

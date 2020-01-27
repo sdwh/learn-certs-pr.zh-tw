@@ -12,6 +12,11 @@ summary: >-
   MCE&#58; 技術素養的教育人員認證測驗是一項中級測驗，旨在成為 21 世紀學習設計 (21CLD) 架構衡量的有效和可靠的能力測量。
 subTitle: 此測驗的應試者包括準備成為教室教育人員、現任教育人員、教師訓練師資或職前教育學院、教育行政人員或其他希望提供能力驗證的專業人員。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2F62-193
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - de
@@ -22,7 +27,6 @@ locales:
 - ru
 - pl
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=62-193&examname=教育人員技術素養&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2F62-193
 levels:
 - beginner
 skills:

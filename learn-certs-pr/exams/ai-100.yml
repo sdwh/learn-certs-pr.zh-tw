@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Designing and Implementing an Azure AI Solution
 metadata:
-  title: '測驗 AI-100: 設計和實作 Azure AI 解決方案'
-  description: '測驗 AI-100: 設計和實作 Azure AI 解決方案'
+  title: '測驗 AI-100: Designing and Implementing an Azure AI Solution'
+  description: '測驗 AI-100: Designing and Implementing an Azure AI Solution'
 uid: exam.ai-100
 displayName: AI-100
 summary: >-
@@ -26,7 +26,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AI-100&examname=測驗%20AI-100:%20設計和實作%20Azure%20AI%20解決方案&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fai-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AI-100&examname=%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Fai-100
 levels:
 - intermediate
 skills:

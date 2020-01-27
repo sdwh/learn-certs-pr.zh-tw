@@ -15,7 +15,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-301&examname=測驗%20AZ-301:%20Microsoft%20Azure%20架構師設計&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-301
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-301&examname=測驗%20AZ-301:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2Faz-301
 levels:
 - advanced
 skills:
@@ -72,7 +72,7 @@ relatedCertifications:
     uid: certification.azure-solutions-architect
 resources:
 - title: 認證學習途徑
-  description: 發現訓練資源以獲得 Microsoft 認證：Azure 解決方案架構師專家。
+  description: '發現訓練資源以獲得 Microsoft Certified: Azure Solutions Architect Expert。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: 訓練和認證指南
   description: 在簡明的訓練和認證指南中探索所有認證。

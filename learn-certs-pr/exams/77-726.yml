@@ -9,6 +9,9 @@ summary: "Word 2016 測驗的專家級應試者能夠熟練使用 Word 2016 的�
 subTitle: Word 2016 測驗的專家級應試者能夠熟練使用 Word 2016 的進階功能進行文件與內容管理以及進階格式化。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XXRD
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -19,7 +22,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

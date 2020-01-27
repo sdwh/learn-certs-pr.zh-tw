@@ -17,6 +17,9 @@ summary: >
 subTitle: Access 2016 測驗的成功應試者對應用程式的環境有基本的瞭解。他們瞭解基本資料庫設計原則，並能獨立完成工作。他們瞭解並展示 Access 2016 主要功能的正確應用，並展示了建立與維護基本 Access 資料庫對象（包括表格，關係，資料輸入表單，多級報告與多表查詢）的功能。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -26,10 +29,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
-providers:
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

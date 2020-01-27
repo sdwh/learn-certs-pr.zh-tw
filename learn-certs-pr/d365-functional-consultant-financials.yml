@@ -50,7 +50,7 @@ exams:
 - uid: exam.mb-310
 resources:
 - title: 認證學習路徑
-  description: 發現訓練資源，以成為經 Microsoft 認證的：Dynamics 365 Finance Functional Consultant Associate
+  description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svL
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
