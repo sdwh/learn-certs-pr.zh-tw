@@ -64,7 +64,7 @@ ms.author: micsullivan
 - 此測驗優惠不可轉讓，如果您以任何方式更改、修改或轉讓，則該優惠無效。
 - 此測驗優惠僅提供給已登記並參加了官方 Microsoft Ignite 2019 或 Microsoft Ignite The Tour 2019-2020 活動的個人。
 
-有關更多資訊，請參閱完整的[Microsoft使用條款](https://www.microsoft.com/zh-tw/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1)
+有關更多資訊，請參閱完整的[Microsoft使用條款](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1)
 
 ## 外部常見問題集- MS Ignite 和 The Tour 的免費測驗優惠
 
@@ -76,7 +76,7 @@ ms.author: micsullivan
 
 **問題：哪些認證測驗可以使用此優惠？**
 
-**答案：** 此優惠涵蓋了所有 Microsoft 基本知識、角色特定和專業化認證測驗。關於合格的認證測驗清單，請參見我們的優惠詳細資訊頁面上的“此優惠的合格測驗”部分： [https://docs.microsoft.com/zh-tw/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer](https://docs.microsoft.com/zh-tw/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer).
+**答案：** 此優惠涵蓋了所有 Microsoft 基本知識、角色特定和專業化認證測驗。關於合格的認證測驗清單，請參見我們的優惠詳細資訊頁面上的“此優惠的合格測驗”部分： [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer).
 
 **問題：如果我報名參加一項合格的活動但沒有親自參加，我仍然可以領取此優惠嗎？**
 
@@ -98,7 +98,7 @@ ms.author: micsullivan
 
 **問題：如何透過此優惠安排免費測驗？**
 
-**答案：** 關於如何安排免費測驗的說明，請前往 [https://docs.microsoft.com/zh-tw/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/zh-tw/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam).
+**答案：** 關於如何安排免費測驗的說明，請前往 [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam).
 
 **問題：在驗證我的測驗折扣資格時，我遇到一個錯誤，指出我不符合條件，因為我是政府官員，但我不是。我該怎麼辦？**
 
@@ -111,7 +111,7 @@ ms.author: micsullivan
 **問題：我可以選擇親自或線上參加排定的測驗嗎？**
 
 **答案：** 是的，您可以選擇透過當地的考試中心親自通過Pearson Vue或透過線上監考（OP）參加排定的測驗。要瞭解關於線上測驗的更多資訊，請前往
-[https://www.microsoft.com/zh-tw/learning/online-exams.aspx](https://www.microsoft.com/zh-tw/learning/online-exams.aspx)
+[https://www.microsoft.com/learning/online-exams.aspx](https://www.microsoft.com/learning/online-exams.aspx)
 
 ### 取消和重新安排規定
 
@@ -121,14 +121,14 @@ ms.author: micsullivan
 
 **問題：重新安排或取消測驗預約時需要付費嗎？**
 
-**答案：** 如果您在預約前至少六個工作日重新安排或取消測驗預約，則不會收取任何費用。如果您在測驗時間前五個工作日內需要重新安排，則需要支付重新安排費用。如果您在排定的測驗時間的兩天內，則可能不會重新安排或取消測驗。如果您未能在預定的測驗時間出現，那麼您將失去此優惠的免費測驗。關於更多資訊，請參閱 [取消和重新安排規定](https://docs.microsoft.com/zh-tw/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**答案：** 如果您在預約前至少六個工作日重新安排或取消測驗預約，則不會收取任何費用。如果您在測驗時間前五個工作日內需要重新安排，則需要支付重新安排費用。如果您在排定的測驗時間的兩天內，則可能不會重新安排或取消測驗。如果您未能在預定的測驗時間出現，那麼您將失去此優惠的免費測驗。關於更多資訊，請參閱 [取消和重新安排規定](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 **問題：如果我錯過了測驗預約，並且沒有重新安排或取消測驗，會發生什麼？**
 
-**答案：** 如果您已經錯過測驗預約，並且沒有在排定的預約至少24小時之前重新安排或取消預約，則您將失去此優惠的免費測驗。關於更多資訊，請參閱 [取消和重新安排規定](https://docs.microsoft.com/zh-tw/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**答案：** 如果您已經錯過測驗預約，並且沒有在排定的預約至少24小時之前重新安排或取消預約，則您將失去此優惠的免費測驗。關於更多資訊，請參閱 [取消和重新安排規定](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 ### 重考規定
 
 **問題：如果最初沒有使用免費認證測驗優惠，我可以免費重考嗎？**
 
-**答案：** 不可以，此優惠僅適用於一次使用，必須單獨重新安排測驗重考。關於重考認證測驗的更多資訊，請參閱我們的 [測驗重考規定](https://www.microsoft.com/zh-tw/learning/certification-exam-policies.aspx#policies-1).
+**答案：** 不可以，此優惠僅適用於一次使用，必須單獨重新安排測驗重考。關於重考認證測驗的更多資訊，請參閱我們的 [測驗重考規定](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1).

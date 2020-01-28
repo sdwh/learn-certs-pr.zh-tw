@@ -16,9 +16,9 @@ ms.author: micsullivan
 
 尋找規劃在未來12個月內停用的認證。（後續的資訊可能會變更。) 
 
-[MCSA: Dynamics 365 for Operations](https://www.microsoft.com/zh-tw/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retiring on June 30, 2020  
+[MCSA: Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retiring on June 30, 2020  
 
-[MCSE: 商務應用程式](https://www.microsoft.com/zh-tw/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Retiring on December 31, 2019  
+[MCSE: 商務應用程式](https://www.microsoft.com/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Retiring on December 31, 2019  
 
 MCSA: CRM Dynamics Technical&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 於2019 年 12 月 31 日撤銷  
 
@@ -36,18 +36,18 @@ MCSA: CRM Dynamics Technical&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 | 經 Microsoft 認證的 Solutions Associate                      |          |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSA: 雲端平台](https://www.microsoft.com/zh-tw/learning/mcsa-cloud-platform-certification.aspx)           | 2018 年 12 月 31 日 |
-| [MCSA: Azure 上的 Linux](https://www.microsoft.com/zh-tw/learning/mcsa-linux-azure-certification.aspx)            | 2018 年 12 月 31 日 |
-| [MCSA: Office 365](https://www.microsoft.com/zh-tw/learning/mcsa-office365-certification.aspx)               | 2019 年 4 月 30 日 |
-| [MCSA: Windows 10](https://www.microsoft.com/zh-tw/learning/mcsa-windows-10-certifications.aspx)              | 2019 年 4 月 30 日 |
-| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/zh-tw/learning/mcsa-microsoft-dynamics-365.aspx)          | 2019 年 6 月 30 日 |
-| [MCSA: 機器學習](https://www.microsoft.com/zh-tw/learning/mcsa-machine-learning.aspx)                | 2019年6月30日 |
-| [MCSA: 使用Azure執行資料工程](https://www.microsoft.com/zh-tw/learning/mcsa-data-engineering-with-azure.aspx)     | June 30, 2019   |
+| [MCSA: 雲端平台](https://www.microsoft.com/learning/mcsa-cloud-platform-certification.aspx)           | 2018 年 12 月 31 日 |
+| [MCSA: Azure 上的 Linux](https://www.microsoft.com/learning/mcsa-linux-azure-certification.aspx)            | 2018 年 12 月 31 日 |
+| [MCSA: Office 365](https://www.microsoft.com/learning/mcsa-office365-certification.aspx)               | 2019 年 4 月 30 日 |
+| [MCSA: Windows 10](https://www.microsoft.com/learning/mcsa-windows-10-certifications.aspx)              | 2019 年 4 月 30 日 |
+| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365.aspx)          | 2019 年 6 月 30 日 |
+| [MCSA: 機器學習](https://www.microsoft.com/learning/mcsa-machine-learning.aspx)                | 2019年6月30日 |
+| [MCSA: 使用Azure執行資料工程](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx)     | June 30, 2019   |
 
 | Microsoft Certified Solutions Expert                                               |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSE: 雲端平台和基礎架構](https://www.microsoft.com/zh-tw/learning/mcse-cloud-platform-infrastructure.aspx) | 2018年12月31日 |
-| [MCSE: 行動性](https://www.microsoft.com/zh-tw/learning/mcse-mobility-certification.aspx)                 | 2019年4月30日 |
+| [MCSE: 雲端平台和基礎架構](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 2018年12月31日 |
+| [MCSE: 行動性](https://www.microsoft.com/learning/mcse-mobility-certification.aspx)                 | 2019年4月30日 |
 
 | Microsoft 技術助理                                           |          |
 | ---------------------------------------------------------------------------------- | ------------------ |
