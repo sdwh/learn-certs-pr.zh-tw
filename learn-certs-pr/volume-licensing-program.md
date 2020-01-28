@@ -15,7 +15,7 @@ Microsoft 訓練和認證解決方案可幫助商務和認可學術機構加速�
 Microsoft 訓練和認證解決方案可透過以下 Microsoft 大量授權項目獲得：
 
 * **Microsoft 大量授權**.一項可自訂 Microsoft 軟體採購項目，允許對 Microsoft 訓練和認證解決方案的折扣存取。
-* **[Microsoft Volume Licensing for Software Assurance](https://www.microsoft.com/zh-tw/learning/software-assurance-benefits.aspx)**. 這是一項具有成本效益的項目，它允許您透過現有的軟體保證覆蓋範圍來存取特定的軟體保障電子學習和講師指導培訓。
+* **[Microsoft Volume Licensing for Software Assurance](https://www.microsoft.com/learning/software-assurance-benefits.aspx)**. 這是一項具有成本效益的項目，它允許您透過現有的軟體保證覆蓋範圍來存取特定的軟體保障電子學習和講師指導培訓。
 
 透過將本頁中描述的 Microsoft 訓練和認證解決方案產品的採購、預算和追蹤與其他透過“大量授權”購買的 Microsoft 技術相結合，您的組織可以實現平均 20%-80% 的成本節約。
 
@@ -94,7 +94,7 @@ Microsoft 訓練和認證解決方案可透過以下 Microsoft 大量授權項�
 
 ## 常見問題集
 
-以下問題專門針對解決 Microsoft 訓練和認證解決方案的大量授權問題。訪問 [認證概觀](https://www.microsoft.com/zh-tw/learning/certification-overview.aspx) 或 [測驗政策與常見問答](https://www.microsoft.com/zh-tw/learning/certification-exam-policies.aspx) 頁面查找有關 Microsoft 認證或測驗的常規問題解答。
+以下問題專門針對解決 Microsoft 訓練和認證解決方案的大量授權問題。訪問 [認證概觀](https://www.microsoft.com/learning/certification-overview.aspx) 或 [測驗政策與常見問答](https://www.microsoft.com/learning/certification-exam-policies.aspx) 頁面查找有關 Microsoft 認證或測驗的常規問題解答。
 
 ### **Microsoft 訓練和認證解決方案**
 
@@ -154,7 +154,7 @@ Microsoft 訓練和認證解決方案提供的是單一層級、單一套件價�
 您的組織獲得的代碼越多，您得到的批量折扣幅度就越大。我們建議您使用下列資源之一來確定組織的訓練需求，並制定符合公司業務目標的學習計劃。
 
 - [向 Microsoft 訓練和認證解決方案大量授權幫助中心發送郵件訊息](mailto:mslvlhlp@microsoft.com)
-- [找到您當地關於 Microsoft 訓練和認證解決方案的 Microsoft 認證合作夥伴](https://www.microsoft.com/zh-tw/learning/find-partner.aspx)
+- [找到您當地關於 Microsoft 訓練和認證解決方案的 Microsoft 認證合作夥伴](https://www.microsoft.com/learning/find-partner.aspx)
 
 **問 我該訂購多少測驗憑券？**
 
@@ -172,7 +172,7 @@ Microsoft 訓練和認證解決方案提供的是單一層級、單一套件價�
 
 **問 Microsoft Certified Professional (MCP) 課程套件、Microsoft Office Specialist (MOS) 站點套件和 Microsoft Technology Associate (MTA) 站點套件中有哪些課程選項可用於準備測驗？**
 
-每項測驗都有可用的準備材料。從 [新測驗列表](https://www.microsoft.com/zh-tw/learning/exam-list.aspx)中選取測驗，然後查找該測驗的可用準備選項。
+每項測驗都有可用的準備材料。從 [新測驗列表](https://www.microsoft.com/learning/exam-list.aspx)中選取測驗，然後查找該測驗的可用準備選項。
 
 **問 要想透過“大量授權”訂購一項 Microsoft 認證測驗課堂或站點套件，我的機構是否必須是一家 Microsoft 創意學院？**
   

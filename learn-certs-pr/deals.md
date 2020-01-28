@@ -69,11 +69,11 @@ ms.author: micsullivan
 
 **問。我可以在重測中使用測驗憑券進行線上測驗嗎？**
 
-**答。** 可以，有提供線上監考測驗的地區，都可使用 Exam Replay 憑券參加線上監考測驗。[了解 Microsoft 認證的 線上測驗](https://www.microsoft.com/zh-tw/learning/online-proctored-exams.aspx)。
+**答。** 可以，有提供線上監考測驗的地區，都可使用 Exam Replay 憑券參加線上監考測驗。[了解 Microsoft 認證的 線上測驗](https://www.microsoft.com/learning/online-proctored-exams.aspx)。
 
 **問。我可以同時排定第一次測驗和重考測驗的時間嗎？**
 
-**答。** 不可以，只有在您進行第一次測驗且未通過時，才能註冊重考測驗。有關詳細信息，請參閱 [Microsoft 認證測驗重考政策](https://www.microsoft.com/zh-tw/learning/certification-exam-policies.aspx)。
+**答。** 不可以，只有在您進行第一次測驗且未通過時，才能註冊重考測驗。有關詳細信息，請參閱 [Microsoft 認證測驗重考政策](https://www.microsoft.com/learning/certification-exam-policies.aspx)。
 
 **問。如何啟用練習測驗以及它有效期有多長？**
 
