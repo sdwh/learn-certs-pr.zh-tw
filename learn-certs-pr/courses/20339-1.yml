@@ -43,15 +43,9 @@ summary: |-
   
   學生通常具有一年以上的規劃和維護SharePoint的實踐經驗*，以及兩年以上SharePoint所依賴的其他核心技術的經驗，包括Windows Server 2012 R2或更高版本，網際網路資訊服務(IIS)，Microsoft SQL Server 2014年或更高版本，Active Directory網域服務(AD DS)和網路基礎結構服務。
   
-  最低資格的應試者通常&#58; 
-  - 是一位IT專業人員，他規劃，實作和維護SharePoint 2016的多伺服器部署。
-  - 具有SharePoint Online的工作知識，最好具有實踐經驗。
-  - 熟悉SharePoint工作負載。
-  - 具有商務持續性管理方面的經驗，包括資料備份，還原和高可用性。
-  - 具有認證和安全技術的經驗。
-  - 具有Windows PowerShell的經驗。
+  最低資格的應試者通常&#58; 是一位IT專業人員，他規劃，實作和維護SharePoint 2016的多伺服器部署。; 具有SharePoint Online的工作知識，最好具有實踐經驗。; 熟悉SharePoint工作負載。; 具有商務持續性管理方面的經驗，包括資料備份，還原和高可用性。; 具有認證和安全技術的經驗。; 具有Windows PowerShell的經驗。
 
-  *動手經驗或工作經驗應來自基於解決方案的角色，應試者應聘在SharePoint空間中的多個解決方案上工作，包括文件管理，內容管理和搜尋。
+   *動手經驗或工作經驗應來自基於解決方案的角色，應試者應聘在SharePoint空間中的多個解決方案上工作，包括文件管理，內容管理和搜尋。
 prerequisitesSection: |-
   在參加本課程之前，
   學生必須具備以下知識&#58; 
