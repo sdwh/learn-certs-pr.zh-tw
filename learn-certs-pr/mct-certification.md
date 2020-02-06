@@ -64,7 +64,7 @@ MCT 計畫是專為全球各地積極提供 Microsoft 技術訓練工作的教�
 - 擁有最新 Microsoft 認證或 MCT 計畫申請資格 。
 （參見下方的合格認證清單）
 
-- 滿足至少一門課的最低教學要求，由 [必要衡量標準 (MTM)](http://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) 驗證或接受任何其他測量工具。
+- 滿足至少一門課的最低教學要求，由 [必要衡量標準 (MTM)](https://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) 驗證或接受任何其他測量工具。
 
 **注意** 要求可以根據具體情形更新。
 

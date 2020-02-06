@@ -541,10 +541,10 @@ Microsoft 專業認證：[網路安全性憑證](https://academy.microsoft.com/e
 
 如果您因為考試無法以您本地語言提供而需要延長時間，您可以透過提交 [英語為第二語言表單](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx) 來申請。請遵循表單上的指示。 
 
-如果您在測驗時需要特殊設備或其他無障礙設施，您可以透過[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 使用其“合理調整申請系統” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) 申請無障礙設施。合理調整申請系統是一個安全的線上系統，用於請求無障礙設施和提交證明文件。
+如果您在測驗時需要特殊設備或其他無障礙設施，您可以透過[Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 使用其“合理調整申請系統” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) 申請無障礙設施。合理調整申請系統是一個安全的線上系統，用於請求無障礙設施和提交證明文件。
 
 - 如果您是請求系統的首次使用者，則需要建立使用者名稱和密碼。要建立使用者名稱，請在登錄螢幕上點擊“註冊”連結請注意，系統要求您擁有一個有效的電子郵件帳號。
-- 因為需要您上載證明文件，所以 Pearson VUE 使用此安全系統。如果您還沒有這樣做，請給您的評估者（醫生，心理學家）一份有關您的身心障礙“評估者指南”(http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) 的副本。您的評估者應確保他/她提供的文件符合我們的準則。在大多數情況下，您的評估者將是心理學家或醫生，他們會進行一系列的心理，教育或醫學檢查，並為您提供診斷報告或詳細信的副本。
+- 因為需要您上載證明文件，所以 Pearson VUE 使用此安全系統。如果您還沒有這樣做，請給您的評估者（醫生，心理學家）一份有關您的身心障礙“評估者指南”(https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) 的副本。您的評估者應確保他/她提供的文件符合我們的準則。在大多數情況下，您的評估者將是心理學家或醫生，他們會進行一系列的心理，教育或醫學檢查，並為您提供診斷報告或詳細信的副本。
 - **請允許 Pearson VUE 在10個工作日內檢閱您的資料。請據此計劃您的請求。**
 - 檢閱您的請求後，您將收到已確定的一封電子郵件 。確定信將出現在“合理調整申請系統”的“我的文件”部分。如果獲得核准，則確定信將提供安排接受無障礙設施測驗的說明。
 如果您對測驗無障礙設施決定不滿意，可以透過與“合理調整申請系統”中的確定信相同的部分單擊“請求上訴”按鈕對決定提出上訴。請完成並上傳點擊按鈕後出現的上訴表格。身心障礙專家檢閱所有上訴請求。
@@ -622,7 +622,7 @@ Microsoft 專業認證：[網路安全性憑證](https://academy.microsoft.com/e
 
 您可能還想問其他人他們们如何執行這些任務，閱讀白皮書、MSDN 或 TechNet 以獲取考試中包含的任務的更多資訊，和/或查看“考試詳情”頁 面上“備考材料”一節中提供的資源。“考試詳情”頁面將連結到任何可用的線上课程、微學習、選項和入口網站，您可以在其中找到您所在地區的講師指導訓練選項。
 
-此外，[Microsoft 官方實踐測試](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) 對於我們的一些認證測驗也可用。這些測驗可針對您表現出色與表現欠佳的特定領域提供詳細資訊。然而，通過練習測驗不保證您一定會通過認證測驗。
+此外，[Microsoft 官方實踐測試](https://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) 對於我們的一些認證測驗也可用。這些測驗可針對您表現出色與表現欠佳的特定領域提供詳細資訊。然而，通過練習測驗不保證您一定會通過認證測驗。
 
 如果您參加過該測驗但未通過，您可以將重心放在測驗表現最弱以及題目所佔百分比最高的內容領域，優先練習這些技能。
 
@@ -632,17 +632,17 @@ Microsoft 專業認證：[網路安全性憑證](https://academy.microsoft.com/e
 
 **我是否必須以英文進行測驗？**
 
-Microsoft認證測驗有多種語言版本。然而，以英文而非其母語進行測驗的應試者可要求延長測驗時間。是否核准延長測驗時間需視情況而定。從 from [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 或 [Certiport](http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm) 申請測驗無障礙設施。
+Microsoft認證測驗有多種語言版本。然而，以英文而非其母語進行測驗的應試者可要求延長測驗時間。是否核准延長測驗時間需視情況而定。從 from [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 或 [Certiport](https://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm) 申請測驗無障礙設施。
 
 **提供哪些配合身心障礙的措施？**
 
-Microsoft 致力於確保所有人員均可參加我們的測驗，包括任何身心障礙者。如需可用無障礙設施的清單，請造訪 [無障礙設施頁面](http://www.pearsonvue.com/accommodations/)。
+Microsoft 致力於確保所有人員均可參加我們的測驗，包括任何身心障礙者。如需可用無障礙設施的清單，請造訪 [無障礙設施頁面](https://www.pearsonvue.com/accommodations/)。
 
 **測驗的費用是多少？**
 
 專家和助理測驗通常需要165美元，但根據特定國家和地區的貨幣價值定價。測驗價格會變動。在某些國家與地區，可能需要支付額外的稅金。
 
-- 有關 Microsoft Office Specialist（MOS）的确切定价，請聯繫[Certiport](http://www.certiport.com/)。
+- 有關 Microsoft Office Specialist（MOS）的确切定价，請聯繫[Certiport](https://www.certiport.com/)。
 
 對於所有其他測驗，請 [瀏覽全部測驗](https://www.microsoft.com/learning/exam-list.aspx) 並查找測驗頁面，其中包含了測驗的價格。
 
@@ -654,7 +654,7 @@ Microsoft 致力於確保所有人員均可參加我們的測驗，包括任何�
 
 如果您對特定考題的技術準備性有任何疑問，請按照[測驗項目質疑](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5)表單 操作。
 
-若要提報測驗時在測驗中心所發生的問題或技術性問題，請聯絡 [Pearson VUE](http://www.pearsonvue.com/microsoft/) 或 [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)。
+若要提報測驗時在測驗中心所發生的問題或技術性問題，請聯絡 [Pearson VUE](https://www.pearsonvue.com/microsoft/) 或 [Certiport](https://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)。
 
 要提供其他類型的回饋，請聯絡您的 [Microsoft 區域服務中心](https://www.microsoft.com/learning/help.aspx)。
 
@@ -847,7 +847,7 @@ Microsoft 測驗的設計是為了使得測驗總分可以用來做出通過/失
 
 雖然 Microsoft 認證測驗會針對受試者需要進一步加強的領域提供評語，但測驗的用意並非在於提供詳細或診斷式評語。建議檢閱測驗詳細資料頁面的「評量的技能」部分，然後對照測驗中所評量的項目誠實地評估自己的技能。最好的做法是實際執行所列工作，並注意遭遇的任何困難。請努力練習，直到您完全排除這些困難。您也可以請教他人如何執行這些工作。對方執行工作的做法是否有所不同？瞭解他們為什麼要這樣做。閱讀白皮書、存取檔案以取得測驗中所包含之工作的額外相關資訊。探索提供於測驗詳細資料頁面“準備選項”中的資源，以及可在各個測驗詳情頁面底部找到的研究組。
 
-此外，[Microsoft 官方實踐測試](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) 對於我們的一些認證測驗也可用。這些測驗可針對您表現出色與表現欠佳的特定領域提供詳細資訊。然而，通過練習測驗不保證您一定會通過認證測驗。
+此外，[Microsoft 官方實踐測試](https://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) 對於我們的一些認證測驗也可用。這些測驗可針對您表現出色與表現欠佳的特定領域提供詳細資訊。然而，通過練習測驗不保證您一定會通過認證測驗。
 
 **測驗重考規定是怎樣的？**
 
@@ -1067,7 +1067,7 @@ Microsoft Certification Program 要求應試者必須先接受 NDA 的條款才�
 
 **我如何申請無障礙設施?**
 
-如果您在測驗時需要特殊設備或其他任何無障礙設施，您可以透過[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 使用其“合理調整申請系統” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) 申請無障礙設施。上文中參加測驗時的特殊無障礙設施 部分提供了更多詳細資訊。
+如果您在測驗時需要特殊設備或其他任何無障礙設施，您可以透過[Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 使用其“合理調整申請系統” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) 申請無障礙設施。上文中參加測驗時的特殊無障礙設施 部分提供了更多詳細資訊。
 
 **為什麼需要提交文件？**
 

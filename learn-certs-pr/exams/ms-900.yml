@@ -21,7 +21,7 @@ providers:
   - providerType: pearson-vue
     examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-900&examname=測驗%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Fms-900
   - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+    examUrl: https://www.certiport.com/locator
 levels:
 - beginner
 skills:
@@ -57,7 +57,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 請求無障礙設施
   description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
-  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗規則和常見問題解答
   description: 檢閱測驗規定和常見問題解答。
   href: ../certification-exam-policies.md
