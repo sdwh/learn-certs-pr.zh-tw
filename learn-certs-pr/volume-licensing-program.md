@@ -23,7 +23,7 @@ Microsoft 訓練和認證解決方案可透過以下 Microsoft 大量授權項�
 
   Microsoft E-Reference Libraries 提供了有關 Microsoft 產品和相關技術的全面內容。這種易於使用的 Microsoft Press 電子書可透過任何網際網路連進行線上託管，提供了一種高效的、成本節約型列印庫替代方式，並能為課堂訓練和電子學習課程提供出色的課後補充。
 
-  * [參閱樣本 E-Reference Library 內容](http://mseref.safaribooksonline.com/)
+  * [參閱樣本 E-Reference Library 內容](https://mseref.safaribooksonline.com/)
 
 * Microsoft 認證測驗憑券
 
@@ -60,14 +60,14 @@ Microsoft 訓練和認證解決方案可透過以下 Microsoft 大量授權項�
   * 學校註冊（根據學校和校區協議）
   * 選取學術 Plus
 
-  有關更多資訊，請聯絡您的學術授權轉售商或瀏覽 [Microsoft 產業授權項目](http://www.microsoft.com/licensing/licensing-options/for-industries.aspx) 頁面。
+  有關更多資訊，請聯絡您的學術授權轉售商或瀏覽 [Microsoft 產業授權項目](https://www.microsoft.com/licensing/licensing-options/for-industries.aspx) 頁面。
 
   **更多大量授權學術認證資源**
 
-  * [Microsoft 創意學院項目權益指南](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
-  * [Microsoft 學術產業認證資料工作表](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Microsoft 創意學院認證藍圖](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [Microsoft Academic 大量授權認證測驗套件資料工作表](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [Microsoft 創意學院項目權益指南](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [Microsoft 學術產業認證資料工作表](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Microsoft 創意學院認證藍圖](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [Microsoft Academic 大量授權認證測驗套件資料工作表](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * 更多關於大量授權的學術電子資源
 
@@ -77,14 +77,14 @@ Microsoft 訓練和認證解決方案可透過以下 Microsoft 大量授權項�
 
   Microsoft 不再以大量授權方式銷售電子學習資源。以下資源是為那些仍在根據現有合約使用我們的電子學習內容的客戶而提供的。它們旨在幫助您部署、配置和管理您購買的大量授權電子學習資源。
 
-  * [大量授權線上服務管理器線上使用指南](http://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
-  * [大量授權終端使用者/學生線上使用指南](http://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
-  * [電子學習啟用示範 ](http://www.microsoft.com/learning/_silverlight/vl/vl.htm)
-  * [商務管理中心線上使用指南](http://www.microsoft.com/learning/_silverlight/bac/bac.htm)
-  * [Microsoft 創意學院項目](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
-  * [Microsoft 學術產業認證](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Microsoft 創意學院認證藍圖](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [Microsoft Academic 大量授權認證測驗套件](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [大量授權線上服務管理器線上使用指南](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
+  * [大量授權終端使用者/學生線上使用指南](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
+  * [電子學習啟用示範 ](https://www.microsoft.com/learning/_silverlight/vl/vl.htm)
+  * [商務管理中心線上使用指南](https://www.microsoft.com/learning/_silverlight/bac/bac.htm)
+  * [Microsoft 創意學院項目](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [Microsoft 學術產業認證](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Microsoft 創意學院認證藍圖](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [Microsoft Academic 大量授權認證測驗套件](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * 連絡我們
 
@@ -147,7 +147,7 @@ Microsoft 訓練和憑證解決方案可透過 Microsoft 大量授權線上服�
 
 Microsoft 訓練和認證解決方案提供的是單一層級、單一套件價格。Microsoft 訓練和認證解決方案可以按 12 個月的訂閱期訂購，也可以根據主協議剩餘的月數按比例訂購。不需要像“大量授權線上服務”下其他的項目那樣，必須要有一個單獨的用戶訂閱授權 (USL) 或附加訂閱授權 (ASL)。
 
-**注意** 如果您訂購 12 個月的 Microsoft 訓練和認證解決方案，那麼後續訂單將與最初的 12 個月訂單同時到期。[瀏覽線上服務指南](http://www.microsoft.com/learning/_silverlight/bac/bac.htm)。
+**注意** 如果您訂購 12 個月的 Microsoft 訓練和認證解決方案，那麼後續訂單將與最初的 12 個月訂單同時到期。[瀏覽線上服務指南](https://www.microsoft.com/learning/_silverlight/bac/bac.htm)。
 
 **問 我應該獲取多少代碼？**
 
@@ -180,7 +180,7 @@ Microsoft 訓練和認證解決方案提供的是單一層級、單一套件價�
 
 **問 我的機構如何成為一個 MCP 測試中心？**
 
-如果您正在交付 Microsoft IT 認證和 MCP 站點套件測驗，請訪問 Pearson VUE 網站，瞭解如何讓您的機構成為一個 [Pearson VUE 測試中心](http://www.pearsonvue.com/microsoft)。MOS 和 MTA 認證測驗是透過 Certiport 交付的。
+如果您正在交付 Microsoft IT 認證和 MCP 站點套件測驗，請訪問 Pearson VUE 網站，瞭解如何讓您的機構成為一個 [Pearson VUE 測試中心](https://www.pearsonvue.com/microsoft)。MOS 和 MTA 認證測驗是透過 Certiport 交付的。
 
 **問 MCP 站點套件如何執行？**
 
@@ -188,7 +188,7 @@ Microsoft 訓練和認證解決方案提供的是單一層級、單一套件價�
 
 **問 部署一個 MOS 或 MTA 站點授權的要求是什麼？**
 
-您的機構必須是已註冊的 Certiport 授權測試中心，並符合 [Certiport 網站](http://www.certiport.com/Portal/desktopdefault.aspx?page=common/pagelibrary/techRequirements.htm) 上張貼的使用 MOS 或 MTA 的站點套件權益及交付 MOS 或 MTA 測驗的技術要求。如果您的機構不是 Certiport 授權的測驗中心，那它必須透過相關流程以 [成為 Certiport 測試中心](https://www.certiport.com/PORTAL/desktopdefault.aspx?tabid=682&roleid=101)。
+您的機構必須是已註冊的 Certiport 授權測試中心，並符合 [Certiport 網站](https://www.certiport.com/Portal/desktopdefault.aspx?page=common/pagelibrary/techRequirements.htm) 上張貼的使用 MOS 或 MTA 的站點套件權益及交付 MOS 或 MTA 測驗的技術要求。如果您的機構不是 Certiport 授權的測驗中心，那它必須透過相關流程以 [成為 Certiport 測試中心](https://www.certiport.com/PORTAL/desktopdefault.aspx?tabid=682&roleid=101)。
 
 **問 在我透過大量授權訂購一個 MOS 或 MTA 站點套件后，我將如何獲得存取測驗憑券的通知？**
 
