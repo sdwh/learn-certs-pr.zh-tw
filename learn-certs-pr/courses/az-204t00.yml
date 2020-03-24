@@ -1,0 +1,160 @@
+### YamlMime:Course
+title: Developing Solutions for Microsoft Azure
+metadata:
+  title: 'Course AZ-204T00-A: Developing Solutions for Microsoft Azure'
+  description: 'Course AZ-204T00-A: Developing Solutions for Microsoft Azure'
+uid: course.az-204t00
+courseNumber: 'AZ-204T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-active-directory
+- azure-api-management
+- azure-app-service
+- azure-application-gateway
+- azure-automation
+- azure-cdn
+- azure-clis
+- azure-cloud-shell
+- azure-container-instances
+- azure-container-registry
+- azure-cosmos-db
+- azure-event-grid
+- azure-event-hubs
+- azure-functions
+- azure-key-vault
+- azure-logic-apps
+- azure-monitor
+- azure-policy
+- azure-portal
+- azure-redis-cache
+- azure-resource-manager
+- azure-sdks
+- azure-service-bus
+- azure-storage
+- azure-stream-analytics
+- azure-traffic-manager
+- azure-virtual-machines
+exams:
+- uid: exam.az-204
+summary: |-
+  此課程教導開發人員如何在 Microsoft Azure 中建立端對端解決方案。學生將學習如何實作 Azure 計算解決方案，建立 Azure 功能，實作和管理 Web 應用程序，利用 Azure 儲存開發解決方案，實作援驗證和授權以及使用 KeyVault 和受管理的身份識別確保其解決方案的安全。學生還將學習如何連接和使用 Azure 服務和第三方服務，並在解決方案中包括事件型和消息型的模型。此課程還涵蓋監視，疑難排解和最佳化 Azure 解決方案。
+
+  #### 對象設定檔
+  此課程的學生對 Azure 開發或通過 Microsoft Azure Developer Associate 認證測驗感興趣。
+prerequisitesSection: |-
+  應試者必須具有 1-2 年的專業開發經驗以及 Microsoft Azure 的經驗。他們必須能夠使用 Azure 支援的語言進行程式設計。
+outlineSection: |-
+  ### 模組 1&#58; 創建Azure App Service 行動應用
+  學生將學習如何在 Azure App Service 平台上構建 Web 應用程式。他們將學習平台的功能以及如何建立，設定，擴充，保護和部署到 App Service 平台。
+  #### 課程
+  - Azure App Service核心概念
+  - 創建Azure App Service Web應用
+  - 設定和監視 App Service 應用程式
+  - 擴充 App Service 應用程式
+  - Azure App Service核心概念
+
+
+  ### 模組 2&#58; 實作Azure功能
+  此模組介紹如何建立 Functions 應用程式，以及如何將觸發器和輸入/輸出整合到該應用程式中。
+  #### 課程
+  - Azure功能概述
+  - 開發Azure功能
+  - 實作耐用功能
+
+
+  ### 模組 3&#58; 開發使用Azure表儲存的解決方案
+  學生將學習 Azure Blob 儲存的工作方式，如何透過熱/冷/封存 Blob 存生命週期管理資料，以及如何使用 Azure Blob 儲存客戶端文件庫來管理資料和中繼資料。
+  #### 課程
+  - Azure App Service核心概念
+  - 管理 Azure Blob 儲存生命週期
+  - 使用Azure Blob 儲存體
+
+
+  ### 模組 4&#58; 開發使用Azure Cosmos DB儲存的解決方案
+  學生將學習 Cosmos DB 的結構以及如何管理資料一致性。學生還將學習如何透過結合使用 Azure Portal 和 .NET SDK 來建立 Cosmos DB 帳號以及建立資料庫，容器和項目。
+  #### 課程
+  - Azure Cosmos DB概述
+  - Azure Cosmos DB概述
+  - 使用 Azure Cosmos DB 資源和資料
+  
+  
+  ### 模組 5&#58; 實作安全性資料解決方案
+  該模組指導學生如何在其解決方案中使用建立 Vms 和容器映像。它涵蓋建立 Vm，使用 ARM 範本自動執行資源部署，建立和管理 Docker 映像，將映像發佈到 Azure 容器註冊表以及在 Azure 容器執行個體中執行容器。
+  #### 課程
+  - 在 Azure 中提供 VM
+  - 建立和部署 ARM 範本
+  - 為解決方法建立容器映像
+  - 將容器映像發佈到 Azure 容器註冊表
+  - 在Azure 容器執行個體中建立和執行容器映像
+  
+  
+  #### 模組 6&#58;實作使用者驗證和授權
+  學生將學習如何利用 Microsoft Identity Platform v2.0 管理 驗證和存取資源。學生還將學習如何使用  Microsoft Authentication Library 和 Microsoft Graph 來對用戶進行驗證並擷取儲存在 Azure 中的資訊，以及如何以及何時使用共享訪問簽名。
+  #### 課程
+  - Microsoft Identity Platform v2.0
+  - 使用 Microsoft Authentication Library 進行驗證
+  - 使用 Microsoft Graph
+  - 授權 Azure 儲存中的資料操作
+  
+  
+  ### 模組 7&#58; 實作安全性資料解決方案
+  本模組涵蓋如何保護應用程式用來存取資源的資訊(金鑰、機密、認證)。它還涵蓋確保應用程式設定資訊的安全。
+  #### 課程
+  - 使用 KeyVault API 管理金鑰，機密和認證
+  - 實作Azure資源的受控身份識別
+  - 使用 Azure App Configuration 確保應用程式設定資料的安全
+  
+  
+  ### 模組 8&#58; API管理
+  學生將學習如何發佈 API，透過 API 建立原則以管理共用資訊以及使用 Azure API 管理服務來管理對其API的存取。
+  #### 課程
+  - API 管理概觀
+  - 定義API的原則
+  - 保護您的API
+  
+  
+  ### 模組 9&#58; Develop an App Service Logic App
+  本模組教導學生如何使用 Azure Logic Apps 在整個企業或組織中規劃，自動化和整編工作，商務流程，工作流程和服務。
+  #### 課程
+  - Azure Logic應用概述
+  - 為Logic Apps 建立自訂連接器
+  
+  
+  ### 模組 10&#58; 開發基於事件的解決方案
+  學生將學習如何使用事件型的架構來構建應用程式。
+  #### 課程
+  - 實作使用Azure事件網格的解決方案
+  - 實作使用Azure Event Hubs 的解決方案
+  - 實作使用Azure通知中心的解決方案
+  
+  
+  ### 模組 11&#58; 開發以訊息為基礎的解決方案
+  學生將學習如何使用訊息型的架構構建應用程式。
+  #### 課程
+  - 實作使用Azure Service Bus的解決方案
+  - 實作使用Azure佇列儲存佇列的解決方案
+  
+  
+  ### 模組 12&#58; 監視和自動化Azure解決方案
+  該模組教導學生如何為遙測檢測代碼，以及如何分析和疑難排解其應用程式。
+  #### 課程
+  - Azure中的監視概觀
+  - 檢測應用程式
+  - 分析和疑難排解應用程式
+  - 實作處理暫時性錯誤的代碼
+  
+  
+  ### 模組 13&#58; 將快取和內容交付整合到解決方案中
+  學生將學習如何使用不同的快取服務來提高其應用程式的效能。
+  #### 課程
+  - 為 Redis 開發 Azure 快取
+  - Develop for storage on CDNs

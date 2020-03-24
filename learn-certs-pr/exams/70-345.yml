@@ -1,19 +1,21 @@
 ### YamlMime:Examination
 title: Designing and Deploying Microsoft Exchange Server 2016
 metadata:
-  title: '測驗 70-345: Designing and Deploying Microsoft Exchange Server 2016'
-  description: '測驗 70-345: Designing and Deploying Microsoft Exchange Server 2016'
+  title: 'Exam 70-345: Designing and Deploying Microsoft Exchange Server 2016'
+  description: 'Exam 70-345: Designing and Deploying Microsoft Exchange Server 2016'
 uid: exam.70-345
 displayName: 70-345
-summary: >-
+summary: |-
+  <div style='color&#58; red;'>此測驗於 2020 年 6 月 30 日淘汰。也許提供可替代測驗。要了解更多資訊，請存取我們的部落格：<a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> 檢閱我們的測驗停止公告。注意&#58; 測驗將在中部標準時間晚間11點59分到期<br/><br/></div>
+  
   本考試的應試者是IT顧問或高級管理人員，他們作為管理團隊的技術主管。應試者應熟悉整合 Microsoft Exchange Server 與商務用 Skype 和 Office 365 的要求。
-
 
   應試者應至少擁有三年設計和管理Exchange 伺服器的經驗以及在企業環境中負責Exchange 2016訊息傳遞環境。
 subTitle: 本考試的應試者是IT顧問或高級管理人員，他們作為管理團隊的技術主管。應試者應熟悉整合 Microsoft Exchange Server 與商務用 Skype 和 Office 365 的要求。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8do
 practiceTestUrl: https://www.mindhub.com/70-345-designing-and-deploying-microsoft-exchange/p/MU-70-345?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=345&examname=Designing%20and%20Deploying%20Microsoft%20Exchange%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F70-345
 locales:
 - en
 - es
@@ -23,10 +25,10 @@ locales:
 - de
 - ja
 - pt-br
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=345&examname=Designing%20and%20Deploying%20Microsoft%20Exchange%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2F70-345
-levels:
+levels: 
 - advanced
 skills:
+- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
 - 計劃、部署、管理和排除信箱資料庫問題(15-20%)
 - 規劃、部署、管理和排除用戶端存取服務問題(15-20%)
 - 規劃、部署、管理和排除傳送服務問題(15-20%)
@@ -44,7 +46,7 @@ relatedCertifications:
 - related:
     uid: certification.mcse-productivity-certification
 resources:
-- title: 重測
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 認證儀錶板
@@ -52,7 +54,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 請求無障礙設施
   description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: 測驗規則和常見問題解答
-  description: 檢閱測驗規定和常見問題解答。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md

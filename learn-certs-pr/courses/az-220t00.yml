@@ -1,0 +1,252 @@
+### YamlMime:Course
+title: Microsoft Azure IoT Developer
+metadata:
+  title: 'Course AZ-220T00-A: Microsoft Azure IoT Developer'
+  description: 'Course AZ-220T00-A: Microsoft Azure IoT Developer'
+uid: course.az-220t00
+courseNumber: 'AZ-220T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 建立，設定和管理 Azure IoT 中心。
+- skill: 透過使用 IoT 中心和 DPS 來佈建裝置，包括大規模佈建。
+- skill: 在裝置和 IoT 中心之間建立安全的雙向通訊。
+- skill: 透過使用 IoT 中心路由和 Azure 串流分析來實作訊息處理。
+- skill: 設定與 Time Series Insights 的連接並支援商務整合需求。
+- skill: 使用市場模組和各種邊緣閘道器模式實作 IoT Edge 案例。
+- skill: 實作需要開發和部署自訂模組和容器的 IoT Edge 案例。
+- skill: 使用裝置孿生和直接方法實作裝置管理。
+- skill: 實作解決方案監視，記錄和診斷測試。
+- skill: 識別並解決安全性問題，並為 IoT 實作 Azure 安全中心。 
+- skill: 透過使用 Azure IoT Central 構建 IoT 解決方案，並為 IoT 識別 SaaS 機會。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-iot
+exams:
+- uid: exam.az-220
+summary: |-
+  此課程為學生提供成功建立和維護 Azure IoT 解決方案的雲端和邊緣部分所需的技能和知識。此課程包括對核心 Azure IoT 服務的完整涵蓋範圍，例如 IoT 中心，裝置佈建服務，Azure 串流分析，Time Series Insights 等等。除了著重於 Azure PaaS 服務之外，此課程還包括有關 IoT Edge，裝置管理，監視和疑難排解，安全性問題以及  Azure IoT Central 的區段。
+
+  #### 對象設定檔
+  Azure IoT 開發人員負責實作然後 Azure IoT 維護解決方案的雲端和邊緣部分 。除了使用 Azure IoT 服務和其他 Microsoft 工具設定和維護裝置備外，IoT 開發人員還設定實體裝置並負責在整個生命週期內維護裝置。IoT 開發人員實作 IoT 解決方案的設計，包括裝置拓撲，連接性，偵錯和安全性。對於Edge 裝置案例，IoT 開發人員還部署計算/容器並設定裝置網路，其中可能包括各種邊緣閘道器實作。IoT  開發人員實作解決方案的設計，以管理資料管道，包括與 IoT 相關的監視和資料轉換。IoT 開發人員與資料工程師和其他利害關係人合作，以確保成功進行商務整合。IoT 開發人員應該對 Azure 服務有很好的了解，包括資料儲存選項，資料分析，資料處理以及 Azure IoT PaaS 與 SaaS 選項。IoT 開發人員應具備至少一種 Azure 支援的語言的基本程式設計技能，包括 C＃，Node.js，C，Python 或Java。
+prerequisitesSection: |-
+  軟體開發經驗&#58; 軟體開發經驗是本課程的必要條件件，但不需要特定的軟體語言，並且該經驗也不需要專業水準。
+
+  資料處理經驗&#58; 建議但不要求對資料儲存和資料處理有一般的了解。
+
+  雲端解決方案認知&#58; 學生應該對 PaaS，SaaS 和 IaaS 實作有基本的了解。建議使用 Microsoft Azure 基礎知識(AZ -900)或同等技能。   
+outlineSection: |-
+  #### 模組 1&#58; IoT 和 Azure IoT 服務簡介#### 模組 1&#58;IoT 和 Azure IoT 服務簡介
+  在此模組中，學生將首先檢查各種 IoT 實施的商務考量，並回顧 Azure IoT 參照架構如何支援 IoT 解決方案。此模組還為學生提供 IoT 解決方案中常用的 Azure 服務的概觀，並介紹 Azure portal。
+  #### 課程
+  - IoT 的商務機會
+  - IoT 解決方案架構簡介
+  - IoT 硬體和雲端服務
+  - 此課程的實驗案例
+
+
+  #### 實驗室 &#58; Azure 入門
+
+  #### 實驗室 &#58; 從 Azure IoT 服務開始設定
+
+  完成本單元後，學生將能夠&#58;
+  - 說明如何將 IoT 和 Azure IoT 應用於其商務 
+  - 描述 Azure IoT 解決方案架構的核心元件
+  - 描述 Azure IoT 服務及其與 IoT 解決方案的關係
+  - 建立一個 Azure 帳號並使用 Azure portal 建立 IoT 中心和 DPS 服務
+
+  ### 模組 2&#58; 管理裝置和裝置原則
+  在本模組中，學生將深入了解 Azure IoT 中心服務，並將學習如何在 IoT 中心和裝置之間設定安全的雙向通訊。還將向學生介紹 IoT 中心功能，例如孿生裝置和 IoT 中心端點，隨著課程的繼續進行更深入的探索。
+
+  #### 課程
+  - IoT 中心和裝置
+  - IoT 中心和設備工具
+  - 裝置設定和通訊
+
+
+  #### 實驗室 &#58; 設定開發環境
+
+  #### 實驗室 &#58; 將 IoT 裝置連接到Azure
+
+  完成本單元後，學生將能夠&#58;
+  - 解釋 IoT 中心服務的核心功能 
+  - 描述 Azure IoT 裝置的生命週期
+  - 描述 IoT 中心如何管理裝置身份識別並實作其他安全功能
+  - 使用Azure portal，Azure CLI 和Visual Studio Code 向 IoT 中心註冊裝置 
+  - 實作 IoT 中心裝置和服務 SDKs
+
+  #### 模組 3&#58; 大規模裝置佈建
+  在此模組中，學生將重點關注裝置佈建以及如何設定和管理 Azure 裝置佈建服務。學生將學習註冊過程，自動佈建和再佈建，取消註冊以及如何實作各種證明機制。
+  #### 課程
+  - 裝置佈建服務條款和概念
+  - 設定和管理裝置佈建服務
+  - 裝置佈建工作
+
+
+  #### 實驗室 &#58; 在 DPS 中個別註冊裝置
+
+  #### 實驗室 &#58; 在 DPS 中自動註冊裝置
+
+  完成本單元後，學生將能夠&#58;
+  - 說明裝置佈建過程以及裝置佈建服務的功能
+  - 說明與裝置佈建相關的安全考量及其管理方式
+  - 實作裝置佈建服務 SDKs
+  - 管理裝置註冊過程，包括取消佈建和取消註冊
+
+  #### 模組 4&#58; 訊息處理和分析
+  在此模組中，學生將檢查如何使用 IoT 中心和其他 Azure 服務來處理訊息。學生將開始研究如何設定訊息和事件路由以及如何實作到內建端點和自訂端點的路由。學生將學習一些 IoT 解決方案常用的 Azure 儲存選項。為了完成他的模組，學生將實作 Azure 串流分析並查詢多種 ASA 模式。
+  #### 課程
+  - 訊息和訊息處理
+  - 資料儲存選項
+  - Azure Stream Analytics
+
+
+  #### 實驗室 &#58; 裝置訊息路由
+  
+  #### 實驗室 &#58; 篩选和匯總訊息資料
+
+  完成本單元後，學生將能夠&#58;
+  - 設定訊息和事件路由
+  - 將資料路由到內建端點和自訂端點
+  - 實作訊息擴充
+  - 實作 Azure 串流分析輸入，查詢和輸出
+  - 將訊息資料儲存在暖儲存中以用於歷史目的和其他分析
+  - 在訊息處理和分析解決方案中使用 Azure 功能 
+
+  #### 模組 5&#58; 深入解析和商務整合
+  在本模組中，學生將學習 Azure 服務和其他 Microsoft 工具，這些服務可用於產生商務深入解析並啟用商務整合。學生將實作 Azure Logic 應用程式和事件網格，他們將為資料視覺效果工具(如Time Series Insights 和 Power BI)設定連接和資料轉換。
+  #### 課程
+  - IoT 解決方案的商務整合
+  - 具有 Time Series Insights 的資料視覺效果
+  - 使用Power BI 進行資料視覺效果
+
+
+  #### 實驗室 &#58; 將 IoT 中心與事件網格整合
+
+  #### 實驗室 &#58; 透過 Time Series Insights 來探索和分析時間標記資料
+
+  完成本單元後，學生將能夠&#58;
+  - 說明 IoT 解決方案中的商務整合選項以及如何達成
+  - 使用 Logic Apps 和 Event Grid 開發商務整合支援
+  - 設定 IoT 資料在 Time Series Insights 中進行視覺效果
+  - 設定 IoT 資料在 Power BI 中進行視覺效果
+
+  #### 模組 6&#58; Azure IoT Edge 部署過程
+  在此模組中，學生將學習如何將模組部署到 Azure IoT Edge 裝置。學生還將學習如何設定和使用 IoT Edge 裝置作為閘道器裝置。
+
+  #### 課程
+  - Azure IoT Edge 簡介
+  - 邊緣部署流程
+  - 邊緣閘道器設備
+
+
+  #### 實驗室 &#58; - IoT Edge 簡介
+
+  #### 實驗室 &#58; 設定 IoT Edge 閘道器
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 IoT 裝置和 IoT Edge 裝置之間的區別
+  - 設定 IoT Edge 裝置 
+  - 使用部署資訊清單實作 IoT Edge 部署
+  - 將 IoT Edge 裝置設定為閘道器裝置
+
+  #### 模組 7&#58; Azure IoT Edge 模組和容器
+  在此模組中，學生將開發和部署自訂邊緣模組，並將實作對依賴本機儲存的離線案例的支援。學生將使用受支援的容器引擎使用 Visual Studio Code 將自訂模組構建為容器。
+
+  #### 課程
+  - 開發自訂邊緣模組
+  - 離線和本機儲存
+
+
+  #### 實驗室 &#58; 在 Azure IoT Edge 上開發，部署和偵錯自訂模組
+
+  #### 實驗室 &#58; 在受限網路和離線環境中執行 IoT Edge 裝置
+
+  完成本單元後，學生將能夠&#58;
+  - 說明構建自訂邊緣模組的要求
+  - 設定 Visual Studio Code 以開發容器化模組
+  - 將自訂模組部署到 IoT Edge 裝置
+  - 在 IoT Edge 裝置上實作本機儲存以支援離線案例
+
+  #### 模組 8&#58; 裝置管理
+  在本模組中，學生將學習如何為其 IoT 解決方案實作裝置管理。學生將開發使用孿生裝置管理解決方案和使用直接方法的解決方案。
+
+  #### 課程
+  - IoT 裝置管理簡介
+  - 管理 IoT 和 IoT Edge 裝置
+  - 大規模裝置管理
+
+
+  #### 實驗室 &#58; 使用 Azure IoT 中心遠端監視和控制裝置
+
+  #### 實驗室 &#58; 自動裝置管理
+
+  完成本單元後，學生將能夠&#58;
+  - 描述最常見的裝置管理模式和設定最佳做法
+  - 描述何時以及如何使用設備孿生和直接方法來實現設備管理
+  - 使用裝置孿生和直接方法對各種模式實作裝置管理。
+  - 使用自動裝置管理和作業大規模實作裝置管理
+
+  #### 模組 9&#58;解決方案測試，診斷和記錄
+  在此模組中，學生將設定記錄和診斷工具，以幫助開發人員測試其 IoT 解決方案。學生將使用 IoT 中心和 Azure Monitor 設定警報並追蹤條件(例如裝置連接狀態)，這些條件可用於疑難排解問題。
+
+  #### 課程
+  - 監視和記錄
+  - 疑難排解
+
+
+  #### 實驗室 &#58; 在 Azure IoT 中心中設定指標和記錄
+
+  #### 實驗室 &#58; 監視和偵錯連接故障
+
+  完成本單元後，學生將能夠&#58;
+  - 描述用於監視和記錄 Azure IoT 解決方案的選項 
+  - 設定 Azure Monitor 以支援 IoT 解決方案 
+  - 設定 IoT 中心指標以支援 IoT解決方案 
+  - 實作診斷記錄
+  - 對 IoT 裝置連接和通訊問題進行疑難排解
+
+  #### 模組 10&#58; Azure 安全中心和 IoT 安全性考量
+  在本模組中，學生將研究適用於 IoT 解決方案的安全性考量。學生將首先研究適用於解決方案架構和最佳做法的安全性，然後查看用於 IoT 的 Azure 安全中心如何支援裝置部署和 IoT 中心整合。然後，學生使用用於 IoT 代理的 Azure 安全中心來增強其解決方案的安全性。
+  #### 課程
+  - IoT 解決方案的 Security Fundamentals
+  - IoT 的 Azure 安全中心簡介
+  - 使用適用於 IoT 代理的 Azure 安全中心增強保護
+
+
+  #### 實驗室 &#58; 實作 IoT 的 Azure 安全中心
+  
+  完成本單元後，學生將能夠&#58;
+  - 描述 IoT 解決方案的安全問題和最佳作法
+  - 描述 Azure IoT 安全架構和威脅建模
+  - 描述 Azure 安全中心為 IoT 提供的功能和支援 
+  - 設定安全代理和孿生安全模組
+  - 匯總 IoT 事件的 Azure 安全中心
+
+  #### 模組 11&#58; 使用 IoT Central 構建 IoT 解決方案
+  在此模組中，學生將學習如何設定和實作 Azure IoT Central 作為 IoT 的 SaaS 解決方案。學生將首先對 IoT Central 及其工作原理進行深入研究。透過對 IoT Central 建立的基本了解，學生將繼續建立和管理裝置範本，然後在其 IoT Central 應用程式中管理裝置。
+
+  #### 課程
+  - IoT Central 簡介
+  - 建立和管理裝置範本
+  - 在Azure IoT Central中管理裝置
+
+
+  #### 實驗室 &#58; Azure IoT Central 入門
+
+  #### 實驗室 &#58; 使用 Azure IoT Central 實作 IoT 解決方案
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 Azure IoT Central 與 Azure IoT PaaS 服務之間的區別
+  - 描述 Azure IoT Central 提供的功能
+  - 描述裝置範本的用途和元件
+  - 建立和發佈裝置範本
+  - 使用規則和通知管理裝置
+  - 使用工作大規模管理設備

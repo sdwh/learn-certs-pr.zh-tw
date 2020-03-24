@@ -1,0 +1,21 @@
+### YamlMime:Course
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Expert'
+metadata:
+  title: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Expert'
+  description: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Expert'
+uid: course.mb-700t00
+courseNumber: 'MB-700T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- dynamics
+exams:
+- uid: exam.mb-700
+summary: ""

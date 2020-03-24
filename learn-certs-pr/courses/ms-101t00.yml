@@ -1,0 +1,201 @@
+### YamlMime:Course
+title: Microsoft 365 Mobility and Security
+metadata:
+  title: 'Course MS-101T00-A: Microsoft 365 Mobility and Security'
+  description: 'Course MS-101T00-A: Microsoft 365 Mobility and Security'
+uid: course.ms-101t00
+courseNumber: 'MS-101T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Microsoft 365 Security Metrics
+- skill: Microsoft 365 Security Services
+- skill: Microsoft 365 Threat Intelligence
+- skill: Data Governance in Microsoft 365
+- skill: Archiving and Retention in Office 365
+- skill: Data Governance in Microsoft 365 Intelligence
+- skill: Search and Investigations
+- skill: 裝置管理
+- skill: Windows 10 Deployment Strategies
+- skill: Mobile Device Management
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  本課程包括了 Microsoft 365企業管理的三大核心要素&#58; Microsoft 365 安全管理，Microsoft 365合法管理， 和 Microsoft 365 設備管理。
+  透過Microsoft 365安全管理，您將檢查現在企業所面臨的所有常見威脅和資料外洩等問題。您也將學到Microsoft 365的安全解決方案是如何處理這些安全威脅的。我們將會向您介紹 Microsoft Secure Score以及Azure Active Directory Identity Protection。然後您將學會如何去管理Microsoft 365的安全服務，包括Exchange Online Protection，Advanced Threat Protection，Safe Attachments和Safe Links。最後，我們將會向您介紹各種關於您安全狀態的報告。然後，您將會從安全服務的角色轉變為威脅情報收集，尤其是使用安全儀表板和Advanced Threat Analytics走道潛在安全漏洞的前面。
+  當您所有的Microsoft 365安全元件都就位之後，您將檢查Microsoft 365合法管理的關鍵元件。這往往是從資料管理的所有關鍵方面的改觀開始的，包括資料歸檔和保留，Information Rights Management, Secure Multipurpose Internet Mail Extension (S/MIME), Office 365 message encryption, and data loss prevention (DLP).之後您將更深地專研歸檔和保留，尤其關注在SharePoint適當的記錄管理，在Exchange歸檔和保留，以及在Security and Compliance Center保留政策。
+  由於您已經瞭解資料管理的關鍵方面，您將檢查如何樣使用它們，包括在Exchange Online建立信息隔離墻，透過內置的模板建立DLP政策，建立自定義的DLP政策，建立DLP政策去保護文檔，以及建立政策小貼士。隨後，您將聚焦使用Microsoft 365去管理資料，包括管理郵件保留，檢查錯誤的保留政策和政策小貼士，還有檢查敏感的資料。然後，您將會學習如何運用Azure Information Protection 和 Windows Information Protection。在您學完如何去管理搜尋和調查後，這部分的學習將告一段落，主要包括了在Security and Compliance Center裡面搜尋內容，審查日誌調查和管理先進的eDiscovery。
+  此課程將會以一次全面的Microsoft 365設備管理測驗來結束。您將從規劃設備管理的方方面面開始，包括了為合作管理準備Windows 10設備。您將學會如何從Configuration Manager轉變為Intune。我們還將向您介紹Microsoft Store for Business 和 Mobile Application Management。此時，您將從規劃設備管理轉變為實作設備管理，尤其是您的Windows 10部署策略。這包括了實作Windows Autopilot, Windows Analytics, 以及 Mobile Device Management (MDM).當您檢查MDM時，您將學到如何去部署它，如何添加新的設備到MDM，以及如何管理設備的兼容性。
+
+  #### 對象設定檔
+  本課程適用於有志於 Microsoft 365 企業管理員角色並已完成 Microsoft 365 角色型的管理員認證途徑之一的人員。
+prerequisitesSection: |-
+  - 完成的角色型管理員課程，例如傳訊，團隊工作，安全性和合規性或共同作業。
+  - 對 DNS 的精通理解以及 Microsoft 365 服務的基本功能經驗。
+  - 精通理解一般的 IT 慣例。
+outlineSection: |-
+  ### 模塊 1&#58; 介紹Microsoft 365 Security Metrics
+  #### 課程
+  - 威脅向量和資料外洩
+  - Microsoft 365安全方案
+  - 介紹Secure Score
+  - 介紹 Azure Active Directory Identity Protection
+
+
+  ### 模塊 2&#58; 管理您的Microsoft 365安全服務
+  #### 課程
+  - 介紹Exchange Online Protection
+  - 介紹Advanced Threat Protection
+  - 管理安全附件
+  - 管理安全連結
+  - 監控和報告
+
+
+  ### 模塊 3&#58; 實驗室1 - 管理Microsoft 365安全服務
+
+  #### 實驗室&#58; 管理Microsoft 365安全服務
+  - 演練1 - 設定 Microsoft 365 試用租用戶
+  - 練習2 - 完成一個 ATP Safe Links政策 和 Safe Attachment政策
+
+
+  ### 模塊 4&#58; Microsoft 365 Threat Intelligence
+  #### 課程
+  - Microsoft 365 Threat Intelligence概觀
+  - 使用安全性儀表板
+  - 配置進階威脅分析
+  - 實作您的云應用程式安全
+
+
+  ### 模塊 5&#58; 實驗室2- 用安全儀表板實作警告通知
+
+  #### 實驗室&#58; 用安全儀表板實作警告通知
+  - 練習1 - 為實作警告政策做準備
+  - 練習2 - 實作安全警告通知
+  - 練習3 - 實作群組警告
+  - 練習4 - 實作eDiscovery Alerts
+
+
+  ### 模組 6&#58; Microsoft 365 中的資料控管簡介
+  #### 課程
+  - Microsoft 365 中的封存簡介
+  - Microsoft 365 中的保留簡介
+  - 資訊版權管理簡介
+  - 安全多用途網際網路郵件擴充簡介
+  - Office 365 郵件加密簡介
+  - 資料外洩防護簡介
+
+
+  ### 模塊 7&#58; Office 365的歸檔和保存
+  #### 課程
+  - 在 SharePoint 中就地記錄管理
+  - 在 Exchange 中實作封存和保留
+  - SCC 中的保留原則
+
+
+  ### 模塊 8&#58; 實驗室3 - 實作歸檔和保存
+
+  #### 實驗室&#58; 實作歸檔和保存
+  - 練習1 - 在您的企業初始化兼容性
+  - 練習2 - 設定保存標籤和政策
+  - 練習3 - 實作保存政策
+
+
+  ### 模組 9&#58; 實作在 Microsoft 365 Intelligence 中的資料控管
+  #### 課程
+  - 規劃您的安全和兼容性要求
+  - 在 Exchange Online 中建立道德管束
+  - 從內建範本創建簡單 DLP 原則
+  - 創建自訂 DLP 原則
+  - 創建 DLP 原則以保護文件
+  - 使用原則提示
+
+
+  ### 模塊 10&#58; 實驗室4 - 實作DLP政策
+
+  #### 實驗室&#58; 實作DLP政策
+  - 練習1 - 管理DLP政策
+  - 練習2 - 測試MRM和DLP政策
+
+
+  ### 模組 11&#58; 在 Microsoft 365 中管理資料控管
+  #### 課程
+  - 管理電子郵件中的保留
+  - 疑難排解資料控管
+  - 實作 Azure Information Protection
+  - 實作 Advanced Features of AIP
+  - 實作 Windows Information Protection
+
+
+  ### 模塊 12&#58; 實驗室5 - 實作 AIP and WIP
+
+  ####實驗室&#58; 實作AIP and WIP
+  - 練習1 - 實作Azure Information Protection
+  - 練習2 - 實作 Windows Information Protection
+
+
+  ### 模組 13&#58; 管理搜尋和調查
+  #### 課程
+  - 在安全性和合規性中心中搜尋內容
+  - 稽核記錄調查
+  - 管理進階eDiscovery
+
+
+  ### 模塊 14&#58; 實驗室6 - 管理 Search and Investigations
+
+  #### 實驗室&#58; 管理Search and Investigations
+  - 練習1 - Investigate Your Microsoft 365 Data
+  - 練習2 - 設定和部署一個 Data Subject Request
+
+
+  ### 模組 15&#58; 計劃裝置管理
+  #### 課程
+  - 共同管理簡介
+  - 準備您的 Windows 10 裝置以進行共同管理
+  - 從設定管理員轉換到Intune
+  - 介紹Microsoft Store for Business
+  - 計劃行動應用程式管理
+
+
+  ### 模塊 16&#58; 實驗室7 - 實作Microsoft Store for Business
+
+  #### 實驗室&#58; 實作Microsoft Store for Business
+  - 練習1 - 設定Microsoft Store for Business
+  - 練習2 - 管理Microsoft Store for Business
+
+
+  ### 模組 17&#58; 計劃您的 Windows 10 部署策略
+  #### 課程
+  - Windows 10 部署方案
+  - 實作Windows Autopilot
+  - 計劃您的 Windows 10 啟動訂閱策略
+  - 解決Windows 10升級錯誤
+  - Windows Analytics 簡介
+
+
+  ### 模組 18&#58; 實作行動裝置管理
+  #### 課程
+  - 計劃行動裝置管理
+  - 部署行動裝置管理
+  - 將裝置註冊到MDM
+  - 管理裝置相容性
+
+
+  ### 模塊 19&#58; 實驗室8 - Intune設備管理
+
+  #### 實驗室&#58; Intune設備管理
+  - 練習 1 - 開啟設備管理
+  - 練習 2 - 為Intune設定Azure AD
+  - 練習 3 - 建立Intune Policies
+  - 練習 4 - 登記一個Windows 10設備
+  - 練習 5 - 在Intune裡面管理和監控一台設備
