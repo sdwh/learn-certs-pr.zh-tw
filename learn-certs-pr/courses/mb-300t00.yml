@@ -1,0 +1,324 @@
+### YamlMime:Course
+title: 'Microsoft Dynamics 365: Core Finance and Operations'
+metadata:
+  title: 'Course MB-300T00: Microsoft Dynamics 365: Core Finance and Operations'
+  description: 'Course MB-300T00: Microsoft Dynamics 365: Core Finance and Operations'
+uid: course.mb-300t00
+courseNumber: 'MB-300T00'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 開始使用 Dynamics 365 for Finance and Operations 的生命週期服務
+- skill: 使用生命週期服務設計和規劃 Dynamics 365 for Finance and Operations 的實作
+- skill: 概述 Dynamics 365 for Finance and Operations 中的報告和分析
+- skill: 構建和測試 Dynamics 365 for Finance and Operations 的行動應用程式
+- skill: 在Dynamics 365 for Finance and Operations 中建立，維護和使用工作流程
+- skill: 在Dynamics 365 for Finance and Operations 設定和配置法人實體
+- skill: 在 Dynamics 365 for Finance and Operations 中管理使用者和安全性
+- skill: 在 Dynamics 365 for Finance and Operations 中執行個人化
+- skill: 在 Dynamics 365 for Finance and Operations 中實作常見的整合功能
+- skill: 準備要移轉的資料並將資料移轉到 Dynamics 365 for Finance and Operations
+- skill: 在 Dynamics 365 for Finance and Operations 中使用資料管理
+- skill: 對 Dynamics 365 for Finance and Operations 執行使用者驗收測試
+- skill: 準備上線
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  本課程討論&#58;
+  - Dynamics 365 for Finance and Operations 的核心共同特徵
+  - Dynamics 365 for Finance and Operations 的核心設定
+  使用Dynamics 365 for Finance and Operations 進行資料移轉並準備上線
+  組織使用 Dynamics 365 for Finance and Operations 以降低營運成本並快速回應不斷變化的商務需求。該解決方案使組織可以實現這些目標。
+  此課程討論 Microsoft Dynamics 365 for Finance and Operations 的核心元件和設定，以及資料移轉和準備上線。
+
+  #### 對象設定檔
+  Dynamics 365 客戶參與功能顧問負責執行發現，擷取需求，吸引主題專家和利害關係人參與，翻譯需求以及配置解決方案和應用程式。功能顧問使用現成功能，無程式碼擴充性，應用程式和服務整合來實作解決方案。
+prerequisitesSection: |-
+  在參加本課程之前，學生必須具備&#58;
+  - Microsoft Windows 的一般知識
+  - 能夠將 Dynamics 365 for Finance and Operations 進行基本處理
+  - 基本的行動裝置功能和導覽一般知識
+outlineSection: |-
+  ### 模組 1&#58; Dynamics 365 for Finance and Operation 入門
+  了解 Microsoft Dynamics 365 for Finance and Operations 如何支援企業來管理其全球財務系統，營運商務流程以及簡化的供應鏈，以使人們能夠做出快速，有依據的決策。
+  作為從事財務和營運工作的第一步，無論您希望擔任什麼角色，都必須熟悉其特色和功能。
+
+  #### 課程
+  - 簡介
+  - 產業重點
+  - 財務管理簡介
+  - 員工管理簡介
+  - 供應鏈管理簡介
+  - 模組摘要
+
+  - 您將了解什麼是財務和營運
+  - 您將了解它支援的產業
+  - 您將熟悉財務和營運中的模組
+  - 您將熟悉這些模組中功能的用途
+  - 您將熟悉它們如何支援產業特定領域
+
+
+  ### 模組 2&#58; 生命週期服務入門
+  若要在 Microsoft Azure 雲端中或內部部署安裝和維護 Microsoft Dynamics 365 for Finance and Operations，您需要使用Microsoft Dynamics 生命週期服務(LCS)來管理該過程。
+  讓我們開始研究 LCS 中可用的整體功能和工具。
+
+  Microsoft Dynamics 生命週期服務(LCS)是一個協作工作區，客戶及其合作夥伴使用來管理 Dynamics 365 for Finance and Operations，從售前到實作以及最後到生產環境，無論是在雲端還是內部部署。它提供有助於管理專案的清單和工具，包括可以幫助管理實作過程的方法。
+
+  #### 課程
+  - 理解生命週期服務的功能和工具
+  - 重用現有資產，複製和共享資料
+  - 理解任務記錄器功能
+  - 創建業務流程模型
+  - 執行LCS問題搜尋工具並分析結果
+  - 瞭解如何使用 Regression Suite 自動化工具
+  - 練習實驗室
+  - 模組摘要
+
+  - 了解用於財務和營運的 Lifecycle 服務 (LCS) 的功能和工具
+  - 重用現有資產，複製和共享資料
+  - 理解任務記錄器功能
+  - 創建業務流程模型
+
+
+  ### 模組 3&#58; 使用生命週期服務進行設計和計劃
+  透過適當的計劃，Dynamics 365 for Finance and Operations 實作將會成功。在客戶簽署購買財務和營運授權的合約後，作為功能顧問的工作首先是管理應用程式生命週期，並朝著可預測，可重複的高品質實作邁進。
+  #### 課程
+  - 簡介
+  - 雲端實作階段
+  - 內部部署實作的各個階段
+  - 創建功能設計文件(FDD)
+  - 模組摘要
+
+  使用 Lifecycle 服務 (LCS) 中的方法為收集的需求準備文件
+  - 定義用案件場景
+  - 參與功能需求文件(FRD)的創建
+  - 理解創建和維護文件化流程的重要性
+  - 參與階段型的計劃流程和解決方案設計
+  - 根據提出的解決方案描述未來狀態商務流程
+  - 確定何時建造與購買
+  - 建立功能設計文件(FDD)
+
+
+  ### 模組 4&#58; 報告和分析概觀
+  商務領導者需要對基礎財務和營運資料進行準確的深入解析，從而在公司中制定重要的決策。如果無法看到這些資料，是不可能的！
+  透過在 Dynamics 365 for Finance and Operations 中使用分析和報告，您可以根據其安全權限為每個商務使用者授權，以獲取他們所需的深入解析。
+  #### 課程
+  - 理解報告和查詢
+  - 瞭解財務報告
+  - 將 PowerBI 設定為執行個體
+  - 練習實驗室
+  - 模組摘要
+
+  - 財務和營運中不同類型的報告和查詢
+  - 財務報告
+  - 為Microsoft Power Platform配置財務和營運
+
+
+  ### 模組 5&#58; 建立和測試行動應用程式
+  我們生活在數位時代。現在，很難想像沒有智慧裝置的一天。您幾乎每天都使用行動應用程式進行社交參與，線上銀行以及預約酒店，飛機和租車。
+  您可以在智慧裝置上使用 Dynamics 365 for Finance and Operations 似乎是很自然的。
+
+  #### 課程
+  - 統一操作行動應用程式概觀
+  - 建立和使用行動應用程式
+  - 練習實驗室
+  - 模組摘要
+
+  您將學習如何建立行動應用程式並將其發佈
+  - 您還將了解到需要下載應用程式
+  - 如和執行 Dynamics 365 應用程式以連接到財務和營運
+
+
+  ### 模組 6&#58; 創建，維護和使用工作流程
+  一些組織要求特定的程序由輸入記錄的人以外的使用者核准。這些工作流程程序可能需要手動核准，工作流程核准或不核准。
+  #### 課程
+  - 商務流程的工作流程
+  - 創建和設定工作流程。
+  - 為使用者分配工作流程接觸點
+  - 使用工作項目
+  - 練習實驗室
+  - 模組摘要
+
+  您可以使用工作流程套用自動化
+  - 您了解了有關定義工作流程類型
+  - 您知道工作流程可以核准多種日記帳類型
+  - 您學會了可以定義多個版本的工作流程
+  - 您學會了可以修改現有工作流程而無需刪除原始工作流程
+  - 您學會了解如何設定，配置和添加工作流程及其工作
+  - 您學會了設定核准流程
+
+
+  ### 模組 7&#58;設定和配置法律實體
+  法律實體是透過向法律授權單位註冊而確定的組織。法律實體可以簽訂合約，並需要準備報告其執行效能的聲明。您必須規劃和設定組織並建立法律實體，這是實作 Dynamics 365 for Finance and Operations 的第一步。
+
+  本模組說明 Dynamics 365 for Finance and Operations 中法律實體和號碼序列的設定和配置。
+  #### 課程
+  - 創建法律實體並產生號碼序列
+  - 創建一個號碼序列
+  - 創建組織階層
+  - 套用目的和原則
+  - 配置月曆和日期間隔
+  - 練習實驗室
+  - 模組摘要
+
+  - 您已經學會法律實體並產生號碼序列
+  - 您還設定月曆和日期間隔。
+  - 您學習如何建立組織階層，套用目的和設定原則
+
+
+  ### 模組 8&#58; 管理使用者和安全性
+  如果了解 Dynamics 365 for Finance and Operations 的安全性架構後，則您可以對其進行自訂以適合您的商務需求。使用財務和營運，您可以確保敏感資料的安全，並確保使用者保持著重於自己的角色。
+
+  Microsoft Dynamics 365 for Finance and Operations 具有一系列安全和設定選項，可幫助確保敏感資料的安全。這一切都意味著使用者可以繼續專注於自己的角色，而系統則保持盡可能的簡化。
+
+  知道如何實作不同的安全選項將幫助公司支付其安全要求。當了解財務和營運的安全性架構後，可以更輕鬆地自訂安全性以滿足業務需求。
+
+  #### 課程
+  - 理解安全性架構
+  - 管理使用者和安全性
+  - 設定並套用職責隔離
+  - 執行安全報告
+  - 設定批次工作和警示
+  - 練習實驗室
+  - 模組摘要
+
+  - 了解財務和營運的安全性架構
+  - 受管理的使用者
+  - 受管理的安全
+  - 套用責任隔離
+  - 執行安全報告
+
+
+  ### 模組 9&#58; 執行個人化
+  透過個人化 Dynamics 365 for Finance and Operations 中的使用者界面，您可以使組織的員工更有效率地工作。個人化可以幫助部門經理為員工實作特定的使用者界面，而無需進行自訂。
+  #### 課程
+  - 描述並套用使用者選項
+  - 創建，匯出和匯入個人化設置
+  - 創建和維護記錄範本
+  - 練習實驗室
+  - 模組摘要
+
+  如何使用和套用使用者選項，建立個人化以及匯出個人化
+  - 自訂和個人化之間的差異。
+  - 個人化如何幫助您節省時間
+  - 個人化如何幫助您建立和維護記錄範本
+
+
+  ### 模組 10&#58;實施通用整合功能
+  此模組提供有關如何在財務和營運中實作乘用整合功能的資訊。  預設情況下，Microsoft Office Excel 已與 Dynamics 365 for Finance and Operations 整合。這使您可以直接從財務和營運中提取資料，在 Excel 中處理資料，然後將其存回財務和營運中。您還可以直接透過財務與財務和營運或使用 Microsoft Outlook 傳送電子郵件。
+
+  您可以從瀏覽器到公司的網路印表機的任何位置列印文件，因此列印體驗再簡單不過了。
+
+  #### 課程
+  - Microsoft Office 整合
+  - 配置電子郵件
+  - 創建和維護電子郵件範本
+  - 使用 Power BI
+  - 設置網路列印
+  - 將資料整合到供應用程式使用的公共資料服務中
+  - 練習實驗室
+  - 模組摘要
+
+  您將學習如何使用 Microsoft Office 整合
+  - 您可以遠端使用公司網路印表機
+  - 如何將來自多個來源的資料整合到 Common Data Service 中
+
+
+  ### 模組 11&#58; 準備要移轉的資料和移轉資料
+  當需要進行資料移轉時，人們知道的越多，控制操作的複雜性並降低成本就越容易。客戶的商務連續性必須是優先順序的。了解如何透過使用資料管理架構管理 Dynamics 365 for Finance and Operations 中的資料實體和資料實體封裝來準備要移轉的資料。
+  #### 課程
+  - 簡介
+  - 理解 BYOD 功能
+  - 執行測試移轉並驗證輸出
+  - 模組摘要
+
+  - 選擇資料整合(匯入/匯出)策略
+  - 識別財務和營運中的常見移轉方案和工具
+  - 了解自攜資料庫(BYOD)功能
+  - 識別相關(舊版)系統
+  - 識別並匯入產業之間常見的靜態資料
+  - 創建和檢閱測試計劃以進行資料移轉
+  - 識別並提擷取資料
+  - 識別相關的資料實體和元素
+  - 產生來源和目標資料結構之間的欄位映射
+  - 執行測試移轉並驗證輸出
+  - 支援現有系統與移轉系統之間的轉換
+
+
+  ### 模組 12&#58; 使用資料管理
+  您使用資料管理工作區在 Dynamics 365 for Finance and Operations 中匯入和匯出資料。透過預備來源資料來驗證資料，然後將其移動到 Finance and Operations 資料庫中的目標資料表。
+
+  在此模組中，您將了解資料管理平台基本概念的概觀。學生還學習如何使用資料管理工作區在 Dynamics 365 for Finance and Operations 中匯入和匯出資料。
+
+  最後，您將學習如何使用資料管理平台的非同步週期性整合功能。
+
+  #### 課程
+  - 簡介
+  - 理解資料管理和整合
+  - 資料管理工作區
+  - 資料管理中的範本
+  - 匯入，匯出資料並將其複製到法律實體
+  - 練習實驗室
+  - 模組摘要
+
+  識別指定案例的正確模式
+  - 使用資料管理工作區
+  - 從法律實體匯出資料
+  - 匯入資料到法律實體
+
+
+  ### 模組 13&#58; 執行使用者驗收測試
+  透過設定，自訂以及與可能的第三方的整合解決了所有客戶要求之後，您需要知道如何在 Microsoft Dynamics 365 for Finance and Operations 中執行使用者驗收測試(UAT)以驗證解決方案。這是上線準備工作的關鍵步驟之一部分。
+
+  為了在上線之前測試和評估客戶解決方案，需要具有 Dynamics 365 for Finance and Operations 的環境，該環境可透過擴充具有所有設定和可能的自訂。
+
+  有一種方法來確保針對簡短，有效且以角色為中心的測試案件場景正確組織和計劃創建和測試，始終是有益的。
+  #### 課程
+  - 簡介
+  - 創建並執行用於使用者驗收的測試案件
+  - 練習實驗室
+  - 模組摘要
+
+  - 如何了解測試案例與商務需求之間的關係
+  - 記錄測試案例的最佳做法
+  - 任務記錄器
+  - 如何創建方案驗收測試 BPM 庫
+  - 如何在 Azure DevOps 中同步處理和配置測試計劃
+  - 如何執行測試
+
+
+  ### 模組 14&#58; 準備上線
+  透過 Dynamics 365 for Finance and Operations 中已實作的解決方案移動至生產環境，所有的艱辛工作都獲得成功。  目標是在這個重要的階段(即上線)獲得滿意的客戶，優質的解決方案和讓您安心。
+  了解如何透過使用 Microsoft Dynamics 生命週期服務(LCS)準備上線財務與營運項目。
+
+  #### 課程
+  - 簡介
+  - 準備上線
+  - 模組摘要
+
+  準備上線
+  - 完成 Lifecycle 服務(LCS)方法
+  - 執行您的解決方案使用者驗收測試(UAT)
+  - 理解FastTrack即時評估
+  - 要求生產環境
+
+
+  ### 模組 15&#58; 課程總結
+  最終評估和課程摘要，以及課程的課程後調查。
+  #### 課程
+  - 最終評估
+  - 課程摘要
+  - 課後調查
+
+  學生將完成課程。

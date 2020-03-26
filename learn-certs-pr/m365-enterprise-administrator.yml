@@ -2,28 +2,30 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: Microsoft 365 企業管理員評估，規劃，遷移，部署和管理 Microsoft 365 服務。
+  description: 此測驗的應試者是參與評估、規劃、移轉、部署與管理 Microsoft 365 服務的 Microsoft 365 企業管理員。
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: Microsoft 365 企業管理員評估，規劃，遷移，部署和管理 Microsoft 365 服務。
-subTitle: Microsoft 365 企業管理員評估，規劃，遷移，部署和管理 Microsoft 365 服務。
+summary: |-
+  此測驗的應試者是參與評估、規劃、移轉、部署與管理 Microsoft 365 服務的 Microsoft 365 企業管理員。
+  
+  <div style='color&#58; red;'><br/>MCSE 生產力解決方案專家認證將於 2020 年 6 月 30 日淘汰。因此，在2021年6月30日之後，MCSE 生產力解決方案專家認證將不符合Microsoft 365 Certified&#58; Enterprise Administrator Expert認證的先決條件。(MCSE 淘汰後1年)。</div>
+subTitle: 此測驗的應試者是參與評估、規劃、移轉、部署與管理 Microsoft 365 服務的 Microsoft 365 Enterprise Administrators。
 levels:
 - advanced
 skills:
-- 設計與實作 Microsoft 365 服務
+- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
+- 設計和實作 Microsoft 365 服務
 - 管理使用者身分識別與角色
-- 管理存取與驗證
-- 規劃 Office 365 工作負載與應用程式
+- 管理存取和驗證
+- 規劃 Office 365 工作負載和應用程式
 - 實作現代裝置服務
-- 實作 Microsoft 365 安全與威脅管理
-- 管理 Microsoft 365 控管與合規性
+- 實作 Microsoft 365 安全和威脅管理
+- 管理 Microsoft 365 治理和合規性
 roles:
 - administrator
 type: role-based
 products:
 - m365
-- azure-active-directory
-- office-365
 courses:
 - uid: course.ms-100t01
 - uid: course.ms-100t02
@@ -53,14 +55,14 @@ resources:
   description: 在簡明的訓練和認證指南中探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oWP3
-- title: 重測
+  description: 查看關於基礎知識、角色型和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+  description: 檢閱並管理您的預定測驗、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
