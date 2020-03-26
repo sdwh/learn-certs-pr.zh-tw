@@ -509,7 +509,7 @@ Download: [成績單服務應用程式](https://query.prod.cms.rt.microsoft.com/
 
 我們相當重視並依賴您所提供的意見，這些意見將可讓 Microsoft 認證測驗的盡可能地有和具有關聯性。
 
-## <a name="#special-accommodations-when-taking-exams"></a> 進行測驗時提供的特定無障礙設施
+## <a name="special-accommodations-when-taking-exams"></a> 進行測驗時提供的特定無障礙設施
 
 ### 對於通過Pearson VUE進行的考試：
 
