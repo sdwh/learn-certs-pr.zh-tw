@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 全世界的合作夥伴和客戶皆期盼 Microsoft 提供最高品質的測驗和認證。我們已擬定 Microsoft Certification exam 規定來支援認證規劃的目標，其中包括：
 
-## 安全與重考規定
+## <a name="security-policies"></a> 安全與重考規定
 
 Microsoft 制定了明確的規範內容來處理 Microsoft Certified Professional (MCP) 測驗安全相關的議題。
 
@@ -491,7 +491,7 @@ AZ-201: Microsoft Azure Developer Advanced Solutions
 
 Download: [成績單服務應用程式](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## 對於 Microsoft Certification exam 題目提出異議
+## <a name="policies-5"></a> 對於 Microsoft Certification exam 題目提出異議
 
 [每道考試題目都經過仔細審查](https://www.microsoft.com/learning/certification-exams.aspx), 由一群技術與職責專家嚴謹檢閱，這些專家細究了各個題目的技術正確性、清晰度以及相關性。若您認為在 Microsoft Certification exam 中看到無效的特定問題，可以依照下列所述的步驟要求評估該問題。您必须在参加考試後30天内提交考試項目質疑表。
 
@@ -509,7 +509,7 @@ Download: [成績單服務應用程式](https://query.prod.cms.rt.microsoft.com/
 
 我們相當重視並依賴您所提供的意見，這些意見將可讓 Microsoft 認證測驗的盡可能地有和具有關聯性。
 
-## 進行測驗時提供的特定無障礙設施
+## <a name="#special-accommodations-when-taking-exams"></a> 進行測驗時提供的特定無障礙設施
 
 ### 對於通過Pearson VUE進行的考試：
 
@@ -527,7 +527,7 @@ Download: [成績單服務應用程式](https://query.prod.cms.rt.microsoft.com/
 
 如果您因為考試無法以您本地語言提供而需要延長時間，需要使用特殊設備，或申請在考試時提供其他任何無障礙設施，您可透過 Certiport 按 [此處](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations) 描述的步驟申請無障礙設施。
 
-### 取消與重新排程策略：
+### <a name="cancellation-and-reschedule-policy"></a> 取消與重新排程策略：
 
 - 如果您在您的預約前至少 6 個工作天重新排程或取消測驗預約，則不收取費用。
 - 如果您在註冊測驗時間的 5 個工作天內取消或重新排程測驗，則需要收取一定費用。
@@ -626,7 +626,7 @@ Microsoft 致力於確保所有人員均可參加我們的測驗，包括任何�
 
 **我要如何針對測驗問題或測驗使用經驗提交相關意見反應？**
 
-如果您對特定考題的技術準備性有任何疑問，請按照[測驗項目質疑] 表單(https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5) 操作。
+如果您對特定考題的技術準備性有任何疑問，請按照[測驗項目質疑](#policies-5) 表單 操作。
 
 若要提報測驗時在測驗中心所發生的問題或技術性問題，請聯絡 [Pearson VUE](http://www.pearsonvue.com/microsoft/) 或 [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)。
 
@@ -829,7 +829,7 @@ Microsoft 測驗的設計是為了使得測驗總分可以用來做出通過/失
 
 **測驗重考規定是怎樣的？**
 
-請參閱 [安全性和重考規定](https://www.microsoft.com/learning/certification-exam-policies.aspx#security-policies) ，以查看測驗重考規定。
+請參閱 [安全性和重考規定](#security-policies) ，以查看測驗重考規定。
 
 **我能否要求重新評估我的分數？**
 
@@ -837,7 +837,7 @@ Microsoft 測驗的設計是為了使得測驗總分可以用來做出通過/失
 
 **我要如何對測驗問題提出異議？**
 
-如果您認為 Microsoft Certification exam 的問題有錯誤，您可以利用項目異議表單要求評估該問題。 您可以在參加測驗後的30個日曆天內使用 [測驗項目質疑流程](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5)要求對該問題進行評估。評估流程可協助我們辨識並修正有疑問的問題並據此更新測驗。
+如果您認為 Microsoft Certification exam 的問題有錯誤，您可以利用項目異議表單要求評估該問題。 您可以在參加測驗後的30個日曆天內使用 [測驗項目質疑流程](#policies-5)要求對該問題進行評估。評估流程可協助我們辨識並修正有疑問的問題並據此更新測驗。
 
 **Microsoft 員工是否會檢閱並評估我所質疑的測驗問題？**
 
@@ -993,7 +993,7 @@ Microsoft Certification Program 要求應試者必須先接受 NDA 的條款才�
 
 **我的實驗室遇到了一些問題。我如何讓Microsoft 知道？**
 
-如果您在實驗室中遇到問題，請通过我們的考試項目質疑流程升级。(https://www.microsoft.com/learning/certification-exam-policies.aspx#dt-policies-5).雖然我們無法為您的經歷提供具体的解释，但我们对您經歷的調查將幫助我們確定根本原因並找出可改善每個人體驗的解決方案。
+如果您在實驗室中遇到問題，請通过我們的考試項目質疑流程升级。(https://docs.microsoft.com/learn/certifications/certification-exam-policies#policies-5).雖然我們無法為您的經歷提供具体的解释，但我们对您經歷的調查將幫助我們確定根本原因並找出可改善每個人體驗的解決方案。
 
 **我的實驗室遇到了一些問題。我如何請求重新評分？**
 

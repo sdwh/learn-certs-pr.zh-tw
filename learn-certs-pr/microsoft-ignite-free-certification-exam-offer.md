@@ -19,7 +19,7 @@ ms.author: micsullivan
 
 如果您參加了 Microsoft Ignite 2019 或 Microsoft Ignite The Tour 2019-2020 活動，您將有機會獲得一次免費的 Microsoft 基本知識、角色特定或專業化認證測驗。這項免費的測驗優惠可在您所參加活動的開始日開始兌換，有效期持續到活動結束日之後的第 180 天。如果您沒有在規定時間內安排測驗，您將無法兌換您的優惠。  
 
-## 如何申請您的免費測驗
+## <a name="how-to-claim-your-free-exam"></a> 如何申請您的免費測驗
 
 因為這是數位優惠，所以我們要求您在安排線上測驗時間時使用用於活動報名的同一社交帳號（請參閱下面的步驟7）來驗證您的活動出席率。如果您是團體註冊的，請確保您已完成活動報名個人資料。關於 MS Ignite 2019 出席者，請前往 [https://register.ignite.microsoft.com/](https://register.ignite.microsoft.com/); 關於 The Tour 出席者，請前往 [https://register.msignite-the-tour.microsoft.com/](https://register.msignite-the-tour.microsoft.com/) 城市名稱, 例如 [https://register.msignite-the-tour.microsoft.com/london](https://register.msignite-the-tour.microsoft.com/london) 完成您的活動個人資料。
 
@@ -41,7 +41,7 @@ ms.author: micsullivan
 
 - For issues scheduling your exam, get help through [Microsoft Certification support forums](https://trainingsupport.microsoft.com/en-us/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1).論壇版主將在一個工作日內回覆。
 
-## 符合此優惠條件的測驗
+## <a name="eligible-exams-for-this-offer"></a> 符合此優惠條件的測驗
 
 此優惠涵蓋了所有 Microsoft 基本知識、角色特定和專業化認證測驗。符合條件的測驗如下所示。
 
@@ -136,4 +136,4 @@ ms.author: micsullivan
 
 **問: 如果最初沒有使用免費認證測驗優惠，我可以免費重考嗎？**
 
-**答案：** 不可以，此優惠僅適用於一次使用，必須單獨重新安排測驗重考。關於重考認證測驗的更多資訊，請參閱我們的 [測驗重考規定](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1).
+**答案：** 不可以，此優惠僅適用於一次使用，必須單獨重新安排測驗重考。關於重考認證測驗的更多資訊，請參閱我們的 [測驗重考規定](/learn/certifications/certification-exam-policies#security-policies).

@@ -29,11 +29,11 @@ Microsoft Certified Trainer 計畫是年度會員制的計畫。您必須符合�
 
 [探索所有 MCT 可用權益。](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
-## 先決條件
+## <a name="mctinfoheading-3"></a> 先決條件
 
 MCT 計畫是專為全球各地積極提供 Microsoft 技術訓練工作的教育人員而設計的。如果您擁有合格認證並且您對於提供 Microsoft 技術訓練充滿熱情，我們鼓勵您考慮申請參加。
 
-如需 MCT 計畫必要條件的詳細資訊，請檢閱本頁 [應用程式處理程序](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4)部分中的《MCT 計畫指南》和《MCT 計畫合約》。
+如需 MCT 計畫必要條件的詳細資訊，請檢閱本頁 [應用程式處理程序](#mctinfoheading-4)部分中的《MCT 計畫指南》和《MCT 計畫合約》。
 
 
 ### MCT 計畫參加條件
@@ -108,7 +108,7 @@ MCT 計畫是專為全球各地積極提供 Microsoft 技術訓練工作的教�
  
 **注意** Microsoft 認證和 MCT 計畫申請資格可能會變動。所有新的角色型的認證一旦發佈，都將有資格申請 MCT 計劃。已到期認證在從到期日開始的 6 個月之內也都有資格申請 MCT 項目。[瞭解更多關於過期的認證報告](https://www.microsoft.com/learning/retired-certifications.aspx).
 
-## 申請流程
+## <a name="mctinfoheading-4"></a> 申請流程
 
 如果有意成為 MCT，請檢閱《MCT 計畫指南》與《MCT 計畫合約》，瞭解成員資格的相關條款。
 
@@ -186,7 +186,7 @@ MCT Alumni 權益包括：
 
 若要重新成為 MCT：
 
-- **確保您滿足本頁 [要求](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3)部分中所述的MCT程式要求。** 請查看您的成績證明是否為最新 Microsoft 認證並符合 MCT 計畫申請資格。
+- **確保您滿足本頁 [要求](#mctinfoheading-3)部分中所述的MCT程式要求。** 請查看您的成績證明是否為最新 Microsoft 認證並符合 MCT 計畫申請資格。
 - **申請參加 MCT 計畫。** MCT Alumni 可提供相關的教學技能認證，作為其之前曾參加 MCT 計劃的證明，或提交能證明至少具備一年教學經驗的推薦函。推薦函可以來自先前客戶、經理或同事。
 
 ## MCT and MCT Alumni program fees
