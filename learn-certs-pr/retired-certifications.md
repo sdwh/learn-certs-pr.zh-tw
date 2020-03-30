@@ -1,4 +1,4 @@
----
+﻿---
 title: Microsoft 撤銷的認證 | Microsoft Docs
 description: Microsoft 撤銷的認證
 documentationcenter: NA
@@ -6,7 +6,7 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 2019 年 07 月 30
+ms.date: 07/30/2019
 ms.author: micsullivan
 ---
 # 認證撤銷資訊
@@ -15,7 +15,7 @@ ms.author: micsullivan
 
 ## 規劃撤銷的認證
 
-尋找規劃在未來12個月內停用的認證。（後續的資訊可能會變更。) 
+尋找規劃在未來12個月內停用的認證。(後續的資訊可能會變更。) 
 
 [MCSA: Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;於 2020 年 6 月 30 日撤銷  
 
@@ -77,6 +77,6 @@ ms.author: micsullivan
 
 | Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| MTA: 98-369: Cloud Fundamentals                                               | 2018 年9月30日 |
+| MTA: 98-369: Cloud Fundamentals                                               | 2019 年9月30日 |
 | MTA: 98-380: Introduction to Programming Using Block-Based Languages (Touch Develop)                      |2019年8月7日|
 ___
