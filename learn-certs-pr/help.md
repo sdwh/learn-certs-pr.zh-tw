@@ -1,4 +1,4 @@
----
+﻿---
 title: Microsoft 訓練和認證說明 | Microsoft Docs
 description: Microsoft 訓練和認證說明
 documentationcenter: NA
@@ -6,14 +6,16 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 2019 年 07 月 30
+ms.date: 07/30/2019
 ms.author: micsullivan
 ---
 # Microsoft 訓練和認證說明
 
-對 Microsoft 訓練與認證產品有疑問嗎？連覽 [Microsoft 學習](/learn/certifications/)),在那裡您可以找到關於 Microsoft 訓練、認證、測驗、Microsoft 官方課程 (MOC) 等問題的答案。
+對 Microsoft 訓練與認證產品有疑問嗎？連覽 [Microsoft 學習](/learn/certifications/), 在那裡您可以找到關於 Microsoft 訓練、認證、測驗、Microsoft 官方課程 (MOC) 等問題的答案。
 
 還有問題嗎？請參閱下面的支援選項。
+
+請注意，對於尋求獲得認證和培訓支持的客戶，我們的響應時間比預期的要長。感謝您的耐心配合，我們將盡快處理所有查詢。
 
 ## 認證說明
 

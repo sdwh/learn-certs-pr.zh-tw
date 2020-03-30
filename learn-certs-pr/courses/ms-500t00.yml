@@ -1,0 +1,360 @@
+### YamlMime:Course
+title: Microsoft 365 Security Administration
+metadata:
+  title: 'Course MS-500T00-A: Microsoft 365 Security Administration'
+  description: 'Course MS-500T00-A: Microsoft 365 Security Administration'
+uid: course.ms-500t00
+courseNumber: 'MS-500T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 在 Microsoft 365 中管理用戶和組訪問。
+- skill: 描述和管理 Azure 身份保護功能。
+- skill: 計劃和實作 Azure AD Connect。
+- skill: 管理已同步處理的身份識別。
+- skill: 描述和使用條件式存取。
+- skill: 描述網路攻擊威脅向量。
+- skill: 描述 Microsoft 365 的安全性解決方案
+- skill: 使用 Microsoft 安全分數來評估您的安全性狀態。
+- skill: 配置 Microsoft 365 各種進階威脅防護服務。
+- skill: 配置進階威脅分析。
+- skill: 規劃和部署安全的移動設備。
+- skill: 實作資訊版權管理
+- skill: 在 Office 365 中保護郵件。
+- skill: 配置資料外洩防護原則。
+- skill: 部署和管理雲端 App 安全性。
+- skill: 實作裝置的 Windows 資訊保護。
+- skill: 計劃和部署資料封存和保留系統。
+- skill: 創建和管理eDiscovery調查。
+- skill: 管理 GDPR 資料主體要求。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-500
+summary: |-
+  在本課程中，您將學習如何確保使用者存取組織資源。該課程涵蓋用戶密碼保護、多因素身份驗證、如何啟用 Azure 身份保護，如何設置和使用 Azure AD Connect，並向您​​介紹 Microsoft 365 中的有條件訪問。
+  您將了解有助於保護 Microsoft 365 環境的威脅防護技術。具體來說，您將了解威脅向量和減輕威脅的 Microsoft 安全解決方案。您將了解安全評分，Exchange Online 保護，Azure 高級威脅防護，Windows Defender 高級威脅防護和威脅管理。
+  在本課程中，您將學習有助於保護 Microsoft 365 環境的資訊保護技術。本課程討論資訊版權管理的內容，郵件加密以及支援資料外洩防護和資訊保護的標籤，原則和規則。
+  最後，您將學習在Microsoft 365中進封存和保留以及資料控管以及如何進行內容搜尋和調查。本課程涵蓋資料保留原則和標籤，SharePoint 的就地記錄管理，電子郵件保留以及如何進行支援eDiscovery調查的內容搜尋。
+
+  #### 對象設定檔
+  Microsoft 365 安全管理員與 Microsoft 365 企業管理員，企業利害關係人與其他工作負載管理員共同作業，以規劃與實作安全策略，並確保解決方法符合組織的策略與規定。
+  本角色主動保護 Microsoft 365 企業環境。責任包括回應威脅，實作，管理和監視 Microsoft 365 環境的安全性和合規性解決方案。他們回應事件，調查和強制資料控管。
+  Microsoft 365 安全管理員熟悉 Microsoft 365 的工作負載和混合環境。這個角色在身份保護、信息保護、威脅保護、安全管理和數據管理方面具有很強的技能和豐富經驗。
+prerequisitesSection: |-
+  學習者應該已經具備以下技能才能開始本課程&#58;
+  - 對 Microsoft Azure 的基本概念瞭解。
+  - 使用 Windows 10 裝置的經驗。
+  - 使用Office 365的經驗。
+  - 對授權和驗證的基本瞭解。
+  - 對電腦網路的基本瞭解。
+  - 管理行動裝置的工作知識。
+outlineSection: |-
+  ### 模塊 1&#58; 用戶和組保護
+  本模組說明如何在 Microsoft 365 中管理使用者帳號和群組。向您介紹Azure AD中的特權身份識別管理以及身份識別保護。該模組為課程的其餘部分奠定基礎。
+  #### 課程
+  - 身份和訪問管理概念
+  - 零信任安全
+  - 在 Microsoft 365 的使用者帳號
+  - 在 Microsoft 365 中管理員角色和安全性群組
+  - Microsoft 365 中的密碼管理
+  - Azure AD身分識別保護
+
+
+  #### 實驗室&#58; 初始化您的試用租戶
+  - 設置您的 Microsoft 365 租戶
+
+
+  #### 實驗室&#58; 配置特權身份管理
+  - 發現和管理 Azure 資源
+  - 分配 目錄角色
+  - 激活和停用 PIM 角色
+  - 目錄角色（常規）
+  - PIM 資源工作流程
+  - 查看 PIM 中 Azure AD 角色的審核歷史記錄
+
+  完成本單元後，學生將能夠&#58;
+  - 創建和管理用戶帳戶。
+  - 描述和使用 Microsoft 365 管理員角色
+  - 計劃密碼原則和驗證
+  - 描述零信任安全的概念
+  - 在 Office 365 中實作多重要素驗證
+  - 啟用 Azure 身份保護
+
+
+  ### 模組 2&#58; 身分識別同步處理
+  本模塊說明與 Microsoft 365 的身份同步有關的概念。  明確的說，專注於 Azure AD Connect 和管理目錄同步處理，以確保合適人選連線到您的 Microsoft 365 系統。
+  #### 課程
+  - 身份識別同步處理簡介
+  - 計劃 Azure AD Connect
+  - 實作 Azure AD Connect
+  - 管理同步身份識別
+  - 同盟識別身分簡介
+
+
+  #### 實驗室 &#58; 實作身分識別同步處理
+  - 設定您的組織以進行身分識別同步處理
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 Microsoft 365 的身份驗證選項。
+  - 說明目錄同步處理
+  - 計劃目錄同步處理
+  - 描述和使用 Azure AD Connect。
+  - 配置 Azure AD Connect 必要條件
+  - 通過目錄同步管理用戶和組。
+  - 描述 Active Directory 聯盟。
+
+
+  ### 模組 3&#58; 存取管理
+  本模塊說明對 Microsoft 365 的條件訪問以及如何使用它來控制對組織中資源的訪問。該模組還介紹角色型存取控制（RBAC）和外部存取的解決方案。
+  #### 課程
+  - 條件式存取
+  - 管理設備訪問
+  - 角色型存取控制 (RBAC)
+  - 外部存取的解決方案
+
+
+  #### 實驗室&#58; 使用條件訪問啟用 MFA
+  - MFA 身份驗證試行（特定應用程式需要 MFA）
+  - MFA 有條件訪問（完成 MFA 展開）
+
+  完成本單元後，學生將能夠&#58;
+  - 描述條件式存取的概念
+  - 描述和使用條件訪問策略。
+  - 計劃裝置合規性
+  - 配置條件式使用者和群組
+  - 配置基於角色的訪問控制
+
+
+  ### 模組  4&#58; 在 Microsoft 365 中安全性
+  本模塊說明了存在的各種網絡攻擊威脅。  然後，向您介紹用於緩解這些威脅的 Microsoft 解決方案。  該模組以 Microsoft 安全分數以及如何將其用於評估和報告您的組織安全性狀態的說明作為結束。
+  #### 課程
+  - 威脅向量和資料外洩
+  - 安全策略和原則
+  - Microsoft 365安全方案
+  - Microsoft Secure Score
+
+
+  #### 實驗室&#58; 使用 Microsoft 安全評分
+  - 在 Microsoft 365 安全中心中提高安全分數
+
+  完成本單元後，學生將能夠&#58;
+  - 描述攻擊者用來通過電子郵件破壞用戶帳戶的幾種技術。
+  - 描述攻擊者用來控制資源的技術。
+  - 列出使用 Exhange Online Protection 和 Office 365 ATP 可以避免的威脅類型。
+  - 描述安全分數的好處以及可以分析哪一種服務。
+  - 描述如何使用安全評分來識別當前 Microsoft 365 安全狀況的空白。
+
+
+  ### 模組 5&#58; 進階威脅防護
+  本模塊介紹了可用於 Microsoft 365 的各種威脅防護技術和服務。該模塊涵蓋透過 Exchange Online Protection，Azure 進階威脅防護和 Windows Defender 進階威脅防護進行的郵件保護。
+  #### 課程
+  - Exchange Online Protection
+  - Office 365 Advanced Threat Protection
+  - 管理安全附件
+  - 管理安全連結
+  - Azure Advanced Threat Protection
+  - Microsoft Defender Advanced Threat Protection
+
+
+  #### 實驗室&#58; 管理Microsoft 365安全服務
+  實作 ATP  政策
+
+  完成本單元後，學生將能夠&#58;
+  - 描述由 Exchange Online Protection 分析電子郵件時的反惡意程式碼管道。
+  - 描述如何使用安全附件封鎖電子郵件附件和文件中的零時差惡意程式碼。
+  - 描述安全鏈接如何保護用戶免受電子郵件和目標文檔中嵌入的惡意 URL 的侵害
+  - 配置 Azure 進階威脅防護
+  - 配置 Windows Defender ATP
+
+
+  ### 模塊 6&#58; 威脅管理
+  本模塊說明 Microsoft 威脅管理，它為您提供了評估和解決網絡威脅並製定響應方案的工具。您將學習如何使用針對 Microsoft 365 的安全性儀錶板和 Azure Sentinel。該模塊還說明和配置 Microsoft 高級威脅分析 。
+  #### 課程
+  - 使用安全性儀錶板
+  - Microsoft 365 威脅調查和響應
+  - 適用於 Microsoft 365 的 Azure Sentinel
+  - 配置進階威脅分析
+
+
+  #### 實驗室&#58; 使用攻擊模擬程式
+  - 進行模擬的魚叉式網絡釣魚攻擊
+  - 進行模擬密碼攻擊
+
+  完成本單元後，學生將能夠&#58;
+  - 描述如何使用 Threat Explorer 來調查威脅並幫助保護租用戶。
+  - 描述“安全儀表板”如何使 C 級管理人員洞悉主要風險和趨勢。
+  - 描述什麼是進階威脅分析（ATA）以及部署它需要哪些要求。
+  - 配置進階威脅分析。
+  - 使用 Microsoft 365 中的攻擊模擬器。
+  - 描述Azure Sentinel如何用於Microsoft 365。
+
+
+  ### 模組  7&#58; 行動性
+  該模塊著重於保護移動設備和應用程式。  您將了解移動設備管理以及它如何與 Microsoft Intune 一起使用。您還將了解如何將 Intune 和 Azure AD 用於保護移動應用程式。
+  #### 課程
+  - 計劃行動應用程式管理
+  - 計劃行動裝置管理
+  - 部署行動裝置管理
+  - 將裝置註冊到行動裝置管理
+
+
+  實驗室&#58; 為Intune設定Azure AD
+  - 開啟設備管理
+  - 為Intune設定Azure AD
+  - 建立Intune Policies
+
+  完成本單元後，學生將能夠&#58;
+  - 描述行動應用程式考慮事項。
+  - 使用 Intune 管理行動應用程式。
+  - 使用 MDM 管理裝置
+  - 配置 MDM 網域。
+  - 管理裝置安全性原則。
+  - 將裝置註冊到MDM。
+  - 配置裝置註冊管理員角色。
+
+
+  ### 模組 8&#58; 資訊保護
+  該模塊說明如何實施 Azure 信息保護和 Windows 信息保護。
+  #### 課程
+  - 信息保護概念
+  - Azure 資訊保護
+  - 進階資訊保護
+  - Windows 資訊保護
+
+
+  #### 實驗室&#58; 實施 Azure 信息保護和 Windows 信息保護
+  - 實作 Azure Information Protection
+  - 實作 Windows Information Protection
+
+  完成本單元後，學生將能夠&#58;
+  - 配置 Azure 資訊保護標籤和原則。
+  - 配置版權管理服務（RMS）範本的進階 AIP 服務設定。
+  - 計劃 Windows 資訊保護原則的部署。
+
+
+  ### 模塊 9&#58; 權限管理和加密
+  本模組說明 Exchange 和 SharePoint 中的資訊版權管理。該模塊還描述了用於保護消息的加密技術。
+  #### 課程
+  - 資訊版權管理
+  - 安全多用途網際網路郵件擴充
+  - Office 365 郵件加密
+
+
+  實驗室&#58;  配置 Office 365 郵件加密
+  - 配置 Office 365 郵件加密
+  - 驗證信息權限管理
+
+  完成本單元後，學生將能夠&#58;
+  - 描述各種 Microsoft 365 加密選項。
+  - 描述S / MIME的用法。
+  - 描述並啟用 Office 365 信件加密。
+
+
+  #### 模組 10&#58; 資料外洩防護
+  本模塊重點介紹 Microsoft 365 中的數據丟失防護。  您將了解如何創建策略、編輯規則以及自定義用戶通知以保護數據。
+  #### 課程
+  - 資料外洩防護說明
+  - 資料外洩防護原則
+  - 自訂 DLP 原則
+  - 創建 DLP 原則以保護文件
+  - 原則提示
+
+
+  #### 實驗室&#58; 實施數據丟失防護策略
+  - 管理 DLP 政策
+  - 測試MRM和DLP政策
+
+  完成本單元後，學生將能夠&#58;
+  - 描述資料外洩防護 (DLP)。
+  - 使用原則範本為常用資訊實作 DLP 原則。
+  - 配置保護內容的正確規則。
+  - 描述如何修改 DLP 原則的現有規則。
+  - 將使用者覆寫選項配置為 DLP 規則。
+  - 說明 SharePoint Online 如何從文件創建編目屬性。
+
+
+  ### 模組  11&#58; 雲端應用程式安全性
+  本模塊重點介紹 Microsoft 365 中的雲應用程式的安全性。  該模組將說明雲端探索，應用程式連線程式，原則和警示。您將學習這些功能如何保護您的雲應用程式。
+  #### 課程
+  - 雲端應用程式安全性說明
+  - 使用雲端應用程式安全性資訊
+
+  完成本單元後，學生將能夠&#58;
+  - 描述雲端應用程式安全性。
+  - 說明如何部署雲端應用程式安全性。
+  - 使用原則控制您的雲端應用程式。
+  - 使用雲端應用程式目錄。
+  - 使用雲端探索儀表板。
+  - 管理雲端應用程式權限。
+
+
+  ### 模塊 12&#58; Microsoft 365 中的合規性
+  本模組著重於 Microsoft 365中的資料控管。該模組將向您介紹合規性管理員並討論 般資料保護規範 (GDPR)。
+  #### 課程
+  - 計劃合規要求
+  - 在 Exchange Online 中建立道德管束
+  - 管理電子郵件中的保留
+  - 疑難排解資料控管
+
+  完成本單元後，學生將能夠&#58;
+  - 計劃安全性和合規性角色。
+  - 描述您需要為 GDPR 考慮的內容。
+  - 描述 Exchange 中的道德管束是什麼以及如何運作。
+  - 使用信箱中的保留標記
+  - 使用電子郵件訊息和電子郵件資料夾描述保留原則
+  - 說明如何計算元素的保留期限。
+  - 修復未按預期運行的保留策略。
+
+
+  ### 模組 13&#58; 封存和保留
+  本模組說明與 Microsoft 365（包括 Exchange 和 SharePoint）的資料保留和封存有關的概念。
+
+  #### 課程
+  - Microsoft 365中的封存
+  - Microsoft 365中的保留
+  - Microsoft 365 合規中心中的保留策略
+  - 在 Exchange 中實作封存和保留
+  - 在 SharePoint 中就地記錄管理
+
+
+  #### 實驗室&#58; 合規性和數據保留
+  - 初始化合規
+  - 配置保留標記和原則
+
+  完成本單元後，學生將能夠&#58;
+  - 描述就地封存和記錄管理之間的區別。
+  - 說明如何在 Exchange 中封存資料。
+  - 說明保留政策的運作方式。
+  - 創建保留原則。
+  - 啟用和停用就地封存。
+  - 創建有用的保留標記。
+
+
+  ### 模塊 14&#58; 內容搜索和調查
+  該模塊專注於內容搜索和調查。  該模塊介紹如何使用 eDiscovery 對 Microsoft 365 數據進行高級調查。同時涵蓋稽核紀錄，並討論 GDPR 資料主體要求。
+  #### 課程
+  - 內容搜索
+  - 稽核記錄調查
+  - 進階eDiscovery
+
+
+  #### 實驗室&#58; 管理Search and Investigations
+  - 調查您的 Microsoft 365 資料
+  - 進行數據主題請求
+
+  完成本單元後，學生將能夠&#58;
+  - 描述如何使用內容搜尋。
+  - 設計內容搜索。
+  - 配置搜索權限過濾。
+  - 配置稽核原則。
+  - 輸入搜尋稽核原則的條件。
+  - 描述 Microsoft 365 中的高級 eDiscovery。
+  - 查看高級 eDiscovery 事件日誌。
