@@ -1,7 +1,8 @@
----
+﻿---
 title: Microsoft 撤銷的認證 | Microsoft Docs
 description: Microsoft 撤銷的認證
 documentationcenter: NA
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
@@ -14,13 +15,37 @@ ms.author: micsullivan
 
 ## 規劃撤銷的認證
 
-尋找規劃在未來12個月內停用的認證。（後續的資訊可能會變更。) 
+尋找規劃在未來12個月內停用的認證。(後續的資訊可能會變更。) 
 
-[MCSA: Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retiring on June 30, 2020  
+[MCSA: Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;於 2020 年 6 月 30 日撤銷  
 
-[MCSE: 商務應用程式](https://www.microsoft.com/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Retiring on December 31, 2019  
+[MCSA: BI Reporting](https://www.microsoft.com/learning/mcsa-bi-reporting.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;於 2020 年 6 月 30 日撤銷  
 
-MCSA: CRM Dynamics Technical&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 於2019 年 12 月 31 日撤銷  
+[MCSA: SQL 2016 Database Admin](https://www.microsoft.com/learning/mcsa-sql2016-database-administration-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;於 2020 年 6 月 30 日撤銷  
+
+[MCSA: SQL 2016 BI Development](https://www.microsoft.com/learning/mcsa-sql2016-business-intelligence-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;於 2020 年 6 月 30 日撤銷  
+
+[MCSA: SQL 2016 Database Dev](https://www.microsoft.com/learning/mcsa-sql2016-database-development-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;於 2020 年 6 月 30 日撤銷  
+
+[MCSA: SQL Server 2012/2014](https://www.microsoft.com/learning/mcsa-sql-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;於 2020 年 6 月 30 日撤銷  
+
+[MCSA: Universal Windows Platform](https://www.microsoft.com/learning/mcsa-universal-windows-platform.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;於 2020 年 6 月 30 日撤銷  
+
+[MCSA: Web Applications](https://www.microsoft.com/learning/mcsa-web-applications-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;於 2020 年 6 月 30 日撤銷  
+
+[MCSA: Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;於 2020 年 6 月 30 日撤銷  
+
+[MCSA: Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;於 2020 年 6 月 30 日撤銷  
+
+[MCSD: App Builder](https://www.microsoft.com/learning/mcsd-app-builder-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;於 2020 年 6 月 30 日撤銷  
+
+[MCSE: Business Applications](https://www.microsoft.com/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;於 2020 年 6 月 30 日撤銷  
+
+[MCSE: Core Infrastructure](https://www.microsoft.com/learning/mcse-core-infrastructure.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;於 2020 年 6 月 30 日撤銷  
+
+[MCSE: Data Management & Analytics](https://www.microsoft.com/learning/mcse-data-management-analytics.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;於 2020 年 6 月 30 日撤銷  
+
+[MCSE: Productivity](https://www.microsoft.com/learning/mcse-productivity-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;於 2020 年 6 月 30 日撤銷  
 
 ## 撤銷的證書
 
@@ -30,27 +55,28 @@ MCSA: CRM Dynamics Technical&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 展開下列界面，按照類型和關聯停用日期檢閱停用認證清單。
 
-| 經 Microsoft 認證的 Solutions Developer                      |          |
+| Microsoft Certified Solutions Developer                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
 |                                          |          |
 
-| 經 Microsoft 認證的 Solutions Associate                      |          |
+| Microsoft Certified Solutions Associate                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSA: 雲端平台](https://www.microsoft.com/learning/mcsa-cloud-platform-certification.aspx)           | 2018 年 12 月 31 日 |
-| [MCSA: Azure 上的 Linux](https://www.microsoft.com/learning/mcsa-linux-azure-certification.aspx)            | 2018 年 12 月 31 日 |
-| [MCSA: Office 365](https://www.microsoft.com/learning/mcsa-office365-certification.aspx)               | 2019 年 4 月 30 日 |
-| [MCSA: Windows 10](https://www.microsoft.com/learning/mcsa-windows-10-certifications.aspx)              | 2019 年 4 月 30 日 |
-| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365.aspx)          | 2019 年 6 月 30 日 |
-| [MCSA: 機器學習](https://www.microsoft.com/learning/mcsa-machine-learning.aspx)                | 2019年6月30日 |
-| [MCSA: 使用Azure執行資料工程](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx)     | June 30, 2019   |
+| MCSA: CRM Dynamics Technical                                                                                                | 於 2019 年 12 月 31 日  |
+| [MCSA: Cloud Platform](https://www.microsoft.com/learning/mcsa-cloud-platform-certification.aspx)                     | 2018 年 12 月 31 日  |
+| [MCSA: Linux on Azure](https://www.microsoft.com/learning/mcsa-linux-azure-certification.aspx)                        | 2018 年 12 月 31 日  |
+| [MCSA: Office 365](https://www.microsoft.com/learning/mcsa-office365-certification.aspx)                              | 2019 年 4 月 30 日     |
+| [MCSA: Windows 10](https://www.microsoft.com/learning/mcsa-windows-10-certifications.aspx)                            | 2018 年 4 月 30 日     |
+| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365.aspx)                   | 2019 年 6 月 30 日      |
+| [MCSA: Machine Learning](https://www.microsoft.com/learning/mcsa-machine-learning.aspx)                               | 2019 年 6 月 30 日      |
+| [MCSA: Data Engineering with Azure](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx)         | 2019 年 6 月 30 日      |
 
 | Microsoft Certified Solutions Expert                                               |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSE: 雲端平台和基礎架構](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 2018年12月31日 |
-| [MCSE: 行動性](https://www.microsoft.com/learning/mcse-mobility-certification.aspx)                 | 2019年4月30日 |
+| [MCSE: Cloud Platfrom and Infrastructure](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 2018 年 12 月 31 日  |
+| [MCSE: Mobility](https://www.microsoft.com/learning/mcse-mobility-certification.aspx)                                 | 2019 年 4 月 30 日     |
 
-| Microsoft 技術助理                                           |          |
+| Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| MTA: 98-369: Cloud Fundamentals                                               | 2018 年9月30日 |
-| MTA: 98-380: 使用方塊字語言編程簡介 (Touch Develop)                      |2019年8月7日|
+| MTA: 98-369: Cloud Fundamentals                                               | 2019 年9月30日 |
+| MTA: 98-380: Introduction to Programming Using Block-Based Languages (Touch Develop)                      |2019年8月7日|
 ___

@@ -1,16 +1,17 @@
 ---
-title: 認證-測驗-策略 | Microsoft Docs
-description: 認證-測驗-策略
+title: 'certification-exam-policies | Microsoft Docs'
+description: 'certification-exam-policies' 
 documentationcenter: NA 
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 10/14/2019
 ms.author: micsullivan
 ---
-# 測驗規則和常見問題解答
+# 測驗政策和常見問題
 
-全世界的合作夥伴和客戶皆期盼 Microsoft 提供最高品質的測驗和認證。我們已擬定 Microsoft 認證測驗規定來支援認證規劃的目標，其中包括：
+全世界的合作夥伴和客戶皆期盼 Microsoft 提供最高品質的測驗和認證。我們已擬定 Microsoft Certification exam 規定來支援認證規劃的目標，其中包括：
 
 ## <a name="security-policies"></a> 安全與重考規定
 
@@ -42,7 +43,7 @@ Microsoft 制定了明確的規範內容來處理 Microsoft Certified Profession
 1. 應試者若要對其禁止處分進行申訴，可將申訴內容寄送至 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。
 2. 應試者可將原始成績單（非掃描檔或電子複本）寄至下列位址以因偽造成績單實行的禁止處分提出上訴：
 
-    Microsoft 全球學習安全小組  
+    Microsoft Worldwide Learning Security Team  
     One Microsoft Way  
     Redmond, WA 98052 
 
@@ -58,7 +59,7 @@ Microsoft 制定了明確的規範內容來處理 Microsoft Certified Profession
         - 姓名
         - 電子郵件
         - 考試编号
-    4. 若應試者達到測驗的合格分數，則應試者無法再次進行該測驗。Microsoft 保留为一些考試提供重考的權利。有觀可以每年重新考試的完整考試列表，請按下 [此處](https://www.microsoft.com/learning/exam-certification-retakes.aspx)。
+    4. 若應試者達到測驗的合格分數，則應試者無法再次進行該測驗。Microsoft 保留为一些考試提供重考的權利。有觀可以每年重新考試的完整考試列表，請按下 [此處](https://www.microsoft.com/learning/exam-certification-retakes.aspx).
 
 2. Microsoft Technology Associate (MTA) 與 Microsoft Certified Educator (MCE) 測驗重考規定
     1. 若是應試者第一次測驗時未能達到合格分數，應試者必須等候 24 小時才能再次進行測驗。
@@ -79,7 +80,7 @@ Microsoft 制定了明確的規範內容來處理 Microsoft Certified Profession
     2. 此規定的效力高於一般重考規定。
 5. 特定測驗重考規定例外事項
     1. 在部分情況下，Microsoft 得以針對特定測驗制定特定規定。
-    2. Microsoft 保留提供重考的权利。要查看每年可以重新参加的考試的完整清单，請按下 [here](https://www.microsoft.com/learning/exam-certification-retakes.aspx)。
+    2. Microsoft 保留提供重考的权利。要查看每年可以重新参加的考試的完整清单，請按下 [here](https://www.microsoft.com/learning/exam-certification-retakes.aspx).
 
 ### 測試中心基於安全因素而關閉
 
@@ -96,16 +97,24 @@ Microsoft 將會使用資料鑑識的結果作為來對應試者採取強制措�
 
 ### 國家/地區外應考
 
-**若要在印度、中國或巴基斯坦的 Pearson VUE 測驗中心參加 Microsoft 認證測驗，您必須是該國/地區的合法居民。如果您是該國/地區的合法居民，請注意下列事項：**
+**若要在印度、中國或巴基斯坦的 Pearson VUE 測驗中心參加 Microsoft Certification exam，您必須是該國/地區的合法居民。如果您是該國/地區的合法居民，請注意下列事項：**
 
 這三個國家/地區的測驗中心必須確認並記錄各個 Microsoft 認證應試者已出示文件證明，表示自己為該國的合法居民。為證明所居住國家/地區，應試者必須提供兩種正本（非影本）且有效（未過期）的身分證明，其一主要身分證明（政府核發附姓名、相片及簽名的身分證明），另一是次要身分證明（附姓名和簽名的身分證明）。
 
-**重要須知：若是您並非印度、中國或巴基斯坦的合法居民，將無法於該國/地區參加 Microsoft 認證測驗。**
+**重要須知：若是您並非印度、中國或巴基斯坦的合法居民，將無法於該國/地區參加 Microsoft Certification exam。**
+
+### 針對斯洛文尼亞公民或具有斯洛文尼亞公民身份的人的測試
+
+根據斯洛文尼亞的隱私法，Pearson VUE無法為居住在斯洛文尼亞或具有斯洛文尼亞公民身份的應試者提供在線監考考試。這些應試者可以在Pearson VUE測試中心（PVTC）參加考試。
+
+- 對於_居住_在斯洛文尼亞的應試者，在安排考試時只有考試中心提供的考試才可以選擇。
+
+- 對於居住在斯洛文尼亞境外的應試者，還可以選擇提供的在線監考考試，但是若他們出示斯洛文尼亞公民身份證明（護照或其他身份證明）作為身份證明時，他們將無法成功完成考試。這些應試者應在Pearson VUE測試中心（PVTC）安排考試。
 
 ### 應試者在 Microsoft 要求下進行重新測驗
 
-1.Microsoft 保留隨時要求任何應試者因任何疑似詐騙的行徑或異常的測驗模式進行重新測驗之權利。
-2.重新測驗將於 Microsoft 與應試者雙方同意的時間以及 Microsoft 所挑選的機構進行。
+1. Microsoft 保留隨時要求任何應試者因任何疑似詐騙的行徑或異常的測驗模式進行重新測驗之權利。
+2. 重新測驗將於 Microsoft 與應試者雙方同意的時間以及 Microsoft 所挑選的機構進行。
 
 ### 撤銷認證
 
@@ -119,10 +128,10 @@ Microsoft 將會使用資料鑑識的結果作為來對應試者採取強制措�
 
 大約400人可以降低費率參加beta測驗。要利用此降低的費率，您需要一個beta代碼，在註冊期間必須輸入您付款的一部分。要獲得此代碼，您可以：
 
-1. 加入我們的SME檔案資料庫。技能與測驗內容區域相一致的成員將收到一封包含此代碼的電子郵件；此代碼對於此組是唯一的。（截至2018年3月，SME 個人檔案資料庫規劃現在 [Microsoft Collaborate](https://aka.ms/collaborate) 託管。參見部落格文章 [幫助我們創建考試和學習內容！](https://borntolearn.mslearn.net/b/weblog/posts/help-us-create-exams-and-learning-content-join-our-sme-database-today) Join our SME Database Today!)
-2. 查看我們的社區部落格，瞭解有關即將推出的beta 考試。这些貼文將包含在考試中获得折扣的代码。这些貼文通常在beta 考試開始註冊當天發佈。此代碼與發送給屬於我們資料庫一部分的 SME 的代碼不同。
+1. 加入我們的SME檔案資料庫。技能與測驗內容區域相一致的成員將收到一封包含此代碼的電子郵件；此代碼對於此組是唯一的。如果您是我們SME數據庫的成員，則要想早日訪問测试版（beta），您必須更新您的個人資料，因為我們的目標是將這些代碼分配給具有與新考試相關技能的人員。SME 個人檔案資料庫規劃現在  [Microsoft Collaborate](https://aka.ms/collaborate)託管。參見部落格文章 [幫助我們創建考試和學習內容！](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375069) Join our SME Database Today!)
+2. 觀看Microsoft Learn或我們的[社群部落格](https://www.microsoft.com/en-us/learning/community-blog.aspx)上的公告，以獲取有關即將進行的测试版（beta）考試的资讯。这些貼文將包含在考試中获得折扣的代码。这些貼文通常在beta 考試開始註冊當天發佈。此代碼與發送給屬於我們資料庫一部分的 SME 的代碼不同。
 
-請注意，座位數量有限，先到先得。
+請注意，席位有限，先到先得，並且出於安全原因，中國，印度，巴基斯坦或土耳其无法提供测试版（beta）考試。
 
 為了感謝您參與測試過程，您將在考試上線後大約6周内收到 Pearson VUE 的25％折扣優惠券。这些優惠券由VUE提供，並發送到您在註冊考試時使用的電子郵件地址。如果您在考試開始後的6周内没有收到25％折扣券，請發送電子郵件至 [pvamericascustomerservice@pearson.com](mailto:pvamericascustomerservice@pearson.com)。
 
@@ -136,14 +145,14 @@ Microsoft 將會使用資料鑑識的結果作為來對應試者採取強制措�
 
 1. 用 Microsoft 帳戶認證登入。
 2. 從頁面最上方的 **帳戶** 功能表選取 **設定檔設定** 。
-3. 在 **工作職能** 選單中，選擇或確保您已選擇“學生”。
-4. 留意出現在 **工作職能** 表旁的學術定價通知。如果學生身分尚未驗證，請按一下“取得驗證”驗證身分。
+3. 在 **工作職能** 選單中，選擇或確保您已選擇"學生"。
+4. 留意出現在 **工作職能** 表旁的學術定價通知。如果學生身分尚未驗證，請按一下"取得驗證"驗證身分。
 
 ### 在註冊測驗時申請學生身分
 
 1. 用 Microsoft 帳戶認證登入。
 2. 在要註冊的測驗上按一下 **排定測驗**。
-3. 在 **確認測驗註冊詳細資訊** 頁面上，確定 **工作職能** 欄位顯示“學生 – 已驗證”。如果沒有顯示，請按一下“取得驗證”以驗證身分，或是按一下“編輯”變更身分。
+3. 在 **確認測驗註冊詳細資訊** 頁面上，確定 **工作職能** 欄位顯示"學生 – 已驗證"。如果沒有顯示，請按一下"取得驗證"以驗證身分，或是按一下"編輯"變更身分。
 
 ### 驗證學術身分
 
@@ -157,25 +166,25 @@ Microsoft 將會使用資料鑑識的結果作為來對應試者採取強制措�
 
 ## 保密合約
 
-更新日期：2018 年 5 月
+Updated: 2018 年 5 月
 
-### MICROSOFT 認證測驗協定
+### MICROSOFT CERTIFICATION EXAM 協定
 
-**請仔細閱讀本 MICROSOFT 認證考試協定（“協定”）。按下“是”按鈕，即表示您認可您有權簽署本協定，並且您同意本協定中的所有條款和條件。如果您不同意，請選擇“否”。您必须選擇“是”才能参加 MICROSOFT 認證考試。**
+**##請仔細閱讀本 MICROSOFT CERTIFICATION EXAM 協定（"協定"）。按下"是"按鈕，即表示您認可您有權簽署本協定，並且您同意本協定中的所有條款和條件。如果您不同意，請選擇"否"。您必须選擇"是"才能参加 MICROSOFT CERTIFICATION EXAM。**
 
-您（“**您**”或“**您的**”）与 Microsoft Corporation（“***Microsoft***”）之間的本協議在您接受之日签订。
+您（"**您**" 或 "**您的**"）与 Microsoft Corporation（"***Microsoft***"）之間的本協議在您接受之日签订。
 
 1. **機密性**
 
-    維持 Microsoft 認證測驗的機密性有助於保持 Microsoft 認證的價值，並有助於確保只有合格的個人才能獲得認證。
+    維持 Microsoft Certification Exam 的機密性有助於保持 Microsoft 認證的價值，並有助於確保只有合格的個人才能獲得認證。
 
     此測驗試是Microsoft保密和機密資訊，受智慧產權法保護。它僅供您測試您在測驗主題方面的知識和能力。
 
-    嚴格禁止披露考試或與考試相關的資訊，包括考試题目、答案、内容、計算、图表、圖纸或工作表（“***考試相關資訊***”）。您不得以任何形式或透過現在已知或以後設計的任何方式全部或部分揭，分發，複製，展示，出版，概述，拍攝，記錄，下載，傳播或張貼測驗或任何測驗相關資訊。
+    嚴格禁止披露考試或與考試相關的資訊，包括考試题目、答案、内容、計算、图表、圖纸或工作表（"***考試相關資訊***"）。您不得以任何形式或透過現在已知或以後設計的任何方式全部或部分揭，分發，複製，展示，出版，概述，拍攝，記錄，下載，傳播或張貼測驗或任何測驗相關資訊。
 
 2. **應試者行為策略**
 
-    您不會參與任何可能危及任何Microsoft認證測驗的機密性或結果的行為。監考官有權對違反測驗規則的個人採取即時和適當的措施。您可能被禁止參加任何Microsoft認證測驗，如果Microsoft認為您違反本協定或從事任何不當行為並且不會提供測驗退費，則您的測驗成績可能會無效。不當行為的範例包括：
+    您不會參與任何可能危及任何Microsoft Certification Exam 的機密性或結果的行為。監考官有權對違反測驗規則的個人採取即時和適當的措施。您可能被禁止參加任何Microsoft認證測驗，如果Microsoft認為您違反本協定或從事任何不當行為並且不會提供測驗退費，則您的測驗成績可能會無效。不當行為的範例包括：
 
     - 以任何形式或任何方式提供存取，揭露，分發，複製，拍攝，記錄，下載，張貼，顯示，發布或傳輸任何測驗或測驗相關資訊。
     - 歪曲您的身份或冒充他人。
@@ -193,9 +202,9 @@ Microsoft 將會使用資料鑑識的結果作為來對應試者採取強制措�
 
 3. **測驗規定**
 
-    您自行負責瞭解並遵守位於 [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx) 的 Microsoft 認證規定和程式，以及測驗辦理單位的規定和程式。
+    您自行負責瞭解並遵守位於 [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx) 的 Microsoft Certification exam 定和程式，以及測驗辦理單位的規定和程式。
 
-    您可以在 [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx) 位置檢視Microsoft 測驗重考規定以及其他Microsoft測驗和測驗程式。您可以在測驗辦理單位的網站上了解有關測驗辦理單位規定和程式的更多資訊。
+    您可以在 [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx) 位置檢視Microsoft Exam 重考規定以及其他Microsoft Exam 和測驗程式。您可以在測驗辦理單位的網站上了解有關測驗辦理單位規定和程式的更多資訊。
 
     您参加考試後有三十（30）天的時間質疑该考試的考試成績。
 
@@ -218,7 +227,7 @@ Microsoft 將會使用資料鑑識的結果作為來對應試者採取強制措�
         - 學術機構購買了憑券，然後向學生或員工發放憑券，或者
         - 學術機構或政府組織營運測驗測驗中心，並沒有向您收取獨立的測驗費用。
         - 一個政府機構，根據完成條件提供訓練津贴，並遵循 Microsoft 確定的驗證流程。
-    6. 如果资金是通过政府機構提供的，則可以與資助您的考試的實體分享您的考試成績和您的個人資訊，該政府機構根據完成條件提供訓練津貼，並遵守 Microsoft 確定的驗證流程。
+    6.如果资金是通过政府機構提供的，則可以與資助您的考試的實體分享您的考試成績和您的個人資訊，該政府機構根據完成條件提供訓練津貼，並遵守 Microsoft 確定的驗證流程。
 
     如需了解有關 Microsoft 的資料收集和使用方式的更多資訊，請訪問 [https://privacy.microsoft.com](https://privacy.microsoft.com/)。若要進一步瞭解測驗辦理單位收集與使用資料的做法，請聯絡您的測驗辦理單位。
 
@@ -228,36 +237,37 @@ Microsoft 將會使用資料鑑識的結果作為來對應試者採取強制措�
 
 7. **擁有權和著作權所有，並保留一切權利**
 
-    7.1. **所有權**。Microsoft擁有並保留Microsoft認證測驗中的所有權利，所有權和利益。
+    7.1. **所有權**。Microsoft擁有並保留Microsoft Certification exam 中的所有權利，所有權和利益。
 
-    7.2. **補償**。除了按照法律或這份合約所提供的任何其他權利與補償外，Microsoft 在此明確保留所有因為違反這份合約及/或侵犯 Microsoft 的任何智慧財產權而引發的合法和公平的補償。
+    7.2. **補救措施**。除了按照法律或這份合約所提供的任何其他權利與補償外，Microsoft 在此明確保留所有因為違反這份合約及/或侵犯 Microsoft 的任何智慧財產權而引發的合法和公平的補償。
+
 
 ## Microsoft 認證規劃合約
 
-這份 Microsoft 認證規劃合約 (下稱 **“合約”**) 為您 (下稱 **“您”** 或 **“您的”**) 與 Microsoft (下稱 **“Microsoft”**) 之間關於您參與 Microsoft 認證規劃（下稱 **“規劃”**）的法律文件。本合約的條款適用於 (a) 您獲得的任何 Microsoft 認證，以及 (b) 您參與規劃的相關事宜，包括存取與使用由 Microsoft 在規劃中提供給您的任何 Microsoft 認證規劃權益和 Microsoft 認證標誌。請仔細閱讀本合約。若存取或使用 Microsoft 認證規劃權益或 Microsoft 認證證明，即表示您接受本合約的條款與條件。若您不同意本合約，請勿存取或使用任何 Microsoft 認證規劃權益 或 Microsoft 認證證明。
+這份 Microsoft 認證規劃合約 (下稱 **"合約"**) 為您 (下稱 **"您"** 或 **"您的"**) 與 Microsoft (下稱 **"Microsoft"**) 之間關於您參與 Microsoft 認證規劃（下稱 **"規劃"**）的法律文件。本合約的條款適用於 (a) 您獲得的任何 Microsoft 認證，以及 (b) 您參與規劃的相關事宜，包括存取與使用由 Microsoft 在規劃中提供給您的任何 Microsoft 認證規劃權益和 Microsoft 認證標誌。請仔細閱讀本合約。若存取或使用 Microsoft 認證規劃權益或 Microsoft 認證證明，即表示您接受本合約的條款與條件。若您不同意本合約，請勿存取或使用任何 Microsoft 認證規劃權益 或 Microsoft 認證證明。
 
 1. 定義
 
-   1. “***附属公司***” 表示一方拥有或通常归属于一方的法律实体。「擁有」係指持有 50% 以上的所有權，或是有權主導實體的管理。
-   2. “***Microsoft Certified Professional 網站***”係指專供 Microsoft Certified Professional 使用的 Microsoft 網站。
-   3. “***Microsoft***”係指 12.4 節中所指明的 Microsoft 實體。
-   4. “***Microsoft 認證***” 係指通過必要的測驗，且達到並持續符合使用對應認證或標誌的所有認證和重新認證要求。目前的 Microsoft 認證清單位於 [Microsoft Certifications](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)。
-   5. “***Microsoft認證證書***”（簡稱“***證書***”）表示特定 Microsoft 認證的完整標题或縮寫標題，用於表示個人符合特定 Microsoft 認證的要求。
-   6. “***Microsoft 認證考試***”(简称"考試”)旨在证实個人与特定 Microsoft 技术考試主题相关的技能。
+   1. "***附属公司***" 表示一方拥有或通常归属于一方的法律实体。「擁有」係指持有 50% 以上的所有權，或是有權主導實體的管理。
+   2. "***Microsoft Certified Professional 網站***" 係指專供 Microsoft Certified Professional 使用的 Microsoft 網站。
+   3. "***Microsoft***" 係指 12.4 節中所指明的 Microsoft 實體。
+   4. "***Microsoft 認證***" 係指通過必要的測驗，且達到並持續符合使用對應認證或標誌的所有認證和重新認證要求。目前的 Microsoft 認證清單位於 [Microsoft Certifications](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)。
+   5. "***Microsoft認證證書***"（簡稱 "***證書***"）表示特定 Microsoft 認證的完整標题或縮寫標題，用於表示個人符合特定 Microsoft 認證的要求。
+   6. "***Microsoft Certification Exam***" 要么 "***Exam***" 旨在证实個人与特定 Microsoft Certification exam.主题相关的 Exam.
 
-2. MICROSOFT 認證
-   1. *取得及維持 Microsoft 認證*：若要取得及維持 Microsoft 認證，您必須：
+2. MICROSOFT CERTIFICATION
+   1. *取得及維持 Microsoft Certification*：若要取得及維持 Microsoft Certification，您必須：
 
-        1. 針對適用的 [Microsoft 認證](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based) 通過所有必要測驗，並且滿足所有認證和重新認證要求，
+        1. 針對適用的 [Microsoft Certification](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based), 通過所有必要測驗，並且滿足所有認證和重新認證要求，
         2. 接受這份合約中的條款與條件，
         3. 遵循最新版本之本合約與所有規劃要求的條款與條件，以及
-        4. 符合適用之 Microsoft 認證的所有其他要求。
+        4. 符合適用之 Microsoft Certification 的所有其他要求。
 
-   2. *Microsoft 認證要求的變更*：Microsoft may, at its sole discretion, change the Microsoft Certification requirements (both initial and continuing) at any time by posting such changes on the [Microsoft training and certification website](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based) 或在[Microsoft認證網站](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based).自 Microsoft 張貼變更內容的日期起，您將需在三 (3) 個完整行事曆月內遵循任何其他要求。若您未能遵循特定認證的任何其他相關認證和重新認證要求，您使用該特定認證的權利將會終止。
+   2. *Microsoft Certification 要求的變更*：Microsoft可以隨時自行決定更改認證要求（包括初次認證和後續認證），將此變動發佈在[Microsoft培訓和認證網站](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)或[Microsoft認證網站](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based).自 Microsoft 張貼變更內容的日期起，您將需在三 (3) 個完整行事曆月內遵循任何其他要求。若您未能遵循特定認證的任何其他相關認證和重新認證要求，您使用該特定認證的權利將會終止。
 
    3. *違反測驗合約*
 
-        1. 所有 Microsoft 認證測驗，包括測驗問題及解答，構成 Microsoft 機密資訊，並受營業秘密法及 Microsoft 認證測驗保密合約暨一般使用條款（下稱“***測驗合約***”）的保護，不得揭露或與他人討論，或是在任何論壇或經由任何媒介張貼或發佈。
+        1. 所有 Microsoft 認證測驗，包括測驗問題及解答，構成 Microsoft 機密資訊，並受營業秘密法及 Microsoft 認證測驗保密合約暨一般使用條款（下稱 "***測驗合約***"）的保護，不得揭露或與他人討論，或是在任何論壇或經由任何媒介張貼或發佈。
 
         2. 若 Microsoft 認定您違反測驗合約，或涉及詐騙或不當行為，進而可能以任何方式減損或危及規劃的安全性與完整性，則您的認證可能會遭到取消、終止參加規劃的資格，且永遠不得參與規劃。
 
@@ -287,8 +297,8 @@ Microsoft 將會使用資料鑑識的結果作為來對應試者採取強制措�
 
         1. 您同意 (i) 避免可能會傷害 Microsoft 商譽的行為；(ii) 避免欺騙、誤導或不道德的做法；(iii) 不代表 Microsoft 對客戶做出任何表述、擔保或保證；(iv) 遵循所有適用的美國出口規範與其他適用的政府法律與規定；以及 (v) 遵循著作權與其他智慧財產權和專利權保護。
         2. 除表明自己已成功完成已取得之特定認證的所有要求外，您不得以任何方式公告、宣傳、暗示或使人聯想您受僱於 Microsoft、附屬於 Microsoft 旗下、由 Microsoft 背書，或由 Microsoft 贊助。在本合約的效期範圍內，如有提供與 Microsoft 技術相關的服務，請在各份服務合約中插入下列文字：
-    
-             “*Microsoft 並非本合約之一方，就本合約所述之服務，Microsoft 不負任何責任。Microsoft 認證證明表示本人已成功完成對應之 Microsoft 認證證明的要求。本人提供的服務並非由 Microsoft 背書或贊助。*”
+
+             "*Microsoft 並非本合約之一方，就本合約所述之服務，Microsoft 不負任何責任。Microsoft 認證證明表示本人已成功完成對應之 Microsoft 認證證明的要求。本人提供的服務並非由 Microsoft 背書或贊助。*"
         3. 部分州與國家/地區對於「工程師」一詞的使用設有規範，若您取得與 Microsoft Certified Systems Engineer 相關的任何認證，應遵守任何適用的該等法律。
 
    2. *成績證明*：您應負責檢閱您的 Microsoft 認證成績證明，確定其正確反映您目前持有的認證。若您確信您的成績證明有錯誤，在通過有疑義之認證的最後一項必要測驗以取得或保有認證起的一年 (1) 內，您應提交要求給 Microsoft，請求評估是否完成您確信目前應持有但並未出現在成績證明上的任何認證。
@@ -306,7 +316,7 @@ Microsoft 將會使用資料鑑識的結果作為來對應試者採取強制措�
    在適用法律允許的最大範圍內，對於規劃 (無論是規劃權益、規劃終止或其他情況)、您的 MICROSOFT 認證、未能取得 MICROSOFT 認證或使用或無法使用認證而引發或與之相關的任何直接、間接、特殊、附帶、衍生性、懲罰性或懲戒性損害，MICROSOFT 及其關係企業概不負責。無論該類損害之賠償要求所依據的法律理論為何，都將適用此排除條款，即便先前已向該方提出該類損害之可能性的建議，情況亦然。
 
 
-10. 年。補償
+10. 補償
 
     對於 (a) 您參與規劃；(b) 您使用任何認證的方式不符合本合約條款的規定；(c) 您的服務的績效、宣傳、販售或散佈；或 (d) Microsoft 依據本合約條款終止本合約等原因而引發、牽連或與之相關的任何第三方索賠、要求、訴訟費、法律責任、審判、損失、費用及損害賠償 (下稱 ***索賠*** ) (包括律師的訴訟費與費用)，您同意補償 Microsoft 及其關係企業、為其辯護並使其免於承擔損害。若 Microsoft 依此條款向您要求補償，Microsoft 會及時以書面方式通知您，告知向 Microsoft 提出、Microsoft 所要求補償的索賠，且 Microsoft 得自行決定允許您透過 Microsoft 接受的律師針對該等索賠進行回應與辯護。未經 Microsoft 事先書面許可，您不得代表 Microsoft 解決任何索赔，Microsoft 亦將不會無理拒绝授予此類許可；在未獲得 Microsoft 事先書面許可的情况下，您不得公布索賠的解決情况。對於該等索賠，Microsoft 保留權利，得選擇取得完整辯護控制權，並得以自行選擇其法律諮詢。若是情況依此發展，此等索賠的和解若須您支付款項，均需要取得您的事先書面核准。對於 Microsoft 在辯護該等索賠所引起之任何合理支出，包括但不限於律師費與其他費用，以及前文提及之索賠的任何審判或和解，您會應要求對 Microsoft 做出補償。
 
@@ -362,28 +372,28 @@ Microsoft 將會使用資料鑑識的結果作為來對應試者採取強制措�
            Microsoft Regional Sales Corporation   
            438B Alexandra Road #04-09/12   
            Block B, Alexandra Technopark   
-           新加坡 119968   
+           Singapore 119968   
 
        4. 日本 Microsoft 實體：   
 
            Microsoft Japan Company, Limited   
            Shinagawa Grand Central Tower   
            2-16-3, 2 Konan, Minato-ku,   
-           東京 108-0075   
+           Tokyo 108-0075   
            日本
 
        5. 台灣 Microsoft 實體：   
 
            Microsoft Taiwan Corporation   
            8F, No 7, Sungren Rd.   
-           Shinyi Chiu，台北   
-           台灣 110  
+           Shinyi Chiu, Taipei   
+           Taiwan 110  
 
        6. 中國 Microsoft 實體：   
 
            Microsoft (China) Company Limited6F Sigma Center   
            No. 49 Zhichun Road Haidian District   
-           中國北京 100080   
+           Beijing 100080, P.R.C   
 
        7. 韓國 Microsoft 實體：   
 
@@ -391,7 +401,7 @@ Microsoft 將會使用資料鑑識的結果作為來對應試者採取強制措�
            5th Floor, West Wing   
            POSCO Center   
            892 Daechi-Dong Gangnam-Gu   
-           韓國首爾 135-777 
+           Seoul, 135-777, Korea 
 
     5. *適用法律*本合約適用的法律、管轄權與管轄法院如下所述。此等管轄權和審判法院的選擇不阻礙針對違反智慧財產權、保密義務，或強制執行認可任何裁決或命令尋求禁制令救濟。禁制令救濟或強制執行認可得在任何適當的管轄區尋求。
         1. **一般**：除第 12.5(b) 節規定外，本合約之管轄應依美國華盛頓州的法律。如受聯邦管轄，則合約各方同意華盛頓州國王郡 (King County, Washington) 的聯邦法院擁有專屬管轄權與管轄法院，並以其作為唯一的審判機關。如不受聯邦管轄，則合約各方同意華盛頓州國王郡高等法院 (Superior Court of King County, Washington) 擁有專屬管轄權與管轄法院，並以其作為唯一的審判機關。
@@ -423,7 +433,7 @@ Microsoft 將會使用資料鑑識的結果作為來對應試者採取強制措�
 
     9. *轉讓*：您不會以任何方式將本合約或本合約所授予之權利轉讓、讓渡或轉授權，而任何嘗試依法或以其他方式進行的轉讓、讓渡或轉授權概屬無效。
 
-更新日期：2013 年 12 月
+Updated: 2013 年 12 月
 
 ## 如何申請某些認證和專業课程的學分
 
@@ -431,67 +441,47 @@ Microsoft 將會使用資料鑑識的結果作為來對應試者採取強制措�
 
 **Microsoft認證測驗**
 
-[AZ-100: Microsoft Azure 基礎結構和部署](https://www.microsoft.com/learning/exam-AZ-100.aspx)
+[AZ-100: Microsoft Azure Infrastructure and Deployment](https://www.microsoft.com/learning/exam-AZ-100.aspx)
 
-[AZ-101: Microsoft Azure 整合和安全性](https://www.microsoft.com/learning/exam-AZ-101.aspx)
+[AZ-101: Microsoft Azure Integration and Security](https://www.microsoft.com/learning/exam-AZ-101.aspx)
 
-[AZ-103: Microsoft Azure 管理員](https://www.microsoft.com/learning/exam-az-103.aspx)
+[AZ-103: Microsoft Azure Administrator](https://www.microsoft.com/learning/exam-az-103.aspx)
 
-AZ-200: Microsoft Azure 開發人員核心解決方案
+AZ-200: Microsoft Azure Developer Core Solutions
 
-AZ-201: Microsoft Azure 開發人員高级解決方案
+AZ-201: Microsoft Azure Developer Advanced Solutions
 
-[AZ-203: 為 Microsoft Azure 開發解決方案](https://www.microsoft.com/learning/exam-AZ-203.aspx)
+[AZ-203: Developing Solutions for Microsoft Azure](https://www.microsoft.com/learning/exam-AZ-203.aspx)
 
-[AZ-300: Microsoft Azure 架構師技術](https://www.microsoft.com/learning/exam-AZ-300.aspx)
+[AZ-300: Microsoft Azure Architect Technologies](https://www.microsoft.com/learning/exam-AZ-300.aspx)
 
-[AZ-301: Microsoft Azure 架構師設計](https://www.microsoft.com/learning/exam-AZ-301.aspx)
+[AZ-301: Microsoft Azure Architect Design](https://www.microsoft.com/learning/exam-AZ-301.aspx)
 
-[AZ-400: Microsoft Azure DevOps 解決方案](https://www.microsoft.com/learning/exam-AZ-400.aspx)
-
-**Microsoft 專業認證**
-
-Microsoft 專業認證：[人工智能憑證](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
-
-Microsoft 專業認證：[大數據憑證](https://academy.microsoft.com/en-us/professional-program/tracks/big-data/)
-
-Microsoft 專業認證：[資料科學憑證](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
-
-Microsoft 專業認證：[DevOps 憑證](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
-
-Microsoft 專業認證：[初階軟體開發憑證](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
-
-Microsoft 專業認證：[IT 支援憑證](https://academy.microsoft.com/en-us/professional-program/tracks/it-support/)
-
-Microsoft 專業認證：[資料分析憑證](https://academy.microsoft.com/en-us/professional-program/tracks/data-analysis/)
-
-Microsoft 專業認證：[IoT 憑證](https://academy.microsoft.com/en-us/professional-program/tracks/internet-of-things/)
-
-Microsoft 專業認證：[網路安全性憑證](https://academy.microsoft.com/en-us/professional-program/tracks/cyber-security/)
+[AZ-400: Microsoft Azure DevOps Solutions](https://www.microsoft.com/learning/exam-AZ-400.aspx)
 
 ### 申請學分的流程
 
 要申請學分，請執行以下操作：
 
-第 1 步：完成[應用程序](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU)並通過電子郵件將其發送給 **[Excelsior](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU)，並驗證您的憑據（下面提供了選項）。請勿將應用程式或電子郵件發送给 Microsoft**。
+第 1 步：完成[應用程序](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU)並通過電子郵件將其發送給 [Excelsior](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU)，並驗證您的憑據（下面提供了選項）。**請勿將應用程式或電子郵件發送给 Microsoft**。
 
 **驗證認證選項1 - 共享徽章：**
 
-- 第 2 步：登錄您的 [Microsoft 認證儀錶板](https://www.microsoft.com/learning/dashboard.aspx)
+- 第 2 步：Sign in on your [Microsoft Certification Dashboard](https://www.microsoft.com/learning/dashboard.aspx)
 
 - 第 3 步：轉到控制面板的徽章部分，然後按照步骤索取徽章（如果您尚未這樣做）
 
 - 第 4 步：按照步骤通过電子郵件共享您的徽章 [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)
 
-- 有關更多資訊，請參閱：[Microsoft 測驗與認證徽章](https://www.microsoft.com/learning/badges.aspx)
+- 有關更多資訊，請參閱：[Microsoft Exam and Certification Badges](https://www.microsoft.com/learning/badges.aspx)
 
 **驗證認證選項2 - 共享成績單：**
 
-- 第 2 步：登錄您的 [Microsoft 認證儀錶板](https://www.microsoft.com/learning/dashboard.aspx)
+- 第 2 步：Sign in on your [Microsoft Certification Dashboard](https://www.microsoft.com/learning/dashboard.aspx)
 
-- 第 3 步：轉到成績單部分，然後選擇“共享或下載”
+- 第 3 步：轉到成績單部分，然後選擇"共享或下載"
 
-- 第 4 步：選擇“共享”選項；輸入個人存取代碼並啟用“包含地址詳細資訊”；選擇“共享”
+- 第 4 步：選擇"共享"選項；輸入個人存取代碼並啟用"包含地址詳細資訊"；選擇"共享"
 
 - 第 5 步：複製並貼到網站上提供的以下資訊：
 
@@ -501,53 +491,58 @@ Microsoft 專業認證：[網路安全性憑證](https://academy.microsoft.com/e
 
 - 第 6 步：將資訊貼到電子郵件中並發送給[itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)
 
-如果您對Microsoft認證的此過程有疑問，請參閱本頁的“課程學分”常見問題解答部分。
-
-**MPP 跟踪結業證書的驗證：**
-
-- 第 2 步：登錄您的 [academy.microsoft.com 儀錶板](https://academy.microsoft.com/en-us/dashboard)
-
-- 第 3 步：複製並貼上 MPP Track 證書 URL 以共享指向您的官方證書的連結
-
-- 第 4 步：將 URL 貼到電子郵件中并發送到[itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu) 以及兩種形式的身份證明（姓名和地址，或姓名和出生日期）。
-
-參閱 [FAQs](https://academy.microsoft.com/en-us/professional-program/) , 如果您對MPP流程有更多疑問。
+如果您對Microsoft認證的此過程有疑問，請參閱本頁的"課程學分"常見問題解答部分。
 
 有關更多資訊，請瀏覽：[Microsoft 認證的 NCCRS 學分](http://www.nationalccrs.org/organizations/microsoft).
 
-下載：[成績單服務應用程式](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
+Download: [成績單服務應用程式](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## <a name="policies-5"></a> 對於 Microsoft 認證測驗題目提出異議
+## <a name="policies-5"></a> 對於 Microsoft Certification exam 題目提出異議
 
-[每道考試題目都經過仔細審查](https://www.microsoft.com/learning/certification-exams.aspx), 由一群技術與職責專家嚴謹檢閱，這些專家細究了各個題目的技術正確性、清晰度以及相關性。若您認為在 Microsoft 認證測驗中看到無效的特定問題，可以依照下列所述的步驟要求評估該問題。您必须在参加考試後30天内提交考試項目質疑表。
+Microsoft認證考試旨在確保通過考試並獲得我們認證的應試者在技能領域中展示出所需的技能熟練水平。每個Microsoft認證考試問題都會由技術和工作職能專家小組仔細審查，以確保技術準確、清晰且具有相關性。如果您認為Microsoft認證考試中的考題不正確，則可以通過考試考題挑戰過程來請求對該問題進行評估，該過程旨在幫助識別和糾正有問題的考題。但是，即使某個考題存在某種缺陷，我們也不能假設若考題沒有缺陷您就會正確回答考題，因此大多數考試都不會重新評分。在這種情況下，我們提供學生免費重新參加測驗的機會。
 
-**附註：** 請不要使用考試項目質疑流程来提供有關beta 考試問題的回饋。beta 考試問題通常会根據此過程中收到的回饋以某種方式 進行修改，並且可能會從問題庫中删除。如果您對策是考題有一些回饋意見，而在評論期間無法提供意見，請将您的回饋意見發送至 [mslcd@microsoft.com](mailto:mslcd@microsoft.com)。
+### 接受進行考試考題挑戰的標準：
 
-### 對測驗題目提出異議的步驟
+- 考試必須是在最近30個日曆日（而非工作日）內進行的。
+- 要求對分數進行審查。
+- 挑戰限於考試中的特定考題。
 
-1. 將您的考試項目質疑發佈到[Microsoft認證支持論壇](https://aka.ms/MCPForum)。
-2. 論壇代理将在1-2個工作日内提供**考試項目質疑表**供您填寫。該表格包括有關如何提交您的挑戰的具體信息。
-   - 只有在考試结束後30天内将完整的考試項目質疑表格提交给論壇代理，考試項目質疑才能得到受理。
-   - 对于将在6個月内停用的考試，不接受考試項目質疑。
-3. 在4-6周内，論壇代理将回饋您的考試题目質疑结果。
+### 不接受進行考試考題挑戰的標準：
 
-考試過程可帮助确定和纠正有問題的考题。在大多數情况下，不会对考試进行重新评分，因为 Microsoft 必须确保通过考試并且獲得我们的認證的考生證明其在跨技能领域具备所需的熟练程度。雖然某個題目在方面有瑕疵，但我們無法假定如果該題目沒有瑕疵，您就可以正確答覆該題。在這種情況下，我們提供應試者免費重新參加測驗的機會。
+- 對整個考試進行挑戰。
+- 基於學習材料（模擬測試，學習指南，培訓材料等）進行挑戰
+- 對某個問題是否適當進行挑戰。
+- 參加考試後的時間超過30個日曆日（而非工作日）才提交。
+- 基於測試中心遇到的技術問題進行挑戰。
+- 未通過此表格提交挑戰。
+- 對計分方法進行挑戰（例如，條形圖不能代表我的實際分數。）
+- 對考試形式進行挑戰（標準，分類，適應性）。
+- 對Beta考試進行挑戰。如果您對策是考題有一些回饋意見，而在評論期間無法提供意見，請将您的回饋意見發送至 [mslcd@microsoft.com](mailto:mslcd@microsoft.com)。 
 
-我們相當重視並依賴您所提供的意見，這些意見將可讓 Microsoft 認證測驗的盡可能地有和具有關聯性。
+### 考試考題挑戰流程：
 
-## 進行測驗時提供的特定無障礙設施
+1. 請查看我們接受和不接受考試考題挑戰的標準。
+2. 完成並提交[考試考題挑戰表](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u)。
+3. Microsoft認證團隊將審查您提交的內容是否完整。  
+   a. 如果不完整，將要求您提供更多信息。  
+   b. 如果完整，Microsoft認證團隊將進行審核。審核大約需要兩個星期。
+4. 審查完成後，您將收到結果通知。
+
+感謝您對幫助Microsoft認證考試盡可能地有效和具有相關性而感興趣。
+
+## <a name="special-accommodations-when-taking-exams"></a> 進行測驗時提供的特定無障礙設施
 
 ### 對於通過Pearson VUE進行的考試：
 
 如果您因為考試無法以您本地語言提供而需要延長時間，您可以透過提交 [英語為第二語言表單](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx) 來申請。請遵循表單上的指示。 
 
-如果您在測驗時需要特殊設備或其他無障礙設施，您可以透過[Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 使用其“合理調整申請系統” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) 申請無障礙設施。合理調整申請系統是一個安全的線上系統，用於請求無障礙設施和提交證明文件。
+如果您在測驗時需要特殊設備或其他無障礙設施，您可以透過[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 使用其"合理調整申請系統" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) 申請無障礙設施。合理調整申請系統是一個安全的線上系統，用於請求無障礙設施和提交證明文件。
 
-- 如果您是請求系統的首次使用者，則需要建立使用者名稱和密碼。要建立使用者名稱，請在登錄螢幕上點擊“註冊”連結請注意，系統要求您擁有一個有效的電子郵件帳號。
-- 因為需要您上載證明文件，所以 Pearson VUE 使用此安全系統。如果您還沒有這樣做，請給您的評估者（醫生，心理學家）一份有關您的身心障礙“評估者指南”(https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) 的副本。您的評估者應確保他/她提供的文件符合我們的準則。在大多數情況下，您的評估者將是心理學家或醫生，他們會進行一系列的心理，教育或醫學檢查，並為您提供診斷報告或詳細信的副本。
+- 如果您是請求系統的首次使用者，則需要建立使用者名稱和密碼。要建立使用者名稱，請在登錄螢幕上點擊"註冊"連結請注意，系統要求您擁有一個有效的電子郵件帳號。
+- 因為需要您上載證明文件，所以 Pearson VUE 使用此安全系統。如果您還沒有這樣做，請給您的評估者（醫生，心理學家）一份有關您的身心障礙[評估者指南](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) 的副本。您的評估者應確保他/她提供的文件符合我們的準則。在大多數情況下，您的評估者將是心理學家或醫生，他們會進行一系列的心理，教育或醫學檢查，並為您提供診斷報告或詳細信的副本。
 - **請允許 Pearson VUE 在10個工作日內檢閱您的資料。請據此計劃您的請求。**
-- 檢閱您的請求後，您將收到已確定的一封電子郵件 。確定信將出現在“合理調整申請系統”的“我的文件”部分。如果獲得核准，則確定信將提供安排接受無障礙設施測驗的說明。
-如果您對測驗無障礙設施決定不滿意，可以透過與“合理調整申請系統”中的確定信相同的部分單擊“請求上訴”按鈕對決定提出上訴。請完成並上傳點擊按鈕後出現的上訴表格。身心障礙專家檢閱所有上訴請求。
+- 檢閱您的請求後，您將收到已確定的一封電子郵件 。確定信將出現在"合理調整申請系統"的"我的文件"部分。如果獲得核准，則確定信將提供安排接受無障礙設施測驗的說明。
+如果您對測驗無障礙設施決定不滿意，可以透過與"合理調整申請系統"中的確定信相同的部分單擊"請求上訴"按鈕對決定提出上訴。請完成並上傳點擊按鈕後出現的上訴表格。身心障礙專家檢閱所有上訴請求。
 
 ### 透過 Certiport 提供的考試：
 
@@ -576,7 +571,7 @@ Microsoft 專業認證：[網路安全性憑證](https://academy.microsoft.com/e
 
 **測驗中會有多少個問題？**
 
-由於我們會隨時間而更新，以求符合技術工作角色的目前變化，所以測驗中的問題數會有所異動。大部分的 Microsoft 認證測驗包含 40 至 60 個問題；然而，實際數目可能可能因測驗而異
+由於我們會隨時間而更新，以求符合技術工作角色的目前變化，所以測驗中的問題數會有所異動。大多数 Microsoft 认证考试包含40-60个问题；但数量可能因考试而异。
 
 **我要進行的測驗會採用何種測驗形式與題型？**
 
@@ -593,7 +588,7 @@ Microsoft 專業認證：[網路安全性憑證](https://academy.microsoft.com/e
 | 包含實驗室的助理與專家工作角色測驗 | 180 分鐘| 210 分鐘
 | 由 Certiport 交付的 MTA 測驗| 45 分鐘| 50 分鐘
 | 由 VUE 交付的 MTA 測驗| 45 分鐘| 80 分鐘
-| 有 (含 Mb#-nnn 編號) 的 Dynamics 測驗 | 120 分鐘| 150 分鐘
+| 有 (含 MB#-nnn 編號) 的 Dynamics 測驗 | 120 分鐘| 150 分鐘
 | 所有其他 70-nnn 測驗 | 150 分鐘| 180 分鐘
 | MCSA 測驗| 120 分鐘| 150 分鐘
 | MCSE 測驗| 150 分鐘| 180 分鐘
@@ -610,7 +605,7 @@ Microsoft 專業認證：[網路安全性憑證](https://academy.microsoft.com/e
 
 **我該如何為測驗做準備？**
 
-若要準備測驗，最好的做法就是練習列於測驗詳細資料頁面上的技能。[瀏覽全部測驗](https://www.microsoft.com/learning/exam-list.aspx) 以查找您感興趣的那一個。實際操作技術的經驗是成功通過 Microsoft 認證測驗的必要關鍵。相關的微學習，線上課程和教師主導的課程旨在培養成功完成工作所需的技能，其中一部分將在測驗中進行評估。但是，由於測驗著重在這些技能的應用超出了這些課程所教授的內容，因此強烈建議在參加測驗之前除了訓練之外還要經驗或練習。要開始準備，請檢閱測驗詳細資料頁面的「評量的技能」部分，並對照測驗中所評量的項目評估自己的技能。最好的做法是實際執行所列工作 並注意遭遇的任何困難。請努力練習，直到您完全排除這些困難。
+若要準備測驗，最好的做法就是練習列於測驗詳細資料頁面上的技能。- [瀏覽全部測驗](https://www.microsoft.com/learning/exam-list.aspx) 以查找您感興趣的那一個。實際操作技術的經驗是成功通過 Microsoft 認證測驗的必要關鍵。相關的微學習，線上課程和教師主導的課程旨在培養成功完成工作所需的技能，其中一部分將在測驗中進行評估。但是，由於測驗著重在這些技能的應用超出了這些課程所教授的內容，因此強烈建議在參加測驗之前除了訓練之外還要經驗或練習。要開始準備，請檢閱測驗詳細資料頁面的「評量的技能」部分，並對照測驗中所評量的項目評估自己的技能。最好的做法是實際執行所列工作並注意遭遇的任何困難。請努力練習，直到您完全排除這些困難。
 
 很多應試者在為認證做準備時，都會與 Microsoft 認證培訓師合作。他們通常會建議應試者將學習重點放在以下步驟上：
 
@@ -618,31 +613,31 @@ Microsoft 專業認證：[網路安全性憑證](https://academy.microsoft.com/e
 - 列印該頁面的評量的技能部分。 
 - 檢閱整個列表。對每一個主題進行思考。如果您對某一個特定主題的瞭解非常完備，您可以把它重點顯示出來或者將其劃掉。 
 - 看一下還剩下哪些內容。現在，開始進行有目的的研究。對於每一個您未突出顯示的主題，搜尋網頁上的特定文章。
-    - 使用包括 docs.microsoft.com、msdn.microsoft.com、technet.microsoft.com 和 Office 365 支援中心在內的授權資源。
+  - 使用包括 docs.microsoft.com、msdn.microsoft.com、technet.microsoft.com 和 Office 365 支援中心在內的授權資源。
 
-您可能還想問其他人他們们如何執行這些任務，閱讀白皮書、MSDN 或 TechNet 以獲取考試中包含的任務的更多資訊，和/或查看“考試詳情”頁 面上“備考材料”一節中提供的資源。“考試詳情”頁面將連結到任何可用的線上课程、微學習、選項和入口網站，您可以在其中找到您所在地區的講師指導訓練選項。
+您可能還想問其他人他們们如何執行這些任務，閱讀白皮書、MSDN 或 TechNet 以獲取考試中包含的任務的更多資訊，和/或查看"考試詳情"頁 面上"備考材料"一節中提供的資源。"考試詳情"頁面將連結到任何可用的線上课程、微學習、選項和入口網站，您可以在其中找到您所在地區的講師指導訓練選項。
 
-此外，[Microsoft 官方實踐測試](https://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) 對於我們的一些認證測驗也可用。這些測驗可針對您表現出色與表現欠佳的特定領域提供詳細資訊。然而，通過練習測驗不保證您一定會通過認證測驗。
+此外，[Microsoft 官方實踐測試](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) 對於我們的一些認證測驗也可用。這些測驗可針對您表現出色與表現欠佳的特定領域提供詳細資訊。然而，通過練習測驗不保證您一定會通過認證測驗。
 
 如果您參加過該測驗但未通過，您可以將重心放在測驗表現最弱以及題目所佔百分比最高的內容領域，優先練習這些技能。
 
-**我要如何註冊 Microsoft 認證測驗？**
+**我要如何註冊 Microsoft Certification exam?**
 
 訪問 [測驗註冊頁面](https://www.microsoft.com/learning/certification-exams.aspx) 查找完整指示。
 
 **我是否必須以英文進行測驗？**
 
-Microsoft認證測驗有多種語言版本。然而，以英文而非其母語進行測驗的應試者可要求延長測驗時間。是否核准延長測驗時間需視情況而定。從 from [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 或 [Certiport](https://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm) 申請測驗無障礙設施。
+Microsoft認證測驗有多種語言版本。然而，以英文而非其母語進行測驗的應試者可要求延長測驗時間。是否核准延長測驗時間需視情況而定。從 [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 或 [Certiport](http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm) 申請測驗無障礙設施。
 
 **提供哪些配合身心障礙的措施？**
 
-Microsoft 致力於確保所有人員均可參加我們的測驗，包括任何身心障礙者。如需可用無障礙設施的清單，請造訪 [無障礙設施頁面](https://www.pearsonvue.com/accommodations/)。
+Microsoft 致力於確保所有人員均可參加我們的測驗，包括任何身心障礙者。如需可用無障礙設施的清單，請造訪 [無障礙設施頁面](http://www.pearsonvue.com/accommodations/)。
 
 **測驗的費用是多少？**
 
 專家和助理測驗通常需要165美元，但根據特定國家和地區的貨幣價值定價。測驗價格會變動。在某些國家與地區，可能需要支付額外的稅金。
 
-- 有關 Microsoft Office Specialist（MOS）的确切定价，請聯繫[Certiport](https://www.certiport.com/)。
+- 有關 Microsoft Office Specialist（MOS）的确切定价，請聯繫 [Certiport](http://www.certiport.com/)。
 
 對於所有其他測驗，請 [瀏覽全部測驗](https://www.microsoft.com/learning/exam-list.aspx) 並查找測驗頁面，其中包含了測驗的價格。
 
@@ -652,9 +647,9 @@ Microsoft 致力於確保所有人員均可參加我們的測驗，包括任何�
 
 **我要如何針對測驗問題或測驗使用經驗提交相關意見反應？**
 
-如果您對特定考題的技術準備性有任何疑問，請按照[測驗項目質疑](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5)表單 操作。
+如果您對特定考題的技術準備性有任何疑問，請按照[測驗項目質疑](#policies-5) 表單 操作。
 
-若要提報測驗時在測驗中心所發生的問題或技術性問題，請聯絡 [Pearson VUE](https://www.pearsonvue.com/microsoft/) 或 [Certiport](https://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)。
+若要提報測驗時在測驗中心所發生的問題或技術性問題，請聯絡 [Pearson VUE](http://www.pearsonvue.com/microsoft/) 或 [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)。
 
 要提供其他類型的回饋，請聯絡您的 [Microsoft 區域服務中心](https://www.microsoft.com/learning/help.aspx)。
 
@@ -682,21 +677,25 @@ Microsoft 致力於確保所有人員均可參加我們的測驗，包括任何�
 
 Microsoft 保留隨時因任何原因更新內容的權利，以維持我們認證的有效性與中立。這包括但不限於整合與技術變更相關的功能和特色，改變在工作角色中成功所需的技能等。
 
+附註：除非在所測技能或考試說明中另有說明，否則考試不涵蓋預覽功能。在大多數情況下，僅當功能為GA（通用）時，方會添加到考試中。
+
 **如何在新增新特色或功能或相關技術中的某些內容產生變化時，我如何知道測驗是否已更新呢？**
 
 如果/當發生這種情況時，我們更新測驗詳細資料頁面以通知應試者。另外，我們也會將該類更新資訊包含於我們的電子報、部落格以及其他適當的通訊管道；若您想掌握這類測驗內容變更，歡迎註冊此類通訊。
 
 因為我們與應試者有關測驗內容的主要溝通是透過測驗詳細資料頁面，當知道測驗內容因任何原因更新後，我們會在立即更新； 我們強烈建議您在準備參加測驗時定期檢閱看測驗詳細資料。
 
-如果您正在準備雲端式測驗，我們強烈建議您定期查看“測驗詳細資料”頁面，因為我們每兩個月會對這些測驗進行一次檢閱，並且可以更經常進行更新。
+如果您正在準備雲端式測驗，我們強烈建議您定期查看"測驗詳細資料"頁面，因為我們每兩個月會對這些測驗進行一次檢閱，並且可以更經常進行更新。
 
 Microsoft 保留隨時因任何原因更新內容的權利，以維持我們認證的有效性與中立。這包括但不限於整合與技術變更相關的功能和特色，改變在工作角色中成功所需的技能等。
+
+附註：除非在所測技能或考試說明中另有說明，否則考試不涵蓋預覽功能。在大多數情況下，僅當功能為GA（通用）時，方會添加到考試中。
 
 **當測驗更改時，訓練套件、書籍、課程工具以及其他測驗準備教材是否會隨之更新？**
 
 Microsoft 會盡一切努力在發生更改時保持訓練和測驗的一致性； 但這並非絕對。請記住，Microsoft 測驗的要旨並非為由 Microsoft 或任何第三方提供者所製作的任何準備或訓練產品進行研讀後測驗。我們的認證主要在於評量透過經驗培養的技能，應試者可透過任何方式取得這些技能。
 
-準備測驗的最佳做法是練習測驗詳細資料頁面中列於“評量的技能”部分的技能。實際操作技術的經驗是成功通過 Microsoft 認證測驗的必要關鍵。
+準備測驗的最佳做法是練習測驗詳細資料頁面中列於"評量的技能"部分的技能。實際操作技術的經驗是成功通過 Microsoft 認證測驗的必要關鍵。
 
 Microsoft 並不會檢閱由第三方所研發的學習教材，對於其內容以及是否有針對產品更新而加以更新等事宜，Microsoft 概不負責。若您有由第三方編譯的測驗準備教材相關之疑問與意見，請直接聯絡該出版社。
 
@@ -714,7 +713,7 @@ Microsoft 致力於確保將會於測驗中評量的所有技能都涵蓋於某�
 
 我們使用完全相符的字串。僅管我們嘗試納入所有可視為正確之格式與程式碼用法的變化，但仍可能有所遺漏。這也是為何我們涵蓋了數種檢查語法的方式。
 
-- 我們提供語法檢查程式，讓您能夠驗證在您解答中使用的程式碼語法（例如 SQL 指令）和數值（例如表格名稱和變數名稱）。任何語法錯誤都會出現在視窗中的**假查語法**按钮旁邊。您可以視需要多次變更程式碼並重新驗證語法。請注意，語法檢查程式不會驗證您回答題目的答案是否正確，而只會驗證語法的正確性。
+- 我們提供語法檢查程式，讓您能夠驗證在您解答中使用的程式碼語法（例如 SQL 指令）和數值（例如表格名稱和變數名稱）。任何語法錯誤都會出現在視窗中的 **假查語法** 按钮旁邊。您可以視需要多次變更程式碼並重新驗證語法。請注意，語法檢查程式不會驗證您回答題目的答案是否正確，而只會驗證語法的正確性。
 
 - 我們納入常用的命令關鍵字清單，以便您檢查拼字。這份一般清單僅供參考，因此不限於問題中使用的命令。
 - 我們設計的問題已盡量減少您必須從問題本身提供之語法來複製的語法數量。
@@ -833,7 +832,7 @@ Microsoft 測驗的設計是為了使得測驗總分可以用來做出通過/失
 
 不會。您在測驗一開始所接受的調查並不會影響測驗內容或計分。這只是我們的測驗心理計量學家採用的評估工具，以確保測驗在其使用週期中維持其品質、有效性以及嚴謹性。
 
-**我已通過第一個 Microsoft 認證測驗（於 Pearson VUE）。接下來該怎麼做？**
+**我已通過第一個 Microsoft Certification exam（於 Pearson VUE）。接下來該怎麼做？**
 
 恭喜您！要探索後續步驟和可用權益，請參閱您的[權益和測驗儀錶板](https://www.microsoft.com/learning/dashboard.aspx)。使用您用來註冊測驗的相同 Microsoft 帳戶登入。
 
@@ -845,21 +844,21 @@ Microsoft 測驗的設計是為了使得測驗總分可以用來做出通過/失
 
 **我可以在何處找到我需要加強之領域的相關資訊？**
 
-雖然 Microsoft 認證測驗會針對受試者需要進一步加強的領域提供評語，但測驗的用意並非在於提供詳細或診斷式評語。建議檢閱測驗詳細資料頁面的「評量的技能」部分，然後對照測驗中所評量的項目誠實地評估自己的技能。最好的做法是實際執行所列工作，並注意遭遇的任何困難。請努力練習，直到您完全排除這些困難。您也可以請教他人如何執行這些工作。對方執行工作的做法是否有所不同？瞭解他們為什麼要這樣做。閱讀白皮書、存取檔案以取得測驗中所包含之工作的額外相關資訊。探索提供於測驗詳細資料頁面“準備選項”中的資源，以及可在各個測驗詳情頁面底部找到的研究組。
+雖然 Microsoft 認證測驗會針對受試者需要進一步加強的領域提供評語，但測驗的用意並非在於提供詳細或診斷式評語。建議檢閱測驗詳細資料頁面的「評量的技能」部分，然後對照測驗中所評量的項目誠實地評估自己的技能。最好的做法是實際執行所列工作；請注意遭遇的任何困難。請努力練習，直到您完全排除這些困難。您也可以請教他人如何執行這些工作。對方執行工作的做法是否有所不同？瞭解他們為什麼要這樣做。閱讀白皮書、存取檔案以取得測驗中所包含之工作的額外相關資訊。探索提供於測驗詳細資料頁面"準備選項"中的資源，以及可在各個測驗詳情頁面底部找到的研究組。
 
-此外，[Microsoft 官方實踐測試](https://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) 對於我們的一些認證測驗也可用。這些測驗可針對您表現出色與表現欠佳的特定領域提供詳細資訊。然而，通過練習測驗不保證您一定會通過認證測驗。
+此外，[Microsoft 官方實踐測試](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) 對於我們的一些認證測驗也可用。這些測驗可針對您表現出色與表現欠佳的特定領域提供詳細資訊。然而，通過練習測驗不保證您一定會通過認證測驗。
 
 **測驗重考規定是怎樣的？**
 
-請參閱 [安全性和重考規定](https://www.microsoft.com/learning/certification-exam-policies.aspx#security-policies) ，以查看測驗重考規定。
+請參閱 [安全性和重考規定](#security-policies)，以查看測驗重考規定。
 
 **我能否要求重新評估我的分數？**
 
-重新評估您的分數不太可能改變您的通過/未通過狀態。因為 Microsoft 必須確保通過測驗並取得認證的應試者能夠在整體技能領域中的展現必要的能力程度，因此測驗的最終結果很少因為測驗結果的重新評估而有所異動。雖然某個題目在方面有瑕疵，但我們無法假定如果該題目沒有瑕疵，您就可以正確答覆該題。在這種情況下，我們提供應試者免費重新參加測驗的機會。若您對於特定項目的技術正確性有疑慮，請 [呈交線上申請](https://support.microsoft.com/zh-tw/getsupport?oaspworkflow=start_1.0.0.0&wf=0&wfName=capsub&productkey=visualstudio&locale=zh-tw&ccsid=636062745883333361)。項目挑戰表格將發送給您。
+重新評估您的分數不太可能改變您的通過/未通過狀態。因為 Microsoft 必須確保通過測驗並取得認證的應試者能夠在整體技能領域中的展現必要的能力程度，因此測驗的最終結果很少因為測驗結果的重新評估而有所異動。雖然某個題目在方面有瑕疵，但我們無法假定如果該題目沒有瑕疵，您就可以正確答覆該題。在這種情況下，我們提供應試者免費重新參加測驗的機會。若您對於特定項目的技術正確性有疑慮，請 [呈交線上申請](https://support.microsoft.com/en-us/getsupport?oaspworkflow=start_1.0.0.0&wf=0&wfName=capsub&productkey=visualstudio&locale=en-us&ccsid=636062745883333361)。項目挑戰表格將發送給您。
 
 **我要如何對測驗問題提出異議？**
 
-如果您認為 Microsoft 認證測驗的問題有錯誤，您可以利用項目異議表單要求評估該問題。 您可以在參加測驗後的30個日曆天內使用 [測驗項目質疑流程](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5)要求對該問題進行評估。評估流程可協助我們辨識並修正有疑問的問題並據此更新測驗。
+如果您認為 Microsoft Certification exam 的問題有錯誤，您可以利用項目異議表單要求評估該問題。 您可以在參加測驗後的30個日曆天內使用 [測驗項目質疑流程](#policies-5) 要求對該問題進行評估。評估流程可協助我們辨識並修正有疑問的問題並據此更新測驗。
 
 **Microsoft 員工是否會檢閱並評估我所質疑的測驗問題？**
 
@@ -909,35 +908,37 @@ Microsoft Certification Program 要求應試者必須先接受 NDA 的條款才�
 
 若您認為有網站或公司提供代考服務，請立即向 Microsoft 通報，寄送電子郵件至 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)
 
-**什麼是“題庫”？“題庫”是否合法？**
+**什麼是"題庫"？"題庫"是否合法？**
 
 就認證測驗而言，「題庫」是指由網站等來源所提供之以詐騙方式取得的認證測驗內容，其意圖為分享或販售給測驗應試者。題庫所包含的內容與測驗中所出現的項目完全相同或相當類似。因為這些測驗內容是透過詐騙方式取得的，所以使用這類資料準備測驗或於測驗時使用，即構成作弊行為。「題庫」提供者已違反 Microsoft 的智慧財產權與保密合約。
 
-**為什麼我需要對“題庫”網站與資料有所顧慮？**
+**為什麼我需要對"題庫"網站與資料有所顧慮？**
 
-如有應試者在知情或非知情的情況下記憶“題庫”中未經授權的內容，並藉以通過測驗，該名應試者將不具有效運用與管理 Microsoft 軟體或系統的必要技能。應試者的主管最終會發現應試者缺乏這些技術姓知識與技能，而採取適當行動。若 Microsoft 發現有應試者使用「題庫」網站準備測驗，Microsoft 將永遠禁止該名應試者參與任何後續 Microsoft 認證測驗，並可能取消其 Microsoft Certification Program 的資格。此外，如果情節符合，亦可能撤銷其測驗成績與認證。即使應試者並未意圖欺騙 Microsoft Certification Program，仍可能進行這些行為。
+如有應試者在知情或非知情的情況下記憶"題庫"中未經授權的內容，並藉以通過測驗，該名應試者將不具有效運用與管理 Microsoft 軟體或系統的必要技能。應試者的主管最終會發現應試者缺乏這些技術姓知識與技能，而採取適當行動。若 Microsoft 發現有應試者使用「題庫」網站準備測驗，Microsoft 將永遠禁止該名應試者參與任何後續 Microsoft 認證測驗，並可能取消其 Microsoft Certification Program 的資格。此外，如果情節符合，亦可能撤銷其測驗成績與認證。即使應試者並未意圖欺騙 Microsoft Certification Program，仍可能進行這些行為。
 
 許多「題庫」業者在他們所傳遞的訊息、產品的說明以及其用途中毫不掩飾其意圖，而其他同業的訊息與操作手法則較為低調。因此，應試者對於命中率超乎常理的測驗準備資料應特別注意。
 
-若您認為您發現有提供 Microsoft 內容的「題庫」網站，請向 Microsoft 通報，將電子郵件寄送至[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)
+若您認為您發現有提供 Microsoft 內容的「題庫」網站，請向 Microsoft 通報，將電子郵件寄送至 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)
+
 
 **測驗中心會有哪些類型的安全措施？**
 
-測驗中心必須嚴格執行所收到的安全規定，才能取得並維持其測驗中心執業資格。持續進行的視察可確保各間測驗中心維持由 Microsoft 與測驗辦理單位所制定的安全層級。此外，測驗中心的監考人均經過授權，可立即針對違反測驗規定的應試者採取適當措施。若需應試者應有之行為規範的詳細資訊，請聯絡測驗辦理單位。若您對所參加的測驗有安全方面的疑慮，請寄送電子郵件訊息至[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。
+測驗中心必須嚴格執行所收到的安全規定，才能取得並維持其測驗中心執業資格。持續進行的視察可確保各間測驗中心維持由 Microsoft 與測驗辦理單位所制定的安全層級。此外，測驗中心的監考人均經過授權，可立即針對違反測驗規定的應試者採取適當措施。若需應試者應有之行為規範的詳細資訊，請聯絡測驗辦理單位。若您對所參加的測驗有安全方面的疑慮，請寄送電子郵件訊息至 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。
 
 **測驗中心本身可能會做出哪些不當的行為？**
 
 測驗中心管理員若未能遵守 Microsoft 或測驗辦理單位的任何安全規定，即為行為不當。這些不當行為可能包括（但不限於）有人使用不當的應試者證件而未發現、未能請每個應試者出示 ID、未能定期回來巡視、未能隔開測驗機台、有小抄或電子裝置而未發現、以任何方式針對測驗項目提供解答或協助，以及以任何方式允許 Microsoft 智慧財產流出。
 
+
 **參與詐騙行為的測驗中心會如何？**
 
 若 Microsoft 判定測驗中心有不當舉措或詐騙行徑，Microsoft 有權停止舉辦該中心所辦理的所有測驗。
 
-**若發現有網站公開 Microsoft 認證測驗的資訊，或是發現有人在測驗上作弊或販售測驗問題與解答，我該與誰聯絡？**
+**若發現有網站公開 Microsoft Certification exam 的資訊，或是發現有人在測驗上作弊或販售測驗問題與解答，我該與誰聯絡？**
 
 傳送電子郵件訊息至 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)，並盡可能附上實際狀況與牽涉人員的詳細資訊。雖然我們歡迎匿名提供線報，但我們通常需要更多資訊才能徹底進行調查；願意的話，請附上您的完整聯絡資訊，以便 Microsoft 的人員可以在需要時與您聯絡討論詳情。Microsoft 設有專人負責調查這些線報。因為有像您這樣的正義之士所提供線報，多個網站已因此關閉。由於我們所收到的電子郵件量過於龐大，所以您不一定會收到專人回覆。
 
-我们的前認證和訓練高级总监 Don Field 介绍了最近获得的一笔 1350 万美元的赔偿是如何從[為保護 Microsoft 的價值所做的工作](https://borntolearn.mslearn.net/b/weblog/archive/2011/11/10/ensuring-integrity-of-our-certification-program) 得來的。歡迎閱讀他的文章，並透過部落格持續取得 Microsoft 認證與訓練的最新資訊；[Born to Learn](https://borntolearn.mslearn.net/) 部落格。
+我们的前認證和訓練高级总监 Don Field 介绍了最近获得的一笔 13.50 万美元的赔偿是如何從 [為保護 Microsoft 的價值所做的工作](https://borntolearn.mslearn.net/b/weblog/archive/2011/11/10/ensuring-integrity-of-our-certification-program) 得來的。歡迎閱讀他的文章，並透過部落格持續取得 Microsoft 認證與訓練的最新資訊；[Born to Learn](https://borntolearn.mslearn.net/) 部落格。
 
 **若提報安全方面的問題，我是否可以保持匿名？**
 
@@ -957,17 +958,21 @@ Microsoft Certification Program 要求應試者必須先接受 NDA 的條款才�
 
 離開實驗室後，您將無法返回該實驗室，因為一旦您離開實驗室或測驗部分，評分就會開始（在後台）。當您按下 **下一步** 時，系統將要求您確認是否確實要離開實驗室。按下 **是** 時，將結束實驗室部分，並對任務進行評分。
 
+
 **如果測驗有實驗室，測驗的結構如何？**
 
-啟動考試後，您將在實驗室加載時回答傳統的問題（例如多項選擇，拖放，構建列表等）。完成實驗後，在實驗室評分时，您將回答另一組傳統問題。如果您太快完成第一組問題，则可能需要等待實驗室完成配置。請注意以下事項：
+啟動考試時，您會看到一個熒幕，告訴您考試中將包含多少項目，案例研究和實驗室，包括任務數。請記下此信息，以便您可以相應地規劃考試時間。
 
-- 您離開考試的任何部分後，您将無法返回。但在每個部分的末尾，您都有機會查看您的答案。**在查看答案時，考試時間不會停止。確保您關注時間** ；注意時間和剩餘問題的數量。
+啟動考試後，您將在練習加載時回答考試中的所有傳統問題（例如，多項選擇，拖曳，建立清單等）。實驗室將是考試的最後一部分。請注意以下事項：
 
-- 每個考試都包含一個或两個性能部分/實驗室，您必須完成多個任務。每個項目後面都有一系列傳統項目，讓我們有時間為試驗打分，這樣您就可以在考試结束後立即收到通過/未通過的成績。再次提醒，注意您的時間。實驗後您必須回答一些問題。
+- 離開考試的任何部分（例如案例研究或實驗室）後，您將無法返回。但是，在大多數部分的末尾，您都有機會查看您的答案（您的考試可能包括無法查看的部分；這會在該部分的開頭註明）。**在查看答案時，考試時間不會停止。確保您關注時間**；注意時間和剩餘問題的數量。
 
-- 在第一個試驗之前的概述頁面上提供了考試中的試驗數量。請認真閱讀！然後，據此管理您的時間。
+- 每個考試都包含一個或两個性能部分/實驗室，您必須完成多個任務。研究表明，完成任務所需的時間是傳統項目的4倍左右。請安排您的時間，以便您有足夠的時間完成實驗。我們確保合理地安排時間的考生將有足夠的時間來完成實驗室。
 
-- 在轉移到另一個任務之前，切勿等待任務執行。在某些（少見的）情况下，在完成另一個任務之前需要執行某些操作，但在執行該任務时，您可以執行其他任務。**切勿浪費時間等待任務** 運行。轉至不依賴於該任務的活動，這樣您就可以充分利用您的考試時間。在某些情况下，開始一項任務可能足以得分（例如在 Azure 中創見資源）；您可以在處理其他任務時讓該任務在後台執行。我们在任務列表中包含了註釋，告訴您只需要啟動该任務。您可以继续執行其他任務，甚至可以离开该部分（轉到下一部分考試）而不会受到處罰。**仔細閱讀任務**。
+在第一個實驗之前的簡介頁面中提供了考試中的實驗和任務數量。請認真閱讀！然後，據此管理您的時間。
+
+- 在轉移到另一個任務之前，切勿等待任務執行。在某些情況下，您需要先執行一些任務才能完成另一個任務，但這會在任務中註明，並且在執行該任務時還會有其他任務在處理。**切勿浪費時間等待任務**運行。轉至不依賴於該任務的活動，這樣您就可以充分利用您的考試時間。在某些情况下，開始一項任務可能足以得分（例如在 Azure 中創見資源）；您可以在處理其他任務時讓該任務在後台執行。我们在任務列表中包含了註釋，告訴您只需要啟動该任務。您可以繼續執行其他任務，甚至可以離開該部分（如適用，請移至下一個實驗室或結束考試）而不會被扣分。**請仔細閱讀任務。執行解決任務中出現的問題所需的操作。**
+
 
 **為什麼實驗室測驗包含傳統的問題類型（例如，多重選擇，拖放，建立清單等）？**
 
@@ -989,7 +994,7 @@ Microsoft Certification Program 要求應試者必須先接受 NDA 的條款才�
 
 **我需要多長時間才能完成實驗？**
 
- 實驗室並未與測驗的其他部分分開計時。在測驗開始時，將提供實驗室數量，案例研究和問題以及測驗時間。您必須在提供的時間內回答所有問題，包括完成與任何實驗室相關的任務。因此，管理您的時間，以便您可以完成必須完成的所有活動。
+實驗室並未與測驗的其他部分分開計時。在測驗開始時，將提供實驗室數量，案例研究和問題以及測驗時間。您必須在提供的時間內回答所有問題，包括完成與任何實驗室相關的任務。因此，管理您的時間，以便您可以完成必須完成的所有活動。
 
 **我有足夠的時間來完成實驗嗎？**
 
@@ -1005,11 +1010,19 @@ Microsoft Certification Program 要求應試者必須先接受 NDA 的條款才�
 
 **我聽說實驗室可以在空白螢幕上啟動。为解決這個問題，有什麼我可以做的嗎？**
 
-如果您的試驗使用空白螢幕啟動，請嘗試打開新選項卡 並導航至 https://portal.azure.com。在大多數时候，打开此新标签将解決問題。
+如果您的試驗使用空白螢幕啟動，請嘗試打開新選項卡 並導航至 https://portal.azure.com。 在大多數时候，打开此新标签将解決問題。
 
 **我的實驗室遇到了一些問題。我如何讓Microsoft 知道？**
 
-如果您在實驗室中遇到問題，請通过我們的考試項目質疑流程升级。雖然我們無法為您的經歷提供具体的解释，但我们对您經歷的調查將幫助我們確定根本原因並找出可改善每個人體驗的解決方案。
+如果您在實驗室中遇到問題，請通过我們的 [考試項目質疑流程](#policies-5) 升级。雖然我們無法為您的經歷提供具体的解释，但我们对您經歷的調查將幫助我們確定根本原因並找出可改善每個人體驗的解決方案。
+
+**我的實驗室遇到了一些問題。我如何請求重新評分？**
+
+如果您收到分數，則可以準確反映出您在練習之前遇到的問題。如果失敗，重新評分將不會更改該結果。
+
+**我什麼時候可以收到分數？**
+
+實驗室比傳統項目類型需要更長的分數。由於實驗室出現在考試結束時，因此您可能不會立即得到結果。評分結果可能需要30分鐘或更長時間。您不必等待成績報告。它將自動傳遞到我們的認證數據庫，並將顯示在您的MC儀表板中。這應該在考試交付後的24小時內發生。如果未出現，請聯絡 [MCP支持論壇](https://aka.ms/mcpforum)。
 
 **實作式題型的測驗是否需要更多時間才能完成？**
 
@@ -1017,25 +1030,27 @@ Microsoft Certification Program 要求應試者必須先接受 NDA 的條款才�
 
 **準備實作式測驗時，是否應該採取與其他測驗不同的準備方法？**
 
-不用。無論採取何種問題形式，所評量的技能仍維持不變。測驗所評定的知識與技能會列於測驗詳細資料頁面的「評量的技能」部分中。
+不用。無論採取何種問題形式，所評量的技能仍維持不變。測驗所評定的知識與技能會列於測驗詳細資料頁面的「評量的技能」部分中。透過練習這些技能，那麼您將為任何項目類型做好準備，包括實驗室。
 
 **對於有實驗室的考試，是否有任何特定的考試中心要求？當我藏試安排有實驗室的考試时，許多考試中心都没有列出，但是没有試驗的考試中列出了相同的考試中心。**
 
-包括實驗室的考試要求考試中心滿足某些網際網路連線要求，因此可用的考試中心较少。随着實驗室被添加到更多 角色型的考試中，他们也將受到同一組考試中心的影響。但是，您可以透過線上監考参加这些考試；有關詳細資訊，請瀏覽https://www.microsoft.com/learning/online-proctored-exams.aspx。如果您有心仪的考試中心，請联系该考試中心，瞭解他们是否可以提供實驗室；或者，您在選擇考試时它们将不会被列为可用的考試中心。如果发生这种情况，我们建議您找另外的考試中心或透過線上監考参加考試。
+包括實驗室的考試要求考試中心滿足某些網際網路連線要求，因此可用的考試中心较少。随着實驗室被添加到更多 角色型的考試中，他们也將受到同一組考試中心的影響。但是，您可以透過線上監考参加这些考試；有關詳細資訊，請瀏覽 https://www.microsoft.com/learning/online-proctored-exams.aspx。 如果您有心仪的考試中心，請联系该考試中心，瞭解他们是否可以提供實驗室；或者，您在選擇考試时它们将不会被列为可用的考試中心。如果发生这种情况，我们建議您找另外的考試中心或透過線上監考参加考試。
 
 ### 角色型的認證
 
 **角色型的認證是如何命名的？他们还会成为 MCSA，MCSD和MCSE吗？**
 
-因为我们正在对我们的認證计划进行重大轉型，所以我们正在逐渐放弃试用 MCSA，MCSE 和 MCSD 等缩略语。此認證将明确指出您在工作角色中是“Microsoft Certified”，并且它们将显示该認證在我们框架中的水平（fundamentals、associate 或 expert）。
+因为我们正在对我们的認證计划进行重大轉型，所以我们正在逐渐放弃试用 MCSA，MCSE 和 MCSD 等缩略语。此認證将明确指出您在工作角色中是"Microsoft Certified"，并且它们将显示该認證在我们框架中的水平（fundamentals、associate 或 expert）。
 
 **我已经拥有的 MCSA，MCSD 和 MCSE 認證会怎样？**
 
 您已经拥有的 MCSA，MCSD 和 MCSE 認證没有任何变化。他们仍在您的成績單上。这些認證的相关性取决于您当前（和未来）的工作角色以及認證对您的经理和組织以及您所从事的工作的重要性。
 
+
 **一些 MCSA，MCSD 和 MCSE 認證仍然可用。这些会发生什么？**
 
 只要考試仍然可用，您就可以继续获得 MCSA，MCSD 和 MCSE 認證。当我们停用这些認證途径中的一部分考試时，您将无法再获得这些認證。
+
 
 **您正在停用一些获得 MCSA，MCSD 和 MCSE 認證所需的考試。当考試停用时，我的認證会怎样？**
 
@@ -1055,19 +1070,21 @@ Microsoft Certification Program 要求應試者必須先接受 NDA 的條款才�
 
 是。學術驗證有效期限只有 12 個月。過了 12 個月，就必須重複驗證程式。
 
-**我是教育工作者。針對由 Pearson VUE 提供的 Microsoft 認證測驗，我是否仍可享有學術折扣（在適用的國家/地區）？**
 
-是。您必須遵循和學生一樣的程式。換句話說，您必須在 Microsoft 帳戶配置文件中選擇“學生”作為您的工作職能，並且您必須透過與學生相同的流程來驗證您的狀態。
+**我是教育工作者。針對由 Pearson VUE 提供的 Microsoft Certification exam，我是否仍可享有學術折扣（在適用的國家/地區)?**
+
+是。您必須遵循和學生一樣的程式。換句話說，您必須在 Microsoft 帳戶配置文件中選擇"學生"作為您的工作職能，並且您必須透過與學生相同的流程來驗證您的狀態。
+
 
 **Microsoft 認證測驗的學術驗證程式如果有問題，該聯絡誰？**
 
-如果您對測驗註冊存在常規疑問，請聯絡您的 [Microsoft 區域服務中心](https://www.microsoft.com/learning/help.aspx)。如果是新的驗證要求或擱置中的驗證要求，請[聯絡支援](https://academic.getmicrosoftkey.com/default/support)。
+如果您對測驗註冊存在常規疑問，請聯絡您的 [Microsoft 區域服務中心](https://www.microsoft.com/learning/help.aspx)。如果是新的驗證要求或擱置中的驗證要求，請 [聯絡支援](https://academic.getmicrosoftkey.com/default/support)。
 
 ### 無障礙設施的申請
 
 **我如何申請無障礙設施?**
 
-如果您在測驗時需要特殊設備或其他任何無障礙設施，您可以透過[Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 使用其“合理調整申請系統” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) 申請無障礙設施。上文中參加測驗時的特殊無障礙設施 部分提供了更多詳細資訊。
+如果您在測驗時需要特殊設備或其他任何無障礙設施，您可以透過[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 使用其"合理調整申請系統" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) 申請無障礙設施。上文中 [參加測驗時的特殊無障礙設施](#special-accommodations-when-taking-exams) 部分提供了更多詳細資訊。
 
 **為什麼需要提交文件？**
 
@@ -1084,3 +1101,4 @@ Microsoft Certification Program 要求應試者必須先接受 NDA 的條款才�
 **我有一個問題在這裡沒有答案。在何處可以找到答案？**
 
 如果您無法在此處找到問題的答案，請透過以下電子郵件聯絡我們：[accommodationspearsonvue@pearson.com](mailto:accommodationspearsonvue@pearson.com).
+
