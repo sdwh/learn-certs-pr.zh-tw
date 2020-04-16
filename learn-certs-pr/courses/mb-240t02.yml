@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Dynamics 365 for Field Service 的工單和交貨執行
 metadata:
-  title: '課程 MB-240T02-A: Dynamics 365 for Field Service 的工單和交貨執行'
-  description: '課程 MB-240T02-A: Dynamics 365 for Field Service 的工單和交貨執行'
+  title: 'Course MB-240T02-A: Dynamics 365 for Field Service 的工單和交貨執行'
+  description: 'Course MB-240T02-A: Dynamics 365 for Field Service 的工單和交貨執行'
 uid: course.mb-240t02
 courseNumber: 'MB-240T02-A'
 hoursToComplete: 24
@@ -31,7 +31,6 @@ summary: |-
   本課程將使學生能夠執行、識別和配置用於提供現場服務和行動解決方案的關鍵元件所需的技能。關鍵主題包括識別典型工單生命週期的外觀，以及將推動配置決策的組織考慮因素。此外，本課程將著重於與工單相關的常用元件，包括合約，庫存元件，採購和行動性策略。     
 
   本課程幫助學生更好理解全貌，並最終目標集中於工作訂單的交付和執行，這些執行有助於設計出與客戶和組織目標相一致的更有效的解決方案。
-
 prerequisitesSection: |-
   對 Dynamics 365 特色，功能和導航的基本理解。
 outlineSection: |-
@@ -62,3 +61,4 @@ outlineSection: |-
   - 安裝和部署現場服務行動專案
   - 管理行動專案
   - 部署行動用戶端
+

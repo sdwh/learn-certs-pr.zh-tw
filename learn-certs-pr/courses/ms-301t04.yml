@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 移轉到 SharePoint Online
 metadata:
-  title: '課程 MS-301T04-A: 移轉到 SharePoint Online'
-  description: '課程 MS-301T04-A: 移轉到 SharePoint Online'
+  title: 'Course MS-301T04-A: 移轉到 SharePoint Online'
+  description: 'Course MS-301T04-A: 移轉到 SharePoint Online'
 uid: course.ms-301t04
 courseNumber: 'MS-301T04-A'
 hoursToComplete: 24
@@ -10,8 +10,8 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 計劃內容移轉程序。
 - skill: 描述在移轉程序中利用可用資源和工具。
-- skill: 使用 SharePoint 移轉評估工具(SMAT)存取要移轉的資料。
-- skill: 使用 SharePoint 移轉評估工具(SPMT)將內容移轉到雲端中。
+- skill: 使用 SharePoint 移轉評估工具（SMAT）存取要移轉的資料。
+- skill: 使用 SharePoint 移轉評估工具（SPMT）將內容移轉到雲端中。
 - skill: 管理和監視移轉程序。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -73,7 +73,7 @@ outlineSection: |-
   完成本單元後，學生將能夠&#58;
   - 使用 SharePoint 移轉評估工具（SMAT）存取要移轉的資料。
   - 使用 SharePoint 移轉評估工具（SPMT）將內容移轉到雲端中。
-  - 管理和監視移轉程序。
+  - 管理和監視移轉程序。。
 
 
   ### 模組 3&#58; 課程總結

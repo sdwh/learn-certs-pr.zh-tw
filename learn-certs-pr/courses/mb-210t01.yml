@@ -1,10 +1,10 @@
 ### YamlMime:Course
-title: 用於客戶參與銷售的 Dynamics 365
+title: Dynamics 365 for customer engagement for sales
 metadata:
-  title: '課程 MB-210T01-A: 用於客戶參與銷售的 Dynamics 365'
-  description: '課程 MB-210T01-A: 用於客戶參與銷售的 Dynamics 365'
+  title: 'Course MB-210T01-A: Dynamics 365 for customer engagement for sales'
+  description: 'Course MB-210T01-A: Dynamics 365 for customer engagement for sales'
 uid: course.mb-210t01
-courseNumber: 'MB-210T01-A'
+courseNumber: 'MB-210T01'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -90,3 +90,4 @@ outlineSection: |-
   - 創建和使用目標。
   - 與PowerBI整合
   - 啟用Sales AI功能
+

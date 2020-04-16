@@ -1,14 +1,14 @@
 ### YamlMime:Course
-title: Microsoft 365 致性管理
+title: Microsoft 365 一致性管理
 metadata:
-  title: '課程 MS-101T02-A: Microsoft 365 合規性管理'
-  description: '課程 MS-101T02-A: Microsoft 365 合規性管理'
+  title: 'Course MS-101T02-A: Microsoft 365 合規性管理'
+  description: 'Course MS-101T02-A: Microsoft 365 合規性管理'
 uid: course.ms-101t02
 courseNumber: 'MS-101T02-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: '理解 Microsoft 365 中的資料控管，包括: 封存、保留、資訊版權管理、安全多用途網際網路郵件擴充（S/MIME）、Office 365 郵件加密和資料外洩防護'
+- skill: 理解 Microsoft 365 中的資料控管，包括：封存、保留、資訊版權管理、安全多用途網際網路郵件擴充（S/MIME）、Office 365 郵件加密和資料外洩防護
 - skill: 在 SharePoint 中實作就地記錄管理
 - skill: 在 Exchange 中實作封存和保留
 - skill: 在安全性和合規性中心中創建保留原則
@@ -67,7 +67,7 @@ outlineSection: |-
   - 實作您的網域服務
 
 
-  ### 模組 3&#58; 實作在 Microsoft 365 Intelligence 中的資料控管
+  ### 模組 3&#58; 實作在 Microsoft 365 Intelligence 中的資料控管 
   #### 課程
   - 計劃您的安全性和合規性需求
   - 在 Exchange Online 中建立道德管束
@@ -112,3 +112,4 @@ outlineSection: |-
 
   #### 實驗室 &#58; 驗證您的資料控管政策
   - 演練 1&#58; 調查您的 Microsoft 365 資料
+

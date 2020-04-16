@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 管理Microsoft Exchange Server 2016/2019
 metadata:
-  title: '課程 20345-1-B: 管理Microsoft Exchange Server 2016/2019'
-  description: '課程 20345-1-B: 管理Microsoft Exchange Server 2016/2019'
+  title: 'Course 20345-1-B: 管理Microsoft Exchange Server 2016/2019'
+  description: 'Course 20345-1-B: 管理Microsoft Exchange Server 2016/2019'
 uid: course.20345-1
 courseNumber: '20345-1-B'
 hoursToComplete: 120
@@ -37,7 +37,7 @@ summary: |-
   #### 對象設定檔
   本課程的讀者包括Exchange Server上的企業級訊息管理員。想要瞭解Exchange Server的IT通才和服務台專業人員也可以參加此課程。參加本課程的學生應具有至少兩年的IT領域工作經驗，尤其是在Windows Server管理，網路管理，服務台或系統管理領域。還希望他們具有Exchange Server概念方面的一些經驗，但是不需要具有管理Exchange Server的先前經驗。
 prerequisitesSection: |-
-  - 除了專業經驗外，參加此次訓練的學生還應該具備以下技術知識&#58;
+  除了專業經驗外，參加此次訓練的學生還應該具備以下技術知識&#58; 
   - 至少兩年的Windows Server管理經驗。
   - 至少有兩年使用Active Directory網域服務(AD DS)的經驗。
   - 至少有兩年的名稱解析經驗，包括網域名稱系統(DNS)。
@@ -56,7 +56,7 @@ outlineSection: |-
   - Exchange Server管理工具
 
 
-  #### 實驗室 &#58; 部署Exchange Server
+  #### 實驗室&#58; 部署Exchange Server
   - 評估Exchange Server 2019安裝的要求和先決條件
   - 部署Exchange Server 2019
   - 驗證Exchange Server功能
@@ -78,7 +78,7 @@ outlineSection: |-
   - 配置Exchange Server信箱資料庫和儲存
 
 
-  #### 實驗室 &#58; 配置Exchange Server儲存
+  #### 實驗室&#58; 配置Exchange Server儲存
   - 創建和配置信箱資料庫
 
   完成本單元後，學生將能夠&#58; 
@@ -96,11 +96,12 @@ outlineSection: |-
   - 配置策略和地址清單
 
 
-  #### 實驗室 &#58; 管理收件者對象
+  #### 實驗室&#58; 管理收件者對象
   - 配置收件者對象
   - 管理公用資料夾信箱
 
-  #### 實驗室 &#58; 配置地址清單和策略
+
+  #### 實驗室&#58; 配置地址清單和策略
   - 管理電子郵件地址政策
   - 管理通訊錄和通訊錄政策
 
@@ -119,12 +120,13 @@ outlineSection: |-
   - 使用指令碼管理Exchange伺服器
 
 
-  #### 實驗室 &#58; 使用Exchange命令行管理程序管理Exchange Server和收件者對象
+  #### 實驗室&#58; 使用Exchange命令行管理程序管理Exchange Server和收件者對象
   - 使用Exchange命令行管理程序管理收件者
   - 使用Exchange命令行管理程序管理Exchange Server
 
   完成本單元後，學生將能夠&#58; 
   - 透過使用Exchange Server cmdlet管理收件者。
+
   - 使用Exchange Server cmdlet管理Exchange伺服器。
   - 使用指令碼管理Exchange伺服器。
 
@@ -139,13 +141,13 @@ outlineSection: |-
   - 配置行動通訊
 
 
-  #### 實驗室 &#58; 配置用戶端存取服務
+  #### 實驗室&#58; 配置用戶端存取服務
   - 為用戶端存取配置名稱空間
   - 配置用於用戶端存取的證書
   - 配置自訂MailTips
 
 
-  #### 實驗室 &#58; 在Exchange Server上部署和配置用戶端存取服務
+  #### 實驗室&#58; 在Exchange Server上部署和配置用戶端存取服務
   - 為Outlook配置Exchange Server
   - 在網路上配置Outlook
   - 配置Microsoft Exchange ActiveSync
@@ -166,11 +168,11 @@ outlineSection: |-
   - 配置用戶端存取服務的高可用性
 
 
-  #### 實驗室 &#58; 實作DAG
+  #### 實驗室&#58; 實作DAG
   - 創建和配置DAG
 
 
-  #### 實驗室 &#58; 實作和測試高可用性
+  #### 實驗室&#58; 實作和測試高可用性
   - 為用戶端存取服務部署高可用性解決方案
   - 測試高可用性配置
 
@@ -187,17 +189,17 @@ outlineSection: |-
   - 實作Exchange Server恢復
 
 
-  #### 實驗室 &#58; 備份Exchange Server資料
+  #### 實驗室&#58; 備份Exchange Server資料
   - 備份Exchange Server信箱資料庫
 
 
-  #### 實驗室 &#58; 還原Exchange Server資料
+  #### 實驗室&#58; 還原Exchange Server資料
   - 還原Exchange Server信箱
   - 恢復資料庫可用性群組（DAG）成員（可選）
 
   完成本單元後，學生將能夠&#58; 
-  -備份Exchange Server資料。
-  -透過使用配置的備份還原Exchange Server資料。
+  - 備份Exchange Server資料。
+  - 透過使用配置的備份還原Exchange Server資料。
 
 
   ### 模組 8&#58; 配置和管理訊息傳輸
@@ -208,7 +210,7 @@ outlineSection: |-
   - 管理運輸規則
 
 
-  #### 實驗室 &#58; 配置和管理訊息傳輸
+  #### 實驗室&#58; 配置和管理訊息傳輸
   - 配置訊息傳輸
   - 監視和驗證訊息傳遞
   - 配置免責聲明傳輸規則
@@ -224,11 +226,11 @@ outlineSection: |-
   本模組介紹如何為訊息安全性部署和管理邊緣傳輸伺服器。它還說明如何為Exchange Server實作防病毒和反垃圾郵件解決方案。
   #### 課程
   - 部署和管理邊緣傳輸伺服器以確保訊息安全
-  實作防病毒解決方案
+  - 實作防病毒解決方案
   - 為Exchange Server實作反垃圾郵件解決方案
 
 
-  #### 實驗室 &#58; 在Exchange Server中配置訊息安全性
+  #### 實驗室&#58; 在Exchange Server中配置訊息安全性
   - 配置和測試EdgeSync
   - 配置防病毒，防垃圾郵件和惡意軟體防護功能
 
@@ -245,7 +247,7 @@ outlineSection: |-
   - 對Exchange Server進行疑難​​排解
 
 
-  #### 實驗室 &#58; Exchange Server的監視和疑難​​排解
+  #### 實驗室&#58; Exchange Server的監視和疑難​​排解
   - 監視Exchange Server
   - 對資料庫可用性進行疑難​​排解
   - 對用戶端存取伺服器進行疑難​​排解
@@ -256,14 +258,14 @@ outlineSection: |-
 
 
   ### 模組 11&#58; 保護和維護Exchange Server
-  本模組說明如何使用角色型存取控制(RBAC)保護Exchange Server的安全。它還說明如何在Exchange Server中配置審核日誌記錄以及如何維護和更新Exchange Server。
+  本模組說明如何使用角色型存取控制（RBAC）保護Exchange Server的安全。它還說明如何在Exchange Server中配置審核日誌記錄以及如何維護和更新Exchange Server。
   #### 課程
   - 使用RBAC保護Exchange Server
   - 在Exchange Server中配置審核日誌記錄
   - 維護Exchange Server
 
 
-  #### 實驗室 &#58; 保護和維護Exchange Server
+  #### 實驗室&#58; 保護和維護Exchange Server
   - 配置Exchange Server權限
   - 配置審核日誌記錄
   - 維護Exchange Server
@@ -283,7 +285,7 @@ outlineSection: |-
   - 管理混合環境
 
 
-  #### 實驗室 &#58; 線上管理Exchange
+  #### 實驗室&#58; 線上管理Exchange
   - 線上管理Exchange
 
   完成本單元後，學生將能夠&#58; 

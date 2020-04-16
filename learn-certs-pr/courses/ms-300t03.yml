@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 啟用 Microsoft Teams 共同作業
 metadata:
-  title: '課程 MS-300T03-A: 啟用 Microsoft Teams 共同作業'
-  description: '課程 MS-300T03-A: 啟用 Microsoft Teams 共同作業'
+  title: 'Course MS-300T03-A: 啟用 Microsoft Teams 共同作業'
+  description: 'Course MS-300T03-A: 啟用 Microsoft Teams 共同作業'
 uid: course.ms-300t03
 courseNumber: 'MS-300T03-A'
 hoursToComplete: 24
@@ -32,10 +32,10 @@ exams:
 summary: |-
   Microsoft Teams 是 Microsoft 365 中團隊工作的中樞。在本課程中，您將學習如何計劃，部署和管理 Microsoft Teams 。明確的說，本課程討論 Teams 與 SharePoint、OneDrive和 Office 365 群組的關係。提供在您的組織內採用和部署 Teams 的最佳做法。還介紹如何為您的 Teams 資料建立訪客策略和資料控管。
 
-  本課程適用於在他們的組織中部署和管理團體工作基礎結構的 IT 專業人員。
+  本課程適用於在他們的組織中部署和管理團體工作基礎結構的 IT 專業人員。 
 
   這是針對團隊工作管理員角色在一系列的四門課程中的第三門課程。這些課程幫助準備 MS-300 測驗&#58; 部署 Microsoft 365 團隊工作。
-
+  
   #### 對象設定檔
   本課程適用於 Microsoft 365 團隊工作管理員角色。此角色負責配置、部署與管理專注於高效率，有效的共同作業與採用的 Office 365 與 Azure 工作負載。他們管理應用程式，服務和支援基礎結構構，以滿足商務需求。管理員知道並可以區分產品和服務，但可能無法直接管理每個產品或服務。
 
@@ -49,7 +49,7 @@ prerequisitesSection: |-
   - 使用 Windows PowerShell 的經驗
 outlineSection: |-
   ### 模組 1&#58; 計劃 Microsoft Teams 部署
-  本模組全部是關於 Microsoft Teams 的計劃。討論使用者將如何驗證以使用 Teams 以及在組織中部署團隊的最佳做法。
+  本模組全部是關於 Microsoft Teams 的計劃。  討論使用者將如何驗證以使用 Teams 以及在組織中部署團隊的最佳做法。
   #### 課程
   - Teams 入門
   - 部署 Teams
@@ -68,7 +68,7 @@ outlineSection: |-
 
 
   ### 模組 2&#58; 配置 Microsoft Teams
-  本模組說明如何設定和配置 Microsoft Teams。討論 Teams 中索引標籤，bot 和連接器的用法。介紹與管理 Teams 會議有關的概念。
+  本模組說明如何設定和配置 Microsoft Teams。  討論 Teams 中索引標籤，bot 和連接器的用法。  介紹與管理 Teams 會議有關的概念。
   #### 課程
   - 在Office 365中 設定 Microsot Teams
   - Microsoft Teams 中的應用程式
@@ -85,8 +85,8 @@ outlineSection: |-
   - 描述可用於協助 Teams 會議的裝置
 
 
-  ### 模組 3&#58; 管理 Teams 環境
-  該模組專注於管理 Microsoft Teams。明確的說，我們討論安全性和合規性以及隱私和資料控管。雖然本課程未明確涵蓋語音通話，但本模組討論與服務品質相關的主題。
+  ### 模組 3&#58; 管理 Teams 環境 
+  該模組專注於管理 Microsoft Teams。  明確的說，我們討論安全性和合規性以及隱私和資料控管。  雖然本課程未明確涵蓋語音通話，但本模組討論與服務品質相關的主題。
 
   #### 課程
   - 隱私權與治理
@@ -101,3 +101,4 @@ outlineSection: |-
   - 描述在 Office 365 中的 Microsoft 資料隱私權方法
   - 檢視可衡量 Teams 使用量的Office 365 報告
   - 啟用 Microsoft Teams 服務品質
+

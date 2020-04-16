@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 為商務用Skype Online和Server 2015部署語音工作負載
 metadata:
-  title: '課程 40409-A: 為商務用Skype Online和Server 2015部署語音工作負載'
-  description: '課程 40409-A: 為商務用Skype Online和Server 2015部署語音工作負載'
+  title: 'Course 40409-A: 為商務用Skype Online和Server 2015部署語音工作負載'
+  description: 'Course 40409-A: 為商務用Skype Online和Server 2015部署語音工作負載'
 uid: course.40409
 courseNumber: '40409-A'
 hoursToComplete: 120
@@ -42,7 +42,7 @@ prerequisitesSection: |-
   - 能夠使用Microsoft監視和疑難解答工具（Snooper，集中式日誌記錄服務（CLS），關鍵健康情況指示器（KHI））在基本級別上監視和解決商務用Skype伺服器2015。
   - 熟練使用Active Directory網域服務，資料網路，Azure Active Directory網域服務，目錄同步，電信標準和支援商務用Skype設定的配置的網路組件。
   - 熟悉將商務用Skype伺服器2015與Microsoft Exchange Server和Office 365整合的要求和過程。
-  - 具備以下技術知識&#58; Windows，Windows Server和Hyper-V，QoS，TCP/IP，網路負載平衡，PowerShell，對會話初始協議（SIP）的理解（基本電話概念，包括SIP中繼，閘道器和會話邊界控制器）(SBC)互連和通用專用小交換機(PBX) 部署架構。
+  - 具備以下技術知識&#58; Windows，Windows Server和Hyper-V，QoS，TCP / IP，網路負載平衡，PowerShell，對會話初始協議（SIP）的理解（基本電話概念，包括SIP中繼，閘道器和會話邊界控制器）(SBC)互連和通用專用小交換機(PBX) 部署架構。
 outlineSection: |-
   ### 模組 1&#58; 語音工作負載簡介
   設計商務用Skype語音解決方案需要瞭解許多技術。
@@ -54,7 +54,7 @@ outlineSection: |-
   - SIP基礎和路由
 
 
-  #### 實驗室 &#58; 自訂實驗室 環境
+  #### 實驗室&#58; 自訂實驗室 環境
   - 配置內部部署組織
 
   完成本單元後，學生將能夠&#58; 
@@ -71,7 +71,7 @@ outlineSection: |-
   - 規劃您的Cloud PBX解決方案
 
 
-  #### 實驗室 &#58; 使用Office 365配置身份識別聯合
+  #### 實驗室&#58; 使用Office 365配置身份識別聯合
   - 在Office 365中添加自訂網域並啟用目錄同步
   - 執行目錄同步
   - 安裝和配置Active Directory 同盟服務
@@ -82,6 +82,7 @@ outlineSection: |-
   - 確定商務用Skype Online規劃。
   - 描述受支援的語音架構。
   - 為給定場景選擇語音架構。
+
 
 
   ### 模組 3&#58; 分割網域配置
@@ -95,7 +96,7 @@ outlineSection: |-
   - 對分割網域相關問題進行疑難​​排解
 
 
-  #### 實驗室 &#58; 使用商務用Skype Online設定分割網域
+  #### 實驗室&#58; 使用商務用Skype Online設定分割網域
   - 使用商務用Skype Online設定分割網域
   - 將使用者轉移到商務用Skype Online
   - 驗證分割網域商務用Skype使用者體驗
@@ -111,7 +112,7 @@ outlineSection: |-
   - 商務用Skype伺服器2015電話撥入式會議
 
 
-  #### 實驗室 &#58; 使用PSTN呼叫配置Cloud PBX
+  #### 實驗室&#58; 使用PSTN呼叫配置Cloud PBX
   - 在Skype Online中為使用者啟用PSTN呼叫
   - 使用線上PSTN呼叫功能
   - 使使用者能夠進行Cloud PSTN會議
@@ -134,7 +135,7 @@ outlineSection: |-
   - 統一訊息
 
 
-  #### 實驗室 &#58; 配置企業語音
+  #### 實驗室&#58; 配置企業語音
   - 建立規則運算式
   - 配置撥號規劃
   - 配置語音策略，PSTN使用和路由
@@ -151,11 +152,11 @@ outlineSection: |-
 
 
   ### 模組 6&#58; PSTN連接
-  成功組織的關鍵要素是內部員工與客戶和合作夥伴之間進行交流的能力。為了做到這一點，組織需要使用現有的公共分支交換機(PBX) ，閘道器或網際網路服務提供商(ISP)在其內部通訊系統（例如，商務用Skype伺服器2015）與公共交換電話網路之間架起橋樑。 與PSTN的連接使企業使用者可以使用與用於內部呼叫的相同的Skype用戶端來從外部號碼撥打和接聽電話。此外，員工還可以利用商務用Skype的各種功能來改善與透過PSTN連接的外部使用者的通訊交互。
+  成功組織的關鍵要素是內部員工與客戶和合作夥伴之間進行交流的能力。為了做到這一點，組織需要使用現有的公共分支交換機(PBX) ，閘道器或網際網路服務提供商(ISP)在其內部通訊系統（例如，商務用Skype伺服器2015）與公共交換電話網路之間架起橋樑。  與PSTN的連接使企業使用者可以使用與用於內部呼叫的相同的Skype用戶端來從外部號碼撥打和接聽電話。此外，員工還可以利用商務用Skype的各種功能來改善與透過PSTN連接的外部使用者的通訊交互。
   #### 課程
   - 連接到PSTN
   - 連接到現有PBX
-  - M&#58;N 互通路由
+  - M&#58;N互通路由
   - 電話路由可靠性
   - 從公司撥號
   - 共享線路外觀
@@ -164,7 +165,7 @@ outlineSection: |-
   - 手機
 
 
-  #### 實驗室 &#58; 配置與IP-PBX的整合
+  #### 實驗室&#58; 配置與IP-PBX的整合
   - 為倫敦配置企業語音設定
   - 配置主幹間路由
   - 研究商務用Skype伺服器2015整合設定
@@ -186,24 +187,24 @@ outlineSection: |-
   - 呼叫流程和可管理性
 
 
-  #### 實驗室 &#58; 呼叫流程和可管理性
-  - *練習 1&#58; 測試當前的PBX呼叫解決方案
-  - *練習 2&#58; 啟用具有內部PSTN連接的Cloud PBX
-  - *練習 3&#58; 使用內部PSTN連接測試Cloud PBX
+  #### 實驗室&#58; 呼叫流程和可管理性
+  - *練習1&#58; 測試當前的PBX呼叫解決方案
+  - *練習2&#58; 啟用具有內部PSTN連接的Cloud PBX
+  - *練習3&#58; 使用內部PSTN連接測試Cloud PBX
 
   完成本單元後，學生將能夠&#58; 
   - *使用內部PSTN連接架構和方案說明Cloud PBX
 
 
   ### 模組 8&#58; 使用Cloud Connector Edition與內部PSTN連接的Cloud PBX
-  在內部具有語音解決方案的企業不包括商務用Skype伺服器2015或Lync Server 2013的企業仍可以透過利用Cloud Connector Edition（CCE）將其當前解決方案與商務用Skype Online整合。 為CCE選擇正確的拓撲以支援組織的語音要求非常重要。該模組將審查受支援的不同拓撲，並提供有關部署過程的指導。
+  在內部具有語音解決方案的企業不包括商務用Skype伺服器2015或Lync Server 2013的企業仍可以透過利用Cloud Connector Edition（CCE）將其當前解決方案與商務用Skype Online整合。  為CCE選擇正確的拓撲以支援組織的語音要求非常重要。該模組將審查受支援的不同拓撲，並提供有關部署過程的指導。
   #### 課程
   - Cloud Connector Edition簡介
   - 透過Cloud Connector Edition規劃PSTN連接
   - 部署Cloud Connector Edition
 
 
-  #### 實驗室 &#58; 部署Cloud Connector Edition
+  #### 實驗室&#58; 部署Cloud Connector Edition
   - 配置實驗室組織
   - 準備第一台Cloud Connector Edition高可用性設備
   - 準備第二個Cloud Connector版高可用性設備
@@ -234,13 +235,13 @@ outlineSection: |-
   - 位置資訊服務和E9-1-1
 
 
-  #### 實驗室 &#58; 配置回應群組
+  #### 實驗室&#58; 配置回應群組
   - 配置代理群組和佇列
   - 配置工作流程
   - 驗證回應群組服務行為
 
 
-  #### 實驗室 &#58; 配置位置資訊服務和管理設備
+  #### 實驗室&#58; 配置位置資訊服務和管理設備
   - 創建緊急路線和PSTN用法
   - 在主幹上為緊急號碼配置號碼處理
   - 定義LIS位置
@@ -267,7 +268,7 @@ outlineSection: |-
   - 軟體定義的網路
 
 
-  #### 實驗室 &#58; 管理語音品質
+  #### 實驗室&#58; 管理語音品質
   - 在“商務用Skype頻寬計算器”中輸入資訊
   - 查看計算結果
   - 配置服務品質
@@ -291,7 +292,7 @@ outlineSection: |-
   - 使用情況報告和監控
 
 
-  #### 實驗室 &#58; 部署呼叫品質儀表板，分析報告並捕獲KHI
+  #### 實驗室&#58; 部署呼叫品質儀表板，分析報告並捕獲KHI
   - 安裝Skype通話品質儀表板
   - 使用Skype通話品質儀表板
   - 分析對等會話詳細報告
@@ -314,7 +315,7 @@ outlineSection: |-
   - IP電話疑難​​排解
 
 
-  #### 實驗室 &#58; 對撥號規劃、路由和主幹進行疑難​​排解
+  #### 實驗室&#58; 對撥號規劃、路由和主幹進行疑難​​排解
   - 審查集中式日誌記錄服務組件
   - 使用CLS記錄器工具
   - 追踪Fundamentals
@@ -329,5 +330,6 @@ outlineSection: |-
   - 解決常見的商務用Skype Online用戶端問題。
   - 對IP電話進行疑難​​排解。
 
-  #### 其他閱讀
+  ####其他閱讀
   無
+

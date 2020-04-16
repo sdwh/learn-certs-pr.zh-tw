@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 用於客戶參與客戶服務的 Dynamics 365
+title: Dynamics 365 for customer engagement for customer service
 metadata:
-  title: '課程 MB-230T01-A: 用於客戶參與客戶服務的 Dynamics 365'
-  description: '課程 MB-230T01-A: 用於客戶參與客戶服務的 Dynamics 365'
+  title: 'Course MB-230T01-A: Dynamics 365 for customer engagement for customer service'
+  description: 'Course MB-230T01-A: Dynamics 365 for customer engagement for customer service'
 uid: course.mb-230t01
 courseNumber: 'MB-230T01-A'
 hoursToComplete: 24
@@ -38,7 +38,7 @@ prerequisitesSection: |-
   本課程適用於有志於 Microsoft 365 企業管理員角色並已完成 Microsoft 365 工作負載管理員認證途徑之一的人員。
 outlineSection: |-
   ### 模組 1&#58; 客戶服務概觀
-  在本模組中，學生將學習 Dynamics 365 中客戶服務的基礎。學生將安裝和配置應用程式，並瞭解安全角色，重要條款和分析。
+  在本模組中，學生將學習 Dynamics 365 中客戶服務的基礎。  學生將安裝和配置應用程式，並瞭解安全角色，重要條款和分析。
   #### 課程
   - 課程 1&#58; 創建案件記錄
   - 課程 2&#58; 相關服務應用程式
@@ -81,7 +81,7 @@ outlineSection: |-
 
 
   ### 模組 4&#58; 知識管理
-  在本模組中，學生將學習如何創建和使用知識管理。此外，學生還將學習知識文章的生命週期。
+  在本模組中，學生將學習如何創建和使用知識管理。  此外，學生還將學習知識文章的生命週期。
   #### 課程
   - 課程 1&#58; 知識管理概觀
   - 課程 2&#58; 制作和組織
@@ -91,3 +91,4 @@ outlineSection: |-
 
   完成本單元後，學生將能夠&#58;
   - 創建和管理知識內容
+

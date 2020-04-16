@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 線上管理 SharePoint
 metadata:
-  title: '課程 MS-300T02-A: 線上管理 SharePoint'
-  description: '課程 MS-300T02-A: 線上管理 SharePoint'
+  title: 'Course MS-300T02-A: 線上管理 SharePoint'
+  description: 'Course MS-300T02-A: 線上管理 SharePoint'
 uid: course.ms-300t02
 courseNumber: 'MS-300T02-A'
 hoursToComplete: 24
@@ -34,11 +34,11 @@ summary: |-
   本課程適用於在組織中部署和管理團隊工作基礎結構的 IT 專業人員。
 
   這是針對團隊工作管理員角色在一系列的四門課程中的第二門課程。這些課程幫助準備 MS-300 測驗&#58; 部署 Microsoft 365 團隊工作。
-
+  
   #### 對象設定檔
   本課程適用於 Microsoft 365 團隊工作管理員角色。此角色負責配置、部署與管理專注於高效率，有效的共同作業與採用的 Office 365 與 Azure 工作負載。他們管理應用程式，服務和支援基礎結構構，以滿足商務需求。管理員知道並可以區分產品和服務，但可能無法直接管理每個產品或服務。
 
-  Teamwork 管理員必須能夠部署，管理，轉移與保護 SharePoint（線上，本地與混合），OneDrive 與團隊。
+  Teamwork 管理員必須能夠部署，管理，轉移與保護 SharePoint（線上，本地與混合），OneDrive 與團隊。 
 
   Teamwork 管理員對以下應用程式和服務的整合點有基本的理解&#58; Office，PowerApps，Flow，Yammer，Microsoft Graph，Stream，Planner 和 Project。管理員理解如何整合協力廠商應用程式與服務，包括商務營運應用程式。
 prerequisitesSection: |-

@@ -1,19 +1,19 @@
 ### YamlMime:Course
 title: 管理 Microsoft 365 內建合規性
 metadata:
-  title: '課程 MS-500T04-A: 管理 Microsoft 365 內建合規性'
-  description: '課程 MS-500T04-A: 管理 Microsoft 365 內建合規性'
+  title: 'Course MS-500T04-A: 管理 Microsoft 365 內建合規性'
+  description: 'Course MS-500T04-A: 管理 Microsoft 365 內建合規性'
 uid: course.ms-500t04
 courseNumber: 'MS-500T04-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 計劃和部署資料封存和保留系統
-- skill: 在合規性管理員中執行評估
-- skill: 透過 Exchange 管理電子郵件保留
-- skill: 進行稽核記錄調查
-- skill: 創建和管理eDiscovery調查
-- skill: 管理 GDPR 資料主體要求
+- skill: 計劃和部署資料封存和保留系統。
+- skill: 在合規性管理員中執行評估。
+- skill: 透過 Exchange 管理電子郵件保留。
+- skill: 進行稽核記錄調查。
+- skill: 創建和管理eDiscovery調查。
+- skill: 管理 GDPR 資料主體要求。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -31,9 +31,9 @@ summary: |-
   您的組織可能需要內部原則和資料保留和調查的外部要求。在本課程中，您將學習在Microsoft 365中進封存和保留以及資料控管以及如何進行內容搜尋和調查。明確的說，本課程涵蓋資料保留原則和標籤，SharePoint 的就地記錄管理，電子郵件保留以及如何進行支援eDiscovery調查的內容搜尋。該課程還可以幫助您的組織準備一般資料保護規範（GDPR） 。
 
   #### 對象設定檔
-  本課程適用於 Microsoft 365 安全性系統管理員角色。該角色與 Microsoft 365 企業系統管理員，企業利害關係和其他工作負載管理員共同作業以計劃和實作安全性策略，並確保解決方案符合組織的政策和法規。
+  本課程適用於 Microsoft 365 安全性系統管理員角色。該角色與 Microsoft 365 企業系統管理員，企業利害關係和其他工作負載管理員共同作業以計劃和實作安全性策略，並確保解決方案符合組織的政策和法規。 
 
-  本角色主動保護 Microsoft 365 企業環境。責任包括回應威脅，實作，管理和監視 Microsoft 365 環境的安全性和合規性解決方案。他們回應事件，調查和強制資料控管。
+  本角色主動保護 Microsoft 365 企業環境。責任包括回應威脅，實作，管理和監視 Microsoft 365 環境的安全性和合規性解決方案。他們回應事件，調查和強制資料控管。 
 
   Microsoft 365 安全性系統管理員熟悉 Microsoft 365 工作負載，並且在身份識別保護，資訊保護，威脅防護，安全性管理和資料控管方面擁有豐富的技能與經驗。此角色側重於 Microsoft 365 環境，且包括混合式環境。
 prerequisitesSection: |-
@@ -49,8 +49,8 @@ outlineSection: |-
   本模組說明與 Microsoft 365（包括 Exchange 和 SharePoint）的資料保留和封存有關的概念。
 
   #### 課程
-  - Microsoft 365中的封存
-  - Microsoft 365中的保留
+  - Microsoft 365中的封存 
+  - Microsoft 365中的保留 
   - 在安全性和合規性中心中創建保留原則
   - 在 Exchange 中實作封存和保留
   - 在 SharePoint 中就地記錄管理
@@ -93,7 +93,7 @@ outlineSection: |-
 
 
   ### 模組 3&#58; 管理搜尋和調查
-  該模組著重於內容搜尋和調查。明確的說，涵蓋如何使用eDiscovery對 Microsoft 365 資料進行進階調查。同時涵蓋稽核紀錄，並討論 GDPR 資料主體要求。
+  該模組著重於內容搜尋和調查。  明確的說，涵蓋如何使用eDiscovery對 Microsoft 365 資料進行進階調查。同時涵蓋稽核紀錄，並討論 GDPR 資料主體要求。
   #### 課程
   - 在安全性和合規性中心中搜尋內容
   - 稽核記錄調查

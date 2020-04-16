@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Microsoft Azure 管理員
 metadata:
-  title: '課程 AZ-103T00-A: Microsoft Azure 管理員'
-  description: '課程 AZ-103T00-A: Microsoft Azure 管理員'
+  title: 'Course AZ-103T00-A: Microsoft Azure Administrator'
+  description: 'Course AZ-103T00-A: Microsoft Azure Administrator'
 uid: course.az-103t00
 courseNumber: 'AZ-103T00-A'
 hoursToComplete: 96
@@ -30,7 +30,7 @@ summary: |-
   本課程適用於Azure管理員。Azure管理員管理跨儲存，網路和計算雲端功能的雲端服務，並對整個IT生命週期中的每項服務都有深刻的瞭解。他們接受終端使用者對新雲端應用程式的請求，並就可以使用的服務提出建議，以實作最佳性能和規模，並根據需要進行配置，調整大小，監控和調整。該角色需要與供應商進行溝通和協調。Azure管理員使用Azure入口，並且隨著他們變得更加熟練，他們使用PowerShell和命令行界面。
 prerequisitesSection: |-
   - 瞭解內部虛擬化技術，包括&#58; VM，虛擬網路和虛擬硬碟。
-  - 瞭解網路配置，包括TCP/IP，網域名稱系統(DNS)，虛擬專用網路(VPN)，防火牆和加密技術。
+  - 瞭解網路配置，包括TCP / IP，網域名稱系統(DNS)，虛擬專用網路(VPN)，防火牆和加密技術。
   - 瞭解Active Directory概念，包括網域，樹系，網域控制器，複製，Kerberos協議和輕型目錄存取協議(LDAP)。
   - 瞭解彈性和災害復原，包括備份和還原操作。
 outlineSection: |-
@@ -61,7 +61,7 @@ outlineSection: |-
   在本模組中，您將學習基本的儲存功能，包括儲存帳戶、blob 儲存體、Azure 檔案和儲存安全性。
   #### 課程
   - 儲存帳戶
-  - Azure Blob
+  - Azure Blobs
   - Azure 檔案
   - 儲存安全
 
@@ -82,7 +82,7 @@ outlineSection: |-
   ### 模組 5&#58; 網站間連接
   在本模組中，您將學習網站間連接功能，包括VNet對等，VNet到VNet連接，網站到網站連接和ExpressRoute。
   #### 課程
-  - VNet對等
+  - VNet Peering
   - VNet到VNet連接
   - ExpressRoute連接
 
@@ -95,7 +95,7 @@ outlineSection: |-
   #### 課程
   - Azure監控器
   - Azure警示
-  - 記錄分析
+  - Log Analytics
   - 網路監看員
 
 
@@ -128,8 +128,8 @@ outlineSection: |-
 
   #### 課程
   - Azure Active Directory
-  - Azure AD連接
-  - Azure AD加入
+  - Azure AD Connect
+  - Azure AD Join
 
 
   #### 實驗室 &#58; 實作目錄同步

@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 為 Azure 儲存進行開發
 metadata:
-  title: '課程 AZ-203T03-A: Develop for Azure storage'
-  description: '課程 AZ-203T03-A: Develop for Azure storage'
+  title: 'Course AZ-203T03-A: Develop for Azure storage'
+  description: 'Course AZ-203T03-A: Develop for Azure storage'
 uid: course.az-203t03
 courseNumber: 'AZ-203T03-A'
 hoursToComplete: 24
@@ -55,7 +55,7 @@ outlineSection: |-
   - Azure Cosmos DB概述
   - 管理容器和物品
 
-  - 使用代碼創建和更新文件
+  使用代碼創建和更新文件
 
   完成本單元後，學生將能夠&#58; 
   - 瞭解Azure Cosmos DB的核心功能

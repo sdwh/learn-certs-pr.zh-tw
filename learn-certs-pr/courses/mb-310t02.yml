@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 在財務和營運中配置和使用應付帳款，應收帳款和收款
 metadata:
-  title: '課程 MB-310T02-A: 在財務和營運中配置和使用應付帳款，應收帳款和收款'
-  description: '課程 MB-310T02-A: 在財務和營運中配置和使用應付帳款，應收帳款和收款'
+  title: 'Course MB-310T02-A: 在財務和營運中配置和使用應付帳款，應收帳款和收款'
+  description: 'Course MB-310T02-A: 在財務和營運中配置和使用應付帳款，應收帳款和收款'
 uid: course.mb-310t02
 courseNumber: 'MB-310T02-A'
 hoursToComplete: 24
@@ -21,7 +21,7 @@ exams:
 - uid: exam.mb-310
 summary: |-
   組織透過提高獲利能力，最佳化員工生產力，減少營運支出，快速適應需求變更以及簡化資產管理來使用 Dynamics 365 for Finance and Operations 以提高其財務績效。
-  
+
   本課程討論如何在 Dynamics 365 for Finance and Operations 配置和使用應付帳款，應收帳款和收款。
 
   #### 對象設定檔
@@ -153,3 +153,4 @@ outlineSection: |-
   - 課後調查
 
   學生將完成課程。
+

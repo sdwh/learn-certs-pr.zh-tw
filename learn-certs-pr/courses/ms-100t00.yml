@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft 365 身份識別與服務（測試版）
+title: Microsoft 365 Identity and Services
 metadata:
-  title: '課程 MS-100T00-A: Microsoft 365 身份辨識與服務'
-  description: '課程 MS-100T00-A: Microsoft 365 身份辨識與服務'
+  title: 'Course MS-100T00-A: Microsoft 365 Identity and Services'
+  description: 'Course MS-100T00-A: Microsoft 365 Identity and Services'
 uid: course.ms-100t00
 courseNumber: 'MS-100T00-A'
 hoursToComplete: 120
@@ -31,7 +31,7 @@ summary: |-
   本課程涵蓋 Microsoft 365 企業管理的三個主要元素 – Microsoft 365 租用戶和服務管理，Office 365 管理和 Microsoft 365 身份識別管理。
   在 Microsoft 365 租用戶和服務管理中，您將檢查在設計 Microsoft 365 租用戶時必須計劃的所有關鍵元件。一旦完成此計劃階段後，您將學習如何配置 Microsoft 365 租用戶，包括組織設定檔，租用戶訂閱選項，元件服務，使用者帳號和授權以及安全性群組。最後，您將學習如何管理您的租用戶，包括配置租用戶角色以及管理租用戶健康狀況和服務。
   因為您的 Microsoft Office365 租用戶現在已到位， 您將檢查 Office 365 管理的關鍵元件。首先從 Office 365 產品功能概述開始，包括 Exchange Online，SharePoint Online，Microsoft Teams，其他產品資源和裝置管理。然後，您將轉換到配置 Office 365，主要重點是配置 Office 用戶端與 Office 365 的連接。最後，您將檢查如何管理 Office 365 ProPlus 部署，從使用者驅動的客戶安裝到集中式 Office 365 ProPlus 部署。您將以學習如何配置 Office 遙測和 Microsoft Analytics 來總結本節。
-  本課程總結對 Microsoft 365 身份識別同步處理的深入檢查，重點是 Azure Active Directory Connect。您將學習如何計劃和實作 Azure AD Connect，如何管理同步身份識別以及如何使用多重要素驗證和自助式密碼重設在 Microsoft 365 中實作密碼管理。本節將全面總結實作應用程式和外部存取進行。 您將學習如何在 Azure Active Directory 中新增和管理應用程式，包括如何配置多租用戶應用程式。然後，您將檢查如何配置 Azure AD 應用程式 Proxy，包括如何安裝和註冊連接器以及如何發佈內部部署應用程式以進行遠端存取。最後，您將檢查如何設計和管理用於外部存取的解決方案。這包括有關 Azure AD B2B 共同作業，創建共同作業的使用者以及對 B2B 共同作業進行疑難排解的授權指引。
+  本課程總結對 Microsoft 365 身份識別同步處理的深入檢查，重點是 Azure Active Directory Connect。您將學習如何計劃和實作 Azure AD Connect，如何管理同步身份識別以及如何使用多重要素驗證和自助式密碼重設在 Microsoft 365 中實作密碼管理。本節將全面總結實作應用程式和外部存取進行。  您將學習如何在 Azure Active Directory 中新增和管理應用程式，包括如何配置多租用戶應用程式。然後，您將檢查如何配置 Azure AD 應用程式 Proxy，包括如何安裝和註冊連接器以及如何發佈內部部署應用程式以進行遠端存取。最後，您將檢查如何設計和管理用於外部存取的解決方案。這包括有關 Azure AD B2B 共同作業，創建共同作業的使用者以及對 B2B 共同作業進行疑難排解的授權指引。
 
   #### 對象設定檔
   本課程適用於有志於 Microsoft 365 企業管理員角色並已完成 Microsoft 365 角色型的管理員認證途徑之一的人員。
@@ -62,7 +62,7 @@ outlineSection: |-
   ### 模組 3&#58; 實驗室 1 - 配置您的 Microsoft 365 租用戶
 
   ### 模組 &#58; 配置您的 Microsoft 365 租用戶
-  - 演練1 - 設定 Microsoft 365 試用租用戶
+  - 演練 1 - 設定 Microsoft 365 試用租用戶
 
 
   ### 模組 4&#58; 管理您的 Microsoft 365 租用戶
@@ -113,7 +113,7 @@ outlineSection: |-
   #### 模組 10&#58; 實驗 - 4 管理 Office 365 ProPlus 安裝
 
   #### 模組 &#58; 管理 Office 365 ProPlus 安裝
-  - 演練 1 - 準備 Office 365 ProPlus 受管理的安裝
+  - 演練 1- 準備 Office 365 ProPlus 受管理的安裝
   - 演練 2 - 管理集中式 Office 365 ProPlus 安裝
   - 演練 3 - 部署和配置 Office 遙測元件
 
@@ -140,3 +140,4 @@ outlineSection: |-
   - 配置 Azure AD 應用程式 Proxy
 
   - 設計外部存取的解決方案
+
