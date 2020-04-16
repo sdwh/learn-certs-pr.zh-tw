@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 'Dynamics 365: Power Platform 自動化'
 metadata:
-  title: '課程 MB-200T02-A: Dynamics 365: Power Platform 自動化'
-  description: '課程 MB-200T02-A: Dynamics 365: Power Platform 自動化'
+  title: 'Course MB-200T02-A: Dynamics 365: Power Platform 自動化'
+  description: 'Course MB-200T02-A: Dynamics 365: Power Platform 自動化'
 uid: course.mb-200t02
 courseNumber: 'MB-200T02-A'
 hoursToComplete: 24
@@ -98,3 +98,4 @@ outlineSection: |-
 
   完成本單元後，學生將能夠&#58;
   - 創建和使用商務流程。
+

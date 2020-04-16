@@ -1,19 +1,19 @@
 ### YamlMime:Course
 title: 實作 Microsoft 365 資訊保護
 metadata:
-  title: '課程 MS-500T03-A: 實作 Microsoft 365 資訊保護'
-  description: '課程 MS-500T03-A: 實作 Microsoft 365 資訊保護'
+  title: 'Course MS-500T03-A: 實作 Microsoft 365 資訊保護'
+  description: 'Course MS-500T03-A: 實作 Microsoft 365 資訊保護'
 uid: course.ms-500t03
 courseNumber: 'MS-500T03-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 實作資訊版權管理
-- skill: 在 Office 365 中保護郵件
-- skill: 配置資料外洩防護原則
-- skill: 部署和管理雲端 App 安全性
-- skill: 實作 Microsoft 365 的 Azure 資訊保護
-- skill: 實作裝置的 Windows 資訊保護
+- skill: 在 Office 365 中保護郵件。
+- skill: 配置資料外洩防護原則。
+- skill: 部署和管理雲端 App 安全性。
+- skill: 實作 Microsoft 365 的 Azure 資訊保護。
+- skill: 實作裝置的 Windows 資訊保護。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -31,40 +31,40 @@ summary: |-
   資訊保護是在生活中的任何地方尋找和分類資料的概念。在本課程中，您將學習有助於保護 Microsoft 365 環境的資訊保護技術。明確的說，本課程討論資訊版權管理的內容，郵件加密以及支援資料外洩防護和資訊保護的標籤，原則和規則。最後，本課程說明 Microsoft 雲端 App 安全性的部署。
 
   #### 對象設定檔
-  本課程適用於 Microsoft 365 安全性系統管理員角色。該角色與 Microsoft 365 企業系統管理員，企業利害關係和其他工作負載管理員共同作業以計劃和實作安全性策略，並確保解決方案符合組織的政策和法規。
+  本課程適用於 Microsoft 365 安全性系統管理員角色。該角色與 Microsoft 365 企業系統管理員，企業利害關係和其他工作負載管理員共同作業以計劃和實作安全性策略，並確保解決方案符合組織的政策和法規。 
 
   本角色主動保護 Microsoft 365 企業環境。責任包括回應威脅，實作，管理和監視 Microsoft 365 環境的安全性和合規性解決方案。他們回應事件，調查和強制資料控管。
 
   Microsoft 365 安全性系統管理員熟悉 Microsoft 365 工作負載，並且在身份識別保護，資訊保護，威脅防護，安全性管理和資料控管方面擁有豐富的技能與經驗。此角色側重於 Microsoft 365 環境，且包括混合式環境。
 prerequisitesSection: |-
   學習者應該已經具備以下技能才能開始本課程&#58;
-  - 對 Microsoft Azure 的基本概念瞭解
-  - 使用 Windows 10 裝置的經驗
-  - 使用Office 365的經驗
-  - 對授權和驗證的基本瞭解
-  - 對電腦網路的基本瞭解
-  - 管理行動裝置的工作知識
+  - 對 Microsoft Azure 的基本概念瞭解。
+  - 使用 Windows 10 裝置的經驗。
+  - 使用Office 365的經驗。
+  - 對授權和驗證的基本瞭解。
+  - 對電腦網路的基本瞭解。
+  - 管理行動裝置的工作知識。
 outlineSection: |-
   ### 模組 1&#58; 資訊保護
   本模組說明 Exchange 和 SharePoint 中的資訊版權管理。還描述用於保護郵件的加密技術。
   本模組介紹如何實作 Azure 資訊保護和 Windows 資訊保護。
   #### 課程
-  - 資訊版權管理
-  - 安全多用途網際網路郵件擴充
-  - Office 365 郵件加密
+  - 資訊版權管理 
+  - 安全多用途網際網路郵件擴充 
+  - Office 365 郵件加密 
   - Azure 資訊保護
   - 進階資訊保護
   - Windows 資訊保護
 
 
-  #### 實驗室 &#58; 資料外洩防護
+  #### 實驗室 &#58; 資料外洩防護 
   - 在您的組織中創建並授權使用者
   - 配置MDM 自動註冊
   - 配置 AIP 和 WIP
 
   完成本單元後，學生將能夠&#58;
   - 描述不同的 Microsoft 365 加密選項
-  - 描述S/MIME的用法。
+  - 描述S / MIME的用法。
   - 描述 Office 365 郵件加密如何運作。
   - 配置 Azure 資訊保護標籤和原則。
   - 配置版權管理服務（RMS）範本的進階 AIP 服務設定。
@@ -72,7 +72,7 @@ outlineSection: |-
 
 
   #### 模組 2&#58; 資料外洩防護
-  此模組全部是關於 Microsoft 365 中資料外洩防護。您將學習如何創建原則，編輯規則和自訂使用者通知。
+  此模組全部是關於 Microsoft 365 中資料外洩防護。  您將學習如何創建原則，編輯規則和自訂使用者通知。
   #### 課程
   - 資料外洩防護說明
   - 資料外洩防護原則
@@ -100,11 +100,11 @@ outlineSection: |-
 
 
   ### 模組 3&#58; 雲端應用程式安全性
-  此模組全部是關於 Microsoft 365 中雲端 應用程式安全性。該模組將說明雲端探索，應用程式連線程式，原則和警示。
+  此模組全部是關於 Microsoft 365 中雲端 應用程式安全性。  該模組將說明雲端探索，應用程式連線程式，原則和警示。
   #### 課程
   - 雲端應用程式安全性說明
   - 使用雲端應用程式安全性資訊
-  - Office 365 雲端應用程式安全性
+  - Office 365 Cloud App Security
 
   完成本單元後，學生將能夠&#58;
   - 描述雲端應用程式安全性。

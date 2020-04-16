@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 實作 Azure 資料解決方法
+title: Implementing an Azure Data Solution
 metadata:
-  title: '課程 DP-200T01-A: 實作 Azure 資料解決方法'
-  description: '課程 DP-200T01-A: 實作 Azure 資料解決方法'
+  title: 'Course DP-200T01-A: Implementing an Azure Data Solution'
+  description: 'Course DP-200T01-A: Implementing an Azure Data Solution'
 uid: course.dp-200t01
 courseNumber: 'DP-200T01-A'
 hoursToComplete: 72
@@ -37,7 +37,7 @@ summary: |-
   本課程的主要讀者是想要瞭解Microsoft Azure上存在的資料平台技術的資料專業人員，資料結構設計師和商業智慧專業人員。本課程的次要讀者是開發從資料平台交付內容的應用程式的個人。 Microsoft Azure上存在的技術。
 prerequisitesSection: |-
   除了專業經驗外，參加此訓練的學生還應具有與以下課程相當的技術知識&#58; 
-  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
+  - [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
 outlineSection: |-
   ### 模組 1&#58; 資料工程師的天藍色
   本模組探討了資料世界如何演變以及雲端資料平台技術如何為企業提供了以不同方式瀏覽資料的新機會。這些學生將概述可用的各種資料平台技術，以及資料工程師的角色職責如何演變為在這個新世界中工作以使組織受益。
@@ -232,3 +232,4 @@ outlineSection: |-
   - 解決常見的資料儲存問題
   - 解決常見的資料處理問題
   - 管理災害復原
+

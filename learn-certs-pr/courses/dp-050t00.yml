@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 將SQL工作負載移轉到Azure
 metadata:
-  title: '課程 DP-050T00-A: 將SQL工作負載移轉到Azure'
-  description: '課程 DP-050T00-A: 將SQL工作負載移轉到Azure'
+  title: 'Course DP-050T00-A: 將SQL工作負載移轉到Azure'
+  description: 'Course DP-050T00-A: 將SQL工作負載移轉到Azure'
 uid: course.dp-050t00
 courseNumber: 'DP-050T00-A'
 hoursToComplete: 48
@@ -31,7 +31,7 @@ summary: |-
   本課程的主要受眾是管理資料平台或開發可從現有資料平台技術交付內容的應用程式的人員。
 prerequisitesSection: |-
   除了具有SQL Server的專業經驗外，接受此訓練的學生還應具有與以下課程相當的技術知識&#58; 
-  - Azure fundamentals
+  - [Azure fundamentals](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
 outlineSection: |-
   ### 模組 1&#58; 資料平台現代化簡介
   在本模組中，學生將學習資料平台現代化的目的，並概述資料平台現代化可以為組織帶來的好處。然後，學生將學習資料平台移轉專案的各個階段，以瞭解每個階段涉及的內容，從而最大程度地提高成功實作資料平台現代化專案的機會。最後，學生將探索各種資料移轉路徑，以瞭解每種方法的不同之處以及為什麼選擇一種移轉方法而不是另一種。
@@ -129,3 +129,4 @@ outlineSection: |-
   - 移轉到SQL資料庫受控實例
   - 將資料載入並行動到SQL資料庫受控實例
   - 應用程式配置和最佳化
+

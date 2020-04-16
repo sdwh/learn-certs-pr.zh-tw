@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 配置 Dynamics 365 Field Service
 metadata:
-  title: '課程 MB-240T01-A: 配置 Dynamics 365 Field Service'
-  description: '課程 MB-240T01-A: 配置 Dynamics 365 Field Service'
+  title: 'Course MB-240T01-A: 配置 Dynamics 365 Field Service'
+  description: 'Course MB-240T01-A: 配置 Dynamics 365 Field Service'
 uid: course.mb-240t01
 courseNumber: 'MB-240T01-A'
 hoursToComplete: 24
@@ -58,3 +58,4 @@ outlineSection: |-
   - 創建事件
   - 使用服務工作
   - 定義產品，服務和技能
+

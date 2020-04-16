@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 實作 SharePoint 2019 服務應用程式
 metadata:
-  title: '課程 MS-301T02-A: 實作 SharePoint 2019 服務應用程式'
-  description: '課程 MS-301T02-A: 實作 SharePoint 2019 服務應用程式'
+  title: 'Course MS-301T02-A: 實作 SharePoint 2019 服務應用程式'
+  description: 'Course MS-301T02-A: 實作 SharePoint 2019 服務應用程式'
 uid: course.ms-301t02
 courseNumber: 'MS-301T02-A'
 hoursToComplete: 48
@@ -60,7 +60,7 @@ outlineSection: |-
   該模組全部是關於 SharePoint 服務應用程式和工作流程。描述如何佈建和管理 BCS 服務應用程式和使用者設定檔服務應用程式。明確的說，我們討論如何匯入和匯出 BDC 模型以及如何將使用者屬性匯入 SharePoint。
   #### 課程
   - SharePoint Service 應用程式和工作流程
-  - 計劃和配置 Business Connectivity Services（BCS）和 Secure Store
+  - 計劃和配置 Business Connectivity Services（BCS）和 Secure Store  
   - 計劃和配置使用者設定檔
 
   完成本單元後，學生將能夠&#58;

@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 使用Dynamics 365 for Finance and Operations 進行資料移轉並準備上線
 metadata:
-  title: '課程 MB-300T03-A: 使用Dynamics 365 for Finance and Operations 進行資料移轉並準備上線'
-  description: '課程 MB-300T03-A: 使用Dynamics 365 for Finance and Operations 進行資料移轉並準備上線'
+  title: 'Course MB-300T03-A: 使用Dynamics 365 for Finance and Operations 進行資料移轉並準備上線'
+  description: 'Course MB-300T03-A: 使用Dynamics 365 for Finance and Operations 進行資料移轉並準備上線'
 uid: course.mb-300t03
 courseNumber: 'MB-300T03-A'
 hoursToComplete: 24
@@ -37,14 +37,14 @@ outlineSection: |-
   - 簡介
   - 理解 BYOD 功能
 
-  - 執行測試移轉並驗證輸出
+  執行測試移轉並驗證輸出
   - 模組摘要
-  
+
 
   當需要進行資料移轉時，人們知道的越多，控制操作的複雜性並降低成本就越容易。客戶的商務連續性必須是優先順序的。
   在本模組中，學生將透過識別重要因素，例如舊版系統，靜態和一般資料，以學習如何準備成功移轉的資料。
-  
-  
+
+
   在本單元中，學生學習如何&#58;
   - 選擇資料整合（匯入/匯出）策略
   - 識別財務和營運中的常見移轉方案和工具
@@ -71,7 +71,7 @@ outlineSection: |-
   - 匯入，匯出資料並將其複製到法律實體
   - 練習實驗室
   - 模組摘要
-  
+
 
   在本單元中，學生學習如何&#58;
   - 透過使用資料實體整合識別指定狀況的正確模式，以使用資料管理平台
@@ -91,7 +91,7 @@ outlineSection: |-
   - 創建並執行用於使用者驗收的測試案件
   - 練習實驗室
   - 模組摘要
-  
+
 
   在本單元中，學生學習有關&#58;
   - 如何理解測試案例與商務需求之間的關係
@@ -111,7 +111,7 @@ outlineSection: |-
   - 簡介
   - 準備上線
   - 模組摘要
-  
+
 
   在本模組中，學生已學會如何&#58;
   - 準備上線
@@ -120,11 +120,14 @@ outlineSection: |-
   - 理解FastTrack即時評估
   - 要求生產環境
 
+
   ### 模組 5&#58; 課程總結
   最終評估和課程摘要，以及課程的課程後調查。
   #### 課程
   - 最終評估
   - 課程摘要
   - 課後調查
-  
+
+
   學生將完成課程。
+

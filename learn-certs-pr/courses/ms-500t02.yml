@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 實作 Microsoft 365 威脅防護
 metadata:
-  title: '課程 MS-500T02-A: 實作 Microsoft 365 威脅防護'
-  description: '課程 MS-500T02-A: 實作 Microsoft 365 威脅防護'
+  title: 'Course MS-500T02-A: 實作 Microsoft 365 威脅防護'
+  description: 'Course MS-500T02-A: 實作 Microsoft 365 威脅防護'
 uid: course.ms-500t02
 courseNumber: 'MS-500T02-A'
 hoursToComplete: 24
@@ -30,9 +30,9 @@ exams:
 - uid: exam.ms-500
 summary: |-
   威脅防護透過整合和自動化安全性來幫助阻止損害姓攻擊。在本課程中，您將學習有助於保護 Microsoft 365 環境的威脅防護技術。明確的說，您將學習威脅向量和他們的 Microsoft 安全性解決方案。您將學習安全分數，Exchange Online 保護，Azure 進階威脅防護，Windows Defender 進階威脅防護，以及如何使用 Microsoft 365 威脅情報。還討論保護行動裝置和應用程式。本課程的目標是幫助您配置 Microsoft 365 部署，以達成所需的安全性狀態。
-
+  
   #### 對象設定檔
-  本課程適用於 Microsoft 365 安全性系統管理員角色。該角色與 Microsoft 365 企業系統管理員，企業利害關係和其他工作負載管理員共同作業以計劃和實作安全性策略，並確保解決方案符合組織的政策和法規。
+  本課程適用於 Microsoft 365 安全性系統管理員角色。該角色與 Microsoft 365 企業系統管理員，企業利害關係和其他工作負載管理員共同作業以計劃和實作安全性策略，並確保解決方案符合組織的政策和法規。 
 
   本角色主動保護 Microsoft 365 企業環境。責任包括回應威脅，實作，管理和監視 Microsoft 365 環境的安全性和合規性解決方案。他們回應事件，調查和強制資料控管。
 
@@ -47,11 +47,11 @@ prerequisitesSection: |-
   - 管理行動裝置的工作知識。
 outlineSection: |-
   ### 模組 1&#58; 在 Microsoft 365 中安全性
-  本模組首先說明存在的各種網路攻擊威脅。然後，向您介紹 Microsoft 解決方案，以防止這些威脅。該模組以 Microsoft 安全分數以及如何將其用於評估和報告您的組織安全性狀態的說明作為結束。
+  本模組首先說明存在的各種網路攻擊威脅。  然後，向您介紹 Microsoft 解決方案，以防止這些威脅。  該模組以 Microsoft 安全分數以及如何將其用於評估和報告您的組織安全性狀態的說明作為結束。
   #### 課程
   - 威脅向量和資料外洩
   - Microsoft 365 的安全性解決方案
-  - Microsoft 安全分數
+  - Microsoft Secure Score
 
   完成本單元後，學生將能夠&#58;
   - 描述駭客透過電子郵件入侵使用者帳號的幾種技術。
@@ -66,11 +66,11 @@ outlineSection: |-
   本模組說明 Microsoft 365 中可用的各種威脅防護技術和服務。明確的說，該模塊涵蓋透過 Exchange Online Protection，Azure 進階威脅防護和 Windows Defender 進階威脅防護進行的郵件保護。
   #### 課程
   - Exchange Online Protection
-  - Office 365 進階威脅防護。
+  - Office 365 Advanced Threat Protection
   - 管理安全附件
   - 管理安全連結
-  - Azure 進階威脅防護
-  - Windows Defender 進階威脅防護
+  - Azure Advanced Threat Protection
+  - Windows Defender Advanced Threat Protection
 
 
   #### 實驗室 &#58; 進階威脅防護。
@@ -88,9 +88,9 @@ outlineSection: |-
 
 
   ### 模組 3&#58; 威脅情報
-  本模組說明 Microsoft 威脅情報，為您提供評估和解決網路威脅的工具。您將在 Microsoft 365 安全性和合規中心中學習如何使用安全儀表板。 還說明並配置 Microsoft 進階威脅分析。
+  本模組說明 Microsoft 威脅情報，為您提供評估和解決網路威脅的工具。您將在 Microsoft 365 安全性和合規中心中學習如何使用安全儀表板。  還說明並配置 Microsoft 進階威脅分析。
   #### 課程
-  - Microsoft 365 威脅情報
+  - Microsoft 365 Threat Intelligence
   - 使用安全性儀表板
   - 配置進階威脅分析
 

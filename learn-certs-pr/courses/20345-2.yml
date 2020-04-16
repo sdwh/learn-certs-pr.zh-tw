@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 設計和部署Microsoft Exchange Server 2016/2019
 metadata:
-  title: '課程 20345-2-B: 設計和部署Microsoft Exchange Server 2016/2019'
-  description: '課程 20345-2-B: 設計和部署Microsoft Exchange Server 2016/2019'
+  title: 'Course 20345-2-B: 設計和部署Microsoft Exchange Server 2016/2019'
+  description: 'Course 20345-2-B: 設計和部署Microsoft Exchange Server 2016/2019'
 uid: course.20345-2
 courseNumber: '20345-2-B'
 hoursToComplete: 120
@@ -49,7 +49,7 @@ prerequisitesSection: |-
 outlineSection: |-
   ### 模組 1&#58; 規劃Exchange Server部署
   本模組說明了Exchange Server的關鍵功能，並說明如何收集商務需求。它還說明如何規劃Exchange Server部署以及如何將統一訊息移轉到Cloud Voicemail。
-  
+
   #### 課程
   - Exchange Server 2019中的新功能
   - 收集Exchange Server部署的商務需求
@@ -57,7 +57,7 @@ outlineSection: |-
   - 規劃將統一訊息（UM）移轉到Cloud Voicemail
 
 
-  #### 實驗室 &#58; 規劃Exchange Server 2019部署
+  #### 實驗室&#58; 規劃Exchange Server 2019部署
   - 評估現有的通訊基礎結構
   - 確定要求
   - 討論&#58; Exchange Server 2019的部署設計
@@ -77,7 +77,7 @@ outlineSection: |-
   - 規劃和實作公用資料夾
 
 
-  #### 實驗室 &#58; 規劃和實作Exchange Server信箱伺服器，資料庫和公用資料夾
+  #### 實驗室&#58; 規劃和實作Exchange Server信箱伺服器，資料庫和公用資料夾
   - 規劃信箱伺服器的配置和位置
   - 規劃信箱資料庫
   - 實作信箱資料庫
@@ -98,7 +98,7 @@ outlineSection: |-
   - 設計和實作運輸合規性
 
 
-  #### 實驗室 &#58; 規劃訊息傳輸
+  #### 實驗室&#58; 規劃訊息傳輸
   - 規劃冗餘和安全的訊息傳輸
   - 規劃運輸合規性
   - 遵守運輸法規
@@ -120,7 +120,7 @@ outlineSection: |-
   - 設計外部用戶端存取
 
 
-  #### 實驗室 &#58; 規劃和部署用戶端存取解決方案
+  #### 實驗室&#58; 規劃和部署用戶端存取解決方案
   - 規劃和配置名稱空間
   - 規劃和配置用戶端存取服務選項
   - 規劃和部署Office Online伺服器
@@ -142,7 +142,7 @@ outlineSection: |-
   - 規劃網站彈性
 
 
-  #### 實驗室 &#58; 設計和實作高可用性
+  #### 實驗室&#58; 設計和實作高可用性
   - 規劃高可用性和網站彈性
   - 創建網站彈性DAG
   - 驗證網站的彈性
@@ -162,7 +162,7 @@ outlineSection: |-
   - 實作DSC
 
 
-  #### 實驗室 &#58; 維護Exchange Server
+  #### 實驗室&#58; 維護Exchange Server
   - 使用Windows PowerShell調查和配置受管理的可用性
   - 實作DSC
 
@@ -178,7 +178,7 @@ outlineSection: |-
   - 設計和實作AD RMS和Azure RMS
 
 
-  #### 實驗室 &#58; 設計訊息傳遞安全性
+  #### 實驗室&#58; 設計訊息傳遞安全性
   - 規劃訊息傳遞安全性
   - 實作AD RMS
   - 將AD RMS與Exchange Server整合
@@ -197,7 +197,7 @@ outlineSection: |-
   - 設計和實作訊息保留
 
 
-  #### 實驗室 &#58; 設計和實作訊息保留和歸檔
+  #### 實驗室&#58; 設計和實作訊息保留和歸檔
   - 設計訊息保留和歸檔
   - 實作訊息保留和歸檔
 
@@ -215,7 +215,7 @@ outlineSection: |-
   - 設計和實作就地eDiscovery
 
 
-  #### 實驗室 &#58; 設計和實作訊息傳遞合規性
+  #### 實驗室&#58; 設計和實作訊息傳遞合規性
   - 設計訊息傳遞合規性
   - 實作資料外洩預防
   - 實作就地eDiscovery
@@ -235,7 +235,7 @@ outlineSection: |-
   - 設計和實作跨樹系信箱行動
 
 
-  #### 實驗室 &#58; 實作訊息共存
+  #### 實驗室&#58; 實作訊息共存
   - 實作訊息路由共存
   - 移轉使用者信箱
 
@@ -252,7 +252,7 @@ outlineSection: |-
   - 從以前的Exchange Server版本實作升級
 
 
-  #### 實驗室 &#58; 從Exchange Server 2013升級到Exchange Server 2019
+  #### 實驗室&#58; 從Exchange Server 2013升級到Exchange Server 2019
   - 記錄Exchange Server 2013組織
   - 部署Exchange Server 2019
   - 從Exchange Server 2013升級到Exchange Server 2019
@@ -273,7 +273,7 @@ outlineSection: |-
   - 為混合部署實作高階功能
 
 
-  #### 實驗室 &#58; 規劃混合Exchange部署
+  #### 實驗室&#58; 規劃混合Exchange部署
   - 為混合Exchange部署制定規劃
 
   完成本單元後，學生將能夠&#58; 
@@ -282,3 +282,4 @@ outlineSection: |-
   - 實作Azure AD Connect
   - 實作混合部署
   - 為混合部署實作高階功能
+

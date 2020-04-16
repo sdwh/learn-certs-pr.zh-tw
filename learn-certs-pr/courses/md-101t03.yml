@@ -1,19 +1,19 @@
 ### YamlMime:Course
 title: 保護現代智慧桌面和裝置
 metadata:
-  title: '課程 MD-101T03-A: 保護現代智慧桌面和裝置'
-  description: '課程 MD-101T03-A: 保護現代智慧桌面和裝置'
+  title: 'Course MD-101T03-A: 保護現代智慧桌面和裝置'
+  description: 'Course MD-101T03-A: 保護現代智慧桌面和裝置'
 uid: course.md-101t03
 courseNumber: 'MD-101T03-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 描述 Azure AD 的優勢和功能
-- skill: 使用 Azure AD 和 Active Directory DS 管理使用者
-- skill: 實作 Windows Hello 企業版
-- skill: 根據合規性原則配置條件式存取規則
-- skill: 描述用於保護裝置和資料的各種工具
-- skill: 實作 Windows Defender 進階威脅防護
+- skill: 描述 Azure AD 的優勢和功能。
+- skill: 使用 Azure AD 和 Active Directory DS 管理使用者。
+- skill: 實作 Windows Hello 企業版。
+- skill: 根據合規性原則配置條件式存取規則。
+- skill: 描述用於保護裝置和資料的各種工具。
+- skill: 實作 Windows Defender 進階威脅防護。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -111,3 +111,4 @@ outlineSection: |-
 
 
   #### 實驗室 &#58; 已評分的實驗室
+

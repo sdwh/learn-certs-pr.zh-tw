@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 實作 Azure 安全性
 metadata:
-  title: '課程 AZ-203T04-A: Implement Azure security'
-  description: '課程 AZ-203T04-A: Implement Azure security'
+  title: 'Course AZ-203T04-A: Implement Azure security'
+  description: 'Course AZ-203T04-A: Implement Azure security'
 uid: course.az-203t04
 courseNumber: 'AZ-203T04-A'
 hoursToComplete: 24
@@ -35,7 +35,7 @@ summary: |-
   - 學生應具有1-2年的開發經驗。本課程假定學生知道如何編碼並具有Azure的基本知識。
 prerequisitesSection: |-
   - 學生應具有1-2年的開發經驗。本課程假定學生知道如何編碼並具有Azure的基本知識。
-  - 建議學生具有在PowerShell或Azure CLI，在Azure入口中 工作以及至少使用一種Azure支援的程式設計語言的經驗。本課程中的大多數示例都在C#.NET中提供。
+  - 建議學生具有在PowerShell或Azure CLI，在Azure入口中工作以及至少使用一種Azure支援的程式設計語言的經驗。本課程中的大多數示例都在C＃.NET中提供。
 outlineSection: |-
   ### 模組 1&#58; 實作驗證
   Microsoft身份識別平台是Azure Active Directory（Azure AD）身份識別服務和開發人員平台的演變。它允許開發人員構建用於登錄所有Microsoft身份識別的應用程式，獲得用於調用Microsoft Graph，其他Microsoft API或開發人員已構建的API的權杖。
@@ -75,3 +75,4 @@ outlineSection: |-
   - 瞭解加密選項
   - 使用透明資料加密來加密資料
   - 透過使用Azure密鑰保管庫來管理和利用加密密鑰
+

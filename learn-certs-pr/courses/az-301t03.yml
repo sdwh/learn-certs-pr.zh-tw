@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 設計部署、移轉和整合
 metadata:
-  title: '課程 AZ-301T03-A: 設計用於部署、移轉和整合'
-  description: '課程 AZ-301T03-A: 設計用於部署、移轉和整合'
+  title: 'Course AZ-301T03-A: 設計用於部署、移轉和整合'
+  description: 'Course AZ-301T03-A: 設計用於部署、移轉和整合'
 uid: course.az-301t03
 courseNumber: 'AZ-301T03-A'
 hoursToComplete: 24
@@ -86,3 +86,4 @@ outlineSection: |-
   - 描述API，行動和Web應用之間的區別。
   - 將API或邏輯應用程式與API管理服務整合在一起。
   - 設計應用程式服務規劃或多區域部署以實作高性能和可擴展性。
+

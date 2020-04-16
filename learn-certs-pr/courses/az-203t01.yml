@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 開發作為服務計算解決方法的 Azure 基礎架構
 metadata:
-  title: '課程 AZ-203T01-A: 開發Azure基礎結構即服務計算解決方案'
-  description: '課程 AZ-203T01-A: 開發Azure基礎結構即服務計算解決方案'
+  title: 'Course AZ-203T01-A: 開發Azure基礎結構即服務計算解決方案'
+  description: 'Course AZ-203T01-A: 開發Azure基礎結構即服務計算解決方案'
 uid: course.az-203t01
 courseNumber: 'AZ-203T01-A'
 hoursToComplete: 24
@@ -77,3 +77,4 @@ outlineSection: |-
   - Learn how to deploy AKS clusters
   - 向 Azure 容器註冊表發佈一個映像
   - Learn about Azure Container Instances and how to deploy to them
+

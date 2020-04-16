@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Microsoft Azure 安全技術
 metadata:
-  title: '課程 AZ-500T00-A: Microsoft Azure 安全技術'
-  description: '課程 AZ-500T00-A: Microsoft Azure 安全技術'
+  title: 'Course AZ-500T00-A: Microsoft Azure 安全技術'
+  description: 'Course AZ-500T00-A: Microsoft Azure 安全技術'
 uid: course.az-500t00
 courseNumber: 'AZ-500T00-A'
 hoursToComplete: 96
@@ -38,7 +38,7 @@ summary: |-
 
   #### 對象設定檔
   學生應具有至少一年的實踐經驗，以確保Azure工作負載的安全，並具有關於Azure工作負載的安全控制的經驗。
-prerequisitesSection: |-  
+prerequisitesSection: |-
   [Microsoft Azure Administrator Associate](https://docs.microsoft.com/learn/certifications/azure-administrator)
 outlineSection: |-
   ### 模組 1&#58; 身分識別和存取
@@ -76,3 +76,4 @@ outlineSection: |-
   - 為應用程式生命週期實作安全性
   - 保護應用程式
   - 配置和管理Azure Key Vault
+

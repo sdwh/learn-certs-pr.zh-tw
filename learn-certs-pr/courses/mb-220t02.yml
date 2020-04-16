@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 在 Dynamics 365 for Marketing 中設定事件和調查
 metadata:
-  title: '課程 MB-220T02-A: 在 Dynamics 365 for Marketing 中設定事件和調查'
-  description: '課程 MB-220T02-A: 在 Dynamics 365 for Marketing 中設定事件和調查'
+  title: 'Course MB-220T02-A: 在 Dynamics 365 for Marketing 中設定事件和調查'
+  description: 'Course MB-220T02-A: 在 Dynamics 365 for Marketing 中設定事件和調查'
 uid: course.mb-220t02
 courseNumber: 'MB-220T02-A'
 hoursToComplete: 24
@@ -62,7 +62,7 @@ outlineSection: |-
   - 創建可重複使用的調查主題
   - 創建，設計，預覽和發布調查
 
-  - 瞭解如何透過 Dynamics 365 for Marketing 管道散發調查
+  瞭解如何透過 Dynamics 365 for Marketing 管道散發調查
   - 複製，匯入，翻譯，關閉，停止或刪除調查
 
 
@@ -74,3 +74,4 @@ outlineSection: |-
   完成本單元後，學生將能夠&#58;
   - 利用事件儀表板評估事件的結果
   - 檢閱調查結果
+

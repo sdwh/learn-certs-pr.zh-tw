@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 管理現代智慧桌面和裝置
 metadata:
-  title: '課程 MD-101T02-A: 管理現代智慧桌面和裝置'
-  description: '課程 MD-101T02-A: 管理現代智慧桌面和裝置'
+  title: 'Course MD-101T02-A: 管理現代智慧桌面和裝置'
+  description: 'Course MD-101T02-A: 管理現代智慧桌面和裝置'
 uid: course.md-101t02
 courseNumber: 'MD-101T02-A'
 hoursToComplete: 48
@@ -76,7 +76,7 @@ outlineSection: |-
   該模組更深入探討 Intune 裝置設定檔，包括裝置設定檔的類型以及內建和自訂設定檔之間的差異。學生將學習關於如何將設定檔指派給 Azure AD 群組以及在 Intune 中監視裝置和設定檔。本模組總結概述使用 Windows Analytics 進行健康和合規性報告。
   #### 課程
   - 配置裝置設定檔
-  -管理使用者設定檔
+  - 管理使用者設定檔
   - 監視裝置
 
 
@@ -114,7 +114,7 @@ outlineSection: |-
   - 配置商務用 Microsoft Store
   - 使用 Intune 部署 Office365 ProPlus
   - 管理和報告應用程式清查和授權
-  - 配置 Internet Explorer 企業模式
+  配置 Internet Explorer 企業模式
 
 
   ### 模組 4&#58; 課程總結
@@ -128,3 +128,4 @@ outlineSection: |-
   - 創建和指派裝置設定檔
   - 配置使用者設定檔和資料夾重新導向
   - 使用 Intune 和 Windows Analytics 監視並報告裝置
+

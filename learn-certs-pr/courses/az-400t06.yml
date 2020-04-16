@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 實作持續回饋
 metadata:
-  title: '課程 AZ-400T06-A: Implementing Continuous Feedback'
-  description: '課程 AZ-400T06-A: Implementing Continuous Feedback'
+  title: 'Course AZ-400T06-A: Implementing Continuous Feedback'
+  description: 'Course AZ-400T06-A: Implementing Continuous Feedback'
 uid: course.az-400t06
 courseNumber: 'AZ-400T06-A'
 hoursToComplete: 24
@@ -93,3 +93,4 @@ outlineSection: |-
   - 分析遙測以建立基準線
   - 執行即時網站檢閱並擷取系統中斷的回饋
   - 執行持續調整以減少無意義或無法運作的警示
+

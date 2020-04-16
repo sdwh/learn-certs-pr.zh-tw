@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 實作相依性管理
 metadata:
-  title: '課程 AZ-400T04-A: 實作相依性管理'
-  description: '課程 AZ-400T04-A: 實作相依性管理'
+  title: 'Course AZ-400T04-A: 實作相依性管理'
+  description: 'Course AZ-400T04-A: 實作相依性管理'
 uid: course.az-400t04
 courseNumber: 'AZ-400T04-A'
 hoursToComplete: 24
@@ -70,3 +70,4 @@ outlineSection: |-
   - 配置構建管道以存取軟體包安全性和許可證等級
 
   - 設定對套件摘要的安全存取
+
