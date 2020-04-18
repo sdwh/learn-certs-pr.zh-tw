@@ -1,17 +1,17 @@
 ### YamlMime:Course
-title: 安裝 Windows 10
+title: 安裝 Windows 10。
 metadata:
-  title: '課程 MD-100T01-A: 安裝 Windows 10'
-  description: '課程 MD-100T01-A: 安裝 Windows 10'
+  title: 'Course MD-100T01-A: Installing Windows 10'
+  description: 'Course MD-100T01-A: Installing Windows 10'
 uid: course.md-100t01
 courseNumber: 'MD-100T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 準備安裝 Windows 10
-- skill: 安裝 Windows 10
-- skill: 配置 Windows 更新
-- skill: 執行安裝後配置工作
+- skill: 準備安裝 Windows 10。
+- skill: 安裝 Windows 10。
+- skill: 配置 Windows 更新。
+- skill: 執行安裝後配置工作。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -25,25 +25,27 @@ products:
 exams:
 - uid: exam.md-100
 summary: |-
-  在 本課程中，學生將學習如何支援安裝工作
+  在
+  本課程中，學生將學習如何支援安裝工作
   與 Windows 10 相關聯。學生將學習技能，包括學習
   如何安裝和自訂 Windows 10 作業系統。學生還將
   瞭解有關新的 Windows 服務模型和使 Windows
   保持最新狀態的方法。本課程將總結常見的安裝後工作。
 
   #### 對象設定檔
-  本測驗的 應試者是執行 Windows 10 核心服務的安裝，配置，一般本機管理
+  本測驗的
+  應試者是執行 Windows 10 核心服務的安裝，配置，一般本機管理
   一般本機管理和維護的 IT 專業人員。
   應試者可能還熟悉企業方案和雲端整合
   服務。
 prerequisitesSection: |-
   學習者應該已經具備以下技能才能開始本課程&#58;
   - 基本理解電腦網路和硬體概念。
-  - 基本理解作業系統和應用程式概念。
+  基本理解作業系統和應用程式概念。
   - 使用 Windows 作業系統的經驗。
 outlineSection: |-
   ### 模組 1&#58; 安裝 Windows
-  本模組介紹如何安裝 Windows 10 作業系統。學生將學習 Windows 10 的不同版本，要求和引進的新功能。本模組介紹如何安裝操作系統以及移轉和升級方法。學生還將學習部署過程中使用的常用工具。
+  本模組介紹如何安裝 Windows 10 作業系統。  學生將學習 Windows 10 的不同版本，要求和引進的新功能。本模組介紹如何安裝操作系統以及移轉和升級方法。學生還將學習部署過程中使用的常用工具。
   #### 課程
   - 介紹 Windows 10。
   - 安裝選項
@@ -112,3 +114,4 @@ outlineSection: |-
 
 
   #### 實驗室 &#58; 已評分的實驗室
+

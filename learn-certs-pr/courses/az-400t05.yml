@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Implementing 實作應用程式基礎結構
 metadata:
-  title: '課程 AZ-400T05-A: 實作應用程式基礎結構'
-  description: '課程 AZ-400T05-A: 實作應用程式基礎結構'
+  title: 'Course AZ-400T05-A: 實作應用程式基礎結構'
+  description: 'Course AZ-400T05-A: 實作應用程式基礎結構'
 uid: course.az-400t05
 courseNumber: 'AZ-400T05-A'
 hoursToComplete: 24
@@ -39,9 +39,9 @@ summary: |-
   本課程的學生對實作應用程式基礎結構以及該基礎結構的管理和配置，或透過Microsoft Azure DevOps Solutions認證測驗感興趣。
 prerequisitesSection: |-
   學生應具有有關Azure的基礎知識，虛擬機器和容器的使用經驗以及對自動化和指令碼的瞭解。
-  
+
   有使用Windows或Linux在軟體開發或操作環境中工作的經驗會有所幫助，但不是必需的。
-  
+
   學生還應該具有一般應用程式開發和部署過程的知識。
 outlineSection: |-
   ### 模組 1&#58; 基礎結構和配置Azure工具
@@ -69,7 +69,7 @@ outlineSection: |-
   - 具有DevOps的Azure自動化
   - 預期狀態設定（DSC）
   - Azure平台即服務(PaaS)服務
-  - Azure服務結構
+  - Azure Service Fabric
   - 實驗室Azure自動化-IaaS或PaaS部署
   - Moduel評論問題
 
@@ -107,12 +107,9 @@ outlineSection: |-
 
   ### 模組 5&#58; 在基礎結構中實作合規性和安全性
   #### 課程
-  - DevOps的安全性和合規性原則
-
+  -DevOps的安全性和合規性原則
   - Azure安全中心
-
   - 實驗室將掃描擴展程序或工具整合到Azure DevOps管道/安全中心中
-
   - 模組複習題
 
   完成本單元後，學生將能夠&#58; 
@@ -124,3 +121,4 @@ outlineSection: |-
   ### 模組 6&#58; 課程完成
   #### 課程
   - 期末測驗
+

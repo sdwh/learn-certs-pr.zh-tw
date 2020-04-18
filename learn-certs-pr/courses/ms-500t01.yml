@@ -1,20 +1,20 @@
 ### YamlMime:Course
 title: 管理 Microsoft 365 身份識別和存取
 metadata:
-  title: '課程 MS-500T01-A: 管理 Microsoft 365 身份識別和存取'
-  description: '課程 MS-500T01-A: 管理 Microsoft 365 身份識別和存取'
+  title: 'Course MS-500T01-A: 管理 Microsoft 365 身份識別和存取'
+  description: 'Course MS-500T01-A: 管理 Microsoft 365 身份識別和存取'
 uid: course.ms-500t01
 courseNumber: 'MS-500T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 管理 Microsoft 365 中使用者和群組安全性
-- skill: 在 Microsoft 365 中管理密碼
-- skill: 描述 Azure 身分識別保護功能
-- skill: 計劃和實作 Azure AD Connect
-- skill: 管理已同步處理的身份識別
-- skill: 計劃實作同盟身份識別
-- skill: 描述和使用條件式存取
+- skill: 管理 Microsoft 365 中使用者和群組安全性。
+- skill: 在 Microsoft 365 中管理密碼。
+- skill: 描述 Azure 身分識別保護功能。
+- skill: 計劃和實作 Azure AD Connect。
+- skill: 管理已同步處理的身份識別。
+- skill: 計劃實作同盟身份識別。
+- skill: 描述和使用條件式存取。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -32,7 +32,7 @@ summary: |-
   使用身份識別和存取管理幫助防止憑據洩露。在本課程中，您將學習如何確保使用者存取組織資源。明確的說，本課程涵蓋使用者密碼保護，多重要素驗證，如何啟用 Azure 身份識別保護，如何配置 Active Directory 同盟服務，如何設定和使用 Azure AD Connect，並向您介紹條件式存取。您還將學習管理 Microsoft 365 系統的外部存取解決方案。
 
   #### 對象設定檔
-  本課程適用於 Microsoft 365 安全性系統管理員角色。該角色與 Microsoft 365 企業系統管理員，企業利害關係和其他工作負載管理員共同作業以計劃和實作安全性策略，並確保解決方案符合組織的政策和法規。
+  本課程適用於 Microsoft 365 安全性系統管理員角色。該角色與 Microsoft 365 企業系統管理員，企業利害關係和其他工作負載管理員共同作業以計劃和實作安全性策略，並確保解決方案符合組織的政策和法規。 
 
   本角色主動保護 Microsoft 365 企業環境。
   責任包括回應威脅，實作，管理和監視 Microsoft 365 環境的安全性和合規性解決方案。他們回應事件，調查和強制資料控管。
@@ -75,7 +75,7 @@ outlineSection: |-
 
 
   ### 模組 2&#58; 身分識別同步處理
-  本模塊說明關於同步處理身分識別的概念。明確的說，專注於 Azure AD Connect 和管理目錄同步處理，以確保合適人選連線到您的 Microsoft 365 系統。
+  本模塊說明關於同步處理身分識別的概念。  明確的說，專注於 Azure AD Connect 和管理目錄同步處理，以確保合適人選連線到您的 Microsoft 365 系統。
   #### 課程
   - 身份識別同步處理簡介
   - 計劃 Azure AD Connect
@@ -98,7 +98,7 @@ outlineSection: |-
   - 使用 Azure AD Connect 同步處理安全性群組
 
 
-  ### 模組 3&#58; 同盟身分識別
+  ### 模組 3&#58; 同盟身分識別 
   本模組全部是關於 Active Directory 同盟服務（ADFS）。明確的說，您將學習如何計劃和管理 AD FS，以實作要從其他目錄向使用者提供的存取等級。
   #### 課程
   - 同盟識別身分簡介

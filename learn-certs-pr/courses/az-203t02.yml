@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 開發作為服務計算解決方法的 Azure 平台
 metadata:
-  title: '課程 AZ-203T02-A: Develop Azure Platform as a Service compute solutions'
-  description: '課程 AZ-203T02-A: Develop Azure Platform as a Service compute solutions'
+  title: 'Course AZ-203T02-A: Develop Azure Platform as a Service compute solutions'
+  description: 'Course AZ-203T02-A: Develop Azure Platform as a Service compute solutions'
 uid: course.az-203t02
 courseNumber: 'AZ-203T02-A'
 hoursToComplete: 24
@@ -35,7 +35,7 @@ summary: |-
   - 學生應具有1-2年的開發經驗。本課程假定學生知道如何編碼並具有Azure的基本知識。
 prerequisitesSection: |-
   - 學生應具有1-2年的開發經驗。本課程假定學生知道如何編碼並具有Azure的基本知識。
-  - 建議學生具有在PowerShell或Azure CLI，在Azure入口中工作以及至少使用一種Azure支援的程式設計語言的經驗。本課程中的大多數示例都在C#.NET中提供。
+  - 建議學生具有在PowerShell或Azure CLI，在Azure入口中工作以及至少使用一種Azure支援的程式設計語言的經驗。本課程中的大多數示例都在C＃.NET中提供。
 outlineSection: |-
   ### 模組 1&#58; 創建App Service網路應用
   Azure App Service Web Apps（或僅Web Apps）是用於受控Web應用程式，REST API和行動後端的服務。Web Apps透過安全性，負載平衡，自動縮放和自動化管理，將Microsoft Azure的功能添加到您的應用程式中。
@@ -84,3 +84,4 @@ outlineSection: |-
   - 瞭解Azure功能的核心功能
   - 創建函數，綁定和触發器
   - 瞭解耐用功能的常見模式並能夠創建它們
+

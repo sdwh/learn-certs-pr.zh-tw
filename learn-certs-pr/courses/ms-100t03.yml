@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft 365 身份管理
+title: Microsoft 365 Identity Management
 metadata:
-  title: '課程 MS-100T03-A: Microsoft 365 身份識別管理'
-  description: '課程 MS-100T03-A: Microsoft 365 身份識別管理'
+  title: 'Course MS-100T03-A: Microsoft 365 Identity Management'
+  description: 'Course MS-100T03-A: Microsoft 365 Identity Management'
 uid: course.ms-100t03
 courseNumber: 'MS-100T03-A'
 hoursToComplete: 48
@@ -81,3 +81,4 @@ outlineSection: |-
   - 在 Azure AD 中實作應用程式
   - 配置 Azure AD 應用程式 Proxy
   - 設計外部存取的解決方案
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 設計一個資料平台解決方案
 metadata:
-  title: '課程 AZ-301T02-A: Designing a Data Platform Solution'
-  description: '課程 AZ-301T02-A: Designing a Data Platform Solution'
+  title: 'Course AZ-301T02-A: Designing a Data Platform Solution'
+  description: 'Course AZ-301T02-A: Designing a Data Platform Solution'
 uid: course.az-301t02
 courseNumber: 'AZ-301T02-A'
 hoursToComplete: 24
@@ -84,3 +84,4 @@ outlineSection: |-
   - 為Azure中受控的解決方案設計警示方案。
   - 為Azure中受控的基礎結構和資料選擇適當的備份選項。
   - 自動化未來資源的部署，以進行備份恢復或擴展。
+

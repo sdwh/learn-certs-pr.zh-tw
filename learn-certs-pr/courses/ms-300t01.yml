@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 管理 Office 365 內容服務
 metadata:
-  title: '課程 MS-300T01-A: 管理 Office 365 內容服務'
-  description: '課程 MS-300T01-A: 管理 Office 365 內容服務'
+  title: 'Course MS-300T01-A: 管理 Office 365 內容服務'
+  description: 'Course MS-300T01-A: 管理 Office 365 內容服務'
 uid: course.ms-300t01
 courseNumber: 'MS-300T01-A'
 hoursToComplete: 48
@@ -31,7 +31,7 @@ exams:
 summary: |-
   內容是每個組織最關鍵的數位資產。在本課程中，您將學習如何計劃，配置和管理 SharePoint 網站集合和商務用 OneDrive，以啟用可轉換內容生命週期的現代內容服務。明確的說，本課程討論現代 SharePoint 網站結構，例如 SharePoint 中樞網站。提供在組織內採用和部署商務用 OneDrive for Business 的最佳做法。同時涵蓋 SharePoint Online 和商務用 OneDrive for business 中的共享、安全性和監視。
 
-  本課程適用於在組織中部署和管理團隊工作基礎結構的 IT 專業人員。
+  本課程適用於在組織中部署和管理團隊工作基礎結構的 IT 專業人員。 
 
   這是針對團隊工作管理員角色在一系列的四門課程中的第一門課程。這些課程幫助準備 MS-300 測驗&#58; 部署 Microsoft 365 團隊工作。
 
@@ -77,11 +77,11 @@ outlineSection: |-
   - 在商務用 OneDrive 中配置資料保留
   - 使用群組原則來控制 OneDrive 同步處理用戶端設定
   - 描述部署商務用 OneDrive的不同方法
-  - 描述如何使用 OneDrive 系統管理中心管理商務用 OneDrive
+  - 描述如何使用 OneDrive 系統管理中心管理商務用 OneDrive 
 
 
   ### 模組 3&#58; SharePoint 和 OneDrive 中的共用，安全性和監視
-  此模塊專注於 SharePoint 和 OneDrive 中的共用，安全性和監視明確的說，我們討論在 SharePoint 和 OneDrive 中計劃和管理外部共用以及存取控制。同時討論如何使用 Office 365 系統管理中心來監視 SharePoint Online 和商務用 OneDrive for Business 中的活動。
+  此模塊專注於 SharePoint 和 OneDrive 中的共用，安全性和監視  明確的說，我們討論在 SharePoint 和 OneDrive 中計劃和管理外部共用以及存取控制。  同時討論如何使用 Office 365 系統管理中心來監視 SharePoint Online 和商務用 OneDrive for Business 中的活動。
 
 
   #### 課程

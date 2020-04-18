@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 設計 Azure 資料解決方法
+title: Designing an Azure Data Solution
 metadata:
-  title: '課程 DP-201T01-A: 設計 Azure 資料解決方法'
-  description: '課程 DP-201T01-A: 設計 Azure 資料解決方法'
+  title: 'Course DP-201T01-A: Designing an Azure Data Solution'
+  description: 'Course DP-201T01-A: Designing an Azure Data Solution'
 uid: course.dp-201t01
 courseNumber: 'DP-201T01-A'
 hoursToComplete: 48
@@ -35,7 +35,7 @@ summary: |-
   本課程的讀者是想要瞭解Microsoft Azure上存在的資料平台技術的資料專業人員，資料結構設計師和商業智慧專業人員。本課程的主要讀者是開發應用程式的人員，這些應用程式可以從Microsoft Azure上存在的資料平台技術中提供內容。
 prerequisitesSection: |-
   除了專業經驗外，參加此訓練的學生還應具有與以下課程相當的技術知識&#58; 
-  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
+  - [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
   - DP-200&#58; 實作Azure資料解決方案
 outlineSection: |-
   ### 模組 1&#58; 資料平台架構考量
@@ -175,3 +175,4 @@ outlineSection: |-
   - 最大化您的雲端環境的效率
   - 使用監控和分析獲取Operational Insights
   - 使用自動化減少投入量和錯誤
+

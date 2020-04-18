@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 在Dynamics 365 for Finance and Operations 配置和使用供應鏈管理
 metadata:
-  title: '課程 MB-330T01-A: 在Dynamics 365 for Finance and Operations 配置和使用供應鏈管理'
-  description: '課程 MB-330T01-A: 在Dynamics 365 for Finance and Operations 配置和使用供應鏈管理'
+  title: 'Course MB-330T01-A: 在Dynamics 365 for Finance and Operations 配置和使用供應鏈管理'
+  description: 'Course MB-330T01-A: 在Dynamics 365 for Finance and Operations 配置和使用供應鏈管理'
 uid: course.mb-330t01
 courseNumber: 'MB-330T01-A'
 hoursToComplete: 48
@@ -128,7 +128,7 @@ outlineSection: |-
   本主題說明如何在“財務和營運”中配置並執行採購到購買流程。
   #### 課程
   - 簡介
-  - 採購和取得商務情境
+  - Procurement and sourcing business scenario
   - 創建購買申請工作流程
   - 創建購買申請
   - 創建報價請求
@@ -250,3 +250,4 @@ outlineSection: |-
 
 
   學生將完成課程。
+

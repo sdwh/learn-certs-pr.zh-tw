@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 實作 SharePoint 混合式方案
 metadata:
-  title: '課程 MS-301T03-A: 實作 SharePoint 混合式方案'
-  description: '課程 MS-301T03-A: 實作 SharePoint 混合式方案'
+  title: 'Course MS-301T03-A: 實作 SharePoint 混合式方案'
+  description: 'Course MS-301T03-A: 實作 SharePoint 混合式方案'
 uid: course.ms-301t03
 courseNumber: 'MS-301T03-A'
 hoursToComplete: 24
@@ -95,3 +95,4 @@ outlineSection: |-
   ### 模組 4&#58; 課程總結
 
   ### 實驗室 &#58; 配置 SharePoint 混合式
+

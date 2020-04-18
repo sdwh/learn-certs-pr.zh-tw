@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 在Azure上設計與實作資料科學解決方法
 metadata:
-  title: '課程 DP-100T01-A: 在Azure上設計和實作資料科學解決方案'
-  description: '課程 DP-100T01-A: 在Azure上設計和實作資料科學解決方案'
+  title: 'Course DP-100T01-A: 在Azure上設計和實作資料科學解決方案'
+  description: 'Course DP-100T01-A: 在Azure上設計和實作資料科學解決方案'
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
@@ -26,12 +26,12 @@ summary: |-
   本課程面向資料科學家以及在訓練和部署機器學習模型方面負有重要責任的人員。
 prerequisitesSection: |-
   在參加本課程之前，學生必須具備&#58; 
-  - 獲得[Azure Fundamentals認證](https://docs.microsoft.com/zh-cn/learn/certifications/azure-fundamentals)。
+  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
   - 瞭解資料科學，包括如何準備資料，訓練模型以及評估競爭模型以選擇最佳模型。
   - 如何使用Python程式設計語言進行編程以及如何使用Python庫&#58; pandas，scikit-learn，matplotlib和seaborn。
 outlineSection: |-
   ### 模組 1&#58; 在Azure上進行資料科學
-  學生將學習資料科學過程和資料科學家的角色。然後將其應用於瞭解Azure服務如何支援和增強資料科學過程。
+  學生將學習資料科學過程和資料科學家的角色。  然後將其應用於瞭解Azure服務如何支援和增強資料科學過程。
   #### 課程
   - 介紹資料科學過程
   - Azure資料科學選項概述
@@ -56,3 +56,4 @@ outlineSection: |-
   在本模組中，學生將學習如何在AML服務中自動管理和監視機器學習模型。
   #### 課程
   - 管理和監控機器學習模型
+

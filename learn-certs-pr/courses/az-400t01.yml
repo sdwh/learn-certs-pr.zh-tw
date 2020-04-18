@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 實作DevOps開發流程
 metadata:
-  title: '課程 AZ-400T01-A: 實作DevOps開發流程'
-  description: '課程 AZ-400T01-A: 實作DevOps開發流程'
+  title: 'Course AZ-400T01-A: 實作DevOps開發流程'
+  description: 'Course AZ-400T01-A: 實作DevOps開發流程'
 uid: course.az-400t01
 courseNumber: 'AZ-400T01-A'
 hoursToComplete: 24
@@ -10,7 +10,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 描述採用原始檔控制的好處
 - skill: 從 TFVC 移轉 Git
-- skill: 縮放 Enterprise DevOps的 Git 
+- skill: 縮放 Enterprise DevOps的 Git
 - skill: 實作與管理基礎架構的構建
 - skill: 管理應用程式配置和機密
 - skill: 實施行動DevOps策略
@@ -74,7 +74,7 @@ outlineSection: |-
   - 代理集區
   - 管道和並行
   - Azure DevOps和開放原始碼專案
-  - Azure Pipelines YAML與Visual Designer
+  - Azure Pipelines YAML vs Visual Designer
   - 設定私人代理
   - 將Jenkins與Azure Pipelines整合
   - 將外部原始檔控制與Azure Pipelines整合

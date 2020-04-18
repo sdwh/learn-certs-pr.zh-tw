@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: 將開放原始碼資料工作負載移轉到Azure
 metadata:
-  title: '課程 DP-070T00-A: 將開放原始碼資料工作負載移轉到Azure'
-  description: '課程 DP-070T00-A: 將開放原始碼資料工作負載移轉到Azure'
+  title: 'Course DP-070T00-A: 將開放原始碼資料工作負載移轉到Azure'
+  description: 'Course DP-070T00-A: 將開放原始碼資料工作負載移轉到Azure'
 uid: course.dp-070t00
 courseNumber: 'DP-070T00-A'
 hoursToComplete: 24
@@ -24,7 +24,7 @@ summary: |-
 
   #### 對象設定檔
   本課程的主要對像是規劃將MySQL或Postgres DB工作負載移轉到Azure SQL DB的資料庫開發人員。
-  本課程的主要讀者是MySQL / Postgres管理員，旨在提高人們對Azure SQL DB的功能和優勢的認識。
+  本課程的主要讀者是MySQL/Postgres管理員，旨在提高人們對Azure SQL DB的功能和優勢的認識。
 prerequisitesSection: |-
   參加訓練的學生除了具備專業經驗外，還應具備以下技術知識&#58; 
   - 對開放原始碼關係資料庫管理系統（例如Postgres和/或MySQL），SQL管理，備份和恢復技術（即傾印表資料）的一些瞭解
@@ -93,3 +93,4 @@ outlineSection: |-
   - 移轉後考量
 
   #### 其他閱讀本課程不需要其他閱讀
+

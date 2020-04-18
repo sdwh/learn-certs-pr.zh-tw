@@ -1,0 +1,366 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Fundamentals
+metadata:
+  title: 'Course MB-901T00-A: Microsoft Dynamics 365 Fundamentals'
+  description: 'Course MB-901T00-A: Microsoft Dynamics 365 Fundamentals'
+uid: course.mb-901t00
+courseNumber: 'MB-901T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 區分不同Dynamics 365應用程式之間的區別
+- skill: 清晰表達各個Dynamics 365應用程式的商業價值和核心功能
+- skill: 描述人工智慧(AI)和混合現實(MR)
+- skill: 定義數字轉化循環
+- skill: 描述基於雲服務的安全性
+- skill: 總結在Dynamics 365系統下基於角色的安全性
+- skill: 解釋Dynamics 365的彙報設置
+- skill: 給出Dynamics 各應用整合的案例
+- skill: 描述Office 365和Dynamics 365的整合
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics
+exams:
+- uid: exam.mb-901
+summary: |-
+  此教程將會概述Dynamics 365所有的應用程式我們將會介紹所有的應用程式，展示它們的商業價值，並討論和演示它們的核心功能我們介紹的內容將會涵蓋Dynamics 365的安全、報告，並用數據和產品整合來令您熟悉這些應用
+
+prerequisitesSection: |-
+  無
+outlineSection: |-
+  ### 模塊 1&#58; Microsoft Dynamics 365簡介
+  我們將會幫您探索和評估 Dynamics 365應用程式是如何令您的員工更加強大，吸引客戶和優化操作的。在這裡我們會向您介紹Dynamics 365所有應用程式。
+  #### 課程
+  - 簡介
+  - Dynamics 365應用程式
+  - 什麼是人工智慧(AI)？
+  - 什麼是混合實境(MR)？
+  - 數字轉化
+  - 測您所學
+  - 摘要
+
+  完成本單元後，您生將能夠&#58;
+  - 區分Dynamics 365的應用程式
+  - 明白人工智慧和混合實境在Dynamics 365裡面所扮演的角色
+  - 解釋數字轉化
+  - 認識到Dynamics 365的應用程式是如何支撐數字轉化的
+
+
+  ### 模塊 2&#58; 雲計算和部署的規則
+  在這個模塊我們將會令您知道雲計算的規則，並探討Dynamics 365應用程式的部署方案。
+  #### 課程
+  - 簡介
+  - 什麼是雲計算？
+  - 雲計算的好處
+  - 雲計算的合規性，條款和條件
+  - 雲服務的種類
+  - 部署
+  - Azure DevOps
+  - Microsoft Dynamics Lifecycle Services (LCS)
+  - 探索Pwer Platform Admin Center
+  - 測您所學
+  - 摘要
+  
+  完成本單元後，您生將能夠&#58;
+  - 描述雲計算及其好處
+  - 瞭解Dynamics 365的部署方案
+  - 闡明雲服務的合規性性及其條件
+  - 描述雲服務的種類
+  - 解釋Azure DevOps 和 Lifecycle Services (LCS)
+
+
+  ### 模塊 3&#58; 介紹Dynamics 365的安全性
+  Dynamics 365 及其 Power Platform的建立始終秉持安全、保護隱私、合法、透明。Microsoft Cloud security將會為您跨雲資源保駕護航。它將會保護infrastructure as a service (IaaS), platform as a service (PaaS)，和軟體即服務 (SaaS)。它將會迅速找出您應用程式的弱點並提供更好的保護。在這個模塊我們將會令您學到如何防止數據丟失，這也是Dynamics 365這個強大平台將會提供的一部分安全服務。
+  #### 課程
+  - 簡介
+  - Dynamics 365雲安全
+  - 理解基於角色的安全
+  - 測您所學
+  - 摘要
+  
+  
+  #### 實驗室&#58; 探索Dynamics 365模塊裡面的安全形色
+  
+  #### 實驗室&#58; 探索Finance and Operations應用程式裡面的安全形色
+  
+  #### 實驗室&#58; 給您的數據加密來提高安全性
+  
+  完成本單元後，您生將能夠&#58;
+  - 描述Dynamics 365雲安全
+  - 描述Dynamics 365基於角色的安全
+
+
+  ### 模塊 4&#58; 連接和分析您的Dynamics 365數據
+  在財務和運營的數據方面，如果沒有準確的洞察力，公司高層如何可能做出重大且正確的商業決定？絕無可能！在這個模塊我們將會令您學到Dynamics 365的數據報告和分析。
+  #### 課程
+  - 簡介
+  - 使用Dynamics 365裡面的Power Platform
+  - Common Data Service的好處
+  - Dynamics 365的報告
+  - 測您所學
+  - 摘要
+  
+  
+  #### 實驗室&#58; 探索Power Platform Admin Center
+  
+  完成本單元後，您生將能夠&#58;
+  - 描述Power Platform 在 Dynamics 365的應用
+  - 闡明Common Data Service的好處
+  - 解釋Dynamics 365的報告
+
+
+  ### 模塊 5&#58; 介紹Dynamics 365 Sales
+  在這個模塊我們將會向您介紹Dynamics 365 Sales。它能夠幫助銷售人員跟客戶建立良好的關係，更快的採取行動並達成交易。
+  #### 課程
+  - 簡介
+  - Dynamics 365 sales自動化
+  - 管理銷售流程
+  - 合同管理
+  - 發現Microsoft Relationship Sales Solution
+  - Dynamics 365 Sales Insights
+  - 銷售問卷調查
+  - 測您所學
+  - 摘要
+
+  
+  #### 實驗室&#58; 探索 Dynamics 365 Sales
+  - 創建或修改詢盤
+  - 創建或修改訂單
+  - 創建或修改發票
+
+  完成本單元後，您生將能夠&#58;
+  - 描述 Dynamics 365 Sales自動化
+  - 闡明在 Dynamics 365 Sales里如何管理銷售流程
+  - 發現Microsoft Relationship Sales Solution(MRSS)
+  - 解釋Dynamiocs 365 Sales Insights的商業價值
+  - 解釋Microsoft Forms Pro的商業價值
+
+  
+  ### 模塊 6&#58; 介紹Dynamics 365 Marketing
+  在這個模塊我們將會跟您介紹Dynamics 365 Marketing，並展示它是如何幫您發現和培育商機的。為吸引潛在客戶您可以發布多渠道的推廣。包括&#58;郵件、網站、線下活動、簡訊和其他定製渠道。
+  #### 課程
+  - 簡介
+  - Dynamics 365 Marketing的好處
+  - Dynamics 365 Marketing的特點和功能
+  - 產生商機
+  - 客戶體驗
+  - 細節
+  - 活動管理
+  - 測您所學
+  - 摘要
+
+  
+  #### 實驗室&#58; 探索 Dynamics 365 Marketing
+  - 創建引人注目的郵件
+  - 精確定位您的受眾人群
+  - 開啟您的活動
+
+  完成本單元後，您生將能夠&#58;
+  - 闡明使用Dynamics 365 Marketing的好處
+  - 描述Dynamics 365 Marketing的特點和功能
+  - 描述客戶體驗
+
+  
+  ### 模塊 7&#58; Dynamics 365 Customer Service簡介
+  卓越的客戶服務培養高興的客戶。Dynamics 365 Customer Service自帶的聰明才智將會為您跟客戶的每一次互動提供更快、更個性化的支持。在這個模塊，我們將會跟您介紹Marketing是如何做到瞭解客戶期望並為企業提供必要工具來令他們的客戶高興的，尤其是當事情並沒有按預期進行的時候。
+  #### 課程
+  - 簡介
+  - Dynamics 365 Customer Service概觀
+  - 賬戶管理
+  - 案例週期管理
+  - 知識文章
+  - Dynamics 365 Customer Service多渠道
+  - 入門
+  - Dynamics 365 Customer Service Insights
+  - 測您所學
+  - 摘要
+
+  
+  #### 實驗室&#58; 探索Dynamics 365 Customer Service
+  - 案例創建和管理
+
+  完成本單元後，您生將能夠&#58;
+  - 呈現Dynamics 365 Customer Service的概觀
+  - 討論Dynamics 365 Customer Service的核心能力
+  - 解釋Dynamics 365 Customer Service Insights的價值
+
+  
+  ### 模塊 8&#58; Dynamics 365 Field Service介紹
+  在這個模塊我們將會向您介紹Dynamics 365 Field Service。您將會學到Field Service是如何為企業提供首尾相連無縫對接的服務。世界頂級的Customer Relationship Management (CRM)成功匯集了強力的機器學習、混合實境以及loT技術來創造一個完整的解決方案。
+  #### 課程
+  - 簡介
+  - Dynamics 365 Field Service的好處
+  - Connected Field Service
+  - Service 資源調度
+  - Resource Scheduling Optimization (RSO)
+  - 前瞻性的客戶服務
+  - Field Service Mobile
+  - Dynamics 365 Remote Assist
+  - Dynamics 365 Guides
+  - 測您所學
+  - 摘要
+
+  完成本單元後，您生將能夠&#58;
+  - 描繪Dynamics 365 Field Service的好處
+  - 解釋 Connected Field Service
+  - 探索 Dynamics 365 Remote Assist
+  - Discover Dynamics 365 Guides
+
+  
+  ### 模塊 9&#58; 探索模塊-驅動應用程式整合和Dynamics 365 Customer Insights
+  模塊-驅動所有Microsoft的應用程式之間的集成使用連接器也能將AppSource裡面的數百款軟體整合。在這個模塊我們將會向您介紹驅動應用程式模塊的整合。
+  #### 課程
+  - 簡介
+  - Dynamics 365不同應用程式之間的整合
+  - 和Microsoft產品之間的整合
+  - 和第三方應用程式之間的整合
+  - 將客戶數據從自身或者第三方應用程式整合到Dynamics 365 Customer Insig
+  - 測您所學
+  - 摘要
+
+  完成本單元後，您生將能夠&#58;
+  - 解釋Dynamics 365模塊是如何驅動應用程式整合的
+  - 描述Office 365的整合
+  - 定義第三方應用程式的整合
+  - 描繪 Dynamics 365 Customer Insights
+  - 認識 Adobe Experience Cloud
+
+  
+  ### 模塊 10&#58; 介紹Dynamics 354 Finance
+  要想在當今的商業環境下取得成功必須要充分借力科學技術來管理全球資產，實時監控，自動化和簡化功能，保護未來業務成果並將產能最大化。在這個模塊我們將會向您介紹Dynamics 365 Finance，Microsoft's 的財務管理應用程式。它能幫助中等及以上企業實時監控本公司在全球各地的財務情況，預測未來產出並幫助企業根據數據做出決策，最終實現企業的發展。
+  #### 課程
+  - 簡介
+  - Dynamics 365 Finance概觀
+  - 全球屬性
+  - 總賬
+  - 可付款賬戶
+  - 可收款賬戶
+  - 信用
+  - 做預算
+  - 項目管理和賬單
+  - 實時現金流可見性
+  - 階段性和年終收盤
+  - 測您所學
+  - 摘要
+
+  
+  #### 實驗室&#58; 探索Dynamics 365 Finance
+  
+  完成本單元後，您生將能夠&#58;
+  - 描繪Dynamics 365 Finance的好處
+  - 提供對Dynamics 365 Finance高級別的概觀
+  - 解釋Dynamics 365 Finance裡面的可收款賬戶和可支付賬戶的功能
+
+  
+  ### 模塊 11&#58; 介紹Dynamics 365 Supply Chain Management
+  傳統的生產商和分銷商正在向智慧工廠和智慧倉庫轉型。在這個轉型中，人工智能，先進的機器人，物聯網以及機器學習都在不斷的提高人類智力，加速產出的同時減少瑕疵。在這個模塊我們將會向您介紹Dynamics 365 Supply Chain Management，他會令企業員工看到統一的帶有前瞻分析的數據，包括庫存、倉儲、生產、服務和物流數據。這些前瞻性的分析將會把數據轉化為商機並幫助企業做出更好的戰略決策。
+  #### 課程
+  - 簡介
+  - Dynamics 365 Supply Chain Management概觀
+  - 產品信息
+  - 採購和尋找貨源
+  - 倉庫管理
+  - 銷售訂單管理
+  - 生產
+  - Master Planning
+  - 現代化運作
+  - 項目賬單
+  - 資產管理
+  - Dynamics 365 Layout
+  - 測您所學
+  - 摘要
+
+  
+  #### 實驗室&#58; 探索Dynamics 365 Supply Chain Management
+  - 創建產品
+  - 創建產品的主人
+  - 創建採購訂單
+  - 創建銷售訂單
+
+  完成本單元後，您生將能夠&#58;
+  - 描述Dynamics 365 Supply Chain Management的好處
+  - 提供對Dynamics 365 Supply Chain Management高級別的概觀
+  - 闡明資產管理的好處
+  - 討論 Dynamics 365 Layout
+
+  
+  ### 模塊 12&#58; 介紹Dynamics 365 Business Central
+  Dynamics 365 Business Central是一個綜合性的商業管理解決方案，幫助企業把數據，員工和進程聯絡起來。它是為那些現有管理工具不能滿足企業發展，和需要優化提高運營的中小企業專門設計的。在這個模塊我們將會向您介紹 Dynamics 365 Business Central是如何自動地把系統和進程連接，並令用戶管理整合財務，銷售，服務和運營操作。
+  #### 課程
+  - 簡介
+  - 籌措資金和做預算
+  - 供應鏈管理
+  - 項目管理
+  - 銷售和服務
+  - 什麼時候需要用Business Central而不是其他Dynamics 365應用程式
+  - 測您所學
+  - 摘要
+
+  完成本單元後，您生將能夠&#58;
+  - 探索Dynamics 365 Business Central的常見案列
+  - 發現什麼時候需要用Business Central而不是其他Dynamics 365應用程式
+
+  
+  ### 模塊13&#58; 介紹Dynamics 365 Human Resources
+  勞動力正在改變並且對頂尖人才的競爭愈演愈烈！HR為找到合適的人選變得越來越掙扎，並且整個招聘過程也比以往複雜得多。在這個模塊我們將會向您介紹Dynamics 365 Human Resources。
+  #### 課程
+  - 簡介
+  - Dynamics 365 Human Resources概觀
+  - 員工自我服務
+  - 人事管理
+  - 福利管理
+  - 員工發展
+  - 測您所學
+  - 摘要
+
+  #### 實驗室&#58; 探索Dynamics 365 Human Resources
+  - 創建職位
+
+  完成本單元後，您生將能夠&#58;
+  - 發現Human Resources工具有助於驅動操作效率
+  - 探索Human Resources的特點和功能
+
+  
+  ### 模塊 14&#58; 介紹Dynamics 365 Commerce
+  客人購物不再受限於某個時間段了。您和客人之間的聯絡其實早在客人到您店裡或者訪問您的網站之前就已經開始了，並且您和客人之間的交流方式也已經改變了。客人不再只是找和銷售有關的產品細節，而是希望賣家能夠顯著地縮短他們的購物流程。隨之而來的另一個客戶期望就是客人希望有個性化的購物體驗。只有把數字和實體購物渠道合併才能做到這種購物體驗，並藉此打造品牌忠誠度。在這個模塊我們將會向您介紹Dynamics 365 Commerce。
+  #### 課程
+  - 簡介
+  - 核心零售功能
+  - Point of Sale (POS)
+  - Assisted Selling
+  - 經營和庫存
+  - 渠道管理
+  - 電子商務
+  - 零售部署
+  - Dynamics 365 Fraud Protection
+  - 測您所學
+  - 摘要
+  
+  完成本單元後，您生將能夠&#58;
+  - 提供對Dynamics 365 Commerce高級別的概觀
+  - 發現部署方案
+  - 描繪 Dynamics 365 Fraud Protection
+  - 探索多渠道
+
+  
+  ### 模塊 15&#58; 探索Finance 和 Operations的跨應用程式整合
+  在這個模塊，當您在Microsoft Dynamics 365 Finance 和Supply Chain Management實作整合腳本的時候，我們將會幫您做出正確的設計決定。 
+  #### 課程
+  - 簡介
+  - Dynamics 365不同應用程式之間的整合
+  - 和Microsoft產品之間的整合
+  - 和第三方應用程式之間的整合
+  - 探索外部係統整合能力
+  - 測您所學
+  - 摘要
+
+  完成本單元後，您生將能夠&#58;
+  - 描繪數據管理框架
+  - 解釋Office 365整合
+  - 探索外部係統整合能力 

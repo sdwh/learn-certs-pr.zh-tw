@@ -1,0 +1,151 @@
+### YamlMime:Course
+title: 'Microsoft Power Apps + Dynamics 365 Solution Architect'
+metadata:
+  title: 'Course MB-600T00-A: Microsoft Power Apps + Dynamics 365 Solution Architect'
+  description: 'Course MB-600T00-A: Microsoft Power Apps + Dynamics 365 Solution Architect'
+uid: course.mb-600t00
+courseNumber: 'MB-600T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- dynamics
+- power-apps
+exams:
+- uid: exam.mb-600
+summary: |-
+  解決方案架構師負責成功設計、實施、部署和採用整個解決方案。解決方案架構師確保解決方案現在和將來都能滿足客戶的需求。在本課程中，學生將學習解決方案架構師在實施過程中所做的決策、涵蓋安全性，集成，Power Apps 架構，Power Automate 架構等。本課程旨在向您介紹解決方案架構師角色。
+
+  #### 對象設定檔
+  
+  渴望成為解決方案架構師的高級顧問（包括職能和技術顧問），或剛擔任不久的現任職解決方案架構師。  
+prerequisitesSection: |-
+  在參加本課程之前，學生必須具備&#58;
+  
+  - 通過了 MB-200 考試
+  - 具有 Dynamics 365 和 Power Platform 的經驗
+  - 高級顧問（職能或技術）或剛擔任不久的解決方案架構師
+  - 了解 Microsoft Azure 的一些知識
+outlineSection: |-  
+  ### 模組 1&#58; 簡介
+  
+  課程介紹
+  
+  ### 模塊 2&#58; 成為解決方案架構師/認識您的客戶
+
+  #### 課程
+  - 定義解決方案架構師
+  - 解決方案架構師在項目中的角色
+  - 項目方法
+  - 了解您的客戶
+  - 小組練習——了解您的客戶
+
+  ### 模塊 3&#58; 根據需求概念化設計
+  
+  #### 課程
+  - 如何領導需求收集工作
+  - 使用擬合間隙分析
+  - 優秀架構的支柱
+  - 繪製解決方案架構藍圖
+  - 小組練習——根據需求設計
+  
+  ### 模塊 4&#58; 項目管理和團隊合作
+    
+  #### 課程
+  - 解決方案架構師在項目管理中的角色
+  - 使項目步入正軌的技術
+  - 可能導致項目失敗的場景
+  - 小組練習——項目管理和團隊合作
+  
+  ### 模塊 5&#58; Power Platform 架構
+  
+  #### 課程
+  - Power Platform 架構的關鍵組件
+  - 了解平台設計和限制如何影響解決方案架構
+  - 更新和功能發布
+  - 了解如何交流平台如何滿足客戶需求
+  
+  ### 模組 6&#58; 數據建模
+  
+  #### 課程
+  - 數據模型的影響
+  - 數據模型策略
+  - 數據類型
+  - 數據關係
+  - 小組練習——數據建模
+  
+  ### 模塊 7&#58; 可視化，分析，報告和AI
+  
+  #### 課程
+  - 規劃和評估要求
+  - 運營報告
+  - Power BI
+  - 企業 BI
+  - 預先構建的的見解和自定義 AI
+  
+  ### 模塊 8&#58; Power App 架構
+  
+  #### 課程
+  - 討論應用程式的選項以及如何選擇從哪裡開始
+  - 討論應用程式組成選項
+  - 將組件作為應用程式架構的一部分
+  - 將 Portal 作為應用程式包含在體系結構中的注意事項
+  - 小組練習——Power App 架構主題
+
+  ### 模塊 9&#58; 應用程式生命週期管理（ALM）
+  
+  #### 課程
+  - Microsoft 願景和解決方案架構師在 ALM 中的角色
+  - 環境戰略
+  - 為您的交付产品定義解決方案結構
+  
+  #### 實驗室&#58; ALM 動手實驗室
+  
+  ### 模塊 10&#58; Power Automate 架構
+  
+  #### 課程
+  - 討論自動化和自定義邏輯的選項
+  - 查看有關使用觸發器和常見操作的注意事項
+  - 探索使用業務流程（BPF）指導用戶完成業務流程
+  - 小組練習——評估 Power Automate 使用方案
+  
+  ### 模塊 11&#58; 安全建模
+  
+  #### 課程
+  - 解決方案架構師在安全建模中的角色
+  - 發現並了解客戶的環境
+  - 控制對環境和資源的訪問
+  - 控制對 CDS 數據的訪問
+  - 小組練習——安全建模
+  
+  ### 模塊 12&#58; 集成
+  
+  #### 課程
+  - 解決方案架構師在集成中的作用
+  - 什麼是集成，為什麼我們需要它
+  - 支持集成的平台功能
+  - CDS 活動發布
+  - 小組討論的場景
+  
+  ### 模塊 13&#58; Dynamics 365 應用程式體系結構
+  
+  #### 課程
+  - 部署 Dynamics 365 應用程式時解決方案架構師的角色
+  - 主應用程式的體系結構注意事項
+  - 小組練習——應用程式特定的工作小組評估要求
+  
+  ### 模塊 14&#58; 測試並上線
+  
+  #### 課程
+  - 解決方案架構師在測試和上線中的角色
+  - 計劃測試
+  - 規劃上線
+  
+  #### 其他閱讀
+  https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/

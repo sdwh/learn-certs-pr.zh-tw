@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: SharePoint 2016 進階技術
 metadata:
-  title: '課程 20339-2-A: SharePoint 2016的進階技術'
-  description: '課程 20339-2-A: SharePoint 2016的進階技術'
+  title: 'Course 20339-2-A: SharePoint 2016的進階技術'
+  description: 'Course 20339-2-A: SharePoint 2016的進階技術'
 uid: course.20339-2
 courseNumber: '20339-2-A'
 hoursToComplete: 120
@@ -38,21 +38,21 @@ summary: |-
 
   #### 對象設定檔
   本課程針對有經驗的IT專業人員，他們有興趣學習如何在資料中心或雲端中安裝，配置，部署和管理SharePoint 2016安裝。 
-  
+
   學生通常應具有四年以上的動手經驗*，以規劃和維護SharePoint以及SharePoint所依賴的其他核心技術，包括Windows Server 2012 R2或更高版本、網際網路資訊服務(IIS)、Microsoft SQL Server 2014 R2或更高版本、Active Directory網域服務(AD Ds)和網路基礎結構服務。
-  
+
   學生應該已經完成課程20339-1A&#58; 規劃和管理Microsoft SharePoint 2016，或者在學習本課程之前已經獲得了同等的知識和經驗。最低資格的應試者通常&#58; 
-  
+
   - 具有Microsoft SharePoint Online的工作知識，最好具有實踐經驗。
   - 熟悉SharePoint Server工作負載。
   - 具有商務持續性管理方面的經驗，包括資料備份，還原和高可用性。
   - 具有認證和安全技術的經驗。
   - 具有Windows PowerShell的經驗。
-  
+
   實際經驗或工作經驗應來自基於解決方案的角色，應試者應聘於SharePoint Server空間中的多個解決方案，包括文件管理，內容管理和搜尋。
 prerequisitesSection: |-
   該課程的理想應試者必須具有至少一年在大型企業中部署和管理多個SharePoint Server 2013伺服器陣列的經驗。應試者應已完成課程20339-1A&#58; 規劃和管理Microsoft SharePoint 2016，或應具有同等技能。
-  
+
   在參加本課程之前，學生必須證明以下技能&#58; 
   - 至少一年的將商務需求映射到邏輯和實體技術設計的經驗。
   - 網路設計的工作知識，包括網路安全。
@@ -80,7 +80,8 @@ outlineSection: |-
   完成本單元後，學生將能夠&#58; 
   - 描述Microsoft-SharePoint 2016的架構功能。
   - 確定SharePoint 2016中的新功能，不推薦使用的和已刪除的功能。
-  - 描述內部SharePoint 2016和Microsoft SharePoint Online的版本。and Microsoft SharePoint Online.
+  - 描述內部SharePoint 2016和Microsoft SharePoint Online的版本 and Microsoft SharePoint Online.
+
 
   ### 模組 2&#58; SharePoint 2016混合方案簡介
   本模組描述了SharePoint 2016中的關鍵混合功能，並幫助您準備混合SharePoint 2016部署。
@@ -175,7 +176,7 @@ outlineSection: |-
   - 部署伺服器陣列解決方案
 
   完成本單元後，學生將能夠&#58; 
-  - 在Microsoft SharePoint中管理功能和解決方案 2016 年。
+  - 在Microsoft SharePoint中管理功能和解決方案 2016.
   - 在SharePoint 2016部署中管理 沙盒解決方案。
 
 
@@ -199,7 +200,7 @@ outlineSection: |-
   完成本單元後，學生將能夠&#58; 
   - 在Microsoft SharePoint 2016中管理使用者設定檔，
   並使用Microsoft Identity Manager（MIM）2016配置
-  使用者設定檔同步。
+  (MIM) 2016.
   - 在SharePoint 2016中啟用社交互動。
   - 在SharePoint 2016中構建社區和社區網站。
 
@@ -226,7 +227,8 @@ outlineSection: |-
   完成本單元後，學生將能夠&#58; 
   - 規劃和配置Web內容管理基礎結構。
   - 配置受管理導覽和產品目錄網站。
-  - 規劃和配置對多語言 網站和語言環境的支援。
+  - 規劃和配置對多語言
+  網站和語言環境的支援。
   - 管理髮佈網站的 設計和自訂。
   - 規劃和配置對行動使用者的支援。
 
@@ -271,12 +273,9 @@ outlineSection: |-
   - 為SharePoint配置Power View
 
   完成本單元後，學生將能夠&#58; 
-  - 說明Microsoft SharePoint商業智慧
-  （Bi）架構，其組件以及商業智慧規劃。
-  - 規劃，部署和管理核心Microsoft SharePoint
-  2016 BI 服務。
-  - 配置SharePoint 2016和Microsoft SQL Server 2014中
-  可用的高階BI選項。
+  - 說明Microsoft SharePoint商業智慧（Bi）架構，其組件以及商業智慧規劃。
+  - 規劃，部署和管理核心Microsoft SharePoint 2016 BI 服務。
+  - 配置SharePoint 2016和Microsoft SQL Server 2014中 可用的高階BI選項。
 
 
   ### 模組 11&#58; 規劃和配置生產力與共同作業
@@ -327,3 +326,4 @@ outlineSection: |-
   - 執行資料和服務應用程式的升級。
   - 升級網站集合。
   - 將高階內容從SharePoint Server 2013升級到SharePoint 2016。
+

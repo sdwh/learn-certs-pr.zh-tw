@@ -1,22 +1,23 @@
 ### YamlMime:Examination
 title: Managing Microsoft SharePoint Server 2016
 metadata:
-  title: '測驗 70-339: Managing Microsoft SharePoint Server 2016'
-  description: '測驗 70-339: Managing Microsoft SharePoint Server 2016'
+  title: 'Exam 70-339: Managing Microsoft SharePoint Server 2016'
+  description: 'Exam 70-339: Managing Microsoft SharePoint Server 2016'
 uid: exam.70-339
 displayName: 70-339
-summary: >-
+summary: |-
+  <div style='color&#58; red;'>此測驗於 2020 年 6 月 30 日淘汰。也許提供可替代測驗。要了解更多資訊，請存取我們的部落格：<a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> 檢閱我們的測驗停止公告。注意&#58; 測驗將在中部標準時間晚間11點59分到期<br/><br/></div>
+  
   本測驗的目標對象是在資料中心和雲端中負責安裝、設定、部署和管理 SharePoint 2016 安裝且經驗豐富的 IT 專業人員。應試者通常擁有四年以上規劃與維護 SharePoint 與 SharePoint 依賴之其他核心技術的經驗，包含 Windows Server 2008 R2 或更新版本、Internet Information Services (IIS)、SQL Server 2008 R2 或更新版本、Active Directory 及網路功基礎架構服務。
 
-
   應試者也應具備商務連續性管理的相關經驗，除了驗證和安全性技術之外，還包括資料備份、還原和高可用性的經驗。相當建議擁有 PowerShell 的相關經驗。
-
 
   本測驗的次要對象是配合內部商業客戶使用 SharePoint 2016，並積極參與管理企業營運 (LOB) 專案的商務應用程式管理員 (BAA)。
 subTitle: 本測驗的目標對象是在資料中心和雲端中負責安裝、設定、部署和管理 SharePoint 2016 安裝且經驗豐富的 IT 專業人員。應試者通常擁有四年以上規劃與維護 SharePoint 與 SharePoint 依賴之其他核心技術的經驗，包含 Windows Server 2008 R2 或更新版本、Internet Information Services (IIS)、SQL Server 2008 R2 或更新版本、Active Directory 及網路功基礎架構服務。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBh
 practiceTestUrl: https://www.mindhub.com/70-339-Managing-Microsoft-SharePoint-Server-2016-p/mu-70-339_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F70-339
 locales:
 - en
 - es
@@ -26,17 +27,17 @@ locales:
 - de
 - ja
 - pt-br
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2F70-339
-levels:
+levels: 
 - intermediate
 skills:
-- 設計 SharePoint 基礎結構 (15–20%)
-- 規劃驗證和安全性 (15–20%)
-- 規劃工作負載最佳化 (15–20%)
-- 規劃生產力解決方案 (15–20%)
-- 管理搜尋功能 (10–15%)
-- 規劃及設定雲端服務 (5–10%)
-- 監視及最佳化 SharePoint 環境 (10–15%)
+- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
+- 設計SharePoint基礎(15-20%)
+- 規劃驗證和安全性 (15-20%)
+- 規劃工作負載最佳化 (15-20%)
+- 規劃生產力解決方案(15-20%)
+- 管理搜尋功能 (10-15%)
+- 規劃及設定雲端服務 (5-10%)
+- 監視及最佳化 SharePoint 環境 (10-15%)
 roles:
 - administrator
 products:
@@ -48,15 +49,15 @@ relatedCertifications:
 - related:
     uid: certification.mcse-productivity-certification
 resources:
-- title: 重測
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+  description: 檢閱並管理您的預定測驗、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
-  description: 詳細了解有關為測驗申請調整的資訊。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 請求無障礙設施
+  description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md

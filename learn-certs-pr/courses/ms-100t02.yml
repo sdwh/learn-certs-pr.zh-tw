@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Microsoft 365 租戶與服務管理
 metadata:
-  title: '課程 MS-100T02-A: Microsoft 365 租用戶和服務管理'
-  description: '課程 MS-100T02-A: Microsoft 365 租用戶和服務管理'
+  title: 'Course MS-100T02-A: Microsoft 365 租用戶和服務管理'
+  description: 'Course MS-100T02-A: Microsoft 365 租用戶和服務管理'
 uid: course.ms-100t02
 courseNumber: 'MS-100T02-A'
 hoursToComplete: 24
@@ -60,8 +60,9 @@ outlineSection: |-
 
   ### 模組 4&#58; 實習實驗室
 
-  #### 實驗室 &#58; Microsoft 365 租用戶和服務管理"
+  #### 實驗室 &#58; Microsoft 365 租用戶和服務管理'
   - 演練 1&#58; 設定 Microsoft 365 試用租用戶
   - 演練 2&#58; 管理 Microsoft 365 使用者，群組和管理
   - 演練 3&#58; 配置版權管理和合規性
   - 演練 4&#58; 監視 並進行疑難排解 Microsoft 365
+

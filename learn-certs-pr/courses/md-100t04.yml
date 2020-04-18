@@ -1,19 +1,19 @@
 ### YamlMime:Course
-title: 維護 Windows 10
+title: Maintaining Windows 10
 metadata:
-  title: '課程 MD-100T04-A: 維護 Windows 10'
-  description: '課程 MD-100T04-A: 維護 Windows 10'
+  title: 'Course MD-100T04-A: Maintaining Windows 10'
+  description: 'Course MD-100T04-A: Maintaining Windows 10'
 uid: course.md-100t04
 courseNumber: 'MD-100T04-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 使用 Windows 疑難排解和監視工具
+- skill: 使用 Windows 疑難排解和監視工具。
 - skill: 疑難排解 Windows 安裝
-- skill: 疑難排解應用程式安裝問題
-- skill: 疑難排解網頁瀏覽器設定
+- skill: 疑難排解應用程式安裝問題。
+- skill: 疑難排解網頁瀏覽器設定。
 - skill: 疑難排解 Windows 驗證
-- skill: 疑難排解與 Windows 電腦有關的硬體問題
+- skill: 疑難排解與 Windows 電腦有關的硬體問題。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -58,7 +58,7 @@ outlineSection: |-
 
 
   ### 模組 2&#58; 疑難排解 Windows 作業系統
-  在本模組中，學生將學習如何疑難排解與作業系統有關的啟動和服務問題。本模組將教導不同的啟動和復原選項，以及如何對不同的 Windows 服務進行疑難排解。
+  在本模組中，學生將學習如何疑難排解與作業系統有關的啟動和服務問題。  本模組將教導不同的啟動和復原選項，以及如何對不同的 Windows 服務進行疑難排解。
   #### 課程
   - 疑難排解 Windows 啟動
   - 對作業系統服務問題進行疑難排解
@@ -73,7 +73,7 @@ outlineSection: |-
 
 
   ### 模組 3&#58; 疑難排解檔案和應用程式
-  本模組幫助學生計劃檔案備份和復原。學生將學習如何計劃和配置資料保護策略以及如何執行各種檔案和系統復原方法。此模組還包括疑難排解應用程式安裝問題，相容性問題和解決瀏覽器問題的常用方法。
+  本模組幫助學生計劃檔案備份和復原。  學生將學習如何計劃和配置資料保護策略以及如何執行各種檔案和系統復原方法。  此模組還包括疑難排解應用程式安裝問題，相容性問題和解決瀏覽器問題的常用方法。
   #### 課程
   - Windows 10 中的盪案復原
   - 疑難排解應用程式
@@ -95,7 +95,7 @@ outlineSection: |-
 
 
   ### 模組 4&#58; 疑難排解硬體和驅動程式
-  本模組介紹硬體疑難排解。學生將學習有關驅動程式管理以及如何對裝置進行疑難排解的知識。學生還將學習對系統硬體和周邊設備，如 USB 驅動程式和印表機，進行疑難排解的步驟，包括診斷方法和補救措施。
+  本模組介紹硬體疑難排解。  學生將學習有關驅動程式管理以及如何對裝置進行疑難排解的知識。學生還將學習對系統硬體和周邊設備，如 USB 驅動程式和印表機，進行疑難排解的步驟，包括診斷方法和補救措施。
   #### 課程
   - 對裝置驅動程式故障進行疑難排解
   - 硬體疑難排解概觀
@@ -110,7 +110,7 @@ outlineSection: |-
 
 
   完成本單元後，學生將能夠&#58;
-  - 對驅動程式問題進行疑難排解和修復
+  對驅動程式問題進行疑難排解和修復
   - 疑難排解周邊設備
   - 診斷並更換硬體
 
@@ -121,3 +121,4 @@ outlineSection: |-
 
 
   #### 實驗室 &#58; 已評分的實驗室
+

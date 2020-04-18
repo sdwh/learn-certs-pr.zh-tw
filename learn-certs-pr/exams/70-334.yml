@@ -1,25 +1,29 @@
 ### YamlMime:Examination
 title: Core Solutions of Microsoft Skype for Business 2015
 metadata:
-  title: '測驗 70-334: Core Solutions of Microsoft Skype for Business 2015'
-  description: '測驗 70-334: Core Solutions of Microsoft Skype for Business 2015'
+  title: 'Exam 70-334: Core Solutions of Microsoft Skype for Business 2015'
+  description: 'Exam 70-334: Core Solutions of Microsoft Skype for Business 2015'
 uid: exam.70-334
 displayName: 70-334
-summary: 本測驗適合設計、規劃、部署以及維護整合通訊 (UC) 的 IT 顧問以及電信顧問專業人員等應試者。應試者應有將商務要求轉化為 UC 解決方案的技術架構與設計的能力。應試者應至少有兩年的商務用 Skype 技術經驗，且熟稔支援的移轉情境。應試者應精通為使用者部署商務用 Skype 解決方案、端點裝置、電話語音、音訊/視訊及網路會議、安全性和高可用性。應試者也應瞭解如何使用 Microsoft 工具監控及疑難排解商務用 Skype。此外，應試者應精通 Active Directory 網域服務、資料網路和電信通訊標準，以及支援商務用 Skype 設定的元件。應試者應熟悉整合商務用 Skype 與 Microsoft Exchange Server 和 Office 365 的必要條件。
+summary: |-
+  <div style='color&#58; red;'>此測驗於 2020 年 6 月 30 日淘汰。也許提供可替代測驗。要了解更多資訊，請存取我們的部落格：<a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> 檢閱我們的測驗停止公告。注意&#58; 測驗將在中部標準時間晚間11點59分到期<br/><br/></div>
+  
+  本測驗適合設計、規劃、部署以及維護整合通訊 (UC) 的 IT 顧問以及電信顧問專業人員等應試者。應試者應有將商務要求轉化為 UC 解決方案的技術架構與設計的能力。應試者應至少有兩年的商務用 Skype 技術經驗，且熟稔支援的移轉情境。應試者應精通為使用者部署商務用 Skype 解決方案、端點裝置、電話語音、音訊/視訊及網路會議、安全性和高可用性。應試者也應瞭解如何使用 Microsoft 工具監控及疑難排解商務用 Skype。此外，應試者應精通 Active Directory 網域服務、資料網路和電信通訊標準，以及支援商務用 Skype 設定的元件。應試者應熟悉整合商務用 Skype 與 Microsoft Exchange Server 和 Office 365 的必要條件。
 subTitle: 本測驗適合設計、規劃、部署以及維護整合通訊 (UC) 的 IT 顧問以及電信顧問專業人員等應試者。應試者應有將商務要求轉化為 UC 解決方案的技術架構與設計的能力。應試者應至少有兩年的商務用 Skype 技術經驗，且熟稔支援的移轉情境。應試者應精通為使用者部署商務用 Skype 解決方案、端點裝置、電話語音、音訊/視訊及網路會議、安全性和高可用性。應試者也應瞭解如何使用 Microsoft 工具監控及疑難排解商務用 Skype。此外，應試者應精通 Active Directory 網域服務、資料網路和電信通訊標準，以及支援商務用 Skype 設定的元件。應試者應熟悉整合商務用 Skype 與 Microsoft Exchange Server 和 Office 365 的必要條件。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBg
 practiceTestUrl: https://www.mindhub.com/70-334-Core-Solutions-of-Microsoft-Skype-for-Busi-p/mu-70-334_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=334&examname=Core%20Solutions%20of%20Microsoft%20Skype%20for%20Business%202015&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F70-334
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=334&examname=Core%20Solutions%20of%20Microsoft%20Skype%20for%20Business%202015&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-tw%2Flearn%2Fcertifications%2Fexams%2F70-334
-levels:
+levels: 
 - advanced
 skills:
-- 規劃及設計商務用 Skype (35–40%)
-- 部署及設定商務用 Skype (30–35%)
-- 管理及疑難排解商務用 Skype (30–35%)
+- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
+- 規劃及設計商務用 Skype (35-40%)
+- 部署及設定商務用 Skype (30-35%)
+- 管理及疑難排解商務用 Skype (30-35%)
 roles:
 - administrator
 products:
@@ -30,15 +34,15 @@ relatedCertifications:
 - related:
     uid: certification.mcse-productivity-certification
 resources:
-- title: 重測
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+  description: 檢閱並管理您的預定測驗、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
-  description: 詳細了解有關為測驗申請調整的資訊。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 請求無障礙設施
+  description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md

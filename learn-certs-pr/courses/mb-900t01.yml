@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Dynamics 365 基礎知識
+title: Dynamics 365 fundamentals
 metadata:
-  title: '課程 MB-900T01-A: Dynamics 365 基礎知識'
-  description: '課程 MB-900T01-A: Dynamics 365 基礎知識'
+  title: 'Course MB-900T01-A: Dynamics 365 fundamentals'
+  description: 'Course MB-900T01-A: Dynamics 365 fundamentals'
 uid: course.mb-900t01
 courseNumber: 'MB-900T01-A'
 hoursToComplete: 24
@@ -25,7 +25,6 @@ exams:
 - uid: exam.mb-900
 summary: |-
   Dynamics 365 是用於客戶參與，統一操作，行銷，零售和人才管理的多方面工具。本課程將使學習者熟悉 Dynamics 365 功能和商業價值。本課程將涵蓋 Dynamics 365 應用程式，Power Platform，雲端概念，安全模型和授權考量。
-
 prerequisitesSection: |-
   對IT準則有基本理解，並對 Dynamics 365 感興趣。
 outlineSection: |-
@@ -63,3 +62,4 @@ outlineSection: |-
   - 尋找並與合作夥伴合作
   - 授權選項
   - 設定
+
