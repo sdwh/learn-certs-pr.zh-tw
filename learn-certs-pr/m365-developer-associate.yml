@@ -24,8 +24,12 @@ roles:
 type: role-based
 products:
 - m365
+courses:
+- uid: course.ms-600t00
 paths:
-- uid: learn-m365-pr.extend-office-fundamentals
+- uid: learn-m365.m365-extend-fundamental
+- uid: learn-m365.msgraph-associate
+- uid: learn-m365.identity-associate
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcG
 exams:
 - uid: exam.ms-600
