@@ -5,23 +5,30 @@ metadata:
   description: Microsoft Dynamics 365 財務與營運應用程式解決方案架構師是值得信賴的咨詢顧問，他們與組織和實作團隊成員合作，將業務需求細化為定義明確、成本效益高的解決方案。
 uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: >-
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
   Microsoft Dynamics 365 財務與營運應用程式解決方案架構師是值得信賴的咨詢顧問，他們與組織和實作團隊成員合作，將業務需求細化為定義明確、成本效益高的解決方案。
-
-
-  <div style="color:red"><br/><strong>NOTE&#58; This certification will not be available until January 27, 2020</strong></div>
 subTitle: Microsoft Dynamics 365 財務與營運應用程式解決方案架構師是值得信賴的咨詢顧問，他們與組織和實作團隊成員合作，將業務需求細化為定義明確、成本效益高的解決方案。
 levels:
 - advanced
 skills:
-- 確定解決方案要求
-- 設計解決方案組件
+- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
+- 識別解決方案要求
+- 設計解決方案元件
 - 定義解決方案測試與管理策略
 roles:
 - solution-architect
 type: role-based
 products:
 - dynamics
+courses:
+- uid: course.mb-700t00
+paths:
+- uid: learn-dynamics.become-solution-architect
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
+exams:
+- uid: exam.mb-700
 prerequisites:
 - uid: certification.d365-functional-consultant-financials
   isOptional: false
@@ -31,22 +38,20 @@ prerequisites:
   isOptional: false
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   isOptional: false
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
-exams:
-- uid: exam.mb-700
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
   description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oWP3
-- title: 重測
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+  description: 檢閱並管理您的預定測驗、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

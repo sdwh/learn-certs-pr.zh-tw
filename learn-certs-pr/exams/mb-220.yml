@@ -6,8 +6,11 @@ metadata:
 uid: exam.mb-220
 displayName: MB-220
 summary: |-
-  <div style='color: red; font-weight: bold;'>該測驗的內容已於 2020 年 4 日更新。請下載下面評量文件的技能以了解更多資訊。<br/><br/></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此測驗內容將於 2020 年 5 月 19 日更新。請下載下面的技能評估文件，以了解將發生什麼變化。<br/><br/></div>
+  </div>
+
   本次測驗的應試者是擁有行銷專業技能的 Microsoft Dynamics 365 Customer Engagement 功能顧問。應試者負責實作吸引並轉化潛在客戶的解決方案，建構品牌知名度，標準化全渠道訊息傳送，以及提供行銷見解。
 
   應試者負責設定與擴展核心行銷應用程式以包括電子郵件行銷、設置、交互式客戶經驗、LinkedIn 整合、事件、客戶之聲、登陸頁面、分割與評分，以及維護一般資料保護監管 (GDPR) 合規性。
@@ -22,11 +25,10 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容已於 2019 年 4 日更新。請下載下面評量文件的技能以了解更多資訊。
-- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
+- 此測驗內容將於 2020 年 5 月 19 日更新。請下載下面的技能評估文件，以了解將發生什麼變化。
 - 設定行銷應用程式 (5-10%)
 - 管理區段和清單 10-15%)
-- 建立與管理行銷表單與頁面 (10 -15%)
+- 建立與管理行銷表單與頁面 (10-15%)
 - 管理潛在客戶 (10-15%)
 - 建立與管理行銷電子郵件(10-15%)
 - 管理客戶旅程 (15-20%)
@@ -34,7 +36,7 @@ skills:
 - 設定與分析客戶響應 (10-15%)
 roles:
 - functional-consultant
-products: 
+products:
 - dynamics
 - dynamics-marketing
 exams:
@@ -50,14 +52,14 @@ relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-marketing
 resources:
-- title: 認證學習路徑
+- title: 認證學習途徑
   description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I7b
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
@@ -68,9 +70,10 @@ resources:
 - title: 認證儀錶板
   description: 檢閱並管理您的預定測驗、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
-  description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
+- title: 要求住宿
+  description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

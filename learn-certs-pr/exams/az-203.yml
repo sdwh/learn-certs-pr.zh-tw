@@ -6,8 +6,11 @@ metadata:
 uid: exam.az-203
 displayName: AZ-203
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>- 該測驗的新版本 AZ -204， <a href="/learn/certifications/exams/az-204">AZ-204</a>, 將於 2 月 24 日提供。您將可以參加此測驗，直到 2020 年 5 月 31 日淘汰。附註:測驗將在中部標準時間晚間11點59分到期<br/><br/></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此測驗的新版本, <a href="/learn/certifications/exams/az-204">AZ-204</a>, 將於 2 月 24 日提供。您將可以參加此測驗，直到2020年8月31日當日或前後淘汰。Note&#58; 測驗將在中部標準時間晚間11點59分到期。<br/><br/></div>
+  </div>
+
   此測驗的應試者是負責設計與構建雲端解決方法(如應用程式與服務等)的 Azure 開發人員。他們參與了開發過程的全部階段，包括從解決方法設計到開發與部署，再到測試與維護。他們與雲端解決方法架構師、雲端 DBA、雲端管理員以及實作解決方法的客戶進行過合作。
   <br/>
 
@@ -15,8 +18,8 @@ summary: |-
 
   應試者必須在軟體開發的全部階段擁有至少一年的可擴展解決方法開發經驗，而且需要精通至少一種雲端支援程式設計語言。
 
-  <div style='color&#58; red; font-weight&#58; bold;'><br/>注意&#58;如果您通過測驗，將獲得以下認證&#58; <a href="https://docs.microsoft.com/learn/certifications/azure-developer">Microsoft Certified&#58; Azure Developer Associate</a>.</div>
-subTitle: '該測驗衡量您完成以下技術任務的能力:開發 Azure 基礎設施即服務計算解決方案；開發 Azure 平台即服務計算解決方案；開發 Azure 存儲；實作 Azure 安全；監視、排除故障和優化解決方案；並連接並使用 Azure 服務和第三方服務。'
+  <div style='font-weight&#58; bold;'><br/>NOTE&#58; 如果您通過測驗，將獲得以下認證：<a href="https://docs.microsoft.com/learn/certifications/azure-developer">Microsoft Certified&#58; Azure Developer Associate</a>.</div>
+subTitle: '該測驗衡量您完成以下技術任務的能力：開發 Azure 基礎設施即服務計算解決方案；開發 Azure 平台即服務計算解決方案；開發 Azure 存儲；實作 Azure 安全；監視、排除故障和優化解決方案；並連接並使用 Azure 服務和第三方服務。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
 locales:
@@ -25,19 +28,19 @@ locales:
 - zh-cn
 - ko
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-203&examname=Exam%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-203
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-203&examname=Exam%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
-- 該測驗的新版本 AZ -204，將於 2 月 24 日提供。您將可以參加此測驗，直到 2020 年 5 月 31 日淘汰。請下載下面評量文件的技能，以了解會發生什麼變化。
+- 此測驗的新版本, AZ-204, 將於 2 月 24 日提供。您將可以參加此測驗，直到2020年8月31日當日或前後淘汰。請下載下面評量文件的技能，以了解會發生什麼變化。
 - 開發 Azure 基礎設施即服務計算解決方案 (10-15%)
 - 開發 Azure 平台即服務計算解決方案 (20-25%)
 - 開發 Azure 存儲 (15-20%)
 - 實作 Azure 安全 (10-15%)
 - 監控、故障排除和優化解決方案 (10-15%)
 - 連接並使用 Azure 和第三方服務 (20-25%)
-retirementDate: 05/31/2020
+retirementDate: 08/31/2020
 roles:
 - developer
 products:
@@ -90,9 +93,10 @@ resources:
 - title: 認證儀錶板
   description: 檢閱並管理您的預定測驗、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 要求住宿
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

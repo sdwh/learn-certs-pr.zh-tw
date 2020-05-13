@@ -6,6 +6,8 @@ metadata:
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
   Azure for SAP Workloads 架構師對 SAP 景觀認證流程和特定於 SAP 解決方案長期作業的產業標準有著深入的瞭解和廣泛的經驗。
 subTitle: Azure for SAP Workloads 架構師對 SAP 景觀認證流程和特定於 SAP 解決方案長期作業的產業標準有著深入的瞭解和廣泛的經驗。
 levels:
@@ -23,6 +25,7 @@ roles:
 type: specialty
 products:
 - azure
+- azure-sap
 courses:
 - uid: course.az-120t00
 paths:
@@ -48,3 +51,4 @@ resources:
 - title: 認證儀錶板
   description: 檢閱並管理您的預定測驗、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

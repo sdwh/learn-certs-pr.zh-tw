@@ -27,9 +27,9 @@ summary: |-
   本課程的主要受眾是計劃使用 Cosmos DB 將 MongoDB 或 Cassandra DB 工作負載遷移到 Azure 的數據庫開發人員。
 prerequisitesSection: |-
   參加訓練的學生除了具備專業經驗外，還應具備以下技術知識&#58;
-  — 分區、複製和資源管理的基本概念，用於構建和實作與 Cosmos DB API 無關的可擴展 NoSQL 應用程式。
+  - 分區、複製和資源管理的基本概念，用於構建和實作與 Cosmos DB API 無關的可擴展 NoSQL 應用程式。
 outlineSection: |-
-  ### 模塊 1&#58; 使用 Cosmos DB 構建全球分佈式應用程式
+  ###模塊 1&#58; 使用 Cosmos DB 構建全球分佈式應用程式
   本模組描述了Cosmos DB的優點和架構。
   #### 課程
   - Cosmos DB概述
@@ -44,7 +44,7 @@ outlineSection: |-
   - 分區/共享最佳實踐
 
 
-  ### 模塊 2&#58; 將 MongoDB 工作負載遷移到 Cosmos DB
+  ###模塊 2&#58; 將 MongoDB 工作負載遷移到 Cosmos DB
   將 MongoDB 工作負載遷移到 Cosmos DB
   #### 課程
   - 了解遷移的好處
@@ -54,7 +54,7 @@ outlineSection: |-
   - 移轉後考量
 
 
-  #### 實驗室&#58; 將 MongoDB 工作負載遷移到 Cosmos DB
+  #### 實驗室&#58;將 MongoDB 工作負載遷移到 Cosmos DB
   - 創建遷移項目
   - 定義來源和目標
   - 執行移轉
@@ -63,12 +63,12 @@ outlineSection: |-
   在本模組的最後，學生將能夠&#58;
   - 了解遷移的好處
   - 執行遷移計劃
-  - 執行資料遷移
+  - 執行數據遷移
   - 執行應用程式遷移
   - 進行遷移後的考慮事項
 
 
-  ### 模塊 3&#58; 將 Cassandra DB 工作負載遷移到 Cosmos DB
+  ###模塊 3&#58; 將 Cassandra DB 工作負載遷移到 Cosmos DB
   本模塊描述了將 Cassandra DB 工作負載遷移到 Cosmos DB 的好處和過程。
   #### 課程
   - 了解遷移的好處
@@ -78,7 +78,7 @@ outlineSection: |-
   - 移轉後考量
 
 
-  #### 實驗室&#58; 將 Cassandra DB 工作負載遷移到 Cosmos DB
+  #### 實驗室&#58;將 Cassandra DB 工作負載遷移到 Cosmos DB
   - 導出架構
   - 使用 CQLSH COPY 移動數據
   - 使用 Spark 移動數據
@@ -87,9 +87,10 @@ outlineSection: |-
   在本模組的最後，學生將能夠&#58;
   - 了解遷移的好處
   - 執行遷移計劃
-  - 執行資料遷移
+  - 執行數據遷移
   - 執行應用程式遷移
   - 進行遷移後的考慮事項
 
-  #### 其他閱讀
+  #### 其他讀
   參加本課程無需額外閱讀材料。
+

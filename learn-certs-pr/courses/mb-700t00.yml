@@ -1,11 +1,24 @@
 ### YamlMime:Course
-title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Expert'
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 metadata:
-  title: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Expert'
-  description: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Expert'
+  title: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
+  description: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 uid: course.mb-700t00
 courseNumber: 'MB-700T00-A'
-hoursToComplete: 120
+hoursToComplete: 72
+skillsGained:
+- skill: 定義解決方案架構師角色的技能領域
+- skill: 解釋 Microsoft 的執行個體和部署模型建議
+- skill: 了解雲端解決方案，CDM 和 CDS
+- skill: 深入瞭解授權，AppSource 和 Dynamics 365 支援
+- skill: 使用生命週期服務作為解決方案架構師
+- skill: 了解設計 Dynamics 365 解決方案的考量
+- skill: 了解用於資料管理的概念和工具
+- skill: 解釋解決方案上的整合選項和商務事件
+- skill: 了解有關解決方案當地語系化，合規性和報告的可用選項
+- skill: 進行有關可擴充性，安全性和效能的架構對話
+- skill: 了解什麼是 ALM 應用程式生命週期管理
+- skill: 識別自動化測試和使用 RSAT 的機會
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -18,4 +31,44 @@ products:
 - dynamics
 exams:
 - uid: exam.mb-700
-summary: ""
+summary: |-
+  本課程為有志成為解決方案架構師角色的新手而開發。本課程提供側重於應用程式架構和技術技能的技術資訊，以開始他們的職業生涯。本課程不會涵蓋此角色所需的工業技能和交付技巧。
+
+  #### 對象設定檔
+
+  本課程的對象應該具有 Dynamics 365 的功能或技術重點方面的先前經驗&#58;財務和營運應用程式。主要供有志成為解決方案架構師角色的新手使用。
+prerequisitesSection: |-
+  您必須完成解決方案架構設計師所需的學習路徑&#58;  [此處](https&#58;//docs.microsoft.com/learn/browse/?roles=solution-architect&products=dynamics-finance-operations)
+outlineSection: |-
+  ### 模組 1&#58; 簡介
+
+  ### 模組 2&#58; 架構師角色
+
+  ### 模組 3&#58; 環境，執行個體和部署模型
+
+  ### 模組 4&#58; 雲端解決方案，CDM 和 CDS
+
+  ### 模組 5&#58; 授權, AppSource 和支援
+
+  ### 模組 6&#58; 生命週期服務 
+
+  ### 模組 7&#58; 設計 Dynamics 365 解決方案
+
+  ### 模組 8&#58; 資料管理
+
+  ### 模組 9&#58; 整合和商務事件
+
+  ### 模組 10&#58; 當地語系化，合規性和報告
+
+  ### 模組 11&#58; 擴充性
+
+  ### 模組 12&#58; 安全性
+
+  ### 模組 13&#58; 效能
+
+  ### 模組 14&#58; 應用程式生命週期管理 
+
+  ### 模組 15&#58; 自動化測試和 RSAT
+
+  ### 模組 16&#58; 架構師的其他領域
+

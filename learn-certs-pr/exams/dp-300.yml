@@ -6,13 +6,15 @@ metadata:
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
   此測驗的應試者是資料庫管理員和資料管理專家，他們管理在 Microsoft SQL Server 和 Microsoft Azure 資料服務之上構建的內部部署和雲端關聯式資料庫。
-  
+
   Azure 資料庫管理員實作和管理建立在 Microsoft Azure 資料服務和 Microsoft SQL Server 的雲原生和混合式資料平台解決方案的可作業層面。Azure 資料庫管理員使用各種方法和工具來執行日常操作，包括套用有關使用行政管理目的的 T-SQL 知識。
-  
+
   此角色負責管理，可用性，安全性以及效能能監視以及現代關聯式資料庫解決方案的最佳化。此角色與 Azure 資料工程師角色共同合作管理資料平台解決方案的可作業層面。
-  
-  <div style='color: red;'><br/><strong>注意&#58; 此 Beta 版測驗要到 2020 年 4 月 2 日才能提供。</strong> 此資訊不是確定的，且測驗發行後可能會有細微的變化。</div>
+
+  <div style='font-weight&#58; bold;'><br/>Beta 測驗不會立即評分，因為我們正在收集有關問題和測驗品質的資料。詳細了解 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Beta考試的價值和重要性</a>。</div>
 subTitle: '此測驗會評量您達成下方技術性工作的能力：規劃和實作資料平台資源； 實作安全的環境； 監視和最佳化可作業資源； 最佳化查詢效能； 執行工作自動化； 規劃並實作高可用性和災害復原(HADR)環境； 然後使用 T -SQL 執行管理。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
@@ -28,24 +30,27 @@ skills:
 - 最佳化查詢效能(5-10%)
 - 執行工作自動化(10-15%)
 - 規劃並實作高可用性和災害復原(HADR)環境(15-20%)
-- 使用T-SQL執行管理(10-15%)
+- 使用T -SQL執行管理(10-15%)
 roles:
-- administrator
+- database-administrator
 products:
 - azure
 - azure-automation
+- azure-database-mysql
+- azure-database-postgresql
 - azure-sql-database
 - azure-storage
 - azure-virtual-machines
+- sql-server
 relatedCertifications:
 - related:
     uid: certification.azure-database-administrator-associate
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
@@ -56,9 +61,10 @@ resources:
 - title: 認證儀錶板
   description: 檢閱並管理您的預定測驗、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
-  description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
+- title: 要求住宿
+  description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+
