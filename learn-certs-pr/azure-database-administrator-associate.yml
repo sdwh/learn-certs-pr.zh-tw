@@ -2,42 +2,45 @@
 title: 'Microsoft Certified: Azure Database Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Database Administrator Associate'
-  description: Azure 資料庫管理員實作和管理建立在 Microsoft Azure 資料服務和 Microsoft SQL Server 的雲原生和混合式資料平台解決方案的可作業層面。
+  description: 'Azure 資料庫管理員實作和管理建立在 Microsoft Azure 資料服務和 Microsoft SQL Server 的雲原生和混合式資料平台解決方案的可作業層面。'
 uid: certification.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
   Azure 資料庫管理員實作和管理建立在 Microsoft Azure 資料服務和 Microsoft SQL Server 的雲原生和混合式資料平台解決方案的可作業層面。Azure 資料庫管理員使用各種方法和工具來執行日常操作，包括套用有關使用行政管理目的的 T-SQL 知識。
-  
-  <div style='color&#58; red;'><br/><strong>注意&#58; 此 Beta 版測驗要到 2020 年 4 月 2 日才能提供。</strong> 此資訊不是確定的，且測驗發行後可能會有細微的變化。</div>
 subTitle: Azure 資料庫管理員實作和管理建立在 Microsoft Azure 資料服務和 Microsoft SQL Server 的雲原生和混合式資料平台解決方案的可作業層面。
 levels:
 - intermediate
 skills:
-- 規劃和實作資料平台資源 
-- 實作安全的環境 
-- 監視和最佳化可作業資源 
-- 最佳化查詢效能 
+- 規劃和實作資料平台資源
+- 實作安全的環境
+- 監視和最佳化可作業資源
+- 最佳化查詢效能
 - 執行工作自動化
-- 規劃並實作高可用性和災害復原(HADR)環境 
+- 規劃並實作高可用性和災害復原（HADR）環境
 - 使用T -SQL執行管理
 roles:
-- administrator
+- database-administrator
 type: role-based
 products:
 - azure
 - azure-automation
+- azure-database-mysql
+- azure-database-postgresql
 - azure-sql-database
 - azure-storage
 - azure-virtual-machines
+- sql-server
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qjf6
 exams:
 - uid: exam.dp-300
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
@@ -48,3 +51,4 @@ resources:
 - title: 認證儀錶板
   description: 檢閱並管理您的預定測驗、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

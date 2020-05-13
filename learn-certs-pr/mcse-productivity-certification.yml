@@ -6,11 +6,14 @@ metadata:
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
-  <div style='color&#58; red;'>此測驗於 2020 年 6 月 30 日淘汰。也許提供可替代測驗。要了解更多資訊，請存取我們的部落格：<a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> 檢閱我們的測驗停止公告。注意&#58; 測驗將在中部標準時間晚間11點59分到期<br/><br/></div>
-  
-  本認證可驗證您具備以下相關能力，能將您的公司移至雲端、提高使用者生產力與機動性、減少資料遺失的機會，並改善組織的資料安全性。該認證可用於滿足成為 [Microsoft 365 Certified&#58; Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx) 的一項要求
-  
-  要成為一名 MCSE 生產力解決方案專家，請完成下列要求&#58;
+  <div>
+  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>此認證於 2021 年 1 月 31 日淘汰。在此日期之後，您將無法再獲得此認證。在淘汰日期之前獲得的任何認證將繼續出現在您的成績單中 <a href='https://www.microsoft.com/learning/dashboard.aspx'>認證儀表板</a>.您也可以 <a href='/learn/certifications/retired-certifications'>browse all retired certifications</a>.</strong><br/><br/></div>
+  </div>
+
+  本認證可驗證您具備以下相關能力，能將您的公司移至雲端、提高使用者生產力與機動性、減少資料遺失的機會，並改善組織的資料安全性。該認證可用於滿足成為 [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/en-us/learning/m365-enterprise-administrator.aspx) 的一項要求
+
+  要成為一名 MCSE 生產力解決方案專家，請完成下列要求：
   - 贏取一項先決條件認證
     - 先決條件選項 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
     - 先決條件選項 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
@@ -19,7 +22,7 @@ summary: |-
     - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/certifications/exams/70-334)
     - [70-339&#58; Managing Microsoft SharePoint Server 2016](/learn/certifications/exams/70-339)
     - [70-345&#58; Designing and Deploying Microsoft Exchange Server 2016](/learn/certifications/exams/70-345)
-subTitle: '本認證可驗證您具備以下相關能力，能將您的公司移至雲端、提高使用者生產力與機動性、減少資料遺失的機會，並改善組織的資料安全性。該認證可用於滿足成為 Microsoft 365 Certified: Enterprise Administrator Expert 的一項要求'
+subTitle: 本認證可驗證您具備以下相關能力，能將您的公司移至雲端、提高使用者生產力與機動性、減少資料遺失的機會，並改善組織的資料安全性。該認證可用於滿足成為 Microsoft 365 Certified Enterprise Administrator Expert 的一項要求
 levels:
 - advanced
 skills:
@@ -42,10 +45,10 @@ exams:
 - uid: exam.70-333
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
@@ -56,3 +59,4 @@ resources:
 - title: 認證儀錶板
   description: 檢閱並管理您的預定測驗、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

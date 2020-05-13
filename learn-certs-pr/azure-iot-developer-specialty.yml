@@ -6,6 +6,8 @@ metadata:
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
   證明您了解如何實作構成 IoT 解決方案的 Azure 服務，包括資料分析、資料處理、資料儲存選項和平台即服務選項。IoT 開發人員必須能夠在 IoT 解決方案的代碼部分中辨識 Azure IoT 服務配置設定。
 subTitle: 證明您了解如何實作構成 IoT 解決方案的 Azure 服務，包括資料分析、資料處理、資料儲存選項和平台即服務選項。IoT 開發人員必須能夠在 IoT 解決方案的代碼部分中辨識 Azure IoT 服務配置設定。
 levels:
@@ -16,7 +18,7 @@ skills:
 - 佈建和管理裝置
 - 實作 Edge
 - 處理和管理資料
-- 監視，疑難排解和最佳化 IoT 解決方案 
+- 監視，疑難排解和最佳化 IoT 解決方案
 - 實作安全性
 roles:
 - developer
@@ -27,15 +29,20 @@ products:
 - azure-iot-hub
 courses:
 - uid: course.az-220t00
+paths:
+- uid: learn.introduction-to-azure-iot
+- uid: learn.securely-connect-iot-devices-to-cloud
+- uid: learn.build-intelligent-edge-with-azure-iot-edge
+- uid: learn-develop-solutions-with-azure-iot-central
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1V
 exams:
 - uid: exam.az-220
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
@@ -46,3 +53,4 @@ resources:
 - title: 認證儀錶板
   description: 檢閱並管理您的預定測驗、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -6,8 +6,11 @@ metadata:
 uid: exam.az-900
 displayName: AZ-900
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>此測驗內容將於 2020 年 5 月 28 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。
-  
+  <div>
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此測驗內容將於 2020 年 5 月 28 日更新。NOTE&#58; 2020 年 4 月 15 日之前公佈的更新將於 2020 年 9 月 15 日實作。現在規劃於 5 月 28 日進行的更新只是措辭的次要更新；請下載下面評估文件的技能，以了解將會在 5 月 28 日發生什麼變化 。</div>
+  </div>
+
   該測驗是為希望展示雲端服務基礎知識以及 Microsoft Azure 如何提供這些服務的應試者而設計的。該測驗適用於具有非技術背景的應試者，例如那些參與銷售或購買基於雲端的解決方案和服務的人，或者參與過基於雲的解決方案和服務的人，以及具有技術背景的需要驗證他們關於雲端服務的基礎知識的人。不需要專業 IT 經驗，但是，一些一般的 IT 知識或經驗會是有益的。
 
   本測驗可以作為學習雲服務以及這些概念如何被 Microsoft Azure 作為範例的第一步。它可以作為 Microsoft Azure 或 Microsoft 云服務測驗的前導。雖然這是驗證基礎知識的有益的第一步，但是在參加任何其他基於 Azure 的認證之前，參加測驗不是先決條件。
@@ -16,10 +19,10 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -28,7 +31,7 @@ locales:
 levels:
 - beginner
 skills:
-- 此測驗內容將於 2020 年 5 月 28 日更新。"請下載下面的技能評估文件，以了解發生了什麼變化。
+- '此測驗內容將於 2020 年 5 月 28 日更新。NOTE: 2020 年 4 月 15 日之前公佈的更新將於 2020 年 9 月 15 日實作。現在規劃於 5 月 28 日進行的更新只是措辭的次要更新；請下載下面評估文件的技能，以了解將會在 5 月 28 日發生什麼變化 。'
 - 了解雲端概念 (15-20%)
 - 了解核心 Azure 服務 (30-35%)
 - 了解安全性、隱私權、合規性和信任度 (25-30%)
@@ -45,14 +48,14 @@ relatedCertifications:
 - related:
     uid: certification.azure-fundamentals
 resources:
-- title: 認證學習路徑
+- title: 認證學習途徑
   description: '發現訓練資源，以成為經 Microsoft Certified: Azure Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: 支持認證考試
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
@@ -60,9 +63,10 @@ resources:
 - title: 認證儀錶板
   description: 檢閱並管理您的預定測驗、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
-  description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
+- title: 要求住宿
+  description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

@@ -36,14 +36,14 @@ exams:
 - uid: exam.mb-300
 summary: |-
   本課程討論&#58;
-  - Dynamics 365 for Finance and Operations 的核心共同特徵
-  - Dynamics 365 for Finance and Operations 的核心設定
-  使用Dynamics 365 for Finance and Operations 進行資料移轉並準備上線
-  組織使用 Dynamics 365 for Finance and Operations 以降低營運成本並快速回應不斷變化的商務需求。該解決方案使組織可以實現這些目標。
-  此課程討論 Microsoft Dynamics 365 for Finance and Operations 的核心元件和設定，以及資料移轉和準備上線。
+  - Dynamics 365 Finance的核心共同特徵
+  - Dynamics 365 Finance中的核心配置
+  - 數據遷移並通過Dynamics 365 Finance準備上線
+  組織使用 Dynamics 365 Finance 以降低營運成本並快速回應不斷變化的商務需求。該解決方案使組織可以實現這些目標。
+  此課程討論 Microsoft Dynamics 365 Finance 的核心元件和設定，以及資料移轉和準備上線。
 
   #### 對象設定檔
-  Dynamics 365 客戶參與功能顧問負責執行發現，擷取需求，吸引主題專家和利害關係人參與，翻譯需求以及配置解決方案和應用程式。功能顧問使用現成功能，無程式碼擴充性，應用程式和服務整合來實作解決方案。
+  Dynamics 365 金融客戶參與功能顧問負責執行發現，擷取需求，吸引主題專家和利害關係人參與，翻譯需求以及配置解決方案和應用程式。功能顧問使用現成功能，無程式碼擴充性，應用程式和服務整合來實作解決方案。
 prerequisitesSection: |-
   在參加本課程之前，學生必須具備&#58;
   - Microsoft Windows 的一般知識
@@ -62,7 +62,7 @@ outlineSection: |-
   - 供應鏈管理簡介
   - 模組摘要
 
-  - 您將了解什麼是財務和營運
+  您將了解什麼是財務和營運
   - 您將了解它支援的產業
   - 您將熟悉財務和營運中的模組
   - 您將熟悉這些模組中功能的用途
@@ -70,10 +70,10 @@ outlineSection: |-
 
 
   ### 模組 2&#58; 生命週期服務入門
-  若要在 Microsoft Azure 雲端中或內部部署安裝和維護 Microsoft Dynamics 365 for Finance and Operations，您需要使用Microsoft Dynamics 生命週期服務(LCS)來管理該過程。
+  若要在 Microsoft Azure 雲端中或內部部署安裝和維護 Microsoft Dynamics 365 for Finance and Operations，您需要使用Microsoft Dynamics 生命週期服務（LCS）來管理該過程。
   讓我們開始研究 LCS 中可用的整體功能和工具。
 
-  Microsoft Dynamics 生命週期服務(LCS)是一個協作工作區，客戶及其合作夥伴使用來管理 Dynamics 365 for Finance and Operations，從售前到實作以及最後到生產環境，無論是在雲端還是內部部署。它提供有助於管理專案的清單和工具，包括可以幫助管理實作過程的方法。
+  Microsoft Dynamics 生命週期服務（LCS）是一個協作工作區，客戶及其合作夥伴使用來管理 Dynamics 365 for Finance and Operations，從售前到實作以及最後到生產環境，無論是在雲端還是內部部署。它提供有助於管理專案的清單和工具，包括可以幫助管理實作過程的方法。
 
   #### 課程
   - 理解生命週期服務的功能和工具
@@ -85,7 +85,7 @@ outlineSection: |-
   - 練習實驗室
   - 模組摘要
 
-  - 了解用於財務和營運的 Lifecycle 服務 (LCS) 的功能和工具
+  了解用於財務和營運的 Lifecycle 服務 (LCS) 的功能和工具
   - 重用現有資產，複製和共享資料
   - 理解任務記錄器功能
   - 創建業務流程模型
@@ -97,17 +97,17 @@ outlineSection: |-
   - 簡介
   - 雲端實作階段
   - 內部部署實作的各個階段
-  - 創建功能設計文件(FDD)
+  - 創建功能設計文件（FDD）
   - 模組摘要
 
   使用 Lifecycle 服務 (LCS) 中的方法為收集的需求準備文件
   - 定義用案件場景
-  - 參與功能需求文件(FRD)的創建
+  - 參與功能需求文件（FRD）的創建
   - 理解創建和維護文件化流程的重要性
   - 參與階段型的計劃流程和解決方案設計
   - 根據提出的解決方案描述未來狀態商務流程
   - 確定何時建造與購買
-  - 建立功能設計文件(FDD)
+  - 建立功能設計文件（FDD）
 
 
   ### 模組 4&#58; 報告和分析概觀
@@ -120,7 +120,7 @@ outlineSection: |-
   - 練習實驗室
   - 模組摘要
 
-  - 財務和營運中不同類型的報告和查詢
+  財務和營運中不同類型的報告和查詢
   - 財務報告
   - 為Microsoft Power Platform配置財務和營運
 
@@ -172,7 +172,7 @@ outlineSection: |-
   - 練習實驗室
   - 模組摘要
 
-  - 您已經學會法律實體並產生號碼序列
+  您已經學會法律實體並產生號碼序列
   - 您還設定月曆和日期間隔。
   - 您學習如何建立組織階層，套用目的和設定原則
 
@@ -193,7 +193,7 @@ outlineSection: |-
   - 練習實驗室
   - 模組摘要
 
-  - 了解財務和營運的安全性架構
+  了解財務和營運的安全性架構
   - 受管理的使用者
   - 受管理的安全
   - 套用責任隔離
@@ -243,10 +243,10 @@ outlineSection: |-
   - 執行測試移轉並驗證輸出
   - 模組摘要
 
-  - 選擇資料整合(匯入/匯出)策略
+  選擇資料整合（匯入/匯出）策略
   - 識別財務和營運中的常見移轉方案和工具
-  - 了解自攜資料庫(BYOD)功能
-  - 識別相關(舊版)系統
+  -了解自攜資料庫（BYOD）功能
+  - 識別相關（舊版）系統
   - 識別並匯入產業之間常見的靜態資料
   - 創建和檢閱測試計劃以進行資料移轉
   - 識別並提擷取資料
@@ -279,7 +279,7 @@ outlineSection: |-
 
 
   ### 模組 13&#58; 執行使用者驗收測試
-  透過設定，自訂以及與可能的第三方的整合解決了所有客戶要求之後，您需要知道如何在 Microsoft Dynamics 365 for Finance and Operations 中執行使用者驗收測試(UAT)以驗證解決方案。這是上線準備工作的關鍵步驟之一部分。
+  透過設定，自訂以及與可能的第三方的整合解決了所有客戶要求之後，您需要知道如何在 Microsoft Dynamics 365 for Finance and Operations 中執行使用者驗收測試（UAT）以驗證解決方案。這是上線準備工作的關鍵步驟之一部分。
 
   為了在上線之前測試和評估客戶解決方案，需要具有 Dynamics 365 for Finance and Operations 的環境，該環境可透過擴充具有所有設定和可能的自訂。
 
@@ -290,7 +290,7 @@ outlineSection: |-
   - 練習實驗室
   - 模組摘要
 
-  - 如何了解測試案例與商務需求之間的關係
+  如何了解測試案例與商務需求之間的關係
   - 記錄測試案例的最佳做法
   - 任務記錄器
   - 如何創建方案驗收測試 BPM 庫
@@ -299,8 +299,8 @@ outlineSection: |-
 
 
   ### 模組 14&#58; 準備上線
-  透過 Dynamics 365 for Finance and Operations 中已實作的解決方案移動至生產環境，所有的艱辛工作都獲得成功。  目標是在這個重要的階段(即上線)獲得滿意的客戶，優質的解決方案和讓您安心。
-  了解如何透過使用 Microsoft Dynamics 生命週期服務(LCS)準備上線財務與營運項目。
+  透過 Dynamics 365 for Finance and Operations 中已實作的解決方案移動至生產環境，所有的艱辛工作都獲得成功。  目標是在這個重要的階段（即上線）獲得滿意的客戶，優質的解決方案和讓您安心。
+  了解如何透過使用 Microsoft Dynamics 生命週期服務（LCS）準備上線財務與營運項目。
 
   #### 課程
   - 簡介
@@ -308,8 +308,8 @@ outlineSection: |-
   - 模組摘要
 
   準備上線
-  - 完成 Lifecycle 服務(LCS)方法
-  - 執行您的解決方案使用者驗收測試(UAT)
+  - 完成 Lifecycle 服務（LCS）方法
+  - 執行您的解決方案使用者驗收測試（UAT）
   - 理解FastTrack即時評估
   - 要求生產環境
 
@@ -322,3 +322,4 @@ outlineSection: |-
   - 課後調查
 
   學生將完成課程。
+

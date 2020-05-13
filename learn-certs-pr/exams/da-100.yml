@@ -6,12 +6,14 @@ metadata:
 uid: exam.da-100
 displayName: DA-100
 summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
   資料分析師使企業可以使用Microsoft Power BI提高資料資產的價值。作為主題專家，資料分析師負責設計和構建可調整規模的資料模型，清理和轉換資料，並啟用進階分析功能，這些功能透過易於理解的資料視覺效果提供有意義的商務價值。資料分析師還與各種產業的關鍵利害關係人共同作業，根據已識別的商務需求提供相關的深入解析。
   <br/>
 
   資料分析師應該對內部部署和雲端中的資料存放庫和資料處理有基本的了解。
 
-  <div style='color&#58; red;'><br/><strong>注意&#58; 此 Beta 版測驗要到 2020 年 4 月 2 日才能提供。</strong> 此資訊不是確定的，且測驗發行後可能會有細微的變化。</div>
+  <div style='font-weight&#58; bold;'><br/>Beta 測驗不會立即評分，因為我們正在收集有關問題和測驗品質的資料。詳細了解 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Beta考試的價值和重要性</a>。</div>
 subTitle: '此測驗會評量您達成下方技術性工作的能力：準備資料；對資料建模；可視化資料； 分析資料；並部署和維護交付項目。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
@@ -35,10 +37,10 @@ relatedCertifications:
     uid: certification.data-analyst-associate
 resources:
 - title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
@@ -49,9 +51,10 @@ resources:
 - title: 認證儀錶板
   description: 檢閱並管理您的預定測驗、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
-  description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
+- title: 要求住宿
+  description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

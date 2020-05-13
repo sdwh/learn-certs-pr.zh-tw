@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Microsoft Dynamics 365 Supply Chain Management
 metadata:
-  title: 'Course MB-330T00-A: Microsoft Dynamics 365 Supply Chain Management​'
-  description: 'Course MB-330T00-A: Microsoft Dynamics 365 Supply Chain Management​'
+  title: 'Course MB-330T00-A: Microsoft Dynamics 365 Supply Chain Management'
+  description: 'Course MB-330T00-A: Microsoft Dynamics 365 Supply Chain Management'
 uid: course.mb-330t00
 courseNumber: 'MB-330T00-A'
 hoursToComplete: 96
@@ -25,7 +25,7 @@ summary: |-
   此課程討論 Dynamics 365 應用程式套件中的供應鏈管理
 
   #### 對象設定檔
-  Dynamics 365 客戶參與功能顧問負責執行發現，擷取需求，吸引主題專家和利害關係人參與，翻譯需求以及配置解決方案和應用程式。功能顧問使用現成功能，無程式碼擴充性，應用程式和服務整合來實作解決方案。
+  Dynamics 365 金融客戶參與功能顧問負責執行發現，擷取需求，吸引主題專家和利害關係人參與，翻譯需求以及配置解決方案和應用程式。功能顧問使用現成功能，無程式碼擴充性，應用程式和服務整合來實作解決方案。
 outlineSection: |-
   ### 模組 1&#58; 供應鏈管理
   要配置庫存，應該首先理解庫存的日常操作。在本課程中，我們首先討論入庫和出庫操作。
@@ -75,11 +75,11 @@ outlineSection: |-
   - 模組摘要
 
   理解 ABC 分類
-  - 使用查詢和報告
+  - 使用存貨查詢和報告
 
 
   ### 模組 4&#58; 創建產品和產品大師
-  Dynamics 365 for Finance and Operations 中的產品資訊管理用於創建和維護企業產品存放庫。以集中的結構化方法支援大型組織，以創建和維護核心主資料(例如產品定義)。需要一些非集中方法的小型組織可以在某些限制下創建和維護其各自的產品，同時將其產品自動新增到共用產品存放庫中。
+  Dynamics 365 for Finance and Operations 中的產品資訊管理用於創建和維護企業產品存放庫。以集中的結構化方法支援大型組織，以創建和維護核心主資料（例如產品定義）。需要一些非集中方法的小型組織可以在某些限制下創建和維護其各自的產品，同時將其產品自動新增到共用產品存放庫中。
 
   本主題說明如何在“財務和營運”中配置產品以進行供應鏈管理流程。
   #### 課程
@@ -99,7 +99,7 @@ outlineSection: |-
 
 
   ### 模組 5&#58; 創建物料清單
-  物料清單(BOM)是製造成品所需的所有元件，零件，原料，組件及其數量的完整清單。
+  物料清單（BOM）是製造成品所需的所有元件，零件，原料，組件及其數量的完整清單。
 
   本模組說明如何透過使用 Finance and Operations 中的 BOM 設定工具來創建 BOM 和 BOM 版本。
   #### 課程
@@ -371,3 +371,4 @@ outlineSection: |-
   - 課後調查
 
   學生將完成課程。
+
