@@ -1,23 +1,28 @@
 ### YamlMime:Examination
-title: Microsoft Azure Administrator'
+title: Microsoft Azure Administrator
 metadata:
   title: 'Exam AZ-103: Microsoft Azure Administrator'
   description: 'Exam AZ-103: Microsoft Azure Administrator'
 uid: exam.az-103
 displayName: AZ-103
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>此測驗的新版本 AZ -104，將於 2020 年 3 月 31 日當日或前後提供。您將可以參加此測驗，直到2020年6月30日當日或前後淘汰。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
-  
-  自2019年5月1日起，你僅需要通過 Exam AZ-103 便可獲得此認證。這項新測驗結合了AZ-100 和 AZ-101 (將在2019年5月1日淘汰)的技能，大部分的新測驗內容取自 AZ-100。
+  <div>
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此測驗的新版本, <a href="/learn/certifications/exams/az-104">AZ-104</a>, 將於 2020 年 4 月 2 日提供。您將可以參加此測驗，直到2020年8月31日當日或前後淘汰。Note&#58;  測驗將在中部標準時間晚間11點59分到期。<br/><br/></div>
+  </div>
+
+  自2019年5月1日起，你僅需要通過 Exam AZ-103 便可獲得此認證。這項新測驗結合了AZ-100 和 AZ-101 (將在2019年5月1日退役)的技能，大部分的新測驗內容將取自 AZ-100。
 
   此測驗的應試者是 Azure 管理員，他們管理跨越儲存、安全性、網路與計算雲端功能的雲端服務。應試者對整個 IT 生命週期中的每項服務都有深入的瞭解，並接受雲端基礎結構服務、應用程式與環境的請求。他們針對最佳性能與規模使用服務提出建議，並適當地佈建、規模、監控與調整資源。
 
   測驗的應試者應該熟練使用 PowerShell 與命令列界面、Azure Portal、ARM 範本、操作系統、虛擬化、雲端基礎結構、儲存結構和網路。
-subTitle: '自2019年5月1日起，你僅需要通過 Exam AZ-103 便可獲得此認證。這項新測驗結合了AZ-100 和 AZ-101 (將在2019年5月1日淘汰)的技能，大部分的新測驗內容取自 AZ-100。該測驗衡量您完成以下技術任務的能力:管理 Azure 訂閱和資源；實作和管理存儲；部署和管理虛擬機 (VM)；配置和管理虛擬網絡；和管理身份。'
+
+  <div style='font-weight&#58; bold;'><br/>NOTE&#58; 如果您通過測驗，將獲得以下認證&#58; <a href="/learn/certifications/azure-administrator">Microsoft Certified&#58; Azure Administrator Associate</a>.</div>
+subTitle: '自2019年5月1日起，你僅需要通過 Exam AZ-103 便可獲得此認證。這項新測驗結合了AZ-100 和 AZ-101 (將在2019年5月1日退役)的技能，大部分的新測驗內容將取自 AZ-100。該測驗衡量您完成以下技術任務的能力：管理 Azure 訂閱和資源；實作和管理存儲；部署和管理虛擬機 (VM)；配置和管理虛擬網絡；和管理身份。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUR
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-103&examname=Exam%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-103
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-103&examname=Exam%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-103
 locales:
 - en
 - ja
@@ -26,13 +31,14 @@ locales:
 levels:
 - intermediate
 skills:
-- 此測驗的新版本 AZ -104，將於 2020 年 3 月 31 日當日或前後提供。您將可以參加此測驗，直到2020年6月30日當日或前後淘汰。 請下載下面的技能評估文件，以了解發生了什麼變化。
-- '附註:出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
+- 此測驗的新版本, AZ-104, 將於 2020 年 4 月 2 日提供。您將可以參加此測驗，直到2020年8月31日當日或前後淘汰。請下載下面評量文件的技能，以了解會發生什麼變化。
+- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
 - 管理 Azure 訂閱和資源 (15-20%)
 - 實作和管理存儲 (15-20%)
 - 部署和管理虛擬機 (VM) (15-20%)
 - 部署和管理虛擬網絡 (VM) (30-35%)
 - 管理身份 (15-20%)
+retirementDate: 08/31/2020
 roles:
 - administrator
 products:
@@ -58,7 +64,7 @@ paths:
 - uid: learn.administer-containers-in-azure
 relatedCertifications:
 - related:
-    uid: certification.azure-administrator
+    uid: none
 resources:
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
@@ -75,9 +81,10 @@ resources:
 - title: 認證儀錶板
   description: 檢閱並管理您的預定測驗、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 要求住宿
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

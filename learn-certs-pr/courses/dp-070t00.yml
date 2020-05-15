@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 將開放原始碼資料工作負載移轉到Azure
+title: Migrate Open Source Data Workloads to Azure
 metadata:
-  title: 'Course DP-070T00-A: 將開放原始碼資料工作負載移轉到Azure'
-  description: 'Course DP-070T00-A: 將開放原始碼資料工作負載移轉到Azure'
+  title: 'Course DP-070T00-A: Migrate Open Source Data Workloads to Azure'
+  description: 'Course DP-070T00-A: Migrate Open Source Data Workloads to Azure'
 uid: course.dp-070t00
 courseNumber: 'DP-070T00-A'
 hoursToComplete: 24
@@ -24,12 +24,12 @@ summary: |-
 
   #### 對象設定檔
   本課程的主要對像是規劃將MySQL或Postgres DB工作負載移轉到Azure SQL DB的資料庫開發人員。
-  本課程的主要讀者是MySQL/Postgres管理員，旨在提高人們對Azure SQL DB的功能和優勢的認識。
+  本課程的主要讀者是MySQL / Postgres管理員，旨在提高人們對Azure SQL DB的功能和優勢的認識。
 prerequisitesSection: |-
-  參加訓練的學生除了具備專業經驗外，還應具備以下技術知識&#58; 
+  參加訓練的學生除了具備專業經驗外，還應具備以下技術知識&#58;
   - 對開放原始碼關係資料庫管理系統（例如Postgres和/或MySQL），SQL管理，備份和恢復技術（即傾印表資料）的一些瞭解
 outlineSection: |-
-  ### 模組 1&#58; 移轉到適用於MySQL和PostgreSQL的Azure SQL資料庫
+  ### 模組 1&#58; 移轉到適用於 Azure SQL DB for MySQL & PostgreSQL
   本模組描述了Azure SQL DB的優點和架構。
   #### 課程
   - OSS資料庫概述
@@ -43,7 +43,7 @@ outlineSection: |-
   - 從Postgres / MySQL進行備份/資料傾印
   - 從資料傾印還原
 
-  在本模組的最後，學生將能夠&#58; 
+  在本模組的最後，學生將能夠&#58;
   - OSS資料庫概述
   - 常見的OSS資料庫工作負載
   - 移轉中的客戶挑戰
@@ -64,7 +64,7 @@ outlineSection: |-
   - 執行移轉
   - 驗證移轉
 
-  在本模組的最後，學生將能夠&#58; 
+  在本模組的最後，學生將能夠&#58;
   - 為MySQL配置和管理Azure SQL DB
   - 將內部MySQL移轉到SQL DB for MySQL
   - 應用程式移轉
@@ -86,11 +86,13 @@ outlineSection: |-
   - 執行移轉
   - 驗證移轉
 
-  在本模組的最後，學生將能夠&#58; 
+  在本模組的最後，學生將能夠&#58;
   - 為PostgreSQL配置和管理Azure SQL DB
   - 將內部MySQL移轉到PostgreSQL的SQL DB
   - 應用程式移轉
   - 移轉後考量
 
-  #### 其他閱讀本課程不需要其他閱讀
+  #### 其他閱讀
+
+  #### 本課程不需要其他閱讀
 

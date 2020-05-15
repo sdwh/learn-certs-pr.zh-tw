@@ -6,13 +6,16 @@ metadata:
 uid: exam.dp-100
 displayName: DP-100
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>階段1&#58;- 此測驗內容將於 2020 年 5 月 22 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此測驗內容將於 2020 年 5 月 22 日更新。請下載下面的技能評估文件，以了解將發生什麼變化。<br/><br/></div>
+  </div>
+
   Azure資料科學家套用他們在資料科學和機器學習方面的知識在Azure上實作和執行機器學習工作負載；特別是使用Machine Learning Service。這需要為 Azure 上的資料科學工作負載規劃和建立合適的工作環境，執行資料實驗和訓練預測模型，管理和最佳化模型，以及將機器學習模型部署到生產中。
-subTitle: '此測驗會評量您達成下方技術性工作的能力:設定 Azure 機器學習工作區； 進行實驗和訓練模型；最佳化和管理模型；並部署和使用模型。'
+subTitle: '此測驗會評量您達成下方技術性工作的能力：設定 Azure 機器學習工作區； 進行實驗和訓練模型；最佳化和管理模型；並部署和使用模型。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
 - ja
@@ -21,11 +24,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 此測驗內容將於 2020 年 5 月 22 日更新。 請下載下面的技能評估文件，以了解發生了什麼變化。
-- 設定 Azure 機器學習工作區(30 -35%) 
-- 執行實驗和訓練模型(25 -30%) 
-- 最佳化和管理模型(20 -25%) 
-- 部署和使用模型(20 -25%)
+- 此測驗內容將於 2020 年 5 月 22 日更新。請下載下面的技能評估文件，以了解將發生什麼變化。
+- 設定 Azure 機器學習工作區(30-35%)
+- 執行實驗和訓練模型(25-30%)
+- 最佳化和管理模型(20-25%)
+- 部署和使用模型(20-25%)
 roles:
 - data-scientist
 products:
@@ -54,9 +57,10 @@ resources:
 - title: 認證儀錶板
   description: 檢閱並管理您的預定測驗、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 要求住宿
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
+

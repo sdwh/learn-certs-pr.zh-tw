@@ -1,5 +1,5 @@
 ### YamlMime:Course
-title: Microsoft Power Platform Fundamentals'
+title: Microsoft Power Platform Fundamentals
 metadata:
   title: 'Course PL-900T00-A: Microsoft Power Platform Fundamentals'
   description: 'Course PL-900T00-A: Microsoft Power Platform Fundamentals'
@@ -7,6 +7,13 @@ uid: course.pl-900t00
 courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 Power Platform 元件：Power Apps，Power Bi 和 Microsoft Automate
+- skill: 描述 Power Platform 元件：Common Data Service，連接器和 AI 建立器
+- skill: 描述 M365，Dynamics 365，Microsoft Azure 和第三方服務的跨雲端案例
+- skill: 識別 Power Platform 的權益和功能
+- skill: 識別 Power Platform 元件的基本功能和商務價值
+- skill: 使用 Microsoft Automate，Power BI 和 Power App 實作簡單的解決方案
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -18,7 +25,11 @@ products:
 - power-platform
 exams:
 - uid: exam.pl-900
-summary: ""
+summary: |-
+  學習 Power Platform 的商務價值和產品功能。建立一個簡單的 PowerApp，將資料與 CDS 連線，組建一個 Power BI 儀表板，並使用 Microsoft Flow 自動化流程。
+
+  #### 對象設定檔
+  本測驗的應試者是那些希望透過自動化業務流程提升生產力，透過分析資料生成業務見解，以及透過創建簡單的 APP 體驗提高執行效率的使用者。
 prerequisitesSection: |-
   本課程無需預備知識
 outlineSection: |-
@@ -27,7 +38,7 @@ outlineSection: |-
   #### 課程
   - Power Platform概觀
   - 模組摘要
-  
+
   學習Power Platform的元件和特點
   - 判斷出什麼時候使用每一個Power Platform的元件運用程式去建立商業解決方案。
   - 學習使用Power Platform去建立商業解決方案的價值
@@ -42,7 +53,7 @@ outlineSection: |-
   #### 實驗室&#58; 怎樣建立一個 Basic Canvas App 1
   - 建立Staff Canvas App
   - 完成該App
-  
+
   #### 實驗室&#58; 怎樣建立一個Basic Canvas App 2
   - 建立 Security Canvas App
 
@@ -58,14 +69,14 @@ outlineSection: |-
   - 模組摘要
 
 
-  #### 實驗室&#58; Data Modeling
+  #### 實驗室&#58;Data Modeling
   - 建立環境和解決方案
   - 建立對象和關係
   - 匯入資料
-  
+
   解釋在common data service裡面什麼是環境，對象，域和關係
-  描繪Common Data Service 和 Common Data Model之間的區別
-  解釋用例和商業規則及其程式流程的限制
+  - 描繪Common Data Service 和 Common Data Model之間的區別
+  - 解釋用例和商業規則及其程式流程的限制
 
 
   ### 模塊 4&#58; 開始使用Power Automate
@@ -92,6 +103,7 @@ outlineSection: |-
 
 
   #### 實驗室&#58; 建立一個Power BI Report
-  - 描繪Power BI的商業價值和特點
+  描繪Power BI的商業價值和特點
   - 從用戶的角度看Power BI是如何工作的
   - 學習如何建立一個simple Power BI 儀表板
+

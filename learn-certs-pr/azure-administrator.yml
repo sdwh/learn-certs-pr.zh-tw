@@ -1,21 +1,23 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure Administrator Associate.'
+title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
-  title: 'Microsoft Certified: Azure Administrator Associate.'
-  description: Azure管理員實作、監控和維護 Microsoft Azure 解決方案，包括與計算、儲存、網路和安全性相關的主要服務。
+  title: 'Microsoft Certified: Azure Administrator Associate'
+  description: 'Azure管理員實作、監控和維護 Microsoft Azure 解決方案，包括與計算、儲存、網路和安全性相關的主要服務。'
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
   Azure管理員實作、監控和維護 Microsoft Azure 解決方案，包括與計算、儲存、網路和安全性相關的主要服務。
 subTitle: Azure管理員實作、監控和維護 Microsoft Azure 解決方案，包括與計算、儲存、網路和安全性相關的主要服務。
 levels:
 - intermediate
 skills:
-- 管理Azure訂閱和資源
-- 實作和管理儲存
-- 部署和管理虛擬機 (VM)
-- 設定與管理虛擬網路
-- 管理身份識別
+- 管理 Azure 身份識別和治理
+- 實作和管理存儲
+- 部署和管理 Azure 計算資源
+- 設定和管理虛擬網路
+- 監視和備份Azure資源
 roles:
 - administrator
 type: role-based
@@ -27,7 +29,7 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
-- uid: course.az-103t00
+- uid: course.az-104t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure
 - uid: learn.architect-storage-infrastructure
@@ -42,7 +44,7 @@ paths:
 - uid: learn.administer-containers-in-azure
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
 exams:
-- uid: exam.az-103
+- uid: exam.az-104
 resources:
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
@@ -59,3 +61,4 @@ resources:
 - title: 認證儀錶板
   description: 檢閱並管理您的預定測驗、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+
