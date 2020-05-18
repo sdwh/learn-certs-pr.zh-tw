@@ -54,7 +54,7 @@ outlineSection: |-
   - 移轉後考量
 
 
-  #### 實驗室&#58;將 MongoDB 工作負載遷移到 Cosmos DB
+  #### 實驗室&#58; 將 MongoDB 工作負載遷移到 Cosmos DB
   - 創建遷移項目
   - 定義來源和目標
   - 執行移轉
@@ -78,7 +78,7 @@ outlineSection: |-
   - 移轉後考量
 
 
-  #### 實驗室&#58;將 Cassandra DB 工作負載遷移到 Cosmos DB
+  #### 實驗室&#58; 將 Cassandra DB 工作負載遷移到 Cosmos DB
   - 導出架構
   - 使用 CQLSH COPY 移動數據
   - 使用 Spark 移動數據
