@@ -13,7 +13,7 @@ subTitle: Azure for SAP Workloads 架構師對 SAP 景觀認證流程和特定�
 levels:
 - advanced
 skills:
-- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
+- '附註: 出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
 - 將SAP移轉到 Azure
 - 設計 Azure 解決方案以支援 SAP 工作負載
 - 組建和部署 Azure for SAP Workloads

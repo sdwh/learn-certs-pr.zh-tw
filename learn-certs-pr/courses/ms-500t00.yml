@@ -57,7 +57,7 @@ prerequisitesSection: |-
   - 對電腦網路的基本瞭解。
   - 管理行動裝置的工作知識。
 outlineSection: |-
-  ### 模塊1&#58; 用戶和組保護
+  ### 模塊 1&#58; 用戶和組保護
   本模組說明如何在 Microsoft 365 中管理使用者帳號和群組。向您介紹Azure AD中的特權身份識別管理以及身份識別保護。該模組為課程的其餘部分奠定基礎。
   #### 課程
   - 身份和訪問管理概念
@@ -68,11 +68,11 @@ outlineSection: |-
   - Azure AD身分識別保護
 
 
-  #### 實驗室&#58;初始化您的試用租戶
+  #### 實驗室&#58; 初始化您的試用租戶
   - 設置您的 Microsoft 365 租戶
 
 
-  #### 實驗室&#58;配置特權身份管理
+  #### 實驗室&#58; 配置特權身份管理
   - 發現和管理 Azure 資源
   - 分配 目錄角色
   - 激活和停用 PIM 角色
@@ -121,7 +121,7 @@ outlineSection: |-
   - 外部存取的解決方案
 
 
-  #### 實驗室&#58;使用條件訪問啟用 MFA
+  #### 實驗室&#58; 使用條件訪問啟用 MFA
   - MFA 身份驗證試行（特定應用程式需要 MFA）
   - MFA 有條件訪問（完成 MFA 展開）
 
@@ -142,7 +142,7 @@ outlineSection: |-
   - Microsoft Secure Score
 
 
-  #### 實驗室&#58;使用 Microsoft 安全評分
+  #### 實驗室&#58; 使用 Microsoft 安全評分
   - 在 Microsoft 365 安全中心中提高安全分數
 
   完成本單元後，學生將能夠&#58;
@@ -164,7 +164,7 @@ outlineSection: |-
   - Microsoft Defender Advanced Threat Protection
 
 
-  #### 實驗室&#58;管理Microsoft 365安全服務
+  #### 實驗室&#58; 管理Microsoft 365安全服務
   實作 ATP  政策
 
   完成本單元後，學生將能夠&#58;
@@ -175,7 +175,7 @@ outlineSection: |-
   - 配置 Windows Defender ATP
 
 
-  ###模塊6&#58; 威脅管理
+  ### 模塊 6&#58; 威脅管理
   本模塊說明 Microsoft 威脅管理，它為您提供了評估和解決網絡威脅並製定響應方案的工具。您將學習如何使用針對 Microsoft 365 的安全性儀錶板和 Azure Sentinel。該模塊還說明和配置 Microsoft 高級威脅分析 。
   #### 課程
   - 使用安全性儀錶板
@@ -184,7 +184,7 @@ outlineSection: |-
   - 配置進階威脅分析
 
 
-  #### 實驗室&#58;使用攻擊模擬程式
+  #### 實驗室&#58; 使用攻擊模擬程式
   - 進行模擬的魚叉式網絡釣魚攻擊
   - 進行模擬密碼攻擊
 
@@ -230,7 +230,7 @@ outlineSection: |-
   - Windows 資訊保護
 
 
-  #### 實驗室&#58;實施 Azure 信息保護和 Windows 信息保護
+  #### 實驗室&#58; 實施 Azure 信息保護和 Windows 信息保護
   - 實作 Azure Information Protection
   - 實作 Windows Information Protection
 
@@ -268,7 +268,7 @@ outlineSection: |-
   - 原則提示
 
 
-  #### 實驗室&#58;實施數據丟失防護策略
+  #### 實驗室&#58; 實施數據丟失防護策略
   - 管理 DLP 政策
   - 測試MRM和DLP政策
 
