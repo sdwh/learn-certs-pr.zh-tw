@@ -22,12 +22,12 @@ products:
 - azure-active-directory
 - office-365
 courses:
-- uid: course.ms-500t01
-- uid: course.ms-500t02
-- uid: course.ms-500t03
-- uid: course.ms-500t04
+- uid: course.ms-500t00
 paths:
 - uid: learn-m365.identity-and-access
+- uid: learn-m365.m365-security-threat-protection
+- uid: learn-m365.m365-information-protection
+- uid: learn-m365.m365-security-management
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUiS
 exams:
 - uid: exam.ms-500
