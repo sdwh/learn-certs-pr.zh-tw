@@ -65,7 +65,6 @@ courses:
 - uid: course.az-300t04
 - uid: course.az-300t06
 paths:
-- uid: learn.architect-great-solutions-in-azure
 - uid: learn.architect-network-infrastructure
 - uid: learn.architect-storage-infrastructure
 - uid: learn.architect-compute-infrastructure
