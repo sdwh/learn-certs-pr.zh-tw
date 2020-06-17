@@ -1,0 +1,86 @@
+### YamlMime:Course
+title: 'Software Development Fundamentals with HTML5: Training 2-Pack for MTA Exams 98-361 and 98-375'
+metadata:
+  title: 'Course 40034-A: Software Development Fundamentals with HTML5: Training 2-Pack for MTA Exams 98-361 and 98-375'
+  description: 'Course 40034-A: Software Development Fundamentals with HTML5: Training 2-Pack for MTA Exams 98-361 and 98-375'
+uid: course.40034
+courseNumber: '40034-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 了解核心程式設計
+- skill: 了解物件導向程式設計
+- skill: 了解一般軟體開發
+- skill: 了解 Web 應用程式
+- skill: 了解傳統型應用程式
+- skill: 了解資料庫
+- skill: 管理應用程式生命週期
+- skill: 使用 HTML5 組建使用者界面
+- skill: 使用 CSS 格式化使用者界面
+- skill: 使用 JavaScript 編碼
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.98-361
+summary: |-
+  這個為期五天的 2 套件訓練課程可幫助您為 Microsoft Technology Associate 測驗 98-361 和 98-365 做好準備，並加深對這些主題的理解&#58; 核心程序設計、物件導向程式設計、一般軟體開發、Web 應用程式、傳統型應用程式、資料庫、 管理應用程式生命週期，使用 HTML5 組件使用者界面，使用 CSS 格式化使用者界面以及使用 JavaScript 進行編碼。本課程利用與這些測驗的 Microsoft Official Academic Course （MOAC）中相同的內容。
+
+  #### 對象設定檔
+  Microsoft Technology Associate（MTA）是 Microsoft 最新的技術認證測驗套件，驗證開始使用 Microsoft 技術建立職業所需的基本知識。本計劃為未來的技術職業提供適當的切入點，並且具有一定的實作經驗或訓練，但不具有在職經驗。
+prerequisitesSection: |-
+  本課程沒有任何先決條件。
+outlineSection: |-
+  ### 模組 1&#58; 程式設計簡介
+
+
+  ### 模組 2&#58; 物件導向程式設計簡介
+
+
+  ### 模組 3&#58; 了解一般軟體開發
+
+
+  ### 模組 4&#58; 了解 Web 應用程式
+
+
+  ### 模組 5&#58; 了解傳統型應用程式
+
+
+  ### 模組 6&#58; 了解資料庫
+
+
+  ### 模組 7&#58; 管理應用程式生命週期
+
+
+  ### 模組 8&#58; 使用 HTML5 &#58; 文字、圖形和媒體組建使用者界面
+
+
+  ### 模組 9&#58; 使用 HTML5 &#58; 組織，輸入和驗證組建使用者界面
+
+
+  ### 模組 10&#58; 了解 CSS 要點 &#58; 內容流程，定位和樣式
+
+
+  ### 模組 11&#58; 了解 CSS要點 &#58; 版面配置
+
+
+  ### 模組 12&#58; 使用 CSS 管理文字流向
+
+
+  ### 模組 13&#58; 使用 CSS 管理圖形界面
+
+
+  ### 模組 14&#58; 了解 JavaScript 和編碼要點
+
+
+  ### 模組 15&#58; 建立動畫，使用圖形和存取資料
+
+
+  ### 模組 16&#58; 用於觸控界面，裝置和作業系統資源等的 JavaScript 編碼
+

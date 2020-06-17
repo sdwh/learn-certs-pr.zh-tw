@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Windows Server Administration Fundamentals
+metadata:
+  title: 'Exam 98-365: Windows Server Administration Fundamentals'
+  description: 'Exam 98-365: Windows Server Administration Fundamentals'
+uid: exam.98-365
+displayName: 98-365
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  此測驗的應試者熟悉 Windows Server 管理的概念和技術。應試者應具備一些 Windows Server、Windows 基礎網路功能、Active Directory、帳戶管理和系統復原工具及概念的實際操作經驗。
+
+  <div style='font-weight&#58; bold;'><br/>從 2018 年 1 月 31 日開始，測驗更新有效。要了解有關這些變更以及它們如何影響所測技能的更多資訊，請下載並檢閱 98-365 測驗變更文件。</div>
+subTitle: 此測驗的應試者熟悉 Windows Server 管理的概念和技術。應試者應具備一些 Windows Server、Windows 基礎網路功能、Active Directory、帳戶管理和系統復原工具及概念的實際操作經驗。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjL
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-365&examname=Windows%20Server%20Administration%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-365
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- 瞭解伺服器安裝 (10-15%)
+- 瞭解伺服器角色 (25-30%)
+- 瞭解 Active Directory (20-25%)
+- 瞭解儲存區 (10-15%)
+- 瞭解伺服器效能管理 (10-15%)
+- 瞭解伺服器維護 (15-20%)
+roles:
+- administrator
+products:
+- windows-server
+relatedCertifications:
+- related:
+    uid: certification.mta-windows-server-administration-fundamentals
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

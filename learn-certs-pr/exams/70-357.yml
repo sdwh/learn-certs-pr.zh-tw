@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: Developing Mobile Apps
+metadata:
+  title: 'Exam 70-357: Developing Mobile Apps'
+  description: 'Exam 70-357: Developing Mobile Apps'
+uid: exam.70-357
+displayName: 70-357
+summary: |-
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  </div>
+
+  本測驗的應試者是經驗豐富的開發人員，負責設計及開發 Windows 10 應用程式，以部署到 Windows 市集或商務用 Windows 市集。
+
+  應試者除了具備 WPF 或 Windows Phone 版 Silverlight 的經驗之外，通常還具備兩年以上使用 C# 和 XAML 開發 Windows 應用程式的經驗。應試者也應具備 Model-View-ViewModel (MVVM) 設計模式與 Entity Framework 的經驗，同時還具備驗證技術。強烈建議應試者具備 Visual Studio 2015 的經驗。
+subTitle: 本測驗的應試者是經驗豐富的開發人員，負責設計及開發 Windows 10 應用程式，以部署到 Windows 市集或商務用 Windows 市集。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjH
+practiceTestUrl: https://www.mindhub.com/70-357-developing-mobile-apps-microsoft-official/p/MU-70-357?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-357&examname=Developing%20Mobile%20Apps&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-357
+locales:
+- en
+- es
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+- ru
+levels:
+- intermediate
+skills:
+- 針對調適型 UI 開發 XAML 頁面配置 (10-15%)
+- 實作頁面導覽與生命週期事件 (10-15%)
+- 實作資料存取與資料繫結 (20-25%)
+- 針對調適型編碼實作功能偵測 (10-15%)
+- 管理使用者輸入及自訂使用者互動 (10-15%)
+- 管理驗證和身分識別管理 (10-15%)
+- 實作通知、背景工作與可重複使用的元件 (15-20%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mcsa-universal-windows-platform
+- related:
+    uid: certification.mcsd-app-builder-certification
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,51 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Office 2013 Master Specialist'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Office 2013 Master Specialist'
+  description: 'Microsoft Office Specialist: Microsoft Office 2013 Master Specialist'
+uid: certification.microsoft-office-specialist-master-certification-2013
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  該認證展現您取得 Microsoft Office Specialist Master 認證，具備嫻熟使用 Office 程式所需之程度最高深技能。
+
+  要獲得 Microsoft Office Specialist Master 認證，請通過以下選修考試中的其中一門&#58;
+  - [Exam 77-422&#58; Microsoft PowerPoint 2013](/learn/certifications/exams/77-422)
+  - [Exam 77-424&#58; Microsoft Access 2013](/learn/certifications/exams/77-424)
+  - [Exam 77-423&#58; Microsoft Outlook 2013](/learn/certifications/exams/77-423)
+  - [Exam 77-419&#58; Microsoft SharePoint 2013](/learn/certifications/exams/77-419)
+  - [Exam 77-421&#58; Microsoft OneNote 2013](/learn/certifications/exams/77-421)
+subTitle: 該認證展現您取得 Microsoft Office Specialist Master 認證，具備嫻熟使用 Office 程式所需之程度最高深技能。
+levels:
+- beginner
+skills:
+- Word 2013
+- Excel 2013
+- Office 2013
+roles:
+- business-user
+type: mos
+products:
+- office
+exams:
+- uid: exam.77-422
+- uid: exam.77-424
+- uid: exam.77-423
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證海報
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 支持認證
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  href: help.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

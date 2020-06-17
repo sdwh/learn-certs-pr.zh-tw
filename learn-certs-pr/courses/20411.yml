@@ -1,0 +1,295 @@
+### YamlMime:Course
+title: Administering Windows Server® 2012
+metadata:
+  title: 'Course 20411-D: Administering Windows Server® 2012'
+  description: 'Course 20411-D: Administering Windows Server® 2012'
+uid: course.20411
+courseNumber: '20411-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 設定和疑難排解網域名稱系統
+- skill: 維護 Active Directory 網域服務
+- skill: 管理使用者和服務帳戶
+- skill: 實作群組原則基礎結構
+- skill: 使用群組原則管理使用者桌面
+- skill: 安裝，設定和疑難排解網路原則伺服器
+- skill: 實施網路存取保護
+- skill: 實作遠端存取
+- skill: 最佳化檔案服務
+- skill: 設定加密和進階稽核
+- skill: 部署和維護伺服器映像
+- skill: 實作更新管理
+- skill: 監視 Windows Server 2012
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-411
+summary: |-
+  在為期五天的 Microsoft 官方課程中，獲得實際操作指導並練習管理 Windows Server 2012，包括 Windows Server 2012 R2本課程是三門課程系列中的第二部分，提供在現有企業環境中實現核心 Windows Server 2012 基礎結構所需的技能和知識。 
+
+  這三門課程共同涵蓋在 Windows Server 2012 環境中實作、管理、維護和提供服務及基礎結構。儘管這些課程的技能和工作有所變化，但本課程著重於維護 Windows Server 2012 基礎結構所需的管理工作，例如設定和疑難排解名稱解析，使用 Active Directory 網域服務(AD Ds)和群組原則進行使用者和群組管理，實作遠端存取解決方案(例如 DirectAccess、VPN和 WEB 應用程式 PROXY)， 實作網路原則和網路存取保護，資料安全性，伺服器映像的部署和維護，以及 Windows Server 2012 環境的更新管理和監視。 
+
+  本課程直接對應於 Microsoft 認證解決方案助理(MCSA)：考試 [411&#58; Administering Windows Server 2012](https://www.microsoft.com/learning/exam-70-411.aspx)，並且是實踐準備的首選，這是獲得 [MCSA&#58; Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)證書所需的三門考試中的第二門。 
+
+  本課程中的實驗是根據 Windows Server 2012 R2 和 Windows 8.1。
+
+  #### 對象設定檔
+  本課程適用於具有在 Windows Server 2008或Windows Server 2012 環境中工作經驗的資訊技術(IT)專業人員，他們希望獲得能夠管理和維護 Windows Server 2012 和 Windows Server 2012 R2 環境所需的核心基礎結構所需的技能和知識。學生的主要重點是擴大 Windows Server 2012 服務和基礎架構的初始部署，並提供管理和維護網域型的 Windows Server 2012 環境所需的技能，提供使用者和群組管理，網路存取和資料安全等領域的技能 。通常有興趣參加此課程的應試者將是
+  - 具有與 Windows Server 2008 或 Windows Server 2012 合作經驗的 Windows Server 管理員，他們希望獲得在 Windows Server 2012 或 Windows Server 2012 R2 環境中執行日常管理和維護工作所需的技能。
+  - 希望參加[411，管理 Windows Server 2012](https://www.microsoft.com/learning/exam-70-411.aspx)測驗的 IT 專業人員
+  - 希望在資料中心，桌面基礎結構，傳訊，共同作業和通訊中參加 Microsoft Certified Solutions Expert(MCSE)測驗的 IT 專業人員，在準備 Microsoft Certified Solutions Associate 測驗時，也有興趣參加此課程，這是他們各自專業的先決條件。
+prerequisitesSection: |-
+  在參加本課程之前，學生必須具備&#58;
+  - 有關核心 Windows Server 服務(包括 Active Directory 網域服務(AD Ds)，網路服務和 Microsoft Hyper-V)的初始實作和設定的知識和技能。 
+
+  透過具備等同於或參加課程 [20410D&#58; Installing and Configuring Windows Server 2012](https://www.microsoft.com/learning/course.aspx?ID=20410D)，因為本課程將根據該課程涵蓋的知識和技能建置。
+outlineSection: |-
+  ### 模組 1&#58; 設定和疑難排解網域名稱系統
+  本模組說明如何設定 DNS 和對 DNS 進行疑難排解，包括 DNS 複寫和快取。
+  #### 課程
+  - 設定 DNS 伺服器角色
+  - 設定 DNS 區域
+  - 設定 DNS 區域傳輸
+  - 管理和疑難排解 DNS
+
+
+  #### 實驗室 &#58; 設定和疑難排解 DNS
+
+  完成本單元後，學生將能夠&#58;
+
+  - 安裝和設定 DNS 伺服器角色
+  - 建立和設定 DNS 區域
+  - 設定DNS 區域傳輸
+  - 管理DNS 並進行疑難排解
+
+
+  ### 模組 2&#58; 維護 Active Directory 網域服務
+  本模組說明如何實作虛擬化網域控制站和唯讀網域控制站(RODC)。還說明如何執行通用 AD DS 管理工作務和管理 AD DS 資料庫。
+  #### 課程
+  - AD DS 概觀
+  - 實作虛擬化網域控制站
+  - 實作 RODC
+  - 管理 AD DS
+  - 管理 AD DS 資料庫
+
+
+  #### 實驗室 &#58; 維護 AD DS
+
+  完成本單元後，學生將能夠&#58;
+  - 實作虛擬化網域控制站
+  - 實作 RODC
+  - 管理 AD DS
+  - 管理 AD DS 資料庫
+
+
+  ### 模組 3&#58; 管理使用者和服務帳戶
+  本模組說明如何建立，設定和自動建立使用者帳戶。還說明如何設定使用者物件的帳戶相關屬性。進一步說明如何建立和管理受管理的服務帳戶。
+  #### 課程
+  - 設定密碼原則和使用者帳戶鎖定設定
+  - 設定受管理的服務帳戶
+
+
+  #### 實驗室 &#58; 管理使用者和服務帳戶
+
+  完成本單元後，學生將能夠&#58;
+  - 設定密碼策略和使用者帳戶鎖定設定
+  - 設定受管理的服務帳戶
+
+
+  ### 模組 4&#58; 實作群組原則基礎結構
+  本模組說明如何實作GPO基礎結構。這也教導如何執行通用 GPO 管理工作以及如何使用 Windows PowerShell 管理GPO。還著重於對 GPO 應用程式進行疑難排解。
+  #### 課程
+  - 介紹群組原則
+  - 實作和管理 GPO
+  - 群組原則範圍和群組原則處理
+  - 對 GPO 的應用程式進行疑難排解
+
+
+  #### 實驗室 &#58; 實作群組原則基礎結構
+
+  完成本單元後，學生將能夠&#58;
+
+  - 說明什麼是群組原則
+  - 實作和管理群組原則物件(GPO)
+  - 管理群組原則範圍和群組原則處理
+  - 對GPO的應用進行疑難排解
+
+
+  ### 模組 5&#58; 使用群組原則管理使用者桌面
+  本模組說明透過管理範本，資料夾重新導向，群組原則喜好設定在整個組織中如何使用群組原則物件(GPO)來實作桌面環境，以及在適用的情況下使用軟體部署來安裝和更新應用程式。重要的是要知道如何使用這些各種 GPO 功能，以便您可以正確設定使用者電腦設定。
+  #### 課程
+  - 實作管理範本
+  - 設定資料夾重新導向和指令碼
+  - 設定群組原則喜好設定
+  - 使用群組原則管理軟體
+
+
+  #### 實驗室 &#58; 使用群組原則管理使用者桌面
+
+  完成本單元後，學生將能夠&#58;
+  - 使用 GPO 設定資料夾重新導向和指令碼
+  - 描述和實作管理範本
+  - 設定 GPO 喜好設定
+  - 使用 GPO 部署軟體
+
+
+  ### 模組 6&#58; 安裝，設定網路策略伺服器角色並對其進行疑難排解
+  本模組說明如何安裝和設定 NPS，RADIUS 用戶端和伺服器。還描述 NPS 驗證方法。介紹 NPS 驗證方法以及如何監視 NPS 和對 NPS 進行疑難排解。
+  #### 課程
+  - 安裝和設定網路原則伺服器
+  - 設定 RADIUS 用戶端和伺服器
+  - NPS 驗證方法
+  - 監視網路原則伺服器並對其進行疑難排解
+
+
+  #### 實驗室 &#58; 安裝和設定網路原則伺服器
+
+  完成本單元後，學生將能夠&#58;
+  - 安裝和設定網路原則伺服器(NPS)
+  - 使用遠端驗證撥號使用者服務(RADIUS)通訊協定設定用戶端和伺服務器
+  - 說明 NPS 驗證方法
+  - 監視和疑難排解 NPS
+
+
+  ### 模組 7&#58; 實作網路存取保護
+  本模組說明如何設定，監視 NAP 和疑難排解 NAP。還說明 NAP 如何幫助保護您的網路和各種 NAP 強制流程。
+  #### 課程
+  - 網路存取保護概觀
+  - NAP 強制流程概觀
+  - 設定 NAP
+  - 為 NAP 設定 IPSec 強制
+  - NAP 監視和疑難排解
+
+
+  #### 實驗室 &#58; 實作網路存取保護
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 NAP 如何幫助保護您的網路
+  - 描述各種 NAP 強制流程
+  - 設定 NAP
+  - 監視NAP並疑難排解
+
+
+  ### 模組 8&#58; 實作遠端存取
+  在本模組中，您將學習如何在 Windows Server 2012 中實作和管理遠端存取。您還將學習如何使用開始使用精靈來實作 DirectAccess，實作和管理進階 DirectAccess 基礎結構以及實作 VPN。
+  #### 課程
+  - 遠程存取概觀
+  - 使用開始使用精靈實作 DirectAccess
+  - 實作和管理進階 DirectAccess 基礎結構
+  - 實作VPN
+  - 實作 Web 應用程式 Proxy
+
+
+  #### 實驗室 &#58; 使用開始使用精靈實作 DirectAccess
+
+  #### 實驗室 &#58; 部署進階 DirectAccess 解決方案
+
+  #### 實驗室 &#58; 實作 VPN
+
+  #### 實驗室 &#58; 實作 Web 應用程式 Proxy
+
+  完成本單元後，學生將能夠&#58;
+  - 在 Windows Server 2012 作業系統中安裝和管理遠端存取角色
+  - 使用開始使用精靈實作 DirectAccess
+  - 實作和管理進階 DirectAccess 基礎結構
+  - 實作 VPN 存取
+  - 實作 Web 應用程式 Proxy
+
+
+  ### 模組 9&#58; 最佳化檔案服務
+  此模組描述 FSRM，設定配額，檔案檢測和存放裝置報告以及實作分類管理和檔案管理任務。描述 DFS 的元件。我還將說明如何設定 DFS 命名空間和 DFS 複寫。
+  #### 課程
+  - FSRM 概觀
+  - 使用 FSRM 管理配額，檔案檢測和存放裝置報告
+  - 實作分類和檔案管理任務
+  - DFS 概觀
+  - 設定 DFS 命名空間
+  - 設定 DFS 複寫和疑難排解
+
+
+  #### 實驗室 &#58; 使用檔案伺服器資源管理員設定配額和檔案檢測
+
+  #### 實驗室 &#58; 實作分散式檔案系統
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 Windows Server 2012 作業系統中的檔案伺服器資源管理員(FSRM)
+  - 使用FSRM 管理配額，檔案檢測和存放裝置報告
+  - 實作分類和文件管理任務
+  - 描述分散式檔案系統(DFS)
+  - 設定 DFS 命名空間
+  - 設定 DFS 複寫並進行疑難排解
+
+
+  ### 模組 10&#58; 設定加密和進階稽核
+  本模組說明如何使用 EFS 加密檔案和設定進階稽核功能。
+  #### 課程
+  - 使用 BitLocker 加密磁碟機
+  - 使用 EFS 加密檔案
+  - 設定進階稽核功能
+
+
+  #### 實驗室 &#58; 設定加密和進階稽核功能
+
+  完成本單元後，學生將能夠&#58;
+  - 使用 BitLocker 磁碟機加密來保護資料
+  - 使用加密檔案系統(EFS)加密檔案
+  - 設定進階稽核
+
+
+  ### 模組 11&#58; 部署和維護伺服器映像
+  本模組說明如何使用 Windows 部署服務建立和管理伺服器映像
+  #### 課程
+  - Windows 部署服務概觀
+  - 管理映像
+  - 使用 Windows 部署服務實作施部署
+  - 管理 Windows 部署服務
+
+
+  #### 實驗室 &#58; 使用 Windows 部署服務部署 Windows Server 2012
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 Windows 部署服務(Windows DS)的重要特徵和功能
+  - 使用 Windows 評估和部意象具包(Windows ADK)工具管理映像
+  - 在 Windows Server 2012 中設定 Windows 部署服務
+  - 使用 Windows 部署服務執行部署
+
+
+  ### 模組 12&#58; 實作更新管理
+  本模組說明如何使用 Windows Server Update Services(WSUS)將更新部署到 Windows 伺服器和用戶端。
+  #### 課程
+  - WSUS 概觀
+  - 使用WSUS 部署更新
+
+
+  #### 實驗室 &#58; 實作更新管理
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 WSUS 的角色
+  - 描述 WSUS 更新管理流程
+  - 使用 WSUS 部署更新
+
+
+  ### 模組 13&#58; 監視 Windows Server 2012
+  本模塊說明 Windows Server 2012 中可用的監控工具。還說明如何使用效能監視器和監視事件。
+  #### 課程
+  - 監控工具
+  - 使用效能監視器
+  - 監視事件記錄檔
+
+
+  #### 實驗室 &#58; 監視 Windows Server 2012
+
+  完成本單元後，學生將能夠&#58;
+
+  - 描述 Windows Server 2012 作業系統的監視工具
+  - 使用效能監視器檢視和分析其伺服器上執行的程式效能統計
+  - 監視事件記錄檔以檢視和解釋記錄事件
+

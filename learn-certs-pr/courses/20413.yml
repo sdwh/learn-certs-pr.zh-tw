@@ -1,0 +1,276 @@
+### YamlMime:Course
+title: Designing and Implementing a Server Infrastructure
+metadata:
+  title: 'Course 20413-C: Designing and Implementing a Server Infrastructure'
+  description: 'Course 20413-C: Designing and Implementing a Server Infrastructure'
+uid: course.20413
+courseNumber: '20413-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 規劃伺服器升級和移轉。
+- skill: 規劃並實作伺服器部署策略。
+- skill: 使用 System Center 2012 R2 Virtual Machine Manager (VMM)規劃和部署伺服器。
+- skill: 設計和維護 IP 設定和位址管理解決方案。
+- skill: 設計和維護名稱解析。
+- skill: 設計和實作 AD DS 樹系和網域基礎結構。
+- skill: 設計和實作 AD DS 組織單位(OU) 基礎結構
+- skill: 設計和實作群組原則物件(GPO)策略。
+- skill: 設計和實作 AD DS 實體拓撲。
+- skill: 規劃和實作儲存和檔案服務。
+- skill: 設計和實作網路保護
+- skill: 設計和實作遠端存取服務
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-413
+summary: |-
+  在為期五天的 Microsoft 官方課程中，獲得實際操作指導並練習規劃，設計和部署實體和邏輯 Windows Server® 2012 R2 企業基礎結構 。本課程是兩門課程系列中的第一部分，提供在企業環境中設計和實作 Windows Server 2012 R2 基礎結構所需的技能和知識。這兩門課程共同涵蓋企業伺服器基礎結構的設計、規劃、部署、保護、監視、自動化和虛擬化。本課程涵蓋提供企業解決方案所需的知識和技能，在實體和虛擬環境中支援手動和自動伺服器安裝，包括支援檔案和儲存空間服務。您還將學習提供諸如 DHCP、IPAM、VPN 和 DirectAccess 之類的企業網路解決方案所需的技能。您還將學習設計和實作樹系和網域基礎結構(包括多網域/多樹系和分公司案例)所需的技能。本課程直接對應於 Microsoft 認證解決方案專家(MCSE)：考試413&#58; Designing and Implementing and Server Infrastructure，並且是實踐準備的首選，這是 MCSE&#58; Server Infrastructure 認證所需的五門考試中的第四門。 
+
+  注意&#58; 本課程中的實驗是根據 Windows Server 2012 R2 和 System Center 2012 R2。本課程是為經驗豐富的 IT 專業人員設計的，這些專業人員支援大中型企業，且具有管理 Windows Server 2012 R2 的經驗並具有 MCSA&#58; Windows Server 2012 認證或同等技能。
+
+  #### 對象設定檔
+  本課程適用於負責規劃、設計和部署實體和邏輯 Windows Server 2012 企業 Active Directory® 網域服務(AD DS)基礎結構(包括必需的網路服務)的 IT 專業人員。他們具有以前 Windows Server 作業系統的經驗，並且擁有 Windows Server 2012 認證的 Microsoft Certified Solutions Associate (MCSA) 或同等技能。本課程也適用於希望參加考試 70-413&#58; Designing and Implementing a Server Infrastructure 的 IT 專業人員，以作為 Microsoft 認證解決方案專家(MCSE)&#58; Server Infrastructure 認證的單獨或一部分要求。
+prerequisitesSection: |-
+  本課程的應試者具有良好的 Windows 用戶端和伺服器作業系統知識，以及在企業/小型企業(SMB)環境中基本 AD DS 和網路經驗以及應用程式設定經驗。
+
+  參加訓練的學生除了具備專業經驗外，還應具備以下技術知識&#58;
+  - 對傳輸控制通訊協定/網際網路通訊協定(TCP/IP)的基本知識和網路概念有很好的了解。
+  - 對 Windows Server 2012 R2 和 Active Directory® 網域服務(AD DS)都有很好的工作知識。例如，網域使用者帳戶，網域與本機使用者帳戶，使用者設定檔和群組成員資格。
+  - 對指令碼和批次檔案都有很好的了解。
+  - 對安全性概念(例如驗證和授權)有充分的了解。
+  - 熟悉部署，封裝和映像建立工具。
+  - 能夠在團隊/虛擬團隊中工作。
+  - 能夠產生良好的文件並具有適當的溝通技巧來建立提案和提出預算建議。
+  - 相當於 Windows 2012 R2 MCSA 的知識。
+
+  參加此訓練的學生可以透過參加以下課程或獲得同等的知識和技能來滿足先決條件&#58;
+  - 20410D&#58; Installing and Configuring Windows Server 2012
+  - 20411D&#58; Administering Windows Server 2012
+  - 20412D&#58; Configuring Advanced Windows Server 2012 Services
+
+  或
+
+  - 20417D&#58; Upgrading Your Skills to MCSA Windows Server 2012
+outlineSection: |-
+  ### 模組 1&#58; 規劃伺服器升級和移轉
+  本模組說明如何規劃伺服器升級和移轉策略。
+  #### 課程
+  - 升級和移轉考量
+  - 建立伺服器升級和移轉規劃
+  - 規劃虛擬化
+
+
+  #### 實驗室 &#58; 規劃伺服器升級和移轉
+
+  完成本單元後，學生將能夠&#58;
+  - 描述執行伺服器升級和移轉時要考慮的因素。
+  - 為伺服器升級和移轉建立計劃。
+  - 規劃伺服器虛擬化。
+
+
+  ### 模組 2&#58; 規劃和實作伺服器部署策略
+  本模組說明如何設計自動化伺服器安裝策略以及規劃和實作伺服器部署基礎結構。
+  #### 課程
+  - 選擇適當的伺服器部署策略
+  - 實作自動化部署略
+
+
+  #### 實驗室 &#58; 規劃和實作伺服器部署基礎結構
+
+  完成本單元後，學生將能夠&#58;
+  - 選擇適當的伺服器部署策略。
+  - 實作自動化部署策略。
+
+
+  ### 模組 3&#58; 使用 Virtual Machine Manager 規劃和部署伺服器
+  本模組說明如何規劃和部署用於部署伺服器的 Virtual Machine Manager(VMM)基礎結構。
+  #### 課程
+  - System Center 2012 R2 Virtual Machine Manager 概觀
+  - 實作 Virtual Machine Manager 程式庫和設定檔
+  - 規劃和部署 Virtual Machine Manager 服務
+
+
+  #### 實驗室 &#58; 使用 Virtual Machine Manager 規劃和部署虛擬機器
+
+  完成本單元後，學生將能夠&#58;
+  - 描述核心 VMM 體系結構和元件。
+  - 實作 VMM 程式庫和設定檔。
+  - 規劃和部署 VMM 服務。
+
+
+  ### 模組 4&#58; 設計和維護 IP 設定和位址管理解決方案
+  該模組說明如何設計和維護 IP 位址管理(IPAM)和動態主機設定通訊協定(DHCP)解決方案。
+  #### 課程
+  - 設計 DHCP 伺服器
+  - 規劃 DHCP 範圍
+  - 設計 IPAM 佈建策略
+  - 使用 IPAM 管理伺服器和位址空間
+
+
+  #### 實驗室 &#58; 設計和維護 IP 設定和 IP 位址管理解決方案
+
+  完成本單元後，學生將能夠&#58;
+  - 設計DHCP 伺服器的實現。
+  - 規劃 DHCP 範圍設定和選項。
+  - 設計 IPAM 佈建策略。
+  - 使用 IPAM 管理伺服器和位址空間。
+
+
+  ### 模組 5&#58; 設計和實作名稱解析
+  本模組說明如何設計名稱解析策略。
+  #### 課程
+  - 設計 DNS 伺服器實作策略
+  - 設計 DNS 命名空間
+  - 設計 DNS 區域
+  - 設計 DNS 區域複寫和委派
+  - 最佳化 DNS 伺服器
+  - 設計 DNS 以實作高可用性和安全性
+
+
+  #### 實驗室 &#58; 設計和實作名稱解析
+
+  完成本單元後，學生將能夠&#58;
+  - 設計網域名稱系統(DNS)伺服器-實作策略。
+  - 設計 DNS 名命名空間。
+  - 設計和實作 DNS 區域策略。
+  - 設計和設定 DNS 區域複寫和委派。
+  - 最佳化 DNS 伺服器設定。
+  - 設計 DNS 以實作高可用性和安全性。
+
+
+  ### 模組 6&#58; 設計和實作 Active Directory 網域服務樹系和網域基礎結構
+  本模組說明如何設計和實作 AD DS 樹系和網域基礎結構。
+  #### 課程
+  - 設計 Active Directory 樹系
+  - 設計和實作 Active Directory 樹系信任
+  - 設計與 Windows Azure Active Directory 的 Active Directory 整合
+  - 設計和實作 Active Directory 網域
+  - 在 Active Directory 環境中設計 DNS 命名空間
+  - 設計 Active Directory 網域信任
+
+
+  #### 實驗室 &#58; 設計和實作 Active Directory 網域服務樹系基礎結構
+
+  #### 實驗室 &#58; 設計和實作 Active Directory 網域基礎結構
+
+  完成本單元後，學生將能夠&#58;
+  - 設計 Active Directory 樹系。
+  - 設計和實作 Active Directory 樹系信任。
+  - 設計與 Windows Azure Active Directory 的 Active Directory 整合。
+  - 設計和實作 Active Directory 網域。
+  - 在 Active Directory 環境中設計 DNS 命名空間。
+  - 設計和實作 Active Directory 網域信任。
+
+
+  ### 模組 7&#58; 設計和實作 AD DS 組織單位基礎結構
+  本模組說明如何設計和實作 OU 基礎結構和 AD DS 權限模型。
+  #### 課程
+  - 規劃 Active Directory 管理工作委派模型
+  - 設計 OU 結構
+  - 設計和實作 AD DS 群組策略
+
+
+  #### 實驗室 &#58; 設計和實作 Active Directory OU 基礎結構和委派模型
+
+  完成本單元後，學生將能夠&#58;
+  - 規劃 Active Directory 管理工作委派模型。
+  - 設計 OU 結構。
+  - 設計和實作 AD DS 群組策略。
+
+
+  ### 模組 8&#58; 設計和實作群組原則物件策略
+  本模組說明如何設計和實作群組原則物件(GPO)策略。
+  #### 課程
+  - 收集 GPO 設計所需的資訊
+  - 設計和實作 GPO
+  - 設計 GPO 處理
+  - 規劃群組原則管理
+
+
+  #### 實驗室 &#58; 設計和實作群組原則物件策略
+
+  完成本單元後，學生將能夠&#58;
+  - 收集和分析協助 GPO 設計所需的資訊。
+  - 建立 GPO 設計並實作。
+  - 建立 GPO 處理設計。
+  - 規劃 GPO 管理。
+
+
+  ### 模組 9&#58; 設計和實作 AD DS 實體拓撲
+  本模組說明如何設計 AD DS 網站拓撲和網域控制站位置策略。
+  #### 課程
+  - 設計和實作 Active Directory 網站
+  - 設計 Active Directory 複寫
+  - 設計網域控制站的位置
+  - 網域控制站的虛擬化考量
+  - 設計高可用性網域控制站
+
+
+  #### 實驗室 &#58; 設計和實作 Active Directory 網域服務實體拓撲
+
+  完成本單元後，學生將能夠&#58;
+  - 設計和實作 Active Directory 網站。
+  - 設計和設定 Active Directory複寫。
+  - 設計網域控制站的位置。
+  - 規劃網域控制站角色的虛擬化。
+  - 設計網域控制站部署以實作高可用性。
+
+
+  ### 模組 10&#58; 規劃和實作儲存和檔案服務
+  本模組說明如何規劃和實作儲存和檔案服務。
+  #### 課程
+  - 規劃和實作 iSCSI SANs
+  - 規劃和實作存儲空間
+  - 最佳化分公司的檔案服務
+
+
+  #### 實驗室 &#58; 規劃和實作儲存
+
+  完成本單元後，學生將能夠&#58;
+  - 規劃和實作 Internet Small Computer System Interface(iSCSI)SAN。
+  - 規劃和實作儲存空間。
+  - 最佳化分公司的檔案服務。
+
+
+  ### 模組 11&#58; 設計和實作網路保護
+  本模組說明如何設計和實作網路保護。
+  #### 課程
+  - 網路安全性設計概觀
+  - 設計和實作 Windows 防火牆策略
+  - 設計和實作 NAP 基礎結構
+
+
+  #### 實驗室 &#58; 設計和實作網路保護
+
+  完成本單元後，學生將能夠&#58;
+
+  - 描述網路安全性的設計程序。
+  - 設計和實作 Windows 防火牆策略。
+  - 設計和實作網路存取保護(NAP)。
+
+
+  ### 模組 12&#58; 設計和實作遠端存取服務
+  本模組說明如何設計和實作遠端存取服務。
+  #### 課程
+  - 規劃和實作 DirectAccess
+  - 規劃和實作 VPN
+  - 規劃和實作 Web 應用程式 Proxy
+  - 規劃複雜的遠端存取服務基礎結構
+
+
+  #### 實驗室 &#58; 設計和實作網路存取服務
+
+  完成本單元後，學生將能夠&#58;
+  - 規劃和實作 DirectAccess。
+  - 規劃和實作虛擬私人網路(VPN)。
+  - 規劃和實作 Web 應用程式 Proxy。
+  - 規劃複雜的遠端存取服務基礎結構。
+

@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: Networking with Windows Server 2016
+metadata:
+  title: 'Exam 70-741: Networking with Windows Server 2016'
+  description: 'Exam 70-741: Networking with Windows Server 2016'
+uid: exam.70-741
+displayName: 70-741
+summary: |-
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  </div>
+
+  此測驗的應試者執行關於 Windows Server 2016 中可用網路功能的任務。應試者應熟悉實作和管理DNS、DHCP和IPAM，以及部署遠端存取解決方案，如 VPN 和 RADIUS。
+
+  應試者還應具有管理DFS和 branch cache 解決方案，設定高效能網路特色和功能，實作軟體定義網路 (SDN) 解決方案(如Hyper-V網路虛擬化 (HNV) 和網路控制器)等的經驗。
+
+  <div style='font-weight&#58; bold;'><br/>附註&#58; 從 2019 年 3 月 13 日開始，測驗更新有效。要了解有關這些變更以及它們如何影響所測技能的更多資訊，請下載並檢閱 741 測驗變更文件。</div>
+subTitle: 此測驗的應試者執行關於 Windows Server 2016 中可用網路功能的任務。應試者應熟悉實作和管理DNS、DHCP和IPAM，以及部署遠端存取解決方案，如 VPN 和 RADIUS。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IW1D
+practiceTestUrl: https://www.mindhub.com/70-741-Networking-with-Windows-Server-2016-p/mu-70-741_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-741&examname=Networking%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-741
+locales:
+- en
+- es
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- 實作網域名稱系統 (DNS) (15-20%)
+- 實作DHCP和IPAM (25-30%)
+- 實作網路連線和遠端存取解決方案 (20-25%)
+- 實施核心和分佈式網絡解決方案 (15-20%)
+- 實作先進的網路基礎結構 (15-20%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20741
+relatedCertifications:
+- related:
+    uid: certification.mcsa-windows-server-2016-certification
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+
