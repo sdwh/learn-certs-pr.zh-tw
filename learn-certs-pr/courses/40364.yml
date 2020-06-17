@@ -1,0 +1,44 @@
+### YamlMime:Course
+title: 'Database Administration Fundamentals: MTA Exam 98-364'
+metadata:
+  title: 'Course 40364-A: Database Administration Fundamentals: MTA Exam 98-364'
+  description: 'Course 40364-A: Database Administration Fundamentals: MTA Exam 98-364'
+uid: course.40364
+courseNumber: '40364-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 了解核心資料庫概念
+- skill: 建立資料庫物件
+- skill: 操縱資料
+- skill: 了解資料儲存空間
+- skill: 管理資料庫
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- sql-server
+exams:
+- uid: exam.98-364
+summary: |-
+  為期三天的 MTA 訓練課程可幫助您為 Microsoft Technology Associate Exam 98-364 做好準備，並加深對這些主題的了解； 核心資料庫概念、建立資料庫物件、操縱資料，資料儲存空間和管理資料庫。本課程利用與該測驗的 Microsoft Official Academic Course （MOAC）中相同的內容。
+
+  #### 對象設定檔
+  Microsoft Technology Associate（MTA）是 Microsoft 最新的技術認證測驗套件，驗證開始使用 Microsoft 技術建立職業所需的基本知識。本計劃為未來的技術職業提供適當的切入點，並且具有一定的實作經驗或訓練，但不具有在職經驗。
+prerequisitesSection: |-
+  本課程沒有任何先決條件。
+outlineSection: |-
+  ### 模組 1&#58; 了解核心資料庫概念
+
+  ### 模組 2&#58; 建立資料庫物件
+
+  ### 模組 3&#58; 操縱資料
+
+  ### 模組 4&#58; 了解資料儲存空間
+
+  ### 模組 5&#58; 管理資料庫
+

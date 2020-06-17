@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub
+metadata:
+  title: 'Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  description: 'Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+uid: exam.70-537
+displayName: 70-537
+summary: |-
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  </div>
+
+  本測驗的應試者是 Azure 管理員以及使用 Azure Stack Hub為終端使用者或從他們自己的資料中心的客戶提供雲端服務的 Azure Stack Hub營運商。
+
+  本測驗的應試者應具有管理和營運 Azure Stack Hub 環境的豐富經驗。應試者應該對 Azure 以及有關虛擬化，網路和身份管理的一些知識有深入的瞭解。應試者應該對 Azure Stack Hub 以及有關虛擬化，網路和身份管理的一些知識有深入的瞭解。
+
+  預計此測驗的應試者將展示計劃、部署、包裝、更新和維護 Azure Stack Hub基礎結構的能力。應試者還必須展示提供混合雲資源和請求服務的能力，以及管理基礎結構即服務 (IaaS) 和平台即服務 (PaaS)。
+
+  <div style='font-weight&#58; bold;'><br/>2020年1月14日，更新此測驗。要了解有關這些變更以及它們如何影響所測技能的更多資訊，請下載並檢閱 70-537 測驗變更文件。</div>
+subTitle: 本測驗的應試者是 Azure 管理員以及使用 Azure Stack Hub為終端使用者或從他們自己的資料中心的客戶提供雲端服務的 Azure Stack Hub營運商。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfKQ
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-537&examname=Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-537
+locales:
+- en
+levels:
+- advanced
+skills:
+- 部署和整合 Azure Stack Hub環境 (20-25%)
+- 為 Azure Stack Hub環境設定 PaaS 和 IaaS (25-30%)
+- 為Azure Stack Hub使用者提供服務並啟用DevOps (25-30%)
+- 維護和監視 Azure Stack Hub環境 (20-25%)
+roles:
+- administrator
+products:
+- azure
+courses:
+- uid: course.20537
+relatedCertifications:
+- related:
+    uid: certification.mcse-core-infrastructure
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

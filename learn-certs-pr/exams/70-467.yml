@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Designing Business Intelligence Solutions with Microsoft SQL Server
+metadata:
+  title: 'Exam 70-467: Designing Business Intelligence Solutions with Microsoft SQL Server'
+  description: 'Exam 70-467: Designing Business Intelligence Solutions with Microsoft SQL Server'
+uid: exam.70-467
+displayName: 70-467
+summary: |-
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  </div>
+
+  本測驗適合負責商業智慧 (BI) 基礎結構整體及此基礎結構與其他現用資料系統如何相關之設計的商業智慧 (BI) 架構設計師。
+
+  <div style='font-weight&#58; bold;'><br/>從2016年2月18日開始，此測驗包括涵蓋SQL Server 2012和2014的內容。請注意，此測驗不包括僅在SQL Server 2012產品中提供的特色或功能的問題。有關更多資訊，請前往 <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tt8Z">下載並檢閱 此文件 </a>.</div>
+subTitle: 本測驗適合負責商業智慧 (BI) 基礎結構整體及此基礎結構與其他現用資料系統如何相關之設計的商業智慧 (BI) 架構設計師。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXf
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-467&examname=Designing%20Business%20Intelligence%20Solutions%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-467
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- 規劃商業智能基礎結構 (15-20%)
+- 設計 BI 基礎結構 (15-20%)
+- 設計報告解决方案 (20-25%)
+- 設計 BI 資料模型 (30-35%)
+- 設計 ETL 解决方案 (10-15%)
+roles:
+- data-engineer
+products:
+- sql-server
+courses:
+- uid: course.20467
+relatedCertifications:
+- related:
+    uid: certification.mcse-data-management-analytics
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

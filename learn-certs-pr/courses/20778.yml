@@ -1,0 +1,214 @@
+### YamlMime:Course
+title: Analyzing Data with Power BI
+metadata:
+  title: 'Course 20778-C: Analyzing Data with Power BI'
+  description: 'Course 20778-C: Analyzing Data with Power BI'
+uid: course.20778
+courseNumber: '20778-C'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述自助 BI。
+- skill: 描述Power BI 產品套件。
+- skill: 連線到資料來源並最佳化資料模型。
+- skill: 從不同來源成形和合併資料
+- skill: 建模資料。
+- skill: 建立報告並管理解決方案。
+- skill: 描述 Power BI 開發人員 API。
+- skill: 描述 Power BI 行動應用程式。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+exams:
+- uid: exam.70-778
+summary: |-
+  為期五天的教師指導的課程提供學生知識和技能 來使用 Power BI 分析資料
+
+  #### 對象設定檔
+  本課程的主要對象是需要使用 Power BI 分析資料的 BI 專業人員。 本課程的次要對象是技術熟練的企業用戶。
+prerequisitesSection: |-
+  除專業經驗外，參加此訓練的學生應已具備以下技術知識&#58;
+  - Microsoft Windows 作業系統及其核心功能的基本知識。
+  - 資料倉儲結構拓撲（包括星型和雪花式結構）的基礎知識。
+  - 對基本程式設計概念（例如迴圈和分支）的某些了解。
+  - 需要了解關鍵業務優先順序（如收入、盈利能力和財務會計）。
+  - 熟悉 Microsoft Office 應用程式-特別是 Excel。
+outlineSection: |-
+  ### 模組 1&#58; 自助 BI 解決方案簡介
+  商業智慧（BI）這個詞在最近幾年變得越來越普遍。與巨量資料，資料採礦，預測性分析，資料科學和資料監管一樣，BI 現在已成為商務詞彙中的重要組件。背後的主要動力是組織需要應付不斷增長的資料集。現在，擁有包含數百萬資料列的資料庫庫是正常的，需要數 GB，TB 或甚至 PB 的儲空存間。資料不再局限於內部部署機房，而是託管在雲端中，摘要從第三方提供者處取得，公共資料集可免費使用，社交媒體互動產生不斷擴充的資料集。
+
+  報表和分析明顯不是一個新的商務概念，但是與五或 10 年前相比，今天的資料分析方法之間的差異是巨大的。如今，組織需要 BI 不僅可以查看過去所做的事情，而且還可以查看將來要做的事情。現在有大量資料可以收集並撰寫報告。因為對資料需求日益增長以提供最新資料，所以企業可以對市場和產業變化的趨勢做出更快的回應。那些能夠快速做出回應並預測短期趨勢以在有消費者需求的情況下提供產品和服務的企業，在我們這個競爭激烈的現代世界中，最有可能生存。隨著巨量資料的興起，對資料分析人員的需求日益增長，他們可以取得這些資料並在大量資料中找到臨界點。
+  #### 課程
+  - 商業智慧簡介
+  - 資料分析簡介
+  - 資料視覺效果簡介
+  - 自助 BI 概觀
+  - 自助 BI 的考量
+  - 自助 BI 的 Microsoft 工具
+
+
+  #### 實驗室 &#58; 探索企業 BI 解決方案
+  - 檢視報告
+  - 建立 Power BI 報告
+  - 建立 Power BI 儀表板
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 BI 的趨勢。
+  - 描述 Power BI 中的資料分析流程。
+  - 使用 Power BI 中的關鍵視覺效果。
+  - 描述自助 BI 的原理。
+  - 描述自助 BI 的考量。
+  - 了解您如何使用 Microsoft 產品來實作 BI 解決方案。
+
+
+  ### 模組 2 &#58; Power BI 簡介
+  自助商業智慧（BI）迅速普及，因為它具有使使用者能夠產生報表，處理資料，執行分析等功能，而無需依賴報表開發人員。自助 BI 趨勢是由 Microsoft 對改進 Excel 和 Power BI 的承諾而推動的，這兩種產品近年來都獲得許多增強。但是，儘管 Microsoft 使用新增到 Excel 中的四個支援工具（Power Pivot，Power View，Power Query 和 Power Map）啟用更深入的資料分分析，但它們並未完全整合到 Excel 界面中。相反，它們存在於個別的 Windows 中。發佈與同事共用報告的 SharePoint 新增其複雜性且成為一項耗時的工作。
+
+  使用 Power BI 可以透過簡單的整合使用者界面消除複雜性和障礙，並且能夠快速發佈到雲端或內部部署的入口網站，以輕鬆共用報告。本模組介紹 Power BI，並探討可快速建立和發佈複雜的資料視覺效果的功能。
+  #### 課程
+  - Power BI
+  - Power BI 服務
+
+
+  #### 實驗室 &#58; 建立 Power BI 儀表板。
+  - 連線到 Power BI 資料
+  - 建立 Power BI 儀表板
+
+  完成本模組後，學生將能夠&#58;
+  - 使用 Power BI Desktop 應用程式開發報告。
+  - 使用報表項目在 Power BI 入口網站 上建立儀表板。
+  - 了解 Power BI 服務的元件，包括授權和租用戶管理。
+
+
+  ### 模組 3&#58; Power BI 資料
+  Power BI 提供一種直接的報告建立方法，並且具有建立和共用儀表板的能力，而無需對報表開發人員有相依性或對 Microsoft SharePoint 的需求。長期以來，Microsoft Excel 一直是以自助服務樣式工作的資料分析人員的工具選項。但是，Excel 不能提供一種不使用 SharePoint 共用報表的快速、簡便方法，或者不建立多個試算表複本，而這些複本會很快變得過時或存在於原始檔控制之外。
+
+  近年來，支援工具已新增到 Excel 中&#58; Power View，Power Query（在Excel 2016 中稱為 Get＆Transform）和 Power Pivot。Power BI 以 Power BI Desktop 的形式將大部分功能帶入整合環境。以前，需要在不同的支援工具之間進行轉換帶給 Excel 使用者帶來不便，但是 Power BI Desktop 將這些工具整合在一起。這意味著 Power BI 正迅速成為資料分析和共用的明顯選擇。但是，在可預見的將來，分析師可能會繼續使用 Excel。Power BI 可以輕鬆與 Excel 和許多其他資料來源合作。透過使用來自來源組合的資料，這種快速建立報告的能力能夠真正為 Power BI 注入力量。
+  #### 課程
+  - 使用 Excel 作為 Power BI 的資料來源
+  - Power BI 資料模型
+  - 使用資料庫作為 Power BI 的資料來源
+  - Power BI 服務
+
+
+  #### 實驗室 &#58; 將資料匯入 Power BI
+  - 將 Excel 檔案匯入 Power BI
+  - 從 Excel 檔案檢視報告
+
+  完成本模組後，學生將能夠&#58;
+  - 描述資料模型，並知道如何在模型中最佳化資料。
+  - 連線到 Excel 檔案並匯入資料。
+  - 使用 R 指令碼資料連接器，將內部部署和雲端 SQL Server 資料庫作為資料來源。
+  - 利用 Power BI 服務的功能。
+  - 使用 Q&A 以自然查詢語言詢問並建立應用程式。
+
+
+  ### 模組 4&#58; 成形和合併資料
+  Power BI Desktop 提供一個自助服務解決方案，用於建立視覺效果、互動報告和儀表板。使用者可以連線到各種各樣的資料來源，將來自內部部署資料庫，軟體即解決方案（SaaS）提供者，雲端的服務以及諸如 Microsoft Excel 等本機檔案的資料組合到一個報告中。Power BI 報表和儀表板的優點是能夠快速組建報表以展示此資料，從而使它們立即可讀取-以視覺方式顯示資料中的叢集，極端值和模式。為此，每個報表必須具有一個包含表和列的資料集，準備直接新增到視覺效果中。資料必須格式化為相關貨幣，數字應具有正確的小數位，可能需要其他資料行和量值，並且可能必須從多個資料表中合併資料。借助 Power BI Desktop，您可以使用成行資料的功能強大、內建工具以完成所有這些工作。本模組介紹可用於準備資料並將其轉換為準備報告的表單工具。
+  #### 課程
+  - Power BI Desktop 查詢
+  - 成形資料
+  - 合併資料
+
+
+  #### 實驗室 &#58; 成形和合併資料
+  - 成形 Power BI 資料
+  - 合併 Power BI 資料
+
+  完成本模組後，學生將能夠&#58;
+  - 在 Power BI 中執行一系列查詢編輯工作。
+  - 使用格式化和轉換來成形資料。
+  - 從資料集中資料表的資料合併在一起。
+
+
+  ### 模組 5&#58; 建模資料
+  Microsoft Power BI 在自助 BI 世界中留下深遠的影響，因為它可以快速建立出色、互動報告和儀表板。Power BI 提供直接的方法，可以將來自各種來源的資料合併到單一資料集中，然後使用該資料建立連貫的報告。該模組尋就視覺效果場景，並探討出售的技術和功能以成形和增強資料。透過自動建立關聯性，龐大的 DAX 函數庫以及快速新增計算的資料行，資料表和量值的能立，您將看到 Power BI 如何建立有吸引力的報告，同時幫助您找到對資料的隱藏見解。
+  #### 課程
+  - 關聯性
+  - DAX 查詢
+  - 計算和量值
+
+
+  #### 實驗室&#58; 建模資料
+  - 建立關聯性
+  - 計算
+
+  完成本模組後，學生將能夠&#58;
+  - 描述資料表之間的關聯性。
+  - 了解 DAX 語法並使用 DAX 函數來增強資料集。
+  - 建立計算資料行，計算資料表和量值。
+
+
+  ### 模組 6&#58; 互動資料視覺效果
+  自助商業智慧（BI）在組織中變得越來越流行。本方法使商務使用者可以存取公司資料，以及建立和共用報告以及關鍵績效指標（KPI），而無需依賴專門的報告開發人員。商務使用者可以使用 Microsoft Power BI 工具套件連線到各種資料來源。這些包括主要的產業標準資料庫，Microsoft 雲端服務（Microsoft Azure SQL 資料庫，Azure Data Lake 和 Azure Machine Learning）以及 Microsoft Excel 和其他檔案，以及軟體即服務（SaaS）提供者，例如 Microsoft Bing， Facebook 和 MailChimp。以視覺化方式快速建立出色、互動儀表板的彈性和能力的組合，使 Power BI 成為任何需要為其使用者自助 BI 解決方案的組織的明顯選擇。
+  #### 課程
+  - 建立 Power BI 報告
+  - 管理 Power BI 解決方案
+
+
+  #### 實驗室 &#58; 建立 Power BI 報告
+  - 連線到 Power BI 資料
+  - 組建 Power BI 報告
+  - 建立 Power BI 儀表板
+
+  完成本模組後，學生將能夠&#58;
+  - 使用 Power BI Desktop 建立互動資料視覺效果。
+  - 管理 Power BI 解決方案。
+
+
+  ### 模組 7&#58; 直接連線
+  Power BI 服務支援與 Azure SQL 資料庫，Azure SQL 資料倉儲，巨量資料來源（例如 Azure HDInsight 上的 Spark）和 SQL Server Analysis Services 的即時直接連線。DirectQuery 意味著每當您配量資料或將其他欄位新增加到視覺效果時，都會直接向資料來源發佈新查詢。
+  Power BI 與以多維度模式執行的 SQL Server Analysis Services 模型一起使用，因此您可以在報表和儀表板中使用 OLAP cubes 和模型。是否在雲端中使用 Power BI 服務以及內部部署 SQL Server Analysis Services 實作都沒有關係； 內部部署資料閘道可實作雲端與內部部署資料伺服器之間的即時連線。
+  #### 課程
+  - 雲端資料
+  - 正在連線到 Analysis Services
+
+
+  #### 實驗室&#58; 直接連線
+  - 直接連線到 Power BI
+
+  完成本模組後，學生將能夠&#58;
+  - 使用 Power BI 直接連線來存取 Azure SQL 資料庫和 Azure SQL 資料倉儲中的資料
+  - 使用 Power BI 直接連線來存取 Hadoop等巨量資料來源中的資料。
+  - 將 Power BI 與 SQL Server Analysis Services 資料一起使用。
+  - 使用以多維度模式執行的 Analysis Services 模型。
+
+
+  ### 模組 8&#58; 使用 Power BI 開發
+  Power BI API 是REST 式 API，開發人員可以程式設計方式使用來存取 Power BI 中的資料集，資料表和資料列。使用本 API，您可以將資料從應用程式推送到 Power BI 中，並將 Power BI 視覺效果整合到應用程式中。您還可以將自訂視覺效果新增到應用程式以及 Power BI 儀表板和報告。
+
+  在本模組中，您將學習如何使用 Power BI API 在應用程式中內嵌內容以及如何在報告中使用自訂視覺效果。
+
+  #### 課程
+  - Power BI API
+  - 自訂視覺效果
+
+
+  #### 實驗室 &#58; 使用 Marketplace 視覺效果
+  - 使用自訂視覺效果
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 Power BI 開發人員 API。
+  - 列出建立自訂視覺效果的步驟。
+  - 將自訂視覺效果匯入 Power BI 中以在 Power BI 報表中使用。
+
+
+  ### 模組 9&#58; Power BI 行動裝置
+  Power BI 行動應用程式使您可以在行動裝置備上存取和使用 Power BI 資訊，包括 iOS（iPad、iPhone、iPod Touch、Apple Watch），Android 手機或平板電腦以及 Windows 10 裝置。這意味著，在 Power BI Desktop 和Power BI 服務中建立的 Power BI 報表和 Power BI 儀表板可能會在任何地方、任何時間使用。
+
+  Power BI 報表和儀表板設計為無需修改即可在行動裝置上工作。但是，您還可以建立特定的最佳化報告和報告版面配置，以顯示在行動裝置上。Power BI 行動應用程式支援儀表板的共用和註解，即使您未連線到網路，也可以在行動裝置上使用 Power BI 資料。Power BI 警示和通知還可以在 Power BI 服務（包括行動裝置）上使用。
+
+  #### 課程
+  - Power BI 行動應用程式
+  - 使用 Power BI 行動應用程式
+
+  完成本模組後，學生將能夠&#58;
+  - 為行動裝置備建立儀表板和報告。
+  - 使用 Power BI 行動應用程式。
+

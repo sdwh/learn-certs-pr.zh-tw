@@ -1,0 +1,284 @@
+### YamlMime:Course
+title: Networking with Windows Server 2016
+metadata:
+  title: 'Course 20741-B: Networking with Windows Server 2016'
+  description: 'Course 20741-B: Networking with Windows Server 2016'
+uid: course.20741
+courseNumber: '20741-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 規劃和實作 IPv4 網路。
+- skill: 實作動態主機設定通訊協定（DHCP）。
+- skill: 實作 IPv6。
+- skill: 實作網域名稱系統（DNS）。
+- skill: 實作和管理 IP 地址管理（IPAM）。
+- skill: 規劃遠端存取。
+- skill: 實現 DirectAccess。
+- skill: 實作虛擬專用網路（VPN）。
+- skill: 實作分支機構網路。
+- skill: 設定高級網路功能。
+- skill: 實作軟體定義的網路。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-741
+summary: |-
+  這個為期 5 天的基於課堂的課程提供了在大多數組織機構中部署和支援 Windows Server 2016 所需的基本網路技能。它涵蓋 IP 基礎知識、遠端存取技術以及包括軟體定義的網路在內的更多高級內容。
+
+  #### 對象設定檔
+  本課程適用於擁有一些網路知識和經驗的現职 IT 專業人員，他們在尋找可以讓他們深入了解 Windows Server 2016 核心和高級網路技術的一門課程。受眾通常包括&#58;
+  - 希望加強現有技能並了解 Windows Server 2016 中新的網路技術變化和功能的網路管理員。
+  - 具有一般網路知識的系統或基礎結構管理員，他們希望獲得 Windows Server 2016 核心和高級網路知識和技能。
+
+  本課程的主要受眾是希望參加 MCSA 70-741&#58; Networking with Windows Server 2016 測驗的 IT 專業人員。
+prerequisitesSection: |-
+  除專業經驗外，參加此培訓的學生應該已經具有以下技術知識&#58;
+  - 使用 Windows Server 2008 或 Windows Server 2012 的經驗
+  - 在 Windows Server 基礎結構企業環境中工作的經驗
+  - 了解開放系統互連（OSI）模型
+  - 了解核心網路基礎架構元件和技術，例如電纜，路由器，集線器和交換機
+  - 熟悉網路拓撲和體系結構，例如局域網（LAN），廣域網（WAN）和無線網路
+  - 有關 TCP / IP 協議堆棧、尋址和名稱解析的一些基本知識
+  - 具有 Hyper-V 和虛擬化的經驗和知識
+  - 使用 Windows 客戶端作業系統（例如 Windows 8.1 或 Windows 10）的動手經驗
+
+  學生可以通過參加以下課程或具有等同於以下水平的知識和技能來滿足先決條件&#58;
+  - [10967A&#58; Fundamentals of a Windows Server Infrastructure](https://www.microsoft.com/learning/course.aspx?cid=10967)
+outlineSection: |-
+  ### 模組 1&#58; 規劃和實作 IPv4 網路
+  本模組還說明如何使用基本的聯網工具和技術來設定基於 IPv4 的網路並對其進行疑難排解。
+  #### 課程
+  - 規劃 IPv4 尋址
+  - 設定 IPv4 主機
+  - 管理 IPv4 網路連接並對其進行疑難排解
+
+
+  #### 實驗室&#58; 規劃 IPv4 網路
+  - 規劃 IPv4 地址分配
+
+
+  #### 實驗室&#58; 實作 IPv4 網路並對其進行疑難排解
+  - 驗證 IPv4
+  - 對 IPv4 進行疑難排解
+
+  完成本模組後，學生將能夠&#58;
+  - 規劃 IPv4 尋址。
+  - 設定 IPv4 主機。
+  - 管理 IPv4 網路連接並對其進行疑難排解
+
+
+  ### 模組 2&#58; 實作 DHCP
+  本模組說明如何計劃和實作 DHCP 以支援 IPv4 基礎結構。
+  #### 課程
+  - 概述 DHCP 伺服器角色
+  - 部署 DHCP
+  - DHCP 管理和疑難排解
+
+
+  #### 實驗室&#58; 實作 DHCP
+  - 規劃 DHCP 伺服器實作
+  - 實作 DHCP 的設定
+  - 驗證 DHCP 的實作
+
+  完成本模組後，學生將能夠&#58;
+  - 說明 DHCP 伺服器角色。
+  - 部署 DHCP。
+  - 管理 DHCP 並對其進行疑難排解。
+
+
+  ### 模組 3&#58; 實作 IPv6
+  本模組說明如何實作 IPv6，以及如何集成 IPv6 和 IPv4 網路。
+  #### 課程
+  - 概述 IPv6 尋址
+  - 設定 IPv6 主機
+  - 實現 IPv6 和 IPv4 共存
+  - 從 IPv4 過渡到 IPv6
+
+
+  #### 實驗室&#58; 設定和評估 IPv6 過渡技術
+  - 查看默認的 IPv6 設定
+  - 實作 DHCPv6
+  - 使用 ISATAP 設定網路集成
+  - 設定本機 IPv6 連接
+  - 設定 6to4 連接
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 IPv6 的功能和優勢。
+  - 設定 IPv6 主機。
+  - 實現 IPv4 和 IPv6 網路之間的共存。
+  - 從 IPv4 網路過渡到 IPv6 網路。
+
+
+  ### 模組 4&#58; 實作 DNS
+  本模組說明如何在組織機構網路內安裝、設定 DNS 和對 DNS 進行疑難排解。
+  #### 課程
+  - 實作 DNS 伺服器
+  - 在 DNS 中設定區域
+  - 在 DNS 區域之間設定名稱解析
+  - 設定與 Active Directory 域服務（AD DS）的 DNS 集成
+  - 設定高級 DNS 設置
+
+
+  #### 實驗室&#58; 使用 DNS 計劃和實作名稱解析
+  - 規劃 DNS 名稱解析
+  - 實作 DNS 伺服器和區域
+
+
+  #### 實驗室&#58; 將 DNS 與 Active Directory 集成
+  - 將 DNS 與 Active Directory 集成
+
+
+  #### 實驗室&#58; 設定高級 DNS 設置
+  - 設定 DNS 策略
+  - 驗證 DNS 的實作
+  - DNS 疑難排解
+
+  完成本模組後，學生將能夠&#58;
+  - 實作 DNS 伺服器。
+  - 在 DNS 中設定區域。
+  - 在 DNS 區域之間設定名稱解析。
+  - 設定與 AD DS 的 DNS 集成。
+  - 設定高級 DNS 設置
+
+
+  ### 模組 5&#58; 實作和管理 IPAM
+  本模組說明如何在 Windows Server 2016 中實現和管理 IPAM 功能。本模組還說明如何使用 IPAM 管理諸如 DHCP 和 DNS 之類的服務。
+  #### 課程
+  - IPAM 概述
+  - 部署 IPAM
+  - 使用 IPAM 管理 IP 地址空間
+
+
+  #### 實驗室&#58; 實作 IPAM
+  - 安裝 IPAM 伺服器功能
+  - 設定 IPAM 伺服器
+  - 使用 IPAM 管理 IP 地址空間
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 IPAM 的功能和元件。
+  - 部署 IPAM。
+  - 使用 IPAM 管理 IP 地址空間。
+
+
+  ### 模組 6&#58; Windows Server 2016 的遠端存取
+  本模組說明如何計劃 Windows Server 2016 的遠端存取以及如何實作 Web Application Proxy。
+  #### 課程
+  - 概述遠端存取
+  - 實作 Web Application Proxy
+
+
+  #### 實驗室&#58; 實作 Web Application Proxy
+  - 實作 Web Application Proxy
+  - 驗證 Web Application Proxy 部署
+
+  完成本模組後，學生將能夠&#58;
+  - 描述遠端存取。
+  - 實作 Web Application Proxy。
+
+
+  ### 模組 7&#58; 實現 DirectAccess
+  本模組說明如何在 Windows Server 2016 中實作和管理 DirectAccess。
+  #### 課程
+  - DirectAccess 概述
+  - 使用入門嚮導實作 DirectAccess
+  - 實作和管理高級 DirectAccess 基礎架構
+
+
+  #### 實驗室&#58; 使用入門嚮導實現 DirectAccess
+  - 驗證 DirectAccess 部署的準備情況
+  - 設定 DirectAccess
+  - 驗證 DirectAccess 部署
+
+
+  #### 實驗室&#58; 部署高級 DirectAccess 解決方案
+  - 為 DirectAccess 準備環境
+  - 實作高級 DirectAccess 基礎架構
+  - 驗證 DirectAccess 部署
+
+  完成本模組後，學生將能夠&#58;
+  - 說明 DirectAccess 及其工作方式。
+  - 使用入門嚮導實作 DirectAccess。
+  - 實作和管理高級 DirectAccess 基礎架構。
+
+
+  ### 模組 8&#58; 實作 VPN
+  本模組說明如何使用 VPN 在 Windows Server 2016 中實現和管理遠端存取。
+  #### 課程
+  - 規劃 VPN
+  - 實作 VPN
+
+
+  #### 實驗室&#58; 實作 VPN
+  - 實作 VPN
+  - 驗證 VPN 部署
+  - 對 VPN 存取進行疑難排解
+
+  完成本模組後，學生將能夠&#58;
+  - 規劃 VPN 解決方案。
+  - 實作 VPN。
+
+
+  ### 模組 9&#58; 為分支機構實作聯網
+  本模組說明如何為分支機構實作網路服務。
+  #### 課程
+  - 分支機構的網路功能和注意事項
+  - 為分支機構實作分佈式檔案系統（DFS）
+  - 為分支機構實作 BranchCache
+
+
+  #### 實驗室&#58; 為分支機構實作 DFS
+  - 實作 DFS
+  - 驗證部署
+
+
+  #### 實驗室&#58; 實作 BranchCache
+  - 實作 BranchCache
+  - 驗證部署
+
+  完成本模組後，學生將能夠&#58;
+  - 描述分支機構的網路功能和注意事項。
+  - 為分支機構實作 DFS。
+  - 為分支機構實作 BranchCache。
+
+
+  ### 模組 10&#58; 設定高級聯網功能
+  本模組說明如何實作高級網路基礎結構。
+  #### 課程
+  - 概述高性能網路功能
+  - 設定高級 Microsoft Hyper-V 網路功能
+
+
+  #### 實驗室&#58; 設定高級 Hyper-V 網路功能
+  - 建立和使用 Hyper-V 虛擬交換機
+  - 設定和使用虛擬交換機的高級功能
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 Windows Server 2016 中的高性能網路增強功能。
+  - 設定高級的 Microsoft Hyper-V 網路功能。
+
+
+  ### 模組 11&#58; 實作軟體定義的網路
+  本模組說明如何實現 SDN。
+  #### 課程
+  - SDN 概述。
+  - 實作網路虛擬化
+  - 實作 Network Controller
+
+
+  #### 實驗室&#58; 部署 Network Controller
+  - 準備部署 Network Controller
+  - 部署 Network Controller
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 SDN。
+  - 實作網路虛擬化。
+  - 實作 Network Controller。
+

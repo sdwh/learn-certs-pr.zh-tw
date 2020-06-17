@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: Implementing a Software-Defined Datacenter
+metadata:
+  title: 'Exam 70-745: Implementing a Software-Defined Datacenter'
+  description: 'Exam 70-745: Implementing a Software-Defined Datacenter'
+uid: exam.70-745
+displayName: 70-745
+summary: |-
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  </div>
+
+  本測驗的應試者是 IT 專業人員，負責實作 Windows Server 2016 和 Microsoft System Center 2016 虛擬機器管理程式 (SCVMM) 的軟體定義資料中心 (SDDC)。
+
+  這些應試者負責實作和管理高可用性的 SCVMM 基礎結構，以及實作軟體定義的儲存，計算和網路零件。他們還負責管理和配置租戶工作負載，部署和管理容器，以及使用System Center Operations Manager (SCOM) 執行基本的監視和維護任務。本測驗的應試者還負責確定和實作一般業務連續性和災難復原的選項。
+
+  <div style='font-weight&#58; bold;'><br/>附註&#58; 從 2018 年 6 月 15 日開始，測驗更新有效。要了解有關這些變更以及它們如何影響所測技能的更多資訊，請下載並檢閱 745 測驗變更文件。</div>
+subTitle: 本測驗的應試者是 IT 專業人員，負責實作 Windows Server 2016 和 Microsoft System Center 2016 虛擬機器管理程式 (SCVMM) 的軟體定義資料中心 (SDDC)。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1k
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-745&examname=Implementing%20a%20Software-Defined%20Datacenter&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-745
+locales:
+- en
+levels:
+- advanced
+skills:
+- 規劃和實作 System Center Virtual Machine Manager (VMM) 核心基礎結構
+- 實作軟體定義網路 (SDN)
+- 實作軟體定義的儲存
+- 使用虛擬機器管理器 (VMM) 實作資料中心計算方案
+- 檢查您的軟體定義資料中心的安全性
+- 監視和維護軟體定義的資料中心
+roles:
+- administrator
+products:
+- windows-system-center
+courses:
+- uid: course.20745
+relatedCertifications:
+- related:
+    uid: certification.mcse-core-infrastructure
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

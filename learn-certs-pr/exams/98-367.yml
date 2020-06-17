@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: Security Fundamentals
+metadata:
+  title: 'Exam 98-367: Security Fundamentals'
+  description: 'Exam 98-367: Security Fundamentals'
+uid: exam.98-367
+displayName: 98-367
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  本測驗會驗證應試者具備基礎安全性方面的識與技能。這可作為參加 Microsoft Certified Solutions Associate (MCSA) 測驗的暖身練習。建議應試者修習相關訓練課程，以熟悉這裡所描述的概念和技術。應試者應在 Windows Server、Windows 基礎網路、Active Directory、反惡意程式碼產品、防火牆、網路拓撲與裝置和網路連接埠方面具備實際操作體驗。
+
+  <div style='font-weight&#58; bold;'><br/>自 2016 年 6 月 23 日起，本測驗除了安全性與威脅條款的更新之外，還包括 Windows 10 的更新。要了解有關這些變更以及它們如何影響所測技能的更多資訊，請下載並檢閱 98-367 測驗變更文件。</div>
+subTitle: 本測驗會驗證應試者具備基礎安全性方面的識與技能。這可作為參加 Microsoft Certified Solutions Associate (MCSA) 測驗的暖身練習。建議應試者修習相關訓練課程，以熟悉這裡所描述的概念和技術。應試者應在 Windows Server、Windows 基礎網路、Active Directory、反惡意程式碼產品、防火牆、網路拓撲與裝置和網路連接埠方面具備實際操作體驗。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k1
+practiceTestUrl: https://www.mindhub.com/MTA-98-367-Security-Fundamentals-p/mu-98-367_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-367&examname=Security%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-367
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- 瞭解安全層 (25-30%)
+- 瞭解作業系統安全性 (35-40%)
+- 瞭解網路安全性 (20-25%)
+- 瞭解安全軟體 (15-20%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.40032
+- uid: course.40367
+relatedCertifications:
+- related:
+    uid: certification.mta-security-fundamentals
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

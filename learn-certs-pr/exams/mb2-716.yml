@@ -1,0 +1,50 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Customization and Configuration
+metadata:
+  title: 'Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration'
+  description: 'Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration'
+uid: exam.mb-2-716
+displayName: MB2-716
+summary: |-
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  </div>
+
+  本測驗適合希望取得 Microsoft Dynamics 365 Customization and Configuration 認證的人員。這類對象通常包括開發員、實作顧問、技術支援技術人員和系統管理員。他們會評估客戶的商務需求，然後設定及自訂應用程式。
+
+  <div style='font-weight&#58; bold;'><br/>2020年2月4日，更新此測驗內容。要了解有關這些變更以及它們如何影響所測技能的更多資訊，請下載並檢閱 MB2-716 測驗變更文件。</div>
+subTitle: 本測驗適合希望取得 Microsoft Dynamics 365 Customization and Configuration 認證的人員。這類對象通常包括開發員、實作顧問、技術支援技術人員和系統管理員。他們會評估客戶的商務需求，然後設定及自訂應用程式。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o2AP
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=MB2-716&examname=Microsoft%20Dynamics%20365%20Customization%20and%20Configuration&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB2-716
+locales:
+- en
+- ja
+levels:
+- beginner
+skills:
+- 設定 Microsoft Dynamics 365 (20-25%)
+- 實作 Microsoft Dynamics 365 實體、實體關聯與欄位 (20-25%)
+- 建立及管理 Microsoft Dynamics 365 解決方案、表單、檢視與視覺效果 (25-30%)
+- 實作商務規則、工作流程與商務程序流程 (20-25%)
+roles:
+- business-analyst
+products:
+- dynamics
+relatedCertifications:
+- related:
+    uid: certification.mcse-business-applications
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

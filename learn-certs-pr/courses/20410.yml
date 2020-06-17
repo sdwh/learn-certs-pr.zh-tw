@@ -1,0 +1,276 @@
+### YamlMime:Course
+title: Installing and Configuring Windows Server® 2012
+metadata:
+  title: 'Course 20410-D: Installing and Configuring Windows Server® 2012'
+  description: 'Course 20410-D: Installing and Configuring Windows Server® 2012'
+uid: course.20410
+courseNumber: '20410-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 安裝和設定 Windows Server 2012。
+- skill: 描述 AD DS。
+- skill: 管理 Active Directory 物件。
+- skill: 自動執行 Active Directory 管理。
+- skill: 實作 IPv4。
+- skill: 實作動態主機設定通訊協定(DHCP)。
+- skill: 實作網域名稱系統(DNS)。
+- skill: 實作 IPv6。
+- skill: 實作本機存放區。
+- skill: 實作檔案和列印服務。
+- skill: 實作群組原則
+- skill: 透過使用群組原則物件(GPO)保護 Windows 伺服器。
+- skill: 透過使用 Hyper-V 實作伺服器虛擬化。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-410
+summary: |-
+  在為期五天的 Microsoft 官方課程中，獲得實際操作指導並練習安裝和設定 Windows Server 2012，包括 Windows Server 2012 R2。本課程是三門課程系列中的一部分，提供在現有企業環境中實作核心 Windows Server 2012 基礎結構所需的技能和知識。  
+
+  這三門課程共同涵蓋在 Windows Server 2012 環境中實作、管理、維護和提供服務及基礎結構。儘管這些課程的技能和工作有所變化，但本課程著重於核心服務的初始實作和設定，例如網路，儲存，Active Directory 網域服務(AD DS)，群組原則，檔案和列印服務 和 Hyper-V。  
+
+  本課程直接對應於 Microsoft 認證解決方案助理(MCSA)考試 [410&#58; Installing and Configuring Windows Server 2012](https://www.microsoft.com/learning/exam-70-410.aspx)，並且是實踐準備的首選，這是獲得 MCSA&#58; Windows Server 2012 證書所需的三門考試中的第一門。  
+
+  本課程中的實驗是根據 Windows Server 2012 R2 和 Windows 8.1。
+
+  #### 對象設定檔
+  本課程適用於具有一定知識和經驗的 Windows 作業系統工作的資訊技術(IT)專業人員，並且他們希望在現有 Windows 伺服器環境中獲得安裝和執行 Windows Server 2012 或 Windows Server 2012 R2 伺服器的初始設定所需的技能和知識。通常，對參加本課程感興趣的應試者包括：
+  - 相對於 Windows Server 管理較新的Windows Server 管理員以及希望了解有關 Windows Server 2012 和 Windows Server 2012 R2 的相關技術。
+  - 具備其他非 Microsoft 技術經驗的 IT 專業人員，他們符合課程的先決條件，並希望在 Windows Server 2012 和 Windows Server 2012 R2 上進行交叉訓練。
+  - 希望接受微軟認證解決方案助理師(MCSA)測驗 [410&#58; Installing and Configuring Windows Server 2012](https://www.microsoft.com/learning/exam-70-410.aspx)的IT專業人員。
+  - 想要在資料中心，桌面基礎架構，訊息傳送，共同作業和通訊中參加微軟認證解決方案專家(MCSE)測驗的IT專業人員，在為微軟認證解決方案助理師(MCSA)測驗做準備時，也有興趣參加此課程。這些是他們各自專業的先決條件。
+prerequisitesSection: |-
+  本課程要求學生滿足以下先決條件，包括他們有&#58;
+  - 了解網路基礎知識。
+  - 了解基本的 AD DS 概念。
+  - 對安全最佳實踐的認識和理解。
+  - 伺服器硬體的基本知識。
+  - 具有使用和設定 Windows 用戶端作業系統 (例如Windows 7或Windows 8)的經驗。 
+
+  此外，學生將從以前的 Windows Server 作業系統經驗中受益。 
+
+  透過具有與課程相同的知識或參加課程可以滿足上述所有先決條件 [10967A&#58; Fundamentals of a Windows Server Infrastructure](https://www.microsoft.com/learning/course.aspx?ID=10967A&Locale=zh-cn&mc=US)，因為此課程建立在該課程涵蓋的知識和技能的基礎上。
+outlineSection: |-
+  ### 模組 1&#58; 部署和管理Windows Server 2012
+  本模組向學生介紹 Windows Server 2012 版本和新的 Windows Server 2012 管理工具。還涵蓋如何安裝 Windows Server 2012，如何執行部署後工作以及如何執行基本管理工作。
+  #### 課程
+  - Windows Server 2012 概觀
+  - 安裝 Windows Server 2012
+  - Windows Server 2012的安裝後設定
+  - Windows Server 2012 管理概觀
+  - Windows PowerShell 簡介
+
+
+  #### 實驗室 &#58; 部署和管理 Windows Server 2012
+  完成本單元後，學生將能夠&#58;
+  - 描述 Windows Server 2012
+  - 安裝 Windows Server 2012
+  - 執行 Windows Server 2012 的安裝後設定
+  - 描述 Windows Server 2012 中可用的管理工具
+  - 使用 Windows PowerShell 執行基本管理工作
+
+
+  ### 模組 2&#58; Active Directory 網域服務簡介
+  此模塊涵蓋 Active Directory 網域服務(AD DS)的結構及其各種元件，例如樹系，網域和組織單位(OU)。除了 Windows Server 2012 提供的用於在伺服器上安裝 AD DS的選項之外，還概觀網域控制站。
+  #### 課程
+  - AD DS 概觀
+  - 網域控制站概觀
+  - 安裝網域控制站
+
+
+  #### 實驗室 &#58; 安裝網域控制站
+  完成本單元後，學生將能夠&#58;
+  - 描述AD DS 的結構。
+  - 描述網域控制站的用途。
+  - 安裝網域控制站。
+
+
+  ### 模組 3&#58; 管理 Active Directory 網域服務物件
+  本模組介紹如何管理使用者帳戶和電腦帳戶，包括如何管理員工使用的各種消費類裝置。該模組還涵蓋如何透過管理群組來管理企業網路，以及如何將管理工作委派給指定的使用者或群組。
+  #### 課程
+  - 管理使用者帳戶
+  - 管理群組
+  - 管理電腦帳戶
+  - 委派管理
+
+
+  #### 實驗室 &#58; 管理 Active Directory 網域服務對象
+  完成本單元後，學生將能夠&#58;
+  - 使用圖形工具管理使用者帳戶
+  - 使用圖形工具管理群組帳戶
+  - 管理電腦帳戶。
+  - 授予執行AD DS管理的權限
+
+
+  ### 模組 4&#58; 自動執行 Active Directory 網域服務管理
+  本模組描述如何使用命令列工具和 Windows PowerShell 以自動執行 AD DS管理。討論各種命令列工具和 Windows PowerShell 命令，然後描述瞭如何使用這些工具和命令來單獨地和大量修改物件。
+  #### 課程
+  - 使用命令列工具進行AD Ds管理
+  - 使用 Windows PowerShell 進行 AD DS 管理
+  - 使用 Windows PowerShell 執行大量作業
+
+
+  #### 實驗室 &#58; 使用 Windows PowerShell 自動化 AD DS 管理
+  完成本單元後，學生將能夠&#58;
+  - 使用命令行工具進行 AD DS 管理
+  - 使用 Windows PowerShell cmdlet 進行AD DS 管理
+  - 使用 Windows PowerShell 執行大量作業
+
+
+  ### 模組 5&#58; 實作 IPv4
+  本模組討論使用 IPv4，這是網際網路和區域網路上使用的網路通訊協定。在本模組中，學生將學習如何實作 IPv4 定址配置以及如何對網路通訊進行疑難排解。本模組還涵蓋如何確定和疑難排解與網路相關的問題。
+  #### 課程
+  - TCP / IP 概觀
+  - 了解 IPv4 定址
+  - 子網域劃分和超級網域化
+  - 對IPv4進行設定和故障排除
+
+
+  #### 實驗室 &#58; 實作 IPv4
+  完成本單元後，學生將能夠&#58;
+  - 描述 TCP / IP 通訊協定套件
+  - 描述 IPv4 定址
+  - 確定進行超級網域化或子網域劃分所必需的子網路遮罩
+  - 設定 Ipv4 並對 IPv4 通訊進行疑難排解
+
+
+  ### 模組 6&#58; 實作動態主機設定通訊協定
+  本模組透過部署、設定和疑難排解動態主機設定通訊協定(DHCP)伺服器角色涵蓋 Windows Server 型的網路基礎結構進行支援和疑難排解。
+  #### 課程
+  - DHCP 伺服器角色概觀
+  - 設定 DHCP 範圍
+  - 管理 DHCP 資料庫
+  - 保護和監視 DHCP
+
+
+  #### 實驗室 &#58; 實作DHCP
+  完成本單元後，學生將能夠&#58;
+  - 說明 DHCP 伺服器角色
+  - 設定 DHCP 範圍
+  - 管理 DHCP 資料庫
+  - 保護和監視 DHCP 伺服器角色
+
+
+  ### 模組 7&#58; 實作 DNS
+  本模組描述 Windows 作業系統用戶端和 Windows Server 伺服器的名稱解析。還涵蓋安裝和設定 DNS 伺服器服務及其元件。
+  #### 課程
+  - Windows 用戶端和伺服器的名稱解析
+  - 安裝DNS伺服器
+  - 管理DNS區域
+
+
+  #### 實驗室 &#58; 實作 DNS
+  完成本單元後，學生將能夠&#58;
+  - 描述 Windows 作業系統用戶端和 Windows Server 伺服器的名稱解析。
+  - 安裝和管理DNS 伺服器。
+  - 管理DNS區域。
+
+
+  ### 模組 8&#58; 實作 IPv6
+  本模組討論 IPv6 的功能和優點，IPv6如何影響 IPv4 網路以及如何透過使用各種轉換技術將 IPv6 整合到  IPv4 網路中。
+  #### 課程
+  - IPv6 概觀
+  - IPv6 定址
+  - 與 IPv4 共存
+  - IPv6 轉換技術
+
+
+  #### 實驗室 &#58; 實作 IPv6
+  完成本單元後，學生將能夠&#58;
+  - 描述 IPv6 的功能和優點
+  - 描述 IPv6 定址
+  - 描述IPv6與IPv4共存
+  - 描述 IPv6 轉換技術
+
+
+  ### 模組 9&#58; 實作本機存放區
+  本模組介紹幾種不同的儲存技術。它討論如何在 Windows Server 2012 中實作儲存解決方案以及如何使用新的儲存空間功能，該功能使您可以將磁碟組合到可以設定為自動管理的集區中。
+  #### 課程
+  - 儲存概觀
+  - 管理磁碟和磁碟區
+  - 實作儲存空間
+
+
+  #### 實驗室 &#58; 實作本機存放區
+  完成本單元後，學生將能夠&#58;
+  - 描述各種儲存技術
+  - 說明如何管理磁碟和磁碟區
+  - 說明如何實作儲存空間
+
+
+  ### 模組 10&#58; 實作檔案和列印服務
+  本模組討論如何使用 Windows Server 2012提供檔案和列印資源。描述如何保護檔案和資料夾的安全，如何透過使用陰影複製保護檔案和資料夾的先前版本以及如何透過實現新的工作資料夾角色服務使工作人員遠端存取公司檔案。還介紹有助於管理網路列印環境的新網路列印功能。
+  #### 課程
+  - 保護檔案和資料夾
+  - 使用陰影複製保護共用檔案和資料夾
+  - 設定工作資料夾
+  - 設定網路列印
+
+
+  #### 實驗室 &#58; 實作檔案和列印服務
+  完成本單元後，學生將能夠&#58;
+  - 保護共用檔案和資料夾
+  - 使用陰影複製保護共享文件和文件夾
+  - 設定工作資料夾角色服務
+  - 設定網路列印
+
+
+  ### 模組 11&#58; 實施群組原則
+  本模組提供群組原則的概觀，並提供有關如何實作群組原則的詳細資訊。
+  #### 課程
+  - 群組原則概觀
+  - 群組原則處理
+  - 為管理範本實作集中存放區
+
+
+  #### 實驗室 &#58; 實作群組原則
+  完成本單元後，學生將能夠&#58;
+  - 建立和管理群組原則物件(GPO)
+  - 描述群組原則處理
+  - 為管理範本實作集中存放區
+
+
+  ### 模組 12&#58; 使用群組原則物件保護 Windows 伺服器的安全
+  本模組介紹 Windows Server 2012 作業系統的安全性。涵蓋如何識別安全性威脅，規劃降低安全性威脅的策略以及保護 Windows Server 2012 基礎結構的方法。
+  #### 課程
+  - Windows 作業系統的安全性概觀
+  - 配置安全性設定
+  - 限制軟體
+  - 使用進階安全性設定 Windows 防火牆
+
+
+  #### 實驗室 &#58; 提高伺服器資源的安全性
+
+  #### 實驗室 &#58; 設定 AppLocker 和 Windows 防火牆
+  完成本單元後，學生將能夠&#58;
+  - 描述 WindowsServer 作業系統的安全性
+  - 使用群組原則配置安全設定
+  - 提高伺服器資源的安全性
+  - 限制未經授權的軟體在伺服器和用戶端上執行
+  - 使用進階安全性設定 Windows 防火牆
+
+
+  ### 模組 13&#58; 使用 Hyper-V 實作伺服器虛擬化
+  本模組介紹 Windows 上可用的虛擬化技術，特別著重於 Windows Server 2012 和 Windows Server 2012 R2 中的 Hyper-V 角色。涵蓋 Hyper-V 角色的元件，設定和部署角色，除了以及如何設定和管理 Hyper-V 實作的關鍵元件(例如儲存和網路)。
+  #### 課程
+  - 虛擬化技術概觀
+  - 實作Hyper-V
+  - 管理虛擬機器儲存
+  - 管理虛擬網路
+
+
+  #### 實驗室 &#58; 使用 Hyper-V 實作伺服器虛擬化
+  完成本單元後，學生將能夠&#58;
+  - 描述虛擬化技術
+  - 實作 Hyper-V
+  - 管理虛擬機器儲存
+  - 管理虛擬網路
+

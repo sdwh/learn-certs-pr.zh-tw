@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Developing Microsoft Azure and Web Services
+metadata:
+  title: 'Exam 70-487: Developing Microsoft Azure and Web Services'
+  description: 'Exam 70-487: Developing Microsoft Azure and Web Services'
+uid: exam.70-487
+displayName: 70-487
+summary: |+
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  </div>
+
+  此測驗的應試者是使用 Microsoft Visual Studio 2017 和 Microsoft® .NET Core Framework 設計和開發Web解決方案的專業開發人員。應試者應至少有三年到五年的開發 Microsoft ASP.NET MVC 型的解決方案和 的知識。另外，應試者應該能夠證明以下內容&#58;
+  - 設計和開發存取各種(本地和遠端)資料和服務(包括 Windows Azure)的 Web 應用程式的經驗
+  - 具有完整的資料和服務解決方案的軟體開發生命週期的經驗
+  - 開發和部署到多層環境，包括 Windows Azure 的經驗
+  - 設計和開發非同步解決方案的經驗
+  - 建立和使用 HTTP 服務的經驗
+subTitle: '此測驗的應試者是使用 Microsoft Visual Studio 2017 和 Microsoft® .NET Core Framework 設計和開發Web解決方案的專業開發人員。應試者應至少有三年到五年的開發 Microsoft ASP.NET MVC 型的解決方案和 的知識。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMe
+practiceTestUrl: https://www.mindhub.com/70-487-developing-microsoft-azure-and-web-services/p/MU-70-487?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-487&examname=Developing%20Microsoft%20Azure%20and%20Web%20Services&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-487
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- 存取資料 (20-25%)
+- 透過使用 Entity Framework 查詢和操縱資 (20-25%)
+- 建立和使用 Web API 的服務 (20-25%)
+- 設計和實作 Web 服務 (15-20%)
+- 部署 Web 應用程式和服務 (15-20%)
+roles:
+- developer
+products:
+- azure
+courses:
+- uid: course.20487
+relatedCertifications:
+- related:
+    uid: certification.mcsd-app-builder-certification
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

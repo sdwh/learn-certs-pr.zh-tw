@@ -1,0 +1,49 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 for Talent
+metadata:
+  title: 'Exam MB6-898: Microsoft Dynamics 365 for Talent'
+  description: 'Exam MB6-898: Microsoft Dynamics 365 for Talent'
+uid: exam.mb-6-898
+displayName: MB6-898
+summary: |-
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  </div>
+
+  此測驗的應試者是 Microsoft Dynamics 365 合作夥伴，他們在 Microsoft Dynamics 365 for Talent 中設定和使用應用程式功能，並為應用程式提供支援。此測驗也適用於具有業務解決方案背景並希望展示對 Microsoft Dynamics 365 for Talent 應用程式的功能理解的銷售人員。
+
+  應試者通常應該對人力資本管理，可作業的人力資源流程以及部署，維護和使用 Microsoft Dynamics 365 for Talent 的經驗有深刻的理解。
+
+  <div style='font-weight&#58; bold;'><br/>Exam MB6-898適用於Dynamics 365 for Talent的2018年4月版。有關該產品的最新信息，請參閱：<a href="https://aka.ms/talentdocs">https://aka.ms/talentdocs</a>。</div>
+subTitle: 此測驗的應試者是 Microsoft Dynamics 365 合作夥伴，他們在 Microsoft Dynamics 365 for Talent 中設定和使用應用程式功能，並為應用程式提供支援。此測驗也適用於具有業務解決方案背景並希望展示對 Microsoft Dynamics 365 for Talent 應用程式的功能理解的銷售人員。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kd
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=MB6-898&examname=Microsoft%20Dynamics%20365%20for%20Talent&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-898
+locales:
+- en
+levels:
+- beginner
+skills:
+- 了解 Dynamics 365 for Talent 的環境 (45-50%)
+- 設定和使用人才申請 (50-55%)
+roles:
+- business-analyst
+products:
+- dynamics
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

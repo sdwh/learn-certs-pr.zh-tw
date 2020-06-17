@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Designing and Implementing a Server Infrastructure
+metadata:
+  title: 'Exam 70-413: Designing and Implementing a Server Infrastructure'
+  description: 'Exam 70-413: Designing and Implementing a Server Infrastructure'
+uid: exam.70-413
+displayName: 70-413
+summary: |-
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  </div>
+
+  此測驗是兩個系列測驗的第一部分，本系列測試在企業規模、高度虛擬化環境中設計、實作與維護 Windows Server 2012 基礎結構所需的技能與知識。通過此測驗驗證應試者是否有能力規劃，設定與實作 Windows Server 2012 服務，例如伺服器部署、伺服器虛擬化以及網路存取與基礎結構。若通過這項測驗及另一個測驗，即確定此應試者有必要的技能與知識能夠設計、部署與維護 Windows Server 2012 環境中的基礎結構服務。
+
+  <div style='font-weight&#58; bold;'><br/>自2014年4月起，此測驗內容將涵蓋 <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tt8g">Windows Server 2012 R2</a>。</div>
+subTitle: 此測驗是兩個系列測驗的第一部分，本系列測試在企業規模、高度虛擬化環境中設計、實作與維護 Windows Server 2012 基礎結構所需的技能與知識。通過此測驗驗證應試者是否有能力規劃，設定與實作 Windows Server 2012 服務，例如伺服器部署、伺服器虛擬化以及網路存取與基礎結構。若通過這項測驗及另一個測驗，即確定此應試者有必要的技能與知識能夠設計、部署與維護 Windows Server 2012 環境中的基礎結構服務。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixX
+practiceTestUrl: https://www.mindhub.com/70-413-Designing-and-Implementing-a-Server-Infrast-p/mu-70-413_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-413&examname=Designing%20and%20Implementing%20a%20Server%20Infrastructure&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-413
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- 規劃及部署伺服器基礎結構 (20-25%)
+- 設計和實作網路基礎結構服務 (20-25%)
+- 設計和實作網路存取服務 (15-20%)
+- 設計和實現 Active Directory 基礎架構(邏輯)(20-25%)
+- 設計和實作 Active Directory 基礎架構(實體) (20-25%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20413
+relatedCertifications:
+- related:
+    uid: certification.mcse-core-infrastructure
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

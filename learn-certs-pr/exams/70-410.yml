@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Installing and Configuring Windows Server 2012
+metadata:
+  title: 'Exam 70-410: Installing and Configuring Windows Server 2012'
+  description: 'Exam 70-410: Installing and Configuring Windows Server 2012'
+uid: exam.70-410
+displayName: 70-410
+summary: |-
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  </div>
+
+  此測驗是三個系列測驗的第一部分，本系列測試在現有企業環境中實作核心 Windows Server 2012 基礎結構所需的技能和知識。若通過這項測驗，即驗證此應試者有能力實作及設定 Windows Server 2012 核心服務，例如 Active Directory 及網路服務。通過本測驗與其他兩個測驗證明應試者擁有實作、管理、維護與佈建 Windows Server 2012 環境中的服務與基礎結構的必備技能與知識。
+
+  <div style='font-weight&#58; bold;'><br/>自2014年1月起，此測驗內容將涵蓋 <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLTr">Windows Server 2012 R2</a>。</div>
+subTitle: 此測驗是三個系列測驗的第一部分，本系列測試在現有企業環境中實作核心 Windows Server 2012 基礎結構所需的技能和知識。若通過這項測驗，即驗證此應試者有能力實作及設定 Windows Server 2012 核心服務，例如 Active Directory 及網路服務。通過本測驗與其他兩個測驗證明應試者擁有實作、管理、維護與佈建 Windows Server 2012 環境中的服務與基礎結構的必備技能與知識。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJk
+practiceTestUrl: https://www.mindhub.com/70-410-Installing-and-Configuring-Windows-Server-p/mu-70-410_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-410&examname=Installing%20and%20Configuring%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-410
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- 安裝和設定伺服器 (15-20%)
+- 設定伺服器角色和功能 (15-20%)
+- 設定Hyper-V (15-20%)
+- 部署和設定Microsoft 雲端服務 (15-20%)
+- 安裝和管理Active Directory (15-20%)
+- 建立及管理群組原則 (15-20%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20410
+relatedCertifications:
+- related:
+    uid: certification.mcsa-windows-server-certification
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+
