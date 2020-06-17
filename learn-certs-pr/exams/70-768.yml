@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: Developing SQL Data Models
+metadata:
+  title: 'Exam 70-768: Developing SQL Data Models'
+  description: 'Exam 70-768: Developing SQL Data Models'
+uid: exam.70-768
+displayName: 70-768
+summary: |-
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  </div>
+
+  本測驗適合主要工作內容為建立商業智慧 (BI) 解決方案的 BI 開發人員，且這些解決方案必須實作多維度資料模型、實作並維護 OLAP Cube，以及實作表格式資料模型。
+subTitle: 本測驗適合主要工作內容為建立商業智慧 (BI) 解決方案的 BI 開發人員，且這些解決方案必須實作多維度資料模型、實作並維護 OLAP Cube，以及實作表格式資料模型。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjR
+practiceTestUrl: https://www.mindhub.com/70-768-Developing-SQL-Data-Models-p/mu-70-768_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-768&examname=Developing%20SQL%20Data%20Models&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-768
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 設計多維度商業智慧 (BI) 語意模型 (25-30%)
+- 設計表格式 BI 語意模型 (20-25%)
+- 使用多維度運算式 (MDX) 與資料分析運算式 (DAX) 來開發查詢 (15-20%)
+- 設定及維護 SQL Server Analysis Services (SSAS) (30-35%)
+roles:
+- data-analyst
+products:
+- sql-server
+courses:
+- uid: course.20768
+relatedCertifications:
+- related:
+    uid: certification.mcsa-sql2016-business-intelligence-certification
+- related:
+    uid: certification.mcse-data-management-analytics
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

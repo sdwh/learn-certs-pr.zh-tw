@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Database Fundamentals
+metadata:
+  title: 'Exam 98-364: Database Fundamentals'
+  description: 'Exam 98-364: Database Fundamentals'
+uid: exam.98-364
+displayName: 98-364
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  本測驗的應試者意在證明其擁有資料庫的入門知識與技能，包括 Microsoft SQL Server 等關聯式資料庫。建議應試者修習相關訓練課程，或使用 MSDN 和 Microsoft Visual Studio 提供的教學課程和範例，以熟悉這裡所描述技術的概念，並取得實際操作經驗。雖然建議要具備基本的實際操作體驗與技術，但不需要工作經驗即可參加這些測驗。
+subTitle: 本測驗的應試者意在證明其擁有資料庫的入門知識與技能，包括 Microsoft SQL Server 等關聯式資料庫。建議應試者修習相關訓練課程，或使用 MSDN 和 Microsoft Visual Studio 提供的教學課程和範例，以熟悉這裡所描述技術的概念，並取得實際操作經驗。雖然建議要具備基本的實際操作體驗與技術，但不需要工作經驗即可參加這些測驗。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJq
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-364&examname=Database%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-364
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- 了解核心數據庫概念 (20-25%)
+- 創建資料庫對象 (20-25%)
+- 處理資料 (25-30%)
+- 瞭解資料儲存 (15-20%)
+- 管理資料庫 (10-15%)
+roles:
+- developer
+products:
+- sql-server
+courses:
+- uid: course.40364
+relatedCertifications:
+- related:
+    uid: certification.mta-database-fundamentals
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

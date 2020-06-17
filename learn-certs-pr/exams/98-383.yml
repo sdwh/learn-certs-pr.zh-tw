@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Introduction to Programming Using HTML and CSS
+metadata:
+  title: 'Exam 98-383: Introduction to Programming Using HTML and CSS'
+  description: 'Exam 98-383: Introduction to Programming Using HTML and CSS'
+uid: exam.98-383
+displayName: 98-383
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  本測驗的應試者應該能夠識別並書寫語法正確的 HTML 和 CSS，能使用 HTML 元素建構資料；並能使用 CSS 創建和應用樣式。
+
+  我們希望應試者至少要參加大約 100 個小時的有關 HTML 和 CSS 的課程，或者具有同等的實踐經驗，要熟悉它們的特徵和性能，要理解如何去書寫、偵錯，以及維護語式正確的 HTML 和 CSS 程式碼。
+subTitle: 本測驗的應試者應該能夠識別並書寫語法正確的 HTML 和 CSS，能使用 HTML 元素建構資料；並能使用 CSS 創建和應用樣式。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyQ
+practiceTestUrl: https://www.mindhub.com/mta-98-383-introduction-to-programming-using-html-and-css-microsoft-official-practice-test/p/MU-98-383?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-383&examname=Introduction%20to%20Programming%20Using%20HTML%20and%20CSS&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-383
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- 理解 HTML 基礎 (10-15%)
+- 理解 CSS 基礎 (15-20%)
+- 使用 HTML 建構文件 (30-35%)
+- 展示使用 HTML 的多媒體 (10-15%)
+- 使用 CSS 的樣式網頁頁面 (20-25%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-html-and-css
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

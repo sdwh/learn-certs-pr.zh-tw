@@ -1,0 +1,218 @@
+### YamlMime:Course
+title: Designing Business Intelligence Solutions with Microsoft SQL Server 2014
+metadata:
+  title: 'Course 20467-D: Designing Business Intelligence Solutions with Microsoft SQL Server 2014'
+  description: 'Course 20467-D: Designing Business Intelligence Solutions with Microsoft SQL Server 2014'
+uid: course.20467
+courseNumber: '20467-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 規劃 BI 解決方案。
+- skill: 規劃 SQL Server BI 基礎架構
+- skill: 設計資料倉庫。
+- skill: 設計提取、轉換和加載(ETL)解決方案。
+- skill: 設計分析資料模型。
+- skill: 規劃 BI 交付解決方案。
+- skill: 設計一個 Reporting Services 解決方案。
+- skill: 設計一個基於 Microsoft Excel 的報告解決方案。
+- skill: 規劃 SharePoint Server BI 解決方案。
+- skill: 監測和優化 BI 解決方案。
+- skill: 操作 BI 解決方案。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-467
+summary: |-
+  本培訓課程教授資料庫和商業智能(BI)專業人員如何規劃和設計基於 Microsoft SQL Server 2014 和其他 Microsoft BI 技術的 BI 解決方案。
+
+  #### 對象設定檔
+  本課程不是為不熟悉 SQL Server 2014 Bi 技術的學生而設計的；它針對具有使用 SQL Server 資料庫引擎、SQL Server Integration Services、SQL Server Analysis Services 和 SQL Server Reporting Services 實現解決方案的經驗的 BI 專業人員。
+prerequisitesSection: |-
+  參加訓練的學生除了具備專業經驗外，還應具備以下技術知識&#58;
+  - 對資料倉庫的維建模(星型架構)有基本了解
+  - 基本的伺服器硬件知識
+  - 建立包括控制流和資料流的 Integration Services 軟體包的能力
+  - 使用 Analysis Services 建立基本的多維資料集的能力
+  - 使用 PowerPivot 和 Analysis Services 建立基本表格模型的能力
+  - 使用 Report Designer 建立 Reporting Services 報告的能力
+  - 在 SQL Server 資料庫引擎、Analysis Services 和 Reporting Services 中實現身份驗證和權限的能力
+  - 熟悉 SharePoint Server 和 Microsoft Office 應用程式——特別是 Excel
+outlineSection: |-
+  ### 模組 1&#58; 規劃 BI 解決方案
+  該模組使學生能夠規劃 BI 解決方案的元件。
+  #### 課程
+  - BI 解決方案的要素
+  - 規劃 BI 項目
+  - Microsoft BI 平台
+
+
+  #### 實驗室&#58; 規劃 BI 解決方案
+  完成本模組後，您將能够&#58;
+  - 描述 BI 解決方案的元件。
+  - 確定 BI 解決方案的元件。
+  - 規劃一個 BI 項目。
+
+
+  ### 模組 2&#58; 規劃 SQL Server 商業智能基礎結構
+  此模組描述在給定一組 BI 參數的情況下，如何使用、規劃適當的 BI 基礎結構。
+  #### 課程
+  - BI 基礎結構的注意事項
+  - 規劃資料倉庫硬件
+
+
+  #### 實驗室&#58; 規劃 BI 基礎結構
+  完成本模組後，您將能够&#58;
+  - 描述 BI 基礎架構的元件以及在何處使用它們。
+  - 規劃資料倉庫實作的硬件要求。
+
+
+  ### 模組 3&#58; 設計資料倉庫
+  本模組描述了在給定一組用戶需求的情況下如何設計資料倉庫。
+  #### 課程
+  - 資料倉庫設計概述
+  - 設計維度表
+  - 設計事實表
+
+
+  #### 實驗室&#58; 設計資料倉庫邏輯架構
+  完成本模組後，您將能够&#58;
+  - 設計資料倉庫。
+  - 設計維度表。
+  - 設計事實表。
+  - 為資料倉庫設計邏輯架構。
+
+
+  ### 模組 4&#58; 設計 ETL 解決方案
+  本課描述如何設計提取、轉換和加載(ETL)解決方案。
+  #### 課程
+  - ETL 概述
+  - 規劃資料提取
+  - 規劃資料轉換
+  - 規劃資料加載
+
+
+  #### 實驗室&#58; 設計 ETL 解決方案
+  完成本模組後，您將能够&#58; 
+  - 描述 ETL 解決方案的元件。
+  - 設計 ETL 解決方案。
+
+
+  ### 模組 5&#58; 設計分析資料模型
+  本模組描述如何為特定的 BI 方案設計分析資料模型。
+  #### 課程
+  - 分析資料模型導論
+  - 設計分析資料模型
+
+
+  #### 實驗室&#58; 設計分析資料模型
+
+  #### 實驗室&#58; 設計維度和層次結構
+  完成本模組後，您將能够&#58;
+  - 描述分析資料模型的功能。
+  - 設計分析資料模型。
+
+
+  ### 模組 6&#58; 規劃 BI 交付解決方案
+  本模組描述如何為給定方案選擇適當的交付解決方案。
+  #### 課程
+  - BI 交付注意事項
+  - 常見的報告方案
+  - 選擇報告工具
+
+
+  #### 實驗室&#58; 規劃 BI 交付解決方案
+  完成本模組後，您將能够&#58;
+  - 描述 BI 交付解決方案的元件。
+  - 描述一些常見的報告場景。
+  - 為給定方案選擇適當的交付解決方案。
+
+
+  ### 模組 7&#58; 設計 Reporting Services 解決方案
+  本模組描述如何設計 Reporting Services 解決方案。
+  #### 課程
+  - 規劃報告解決方案
+  - 設計報告
+  - 規劃報告一致性
+
+
+  #### 實驗室&#58; 設計 Reporting Services 解決方案
+  完成本模組後，您將能够&#58;
+  - 規劃 Reporting Services 解決方案。
+  - 為 Reporting Services 解決方案設計報告。
+  - 規劃報告的一致性
+
+
+  ### 模組 8&#58; 設計基於 Excel 的報告解決方案
+  在本模組中，學生將學習如何使用 Excel 設計報告解決方案。
+  #### 課程
+  - 使用 Excel 進行資料報告和分析
+  - Excel 中的 PowerPivot
+  - Excel 中的 Power View
+
+
+  #### 實驗室&#58; 設計和 Excel 報告解決方案
+  完成本模組後，您將能够&#58;
+  - 描述 Excel 報告解決方案的主要功能。
+  - 在 Excel 中使用 PowerPivot 建立報告。
+  - 在 Excel 中使用 Power View 建立報告。
+
+
+  ### 模組 9&#58; 規劃 SharePoint Server BI 解決方案
+  本模組介紹如何將 SharePoint Server 用作 BI 解決方案。
+  #### 課程
+  - SharePoint Server 作為 BI 平台導論
+  - 規劃 SharePoint Server BI 解決方案的安全性
+  - 規劃 Reporting Services 設定
+  - 規劃 PowerPivot 設定
+  - 規劃 PerformancePoint Services
+
+
+  #### 實驗室&#58; 實作 SharePoint Server BI 解決方案
+
+  #### 實驗室&#58; 實現 PerformancePoint Services
+  完成本模組後，您將能够&#58;
+  - 描述 SharePoint Server BI 解決方案的元件。
+  - 規劃 SharePoint Server BI 解決方案的安全性。
+  - 規劃 SharePoint Server BI 解決方案的報告解決方案。
+  - 描述 PerformancePoint 解決方案的元件。
+  - 實作 PerformancePoint Services。
+
+
+  ### 模組 10&#58; 監視和優化 BI 解決方案
+  在本模組結束時，您將能夠優化和監視 BI 解決方案。
+  #### 課程
+  - BI 監視概述
+  - 監視和優化資料倉庫
+  - 監視和分析 Analysis Services
+  - 監視和優化 Reporting Services
+
+
+  #### 實驗室&#58; 監視和優化 BI 解決方案
+  完成本模組後，您將能够&#58;
+  - 描述用於監視和優化 BI 解決方案的選項。
+  - 能夠監視和優化 BI 解決方案。
+
+
+  ### 模組 11&#58; 運行 BI 解決方案
+  在本模組結束時，您將能夠規劃 BI 解決方案的管理和維護操作。
+  #### 課程
+  - BI 操作概述
+  - ETL 操作
+  - 資料倉庫操作
+  - Analysis Services 操作
+  - Reporting Services 操作
+
+
+  #### 實驗室&#58; 運行 BI 解決方案
+  完成本模組後，您將能够&#58;
+  - 描述要在 BI 解決方案中管理的元件。
+  - 能夠管理 BI 解決方案的元件。
+

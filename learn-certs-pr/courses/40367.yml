@@ -1,0 +1,43 @@
+### YamlMime:Course
+title: 'Security Fundamentals: MTA Exam 98-367'
+metadata:
+  title: 'Course 40367-B: Security Fundamentals: MTA Exam 98-367'
+  description: 'Course 40367-B: Security Fundamentals: MTA Exam 98-367'
+uid: course.40367
+courseNumber: '40367-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 了解安全層
+- skill: 了解作業系統安全性
+- skill: 了解網路安全性
+- skill: 了解安全性軟體
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.98-367
+summary: |-
+  為期三天的 MTA 訓練課程可幫助您為 Microsoft Technology Associate Exam 98-367 做好準備，並加深對這些主題的了解； 安全層，作業系統安全性，網路安全性，安全性軟體。本課程利用與該測驗的 Microsoft Official Academic Course （MOAC）中相同的內容。本課程已更新，以支援 Windows 10。
+
+  #### 對象設定檔
+  Microsoft Technology Associate（MTA）是 Microsoft 最新的技術認證測驗套件，驗證開始使用 Microsoft 技術建立職業所需的基本知識。本計劃為未來的技術職業提供適當的切入點，並且具有一定的實作經驗或訓練，但不具有在職經驗。
+prerequisitesSection: |-
+  本課程沒有任何先決條件。
+outlineSection: |-
+  ### 模組 1&#58; 了解安全層
+
+  ### 模組 2&#58; 了解驗證、授權和會計
+
+  ### 模組 3&#58; 了解安全性原則
+
+  ### 模組 4&#58; 了解網路安全性
+
+  ### 模組 5&#58; 保護伺服器和用戶端
+

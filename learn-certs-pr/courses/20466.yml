@@ -1,0 +1,242 @@
+### YamlMime:Course
+title: Implementing Data Models and Reports with SQL Server 2014
+metadata:
+  title: 'Course 20466-D: Implementing Data Models and Reports with SQL Server 2014'
+  description: 'Course 20466-D: Implementing Data Models and Reports with SQL Server 2014'
+uid: course.20466
+courseNumber: '20466-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 BI 解決方案的元件、體系結構和性質。
+- skill: 使用 Analysis Services 建立一個多維資料庫。
+- skill: 在多維資料集中實作尺寸。
+- skill: 在多維資料集中實作度量和度量組。
+- skill: 使用 MDX 語法。
+- skill: 自定義多維資料集。
+- skill: 在 SQL Server Analysis Services 中實作表格資料模型。
+- skill: 使用 DAX 增強表格模型。
+- skill: 使用Reporting Services建立報告。
+- skill: 使用圖表和參數增強報告。
+- skill: 管理報告的執行和發送。
+- skill: 使用 PerformancePoint Services 在 SharePoint Server 中實作儀表板。
+- skill: 使用 Data Mining 進行預測分析。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-466
+summary: |-
+  這個為期五天的講師指導課程的重點是建立託管企業 BI 解決方案。它描述如何實作多維和表格資料模型，使用 Microsoft® SQL Server® Reporting Services 交付報表，使用 Microsoft SharePoint Server PerformancePoint Services 建立儀表板以及使用資料探勘獲得對業務的深入了解。
+
+  注意：本課程是為有興趣學習 SQL Server 2012 或 SQL Server 2014 的客戶設計的。它涵蓋了 SQL Server 2014 中的新功能，還涵蓋了 SQL Server 資料平台的重要功能。
+
+  #### 對象設定檔
+  本課程適用於需要履行商業智能開發人員角色以建立分析和報告解決方案的資料庫專業人員。主要職責包括&#58;
+  - 實作分析資料模型，例如 OLAP 多維資料集。
+  - 實作報告，並管理報告的交付。
+  - 建立業務績效儀表板。
+  - 支援資料探勘和預測分析。
+prerequisitesSection: |-
+  本課程要求您滿足以下先決條件&#58;
+  - 至少 2 年使用關係型資料庫的經驗，包括&#58; 
+    - 設計規範化的資料庫。 
+    - 建立表和關係。 
+    - 使用 Transact-SQL 查詢。 
+    - 資料倉庫架構拓撲(包括星型和雪花型架構)的一些基本知識。 
+    - 對基本編程結構有一定的了解(例如循環和分支)。
+    需要了解關鍵業務優先事項(如收入、盈利能力和財務會計)。
+outlineSection: |-
+  ### 模組 1&#58; 商業智能和資料建模導論
+  作為 SQL Server 資料庫專業人員，可能需要您參與甚至負責一個旨在實作有效的企業 BI 解決方案的項目。因此，重要的是，你必須對構成 BI 解決方案的各種要素，BI 項目中通常涉及的業務和 IT 人員以及可用於實作解決方案的 Microsoft 產品有充分的了解。
+  #### 課程
+  - 商業智能導論
+  - Microsoft Enterprise BI 平台
+
+
+  #### 實驗室&#58; 探索 BI 解決方案
+  完成本模組後，您將能够&#58;
+  - 描述典型的 BI 解決方案的元素。 
+  - 為 BI 解決方案選擇適當的 Microsoft 技術。
+  - 描述計劃 BI 項目的主要注意事項。
+
+
+  ### 模組 2&#58; 建立多維資料庫
+  該模組介紹了多維資料庫，並介紹了在線分析處理(OLAP)多維資料集的核心元件。
+  #### 課程
+  - 多維分析導論
+  - 建立資料源和資料源視圖
+  - 建立一個多維資料集
+  - 多維資料集安全性概述
+
+
+  #### 實驗室&#58; 建立多維資料庫
+  完成本模組後，您將能够&#58;
+  - 描述多維資料庫的注意事項。 
+  - 建立資料源和資料源視圖。
+  - 建立一個多維資料集。
+  - 在多維資料庫中實作安全性。
+
+
+  ### 模組 3&#58; 使用多維資料集和維度
+  本模組描述如何在 Analysis Services 多維資料模型中建立和設定維度和維度層次結構。
+  #### 課程
+  - 設定維度
+  - 定義屬性層次結構
+  - 排序和分組層次結構
+
+
+  #### 實驗室&#58; 使用多維資料集和維度
+  完成本模組後，您將能够&#58;
+  - 設定維度。 
+  - 定義屬性層次結構。
+  - 排序和分組屬性。
+
+
+  ### 模組 4&#58; 使用度量和度量值組
+  本模組描述了度量和度量值組。它還說明如何使用它們來定義事實表並將維度與度量相關聯。
+  #### 課程
+  - 使用度量
+  - 使用度量組
+
+
+  #### 實驗室&#58; 設定度量和度量值組
+  完成本模組後，您將能够&#58;
+  - 設定度量。
+  - 設定度量值組。
+
+
+  ### 模組 5&#58; MDX 導論
+  本模組描述了 MDX 的基礎知識，並解釋如何構建計算，例如，計算所得成員和命名集。
+  #### 課程
+  - MDX 基礎知識
+  - 將計算添加到多維資料集
+  - 使用 MDX 查詢多維資料集
+
+
+  #### 實驗室&#58; 使用 MDX
+  完成本模組後，您將能够&#58;
+  - 描述 MDX。
+  - 將計算添加到多維資料集。
+  - 描述如何在客戶端應用程式中使用 MDX。
+
+
+  ### 模組 6&#58; 自定義多維資料集功能
+  本模組描述如何使用關鍵績效指標(KPI)、操作、透視圖和轉換來增強多維資料集。
+  #### 課程
+  - 實作關鍵績效指標
+  - 實作操作
+  - 實作透視圖
+  - 實作轉換
+
+
+  #### 實驗室&#58; 自定義多維資料集
+  完成本模組後，您將能够&#58;
+  - 實作關鍵績效指標。
+  - 實作操作。 
+  - 實作透視圖。
+  - 實作轉換。
+
+
+  ### 模組 7&#58; 實作 Analysis Services 表格資料模型
+  本模組描述 Analysis Services 表格資料模型，並說明如何為 Visual Studio 商業智能(BI)外接程式使用 SQL Server 資料工具開發表格資料模型。
+  #### 課程
+  - 表格資料模型導論
+  - 建立表格資料模型
+  - 在企業級 BI 解決方案中使用 Analysis Services 表格資料模型
+
+
+  #### 實驗室&#58; 實作 Analysis Services 表格資料模型
+  完成本模組後，您將能够&#58;
+  - 描述 Analysis Services 表格資料模型項目。 
+  - 實作 Analysis Services 表格資料模型。
+  - 使用 Analysis Services 表格資料模型。
+
+
+  ### 模組 8&#58; 資料分析表達式(DAX)導論
+  本模組說明了 DAX 語言的基礎知識。它還說明如何使用 DAX 建立計算的列和度量，以及如何在表格資料模型中使用它們。
+  #### 課程
+  - DAX 基礎知識
+  - 使用 DAX 在表格資料模型中建立計算的列和度量
+
+
+  #### 實驗室&#58; 使用 DAX 建立計算的列和度量
+  完成本模組後，您將能够&#58;
+  - 描述 DAX 的基本原理。
+  - 使用 DAX 建立計算的列和度量。
+
+
+  ### 模組 9&#58; 使用 SQL Server Reporting Services 實作報告
+  本模組介紹了 Microsoft SQL Server Reporting Services，並討論了專業 BI 開發人員可以用來建立和發布報告的工具和技術。
+  #### 課程
+  - Reporting Services 導論
+  - 使用 Report Designer 建立報告
+  - 在報告中分組和匯總資料。
+  - 使用圖形顯示資料
+  - 使用參數過濾報告
+
+
+  #### 實驗室&#58; 使用 Report Designer 建立報告
+  完成本模組後，您將能够&#58;
+  - 描述 Reporting Services 的主要功能。 
+  - 使用 Report Designer 建立報告。
+  - 在報告中分組和匯總資料。
+  - 發布和查看報告。
+
+
+  ### 模組 10&#58; 自動執行和交付報告
+  本模組描述如何應用安全性和報告執行設置，以及如何建立訂閱以交付報告。
+  #### 課程
+  - 管理報告安全
+  - 管理報告執行
+  - 使用訂閱和資料警報交付報告
+  - Reporting Services 疑難排解
+
+
+  #### 實驗室&#58; 實作報告訂閱
+  完成本模組後，您將能够&#58;
+  - 設定報告伺服器的安全設置。 
+  - 設定報告執行設置以優化效能。 
+  - 使用訂閱和警報自動執行報告和資料交付。
+  - 解決報告問題。
+
+
+  ### 模組 11&#58; 透過 SharePoint PerformancePoint Services 交付 BI
+  本模組介紹 Microsoft SharePoint Server 作為 BI 平台，然後重點介紹使用 PerformancePoint Services 構建 BI 儀表板和記分卡。
+  #### 課程
+  - SharePoint Server 作為 BI 平台導論
+  - 規劃 SharePoint Server BI 解決方案的安全性
+  - 規劃 PerformancePoint Services
+
+
+  #### 實驗室&#58; 實現 PerformancePoint Services
+  完成本模組後，您將能够&#58;
+  - 描述 SharePoint Server 作為 BI 平台。
+  - 使用 PerformancePoint Services 交付 BI 功能。
+  - 設定 PerformancePoint Data Sources。
+  - 建立報告、記分卡和儀表板。
+
+
+  ### 模組 12&#58; 使用資料探勘執行預測分析
+  本模組介紹資料探勘，描述如何建立資料探勘解決方案，如何驗證資料探勘模型，如何使用 Microsoft Excel 的資料探勘加載程式以及如何將資料探勘結果合併到 Reporting Services 報告中。
+  #### 課程
+  - 資料探勘概述
+  - 使用 Excel 的資料探勘加載程式
+  - 建立自定義資料探勘解決方案
+  - 驗證資料探勘模型
+  - 連接並使用資料探勘資料
+
+
+  #### 實驗室&#58; 使用資料探勘支援營銷活動
+  完成本模組後，您將能够&#58;
+  - 描述關鍵的資料探勘概念，並使用 Excel 的資料探勘加載程式。
+  - 建立資料探勘解決方案。
+  - 驗證資料探勘模型。
+  - 在報告中使用資料探勘資料。
+

@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Introduction to Programming Using JavaScript
+metadata:
+  title: 'Exam 98-382: Introduction to Programming Using JavaScript'
+  description: 'Exam 98-382: Introduction to Programming Using JavaScript'
+uid: exam.98-382
+displayName: 98-382
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  本測試的應徵者應能夠識別並書寫語法正確的 JavaScript 代碼，使用 JavaScript 支持的資料類型，而且要能夠識別並書寫能在邏輯上解決一個給定問題的 JavaScript 程式碼。
+
+  我們希望應徵者至少要參加過 100 個小時的與 JavaScript 程式語言相關的課程，或者具有類似的實際經驗。應徵者還應熟悉 JavaScript 的特徵和功能，並理解如何書寫、偵錯，以及維護語式正確、記載正確的 JavaScript 程式碼。
+subTitle: 本測試的應徵者應能夠識別並書寫語法正確的 JavaScript 代碼，使用 JavaScript 支持的資料類型，而且要能夠識別並書寫能在邏輯上解決一個給定問題的 JavaScript 程式碼。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiyb
+practiceTestUrl: https://www.mindhub.com/MTA-98-382-Intro-to-Programming-with-JavaScript-p/mu-98-382_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-382&examname=Introduction%20to%20Programming%20Using%20JavaScript&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-382
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- 帶有 JavaScript 運算子、方法和關鍵字的程式 (20-25%)
+- 使用變數、資料類型和函式設計程式 (25-30%)
+- 實作並分析決策和迴圈 (20-25%)
+- 與文件物件模型互動 (15-20%)
+- 與 HTML 表單互動 (5-10%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-javascript
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

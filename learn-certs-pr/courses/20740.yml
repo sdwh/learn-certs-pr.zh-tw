@@ -1,0 +1,316 @@
+### YamlMime:Course
+title: Installation, Storage, and Compute with Windows Server 2016
+metadata:
+  title: 'Course 20740-C: Installation, Storage, and Compute with Windows Server 2016'
+  description: 'Course 20740-C: Installation, Storage, and Compute with Windows Server 2016'
+uid: course.20740
+courseNumber: '20740-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 準備並安裝 Nano Server（安裝 Server Core ），並規劃伺服器升級和遷移策略。
+- skill: 描述各種存儲選項，包括分區表格式，基本和動態磁碟，檔案系統，虛擬硬碟和驅動器硬件，並說明如何管理磁碟和卷。
+- skill: 描述企業存儲解決方案，並為給定情況選擇適當的解決方案。
+- skill: 實作和管理存儲空間和重複資料移除。
+- skill: 安裝和設定 Microsoft Hyper-V，以及設定虛擬機。
+- skill: 部署、設定和管理 Windows 和 Hyper-V 容器。
+- skill: 描述 Windows Server 2016 中的高可用性和災難恢復技術。
+- skill: 規劃、建立和管理故障移轉群集。
+- skill: 為 Hyper-V 虛擬機實作故障移轉群集。
+- skill: 設定網路負載平衡（NLB）群集，並規劃 NLB 的實作。
+- skill: 建立和管理部署映像。
+- skill: 管理、監視和維護虛擬機安裝。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-740
+summary: |-
+  這個為期五天的課程主要是為具有 Windows Server 經驗的 IT 專業人員設計的。它專為負責使用 Windows Server 2016 管理存儲和計算，並且需要了解適用於 Windows Server 2016 的方案、要求以及存儲和計算選項的專業人員而設計。
+
+  #### 對象設定檔
+  本課程面向擁有一些使用 Windows Server 經驗的 IT 專業人員，他們在尋找涵蓋 Windows Server 2016 存儲和計算技術的為期五天的一門課程。本課程將幫助他們更新與 Windows Server 2016 存儲和計算相關的知識和技能。 
+
+  適合該課程的對象為&#58;
+  - Windows Server 管理員，他們是 Windows Server 管理和相關技術的新手，並且想了解有關 Windows Server 2016 存儲和計算功能的更多訊息。
+  - 具有一般 IT 知識的 IT 專業人員，他們希望獲得有關 Windows Server 的知識，尤其是有關 Windows Server 2016 存儲和計算技術的知識。
+
+  本課程的主要受眾是希望參加 Microsoft 70-740 認證測驗——Installation, Storage and Compute with Windows Server 2016——的 IT 專業人員。
+prerequisitesSection: |-
+  在參加本課程之前，學生必須具備&#58;
+  - 對網路基礎知識有基本了解。
+  - 對安全最佳實作的認識和理解。
+  - 了解基本的 AD DS 概念。
+  - 伺服器硬體的基本知識。
+  - 具有支援和設定 Windows 客戶端作業系統（例如 Windows 8 或 Windows 10）的經驗。
+
+  此外，學生將從以前的 Windows Server 作業系統經驗中受益，例如作為 Windows Server 系統管理員的經驗。
+outlineSection: |-
+  ### 模組 1&#58; 安裝、升級和遷移伺服器和工作負載
+  本模組描述 Windows Server 2016 的新功能，並說明如何準備和安裝 Nano Server 和 Server Core。本模組還描述如何規劃伺服器升級和遷移策略，並說明如何在域內和跨域執行伺服器角色和工作負載的遷移。最後，該模組說明如何根據您的環境特徵選擇激活模型。
+  #### 課程
+  - Windows Server 2016 導論
+  - 準備和安裝 Server Core
+  - 準備升級和遷移
+  - 遷移伺服器角色和工作負載
+  - Windows Server 激活模型
+
+
+  #### 實驗室&#58; 安裝和設定 Server Core
+  - 安裝 Server Core
+  - 在 Windows Server 2016 Core 上完成安裝後任務
+  - 執行遠端管理
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 Windows Server 2016 的新功能。
+  - 準備並安裝 Server Core。
+  - 規劃伺服器升級和遷移策略。
+  - 在域內和跨域執行伺服器角色和工作負載的遷移。
+  - 選擇合適的激活模型。
+
+
+  ### 模組 2&#58; 設定本地存儲
+  本模組說明如何在 Windows Server 2016 中管理磁碟和卷。
+  #### 課程
+  - 在 Windows Server 中管理磁碟
+  - 在 Windows Server 中管理卷
+
+
+  #### 實驗室&#58; 設定本地存儲
+  - 建立和管理卷
+  - 調整卷的大小
+  - 管理虛擬硬碟
+
+  完成本模組後，學生將能夠&#58;
+  - 在 Windows Server 中管理磁碟。
+  - 在 Windows Server 中管理卷。
+
+
+  ### 模組 3&#58; 實作企業存儲解決方案
+  本模組討論直接連接存儲（DAS），網路連接存儲（NAS）和存儲區域網路（SAN）。它還說明了 Microsoft Internet 存儲名稱服務（iSNS）伺服器，資料中心橋接（DCB）和多路徑 I / O（MPIO）的用途。此外，此模組比較光纖通道，Internet 小型計算機系統介面（iSCSI）和以太網光纖通道（FCoE），並描述如何在 Windows Server 2016 中設定共享。
+  #### 課程
+  - DAS，NAS 和 SAN 概述
+  - 比較光纖通道、iSCSI 和以太網光纖通道
+  - 了解 iSNS、DCB 和 MPIO
+  - 在 Windows Server 2016 中設定共享
+
+
+  #### 實驗室&#58; 規劃和設定存儲技術和元件
+  - 規劃存儲要求
+  - 設定 iSCSI 存儲
+  - 設定和管理共享基礎架構
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 DAS、NAS 和 SAN。
+  - 比較光纖通道、iSCSI 和 FCoE。
+  - 說明 iSNS、DCB 和 MPIO 的用法。
+  - 在 Windows Server 中設定共享。
+
+
+  ### 模組 4&#58; 實作 Storage Spaces和 Data Deduplication
+  本模組說明如何實作和管理 Storage Spaces。本模組還說明如何實作 Data Deduplication。
+  #### 課程
+  - 實作 Storage Spaces
+  - 管理 Storage Spaces
+  - 實作 Data Deduplication
+
+
+  #### 實驗室&#58; 實作 Storage Spaces
+  - 建立 Storage Space
+
+
+  #### 實驗室&#58; 實作 Data Deduplication
+  - 安裝 Data Deduplication
+  - 設定 Data Deduplication
+
+  完成本模組後，學生將能夠&#58;
+  - 根據企業存儲需求描述和實作 Storage Spaces 功能。
+  - 管理和維護 Storage Spaces。
+  - 描述和實作 Data Deduplication。
+
+
+  ### 模組 5&#58; 安裝和設定 Hyper-V 和虛擬機
+  本模組概述了 Hyper-V 和虛擬化。它說明如何安裝 Hyper-V，以及如何在 Hyper-V 主機伺服器上設定存儲和網路。此外，它還說明如何設定和管理 Hyper-V 虛擬機。
+  #### 課程
+  - Hyper-V 概述
+  - 安裝 Hyper-V
+  - 在 Hyper-V 主機伺服器上設定存儲
+  - 在 Hyper-V 主機伺服器上設定網路
+  - 設定 Hyper-V 虛擬機
+  - 管理虛擬機
+
+
+  #### 實驗室&#58; 安裝和設定 Hyper-V
+  - 驗證 Hyper-V 伺服器角色的安裝
+  - 設定 Hyper-V 網路
+  - 建立和設定虛擬機
+  - 為虛擬機啟用嵌套虛擬化
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 Hyper-V 和虛擬化。
+  - 安裝 Hyper-V。
+  - 在 Hyper-V 主機伺服器上設定存儲。
+  - 在 Hyper-V 主機伺服器上設定網路。
+  - 設定 Hyper-V 虛擬機。
+  - 管理 Hyper-V 虛擬機。
+
+
+  ### 模組 6&#58; 部署和管理 Windows 和 Hyper-V 容器
+  本模組概述 Windows Server 2016 中的容器。此外，本模組說明如何部署 Windows Server 和 Hyper-V 容器。它還說明如何使用 Docker 安裝、設定和管理容器。
+  #### 課程
+  - 概述 Windows Server 2016 中的容器
+  - 部署 Windows Server 和 Hyper-V 容器
+  - 使用 Docker 安裝、設定和管理容器
+
+
+  #### 實驗室&#58; 安裝和設定容器
+  - 使用 Windows PowerShell 安裝和設定 Windows Server 容器
+  - 使用 Docker 安裝和設定 Windows Server 容器
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 Windows Server 2016 中的容器。
+  - 說明如何部署容器。
+  - 說明如何使用 Docker 安裝、設定和管理容器。
+
+
+  ### 模組 7&#58; 高可用性和災難恢復概述
+  本模組概述高可用性和 Windows Server 2016 中的故障移轉群集的高可用性。它進一步說明如何使用 Hyper-V 虛擬機規劃高可用性和災難恢復解決方案。此外，本模組說明如何使用 Windows Server Backup 備份和還原 Windows Server 2016 作業系統和資料。
+  #### 課程
+  - 定義可用性級別
+  - 使用 Hyper-V 虛擬機規劃高可用性和災難恢復解決方案
+  - 使用 Windows Server Backup 備份和還原
+  - Windows Server 2016 中的故障移轉群集的高可用性
+
+
+  #### 實驗室&#58; 規劃和實作高可用性和災難恢復解決方案
+  - 確定適當的高可用性和災難恢復解決方案
+  - 實作存儲遷移
+  - 設定 Hyper-V 副本
+
+  完成本模組後，學生將能夠&#58;
+  - 定義可用性級別。
+  - 使用 Hyper-V 虛擬機規劃高可用性和災難恢復解決方案。
+  - 使用 Windows Server Backup 備份和還原資料。
+  - 描述 Windows Server 2016 中的故障移轉群集的高可用性。
+
+
+  ### 模組 8&#58; 實作故障移轉群集
+  本模組說明如何規劃故障移轉群集。它還說明如何建立、管理故障移轉群集並對其進行故障排除。
+  #### 課程
+  - 規劃故障移轉群集
+  - 建立和設定新的故障移轉群集
+  - 維護故障移轉群集
+  - 對故障移轉群集進行故障排除
+  - 透過拉伸群集實作站點高可用性
+
+
+  #### 實驗室&#58; 實作故障移轉群集
+  - 建立故障移轉群集
+  - 驗證仲裁設置並添加節點
+
+
+  #### 實驗室&#58; 管理故障移轉群集
+  - 逐出節點並驗證仲裁設置
+  - 將仲裁從磁碟見證更改為檔案共享見證，並定義節點投票
+  - 驗證高可用性
+
+  完成本模組後，學生將能夠&#58;
+  - 規劃故障移轉群集的實作。
+  - 建立和設定故障移轉群集。
+  - 維護故障移轉群集。
+  - 對故障移轉群集進行故障排除。
+  - 為站點實作高可用性和拉伸群集。
+
+
+  ### 模組 9&#58; 使用 Windows Server 2016 Hyper-V 實作故障移轉群集
+  本模組描述了 Hyper-V 如何與故障移轉群集集成。它還說明如何在故障移轉群集中實作 Hyper-V 虛擬機（VM）。
+  #### 課程
+  - 概述 Hyper-V Server 2016 與故障移轉群集的集成
+  - 在故障移轉群集上實作 Hyper-V VM
+  - 群集環境中 VM 的關鍵功能
+
+
+  #### 實驗室&#58; 使用 Windows Server 2016 Hyper-V 實作故障移轉群集
+  - 設定 iSCSI 存儲
+  - 為 Hyper-V 設定故障移轉群集
+  - 設定高可用性虛擬機
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 Hyper-V 如何與故障移轉群集集成。
+  - 在故障移轉群集上實作 Hyper-V VM。
+  - 描述群集環境中 VM 的關鍵功能。
+
+
+  ### 模組 10&#58; 實作網路負載平衡
+  本模組概述了 NLB 群集。它還說明如何規劃和設定 NLB 群集的實作。
+  #### 課程
+  - NLB 概述
+  - 設定 NLB 群集
+  - 規劃 NLB 實作
+
+
+  #### 實驗室&#58; 實作 NLB
+  - 實作網路負載平衡（NLB）群集
+  - 設定和管理 NLB 群集
+  - 驗證 NLB 群集的高可用性
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 NLB。
+  - 設定 NLB 群集。
+  - 說明如何規劃 NLB 的實作。
+
+
+  ### 模組 11&#58; 建立和管理部署映像
+  本模組概述了 Windows Server 2016 映像部署過程。它還說明如何使用 Microsoft 部署工具包（MDT）建立和管理部署映像。此外，它描述了虛擬機環境中的不同工作負載。
+  #### 課程
+  - 部署映像導論
+  - 使用 MDT 建立和管理部署映像
+  - 適用於不同工作負載的虛擬機環境
+
+
+  #### 實驗室&#58; 使用 MDT 部署 Windows Server 2016
+  - 設定 MDT
+  - 建立和部署映像
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 Windows Server 2016 映像部署過程。
+  - 使用 MDT 建立和管理部署映像。
+  - 描述虛擬機環境中的不同工作負載。
+
+
+  ### 模組 12&#58; 管理、監視和維護虛擬機安裝
+  本模組概述了 Windows Server Update Services（WSUS）以及實作 WSUS 的要求。它說明如何使用 WSUS 管理更新過程。此外，本模組概述了 Windows PowerShell 所需狀態設定（DSC）和 Windows Server 2016 監視工具。最後，該模組描述如何使用性能監視器以及如何管理事件日誌。
+  #### 課程
+  - WSUS 概述和部署選項
+  - 使用 WSUS 更新管理流程
+  - Windows PowerShell DSC 概述
+  - Windows Server 2016 監視工具概述
+  - 使用效能監視器
+  - 監視事件日誌
+
+
+  #### 實驗室&#58; 實作 WSUS 和部署更新
+  - 實作 WSUS
+  - 設定更新設置
+  - 使用 WSUS 批准和部署更新
+
+
+  #### 實驗室&#58; 監視和故障排除 Windows Server 2016
+  - 建立績效基準
+  - 確定性能問題的根源
+  - 查看和設定集中式事件日誌
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 WSUS 的目的和實作 WSUS 的要求。
+  - 使用 WSUS 管理更新過程。
+  - 描述 Windows PowerShell DSC 的目的和好處。
+  - 描述 Windows Server 2016 中可用的監視工具。
+  - 使用性能監視器。
+  - 管理事件日誌。
+

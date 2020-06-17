@@ -1,0 +1,170 @@
+### YamlMime:Course
+title: Implementing Microsoft Azure Cosmos DB Solutions
+metadata:
+  title: 'Course 20777-A: Implementing Microsoft Azure Cosmos DB Solutions'
+  description: 'Course 20777-A: Implementing Microsoft Azure Cosmos DB Solutions'
+uid: course.20777
+courseNumber: '20777-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 Azure Cosmos DB 的目的和結構。
+- skill: 描述如何設計文件和集合以滿足商務需求，以及如何使用 SQL API 組建使用這些文件的應用程式。
+- skill: 描述如何建立使用者定義的函數，儲存程序和觸發程序。
+- skill: 描述如何調整資料庫以及如何監視效能。
+- skill: 描述如何使用 Cosmos DB 建立有效的圖形資料庫模型。
+- skill: 描述如何將 Azure 搜尋、HDInsight、Azure Databricks 和 Power BI 與 Cosmos DB 一起使用來查詢和分析巨量分析。
+- skill: 描述如何使用 Cosmos DB 作為串流資料的來源和接收。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- solution-architect
+products:
+- azure-cosmos-db
+exams:
+- uid: exam.70-777
+summary: |-
+  此為期三天的教師主導的課程針對希望實作 Cosmos DB 解決方案的資料庫專業人員。
+
+  #### 對象設定檔
+  本課程的主要對象是計劃使用 Cosmos DB 在 Azure上 實作巨量資料解決方案的資料庫開發人員和架構師（IT專業人員、開發人員和資訊工作者）。
+prerequisitesSection: |-
+  除專業經驗外，參加此訓練的學生應已具備以下技術知識&#58;
+  - 分割，複寫和資源管理的基本概念，用於組建和設定與 Cosmos DB API 無關的可擴充應用程式。
+  - Cosmos DB SQL API 的基本工作知識。
+outlineSection: |-
+  ### 模組 1&#58; Azure Cosmos DB 簡介
+  描述 Cosmos DB 的目的和結構。
+  #### 課程
+  - 檢閱 NoSQL 資料庫結構
+  - 將資料和應用程式移轉到 Cosmos DB
+  - 在 Cosmos DB 中管理資料
+
+
+  #### 實驗室 &#58; 在 Cosmos DB 中建立和使用 SQL API 資料庫
+  - 建立和設定 Cosmos DB 資料庫
+  - 將資料從 Mongo DB 資料庫移轉到 Cosmos DB
+  - 使用 SQL API 存取資料
+  - 保護 Cosmos DB 資料庫中的資料
+
+  完成本模組後，學生將能夠&#58;
+  - 建立和設定 Cosmos DB
+  - 將資料從 Mongo DB 資料庫移轉到 Cosmos DB 資料庫
+  - 描述使用 SQL API 存取資料。
+  - 描述如何保護 Cosmos DB 中的資料。
+
+
+  ### 模組 2&#58; 設計和實作 SQL API 資料庫應用程式
+  本模組描述如何設計文件和集合以滿足商務需求，以及如何使用 SQL API 組建使用這些文件的應用程式。
+  #### 課程
+  - 在 Cosmos DB 中的文件模型
+  - 查詢 SQL API 資料庫中的資料
+  - 以程式設計方式查詢和維護資料
+
+
+  #### 實驗室 &#58; 設計和實作 SQL API 資料庫應用程式
+  - 設計零售系統產品目錄的文建結構和分割策略
+  - 匯入產品目錄資料
+  - 查詢產品目錄資訊
+  - 維持產品目錄中的庫存等級
+
+  完成本模組後，學生將能夠&#58;
+  設計支援商務需求並實作有效營運的 NoSQL 文件結構。
+  - 描述如何對 SQL API 資料庫執行 SQL 查詢。
+  - 說明如何以程式設計方式在 SQL API 資料庫中插入，修改，刪除和查詢資料。
+
+
+  ### 模組 3&#58; 實作伺服器端的作業
+  描述如何建立使用者定義的函數，儲存程序和觸發程序。
+  #### 課程
+  - 使用 Cosmos DB 進行伺服器端程式設計
+  - 建立和使用儲存程序
+  - 使用觸發程序維持資料完整性
+
+
+  #### 實驗室 &#58; 撰寫使用者定義的函數，儲存程序和觸發程序。
+  - 設計並實作文件和收集結構
+  - 在線上零售系統中實作購物車功能。
+  - 擴充線上零售系統從購物車中的商品建立訂單。
+  - 進一步擴充零售系統，使客戶能夠檢視訂單和預訂。
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 Cosmos DB 如何透過撰寫 JavaScript 程式碼使您能夠實作伺服器端的作業。
+  - 描述如何使用 JavaScript Query API 透過儲存程序實作交易作業。
+  - 描述在插入，更新和刪除文件時如何使用建立觸發程序來維護完整性。
+
+
+  ### 模組 4&#58; 最佳化和監視效能
+  描述如何最佳化資料庫以及如何監視效能。
+  #### 課程
+  - 最佳化資料庫效能
+  - 監視資料庫的效能
+
+
+  #### 實驗室 &#58; 調整資料庫並監視效能
+  - 收集執行統計資料
+  - 檢查不同的一致性模型如何影響輸送量和延遲
+  - 調查觸發程序對效能的影響
+  - 監視效能並調整分割區索引鍵
+
+  完成本模組後，學生將能夠&#58;
+  - 描述如何調整資料庫和集合的室定以獲得最佳效能。
+  - 描述如何評估文件資料庫的效能並識別提高輸送量的選項。
+
+
+  ### 模組 5&#58; 設計和實作圖形資料庫
+  本模組描述如何使用 Cosmos DB 建立有效的圖形資料庫模型。
+  #### 課程
+  - 在 Cosmos DB 中的圖形資料庫模型
+  - 設計圖形資料庫模型以進行有效作業
+
+
+  #### 實驗室&#58; 設計和實作圖形資料庫
+  - 為客戶實作推薦引擎
+  - 記錄產品購買資訊
+  - 查詢圖形資料庫以取得分析
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 Cosmos DB 提供用於實作圖形資料庫的功能。
+  - 設計支援商務需求並實作有效營運的 NoSQL 圖形結構。
+
+
+  ### 模組 6&#58; 使用 Cosmos DB 查詢和分析巨量資料
+  本模塊描述如何將 Azure Search 和 HDInsight 與 Cosmos DB 一起使用來查詢和分析巨量資料。
+  #### 課程
+  - 將 Cosmos DB 與 Azure 搜尋整合以最佳化查詢
+  - 使用 Apache Spark 分析 Cosmos DB 資料庫中的資料
+  - 視覺化 Cosmos DB 資料庫中的資料
+
+
+  #### 實驗室 &#58; 使用 Cosmos DB 查詢和分析巨量資料
+  - 擴充產品搜尋功能
+  - 執行月底處理
+  - 視覺化銷售資料
+  - 探索銷售資料
+
+  在本模組的最後，學生將能夠&#58;
+  - 描述如何將 Cosmos DB 與 Azure 搜尋整合在一起以對巨量資料執行有效的查詢處理。
+  - 描述如何使用 Apache Spark 分析 Cosmos DB 中保留的巨量資料。
+  - 描述如何使用 Jupyter 筆記本，Power BI 和 Azure Databricks 在 Cosmos DB 中視覺化資料。
+
+
+  ### 模組 7&#58; 使用Cosmos DB 實作串流處理
+  本模組描述如何使用 Cosmos DB 作為串流資料的來源和接收。
+  #### 課程
+  - 使用 Cosmos DB 變更摘要
+  - 將 Cosmos DB 整合到串流解決方案中
+
+
+  #### 實驗室 &#58; 將Cosmos DB與串流處理一起使用
+  - 處理訂單
+  - 維護庫存分析資料
+  - 顯示給定時間段內的累積收入
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 Cosmos DB 變更摘要，以及如何使用來有效率地處理資料。
+  - 說明如何將 Cosmos DB 整合到串流解決方案中，例如 Apache Kafka，Apache Spark 和 Azure 串流分析。
+

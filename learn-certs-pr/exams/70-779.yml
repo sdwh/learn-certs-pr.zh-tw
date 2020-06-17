@@ -1,0 +1,48 @@
+### YamlMime:Examination
+title: Analyzing and Visualizing Data with Microsoft Excel
+metadata:
+  title: 'Exam 70-779: Analyzing and Visualizing Data with Microsoft Excel'
+  description: 'Exam 70-779: Analyzing and Visualizing Data with Microsoft Excel'
+uid: exam.70-779
+displayName: 70-779
+summary: |-
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  </div>
+
+  本測試的應試者應該能夠良好地理解如何使用 Microsoft Excel 來執行資料分析。應試者還應當能夠使用、轉化、建模以及視覺化 Excel 中的資料。應試者還應具有在 PowerPivot, PivotTables, 和 PivotCharts 中設定和處理資料的能力。應試者可能包括 BI 專業人員、資料分析師，以及其他負責使用 Excel 分析資料的相關職業人員。
+subTitle: 本測試的應試者應該能夠良好地理解如何使用 Microsoft Excel 來執行資料分析。應試者還應當能夠使用、轉化、建模以及視覺化 Excel 中的資料。應試者還應具有在 PowerPivot, PivotTables, 和 PivotCharts 中設定和處理資料的能力。應試者可能包括 BI 專業人員、資料分析師，以及其他負責使用 Excel 分析資料的相關職業人員。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t555
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-779&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Excel&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-779
+locales:
+- en
+levels:
+- advanced
+skills:
+- 用 Microsoft Excel 使用和轉換資料 (30-35%)
+- 建模資料 (35-40%)
+- 視覺化資料 (30-35%)
+roles:
+- data-analyst
+products:
+- office-excel
+courses:
+- uid: course.20779
+relatedCertifications:
+- related:
+    uid: certification.mcsa-bi-reporting
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

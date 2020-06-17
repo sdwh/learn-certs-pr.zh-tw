@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Introduction to Programming Using Java
+metadata:
+  title: 'Exam 98-388: Introduction to Programming Using Java'
+  description: 'Exam 98-388: Introduction to Programming Using Java'
+uid: exam.98-388
+displayName: 98-388
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  此測驗的應試者包括使用 Java 6 SE 或更新版本的應用程式開發人員，中階或剛剛高於中階的軟體開發專業的學生，或初階軟體開發人員。
+
+  應試者應具有至少 150 小時或者接受 Java 訓練或具有實際操作經驗，熟悉 Java 的特性和功能，並且懂得如何編寫，偵錯和維護良好格式、紀錄的 Java 程式碼。
+subTitle: 此測驗的應試者包括使用 Java 6 SE 或更新版本的應用程式開發人員，中階或剛剛高於中階的軟體開發專業的學生，或初階軟體開發人員。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyR
+practiceTestUrl: https://www.mindhub.com/product-p/mu-98-388_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-388&examname=Introduction%20to%20Programming%20Using%20Java&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-388
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- 瞭解Java基礎知識 (15-20%)
+- 使用資料類型，變數和運算式 (40-45%)
+- 實作流量控制 (15-20%)
+- 執行物件導向的程式設計 (10-15%)
+- 編譯和偵錯程式碼 (5-10%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-java
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,187 @@
+### YamlMime:Course
+title: Analyzing Data with Excel
+metadata:
+  title: 'Course 20779-B: Analyzing Data with Excel'
+  description: 'Course 20779-B: Analyzing Data with Excel'
+uid: course.20779
+courseNumber: '20779-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 探索並擴充傳統的 Excel 儀表板。
+- skill: 探索並擴充 Excel 資料模型。
+- skill: 預格式化並匯入 .CSV 檔案。
+- skill: 從 SQL Server 資料庫匯入資料
+- skill: 從報告匯入資料。
+- skill: 使用進階 DAX 功能建立量值
+- skill: 在 Excel 中建立資料視覺效果。
+- skill: 使用 Excel 建立 Power BI 儀表板。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-analyst
+products:
+- office-excel
+exams:
+- uid: exam.70-779
+summary: "課程的主要目的是使學生能夠將 BI 技術新增到 Excel 資料分析中。該課程超越了資料表和圖表的功能，並使用了樞紐分析圖，Excel 資料模型和 Power BI。\n\n#### 對象設定檔\n本課程適用於經驗豐富的使用 Excel 分析資料並且希望增加 BI 技術的學生。 \n\n對展示資料的替代方法感興趣的 SQL Server 報表建立者可能會參加本課程。"
+prerequisitesSection: |-
+  在參加本課程之前，學生必須具備&#58;
+  - Microsoft Windows 作業系統及其核心功能的基本知識。
+  - 關聯式資料庫的工作知識。
+  - 對 Excel 試算表的廣泛知識，包括公式，圖表，篩選，排序和小計。
+  - 相當於已經參加課程 10994 的資料分析基本知識。
+outlineSection: |-
+  ### 模組 1&#58; 在 Excel 中資料分析
+  本模組著眼於傳統的 Excel 儀表板及其擴充方式。
+  #### 課程
+  - Excel 的傳統資料分析
+  - Excel 樞紐分析表
+  - 傳統資料分析限制
+
+
+  #### 實驗室 &#58; 組建傳統的 Excel 儀表板
+  - 格式化資料
+  - 組建樞紐分析表
+  - 新增樞紐分析圖和交叉分析篩選器
+
+  完成本模組後，學生將能夠&#58;
+  - 使用 Excel 描述傳統資料分析
+  - 描述 Excel 樞紐分析表
+  - 描述使用Excel進行經典數據分析的局限性
+
+
+  ### 模組 2&#58; Excel 資料模型
+  本模塊著眼於傳統的 Excel 儀表板及其擴充方式。
+  #### 課程
+  - 使用 Excel 資料模型
+  - DAX
+
+
+  #### 實驗室 &#58; 探索 Excel 資料模型
+  - 建立計算資料行
+  - 格式化資料模型資料
+  - 建立量值
+  - 分析資料
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 Excel 資料模型
+  - 在 Excel 資料表中檢視資料
+  - 描述 DAX
+
+
+  ### 模組 3&#58; 從檔案匯入資料
+  該模組著眼於預先格式化和匯入 CSV 檔案。
+  #### 課程
+  - 將資料匯入 Excel
+  - 成形和轉換資料
+  - 載入資料中
+
+
+  #### 實驗室 &#58; 從 CSV 檔案匯入資料
+  - 從 CSV 檔案匯入和轉換資料
+  - 從資料夾新增資料
+
+  完成本模組後，學生將能夠&#58;
+  - 將資料匯入 Excel。
+  - 成形和轉換資料。
+  - 載入資料。
+
+
+  ### 模組 4&#58; 從資料庫匯入資料
+  本模組著眼於如何從 SQL Server 資料庫將資料匯入 Excel。
+  #### 課程
+  - 可用的資料來源
+  - 預覽、成形和轉換資料
+  - 資料表關聯性和階層架構
+  - 載入資料中
+
+
+  #### 實驗室 &#58; 從多個來源匯入資料
+  - 從 SQL Server 匯入資料
+  - 從 CSV 檔案匯入資料
+  - 建立資料表
+
+  完成本模組後，學生將能夠&#58;
+  - 識別可用的資料來源。
+  - 預覽、成形和轉換資料。
+  - 說明資料表關聯性和階層架構。
+  - 從各種來源載入資料。
+
+
+  ### 模組 5&#58; 從 Excel 報表匯入資料
+  本模組描述如何從報告中會入資料。
+  #### 課程
+  - 從 Excel 報告匯入資料
+  - 轉換 Excel 報表資料
+
+
+  #### 實驗室 &#58; 從報告匯入資料
+  - 從 Excel 匯入資料
+  - 轉換 Excel 資料
+  - 將資料載入到 Excel 資料模型中
+
+  完成本模組後，學生將能夠&#58;
+  - 從 Excel 報告匯入資料。
+  - 轉換 Excel 報告資料。
+
+
+  ### 模組 6&#58; 建立和格式化量值
+  本模組描述如何建立和格式化量值。
+  #### 課程
+  - DAX
+  - 量值
+  - 進階的 DAX 函數
+
+
+  #### 實驗室 &#58; 使用進階 DAX 函數建立量值
+  - 去年相比
+  - 年初至今
+  - 市場佔有率
+
+  完成本模組後，學生將能夠&#58;
+  - 說明什麼是 DAX 以及何時使用。
+  - 描述量值。
+  - 在 DAX 中使用某些進階函數。
+
+
+  ### 模組 7&#58; 在 Excel 中視覺化資料
+  本模組描述如何視覺化資料。
+  #### 課程
+  - 樞紐分析圖
+  - Cube 函數
+  - Cube 函數的圖表
+
+
+  #### 實驗室 &#58; 在 Excel 中資料視覺化
+  - 建立表格式報告
+  - 建立樞紐分析圖
+  - 將交叉分析篩選器新增到圖表
+
+  完成本模組後，學生將能夠&#58;
+  - 建立並最佳化樞紐分析圖。
+  - 描述 Cube 函數以及何時使用。
+  - 描述用於Cube 函數的許多圖表。
+
+
+  ### 模組 8&#58; 使用 Excel 與 Power BI
+  本模組介紹如何使用 Excel 與 Power BI。
+  #### 課程
+  - Power BI
+  - 將 Excel 資料上傳到 Power BI
+  - Power BI 行動應用程式
+
+
+  #### 實驗室 &#58; 使用 Excel 建立 Power BI 儀表板。
+  - 上傳 Excel 資料
+  - 建立 Power BI 儀表板
+  - 使用 Power BI 桌面
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 Power BI 和可用的各種版本。
+  - 將 Excel 資料上傳到 Power BI。
+  - 描述 Power BI 應用程式。
+

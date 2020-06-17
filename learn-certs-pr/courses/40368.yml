@@ -1,0 +1,104 @@
+### YamlMime:Course
+title: 'Mobility & Devices Fundamentals: MTA Exam 98-368'
+metadata:
+  title: 'Course 40368-A: Mobility & Devices Fundamentals: MTA Exam 98-368'
+  description: 'Course 40368-A: Mobility & Devices Fundamentals: MTA Exam 98-368'
+uid: course.40368
+courseNumber: '40368-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 了解裝置設定
+- skill: 了解資料存取與管理
+- skill: 了解裝置安全性
+- skill: 了解雲端服務
+- skill: 了解企業行動力
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+exams:
+- uid: exam.98-368
+summary: |-
+  為期三天的 MTA 訓練課程可幫助您為 Microsoft Technology Associate Exam 98-368 做好準備，並加深對這些主題的了解； 裝置設定，資料存取和管理，裝置安全性，雲端服務和企業移動力。
+
+  #### 對象設定檔
+  Microsoft Technology Associate（MTA）是 Microsoft 最新的技術認證測驗套件，驗證開始使用 Microsoft 技術建立職業所需的基本知識。本計劃為未來的技術職業提供適當的切入點，並且具有一定的實作經驗或訓練，但不具有在職經驗。
+outlineSection: |-
+  ### 模組 1&#58; 了解裝置設定
+  #### 課程
+  - 設定裝置選項
+  - 配置組織設定
+  - 設定驅動加密
+  - 設定更新
+
+  完成本模組後，您將能夠&#58;
+  - 設定裝置選項
+  - 配置桌面設定
+  - 設定驅動加密
+  - 設定更新
+
+
+  ### 模組 2&#58; 了解資料存取和管理
+  #### 課程
+  - 了解雲端儲存服務
+  - 了解本機存放區
+  - 了解檔案系統
+  - 了解檔案和列印共用
+  - 了解資料加密
+
+  完成本模組後，您將能夠&#58;
+  - 了解雲端儲存服務
+  - 了解本機存放區
+  - 了解檔案系統
+  - 了解檔案和列印共用
+  - 了解資料加密
+
+
+  ### 模組 3&#58; 了解裝置安全性
+  #### 課程
+  - 了解網際網路、內部網路和外部網路之間的差異
+  - 了解使用者驗證
+  - 了解權限
+  - 了解惡意程式碼
+
+  完成本模組後，您將能夠&#58;
+  - 了解網際網路，內部網路和外部網路之間的差異
+  - 了解使用者驗證
+  - 了解權限
+  - 了解惡意程式碼
+
+
+  ### 模組 4&#58; 了解雲端服務
+  #### 課程
+  - 了解雲端服務的類型
+  - 了解 Microsoft Intune
+  - 了解 Microsoft Intune 功能
+  - 了解 Microsoft Azure
+  - 了解虛擬機器
+  - 了解災害復原，高可用性，冗餘和容錯
+
+  完成本模組後，您將能夠&#58;
+  - 了解雲端服務的類型
+  - 了解 Microsoft Intune 和其功能
+  - 了解 Microsoft Azure
+  - 了解虛擬機器
+  - 了解災害復原，高可用性，冗餘和容錯
+
+
+  ### 模組 5&#58; 了解企業行動力
+  #### 課程
+  - 了解識別服務
+  - 了解商務資料存取
+  - 了解攜帶您自己的裝置（BYOD）
+
+  完成本模組後，您將能夠&#58;
+  - 了解識別服務
+  - 了解商務資料存取
+  - 了解攜帶您自己的裝置（BYOD）
+

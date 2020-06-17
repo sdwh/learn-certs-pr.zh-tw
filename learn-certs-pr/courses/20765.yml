@@ -1,0 +1,230 @@
+### YamlMime:Course
+title: Provisioning SQL Databases
+metadata:
+  title: 'Course 20765-C: Provisioning SQL Databases'
+  description: 'Course 20765-C: Provisioning SQL Databases'
+uid: course.20765
+courseNumber: '20765-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 佈建資料庫伺服器
+- skill: 升級 SQL Server
+- skill: 設定 SQL Server
+- skill: 管理資料庫和檔案（共用）
+- skill: 在雲端中佈建，移轉和管理資料庫
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-765
+summary: |-
+  本課程旨在教導學生如何在內部部署和 SQL Azure 中佈建 SQL Server 資料庫。
+
+  #### 對象設定檔
+  本課程的主要對象是管理和維護 SQL Server 資料庫的人員。這些個人將資料庫管理和維護作為他們的主要職責範圍，或者在資料庫於其主要工作中扮演關鍵角色的環境中工作。
+
+  本課程的次要對象是開發可從 SQL Server 資料庫提供內容的應用程式的個人。
+prerequisitesSection: |-
+  本課程要求您滿足以下先決條件&#58;
+  - Microsoft Windows 作業系統及其核心功能的基本知識。
+  - Transact-SQL 的工作知識。 
+  - 關聯式資料庫的工作知識。 
+  - 有一些資料庫設計經驗。
+outlineSection: |-
+  ### 模組 1&#58; SQL Server 元件
+  本模組描述各種 SQL Server 元件和版本。
+  #### 課程
+  - SQL Server 平台簡介
+  - SQL Server 結構的概觀
+  - SQL Server 服務和設定選項
+
+  完成本模組後，您將能夠&#58; 
+  - 描述 SQL Server 元件和版本。
+  - 描述 SQL Server 結構和資源使用情況。
+  - 描述 SQL Server 服務以及如何管理這些服務的設定。
+
+
+  ### 模組 2&#58; 安裝 SQL Server
+  本模組介紹安裝 SQL Server 2016 的流程。
+  #### 課程
+  - SQL 安裝伺服器的考量
+  - TempDB 檔案
+  - 安裝 SQL Server
+  - 自動化安裝
+
+
+  #### 實驗室 &#58; 安裝 SQL Server
+  - 準備安裝 SQL Server
+  - 安裝 SQL Server 執行個體
+  - 執行安裝後檢查
+  - 自動化安裝
+
+  完成本模組後，您將能夠&#58; 
+  - 描述安裝 SQL Server 時的考量。
+  - 描述 TempDB 檔案。
+  - 安裝 SQL Server。
+  - 自動化 SQL Server 安裝。
+
+
+  ### 模組 3&#58; 將 SQL Server 升級到 SQL Server 2017
+  本模組描述升級到 SQL Server 2017 的流程。
+  #### 課程
+  - 升級要求
+  - 升級 SQL Server 服務
+  - 並存升級&#58; 移轉 SQL Server 資料和應用程式
+
+
+  #### 實驗室 &#58; 升級 SQL Server
+  - 建立應用程式登入
+  - 還原 TSQL 資料庫的備份
+  - 孤立使用者和資料庫相容性等級
+
+  完成本模組後，您將能夠&#58; 
+  - 描述 SQL Server 升級的要求。 
+  - 升級 SQL Server。
+  - 移轉 SQL Server 資料和應用程式。
+
+
+  ### 模組 4&#58; 使用資料庫
+  本模組描述預先安裝的系統資料庫，資料庫的實體結構以及與它們相關的最常用設定選項。
+  #### 課程
+  - SQL Server 資料儲存體簡介
+  - 管理系統資料庫的儲存
+  - 管理使用者資料庫的儲存體
+  - 移動和複製資料庫檔案
+  - 緩衝區集區擴充
+
+
+  #### 實驗室 &#58; 管理資料庫儲存體
+  - 設定 tempdb 儲存體
+  - 建立資料庫
+  - 附加資料庫
+  - 啟用緩衝區集區擴充
+
+  完成本模組後，您將能夠&#58; 
+  - 描述使用 SQL Server 資料儲存體
+  - 管理系統資料庫的儲存體。
+  - 管理使用者資料庫的儲存體。
+  - 移動和複製資料庫檔案。
+  - 描述和使用緩衝區集區擴充。
+
+
+  ### 模組 5&#58; 執行資料庫維護
+  本模組涵蓋資料庫維護計劃。
+  #### 課程
+  - 確保資料庫完整性
+  - 維護索引
+  - 自動化例行資料庫維護
+
+
+  #### 實驗室 &#58; 執行資料庫維護
+  - 使用 DBCC CHECKDB 驗證資料庫完整性
+  - 重建索引
+  - 建立資料庫維護計劃
+
+  完成本模組後，您將能夠&#58; 
+  - 確保資料庫完整性。
+  - 維護索引。
+  - 自動化例行資料庫維護。
+
+
+  ### 模組 6&#58; 資料庫儲存體選項
+  描述 SQL Server 儲存體選項。
+  #### 課程
+  - SQL Server 儲存體效能
+  - SMB 檔案共用
+  - Microsoft Azure 中的 SQL Server 儲存體
+  - 延展資料庫
+
+
+  #### 實驗室 &#58; 實作延展資料庫
+  - 執行 Stretch Database Advisor
+  - 實作延展資料庫
+
+  完成本模組後，您將能夠&#58; 
+  - 描述 SQL Server 儲存體效能。
+  - 描述 SMB 檔案共用。 
+  - 說明 Microsoft Azure 中的 SQL Server 儲存體。
+  - 描述延展資料庫
+
+
+  ### 模組 7&#58; 計劃在 Microsoft Azure 上部署 SQL Server
+  本模組描述如何計劃在 Azure 上部署 SQL Server。
+  #### 課程
+  - Azure 中的 SQL Server 虛擬機器
+  - Azure 儲存體
+  - Azure SQL 驗證
+  - 部署 Azure SQL 資料庫
+
+
+  #### 實驗室 &#58; 計畫和部署 Azure SQL 資料庫
+  - 計畫 Azure SQL 資料庫、網路、效能層、安全性
+  - 佈建 Azure SQL 資料庫
+  - 連線到 Azure SQL 資料庫
+
+  完成本模組後，您將能夠&#58; 
+  - 描述 Azure 中的 SQL Server 虛擬機器。
+  - 描述 Azure 儲存體。 
+  - 說明 Azure SQL 驗證，稽核和合規性。
+  - 部署 Azure SQL 資料庫中
+
+
+  ### 模組 8&#58; 將資料庫移轉到 Azure SQL 資料庫
+  本模組描述如何將資料庫移轉到 Azure SQL 資料庫。
+  #### 課程
+  - 資料庫移轉測試工具
+  - 資料庫移轉相容性問題
+  - 將 SQL Server 資料庫移轉到 Azure SQL 資料庫。
+
+
+  #### 實驗室 &#58; 將 SQL Server 資料庫移轉到 Azure
+  - 執行移轉測試
+  - 將 SQL Server 資料庫移轉到 Azure SQL 資料庫。
+  - 測試已移轉的資料庫
+
+  完成本模組後，學生將能夠&#58;
+  - 描述各種資料庫移轉測試工具。
+  - 說明資料庫移轉相容性問題。
+  - 將 SQL Server 資料庫移轉到 Azure SQL 資料庫。
+
+  ### 模組 9&#58; 在 Microsoft Azure 虛擬機器上部署 SQL Server
+  本模組描述如何在 Microsoft Azure VMs上部署 SQL Server。
+  #### 課程
+  - 在 Azure VM 上部署 SQL Server
+  - 部署資料庫到 Microsoft Azure VM 精靈
+
+
+  #### 實驗室 &#58; 在 Azure 虛擬機器上部署 SQL Server
+  - 佈建 Azure VM
+  - 使用部署資料庫到 Azure VM 精靈
+
+  完成本模組後，學生將能夠&#58;
+  - 在Azure VM 上部署 SQL Server。
+  - 使用部署資料庫到 Microsoft Azure VM 精靈
+  - 設定 SQL Server 連線
+
+
+  ### 模組 10&#58; 在雲端中管理資料庫
+  本模組描述如何在 Azure 上部署 SQL Server。
+  #### 課程
+  - 管理 Azure SQL 資料庫安全性
+  - 設定Azure 儲存體
+  - Azure 自動化
+
+
+  #### 實驗室 &#58; 在雲端中管理資料庫
+  - 新增資料遮罩
+  - 使用 Azure自動化停止虛擬機器
+
+  完成本模組後，學生將能夠&#58;
+  - 管理 Azure SQL 資料庫安全性。
+  - 設定Azure 儲存體
+  - 實作 Azure 自動化
+

@@ -1,0 +1,54 @@
+### YamlMime:Examination
+title: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance
+metadata:
+  title: 'Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
+  description: 'Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
+uid: exam.mb-6-894
+displayName: MB6-894
+summary: |-
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  </div>
+
+  此測驗的的應試者是技術顧問，程式設計師或IT人員，實作需要自訂 Microsoft Dynamics 365 Finance 以及 Microsoft Dynamics 365 Commerce 的基本技術與開發任務。
+
+  應試者應具有 Microsoft Dynamics 365 Finance 以及 Microsoft Dynamics 365 for Commerce基本知識。另外，必需具有 Visual Studio 與物件導向程式設計的經驗。
+
+  參加此開發測驗的候選人對於程式設計概念和流程應有適度的瞭解，並且應了解適用於不同商務流程案例的 Finance and Commerce 修改，增強功能以及新的開發專案 。
+
+  <div style='font-weight&#58; bold;'><br/>2020年2月4日，更新此測驗內容。要了解有關這些變更以及它們如何影響所測技能的更多資訊，請下載並檢閱 MB6-894 測驗變更文件。</div>
+subTitle: 此測驗的的應試者是技術顧問，程式設計師或IT人員，實作需要自訂 Microsoft Dynamics 365 Finance 以及 Microsoft Dynamics 365 Commerce 的基本技術與開發任務。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oaj7
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=MB6-894&examname=Development,%20Extensions,%20and%20Deployment%20for%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-894
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 瞭解架構與開發環境 (20-25%)
+- 使用 Application Explorer 開發新元素 (20-25%)
+- 讀寫基本X ++ (20-25%)
+- 管理開發者的使用者界面與安全 (20-25%)
+- 開發與擴充零售元件 (15-20%)
+roles:
+- business-analyst
+products:
+- dynamics-finance
+relatedCertifications:
+- related:
+    uid: certification.mcsa-microsoft-dynamics-365-for-operations
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

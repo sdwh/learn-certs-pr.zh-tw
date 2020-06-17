@@ -1,0 +1,322 @@
+### YamlMime:Course
+title: Identity with Windows Server 2016
+metadata:
+  title: 'Course 20742-B: Identity with Windows Server 2016'
+  description: 'Course 20742-B: Identity with Windows Server 2016'
+uid: course.20742
+courseNumber: '20742-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 安裝和設定域控制器。
+- skill: 使用圖形工具和 Windows PowerShell 在 AD DS 中管理對象。
+- skill: 在復雜的環境中實作 AD DS。
+- skill: 實作和管理 Active Directory 權限管理服務（AD RMS）。
+- skill: 實作 AD DS 站點，並設定和管理複製。
+- skill: 實作和管理組策略對象（GPO）。
+- skill: 透過使用 GPO 管理用戶設置。
+- skill: 保護 AD DS 和用戶帳戶。
+- skill: 使用 AD CS 實作和管理證書頒發機構（CA）層次結構。
+- skill: 部署和管理證書。
+- skill: 實作和管理 AD FS。
+- skill: 在 AD DS 和 Azure AD 之間實現同步。
+- skill: 監視、疑難排解並建立 AD DS 服務的業務連續性。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-742
+summary: |-
+  這個為期五天的講師指導課程教授 IT 專業人員如何在分佈式環境中部署和設定 Active Directory 域服務（AD DS），如何實作組策略，如何執行備份和還原以及如何使用 Windows Server 2016 監視和解決 Active Directory 的問題。此外，本課程還教學生如何部署其他 Active Directory 伺服器角色，例如 Active Directory 聯合身份驗證服務（AD FS）和 Active Directory 證書服務（AD CS）。
+
+  #### 對象設定檔
+  本課程主要面向擁有一些 AD DS 知識和經驗並且旨在開發有關 Windows Server 2016 身份和存取技術的知識的現职 IT 專業人員。受眾通常包括&#58;
+  - 希望獲得 Windows Server 2012 或 Windows Server 2016 進行身份和存取技術培訓的 AD DS 管理員。
+  - 具有一般 AD DS 經驗和知識的系統或基礎結構管理員，他們希望獲得 Windows Server 2012 或 Windows Server 2016 核心和高級身份和存取技術的交叉培訓。
+
+  除了準備為 70-742 測驗備考的 IT 專業人員之外，本課程的次要受眾還包括希望鞏固其 AD DS 和相關技術知識的 IT 專業人員。
+prerequisitesSection: |-
+  在參加本課程之前，學生必須具備&#58;
+  - 了解 Windows Server 2012 或 Windows Server 2016 的 AD DS 概念和技術並有一些經驗。
+  - 使用和設定 Windows Server 2012 或 Windows Server 2016 的經驗
+  - 有核心網路技術（例如 IP 尋址、名稱解析和動態主機設定協議（DHCP））的經驗並對其有所了解。
+  - 具有使用 Microsoft Hyper-V 和基本伺服器虛擬化概念的經驗並對其有所了解。
+  - 了解基本的安全最佳做法。
+  - 具有 Windows 客戶端作業系統（例如 Windows 7，Windows 8，Windows 8.1 或 Windows 10）的動手工作經驗。
+  - 有 Windows PowerShell 命令行介面的基本經驗。
+outlineSection: |-
+  ### 模組 1&#58; 安裝和設定域控制器
+  本模組描述 AD DS 的功能以及如何安裝域控制器（DC）。它還涵蓋了部署 DC 的注意事項。
+  #### 課程
+  - 概述 AD DS
+  - 概述 AD DS 域控制器
+  - 部署域控制器
+
+
+  #### 實驗室&#58; 部署和管理 AD DS
+  - 部署 AD DS
+  - 透過執行域控制器克隆來部署域控制器
+  - 管理 AD DS
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 AD DS 及其主要元件。
+  - 描述域控制器的目的和角色。
+  - 描述部署域控制器的注意事項。
+
+
+  ### 模組 2&#58; 管理 AD DS 中的對象
+  本模組描述如何使用各種技術來管理 AD DS 中的對象。這包括建立和設定用戶、組和計算機對象。
+  #### 課程
+  - 管理用戶帳戶
+  - 管理在AD DS 中的組
+  - 管理 AD DS 中的計算機對象
+  - 使用 Windows PowerShell 進行 AD DS 管理
+  - 實作和管理 OU
+
+
+  #### 實驗室&#58; 管理 AD DS 對象
+  - 建立和管理 AD DS 中的組
+  - 建立和設定 AD DS 中的用戶帳戶
+  - 管理 AD DS 中的計算機對象
+
+
+  #### 實驗室&#58; 管理 AD DS
+  - 委託 OU 的管理
+  - 使用 Windows PowerShell 建立和修改 AD DS 對象
+
+  完成本模組後，學生將能夠&#58;
+  - 管理 AD DS 中的用戶帳戶。
+  - 管理 AD DS 中的組。
+  - 管理 AD DS 中的計算機對象。
+  - 使用 Windows PowerShell 進行 AD DS 管理。
+  - 實作和管理 OU。
+  - 管理 AD DS。
+
+
+  ### 模組 3&#58; 高級 AD DS 基礎結構管理
+  本模組描述如何計劃和實作包含多個域和林的 AD DS 部署。該模組概述了高級 AD DS 部署中的元件，實現分佈式 AD DS 環境的過程以及設定 AD DS 信任的過程。
+  #### 課程
+  - 概述高級 AD DS 部署
+  - 部署分佈式 AD DS 環境
+  - 設定 AD DS 信任
+
+
+  #### 實驗室&#58; AD DS 中的域和信任管理
+  - 實作林信任
+  - 在 AD DS 中實現子域
+
+  完成本模組後，學生將能夠&#58;
+  - 描述高級 AD DS 部署的元件。
+  - 部署分佈式 AD DS 環境。
+  - 設定 AD DS 信任。
+
+
+  ### 模組 4&#58; 實作和管理 AD DS 站點以及復制
+  本模組描述如何計劃和實作包含多個位置的 AD DS 部署。該模組說明了複製在 Windows Server 2016 AD DS 環境中的工作方式。
+  #### 課程
+  - 概述 AD DS 複製
+  - 設定 AD DS 站點
+  - 設定和監視 AD DS 複製
+
+
+  #### 實驗室&#58; 實現 AD DS 站點和復制
+  - 修改默認站點
+  - 建立其他站點和子網
+  - 設定 AD DS 複製
+  - 監視 AD DS 複製並對其進行疑難排解
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 AD DS 複製的工作方式。
+  - 設定 AD DS 站點以幫助優化身份驗證和復制流量。
+  - 設定和監視 AD DS 複製。
+
+
+  ### 模組 5&#58; 實作組策略
+  本模組描述如何實現 GPO 基礎結構。該模組概述了組成組策略框架的元件和技術。
+  #### 課程
+  - 介紹群組策略
+  - 實作和管理 GPO
+  - 組策略範圍和組策略處理
+  - 對 GPO 的應用程式進行疑難排解
+
+
+  #### 實驗室&#58; 實現組策略基礎結構
+  - 建立和設定 GPO
+  - 管理 GPO 範圍
+
+
+  #### 實驗室&#58; 組策略基礎結構疑難排解
+  - 驗證 GPO 應用程式
+  - 對 GPO 進行疑難排解
+
+  完成本模組後，學生將能夠&#58;
+  - 說明什麼是組策略。
+  - 實作和管理 GPO。
+  - 描述組策略範圍和組策略處理。
+  - 對 GPO 應用程式進行疑難排解。
+
+
+  ### 模組 6&#58; 使用組策略管理用戶設置
+  本模組描述如何設定組策略設置和組策略首選項。這包括實作管理範本、設定檔案夾重定向和腳本以及設定組策略首選項。
+  #### 課程
+  - 實作管理範本
+  - 設定檔案夾重定向、軟體安裝和腳本
+  - 設定組策略首選項
+
+
+  #### 實驗室&#58; 使用 GPO 管理用戶設置
+  - 使用管理範本來管理用戶設置
+  - 使用組策略首選項實作設置
+  - 設定檔案夾重定向
+  - 規劃組策略（可選）
+
+  完成本模組後，學生將能夠&#58;
+  - 實作管理範本。
+  - 設定檔案夾重定向、軟體安裝和腳本。
+  - 設定組策略首選項。
+
+
+  ### 模組 7&#58; 保護 Active Directory 域服務
+  本模組介紹如何設定域控制器安全性、帳戶安全性、密碼安全性和組託管的服務帳戶（GMSA）。
+  #### 課程
+  - 保護域控制器
+  - 實作帳戶安全
+  - 實作審核認證
+  - 設定託管的服務帳戶
+
+
+  #### 實驗室&#58; 保護 AD DS
+  - 為帳戶、密碼和管理組實作安全策略
+  - 部署和設定 RODC
+  - 建立和關聯 MSA 組
+
+  完成本模組後，學生將能夠&#58;
+  - 保護域控制器。
+  - 實作帳戶安全性。
+  - 實作審核身份驗證。
+  - 設定託管的服務帳戶（MSA）。
+
+
+  ### 模組 8&#58; 部署和管理 AD CS
+  本模組描述如何實現 AD CS 部署。這包括對 CA 的部署、管理和疑難排解。
+  #### 課程
+  - 部署 CA
+  - 管理 CA
+  - 對 CA 進行疑難排解和維護
+
+
+  #### 實驗室&#58; 部署和設定兩層 CA 層次結構
+  - 部署離線根 CA
+  - 部署企業下屬 CA
+
+  完成本模組後，學生將能夠&#58;
+  - 部署 CA。
+  - 管理 CA。
+  - 對 CA 進行疑難排解和維護。
+
+
+  ### 模組 9&#58; 部署和管理證書
+  本模組描述如何在 AD DS 環境中部署和管理證書。這涉及部署和管理證書範本、管理證書吊銷和恢復、在業務環境中使用證書以及實現智能卡。
+  #### 課程
+  - 部署和管理證書範本
+  - 管理證書的部署、吊銷和恢復
+  - 在業務環境中使用證書
+  - 實作和管理智能卡
+
+
+  #### 實驗室&#58; 部署和使用證書
+  - 設定證書範本
+  - 註冊和使用證書
+  - 設定和實作密鑰恢復
+
+  完成本模組後，學生將能夠&#58;
+  - 部署和管理證書範本。
+  - 管理證書的部署、吊銷和恢復。
+  - 在業務環境中使用證書。
+  - 實作和管理智能卡
+
+
+  ### 模組 10&#58; 實作和管理 AD FS
+  本模組介紹 AD FS 以及如何在單一機構方案和合作夥伴機構方案中設定 AD FS。
+  #### 課程
+  - AD FS 概述
+  - AD FS 要求和計劃
+  - 部署和設定 AD FS
+  - Web Application Proxy 概述
+
+
+  #### 實驗室&#58; 實作 AD FS
+  - 設定 AD FS 前提條件
+  - 安裝和設定 AD FS
+  - 為 AD 設定內部應用程式
+  - 為聯合的業務夥伴設定 AD FS
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 AD FS。
+  - 說明如何部署 AD FS。
+  - 說明如何為單個組織機構實作 AD FS。
+  - 說明如何將 AD FS 擴展到外部客戶端。
+  - 實作單點登錄（SSO）以支援在線服務。
+
+
+  ### 模組 11&#58; 實作和管理 AD RMS
+  本模組描述如何實作 AD RMS 部署。該模組概述了AD RMS，說明如何部署和管理 AD RMS 基礎結構，並說明如何設定 AD RMS 內容保護。
+  #### 課程
+  - AD RMS 概述
+  - 部署和管理 AD RMS 基礎架構
+  - 設定 AD RMS 內容保護
+
+
+  #### 實驗室&#58; 實現 AD RMS 基礎結構
+  - 安裝和設定 AD RMS
+  - 設定 AD RMS 範本
+  - 在客戶端上使用 AD RMS
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 AD RMS。
+  - 部署和管理 AD RMS 基礎結構。
+  - 設定 AD RMS 內容保護。
+
+
+  ### 模組 12&#58; 使用 Microsoft Azure AD 實現 AD DS 同步
+  本模組介紹如何計劃和設定 Microsoft Azure Active Directory（Azure AD）與本地 AD DS 之間的目錄同步。這些模組描述了各種同步方案，例如 Azure AD 同步，AD FS 和 Azure AD 以及 Azure AD Connect。
+  #### 課程
+  - 規劃和準備目錄同步
+  - 使用 Azure AD Connect 實作目錄同步
+  - 透過目錄同步管理身份
+
+
+  #### 實驗室&#58; 設定目錄同步
+  - 準備目錄同步
+  - 設定目錄同步
+  - 管理 Active Directory 用戶和組並監視目錄同步
+
+  完成本模組後，學生將能夠&#58;
+  - 規劃並準備目錄同步。
+  - 透過使用 Microsoft Azure Active Directory Connect（Azure AD Connect）實現目錄同步。
+  - 透過目錄同步管理身份。
+
+
+  ### 模組 13&#58; 監視、管理和恢復 AD DS
+  本模組介紹如何監視、管理和維護 AD DS，以幫助實現 AD DS 的高可用性。
+  #### 課程
+  - 監視 AD DS
+  - 管理 Active Directory 資料庫
+  - 適用於 AD DS 的 Active Directory 備份和恢復選項以及其他身份和存取解決方案
+
+
+  #### 實驗室&#58; 恢復AD DS 中的對象
+  - 備份和還原 AD DS
+  - 恢復 AD DS 中的對象
+
+  完成本模組後，學生將能夠&#58;
+  - 監視 AD DS。
+  - 管理 Active Directory 資料庫。
+  - 描述 AD DS 和其他身份存取解決方案的備份和恢復選項。
+

@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Introduction to Programming Using Python
+metadata:
+  title: 'Exam 98-381: Introduction to Programming Using Python'
+  description: 'Exam 98-381: Introduction to Programming Using Python'
+uid: exam.98-381
+displayName: 98-381
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  本測試的應徵者應能夠識別並書寫文法正確的 Python 程式碼，識別 Python 支援的資料類型，而且要能夠識別並書寫能在邏輯上解決一個給定問題的 Python 程式碼。
+
+  我們希望應徵者至少要參加大約 100 個小時的有關 Python 程式設計語言的課程，或者具有同等的實際經驗，要熟悉它的特徵與性能，要理解如何去書寫、偵錯，以及維護語式正確、記載正確的 Python 程式碼。
+subTitle: 本測試的應徵者應能夠識別並書寫文法正確的 Python 程式碼，識別 Python 支援的資料類型，而且要能夠識別並書寫能在邏輯上解決一個給定問題的 Python 程式碼。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k2
+practiceTestUrl: https://www.mindhub.com/98-381-Introduction-to-Programming-Using-Python-p/mu-98-381_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-381&examname=Introduction%20to%20Programming%20Using%20Python&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-381
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- 使用資料類型和運算子執行操作(20-25%)
+- 控制帶有決策與迴圈的流程 (25-30%)
+- 執行輸入與輸出操作 (20-25%)
+- 文件與結構代碼 (15-20%)
+- 執行疑難排解與錯誤處理 (5-10%)
+- 使用模組與工具執行操作 (1-5%)
+roles:
+- developer
+products:
+- vs
+courses:
+- uid: course.55264
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-python
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,74 @@
+### YamlMime:Course
+title: 'Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+metadata:
+  title: 'Course 40032-A: Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+  description: 'Course 40032-A: Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+uid: course.40032
+courseNumber: '40032-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 了解網路基礎結構
+- skill: 了解網路硬體
+- skill: 了解通訊協定和服務
+- skill: 了解安全層
+- skill: 了解作業系統安全性
+- skill: 了解網路安全性
+- skill: 了解安全性軟體
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.98-366
+summary: |-
+  為期五天的 訓練 2 套件可幫助您為 Microsoft Technology Associate 測驗 98-366 and 98-367 做好準備，並加深對這些主題的了解；網路基礎結構、網路硬件、通訊協定和服務、安全層、作業系統安全性、網路安全性、安全軟體。本課程利用與這些測驗的 Microsoft Official Academic Course （MOAC）中相同的內容。
+
+  #### 對象設定檔
+  Microsoft Technology Associate（MTA）是 Microsoft 最新的技術認證測驗套件，驗證開始使用 Microsoft 技術建立職業所需的基本知識。本計劃為未來的技術職業提供適當的切入點，並且具有一定的實作經驗或訓練，但不具有在職經驗。
+prerequisitesSection: |-
+  本課程沒有任何先決條件。
+outlineSection: |-
+  ### 模組 1&#58; 了解區域網路
+
+
+  ### 模組 2&#58; 使用 OSI 模型定義網路
+
+
+  ### 模組 3&#58; 了解有線和無線網路
+
+
+  ### 模組 4&#58; 了解網際網路通訊協定
+
+
+  ### 模組 5&#58; 在命令列中實作 TCP / IP
+
+
+  ### 模組 6&#58; 使用網路服務
+
+
+  ### 模組 7&#58; 了解廣域網路
+
+
+  ### 模組 8&#58; 定義網路基礎結構和網路安全性
+
+
+  ### 模組 9&#58; 了解安全層
+
+
+  ### 模組 10&#58; 驗證、授權和會計
+
+
+  ### 模組 11&#58; 了解安全性原則
+
+
+  ### 模組 12&#58; 了解網路安全性
+
+
+  ### 模組 13 &#58; 保護伺服器和用戶端
+

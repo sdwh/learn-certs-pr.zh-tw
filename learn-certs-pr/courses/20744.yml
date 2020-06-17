@@ -1,0 +1,316 @@
+### YamlMime:Course
+title: Securing Windows Server 2016
+metadata:
+  title: 'Course 20744-C: Securing Windows Server 2016'
+  description: 'Course 20744-C: Securing Windows Server 2016'
+uid: course.20744
+courseNumber: '20744-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 保護 Windows Server。
+- skill: 保護憑據並實現特權存取工作站。
+- skill: 透過“恰到好處的管理”來限制管理員權限。
+- skill: 管理特權存取。
+- skill: 緩解惡意軟體和威脅。
+- skill: 使用高級審核和日誌分析來分析活動。
+- skill: 部署和設定 Advanced Threat Analytics 和 Microsoft Operations Management Suite。
+- skill: 設定 Guarded Fabric 虛擬機（VM）。
+- skill: 使用安全合規性工具包（SCT）和容器可以提高安全性。
+- skill: 規劃和保護數據。
+- skill: 優化和保護檔案服務。
+- skill: 使用防火牆和加密來保護網路流量。
+- skill: 透過使用 DNSSEC 和 Message Analyzer 來保護網路流量。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-744
+summary: |-
+  這門為期五天的講師指導課程教授 IT 專業人員如何增強他們管理的 IT 基礎結構的安全性。本課程首先強調假定已經發生網路入侵事件的重要性，然後教您如何保護管理憑據和權限，以幫助確保管理員僅在需要時才能執行他們需要執行的任務。
+
+  本課程說明如何使用 Windows Server 2016 中的審核和高級威脅分析功能來識別安全問題。您還將學習如何緩解惡意軟體威脅，保護虛擬化平台以及使用 Nano 伺服器和容器等部署選項來增強安全性。本課程還介紹如何透過使用加密和動態存取控制來幫助保護對檔案的存取，以及如何增強網路的安全性。
+
+  #### 對象設定檔
+  本課程面向需要安全管理 Windows Server 2016 網路的 IT 專業人員。這些專業人員通常使用設定為基於 Windows Server 域環境的網路，並具有對 Internet 和雲服務的受管存取。 
+
+  希望獲得 70-744&#58; Securing Windows Server 測驗認證的學生也將從此課程中受益。
+prerequisitesSection: |-
+  學生應具有至少兩年的 IT 領域經驗，並應具有&#58;
+  - 已经完成了課程 740、741 和 742，或同等水平課程。
+  - 對網路基礎知識（包括 TCP / IP，用戶數據報協議（UDP）和域名系統（DNS））有紮實的實作了解。
+  - 對 Active Directory 域服務（AD DS）原理有紮實的實作了解。
+  - 對 Microsoft Hyper-V 虛擬化基礎知識有紮實的實作了解。
+  - 了解 Windows Server 安全原則。
+outlineSection: |-
+  ### 模組 1&#58; 攻擊，入侵檢測和 Sysinternals 工具
+  該模組構成了該課程的框架，以便學生思考基礎結構主要基於 Microsoft 產品的環境中的安全性。該模組首先向學生講授“假設入侵”理念，並讓他們了解可能發生的不同類型的攻擊，包括攻擊時間表和媒介。此外，它還使學生思考關鍵資源，檢測到事件時如何應對以及組織機構的直接需求和立法要求如何決定其安全策略。
+  #### 課程
+  - 了解攻擊
+  - 檢測安全漏洞
+  - 使用 Sysinternals 工具檢查活動
+
+
+  #### 實驗室&#58; 基本的入侵檢測和事件響應策略
+  - 確定攻擊類型
+  - 探索 Sysinternals 工具
+
+  完成本模組後，學生將能夠&#58;
+  - 描述可能發生的攻擊類型。
+  - 說明如何檢測安全漏洞。
+  - 說明如何使用 Sysinternals 工具套件檢查活動。
+
+
+  ### 模組 2&#58; 保護憑據和特權存取
+  此模組涵蓋用戶帳戶和權限、計算機和服務帳戶、憑據、特權存取工作站和本地管理員密碼解決方案。在本模組中，學生將學習有關設定用戶權限和安全的選項、透過使用 Credential Guard 保護憑據、實作特權存取工作站以及管理和部署本地管理員密碼解決方案以管理本地管理員帳戶密碼的知識。
+  #### 課程
+  - 了解用戶權限
+  - 計算機和服務帳戶
+  - 保護憑證
+  - 特權存取工作站和跳轉伺服器
+  - 本地管理員密碼解決方案
+
+
+  #### 實驗室&#58; 實現用戶權限、安全選項和群組託管服務帳戶
+  - 設定用戶權限和帳戶安全性選項
+  - 委派特權
+  - 建立群組託管服務帳戶
+  - 查找有問題的帳戶
+
+
+  #### 實驗室&#58; 設定和部署 LAP
+  - 安裝和設定 LAP
+  - 部署和測試 LAP
+
+  完成本模組後，學生將能夠&#58;
+  - 設定用戶權限。
+  - 實作計算機和服務帳戶。
+  - 保護憑據。
+  - 描述如何設定特權存取工作站和跳轉伺服器。
+  - 設定本地管理員密碼解決方案（LAPS）。
+
+
+  ### 模組 3&#58; 透過 Just Enough Administration 限制管理員權限
+  本模組說明如何部署和設定 Just Enough Administration（JEA），這是一項管理技術，允許學生透過 Windows PowerShell 遠端會話應用基於角色的存取控制（RBAC）原則。
+  #### 課程
+  - 了解 JEA
+  - 驗證和部署 JEA
+
+
+  #### 實驗室&#58; 使用 JEA 限制管理員權限
+  - 建立角色能力檔案
+  - 建立會話設定檔案
+  - 建立 JEA 端點
+  - 連接和測試 JEA 端點
+  - 將 JEA 設定部署到另一台計算機
+
+  完成本模組後，學生將能夠&#58;
+  - 了解 JEA。
+  - 驗證並部署 JEA。
+
+
+  ### 模組 4&#58; 特權存取管理和管理林
+  本模組說明增強安全管理環境（ESAE）林、Microsoft Identity Manager（MIM）和即時（JIT）管理或特權存取管理（PAM）的概念。
+  #### 課程
+  - ESAE 林
+  - Microsoft Identity Manager 概述
+  - JIT 管理和 PAM 概述
+
+
+  #### 實驗室&#58; 使用 PAM 限制管理員權限
+  - 分層的安全性方法
+  - 設定信任關係和影子主體
+  - 請求特權存取
+  - 管理 PAM 角色
+
+  完成本模組後，學生將能夠&#58;
+  - 描述 ESAE 林。
+  - 描述 MIM。
+  - 了解 JIT 管理和 PAM。
+
+
+  ### 模組 5&#58; 緩解惡意軟體和威脅
+  本模組說明如何使用 Windows Defender、Windows AppLocker、Microsoft Device Guard、Windows Defender Application Guard 和 Windows Defender Exploit Guard 之類的工具。
+  #### 課程
+  - 設定和管理 Windows Defender
+  - 限制軟體
+  - 設定和使用 Device Guard 功能
+
+
+  #### 實驗室&#58; 使用 Windows Defender、AppLocker 和 Device Guard 規則保護應用程式的安全
+  - 設定 Windows Defender
+  - 設定 AppLocker
+  - 設定 Device Guard
+
+  完成本模組後，學生將能夠&#58;
+  - 設定和管理 Windows Defender。
+  - 使用軟體限制策略和 AppLocker。
+  - 設定和使用 Device Guard 功能。
+
+
+  ### 模組 6&#58; 使用高級審核和日誌分析功能來分析活動
+  本模組概述了審核，然後詳細介紹如何設定高級審核以及 Windows PowerShell 審核和日誌記錄。
+  #### 課程
+  - 審核概述
+  - 高級審核
+  - Windows PowerShell 審核和日誌記錄
+
+
+  #### 實驗室&#58; 設定高級審核
+  - 設定檔案系統存取審核
+  - 審核域登錄
+  - 管理高級審核策略設定
+  - Windows PowerShell 日誌記錄和審核
+
+  完成本模組後，學生將能夠&#58;
+  - 描述審核。
+  - 了解高級審核。
+  - 設定 Windows PowerShell 審核和日誌記錄。
+
+
+  ### 模組 7&#58; 部署和設定 Advanced Threat Analytics 和 Microsoft Operations Management Suite
+  本模組說明了Microsoft Advanced Threat Analytics 工具和 Microsoft Operations Management 套件（OMS）。它還說明如何使用它們來監視和分析 Windows Server 部署的安全性。您還將了解 Microsoft Azure Security Center，它使您可以管理和監視本地和雲中工作負載的安全性設定。
+  #### 課程
+  - 部署和設定 ATA
+  - 部署和設定 Microsoft Operations Management Suite
+  - 部署和設定 Azure Security Center
+
+
+  #### 實驗室&#58; 部署 ATA、Microsoft Operations Management Suite 和 Azure Security Center
+  - 準備和部署 ATA
+  - 準備和部署 Microsoft Operations Management Suite
+  - 部署和設定 Azure Security Center
+
+  完成本模組後，學生將能夠&#58;
+  - 部署和設定 ATA。
+  - 部署和設定 Microsoft Operations Management Suite。
+  - 部署和設定 Azure Security Center。
+
+
+  ### 模組 8&#58; 安全虛擬化基礎架構
+  本模組說明如何設定 Guarded Fabric Vm，包括對受保護和加密支援的虛擬機的要求。
+  #### 課程
+  - 受保護結構
+  - 受屏蔽和加密支援的虛擬機
+
+
+  #### 實驗室&#58; 具有管理員信任的證明的受保護結構和受保護的虛擬機
+  - 部署具有管理員信任的證明的受保護結構
+  - 部署受保護的虛擬機
+
+  完成本模組後，學生將能夠&#58;
+  - 設定受保護的結構。
+  - 描述受保護和加密支援的虛擬機。
+
+
+  ### 模組 9&#58; 保護應用程式開發和伺服器工作負載基礎結構的安全
+  本模組介紹了 SCT，它是一組免費的、可下載的工具，可用於建立和應用安全性設置。您還將了解如何透過縮小應用程式的大小和範圍提高平台安全性以及透過容器化工作負載來改善計算資源。
+  #### 課程
+  - 使用 SCT
+  - 了解容器
+
+
+  #### 實驗室&#58; 使用 SCT
+  - 設定 Windows Server 2016 的安全性基準
+  - 部署 Windows Server 2016 的安全性基準
+
+
+  #### 實驗室&#58; 部署和設定容器
+  - 部署和管理 Windows 容器
+
+  完成本模組後，學生將能夠&#58;
+  - 安裝 SCT，並建立和部署安全性基準。
+  - 在 Windows Server 2016 中設定 Windows 和 Hyper-V 容器。
+
+
+  ### 模組 10&#58; 規劃和保護數據
+  本模組說明如何設定加密檔案系統（EFS）和 BitLocker 驅動器加密以保護靜態數據。您還將學習有關使用 Azure 訊息保護將保護擴展到雲中的知識。
+  #### 課程
+  - 規劃和實作加密
+  - 規劃和實作 BitLocker
+  - 使用 Azure 訊息保護保護數據
+
+
+  #### 實驗室&#58; 使用加密和 BitLocker 保護數據
+  - 加密和恢復對加密檔案的存取
+  - 使用 BitLocker 保護數據
+
+  完成本模組後，學生將能夠&#58;
+  - 計劃並實作加密。
+  - 規劃和實作 BitLocker。
+  - 規劃和實作 Azure 訊息保護。
+
+
+  ### 模組 11&#58; 優化和保護檔案服務
+  本模組說明如何透過設定檔案伺服器資源管理器（FSRM）和分佈式檔案系統（DFS）來優化檔案服務。學生還將學習如何透過設定動態存取控制（DAC）來管理對共享檔案的存取。
+  #### 課程
+  - 檔案伺服器資源管理器
+  - 實作分類和檔案管理任務
+  - 動態存取控制
+
+
+  #### 實驗室&#58; 配額和檔案篩選
+  - 設定檔案伺服器資源管理器配額
+  - 設定檔案篩选和存儲報告
+
+
+  #### 實驗室&#58; 實現動態存取控制
+  - 為實作動態存取控製做準備
+  - 實作動態存取控制
+  - 驗證和修復動態存取控制
+
+  完成本模組後，學生將能夠&#58;
+  - 描述檔案伺服器資源管理器。
+  - 實作分類和檔案管理任務。
+  - 實作動態存取控制。
+
+
+  ### 模組 12&#58; 使用防火牆和加密保護網路流量
+  本模組說明如何將 Windows Firewall 用作組織保護策略的重要組成部分。它解釋如何使用 Internet 協議安全性（IPsec）來加密網路流量並在網路上建立安全區域。您還將了解有關 Datacenter Firewall 功能的訊息，它可用於幫助保護本地虛擬環境。
+  #### 課程
+  - 了解與網路相關的安全威脅
+  - 了解具有高級安全性的 Windows Firewall
+  - 設定 IPsec
+  - Datacenter Firewall
+
+
+  #### 實驗室&#58; 使用高級安全性設定 Windows Firewall
+  - 建立和測試入站規則
+  - 建立和測試出站規則
+  - 建立和測試連接安全性規則
+
+  完成本模組後，學生將能夠&#58;
+  - 描述與網路相關的安全威脅以及如何緩解這些威脅。
+  - 使用高級安全性設定 Windows Firewall。
+  - 設定 IPsec。
+  - 描述 Datacenter Firewall。
+
+
+  ### 模組 13&#58; 保護網路流量
+  本模組探討了一些 Windows Server 2016 技術，可用於幫助緩解網路安全威脅。它說明如何設定 DNSSEC 來幫助保護網路流量，以及如何使用 Microsoft Message Analyzer 監視網路流量。該模組還描述如何保護伺服器消息塊（SMB）流量。
+  #### 課程
+  - 設定高級 DNS 設置
+  - 使用 Message Analyzer 檢查網路流量
+  - 保護和分析 SMB 流量
+
+
+  #### 實驗室&#58; 保護 DNS 的安全
+  - 設定和測試 DNSSEC
+  - 設定 DNS 策略和 RRL
+
+
+  #### 實驗室&#58; Microsoft Message Analyzer 和 SMB 加密
+  - 安裝和使用 Message Analyzer
+  - 在 SMB 共享上設定和驗證 SMB 加密
+
+  完成本模組後，學生將能夠&#58;
+  - 設定高級 DNS 設置。
+  - 使用 Message Analyzer。
+  - 安全的 SMB 流量。
+

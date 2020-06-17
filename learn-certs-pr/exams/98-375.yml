@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: HTML5 Application Development Fundamentals
+metadata:
+  title: 'Exam 98-375: HTML5 Application Development Fundamentals'
+  description: 'Exam 98-375: HTML5 Application Development Fundamentals'
+uid: exam.98-375
+displayName: 98-375
+summary: |-
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+
+  本測驗的應試者是希望證明在現今支援觸控裝置 (電腦、平板電腦與手機) 執行之核心 HTML5 用戶端應用程式開發技能的人。雖然一般會將 HTML 視為在瀏覽器轉譯以產生 UI 的 Web 技術，但本測驗強調的是用 HTML5、CSS3 與 JavaScript 開發用戶端應用程式。應試者在接受測驗之前，應對準備指南所述主題具備紮實的基礎知識，包括 CSS 和 JavaScript。建議應試者修習相關訓練課程，或使用 MSDN 和 Microsoft Visual Studio 提供的教學課程和範例，以熟悉相關技術的概念，並取得實際操作經驗。
+subTitle: 本測驗的應試者是希望證明在現今支援觸控裝置 (電腦、平板電腦與手機) 執行之核心 HTML5 用戶端應用程式開發技能的人。雖然一般會將 HTML 視為在瀏覽器轉譯以產生 UI 的 Web 技術，但本測驗強調的是用 HTML5、CSS3 與 JavaScript 開發用戶端應用程式。應試者在接受測驗之前，應對準備指南所述主題具備紮實的基礎知識，包括 CSS 和 JavaScript。建議應試者修習相關訓練課程，或使用 MSDN 和 Microsoft Visual Studio 提供的教學課程和範例，以熟悉相關技術的概念，並取得實際操作經驗。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJs
+practiceTestUrl: https://www.mindhub.com/MTA-98-375-HTML5-Application-Development-Fundame-p/mu-98-375_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-375&examname=HTML5%20Application%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-375
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- 管理應用程式生命週期 (20-25%)
+- 使用 HTML5 構建使用者界面 (UI)(25-30%) 
+- 使用階層式樣式表 (CSS) 格式化使用者界面 (20-25%)
+- 使用JavaScript編碼 (30-35%)
+roles:
+- developer
+products:
+- vs
+courses:
+- uid: course.40375
+- uid: course.40034
+relatedCertifications:
+- related:
+    uid: certification.mta-html5-application-development-fundamentals
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+

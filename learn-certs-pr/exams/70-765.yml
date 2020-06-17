@@ -1,0 +1,53 @@
+### YamlMime:Examination
+title: Provisioning SQL Databases
+metadata:
+  title: 'Exam 70-765: Provisioning SQL Databases'
+  description: 'Exam 70-765: Provisioning SQL Databases'
+uid: exam.70-765
+displayName: 70-765
+summary: |-
+  <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  </div>
+
+  本測驗適合結構設計師、資深開發人員、基礎結構專員，以及程式開發潛在客戶。應試者必須具備下列各項的工作知識：各種雲端服務模型和服務模型架構、資料儲存空間選項，以及資料同步處理技術。除了整合 Azure 應用程式和外部資源之外，應試者還必須具備下列各項的工作知識：部署模型、升級和移轉資料庫，以及應用程式和服務。
+
+  <div style='font-weight&#58; bold;'><br/>自 2017 年 3 月開始，該測驗已更新。要了解有關這些變更以及它們如何影響所測技能的更多資訊，請下載並檢閱 70-765 測驗變更文件。</div>
+subTitle: 本測驗適合結構設計師、資深開發人員、基礎結構專員，以及程式開發潛在客戶。應試者必須具備下列各項的工作知識：各種雲端服務模型和服務模型架構、資料儲存空間選項，以及資料同步處理技術。除了整合 Azure 應用程式和外部資源之外，應試者還必須具備下列各項的工作知識：部署模型、升級和移轉資料庫，以及應用程式和服務。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7mn
+practiceTestUrl: https://www.mindhub.com/70-765-Provisioning-SQL-Databases-p/mu-70-765_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-765&examname=Provisioning%20SQL%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-765
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 在 Azure 實作 SQL (40-45%)
+- 管理資料庫與實例 (30-35%)
+- 管理儲存 (30-35%)
+roles:
+- database-administrator
+products:
+- sql-server
+courses:
+- uid: course.20765
+relatedCertifications:
+- related:
+    uid: certification.mcsa-microsoft-dynamics-365-for-operations
+- related:
+    uid: certification.mcsa-sql2016-database-administration-certification
+resources:
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 申請調整
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 測驗政策和常見問題
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: ../certification-exam-policies.md
+
