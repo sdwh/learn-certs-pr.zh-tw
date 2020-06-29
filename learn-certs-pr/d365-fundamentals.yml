@@ -6,7 +6,7 @@ metadata:
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
   證明您了解 Microsoft Dynamics 365； 人工智慧；混合實境； Power Platform； 雲端概念； 雲端安全； Dynamics 365 安全性； Common Data Service； Dynamics 365 報告； Dynamics 365 整合； 和雲端部署。
 subTitle: '證明您了解 Microsoft Dynamics 365； 人工智慧（AI）；混合實境（MR）； Power Platform； 雲端概念； 雲端安全； Dynamics 365 安全性； Common Data Service； Dynamics 365 報告； Dynamics 365 整合； 和雲端部署。'
@@ -46,6 +46,6 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
 

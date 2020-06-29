@@ -6,7 +6,7 @@ metadata:
 uid: certification.d365-finance-and-operations-apps-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
   處理 Microsoft Dynamics 365 中財務與營運 APP 的開發人員負責實作和擴展應用程式以滿足商務需求。應試者透過使用標準應用程式編碼模式、延伸功能以及外部整合來提供完全實作的解決方案。
 subTitle: 處理 Microsoft Dynamics 365 中財務與營運 APP 的開發人員負責實作和擴展應用程式以滿足商務需求。
@@ -22,8 +22,8 @@ skills:
 - 設計與開發 AOT 元素
 - 開發及測試代碼
 - 實作報告
-- 整合和管理資料解決方案
-- 實作安全性並最佳化效能
+- 整合與管理資料解決方案
+- 以及實作安全性和最佳化效能
 roles:
 - developer
 type: role-based
@@ -65,6 +65,6 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
 

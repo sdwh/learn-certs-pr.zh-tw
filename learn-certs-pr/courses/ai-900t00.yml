@@ -1,0 +1,97 @@
+### YamlMime:Course
+title: Microsoft Azure AI Fundamentals
+metadata:
+  title: 'Course AI-900T00-A: Microsoft Azure AI Fundamentals'
+  description: 'Course AI-900T00-A: Microsoft Azure AI Fundamentals'
+uid: course.ai-900t00
+courseNumber: 'AI-900T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述人工智慧工作負載和注意事項
+- skill: 描述 Azure 上機器學習的基本原理
+- skill: 描述 Azure 上的電腦視覺工作負載的功能
+- skill: 描述 Azure 上自然語言處理（NLP）工作負載的功能
+- skill: 描述 Azure 上的對話式 AI 工作負載的功能
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+exams:
+- uid: exam.ai-900
+summary: |-
+  本課程介紹與人工智慧（AI）有關的基本概念，以及 Microsoft Azure 中可用於建立 AI 解決方案的服務。該課程的目的不是教學生成為專業的資料科學家或軟體開發人員，而是要培養人們對常見 AI 工作負載的認識，以及識別支援他們的 Azure 服務的能力。本課程是一種混合式學習體驗，旨在將講師指導的培訓與 Microsoft Learn 平台（https://azure.com/learn）上的線上資料相結合。本課程的動手練習基於“學習”模塊，我們鼓勵學生使用“學習”中的內容作為參考資料，以加強他們在課堂上學到的知識，並更深入地探索主題。
+
+  #### 對象設定檔
+  Azure AI 基礎知識課程是為有興趣學習人工智慧（AI）解決方案類型以及您可以用來建立解決方案的 Microsoft Azure 服務上的人員設計的。在學習本課程之前，您不需要具有使用 Microsoft Azure 的任何經驗，但是假定您對電腦技術和因特網具有基本的熟悉程度。本課程涵蓋的某些概念需要對數學有基本的了解，例如解釋圖表的能力。該課程包括涉及資料和運行代碼的動手實踐，因此了解基本的編程原理將很有幫助。
+prerequisitesSection: |-
+  熟悉電腦並使用網路瀏覽器。
+outlineSection: |-
+  ### 模組 1&#58; AI 導論
+  在本模塊中，您將學習人工智慧（AI）的常見用法以及與 AI 相關的不同類型的工作負載。然後，您將探索負責任的 AI 開發的注意事項和原則。
+  #### 課程
+  - Azure 中的人工智慧
+  - 負責任的 AI
+  
+  完成本單元後，您生將能夠&#58;
+  - 描述人工智慧工作負載和注意事項
+
+
+  ### 模組 2&#58; 機器學習
+  機器學習是現代AI解決方案的基礎。在本模塊中，您將學習一些基本的機器學習概念，以及如何使用Azure機器學習服務建立和發布機器學習模型。
+  #### 課程
+  - 機器學習導論
+  - Azure 機器學習
+  
+  完成本單元後，您生將能夠&#58;
+  - 描述 Azure 上機器學習的基本原理
+  
+
+  ### 模組 3&#58; 電腦視覺
+  電腦視覺是AI的一個領域，它透過圖像、視訊文件和照相機來以視覺方式了解世界。在本模塊中，您將探索多種電腦視覺技術和服務。
+  #### 課程
+  - 電腦視覺概念
+  - Azure中的電腦視覺
+  
+  完成本單元後，您生將能夠&#58;
+  - 描述 Azure 上的電腦視覺工作負載的功能
+
+
+  ### 模組 4&#58; 自然語言處理
+  本模塊描述了可以處理書面和口頭語言的 AI 解決方案的場景。您將了解Azure服務，這些服務可用於構建解決方案，以分析文本，識別和合成語音，在語言之間進行轉換以及解釋命令。
+  
+  
+  完成本單元後，您生將能夠&#58;
+  - 描述 Azure 上自然語言處理（NLP）工作負載的功能
+
+
+  ### 模組 5&#58; 對話式 AI
+  對話式 AI 使用戶可以透過電子郵件、網路聊天介面、社交媒體等溝通方式與 AI 代理或“機器人”進行對話。本模塊描述了使用機器人的一些基本原理，並為您提供了建立可以智慧地響應用戶問題的機器人的機會。
+  #### 課程
+  - 對話式 AI 概念
+  - Azure 中的會話式 AI
+
+  完成本單元後，您生將能夠&#58;
+  - 描述 Azure 上的對話式 AI 工作負載的功能

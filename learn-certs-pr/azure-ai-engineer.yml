@@ -2,19 +2,26 @@
 title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure AI Engineer Associate'
-  description: Azure AI 工程師使用認知服務，機器學習和知識探勘來構建和實作涉及自然語言處理，語音，電腦視覺 ，機器人和代理的Microsoft AI解決方案。
+  description: 'Azure AI 工程師使用認知服務，機器學習和知識探勘來構建和實作涉及自然語言處理，語音，電腦視覺 ，機器人和代理的 Microsoft AI 解決方案。'
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Azure AI 工程師使用認知服務，機器學習和知識探勘來構建和實作涉及自然語言處理，語音，電腦視覺 ，機器人和代理的Microsoft AI解決方案。
-subTitle: Azure AI 工程師使用認知服務，機器學習和知識探勘來構建和實作涉及自然語言處理，語音，電腦視覺 ，機器人和代理的Microsoft AI解決方案。
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+
+  Azure AI Engineer Associate 認證的應試者應具有使用認知服務，機器學習和知識挖掘的主題專業知識，以架構和實作涉及自然語言處理，語音，電腦視覺和對話式 AI 的 Microsoft AI 解決方案。
+
+  擔任此職務的職責包括分析對 AI 解決方案的需求，推薦適當的工具和技術，以及設計和實現滿足可伸縮性和效能要求的 AI 解決方案。
+
+  Azure AI工程師將解決方案架構師的願景轉化為事實，並與資料科學家、資料工程師、IoT 專家和軟體開發人員合作，以構建完整的端到端解決方案。
+
+  參加此認證的應試者應具有設計和實作使用 Microsoft Azure 認知服務，Azure 機器人服務，Azure 認知搜尋和 Azure 中資料存儲的 AI 應用程式和代理的知識和經驗。此外，應試者應能夠推薦使用開源技術的解決方案，了解構成 Azure AI 產品組合的組件和可用的資料存儲選項，並了解何時應開發自訂API以滿足特定要求。
+subTitle: Azure AI 工程師使用認知服務，機器學習和知識探勘來構建和實作涉及自然語言處理，語音，電腦視覺 ，機器人和代理的 Microsoft AI 解決方案。
 levels:
 - intermediate
 skills:
-- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
 - 分析解決方案要求
-- 設計AI解決方案
-- 實作和監控AI解決方案
+- 設計 AI 解決方案
+- 實作和監控 AI 解決方案
 roles:
 - ai-engineer
 type: role-based
@@ -36,6 +43,12 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEH
 exams:
 - uid: exam.ai-100
 resources:
+- title: Azure 認證海報
+  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 認證之旅
+  description: 探索獲得 Azure AI Engineer Associate 認證的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -49,5 +62,6 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

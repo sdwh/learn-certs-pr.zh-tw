@@ -8,7 +8,7 @@ displayName: MB-901
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>該測驗的內容已於 4 月 17 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
+  <div style='font-weight&#58; bold;'>此測驗內容將於 2020 年 7 月 10 日更新。請下載下面的技能評估文件，以了解將發生什麼變化。<br/><br/></div>
   </div>
 
   此測驗將涵蓋採用 Dynamics 365 的定位和好處。
@@ -16,7 +16,7 @@ summary: |-
   應試者應該對 Dynamics 365 功能和 Microsoft 雲端計算有功能上的了解。
 
   測驗的應試者應具備資訊科技(IT)環境方面的一般知識或相關工作經驗。應試者還應對商務場景和解決 IT 專案的業務，法律和安全要求的經驗有基本的了解。
-subTitle: 此測驗評量您了解 Microsoft Dynamics 365； 人工智慧(AI)；混合實境(MR)； Power Platform； 雲端概念； 雲端安全； Dynamics 365 中角色型安全性； Common Data Service； Dynamics 365 報告； Dynamics 365 整合； 和雲端部署的能力。
+subTitle: 此測驗評量您了解 Microsoft Dynamics 365； 人工智慧(AI)；混合實境(MR)； Power Platform； 雲端概念； 雲端安全； Dynamics 365 中角色型安全性； Common Data Service； Dynamics 365 報告； Dynamics 365 整合； 和雲端部署的能力。”
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
 locales:
@@ -29,7 +29,7 @@ providers:
 levels:
 - beginner
 skills:
-- 該測驗的內容已於 4 月 17 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。
+- 此測驗內容將於 2020 年 7 月 10 日更新。請下載下面概述的測驗技能，以了解將會發生什麼變化。
 - 識別 Dynamics 365 的 Microsoft 平台元件 (30-35%)
 - 描述 Dynamics 365 的人工智慧和混合實境 (10-15%)
 - 描述模型驅動式應用程式 (25-30%)
@@ -59,9 +59,9 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

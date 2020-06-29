@@ -8,7 +8,7 @@ displayName: 70-334
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div><strong>該測驗將於美國中部時間 2021 年 1 月 31 日晚上11&#58;59 停止提供。在此日期之後，您將無法參加測驗。詳細瞭解 <a href='/learn/certifications/retired-certification-exams'>upcoming exam retirements</a>.<br/><br/></strong></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
   </div>
 
   本測驗適合設計、規劃、部署以及維護整合通訊 (UC) 的 IT 顧問以及電信顧問專業人員等應試者。應試者應有將商務要求轉化為 UC 解決方案的技術架構與設計的能力。應試者應至少有兩年的商務用 Skype 技術經驗，且熟稔支援的移轉情境。應試者應精通為使用者部署商務用 Skype 解決方案、端點裝置、電話語音、音訊/視訊及網路會議、安全性和高可用性。應試者也應瞭解如何使用 Microsoft 工具監控及疑難排解商務用 Skype。此外，應試者應精通 Active Directory 網域服務、資料網路和電信通訊標準，以及支援商務用 Skype 設定的元件。應試者應熟悉整合商務用 Skype 與 Microsoft Exchange Server 和 Office 365 的必要條件。
@@ -23,7 +23,6 @@ locales:
 levels:
 - advanced
 skills:
-- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
 - 規劃及設計商務用 Skype (35-40%)
 - 部署及設定商務用 Skype (30-35%)
 - 管理及疑難排解商務用 Skype (30-35%)
@@ -42,9 +41,9 @@ resources:
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
