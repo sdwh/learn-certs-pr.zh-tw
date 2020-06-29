@@ -23,9 +23,9 @@ ms.author: micsullivan
 
 | 支援區域 | 聯絡資訊 |
 | ------------- | --- |
-| **Microsoft 認證** | 您的問題在我們的 [技術認證概述](https://www.microsoft.com/en-us/learning/certification-overview.aspx) 中可能已經有了答復<br/><br/> **認證支持論壇:**<br/>透過我們的[認證支援論壇](https://aka.ms/MCPForum) 獲得幫助。<br/><br/> 論壇版主將在一個工作日內回復。|
-| **Microsoft Certified Trainer (MCT) 計劃** | 您的問題在我們的 [MCT 計劃概述](https://www.microsoft.com/en-us/learning/mct-certification.aspx) 中可能已經有了答復<br/><br/> **MCT 支援論壇:**<br/>透過我們的[MCT 支援論壇](https://aka.ms/MCTForum) 獲得幫助。<br/><br/> 論壇版主將在一個工作日內回復。|
+| **Microsoft 認證** | 您的問題在我們的 [技術認證概述] 中可能已經有了答復<br/><br/> **認證支持論壇：**<br/>透過我們的[認證支援論壇](https://aka.ms/MCPForum) 獲得幫助。<br/><br/> 論壇版主將在一個工作日內回復。|
+| **Microsoft Certified Trainer (MCT) 計劃** | 您的問題在我們的 [MCT 計劃概述](/learn/certifications/mct-certification) 中可能已經有了答復<br/><br/> **MCT 支援論壇：**<br/>透過我們的[MCT 支援論壇](https://aka.ms/MCTForum) 獲得幫助。<br/><br/> 論壇版主將在一個工作日內回復。|
 
 ## 訓練說明
 
-有關 Microsoft 官方課程工具(MOC)的協助，請[按一下此處](https://docs.microsoft.com/learn/certifications/certification-and-training-help).
+有關 Microsoft 官方課程工具(MOC)的協助，請[按一下此處](https://docs.microsoft.com/learn/certifications/certification-and-training-help)。

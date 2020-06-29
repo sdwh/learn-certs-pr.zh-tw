@@ -2,22 +2,29 @@
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
   title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
-  description: Azure for SAP Workloads 架構師對 SAP 景觀認證流程和特定於 SAP 解決方案長期作業的產業標準有著深入的瞭解和廣泛的經驗。
+  description: Microsoft Azure for SAP Workloads 的架構師或工程師對 SAP 系統格局和行業標準具有豐富的經驗和知識，這些知識和知識特定於 SAP 解決方案在 Azure 上的長期運行。
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
-  Azure for SAP Workloads 架構師對 SAP 景觀認證流程和特定於 SAP 解決方案長期作業的產業標準有著深入的瞭解和廣泛的經驗。
-subTitle: Azure for SAP Workloads 架構師對 SAP 景觀認證流程和特定於 SAP 解決方案長期作業的產業標準有著深入的瞭解和廣泛的經驗。
+  適用於 SAP Workloads 專業認證的 Azure 的應試者應是具有豐富經驗和知識的架構師或工程師，這些經驗和知識應針對 SAP 解決方案在 Microsoft Azure 上的長期運行。
+
+  擔任此職務的職責包括就服務提出建議並適當調整資源，以實現最佳彈性、效能、規模、供應、規模和監視。
+
+  Azure for SAP Workloads 的架構師或工程師與雲管理員，雲 DBA 和客戶端合作以實作解決方案。
+
+  該證書的應試者應具有豐富的 SAP 應用經驗和知識：SAP HANA、S/4HANA、SAP NetWeaver、SAP BW/4HANA、用於 SAP 應用程式和資料庫的作業系統伺服器、Azure 門戶、ARM 模板、作業系統、虛擬化、雲端基礎架構、存儲結構、高可用性設計、災難恢復設計、資料保護概念和網路。
+
+  對於此角色，除 SAP HANA 和 Linux 認證外，強烈建議您具有 Azure Administrator Associate 或 Azure Solutions Architect Expert 認證。
+subTitle: Microsoft Azure for SAP Workloads 的架構師或工程師對 SAP 系統格局和行業標準具有豐富的經驗和知識，這些知識和知識特定於 SAP 解決方案在 Azure 上的長期運行。
 levels:
 - advanced
 skills:
-- '附註: 出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
-- 將SAP移轉到 Azure
+- 將 SAP 移轉到 Azure
 - 設計 Azure 解決方案以支援 SAP 工作負載
 - 組建和部署 Azure for SAP Workloads
-- 驗證 SAP 工作負載 的 Azure 基礎結構
+- 驗證 SAP 工作負載的 Azure 基礎結構
 - 運作 Azure SAP 基礎結構
 roles:
 - administrator
@@ -36,6 +43,9 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2
 exams:
 - uid: exam.az-120
 resources:
+- title: Azure 認證海報
+  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -49,6 +59,6 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
 

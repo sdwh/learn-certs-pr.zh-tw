@@ -10,11 +10,11 @@ ms.date: 04/01/2020
 ms.author: micsullivan
 ---
 
-＃授權 Microsoft 學習合作夥伴的學生存取 Microsoft Learning Azure Pass
+# 授權 Microsoft 學習合作夥伴的學生存取 Microsoft Learning Azure Pass
 
-<div style='color&#58; red;'><font color="red">針對冠狀病毒(COVID-19)，Microsoft <a href="https://azure.microsoft.com/blog/">在最需要 Azure</a> 容量設定優先權。為了支援此原則，我們已從課程工具 marketplace 和 MCT Azure Pass 入口網站中永久刪除了 Azure Pass 訂閱。</font></div>
+<div style='color&#58; red;'><font color="red">Microsoft WWL 已恢復對 Azure 通行證的存取。請注意，這是非SLA解決方案，某些地區可能仍遇到資源限制。 <br/><br/> Azure界面將提供有關支持哪些區域和大小以及是否對所選區域有重大要求的反饋。考慮使用訂閱支持的另一個區域，該區域沒有明顯的需求或大小限制。 <br/><br/>有關由 SLA 支持的替代解決方案的更多資訊，請與當前提供對 Azure 的存取權限的授權實驗室主機 (ALH) 之一聯繫。</font></div>
 
-最近更新時間:**2020 年 3 月 26 日**
+最近更新時間：**2020年6月5日**
 
 當學生使用 Microsoft 官方課程註冊符合條件的 Azure 相關課程時，Microsoft 將提供您的學生 30 天免費 Microsoft Azure Pass 的存取權限。學生的許可證只能由經授權的 Microsoft 學習合作夥伴透過課程工具 Marketplace 取得，並且與 MOC 課程的購買直接相關，每訂購一門 MOC 課程最多可以許可一次。沒有其他為學生獲得許可證的機制。如果學習合作夥伴訂購 MOC 課程，但未選擇購買時該課程可用的 Azure Pass，則合作夥伴可以選擇返回課程工具 Marketplace，接下來在需要時訂購該許可證。
 
@@ -26,7 +26,7 @@ ms.author: micsullivan
 
 可提供給學習合作夥伴和 MCT 的許可證數量有限。只有在供應持續且僅在支援 Microsoft Azure 的[國家](https://www.windowsazure.com/pricing/faq/)中，才能保證可用性。
 
-**資格**:下面列出符合學生 Azure 許可證的課程，當地語系化的相同版本也符合條件:
+**資格**：下面列出符合學生 Azure 許可證的課程，當地語系化的相同版本也符合條件：
 
 - 10986 Updating Your Skills to SQL Server 2016
 - 10998 Updating Your Skills to SQL Server 2017
@@ -42,7 +42,6 @@ ms.author: micsullivan
 - 40501 Microsoft Cloud Workshop: Cloud-native applications
 - 40502 Microsoft Cloud Workshop: Big Data & Visualization
 - 40503 Microsoft Cloud Workshop: Enterprise-ready Cloud
-- 40504 Microsoft Cloud Workshop: 智慧販賣機
 - 40505 Microsoft Cloud Workshop: Internet of Things
 - 40508 Microsoft Cloud Workshop: Modern Cloud Apps
 - 40510 Microsoft Cloud Workshop: SQL Server Hybrid Cloud
@@ -50,10 +49,8 @@ ms.author: micsullivan
 - 40512 Microsoft Cloud Workshop: App Modernization
 - 40513 Microsoft Cloud Workshop: Building a Resilient IaaS Architecture
 - 40514 Microsoft Cloud Workshop: Data Platform Upgrade and Migration
-- 40516 Microsoft Cloud Workshop: Intelligent Analytics
 - 40515 Microsoft Cloud Workshop: Enterprise-Class Networking in Azure
 - 40516 Microsoft Cloud Workshop: Intelligent Analytics
-- 40517 Microsoft Cloud Workshop: Migrate EDW to Azure SQL Data Warehouse
 - 40519 Microsoft Cloud Workshop: SAP on Azure
 - 40522 Microsoft Cloud Workshop: Azure Stack
 - 40526 Microsoft Cloud Workshop: SAP HANA on Azure
@@ -62,12 +59,9 @@ ms.author: micsullivan
 - 40529 Microsoft Cloud Workshop: High Performance Computing
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City
-- 40532 Microsoft Cloud Workshop: Mobile App Innovation
-- 40532 Microsoft Cloud Workshop: Mobile App Innovation
 - 40533 Microsoft Cloud Workshop: OSS PaaS and DevOps
 - 40534 Microsoft Cloud Workshop: Securing PaaS
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
-- 40550 Microsoft Cloud Workshop: Windows Server and SQL Server 2008-R2 end of support planning
 - 40557 Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics
 - 40558 Microsoft Cloud Workshop: Line-of-business application migration
 - 40559 Microsoft Cloud Workshop: MLOps
@@ -85,7 +79,9 @@ ms.author: micsullivan
 - 55247 Designing and Implementing Cloud Data Platform Solutions
 - 55264 Introduction to Programming Using Python
 - AI-100T01 Designing and Implementing an Azure AI Solution
+- AI-900T00 Microsoft Azure AI Fundamentals
 - AZ-010T00 Azure Administration for AWS SysOps
+- AZ-020T00 Microsoft Azure solutions for AWS developers
 - AZ-103T00 Microsoft Azure Administrator
 - AZ-104T00 Microsoft Azure Administrator
 - AZ-120T00 Planning and Administering Microsoft Azure for SAP Workloads
@@ -94,8 +90,9 @@ ms.author: micsullivan
 - AZ-220T00 Microsoft Azure IoT Developer
 - AZ-300T0X Azure Solutions Architect - Technologies courses
 - AZ-301T0X Azure Solutions Architect - Design courses
+- AZ-303T00 Microsoft Azure Architect Technologies
+- AZ-304T00 Microsoft Azure Architect Design
 - AZ-400T00 Designing and Implementing Microsoft DevOps Solutions
-- AZ-400T0X Azure DevOps Engineer courses
 - AZ-500T00 Microsoft Azure Security Technologies
 - AZ-900T00 Microsoft Azure Fundamentals (2 Day)
 - DP-050T00 Migrate SQL workloads to Azure
@@ -104,13 +101,11 @@ ms.author: micsullivan
 - DP-100T01 Designing and Implementing a Data Science Solution on Azure
 - DP-200T01 Implementing an Azure Data Solution
 - DP-201T01 Designing an Azure Data Solution
-- MB-300T00 Microsoft Finance and Operations Core
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
-- MB-700T00 Microsoft Dynamics 365: Finance and Operations Apps Solution Architect
 - WS-050T00 Migrating Application Workloads to Azure
 
-Note: 此清單可能會更改，並且隨著新版本或課程的發佈以及舊版本和課程的停止提供，標題可能會新增到此清單中或從中刪除。
+附註：此清單可能會更改，並且隨著新版本或課程的發佈以及舊版本和課程的停止提供，標題可能會新增到此清單中或從中刪除。
 
 ## 如何申請許可證
 
@@ -120,7 +115,7 @@ Note: 此清單可能會更改，並且隨著新版本或課程的發佈以及�
 
 ## 有關 Microsoft Learning Azure Pass 的詳細資訊
 
-Microsoft 學習合作夥伴可用的此學生許可證與 [公開可用的 Microsoft Azure 試用訂閱](https://azure.microsoft.com/pricing/free-trial/)具有相同的限制以同樣的方法，有效地起作用。此許可證不需要支付工具，即不需要信用卡詳細資訊即可啟用許可證。以下是供我們的 Microsoft 學習合作夥伴和講師使用的 Microsoft Learning Azure Pass 功能的概述:
+Microsoft 學習合作夥伴可用的此學生許可證與 [公開可用的 Microsoft Azure 試用訂閱](https://azure.microsoft.com/pricing/free-trial/)具有相同的限制以同樣的方法，有效地起作用。此許可證不需要支付工具，即不需要信用卡詳細資訊即可啟用許可證。以下是供我們的 Microsoft 學習合作夥伴和講師使用的 Microsoft Learning Azure Pass 功能的概述：
 
 | 學習合作夥伴 Microsoft Student Azure Pass |
 | --- |
@@ -141,6 +136,6 @@ Microsoft 學習合作夥伴可用的此學生許可證與 [公開可用的 Micr
 | 不能用於購買由 Marketplace 或 Store 出售的產品，或與 Azure 分開出售的其他產品(例如，Microsoft Azure Active Directory Premium)。|
 | 可以轉換為標準付費訂閱，並保留使用此 Microsoft Learning Azure Pass 在 Azure 中建立的任何作品。|
 
-可從以下網站檢視可公開獲得的試用訂閱的所有法律功能的完整列表:[https://azure.microsoft.com/offers/azure-pass/](https://azure.microsoft.com/offers/azure-pass/).
+可從以下網站檢視可公開獲得的試用訂閱的所有法律功能的完整列表：[https://azure.microsoft.com/offers/azure-pass/](https://azure.microsoft.com/offers/azure-pass/).
 
 (請注意，僅提供此連結以增加清晰度，而與此版本的 Microsoft Student Azure Pass 並不是唯一相關)

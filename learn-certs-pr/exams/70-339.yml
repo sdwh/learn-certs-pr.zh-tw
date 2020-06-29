@@ -8,7 +8,7 @@ displayName: 70-339
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div><strong>該測驗將於美國中部時間 2021 年 1 月 31 日晚上11&#58;59 停止提供。在此日期之後，您將無法參加測驗。詳細瞭解 <a href='/learn/certifications/retired-certification-exams'>upcoming exam retirements</a>.<br/><br/></strong></div>
+  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
   </div>
 
   本測驗的目標對象是在資料中心和雲端中負責安裝、設定、部署和管理 SharePoint 2016 安裝且經驗豐富的 IT 專業人員。應試者通常擁有四年以上規劃與維護 SharePoint 與 SharePoint 依賴之其他核心技術的經驗，包含 Windows Server 2008 R2 或更新版本、Internet Information Services (IIS)、SQL Server 2008 R2 或更新版本、Active Directory 及網路功基礎架構服務。
@@ -33,8 +33,7 @@ locales:
 levels:
 - intermediate
 skills:
-- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
-- 設計SharePoint基礎(15 '-20%)
+- 設計SharePoint基礎(15-20%)
 - 規劃驗證和安全性 (15-20%)
 - 規劃工作負載最佳化 (15-20%)
 - 規劃生產力解決方案(15-20%)
@@ -57,9 +56,9 @@ resources:
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
