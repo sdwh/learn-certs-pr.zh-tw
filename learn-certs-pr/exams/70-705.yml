@@ -16,7 +16,7 @@ summary: |-
 subTitle: 本考試是為向大型組織銷售授權解決方案的銷售人員設計的。此類別中的組織通常具有 250 個或更多裝置或使用者。應試者應至少有六個月的銷售 Microsoft 授權解決方案的經驗，以及對所有 Microsoft 企業授權解決方案有基本瞭解，包括 Enterprise 合約，Enterprise Subscription 合約，雲端解決方案提供者(CSP)，MPSA, OEM, 以及 Open 和 Open Value。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trl8
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-705&examname=Designing%20and%20Providing%20Microsoft%20Licensing%20Solutions%20to%20Large%20Organizations&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-705
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=705&examname=Designing%20and%20Providing%20Microsoft%20Licensing%20Solutions%20to%20Large%20Organizations&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-705
 locales:
 - en
 - zh-cn

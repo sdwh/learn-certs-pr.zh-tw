@@ -20,7 +20,7 @@ subTitle: '此測驗的應試者是使用 Microsoft Visual Studio 2017 和 Micro
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMe
 practiceTestUrl: https://www.mindhub.com/70-487-developing-microsoft-azure-and-web-services/p/MU-70-487?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-487&examname=Developing%20Microsoft%20Azure%20and%20Web%20Services&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-487
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=487&examname=Developing%20Microsoft%20Azure%20and%20Web%20Services&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-487
 locales:
 - en
 - zh-cn

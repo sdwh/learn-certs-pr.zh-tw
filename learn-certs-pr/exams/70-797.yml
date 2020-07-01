@@ -20,7 +20,7 @@ summary: |-
 subTitle: 本測驗會針對建立固態身分識別、內容保護 (資料遺失保護)、行動裝置管理原則、使用 Hyper-V 虛擬化、使用公司入口網站與 Windows 市集執行應用程式管理，驗證應試者的基本知識與技能。應試者會在 Windows 10 安全性與整合的 Azure 功能方面接受評估。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjT
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
 locales:
 - en
 levels:

@@ -16,7 +16,7 @@ summary: |-
 subTitle: 本測驗適合具有兩年以上經驗、且想驗證其編寫查詢技能與知識的 SQL Server 資料庫管理員、系統工程師和開發人員。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t54W
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-461&examname=Querying%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-461
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=461&examname=Querying%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-461
 locales:
 - en
 - zh-cn

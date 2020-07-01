@@ -16,7 +16,7 @@ summary: |-
 subTitle: 本測驗的物件主要是建立商業智慧 (BI) 解決方案，且其職責包括資料清理，及「擷取、轉換和載入」與資料倉儲實作的 ETL 和資料倉儲開發人員。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toVI
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-463&examname=Implementing%20a%20Data%20Warehouse%20with%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-463
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=463&examname=Implementing%20a%20Data%20Warehouse%20with%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-463
 locales:
 - en
 - zh-cn

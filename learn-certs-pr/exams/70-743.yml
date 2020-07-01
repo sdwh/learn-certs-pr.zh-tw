@@ -19,7 +19,7 @@ subTitle: 此測驗的應試者是實作 Windows Server 2016 核心基礎設施�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IoQP
 practiceTestUrl: https://www.mindhub.com/70-743-Upgrade-Your-Skills-to-Windows-Server-2016-p/mu-70-743_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-743&examname=Upgrading%20Your%20Skills%20to%20MCSA:%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-743
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=743&examname=Upgrading%20Your%20Skills%20to%20MCSA:%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-743
 locales:
 - en
 - es

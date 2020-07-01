@@ -15,7 +15,7 @@ subTitle: 本測驗適合具有兩年以上經驗、且想驗證其編寫查詢�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiOm
 practiceTestUrl: https://www.mindhub.com/search?query=70-761&amp;categoryId=11284?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-761&examname=Querying%20Data%20with%20Transact-SQL&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-761
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=761&examname=Querying%20Data%20with%20Transact-SQL&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-761
 locales:
 - en
 levels:

@@ -17,7 +17,7 @@ subTitle: 此測驗是一系列測驗的第二部分，此系列包含兩個測�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t54V
 practiceTestUrl: https://www.mindhub.com/70-414-Implementing-an-Advanced-Infrastructure-p/mu-70-414_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-414&examname=Implementing%20an%20Advanced%20Server%20Infrastructure&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-414
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=414&examname=Implementing%20an%20Advanced%20Server%20Infrastructure&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-414
 locales:
 - en
 - zh-cn

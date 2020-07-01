@@ -14,7 +14,7 @@ summary: |-
 subTitle: 本測試的應試者應該能夠良好地理解如何使用 Microsoft Excel 來執行資料分析。應試者還應當能夠使用、轉化、建模以及視覺化 Excel 中的資料。應試者還應具有在 PowerPivot, PivotTables, 和 PivotCharts 中設定和處理資料的能力。應試者可能包括 BI 專業人員、資料分析師，以及其他負責使用 Excel 分析資料的相關職業人員。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t555
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-779&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Excel&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-779
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=779&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Excel&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-779
 locales:
 - en
 levels:

@@ -16,7 +16,7 @@ summary: |-
 subTitle: 此測驗適用於執行安裝、維護及設定工作的資料庫專業人員。其他職責包括設定資料庫系統、確保這些系統能有效運作，以及定期儲存、備份資料並保護資料免受未經授權的存取。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIN
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-462&examname=Administering%20Microsoft%20SQL%20Server%202012/2014%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-462
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=462&examname=Administering%20Microsoft%20SQL%20Server%202012/2014%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-462
 locales:
 - en
 - zh-cn
