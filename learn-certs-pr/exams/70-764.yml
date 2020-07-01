@@ -15,7 +15,7 @@ subTitle: 此測驗適用於執行安裝、維護及設定工作的資料庫專�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfJx
 practiceTestUrl: http://www.mindhub.com/70-764-Administering-SQL-Database-Infrastructure-p/mu-70-764_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-764&examname=Administering%20a%20SQL%20Database%20Infrastructure&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-764
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=764&examname=Administering%20a%20SQL%20Database%20Infrastructure&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-764
 locales:
 - en
 levels:

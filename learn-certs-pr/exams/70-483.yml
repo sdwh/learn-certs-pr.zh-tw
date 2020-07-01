@@ -27,7 +27,7 @@ subTitle: 此測驗的應試者使用C#編寫各種應用程式型別，硬體�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMh
 practiceTestUrl: https://www.mindhub.com/70-483-Programming-in-C-p/mu-70-483_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-483&examname=Programming%20in%20C#&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-483
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=483&examname=Programming%20in%20C#&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-483
 locales:
 - en
 - zh-cn

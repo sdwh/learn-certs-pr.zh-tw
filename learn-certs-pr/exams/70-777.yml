@@ -16,7 +16,7 @@ summary: |-
 subTitle: 本測驗的應試者是使用 Azure Cosmos DB 的開發人員和架構師。應試者應該了解分割區、複製和資源治理的基本概念，以構建和設定與 Cosmos DB API 無關的可伸縮應用程式。應試者還應具備 Cosmos DB SQL API 的基本工作知識。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjS
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-777&examname=Implementing%20Microsoft%20Azure%20Cosmos%20DB%20Solutions&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-777
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=777&examname=Implementing%20Microsoft%20Azure%20Cosmos%20DB%20Solutions&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-777
 locales:
 - en
 levels:
