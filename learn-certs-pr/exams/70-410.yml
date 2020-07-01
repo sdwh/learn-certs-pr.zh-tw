@@ -17,7 +17,7 @@ subTitle: 此測驗是三個系列測驗的第一部分，本系列測試在現�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJk
 practiceTestUrl: https://www.mindhub.com/70-410-Installing-and-Configuring-Windows-Server-p/mu-70-410_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=70-410&examname=Installing%20and%20Configuring%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-410
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=410&examname=Installing%20and%20Configuring%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-410
 locales:
 - en
 - zh-cn
