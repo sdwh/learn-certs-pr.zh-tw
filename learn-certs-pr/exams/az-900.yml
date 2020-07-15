@@ -18,17 +18,17 @@ summary: |-
   該測驗適用於開始使用基於雲端的解決方案和服務的人們。應試者應該能夠證明有關雲端概念以及 Azure 服務、工作負載、安全性、隱私權、定價和支援的基本知識。此外，您應該熟悉網路、存儲、計算、應用程式支援和應用程式開發的概念。
 
   Azure 基礎知識可用於準備其他基於 Azure 角色的或專業的認證，但這不是其中任何一項的先決條件。
-subTitle: '“這項測驗將衡量您理解以下概念的能力：雲端概念；核心 Azure 服；安全性、隱私權、合規性和信任；以及 Azure 定價和支持。”'
+subTitle: '這項測驗將衡量您理解以下概念的能力：雲端概念；核心 Azure 服；安全性、隱私權、合規性和信任；以及 Azure 定價和支持。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
-- providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer  
 locales:
 - en
 - ja
@@ -37,7 +37,7 @@ locales:
 levels:
 - beginner
 skills:
-- 該測驗的內容更新于 2020 年 5 月 28 日.請下載下面概述的測驗技能，以了解已發生什麼變化。'
+- 該測驗的內容更新于 2020 年 5 月 28 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
 - 描述雲端概念 (15-20%)
 - 描述核心 Azure 服務 (30-35%)
 - 描述安全性、隱私權、合規性和信任 (25-30%)
@@ -50,7 +50,10 @@ courses:
 - uid: course.az-900t01
 - uid: course.az-900t00
 paths:
-- uid: learn.cloud-foundations
+- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
+- uid: learn.wwl.distinguish-microsoft-azure-core-services
+- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
+- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
 relatedCertifications:
 - related:
     uid: certification.azure-fundamentals

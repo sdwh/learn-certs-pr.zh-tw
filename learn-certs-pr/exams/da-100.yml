@@ -18,20 +18,20 @@ subTitle: '此測驗會評量您達成下方技術性工作的能力：準備資
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
-- providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 準備資料(20 -25%)
-- 對資料建模(25 -30%)
-- 可視化資料(20 -25%)
-- 分析資料(10 -15%)
-- 部署和維護交付項目(10 -15%)
+- 準備資料(20-25%)
+- 對資料建模(25-30%)
+- 可視化資料(20-25%)
+- 分析資料(10-15%)
+- 部署和維護交付項目(10-15%)
 roles:
 - data-analyst
 products:

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Analyzing Data with Power BI
+title: Analyzing Data with Microsoft Power BI
 metadata:
-  title: 'Course DA-100T00-A: Analyzing Data with Power BI'
-  description: 'Course DA-100T00-A: Analyzing Data with Power BI'
+  title: 'Course DA-100T00-A: Analyzing Data with Microsoft Power BI'
+  description: 'Course DA-100T00-A: Analyzing Data with Microsoft Power BI'
 uid: course.da-100t00
 courseNumber: 'DA-100T00-A'
 hoursToComplete: 120
@@ -26,7 +26,7 @@ products:
 exams:
 - uid: exam.da-100
 summary: |-
-  本課程將討論與使用 Power BI 建模，視覺效果和分析資料的業務和技術要求相一致的各種方法和最佳實踐。該課程還將展示如何存取和處理來自一系列資料源的資料，包括關係資料和非關係資料。本課程還將探討如何在 Power BI 範圍內（包括資料集和組）實作適當的安全標準和策略。本課程還將討論如何管理和部署用於共享和內容分發的報告和儀表板。最後，本課程將展示如何在 Power BI 服務中構建分頁的報表，並將其發佈到工作區以包含在 Power BI 中。
+  本課程將於 2020 年 7 月 24 日發佈。本課程將討論與使用 Power BI 建模，視覺效果和分析資料的業務和技術要求相一致的各種方法和最佳實踐。該課程還將展示如何存取和處理來自一系列資料源的資料，包括關係資料和非關係資料。本課程還將探討如何在 Power BI 範圍內（包括資料集和組）實作適當的安全標準和策略。本課程還將討論如何管理和部署用於共享和內容分發的報告和儀表板。最後，本課程將展示如何在 Power BI 服務中構建分頁的報表，並將其發佈到工作區以包含在 Power BI 中。
 
   #### 對象設定檔
   本課程的讀者是想要學習如何使用 Power BI 準確執行資料分析的資料專業人員和商業智慧專業人員。本課程還面向那些開發報告的人員，這些報告可以視覺效果來自雲端和內部部署中的資料平台技術的資料。
@@ -40,7 +40,7 @@ outlineSection: |-
   - 識別資料分析師的任務
 
 
-  #### 實驗室 &#58; 入門
+  #### 實驗室&#58; 入門
   - 入門
 
   完成本單元後，學生將能夠&#58;
@@ -58,7 +58,7 @@ outlineSection: |-
   - 資料分析
 
 
-  #### 實驗室 &#58; 在 Power BI Desktop 中準備資料
+  #### 實驗室&#58; 在 Power BI Desktop 中準備資料
   - 準備資料
 
   完成本單元後，學生將能夠&#58;
@@ -79,7 +79,7 @@ outlineSection: |-
   - 設定資料加載和解決錯誤
 
 
-  #### 實驗室 &#58; 在 Power BI Desktop 中加載資料
+  #### 實驗室&#58; 在 Power BI Desktop 中加載資料
   - 載入資料中
 
   完成本單元後，學生將能夠&#58;
@@ -97,7 +97,7 @@ outlineSection: |-
   - 模型效能
 
 
-  #### 實驗室 &#58; Power BI Desktop中的資料建模
+  #### 實驗室&#58; Power BI Desktop中的資料建模
   - 創建模型關係
   - 設定表
   - 查看模型介面
@@ -119,7 +119,7 @@ outlineSection: |-
   - 問答注意事項
 
 
-  #### 實驗室 &#58; 高階資料建模
+  #### 實驗室&#58; 高階資料建模
   - 建立一對多關係
   - 加強行級安全性
 
@@ -139,11 +139,11 @@ outlineSection: |-
   - 時間智慧功能
 
 
-  #### 實驗室 &#58; 在 Power BI 中使用 DAX - 第 1 部分
+  #### 實驗室&#58; 在 Power BI 中使用 DAX - 第 1 部分
   - 創建計算表
   - 建立量值
 
-  #### 實驗室 &#58; 在 Power BI 中使用 DAX - 第 2 部分
+  #### 實驗室&#58; 在 Power BI 中使用 DAX - 第 2 部分
   - 使用篩選器內容
   - 使用時間智慧
   - 發布 Power BI Desktop 文檔
@@ -178,7 +178,7 @@ outlineSection: |-
   - 完善報告
 
 
-  #### 實驗室 &#58; 在 Power BI Desktop 中設計報告-第1部分
+  #### 實驗室&#58; 在 Power BI Desktop 中設計報告-第1部分
   - 創建報告
   - 登錄到Power BI服務
 
@@ -197,7 +197,7 @@ outlineSection: |-
   - 改善報告
 
 
-  #### 實驗室 &#58; 在 Power BI Desktop 中設計報告-第2部分
+  #### 實驗室&#58; 在 Power BI Desktop 中設計報告-第2部分
   - 設定同步交叉分析篩選器
   - 設定鑽研
   - 添加條件式格式設定
@@ -241,7 +241,7 @@ outlineSection: |-
   - 高階分析
 
 
-  #### 實驗室 &#58; Power BI Desktop 中的資料分析
+  #### 實驗室&#58; Power BI Desktop 中的資料分析
   - 創建報告
   - 創建散佈圖
   - 建立預測
@@ -266,7 +266,7 @@ outlineSection: |-
   - 共享和分發內容
 
 
-  #### 實驗室 &#58; 發布和共享 Power BI 內容
+  #### 實驗室&#58; 發布和共享 Power BI 內容
   - 設定資料集安全
   - 共享儀表板
   - 發布應用程式
@@ -288,7 +288,7 @@ outlineSection: |-
   - 完善和發布報告
 
 
-  #### 實驗室 &#58; 創建分頁報告
+  #### 實驗室&#58; 創建分頁報告
   - 入門
   - 編制報告
 

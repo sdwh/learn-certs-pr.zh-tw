@@ -4,22 +4,30 @@
   href: deals.md
 - name: 大量授權
   href: volume-licensing-program.md
+- name: Microsoft Learning Partners
+  href: partners.md
 - name: 停止提供的認證，測驗和課程
   expanded: false
   items:
-  - name: 撤銷的證書
+  - name: 停用的證書
     href: retired-certifications.md
   - name: 停止提供的測驗
     href: retired-certification-exams.md 
   - name: 停止提供的課程
     href: retired-courses.md
-- name: 成為經 Microsoft Certified Trainer
+- name: 成為經 Microsoft 認證的訓練師
   href: mct-certification.md
-- name: 關於 Microsoft Certification exams
+- name: 關於Microsoft認證考試
   href: certification-exams.md
-- name: 關於在線考試
+- name: Microsoft 測驗與認證徽章
+  href: badges.md
+- name: 關於線上測驗
   href: online-exams.md
-- name: 測驗規則和常見問題解答
+- name: 測驗政策和常見問題
   href: certification-exam-policies.md
 - name: 認證說明
   href: help.md
+- name: Microsoft Certification program FAQs 
+  href: microsoft-certification-program-faqs.md
+- name: 移轉到 Microsoft Learning...
+  href: learnfaq.md
