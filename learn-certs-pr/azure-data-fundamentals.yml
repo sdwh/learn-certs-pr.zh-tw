@@ -5,7 +5,7 @@ metadata:
   description: Azure 資料基礎知識驗證了核心資料概念的基礎知識以及如何使用 Microsoft Azure 資料服務實作它們。
 uid: certification.azure-data-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: "<div><strong><font color='red'>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</font></strong><br/><br/></div>\r\n\r\nAzure 資料基礎認證的應試者應具有核心資料概念的基本知識，以及如何使用 Microsoft Azure 資料服務實作這些知識。  \r\n\r\n該認證適用於開始使用雲端中資料的應試者。  \r\n\r\n應試者應該熟悉關係和非關係資料的概念，以及不同類型的資料工作負載，例如事務性或分析性。  \r\n\r\nAzure 資料基礎知識可用於為其他基於 Azure 角色的認證做準備，例如 Azure Database Administrator Associate 或 Azure Data Engineer Associate，但這不是其中任何一個的先決條件。"
+summary: "<div><strong><font color='red'>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</font></strong><br/><br/></div>\r\n\r\nAzure 資料基礎認證的應試者應具有核心資料概念的基本知識，以及如何使用 Microsoft Azure 資料服務實作這些知識。  \r\n\r\n該認證適用於開始使用雲端中資料的應試者。  \r\n\r\n應試者應該熟悉關係和非關係資料的概念，以及不同類型的資料工作負載，例如事務性或分析性。  \r\n\r\nAzure 資料基礎知識可用於為其他基於 Azure 角色的認證做準備，例如 Azure Database Administrator Associate 或 Azure Data Engineer Associate，但這不是其中任何一個的先決條件。"
 subTitle: Azure 資料基礎知識驗證了核心資料概念的基礎知識以及如何使用 Microsoft Azure 資料服務實作它們。
 levels:
 - beginner
@@ -20,6 +20,8 @@ roles:
 type: fundamentals
 products:
 - azure
+paths:
+- uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wqeZ
 exams:
 - uid: exam.dp-900

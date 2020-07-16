@@ -8,7 +8,7 @@ displayName: MB-200
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'> 該測驗的內容更新于 2020 年 5 月 1 日.請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
+  <div style='font-weight&#58; bold;'> 該測驗的內容更新于 2020 年 7 月 1日。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
   </div>
 
   該測驗的應試者是功能顧問，他們可以存取企業授權產品的特性和功能。作為一名功能顧問，候選人知道功能的捆綁版本，但並不主要使用這些捆綁產品。
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容更新于 2020 年 5 月 1 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
+- 該測驗的內容更新于 2020 年 7 月 1 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
 - 執行探索，計畫和分析(5-10%)
 - 管理使用者體驗設計 (20-25%)
 - 管理實體和資料(15-20%)

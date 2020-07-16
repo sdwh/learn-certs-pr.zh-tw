@@ -8,7 +8,7 @@ displayName: MB-230
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'> 該測驗的內容更新于 2020 年 5 月 1 日.請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
+  <div style='font-weight&#58; bold;'> 該測驗的內容更新于 2020 年 7 月 1日。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
   </div>
 
   本測驗的應試者是具有客戶服務專業知識的 Dynamics 365 功能顧問。應試者負責實施全渠道解決方案，重點關註服務、質量、可靠性、效率和客戶滿意度。
@@ -28,7 +28,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容更新于 2020 年 5 月 1 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
+- 該測驗的內容更新于 2020 年 7 月 1 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
 - 執行配置(25-30%)
 - 管理服務案與知識庫 (30-35%)
 - 管理隊列、權利和 SLA (25-30%)
@@ -46,7 +46,7 @@ paths:
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-bizapps.dyn365-voice-of-customer
+- uid: learn-dynamics.create-forms
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-customer-service
