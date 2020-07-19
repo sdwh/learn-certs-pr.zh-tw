@@ -42,6 +42,8 @@ products:
 - azure-storage
 - azure-virtual-machines
 - sql-server
+courses:
+- uid: course.dp-300t00
 relatedCertifications:
 - related:
     uid: certification.azure-database-administrator-associate
@@ -59,9 +61,9 @@ resources:
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 要求住宿
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

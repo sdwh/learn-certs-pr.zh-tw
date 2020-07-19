@@ -15,7 +15,11 @@ subTitle: 本測驗的應試者應該能夠識別並書寫語法正確的 HTML �
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyQ
 practiceTestUrl: https://www.mindhub.com/mta-98-383-introduction-to-programming-using-html-and-css-microsoft-official-practice-test/p/MU-98-383?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-383&examname=Introduction%20to%20Programming%20Using%20HTML%20and%20CSS&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-383
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-383&examname=Introduction%20to%20Programming%20Using%20HTML%20and%20CSS&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-383
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -48,7 +52,7 @@ resources:
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

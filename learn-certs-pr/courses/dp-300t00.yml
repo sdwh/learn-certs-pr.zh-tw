@@ -1,0 +1,184 @@
+### YamlMime:Course
+title: Administering Relational Databases on Microsoft Azure
+metadata:
+  title: 'Course DP-300T00-A: Administering Relational Databases on Microsoft Azure'
+  description: 'Course DP-300T00-A: Administering Relational Databases on Microsoft Azure'
+uid: course.dp-300t00
+courseNumber: 'DP-300T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 計劃、部署和設定Azure SQL產品
+- skill: 監視資料庫效能並調整資料庫和查詢以獲得最佳效能
+- skill: 規劃並實作高可用性解決方案
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- database-administrator
+products:
+- azure
+- azure-automation
+- azure-database-mysql
+- azure-database-postgresql
+- azure-sql-database
+- azure-storage
+- azure-virtual-machines
+- sql-server
+exams:
+- uid: exam.dp-300
+summary: |-
+  本課程向學生提供知識和技能，以管理用於雲端，內部和混合關係資料庫的SQL Server資料庫基礎結構，並與Microsoft PaaS關係資料庫產品一起使用。此外，它對開發從基於SQL的關係資料庫傳遞內容的應用程式的個人有用。
+
+  #### 對象設定檔
+  本課程的讀者是管理資料和資料庫的資料專業人員，他們想要學習有關管理Microsoft Azure上可用的資料平台技術的知識。對於需要了解哪些技術可用於Azure資料平台以及如何透過應用程式使用這些技術的資料架構師和應用程式開發人員來說，本課程也很有價值。
+prerequisitesSection: |-
+  除了專業經驗外，參加此訓練的學生還應具有與以下課程相當的技術知識&#58;
+  - Azure Fundamentals
+  - Azure Data Fundamentals
+outlineSection: |-
+  ### 模組 1&#58; Azure資料庫管理員的角色
+  本模組探討Azure中資料庫管理員的角色。它還提供了一些與總體內容相關的基礎信息。其中包括對各種基於SQL Server的選項(VM，受控執行個體和Azure SQL資料庫中的SQL Server）的回顧。學生將了解為什麼在Azure中使用SQL資料庫時兼容性級別是至關重要的概念。除了基於SQL Server的資料庫平台外，還向學生介紹了Azure上可用的其他資料庫平台，特別是PostgreSQL和MySQL 
+  #### 課程
+  - Azure資料平台角色
+  - Azure資料庫平台和選項
+  - SQL Server兼容性級別
+  - Azure預覽功能
+
+
+  #### 實驗室&#58; 使用Azure入口和SQL Server Management Studio
+  - 在Azure 虛擬機器上提供 SQL Server
+  - 連接到SQL Server並還原備份
+
+  完成本單元後，學生將&#58;
+  - 了解適合其他資料平台角色的Azure資料庫管理員角色
+  - 能夠描述基於SQL Server的資料庫操作之間的關鍵區別
+  - 能夠描述版本和兼容性級別之間的差異
+  - 了解如何啟用和禁用預覽功能 
+
+
+  ### 模組 2&#58; 規劃和實作資料平台資源 
+  本模組介紹了在Azure中部署資料平台資源的方法。您將了解有關將現有SQL資料庫升級和移轉到Azure的選項。您將學習如何設置Azure資源以在虛擬機器，受控執行個體，Azure SQL資料庫以及PostgreSQL或MySQL上受控SQL Server。您將學習如何根據特定需求(包括高可用性和災難恢復(HADR）需求）確定最佳選擇。他們將學習計算資源需求並為他們的部署建立模板。
+  #### 課程
+  - 使用IaaS部署SQL Server
+  - 使用PaaS部署SQL Server
+  - 在Azure上部署開源資料庫解決方案
+
+  #### 實驗室&#58; 部署Azure SQL資料庫
+  - 使用ARM模板部署VM
+  - 在建立資料庫之前設定所需的資源
+  - 部署 Azure SQL 資料庫中
+  - 在Azure Data Studio中註冊Azure SQL資料庫執行個體並驗證連接
+  - 使用客戶端工具部署PostgreSQL或MySQL以驗證連接性
+
+  完成本單元後，學生將&#58;
+  - 使用手動方法部署資源
+  - 根據需求推薦合適的資料庫
+  - 設定資料庫資源
+  - 評估並實作將資料庫移至Azure的策略
+
+
+  ### 模組 3&#58; 實作一個安全環境
+  本模組探討保護SQL Server資料庫以及Azure SQL資料庫的做法。這包括對各種基於SQL Server的選項以及用於保護Azure SQL資料庫以及駐留在Azure SQL資料庫中的資料庫的各種Azure選項的回顧。學生將了解為什麼在使用資料庫時安全性至關重要。除了基於SQL Server的資料庫平台外，還將向學生介紹Azure上可用的其他資料庫平台，尤其是用於MariaDB / MySQL / PostgreSQL的Azure資料庫。
+  #### 課程
+  - 設定資料庫身份驗證
+  - 設定資料庫授權
+  - 為靜態資料實作安全性
+  - 為傳輸中的資料實作安全性
+  - 實作敏感資料的合規控制
+
+  #### 實驗室&#58; 實作一個安全環境
+  - 使用Azure入口設定基於伺服器的防火牆規則
+  - 授權使用Azure Active Directory存取Azure SQL資料庫
+  - 啟用高級資料安全性和資料分類
+  - 管理對資料庫對象的存取
+
+  完成本單元後，學生將&#58;
+  - 了解Windows、SQL Server和Azure Active Directory身份驗證之間的區別
+  - 描述和設定靜態資料加密解決方案以及傳輸中的資料加密
+  - 實作資料存儲解決方案
+
+
+  ### 模組 4&#58; 監控和最佳化運營資源
+  本模組將教您有關使用IaaS或PaaS服務建立的資料庫的資源最佳化的信息。該模組還涵蓋監視伺服器和硬件資源。它將使您熟悉可用於監視效能和建立基準的各種工具。您將學習如何解釋最關鍵資源的效能指標。您還將學習如何使用Azure SQL Database Intelligent Insights對資料庫效能進行故障排除。
+  #### 課程
+  - 基準和效能監測
+  - 效能問題的主要原因
+  - 設定資源以獲得最佳效能
+  - 用戶資料庫設定
+  - 與效能相關的維護任務
+
+  #### 實驗室&#58;監視及最佳化資源
+  - 隔離CPU問題
+  - 使用查詢存儲觀察阻塞問題
+  - 檢測並糾正碎片問題
+
+  完成本單元後，學生將&#58;
+  - 監控活動並與基線進行比較
+  - 定義與效能相關的維護任務
+  - 確定效能問題的主要原因
+  - 設定資源以獲得最佳效能
+  - 設定用戶資料庫以獲得最佳效能
+
+
+  ### 模組 5&#58; 最佳化查詢效能
+  查詢執行計劃可能是資料庫效能最重要的方面。改進不良計劃無疑是一個這樣領域&#58;只需少量的努力就可以帶來巨大的改進。雖然硬件問題可能會限制查詢效能，但改善硬件通常最多只能將效能提高10-20％。更常見的是，資料庫管理員會遇到未經最佳化的查詢，統計信息陳舊或丟失，索引丟失或資料庫設計選擇不當，導致資料庫引擎完成比返回給定查詢結果所需的更多工作。改進計劃有時可以使效能提高100-200％甚至更多，這意味著在改進具有更好索引或統計信息的計劃後，查詢的運行速度可以提高兩倍或三倍！此模組提供有關如何分析單個查詢效能以及確定可以在何處進行改進的詳細信息。
+  #### 課程
+  - 了解SQL Server查詢計劃
+  - 探索基於效能的資料庫設計
+  - 評估效能改進
+
+  #### 實驗室&#58; 查詢效能故障排除
+  - 確定資料庫設計AdventureWorks2017的問題
+  - 在AdventureWorks2017中隔離效能不佳的查詢中的問題區域
+  - 使用查詢存儲來檢測和處理AdventureWorks2017中的回歸
+  - 使用查詢提示影響AdventureWorks2017中的效能
+
+  完成本單元後，學生將&#58;
+  - 分析查詢計劃並確定問題區域
+  - 評估潛在的查詢改進
+  - 查看表和索引設計
+  - 確定查詢或設計更改是否有積極作用
+
+
+  ### 模組 6&#58; 任務自動化
+  在許多環境中，資料庫管理員的共同目標是使許多重複性任務自動化。這可以像使用腳本來自動執行備份過程一樣簡單，也可以像構建全自動警報系統一樣複雜。該模組提供了自動化任務的詳細信息，以簡化DBA的工作。方法包括安排用於常規維護作業的任務，以及多執行個體管理和設定任務成功或失敗或未完成的通知。
+  #### 課程
+  - 設置自動部署
+  - 定義計劃任務
+  - 設定擴展事件
+  - 使用自動化方法管理Azure PaaS資源
+
+  #### 實驗室&#58; 自動化任務
+  - 從GitHub上的快速入門模板部署Azure模板
+  - 根據效果指標設定通知
+  - 部署Azure Automation Runbook(或彈性作業）以在Azure SQL資料庫上重建索引 
+
+  完成本單元後，學生將&#58;
+  - 使用自動部署腳本部署資源
+  - 建立排定的工作
+  - 建立通知和警報
+  - 為PaaS服務設定自動化
+
+
+  ### 模組 7&#58; 及實作高可用性及災難復原環境
+  當業務需要時，資料必須可用。這意味著受控資料的解決方案在設計時必須考慮可用性和可恢復性。假設您在一家同時在商店和在線銷售小部件的公司工作。您的主應用程式對訂單使用高度交易的資料庫。如果受控事務資料庫的伺服器或平台由於某種原因而使其不可用或不可存取，該怎麼辦？這會對業務產生什麼影響？如果部署了正確的解決方案，資料庫將在合理的時間範圍內以最小的努力上線，從而使業務繼續進行，幾乎沒有影響。該模組及其相關實驗室涵蓋了設定，測試和管理Azure中針對基礎結構即服務(IaaS）和平台即服務(PaaS）的高可用性和災難恢復(HADR）解決方案部署。該模組不僅涵蓋基本要求，而且還包括實現HADR的各種選項。
+  #### 課程
+  - 高可用性和災害復原策略
+  - 用於HADR的IaaS平台和資料庫工具
+  - 用於HADR的PaaS平台和資料庫工具
+  - 資料庫備份和恢復
+
+  #### 實驗室&#58; 規劃及實作高可用性及災難復原環境
+  - 建立一個一律開啟的可用性群組
+  - 為Azure SQL資料庫啟用地理複製
+  - 備份到URL並從URL還原
+
+  完成本單元後，學生將瞭解&#58;
+  - 恢復時間和恢復點目標之間的差異
+  - 適用於IaaS和PaaS的HADR選項
+  - 規劃和設定HADR解決方案的注意事項，包括如何備份和還原FI
+  - 構成HADR策略的因素
+  - 如何透過動手實驗室設定高可用性解決方案

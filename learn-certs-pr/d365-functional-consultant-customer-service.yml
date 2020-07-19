@@ -2,11 +2,11 @@
 title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
-  description: 'Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用AI的CX解決方案，以推動可預測客戶需求的可採取動作的見解。'
+  description: Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用AI的CX解決方案，以推動可預測客戶需求的可採取動作的見解。
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒(COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
   Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用AI的CX解決方案，以推動可預測客戶需求的可採取動作的見解。
 subTitle: Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用AI的CX解決方案，以推動可預測客戶需求的可採取動作的見解。
@@ -30,10 +30,7 @@ products:
 - dynamics
 - dynamics-customer-service
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
+- uid: course.mb-200t00
 - uid: course.mb-230t01
 paths:
 - uid: learn-bizapps.create-powerapps
@@ -46,7 +43,7 @@ paths:
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-bizapps.dyn365-voice-of-customer
+- uid: learn-dynamics.create-forms
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6G
 exams:
 - uid: exam.mb-200

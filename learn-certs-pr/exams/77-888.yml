@@ -12,18 +12,18 @@ summary: |-
 subTitle: 專家級 Microsoft Office Excel 2010 用戶能夠在特性與功能級別高效且自信地使用 Excel 2010 軟體。專家用戶精通高階公式、函數與資料分析工具。專家用戶可操縱用於分析、演示與協作的資料。此外，專家用戶還可以操縱 Excel 選項來自訂他們的環境，以滿足不同的需求與提高他們的工作效率。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k0
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=77-888&examname=Excel%202010%20Expert&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-888
 locales:
-- en
 - zh-cn
 - zh-tw
 - de
 - es
 - fr
-- it
 - ja
 - ko
 - nl
+- ar-sa
+- it
 - pt-br
 levels:
 - beginner

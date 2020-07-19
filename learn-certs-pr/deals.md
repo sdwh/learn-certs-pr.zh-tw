@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 ## Exam Replay
 
-驗證您的技能，獲得專業優勢，增強您的信心。重測測驗憑券自購買日起一 (12) 年內有效，且無法與其他優惠合併使用。您必須在購買後的六個月內安排並參加測驗(和重考)。有關詳細資訊，請 [參閱常見問題解答](#frequently-asked-questions)。若購買或兌換“Exam Replay”優惠發生問題，請寄送電子郵件給 [支援 小組](mailto:mindhub@pearson.com)
+驗證您的技能，獲得專業優勢，增強您的信心。重測測驗憑券自購買日起一 (12) 年內有效，且無法與其他優惠合併使用。您必須在購買後的六個月內安排並參加測驗(和重考）。有關詳細資訊，請 [參閱常見問題解答](#frequently-asked-questions)。若購買或兌換“Exam Replay”優惠發生問題，請寄送電子郵件給 [支援 小組](mailto:mindhub@pearson.com)
 
 ### 選擇兩種不同的重測優惠：
 
@@ -33,7 +33,7 @@ ms.author: micsullivan
                 <img src="images/exam-replay-with-practice-test-thumbnail.png">
             </td>
             <td>
-               <p><strong>帶有練習測試的 Microsoft Exam Replay </strong><br/>包括：一 (1) 個 Microsoft 認證專業人士  認證測驗憑券 + 一 (1) 次重測機會(如果需要) 和一 (1) 次 Microsoft 官方練習測驗。</p>
+               <p><strong>帶有練習測試的 Microsoft Exam Replay</strong><br/>包括：一 (1) 個 Microsoft 認證專業人士  認證測驗憑券 + 一 (1) 次重測機會(如果需要) 和一 (1) 次 Microsoft 官方練習測驗。</p>
                <p><a href="https://us.mindhub.com/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink"><strong>立即購買</strong></a></p>
             </td>
         </tr>
@@ -42,16 +42,15 @@ ms.author: micsullivan
 
 
 ## 利用學生折扣省錢
-
-在註冊測驗前先驗證您的學生身分，即可享有 Microsoft Certified Professional  測驗大幅降價的優惠。如果您的學校是 Microsoft Imagine Academy 計劃的成員，您即可能有資格享有額外優惠。*注意：印度或中國不經 Microsoft Certified Professional 認證的 測驗的學生優惠。*
+在註冊測驗前先驗證您的學生身分，即可享有 Microsoft Certified Professional 測驗大幅降價的優惠。*注意：印度或中國不經 Microsoft Certified Professional 認證的 測驗的學生優惠。*
 
 [**瞭解更多**](/learn/certifications/certification-exam-policies)
 
-## <a name="frequently-asked-questions"></a>常見問題集
+## 常見問題集
 
 **問。Q. 什麼是Exam Replay？**
 
-**答案。** 重測是結合一次重考機會的測驗憑券。**帶練習測驗的重測**是一項測驗憑證，包括同一測驗的一次重考和一項單獨的 Microsoft 官方練習測驗的測驗憑券。
+**答案。** 重測是結合一次重考機會的測驗憑券。**帶練習測驗的重測** 是一項測驗憑證，包括同一測驗的一次重考和一項單獨的 Microsoft 官方練習測驗的測驗憑券。
 
 **問。我一次可購買多少張重測憑券？**
 
@@ -63,11 +62,11 @@ ms.author: micsullivan
 
 **問。哪些測驗符合重測的資格？**
 
-**答案。** 重測適用於除 Microsoft Technology Associate(MTA)測驗，Microsoft Office Specialist(MOS)測驗，轉換測驗，基礎考試和Beta測驗之外的所有Microsoft認證測驗。此優惠也適用於所有可用的有效測驗的練習測驗。[檢視可用的練習測驗](https://us.mindhub.com/microsoft-practice-tests)。
+**答案。** 重測適用於除 Microsoft Technology Associate(MTA）測驗，Microsoft Office Specialist(MOS）測驗，轉換測驗，基礎考試和Beta測驗之外的所有Microsoft認證測驗。此優惠也適用於所有可用的有效測驗的練習測驗。[檢視可用的練習測驗](https://us.mindhub.com/microsoft-practice-tests)。
 
 **問。重測憑券效期有多久？**
 
-**答案。** 認證測驗(包括重考)必須在購買後的12個月內安排並進行。
+**答案。** 認證測驗(包括重考）必須在購買後的12個月內安排並進行。
 
 **問。我可以在重測中使用測驗憑券進行線上測驗嗎？**
 
