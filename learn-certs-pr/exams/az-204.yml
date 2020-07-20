@@ -23,6 +23,9 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
 locales:
 - en
+- ja
+- zh-cn
+- ko
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-204&examname=Exam%20AZ-204:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-204
@@ -32,11 +35,11 @@ levels:
 - intermediate
 skills:
 - 該測驗的內容更新于 2020 年 5 月 18 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
-- 開發 Azure 計算解決方案(25 -30%)
+- 開發 Azure 計算解決方案(25-30%)
 - 開發 Azure 存儲 (10-15%)
 - 實作 Azure 安全 (15-20%)
-- 監視，疑難排解和最佳化 Azure 解決方案(10 -15%)
-- 連接並使用 Azure 服務和第三方服務(25 -30%)
+- 監視，疑難排解和最佳化 Azure 解決方案(10-15%)
+- 連接並使用 Azure 服務和第三方服務(25-30%)
 roles:
 - developer
 products:

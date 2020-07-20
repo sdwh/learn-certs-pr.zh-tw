@@ -1,0 +1,274 @@
+### YamlMime:Course
+title: Microsoft Azure Architect Technologies
+metadata:
+  title: 'Course AZ-303T00-A: Microsoft Azure Architect Technologies'
+  description: 'Course AZ-303T00-A: Microsoft Azure Architect Technologies'
+uid: course.az-303t00
+courseNumber: 'AZ-303T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用 Azure Active Directory 以及用戶和組的安全身份。
+- skill: 實作跨內部和基於雲端功能的身份解決方案
+- skill: 應用監視解決方案以蒐集、合併和分析來自不同來源的資料。
+- skill: 管理訂閱、帳戶、Azure 策略和基於角色的存取控制。
+- skill: 使用資源管理器、Azure入口、Cloud Shell 和 CLI 管理Azure。
+- skill: 設定站點間連接解決方案，例如 VNet Peering 和虛擬網路閘道。
+- skill: 管理 Azure 應用服務，Azure 容器執行個體和 Kubernetes。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- solution-architect
+products:
+- azure
+exams:
+- uid: exam.az-303
+summary: |-
+  本課程教解決方案架構師如何將業務需求轉換為安全、可擴充和可靠的解決方案。課程包括虛擬化、自動化、網路、存儲、身份、安全性、資料平台和應用程式基礎結構。本課程概述了這些領域的決策對整體解決方法的影響。
+
+  #### 對象設定檔
+  本課程面向具有設計和實作在 Microsoft Azure 上運行的解決方案的專業知識的 IT 專業人員。應試者應具備跨 IT 運營各個方面的高級經驗和知識，包括網路、虛擬化、身份、安全性、業務連續性、災難恢復、資料管理、預算和治理。Azure 解決方案架構師使用 Azure 入口，在他们更加熟練之后，则会使用命令行界面。應試者必須具有 Azure 管理方面的專家級技能，並且具有 Azure 開發流程和 DevOps 流程的經驗。沒有項目符號或清單。
+prerequisitesSection: |-
+  成功的 Azure 解決方案架構師透過操作系統，虛擬化，雲端基礎結構，存儲結構和網路方面的經驗開始擔任這一角色。
+  - 瞭解內部虛擬化技術，包括&#58; VM，虛擬網路和虛擬硬碟。
+  - 了解網路設定，包括TCP / IP，網域名稱系統(DNS），虛擬私人網路(VPN），防火牆和加密技術。
+  - 了解 Active Directory 概念，包括網域，樹系，網域控制站，複寫，Kerberos 通訊協定和輕量型目錄存取通訊協定(LDAP）。
+  - 了解恢復和災害復原，包括備份和還原操作。
+outlineSection: |-
+  ### 模組 1&#58; 為 Windows 和 Linux 實作 VM
+  在本模組中，您將了解 Azure 虛擬機器，包括規劃，建立，可用性和擴充性。本模組包括&#58;
+  #### 課程
+  - 選擇虛擬機大小
+  - 設定高可用性
+  - 實作 Azure 專用主機
+  - 部署與設定規模集
+  - 為 VM 設定 Azure 磁碟加密
+
+  完成本單元後，學生將能夠&#58;
+  - 規劃虛擬機器實作。
+  - 建立虛擬機器。
+  - 設定虛擬機器可用性，包括擴展集。
+  - 了解 Azure 中 VM 的高可用性選項
+
+
+  ### 模組 2&#58; 自動部署和設定資源
+  在本模組中，您將了解 Azure 管理員用來管理其基礎結構的工具。這包括 Azure 入口網站，Cloud Shell，Azure PowerShell，CLI 和資源管理器範本。本模組包括&#58;
+  #### 課程
+  - Azure Resource Manager 範本
+  - 為虛擬機保存模板
+  - 評估新資源的位置
+  - 設定虛擬硬碟模板
+  - 從模板部署
+  - 建立並執行自動化運行手冊
+
+  完成本單元後，學生將能夠&#58;
+  - 利用 Azure 資源管理員組織資源。
+  - 使用 ARM 範本部署資源。
+  - 建立並執行自動化運行手冊
+  - 從 VHD 部署 Azure VM
+  - Azure 加密技術
+
+
+  ### 模組 3&#58; 實施虛擬網絡
+  在本模組中，您將了解基本的虛擬網路概念，例如虛擬網路和子網路，IP位址，網路安全性群組，Azure 防火牆和 Azure DNS。
+  #### 課程
+  - 虛擬網路對等
+  - 實作 Vnet 對等
+
+  完成本單元後，學生將能夠&#58;
+  - 透過虛擬網路對等連接服務
+  - 設定 VNet Peering
+  - 了解服務鏈
+  - 修改或刪除VNet對等
+
+
+  ### 模組 4&#58; 實作負載平衡和網路安全
+  在本模組中，您將了解網路流量策略，包括網路路由和服務端點，Azure 負載平衡器，Azure 應用程式閘道和流量管理員。
+  #### 課程
+  - 實作Azure負載平衡
+  - 實作應用閘道
+  - 了解Web應用程式防火牆
+  - 實作Azure防火牆
+  - 實作Azure前門
+  - 實作Azure流量管理員
+  - 實作網路安全組和應用程式安全組
+  - 實作 Azure Bastion
+
+  完成本單元後，學生將能夠&#58;
+  - 選擇負載平衡器解決方案
+  - 設定應用程式閘道
+  - 實作Azure防火牆
+  - 建立一個Azure前門
+  - 了解流量管理器的路由方法
+  - 設定網路安全性群組 (NSG)
+
+
+  ### 模組 5&#58;實作儲存賬戶
+  在本模組中，您將了解基本的儲存體功能，包括儲存體帳戶，blob 儲存體，Azure文件和檔案同步，儲存體安全性和儲存體工具。 
+  #### 課程
+  - 儲存體帳戶
+  - Blob 儲存體
+  - 儲存體安全性
+  - 管理儲存體
+  - 使用AAD存取Blob和隊列
+  - 設定Azure存儲防火牆和虛擬網路
+
+  完成本單元後，學生將能夠&#58;
+  - 了解存儲帳戶的服務和類型
+  - 設定Blob存儲、帳戶、容器和存取層
+  - 建立共用存取簽名
+  - 了解Azure存儲防火牆和虛擬網路
+
+
+  ### 模組 6&#58; 實作 Azure Active Directory
+  在本模組中，您將學習如何使用 Azure Active Directory 保護身分識別並實現使用者和群組。
+  #### 課程
+  - Azure Active Directory 概述
+  - 使用者和群組
+  - 網域和自訂網域
+  - Azure AD身分識別保護
+  - 實作條件式存取
+  - 為MFA設定詐騙警示
+  - 實作旁路選項
+  - 設定可信 IP
+  - 在 Azure AD 中設定來賓使用者
+  - 管理多個目錄
+
+  完成本單元後，學生將能夠&#58;
+  - 了解多個AAD組織如何互動
+  - 將來賓使用者添加到Azure AD
+  - 設定位置條件設定
+  - 設定Azure MFA設置
+  - 實作條件存取Azure MFA
+
+
+  ### 模組 7&#58; 實作和管理Azure治理
+  在本模組中，您將了解管理訂閱和帳戶，實作 Azure 原則以及使用角色型的存取控制。
+  #### 課程
+  - 建立管理組、訂閱和資源組
+  - 角色型存取控制(RBAC）概述
+  - 角色型存取控制(RBAC）角色
+  - Azure AD 存取檢閱
+  - 實作和設定Azure策略
+  - Azure 藍圖
+
+  完成本單元後，學生將能夠&#58;
+  - 了解資源組組織
+  - 了解RBAC的運作方式
+  - 管理 Azure AD 存取檢閱
+  - 建立和管理策略以強制合規
+  - 建立藍圖
+
+
+  ### 模組 8&#58; 實作與管理混合身份
+  在本模組中，您將學習如何安裝和設定Azure AD Connect以及實作Azure AD Connect運行狀況。
+  #### 課程
+  - 安裝與設定 Azure AD Connect
+  - 管理密碼同步與密碼回寫
+  - 監視 Azure AD Connect 運作狀況
+
+  完成本單元後，學生將能夠&#58;
+  - 實作 Azure AD無縫單一登錄
+  - 執行 Azure AD Connect安裝
+  - 實作 Azure AD Connect 運作狀況
+
+
+  ### 模組 9&#58; 在Azure上管理工作負載
+  在本模組中，您將學習如何使用Azure Migrate移轉工作負載，執行基於VMware代理的無代理移轉以及執行Azure備份和 Azure 網站恢復。
+  #### 課程
+  - 使用Azure Migrate移轉工作負載
+  - VMware-無代理移轉
+  - VMware-基於代理的移轉
+  - 實作 Azure 備份
+  - Azure 至 Azure 網站恢復
+  - 實作 Azure 更新管理
+
+  完成本單元後，學生將能夠&#58;
+  - 了解基於代理的移轉體系結構
+  - 為Azure移轉做準備
+  - 準備內部VMware環境
+  - 了解Azure VM備份體系結構
+  - 管理Azure VM的更新和修補程式
+
+
+  ### 模組 10&#58; 實作雲端基礎結構監控
+  在本模組中，您將學習有關Azure監視器，Azure工作簿，Azure警報，網路觀察程式，Azure服務運行狀況，Azure應用程式洞察的信息。
+  #### 課程
+  - Azure基礎結構安全監控
+  - Azure 監視器
+  - Azure工作簿
+  - Azure 警示
+  - 記錄分析
+  - 網路監看員
+  - 描述 Azure 服務健康情況
+  - 監視 Azure ATP
+  - Azure 應用程式洞察
+  - Azure中的統一監控
+
+
+  ### 模組 11&#58; 管理應用程式的安全性
+  在本模組中，您將了解Azure Key Vault以及如何使用Azure受控身份實作身份驗證。
+  #### 課程
+  - Azure Key Vault
+  - Azure受控身份
+
+  完成本單元後，學生將能夠&#58;
+  - 說明密鑰保管庫的使用，如秘密、密鑰和證書管理
+  - 使用具有Azure資源的受控身份
+
+
+  ### 模組 12&#58; 實作應用程式基礎結構
+  在本模組中，您將學習如何為容器建立App Service Web 應用程式，建立和設定App Service計劃以及建立和管理部署槽。
+  #### 課程
+  - 建立和設定Azure應用服務
+  - 為容器建立一個 App Service Web 應用程式
+  - 建立和設定應用服務計劃
+  - 為應用程式服務設定網路
+  - 建立和管理部署位置
+  - 實作邏輯應用
+  - 實作 Azure Functions
+
+  完成本單元後，學生將能夠&#58;
+  - 設定Azure App Service
+  - 建立 App Service 規劃
+  - 使用 Azure Logic 應用建立工作流程
+  - 建立一個功能應用程式
+
+
+  ### 模組 13&#58; 實作基於容器的應用程式
+  在本模組中，您將學習如何運行Azure容器執行個體以及如何使用AKS部署Kubernetes。
+  #### 課程
+  - Azure 容器執行個體
+  - 設定Azure Kubernetes服務
+
+  完成本單元後，學生將能夠&#58;
+  - 運行Azure容器執行個體
+  - 使用AKS部署Kubernetes
+
+
+  ### 模組 14&#58; 實作 NoSQL 資料庫
+  在本模組中，您將了解Azure Table存儲，並為CosmsoDB API推薦選項。
+  #### 課程
+  - 設定存儲帳戶表
+  - 選擇適當的CosmosDB API
+
+  完成本單元後，學生將能夠&#58;
+  - 概述表服務資料模型
+  - 了解Azure Cosmos DB的選項
+  - 使用CosmosDB了解高可用性
+
+
+  ### 模組 15&#58; 實作 Azure SQL 資料庫
+  在此模組中，您將建立一個Azure SQL資料庫單個資料庫，建立一個Azure SQL資料庫受控執行個體，並查看高可用性和Azure SQL資料庫。
+  #### 課程
+  - 設定Azure SQL 資料庫設置
+  - 設定 Azure SQL 資料庫受控執行個體
+  - 高可用性和Azure SQL資料庫
+
+  完成本單元後，學生將能夠&#58;
+  - 建立Azure SQL資料庫單個資料庫
+  - 建立 Azure SQL 資料庫受控執行個體
+  - 推薦Azure SQL資料庫中使用的高可用性體系結構模型

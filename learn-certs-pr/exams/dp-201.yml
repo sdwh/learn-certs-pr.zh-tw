@@ -5,7 +5,17 @@ metadata:
   description: 'Exam DP-201: Designing an Azure Data Solution'
 uid: exam.dp-201
 displayName: DP-201
-summary: "<div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>  \r\n  \r\n此考試的應試者是Microsoft Azure資料工程師，他們與企業利害關係人合作，識別和滿足資料要求，設計使用Azure資料服務的資料解決方案。\r\n\r\nAzure資料工程師負責與資料相關的任務，包括設計使用關聯式和非關聯式資料儲存，批次和即時資料處理解決方案以及資料安全性和合規性解決方案的Azure資料儲存解決方案。\r\n\r\n此測驗的應試者必須設計使用以下Azure服務的資料解決方案&#58; Azure Cosmos DB、Azure SQL 資料庫、Azure SQL 資料倉儲、Azure Data Lake 儲存、Azure Data Factory、Azure 串流分析、 Azure Databricks 和 Azure Blob 儲存體。"
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此測驗內容將於 2020 年 7 月 31 日更新。請下載下面的技能評估文件，以了解將發生什麼變化。<br/><br/></div>
+  </div>
+
+  此考試的應試者是Microsoft Azure資料工程師，他們與企業利害關係人合作，識別和滿足資料要求，設計使用Azure資料服務的資料解決方案。
+
+  Azure資料工程師負責與資料相關的任務，包括設計使用關聯式和非關聯式資料儲存，批次和即時資料處理解決方案以及資料安全性和合規性解決方案的Azure資料儲存解決方案。
+
+  參加此考試的考生必須設計使用以下Azure服務的數據解決方案&#58; Azure Cosmos DB，Azure Synapse Analytics，Azure Data Lake存儲，Azure Data Factory，Azure流分析，Azure Databricks和Azure Blob存儲。
 subTitle: '此測驗測量您完成以下技術任務的能力：設計 Azure 資料儲存解決方案；設計資料處理解決方案；以及為資料安全性和合規性進行設計。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
@@ -19,6 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
+- 此測驗內容將於 2020 年 7 月 31 日更新。請下載下面概述的測驗技能，以了解將會發生什麼變化。
 - 設計一個Azure資料儲存解決方案 (40-45%)
 - 設計資料處理解決方案 (25-30%)
 - 資料安全和遵從性設計(25-30%)

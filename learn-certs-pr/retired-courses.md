@@ -13,7 +13,9 @@ ms.author: micsullivan
 
 下表列出已停止提供或即將停止提供的課程工具。在停止提供日期後，將不再銷售課程。
 
-## 停用的課程工具: 教師主導的訓練
+如果您正在尋找MOC按需停用課程，請點擊以下連結：[https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+
+## 停用的課程工具：教師主導的訓練
 
 * 課程工具於 2020 年 6 月 30 日停用
 
@@ -345,7 +347,7 @@ ms.author: micsullivan
 
     | 課程編號 | 版本 | 標題 | 語言 | 停用日期 |
     | --- | --- | --- | --- | --- |
-    | 10970 | B | Networking with Windows Server | 英文 | 2019 年  7 月 31 |
+    | 10970 | B | Networking with Windows Server | 英文 | 2019 年 7 月 31 |
     | 10971 | B | Storage and High Availability with Windows Server | 英文 | 2019 年 7 月 31 |
     | 10974 | B | Deploying and Migrating Windows Servers | 英文 | 2019 年 7 月 31 |
 
@@ -394,7 +396,7 @@ ms.author: micsullivan
     | 40539 | A | Build iOS apps with C# and .NET using the Xamarin tools for Visual Studio | 英文 | 2019 年 5 月 1
     | 40540 | A | Build Android apps with C# and .NET using the Xamarin tools for Visual Studio | 英文 | 2019 年 5 月 1
     | 40541 | A | Build native cross-platform mobile apps with a shared C# business logic for iOS, Android, and UWP in C# .NET with Xamarin and Visual Studio | 英文 | 2019 年 5 月 1
-    | 40542 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms (retiring on 01-May-19) | 英文 | 2019 年 5 月 1
+    | 40542 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms (2019 年 5 月 1 日到期) | 英文 | 2019 年 5 月 1 日
     | AZ-200T01 | A | Select the appropriate Azure technology development solution | 英文 | 2019 年 5 月 1
     | AZ-200T02 | A | Develop for Azure storage | 英文 | 2019 年 5 月 1
     | AZ-200T03 | A | Develop Azure Platform as a Service solutions | 英文 | 2019 年 5 月 1
@@ -519,7 +521,7 @@ ms.author: micsullivan
     | 2145 | B | Verwalten Einer Microsoft® Windows Server 2003-Umgebung | 德語 | 2018 年 6 月 30
     | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | 法語 | 2018 年 06 月 30
     | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | 德語 | 2018 年 6 月 30
-    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003: services réseau | 法語 | 2018 年 06 月 30
+    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003 : services réseau | 法語 | 2018 年 06 月 30
     | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | 德語 | 2018 年 6 月 30
     | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | 法語 | 2018 年 06 月 30
     | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | 葡萄牙語 | 2018 年 6 月 30
@@ -721,7 +723,7 @@ ms.author: micsullivan
     | 40441 | A | Designing and Implementing Cloud Data Platform Solutions | 英文 | 2018 年 1 月 31
     | 40442 | A | MOC Workshop: Architecting Microsoft Azure Solutions | 英文 | 2018 年 1 月 31
 
-* 課程工具將 2017 年 6 月 30 日停用
+* 課程工具將2017年6月30日停用
 
     | 課程編號 | 版本 | 標題 | 語言 | 停用日期 |
     | --- | --- | --- | --- | --- |
@@ -892,12 +894,12 @@ ms.author: micsullivan
     | 37 | Office 2013 and Office 365 Demonstration Sessions | 西班牙文|2016/4/18
     | 36 | Office 2013 and Office 365 Demonstration Sessions |德文|2016/4/18
     | 35 | Office 2013 and Office 365 Demonstration Sessions | 俄文|2016/4/18
-    | 34 | Office 2013 and Office 365 Demonstration Sessions | 巴西語、葡萄牙語/2016/4/18
-    | 33 | Office 2013 and Office 365 Demonstration Sessions | 簡體中文/2016/4/18
+    | 34 | Office 2013 and Office 365 Demonstration Sessions | 巴西語、葡萄牙語 | 2016/4/18
+    | 33 | Office 2013 and Office 365 Demonstration Sessions | 簡體中文 | 2016/4/18
     | 32 | Office 2013 and Office 365 Demonstration Sessions | 法文 | 2016/4/18
     | 31 |Office 2013 and Office 365 Demonstration Sessions|英文|2016/4/18
-    | 23 | Windows 8 Demonstration Sessions |英文|2016/4/18
-    | 22 | Office 2010 Running Start: Demonstration Sessions | 荷蘭語|2016/4/18
+    | 23 | Windows 8 Demonstration Sessions | 英文 | 2016/4/18
+    | 22 | Office 2010 Running Start: Demonstration Sessions | 荷蘭語 | 2016/4/18
     | 21 | Office 2010 Running Start: Demonstration Sessions | 韓語 |2016/4/18
     | 20 | Office 2010 Running Start: Demonstration Sessions | 俄文 | 2016/4/18
     | 19 | Office 2010 Running Start: Demonstration Sessions | 繁體中文 | 2016/4/18
@@ -931,7 +933,7 @@ ms.author: micsullivan
     | 50430 | B | Administering Team Foundation Server 2010 | 英文|2015 年 8 月 31
     | 50523 | A | Deploying the Optimized Desktop with Windows 7 and Office 2010 | 英文 |2015/8/31
 
-* 課程工具將 2015 年 6 月 30 日 停用
+* 課程工具將2015年6月30日停用
 
   [下載撤銷的教師主導學習課程的完整列表](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
@@ -1018,11 +1020,11 @@ ms.author: micsullivan
 
     | 停用6月 30 日課程編號 | 版本 | 標題 | 語言 | 備註 |
     | --- | --- | --- | --- | --- |
-    | 6428 | A | Configuring and Troubleshooting Windows Server 2008 Terminal Services | 英文 | 用課程 6439取代: Windows Server 2008 Application Infrastructure 的配置和故障排除。
-    | 6429 | A | Configuring and Managing Windows Media Services for Windows Server 2008 | 英文 | 用課程 6439取代: Windows Server 2008 Application Infrastructure 的配置和故障排除。
-    | 6437 | A | Designing a Windows Server 2008 Applications Infrastructure | 英文 | 用課程 6435B取代: 设计 Windows Server 2008 Network 和 Applications Infrastructure
+    | 6428 | A | Configuring and Troubleshooting Windows Server 2008 Terminal Services | 英文 | 用課程 6439取代：Windows Server 2008 Application Infrastructure 的配置和故障排除。
+    | 6429 | A | Configuring and Managing Windows Media Services for Windows Server 2008 | 英文 | 用課程 6439取代：Windows Server 2008 Application Infrastructure 的配置和故障排除。
+    | 6437 | A | Designing a Windows Server 2008 Applications Infrastructure | 英文 | 用課程 6435B取代：设计 Windows Server 2008 Network 和 Applications Infrastructure
 
-##停用的課程工具: 線上學習
+## 停用的課程工具：線上學習
 
 * 課程工具於2017年12月29日停用
 
@@ -1035,12 +1037,12 @@ ms.author: micsullivan
     | --- | --- | --- | --- |
     | 47003 | Windows Server 2012 Jumpstart | 英文 | 2017/8/15|
 
-* 課程工具將 2017 年 6 月 30 日停用
+* 課程工具將2017年6月30日停用
 
   * [下載撤銷SA線上學習課程的完整列表](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
   * [下載撤銷MSIA線上學習課程的完整列表](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
-* 課程工具將 2015 年 6 月 30 日 停用
+* 課程工具將2015年6月30日停用
 
   * [下載撤銷線上學習課程的完整列表](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 
@@ -1048,7 +1050,7 @@ ms.author: micsullivan
 
   * [下載撤銷線上學習課程的完整列表](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 
-## 課件和MOC按需停用常見問題(FAQ)
+## 課件和MOC按需停用常見問題(FAQ）
  
 **問: 為何課程會撤銷？**
   
@@ -1056,7 +1058,7 @@ Microsoft 會持續監看產業趨勢並修訂認證要求，以與技術變化�
 
 **問: 決定課程應該撤銷的準則有哪些？**
  
-通常情況下，課程將在下列其中一種情況下停止提供: 
+通常情況下，課程將在下列其中一種情況下停止提供：
 
 - 該課程已被取代。發佈一門新的課程，它取代以前的一門或多門課程，並以一種全新的方式來講解課程的內容。
 - 如果 Microsoft 不再支援課程中涵蓋的技術，則該課程工具通常會停用。
@@ -1093,6 +1095,6 @@ Microsoft 會每季發佈停止提供，以及排定於未來三至六個月停�
 
 不行。搜尋結果或課程目錄中不會再出現停止提供的課程。
 
-**問: 當課程撤銷時，相關的MOC On-Demand(MOD)是否也會退休？**
+**問: 當課程撤銷時，相關的MOC On-Demand(MOD）是否也會退休？**
 
 是。因為 MOD 是與課程工具在一起的，所以當課程停止提供時，MOD 將在同一天停止提供。

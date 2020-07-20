@@ -14,7 +14,9 @@ summary: |-
 subTitle: 此測驗的應試者應具有Windows 10環境中基本Windows作業系統概念的知識。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy8
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-349&examname=Windows%20Operating%20System%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-349
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -31,12 +33,12 @@ locales:
 levels:
 - beginner
 skills:
-- 了解作業系統設定 (15-20%)
-- 安裝和升級客戶端系統 (15-20%)
-- 管理應用程式 (15-20%)
-- 管理檔案和資料夾 (15-20%)
-- 管理裝置 (15-20%)
-- 了解作業系統維護 (15-20%)
+- 了解作業系統設定 (15–20%)
+- 安裝和升級客戶端系統 (15–20%)
+- 管理應用程式 (15–20%)
+- 管理檔案和資料夾 (15–20%)
+- 管理裝置 (15–20%)
+- 了解作業系統維護 (15–20%)
 roles:
 - administrator
 products:
@@ -53,7 +55,7 @@ resources:
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

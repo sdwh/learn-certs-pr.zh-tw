@@ -25,18 +25,22 @@ levels:
 - intermediate
 skills:
 - 該測驗的內容更新于 2020 年 5 月 22 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
-- 設定 Azure 機器學習工作區(30 -35%)
-- 執行實驗和訓練模型(25 -30%)
-- 最佳化和管理模型(20 -25%)
-- 部署和使用模型(20 -25%)
+- 設定 Azure 機器學習工作區(30-35%)
+- 執行實驗和訓練模型(25-30%)
+- 最佳化和管理模型(20-25%)
+- 部署和使用模型(20-25%)
 roles:
 - data-scientist
 products:
 - azure
 - azure-data-science-vm
+- azure-machine-learning
+- azure-machine-learning-service
+- azure-machine-learning-studio
 courses:
 - uid: course.dp-100t01
 paths:
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
 relatedCertifications:
 - related:

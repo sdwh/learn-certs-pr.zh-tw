@@ -2,11 +2,11 @@
 title: 'Microsoft Certified: Azure Data Scientist Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Scientist Associate'
-  description: 'Azure資料科學家套用他們在資料科學和機器學習方面的知識在Azure上實作和執行機器學習工作負載；特別是使用Machine Learning Service。'
+  description: Azure資料科學家套用他們在資料科學和機器學習方面的知識在Azure上實作和執行機器學習工作負載；特別是使用Machine Learning Service。
 uid: certification.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒(COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
   Azure資料科學家套用他們在資料科學和機器學習方面的知識在Azure上實作和執行機器學習工作負載；特別是使用Machine Learning Service。
 subTitle: Azure資料科學家套用他們在資料科學和機器學習方面的知識在Azure上實作和執行機器學習工作負載；特別是使用Machine Learning Service。
@@ -23,9 +23,13 @@ type: role-based
 products:
 - azure
 - azure-data-science-vm
+- azure-machine-learning
+- azure-machine-learning-service
+- azure-machine-learning-studio
 courses:
 - uid: course.dp-100t01
 paths:
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHg
 exams:

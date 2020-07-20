@@ -6,7 +6,7 @@ metadata:
 uid: certification.power-apps-and-d365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒(COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
   處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。應試者實作解決方案的元件，包括應用程式增強功能，自訂使用者體驗，系統整合，資料轉換，自訂流程自動化和自訂視覺效果。
 subTitle: 處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。
@@ -34,10 +34,7 @@ products:
 - dynamics-customer-engagement
 courses:
 - uid: course.mb-400t00
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
+- uid: course.mb-200t00
 paths:
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
@@ -46,9 +43,9 @@ paths:
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
 - uid: learn-dynamics.get-started-portals
 - uid: learn-dynamics.work-with-portals
-- uid: learn-dynamics.extend-power-platform-common-data-service
-- uid: learn-dynamics.extend-power-platform-model-driven-apps
 - uid: learn-dynamics.introduction-development
+- uid: learn-dynamics.extend-power-platform-model-driven-apps
+- uid: learn-dynamics.extend-power-platform-common-data-service
 - uid: learn-dynamics.extend-portals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42Fcm
 exams:

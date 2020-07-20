@@ -9,7 +9,7 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# 排定要撤銷(到期)的測驗
+# 排定要撤銷(到期）的測驗
 
 查看預定將於未來 12 個月內停止提供的測驗，順序依技術排列。(後續的資訊可能會變更。)
 
@@ -73,25 +73,26 @@ ms.author: micsullivan
 | [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
 
-| 於 2020 年 6 月 30 日撤銷 ||
-| --- | --- |
-| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
-
 ## 最近淘汰的測試
 
 去年淘汰的測驗將包含連接到他們的測驗詳細頁面以作為參考，為期12個月。
 
-| ITPro/Developer| | |
+|基於角色| | |
 | --- | --- | --- |
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019 年 5 月 1 日
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019 年 5 月 1 日
 | [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 2019 年 6 月 30 日
-| AZ-200 | Microsoft Azure Developer Core Solutions (2018 年 9 月 24 日發佈) | 2019 年 1 月 3 日
-| AZ-201 | Microsoft Azure Developer Advanced Solutions (2018 年 9 月 24 日發佈) | 2019 年 1 月 3 日
-| AZ-202 | Microsoft Azure Developer Certification Transition (2018年9月24日發布)| 2019年3月31日
+| AZ-200 | Microsoft Azure Developer Core Solutions (2018 年 9 月 24 日發佈） | 2019 年 1 月 3 日
+| AZ-201 | Microsoft Azure Developer Advanced Solutions (2018 年 9 月 24 日發佈） | 2019 年 1 月 3 日
+| AZ-202 | Microsoft Azure Developer Certification Transition (2018年9月24日發布）| 2019年3月31日
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 2019 年 6 月 30 日
 | [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | (2019 年 9 月 30 日撤銷)
 | [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | (2019 年 9 月 30 日撤銷)
+
+<br/>
+
+| ITPro/Developer| | |
+| --- | --- | --- |
 | 70-246 | Monitoring and Operating a Private Cloud with System Center 2012 | 2017 年 12 月 31 日
 | 70-247 | Configuring and Deploying a Private Cloud | 2017 年 12 月 31 日
 | 70-331 | Core Solutions of Microsoft SharePoint Server 2013 | 2019 年 3 月 31 日
@@ -130,6 +131,7 @@ ms.author: micsullivan
 | [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | 2019 年 7 月 31 日
 | 74-344 | Managing Programs and Projects with Project Server 2013 | 2017 年 12 月 31 日
 | 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | 2018 年 7 月 31 日
+| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx) | Microsoft SharePoint 2013 | 2020 年 6 月 30 日
 | [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 2019 年 9 月 30 日
 | [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Introduction to Programming Using Block-Based Languages (Touch Develop) | 2019 年 8 月 7 日
 
@@ -331,7 +333,7 @@ ms.author: micsullivan
 | 70-595 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2010 | 2015 年 7 月 31 日
 | 70-599 | Pro: Designing and Developing Windows Phone Applications | 2014 年 9 月 30 日
 | 70-620 | TS: Configuring Microsoft Windows Vista Client | 2013 年 7 月 31 日
-| 70-621 | PRO: Upgrading Your MCDST Certification to MCITP Enterprise Support | 2011年7月31日
+| 70-621 | PRO: Upgrading Your MCDST Certification to MCITP Enterprise Support | 2011年3月31日
 | 70-622 | Pro: Microsoft Desktop Support – ENTERPRISE | 2013 年 7 月 31 日
 | 70-623 | Pro: Microsoft Desktop Support – CONSUMER | 2013 年 7 月 31 日
 | 70-624 | TS: Deploying and Maintaining Windows Vista Client and 2007 Microsoft Office System Desktops | 2010 年 10 月 31 日
@@ -568,5 +570,5 @@ ms.author: micsullivan
 | MB7-846 | NAV 2009 Relationship Management | 2014 年 6 月 30 日
 | MB7-848 | NAV 2009 Service Management | 2014 年 6 月 30 日
 | MB7-849 | NAV 2009 Manufacturing | 2014 年 6 月 30 日
-| MB7-849 | NAV 2009-Produktion (丹麥語)| 2014 年 6 月 30 日
-| MB7-849 | NAV 2009-Produktion (德語)| 2014 年 6 月 30 日
+| MB7-849 | NAV 2009-Produktion (丹麥語）| 2014 年 6 月 30 日
+| MB7-849 | NAV 2009-Produktion (德語）| 2014 年 6 月 30 日

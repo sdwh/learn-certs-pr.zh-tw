@@ -12,7 +12,11 @@ summary: |-
 subTitle: 本測驗的應試者想要證明其核心軟體開發技能。建議應試者修習相關訓練課程，或使用 MSDN 和 Microsoft Visual Studio 提供的教學課程和範例，以熟悉這裡所描述技術的概念，並取得實際操作經驗。應試者應具備一些使用 C# 或 Microsoft Visual Basic .NET 的經驗。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIO
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-361&examname=Software%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-361
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-361&examname=Software%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-361
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -32,8 +36,8 @@ skills:
 - 了解核心程式設計(15-20%)
 - 了解物件導向的程式設計 (20-25%)
 - 了解一般軟體開發 (15-20%)
-- 瞭解web應用程式器維護 (15-20%)
-- 瞭解桌面應用程式 (15-20%)
+- 瞭解web應用程式器維護 (15–20%)
+- 瞭解桌面應用程式 (15–20%)
 - 瞭解資料庫(15-20%)
 roles:
 - developer
@@ -53,7 +57,7 @@ resources:
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
