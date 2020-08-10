@@ -20,7 +20,7 @@ roles:
 - functional-consultant
 type: role-based
 products:
-- business-central
+- dynamics-business-central
 - power-platform
 exams:
 - uid: exam.mb-800
