@@ -1,32 +1,29 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 365 Certified: Messaging Administrator Associate'
-  description: 'Microsoft 365 傳訊管理員在混合和雲端企業環境中部署、設定、管理、疑難排解和監控收件人、權限、郵件保護、郵件流和公用資料夾。'
-uid: certification.m365-messaging-administrator
+  title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
+  description: 本認證將於 2020 年 9 月左右進行。Dynamics 365業務中心功能顧問負責為中小型企業實作核心應用程式設置過程。
+uid: certification.d365-business-central-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
-  Microsoft 365 傳訊管理員在混合和雲端企業環境中部署、設定、管理、疑難排解和監控收件人、權限、郵件保護、郵件流和公用資料夾。
-subTitle: Microsoft 365 傳訊管理員在混合和雲端企業環境中部署、設定、管理、疑難排解和監控收件人、權限、郵件保護、郵件流和公用資料夾。
+  Dynamics 365業務中心功能顧問負責為中小型企業實作核心應用程式設置過程。
+
+  <div><br/><strong>附註&#58; 本認證將於 2020 年 9 月左右進行。</strong></div>
+subTitle: 本認證將於 2020 年 9 月左右進行。Dynamics 365業務中心功能顧問負責為中小型企業實作核心應用程式設置過程。
 levels:
 - intermediate
 skills:
-- 管理組織設置和資源
-- 規劃和管理郵件體系結構
-- 計劃和實作混合配置和移轉
-- 保護消息傳遞環境
+- 還未可用
 roles:
-- administrator
+- functional-consultant
 type: role-based
 products:
-- m365
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
-courses:
-- uid: course.ms-203t00
+- business-central
+- power-platform
 exams:
-- uid: exam.ms-203
+- uid: exam.mb-800
 resources:
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

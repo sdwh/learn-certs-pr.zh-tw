@@ -2,11 +2,11 @@
 title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
-  description: Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用AI的CX解決方案，以推動可預測客戶需求的可採取動作的見解。
+  description: 'Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用AI的CX解決方案，以推動可預測客戶需求的可採取動作的見解。'
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒(COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
   Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用AI的CX解決方案，以推動可預測客戶需求的可採取動作的見解。
 subTitle: Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用AI的CX解決方案，以推動可預測客戶需求的可採取動作的見解。
@@ -38,8 +38,8 @@ paths:
 - uid: learn-dynamics.implementing-customer-engagement-online
 - uid: learn-bizapps.automate-process-using-flow
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-dynamics.get-started-portals
-- uid: learn-dynamics.work-with-portals
+- uid: learn-bizapps.get-started-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
@@ -62,7 +62,7 @@ resources:
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
   href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。

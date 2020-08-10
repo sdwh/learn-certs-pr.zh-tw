@@ -6,7 +6,7 @@ metadata:
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
   證明您了解 Microsoft 365 中可用的選項以及採用雲端服務，軟體即服務 (SaaS)雲端模型和實作 Microsoft 365 雲端服務的好處。
 subTitle: 證明您了解 Microsoft 365 中可用的選項以及採用雲端服務，軟體即服務 (SaaS)雲端模型和實作 Microsoft 365 雲端服務的好處。
@@ -15,8 +15,8 @@ levels:
 skills:
 - 描述雲端概念
 - 描述核心 Microsoft 365 服務與概念
-- 描述 Microsoft 365 中的安全性，合規性，隱私權和信任選項
-- 描述 Microsoft 365 定價和支援選項
+- 說明 Microsoft 365 中的安全性、合規性、隱私與信任
+- 描述 Microsoft 365 定價和支援
 roles:
 - business-user
 - administrator
@@ -46,9 +46,9 @@ resources:
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
   href: help.md
 - title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+  description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
 

@@ -2,11 +2,11 @@
 title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
   title: 'Microsoft Certified: Azure Solutions Architect Expert'
-  description: Azure 解決方案架構師設計並實作了可在 Microsoft Azure 上運行的解決方案，包括計算、網路、存儲和安全性等方面。
+  description: 'Azure 解決方案架構師設計並實作了可在 Microsoft Azure 上運行的解決方案，包括計算、網路、存儲和安全性等方面。'
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒(COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
   Azure 解決方案架構師專家認證的應試者應具有設計和實作可在 Microsoft Azure 上運行的解決方案的主題專業知識，包括計算、網路、存儲和安全性等方面。
 
@@ -54,15 +54,9 @@ products:
 - azure-sql-database
 - azure-event-hubs
 courses:
-- uid: course.az-300t01
-- uid: course.az-300t02
-- uid: course.az-300t03
-- uid: course.az-300t04
-- uid: course.az-300t06
-- uid: course.az-301t01
-- uid: course.az-301t02
-- uid: course.az-301t03
-- uid: course.az-301t04
+- uid: course.az-303t00
+- uid: course.az-304t00
+- uid: course.az-030t00
 paths:
 - uid: learn.architect-network-infrastructure
 - uid: learn.architect-storage-infrastructure
@@ -81,6 +75,9 @@ resources:
 - title: Azure 認證海報
   description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 認證之旅
+  description: 探索獲得 Azure solution-architect 認證的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -91,7 +88,7 @@ resources:
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
   href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
