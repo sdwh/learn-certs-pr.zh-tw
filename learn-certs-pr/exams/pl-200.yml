@@ -37,7 +37,7 @@ products:
 - ai-builder
 - power-platform
 - office-teams
-- dynamics-virtual-agent
+- power-virtual-agents
 relatedCertifications:
 - related:
     uid: certification.power-platform-functional-consultant-associate
