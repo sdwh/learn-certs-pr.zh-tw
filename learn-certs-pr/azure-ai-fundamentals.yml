@@ -5,7 +5,7 @@ metadata:
   description: Azure AI Fundamentals 驗證機器學習和人工智慧概念以及相關 Microsoft Azure 服務的基礎知識。
 uid: certification.azure-ai-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: "<div><strong><font color='red'>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</font></strong><br/><br/></div>\r\n\r\nAzure AI Fundamentals 認證的應試者應具有機器學習 (ML) 和人工智慧  (AI) 概念以及相關 Microsoft Azure 服務的基礎知識。  \r\n\r\n該認證是一個展示常見的 ML 和 AI 工作負載以及如何在 Azure 上實作知識的機會。  \r\n\r\n該認證適用於具有技術和非技術背景的應試者。不需要資料科學和軟體工程經驗；但是，一些一般的編程知識或經驗將是有益的。  \r\n\r\nAzure AI Fundamentals 可用於準備其他基於 Azure 角色的認證，例如 Azure Data Scientist Associate 或 Azure AI Engineer Associate，但這不是其中任何一個的先決條件。"
+summary: "<div><strong><font color='red'>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</font></strong><br/><br/></div>\r\n\r\nAzure AI Fundamentals 認證的應試者應具有機器學習 (ML) 和人工智慧  (AI) 概念以及相關 Microsoft Azure 服務的基礎知識。  \r\n\r\n該認證是一個展示常見的 ML 和 AI 工作負載以及如何在 Azure 上實作知識的機會。  \r\n\r\n該認證適用於具有技術和非技術背景的應試者。不需要資料科學和軟體工程經驗；但是，一些一般的編程知識或經驗將是有益的。  \r\n\r\nAzure AI Fundamentals 可用於準備其他基於 Azure 角色的認證，例如 Azure Data Scientist Associate 或 Azure AI Engineer Associate，但這不是其中任何一個的先決條件。"
 subTitle: Azure AI Fundamentals 驗證機器學習和人工智慧概念以及相關 Microsoft Azure 服務的基礎知識。
 levels:
 - beginner
@@ -37,6 +37,14 @@ products:
 - azure-text-speech
 - azure-translator-speech
 - azure-translator-text
+courses:
+- uid: course.ai-900t00
+paths:
+- uid: learn.wwl.get-started-with-artificial-intelligence-on-azure
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
+- uid: learn.wwl.explore-computer-vision-microsoft-azure
+- uid: learn.wwl.explore-natural-language-processing
+- uid: learn.wwl.explore-conversational-ai
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAEF
 exams:
 - uid: exam.ai-900
@@ -44,6 +52,9 @@ resources:
 - title: Azure 認證海報
   description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 認證之旅
+  description: 探索 Azure AI Fundamentals 的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARlg
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -54,7 +65,7 @@ resources:
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
   href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。

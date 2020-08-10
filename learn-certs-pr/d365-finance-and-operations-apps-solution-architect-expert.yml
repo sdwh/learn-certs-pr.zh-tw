@@ -2,14 +2,14 @@
 title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
 metadata:
   title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
-  description: Microsoft Dynamics 365 財務與營運應用程式解決方案架構師是值得信賴的咨詢顧問，他們與組織和實作團隊成員合作，將業務需求細化為定義明確、成本效益高的解決方案。
+  description: Microsoft Dynamics 365中財務和運營應用程式的解決方案架構師是受信任的顧問，他們了解業務推薦的實踐，軟件功能和實作交付，因此他們可以帶領實作團隊成員實作可以實現預定義實作目標的Dynamics解決方案。
 uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒(COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
-  Microsoft Dynamics 365 財務與營運應用程式解決方案架構師是值得信賴的咨詢顧問，他們與組織和實作團隊成員合作，將業務需求細化為定義明確、成本效益高的解決方案。
-subTitle: Microsoft Dynamics 365 財務與營運應用程式解決方案架構師是值得信賴的咨詢顧問，他們與組織和實作團隊成員合作，將業務需求細化為定義明確、成本效益高的解決方案。
+  Microsoft Dynamics 365中財務和運營應用程式的解決方案架構師是受信任的顧問，他們了解業務推薦的實踐，軟件功能和實作交付，因此他們可以帶領實作團隊成員實作可以實現預定義實作目標的Dynamics解決方案。
+subTitle: Microsoft Dynamics 365中財務和運營應用程式的解決方案架構師是受信任的顧問，他們了解業務推薦的實踐，軟件功能和實作交付，因此他們可以帶領實作團隊成員實作可以實現預定義實作目標的Dynamics解決方案。
 levels:
 - advanced
 skills:
@@ -17,6 +17,7 @@ skills:
 - 設計解決方案元件
 - 定義解決方案測試與管理策略
 roles:
+- functional-consultant
 - solution-architect
 type: role-based
 products:

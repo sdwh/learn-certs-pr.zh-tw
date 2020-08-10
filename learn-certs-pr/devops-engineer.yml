@@ -8,18 +8,22 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
-  Azure DevOps 專業人員將人員、流程與技術相結合，不斷提供有價值的產品與服務，以滿足最終使用者的需求與業務目標。
+  DevOps工程師專家認證的應試者應具有與人員，流程和技術一起工作的主題專業知識，以不斷交付業務價值。
+
+  擔任此角色的職責包括設計和實作協作、代碼、基礎結構、源代碼控制、安全性、合規性、持續整合、測試、交付、監視和反饋的策略。
+
+  本認證的應試者必須熟悉 Azure 管理和 Azure開發，並且至少精通其中一個領域。
 subTitle: Azure DevOps 專業人員將人員、流程與技術相結合，不斷提供有價值的產品與服務，以滿足最終使用者的需求與業務目標。
 levels:
 - advanced
 skills:
-- 設計 DevOps 策略
-- 實作 DevOps 開發流程
-- 實作持續集成
-- 實作持續交付
-- 實作關聯性管理
-- 實作應用程式基礎設施
-- 實作持續意見反應
+- 制定規範策略
+- 制定站點可靠性工程（SRE）策略
+- 制定安全和合規計劃
+- 管理源代碼管理
+- 促進溝通與協作
+- 定義並實作持續整合
+- 定義並實作持續的交付和發布管理策略
 roles:
 - devops-engineer
 type: role-based
@@ -30,10 +34,12 @@ products:
 - azure-container-instances
 - azure-automation
 paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
+- uid: learn.az-400-develop-instrumentation-strategy
+- uid: learn.az-400-develop-sre-strategy
+- uid: learn.az-400-develop-security-compliance-plan
+- uid: learn.az-400-manage-source-control
+- uid: learn.az-400-facilitate-communication-collaboration
+- uid: learn.az-400-define-implement-continuous-integration
 courses:
 - uid: course.az-400t00
 prerequisites:
@@ -61,7 +67,7 @@ resources:
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
   href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。

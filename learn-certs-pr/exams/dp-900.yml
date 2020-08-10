@@ -9,7 +9,11 @@ summary: "<div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的�
 subTitle: '證明您可以描述以下內容：核心資料概念；如何在 Azure 上使用關係資料；如何在 Azure 上使用非關係資料以及 Azure 上的分析工作負載。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
@@ -26,10 +30,16 @@ products:
 - azure
 paths:
 - uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
+- uid: learn.wwl.azure-data-fundamentals-explore-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-non-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-data-warehouse-analytics
 relatedCertifications:
 - related:
     uid: certification.azure-data-fundamentals
 resources:
+- title: 認證之旅
+  description: 探索Azure Data Fundamentals 的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -40,7 +50,7 @@ resources:
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 支持認證考試
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
   href: ../help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。

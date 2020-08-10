@@ -1,0 +1,290 @@
+### YamlMime:Course
+title: Windows Server 2019 Administration
+metadata:
+  title: 'Course WS-011T00-A: Windows Server 2019 Administration'
+  description: 'Course WS-011T00-A: Windows Server 2019 Administration'
+uid: course.ws-011t00
+courseNumber: 'WS-011T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用Windows Server 2019中的管理技術和工具
+- skill: 實作身份服務
+- skill: 管理網路基礎結構服務
+- skill: 設定檔伺服器和存儲
+- skill: 使用Hyper-V虛擬化和容器管理虛擬機
+- skill: 規劃高可用性和災害復原解決方案
+- skill: 應用安全功能來保護關鍵資源
+- skill: 設定遠端桌面服務
+- skill: 設定基於虛擬機的桌面基礎結構部署
+- skill: 實作遠端存取和Web服務
+- skill: 實作服務監視和效能監視，並應用疑難排解
+- skill: 執行與AD DS和存儲相關的升級和移轉
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows-server
+summary: |-
+  這個為期五天的講師指導課程主要是為具有Windows Server經驗的IT專業人員設計的。它專為負責使用Windows Server 2019管理身份，網路，存儲和計算並且需要了解適用於Windows Server 2019的方案，要求和選項的專業人員而設計。該課程向IT專業人員教授大多數組織中部署和支援Windows Server 2019所需的基本管理技能。
+
+  #### 對象設定檔
+  本課程面向擁有一定經驗的Windows Server工作的資訊技術（IT）專業人員，他們正在尋找為期五天的課程，涵蓋Windows Server 2019中的核心管理元件和技術。本課程還幫助以前Windows Server版本的伺服器管理員更新與Windows Server 2019相關的知識和技能。
+  此外，本課程可以幫助正在尋找准備材料的個人透過與Windows Server相關的測驗。該課程還面向希望轉為伺服器維護的服務台角色人員。
+prerequisitesSection: |-
+  - 了解 Windows Server 2012 或 Windows Server 2016 的 Active Directory Domain Services (AD DS) 概念和技術並有一些經驗。
+  - 了解 Windows Server 2012 或 Windows Server 2016 的 Active Directory Domain Services (AD DS) 概念和技術並有一些經驗。
+  - 有核心網路技術（例如 IP 尋址、名稱解析和動態主機設定協議（DHCP））的經驗並對其有所了解。
+  - 具有使用 Microsoft Hyper-V 和基本伺服器虛擬化概念的經驗並對其有所了解。
+  - 了解基本的安全最佳做法。
+  - 體驗Windows 8、Windows 8.1或Windows 10等Windows客戶端作業系統的實際作業經驗。
+  - 具有Windows PowerShell的基本經驗。
+outlineSection: |-
+  ### 模塊 1&#58;Windows Server Administration 概述
+  本模塊描述了如何區分不同的Windows Server 2019版本以及用於部署，服務和啟用的技術。該模塊還介紹了Windows Server Core，並將其與Desktop Experience版本進行了比較。該模塊描述了用於管理Windows Server的工具和概念，例如Windows Admin Center，PowerShell和特權委派。
+  #### 課程
+  - Windows Server 2019 導論
+  - Windows Server 核心概觀
+  - Windows Server管理原則和工具概述
+
+
+  #### 實驗&#58;部署和設定 Windows Server
+  - 部署和設定伺服器核心
+  - 實作和使用遠端伺服器管理
+
+  完成本單元後，學生將能夠&#58;
+  - 描述Windows Server以及部署、服務和啟用的技術。
+  - 描述Windows Server Core，其細節和管理方法。
+
+
+  ### 模塊 2&#58;Windows Server中的身份服務
+  本模塊介紹身份服務，並描述Windows Server環境中的Active Directory網域服務（AD DS）。該模塊描述了如何在AD DS中部署域控制器以及Azure Active Directory（AD），以及將Azure AD與AD DS整合的好處。該模塊還介紹了組策略基礎知識以及如何在域環境中設定組策略對象（GPO）。最後，這些模塊描述了Active Directory證書服務和證書使用的角色。
+  #### 課程
+  - AD DS 概觀
+  - 部署 Windows Server 網域控制站
+  - Azure AD 概觀
+  - 實作群組原則
+  - Active Directory 憑證服務概觀
+
+
+  #### 實驗&#58;實作身份服務和組策略
+  - 在伺服器核心上部署新的域控制器
+  - 設定群組策略
+  - 部署和使用證書服務
+  - 解釋組策略基礎知識並在域環境中設定GPO
+  - 描述Active Directory證書服務和證書使用的角色
+
+  完成本單元後，學生將能夠&#58;
+  - 描述Windows Server環境中的AD DS。
+  - 在ADDS中部署網域控制站。
+  - 描述Azure AD以及將Azure AD與AD DS整合的好處。
+
+
+  ### 模塊 3&#58;Windows Server中的網路基礎結構服務
+  本模塊描述了如何在Windows Server中實作核心網路基礎結構服務。這些模塊介紹了如何部署，設定和管理DNS和IPAM。這些模塊還描述了如何使用遠端存取服務。
+  #### 課程
+  - 部署和管理 DHCP
+  - 部署和設定DNS服務
+  - 部署和管理 IPAM
+  - Windows Server中的遠端存取服務
+
+
+  #### 實驗&#58;在Windows Server中實作和設定網路基礎結構服務
+  - 部署和設定 DHCP
+  - 部署和設定 DNS
+  - 實作 Web Application Proxy
+
+  完成本單元後，學生將能夠&#58;
+  - 描述、部署和設定DHCP服務。
+  - 部署、設定和管理 DNS。
+  - 描述、部署和管理 IPAM。
+
+
+  ### 模塊 4&#58;Windows Server中的文件伺服器和存儲管理
+  本模塊介紹如何在Windows Server中設定檔伺服器和存儲。該模塊涵蓋文件共享和存儲空間技術的部署。該模塊描述了如何在Windows Server中實作重複資料刪除，基於iSCSI的存儲，以及最後如何部署DFS。
+  #### 課程
+  - Windows Server中的捲和文件系統
+  - 在Windows Server中實作共享
+  - 在 Windows Server  中實作存儲空間
+  - 實作 Data Deduplication
+  - 實作iSCSI
+  - 部署分佈式文件系統
+
+
+  #### 實驗&#58;在Windows Server中實作存儲解決方案
+  - 實作 Data Deduplication
+  - 設定 iSCSI 存儲
+  - 設定存冗餘儲空間
+  - 實作儲存空間直接存取
+
+  完成本單元後，學生將能夠&#58;
+  - 在Windows Server中實作共享
+  - 部署存儲空間技術
+  - 實作重複資料刪除功能
+  - 實作基於iSCSI的存儲
+  - 部署和管理分佈式文件系統（DFS）
+
+
+  ### 模塊 5&#58;Windows Server中的Hyper-V虛擬化和容器
+  本模塊描述了如何實作和設定Hyper-V VM和容器。該模塊涵蓋Windows Server中Hyper-V的關鍵功能，描述VM設置以及如何在Hyper-V中設定VM。該模塊還涵蓋與虛擬化一起使用的安全技術，例如，受保護的VM，Host Guardian Service，受管理員信任和受TPM信任的證明以及KPS。
+  #### 課程
+  - Windows Server中的Hyper-V
+  - 設定虛擬機
+  - 保護Windows Server中的虛擬化
+  - Windows Server中的容器
+  - Kubernetes概述
+
+
+  #### 實驗&#58;在Windows Server中實作和設定虛擬化
+  - 建立和設定VM
+  - 安裝和設定容器
+
+  完成本單元後，學生將能夠&#58;
+  - 描述Windows Server中Hyper-V的主要功能。
+  - 描述虛擬機設置以及在Hyper-V中部署和設定虛擬機。
+  - 說明安全技術在虛擬化中的使用。
+  - 描述和部署Windows Server中的容器。
+  - 說明在Windows上使用Kubernetes。
+
+
+  ### 模塊 6&#58;Windows Server中的高可用性
+  本模塊描述Windows Server的當前高可用性技術。該模塊描述了容錯移轉群集及其實作的注意事項，以及如何建立和設定容錯移轉群集。該模塊還說明了擴展群集以及使用Hyper-V VM實作高可用性的選項。
+  #### 課程
+  - 規劃容錯移轉群集實作
+  - 建立和設定故障移轉群集
+  - 延展叢集概述
+  - Hyper-V VM 的高可用性和嚴重損壞修復解決方案
+
+
+  #### 實驗室&#58;實施容錯移轉叢集
+  - 設定存儲並建立集群
+  - 部署和設定高可用性文檔伺服器
+  - 驗證高可用性文檔伺服器的部署
+
+  完成本單元後，學生將能夠&#58;
+  - 描述容錯移轉群集及其實作的注意事項。
+  - 建立和設定故障移轉群集。
+  - 描述延展叢集。
+  - 描述使用Hyper-V VM實作高可用性的選項。
+
+
+  ### 模塊 7&#58;Windows Server中的災難恢復
+  本模塊介紹Windows Server中的災難恢復技術及其實作方法。該模塊介紹了如何設定和使用Hyper-V副本，並介紹了Azure站點恢復。該模塊還介紹了如何實作Windows Server備份，並介紹了Azure備份服務。
+  #### 課程
+  - Hyper-V 複本
+  - Windows Server中的備份和還原基礎結構
+
+
+  #### 實驗&#58;實作Hyper-V副本和Windows Server備份
+  - 實作 Hyper-V 複本
+  - 使用Windows Server Backup實作備份和還原
+
+  完成本單元後，學生將能夠&#58;
+  - 描述和實作 Hyper-V 複本。
+  - 描述Azure Site Recovery。
+  - 描述和實作Windows Server 備份。
+  - 描述Azure備份服務。
+
+
+  ### 模塊 8&#58;Windows Server安全性
+  本模塊描述Windows Server安全功能以及如何實作它們。該模塊介紹了Windows Server中使用的憑據，並說明了如何實作特權存取保護。除了描述增強Windows Server安全性的方法和技術之外，該模塊還介紹了如何設定Just Enough Administration (JEA) 以及如何保護SMB流量。最後，該模塊涵蓋Windows Update，其部署和管理選項。
+  #### 課程
+  - 憑證和特權存取保護
+  - 強化Windows Server
+  - Windows Server中的JEA
+  - 保護和分析 SMB 流量
+  - Windows Server更新管理
+
+
+  #### 實驗&#58;在 Windows Server 中設定 Security
+  - 設定Windows Defender憑據保護
+  - 查找有問題的帳戶
+  - 實作 LAPS
+
+  完成本單元後，學生將能夠&#58;
+  - 描述Windows Server中使用的憑據。
+  - 說明如何實作特權存取保護。
+  - 描述加強Windows Server安全性的方法和技術。
+  - 描述和設定“足夠的管理”（JEA）。
+  - 在Windows Server中保護SMB通信。
+  - 描述Windows Update及其部署和管理選項。
+
+
+  ### 模塊 9&#58;Windows Server中的RDS
+  本模塊描述Windows Server中的關鍵遠端桌面協議（RDP）和虛擬桌面基礎結構（VDI）功能。這些模塊介紹了如何部署工作階段型桌面，並描述了個人虛擬桌面和極化虛擬桌面。
+  #### 課程
+  - RDS概述
+  - 設定工作階段型桌面部署
+  - 個人和集區虛擬桌面概述
+
+
+  #### 實驗&#58;在Windows Server中實作RDS
+  - 實作 RDS
+  - 設定會話收集設置並使用RDC
+  - 設定虛擬桌面模板
+
+  完成本單元後，學生將能夠&#58;
+  - 描述Windows Server中的遠端桌面服務（RDS）。
+  - 描述和部署工作階段型桌面。
+  - 描述個人和集區化虛擬桌面。
+
+
+  ### 模塊 10&#58;Windows Server中的遠端存取和Web服務
+  本模塊描述了如何實作虛擬專用網（VPN），網路策略伺服器（NPS）和Microsoft Internet資訊服務（IIS）。該模塊介紹了Always On VPN功能，以及如何在Windows Server中設定NPS和Web伺服器（IIS）。
+  #### 課程
+  - 實作 VPN
+  - 實作Always On VPN
+  - 實作 NPS
+  - 在Windows Server中實作Web伺服器
+
+
+  #### 實驗&#58;部署網路工作負載
+  - 在 Windows Server 中實作 VPN 存取。
+  - 部署和設定Web伺服器
+
+  完成本單元後，學生將能夠&#58;
+  - 描述Windows Server中的VPN選項。
+  - 描述Always On VPN功能。
+  - 描述和設定NPS。
+  - 描述和設定Web伺服器（IIS）。
+
+
+  ### 模塊 11&#58;Windows Server中的伺服器和效能監視
+  本模塊描述了如何實作服務和效能監視以及如何在Windows Server中應用疑難排解。該模塊重點介紹監視工具，並描述了如何監視效能，包括事件日誌記錄以及如何執行事件日誌記錄監視以進行疑難排解。
+  #### 課程
+  - Windows Server  監視工具概述
+  - 使用性能監視器
+  - 監視事件日誌以進行疑難排解
+
+
+  #### 實驗室&#58;監視和故障排除 Windows Server 
+  - 建立績效基準
+  - 確定性能問題的根源
+  - 確定性能問題的根源
+
+  - 確定性能問題的根源
+  - 描述Windows Server中的監視工具。
+  - 描述效能監視並在Windows Server中使用它。
+  - 描述事件日誌記錄並執行事件日誌記錄監視以進行疑難排解。
+
+
+  ### 模塊 12&#58;Windows Server中的升級和移轉
+  本模塊描述了如何對AD DS，存儲和Windows Server執行升級和移轉。該模塊涵蓋了用於AD DS移轉的工具。該模塊還介紹了存儲移轉服務，最後還介紹了Windows Server移轉工具和使用方案。
+  #### 課程
+  - AD DS移轉
+  - 存儲移轉服務
+  - Windows Server移轉工具
+
+
+  #### 實驗&#58;移轉伺服器工作負載
+  - 實作存儲移轉服務
+
+  完成本單元後，學生將能夠&#58;
+  - 描述用於AD DS移轉的工具。
+  - 描述存儲移轉服務。
+  - 描述Windows Server移轉工具及其使用方案。
+

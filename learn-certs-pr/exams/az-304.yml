@@ -8,34 +8,54 @@ displayName: AZ-304
 summary: |-
   <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
 
-  此測驗的應試者是為關係人提供建議，並將業務要求轉化至安全、可擴展與可靠的解決方法中的 Azure 解決方法架構師。
+  參加該測驗的應試者應具有設計和實作可在 Microsoft Azure 上運行的解決方案的主題專業知識，包括計算、網路、存儲和安全性等方面。
 
-  應試者應具備 IT 營運的進階經驗與知識，包括網路，虛擬化，身份，安全性，商務連續性，災害復原，資料管理，預算與治理。該角色要求管理每個領域的決策對整體解決方法的影響方式。
+  Azure 解決方案架構師的職責包括為利益相關者提供建議，並將業務需求轉換為安全、可擴充且可靠的雲端解決方案。
 
-  應試者必須具有 Azure 管理方面的專家級技能，並且具有 Azure 開發流程和 DevOps 流程的經驗。
+  Azure解決方案架構師與雲端管理員，雲端DBA和客戶端合作以實作解決方案。
 
-  <div style='font-weight&#58; bold;'><br/>NOTE&#58; 此 版測驗要到 2020 年 6 月 29日才能提供。</div>
+  參加該測驗的考生應具有 IT 運營的高級經驗和知識，包括網路、虛擬化、身份、安全性、業務連續性、災難恢復、資料管理、預算和治理——該角色應管理各個領域的決策如何影響整體解決方案。此外，該角色應具有 Azure 管理方面的專家級技能，並具有 Azure 開發和 DevOps 流程的經驗。
+
+  <div style='font-weight&#58; bold;'><br/>Beta 測驗不會立即評分，因為我們正在收集有關問題和測驗品質的資料。詳細了解 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Beta考試的價值和重要性</a>。</div>
 subTitle: '此測驗會評量您達成下方技術性工作的能力：設計監視； 設計身份識別和安全性； 設計資料儲存； 設計商務連續性； 和設計基礎架構。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWz
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-304&examname=Exam%20AZ-304:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-304
 locales:
 - en
 levels:
 - advanced
 skills:
-- 設計監視(10 -15%)
-- 設計身份識別和安全性(25 -30%)
-- 設計資料儲存(15 -20%)
+- 設計監控 (10-15%)
+- 設計身份和安全性 (25 30%)
+- 設計資料儲存區 (15-20%)
 - 設計業務連續性 (10-15%)
-- 設計基礎(25 -30%)
+- 設計基礎結構 (25-30%)
 roles:
 - solution-architect
 products:
 - azure
+paths:
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-data-platform
+- uid: learn.architect-messaging-serverless
+- uid: learn.architect-modern-apps
+- uid: learn.architect-api-integration
+- uid: learn.architect-migration-bcdr
+exams:
+- uid: exam.az-303
+courses:
+- uid: course.az-304t00
 relatedCertifications:
 - related:
-    uid: none
+    uid: certification.azure-solutions-architect
 resources:
+- title: 認證之旅
+  description: 探索獲得 Azure solution-architect 認證的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -46,7 +66,7 @@ resources:
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 支持認證考試
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
   href: ../help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。

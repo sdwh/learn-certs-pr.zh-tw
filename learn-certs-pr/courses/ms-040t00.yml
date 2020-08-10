@@ -1,0 +1,121 @@
+### YamlMime:Course
+title: Manage SharePoint and OneDrive in Microsoft 365
+metadata:
+  title: 'Course MS-040T00-A: Manage SharePoint and OneDrive in Microsoft 365'
+  description: 'Course MS-040T00-A: Manage SharePoint and OneDrive in Microsoft 365'
+uid: course.ms-040t00
+courseNumber: 'MS-040T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: -設定SharePoint網站
+- skill: 管理網站的存儲限制
+- skill: 部署OneDrive同步客戶端
+- skill: 使用群組策略控制 OneDrive 同步用戶端設定
+- skill: 在Microsoft SharePoint和OneDrive中管理資料的外部共享
+- skill: 設定使用者設定檔屬性
+- skill: 管理觀眾
+- skill: 使用應用目錄管理自定義應用
+- skill: 建立和管理術語組、術語集和術語
+- skill: 描述現代和經典搜尋體驗之間的區別
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- m365
+summary: |-
+  內容是每個組織最關鍵的數位資產。在本課程中，您將學習如何規劃、設定和管理SharePoint網站和OneDrive，以啟用可改變內容生命週期的現代內容服務。具體來說，本課程討論現代SharePoint網站結構，例如SharePoint中樞網站。它提供了在組織內採用和部署OneDrive的最佳實踐。它還涵蓋了Microsoft 365中SharePoint和OneDrive中的共享、安全和監視。此外，您還將學習如何使用適當的權限設置來管理用戶個人資料和應用。我們還將討論如何規劃和設定受管理的中繼資料，Business Connectivity Services和搜尋，以允許在Microsoft 365中查找、使用和管理內容。
+
+  #### 對象設定檔
+  本課程適用於在組織中部署和管理Microsoft SharePoint和OneDrive的IT專業人員。本課程的學生對Microsoft SharePoint和OneDrive感興趣。
+prerequisitesSection: |-
+  學習者應該已經具備以下技能才能開始本課程&#58;
+  - 對Microsoft 365服務的基本功能經驗有充分的了解。
+  - 對普通IT操作，包括使用PowerShell非常瞭解。
+  - 對Active Directory和Azure AD的基本了解。
+  - 對行動裝置管理和替代作業系統（Android和macOS）有基本了解。
+outlineSection: |-
+  ### 模塊1&#58;規劃和設定SharePoint網站
+  該模塊與規劃、設定和管理SharePoint網站有關。它討論了SharePoint管理員如何使用SharePoint Admin Center來管理組織中SharePoint網站的生命週期。
+  #### 課程
+  - Microsoft 365中的SharePoint概述
+  - 設定SharePoint網站
+  - 管理 SharePoint 網站
+
+  完成本單元後，學生將能夠&#58;
+  - 建立SharePoint網站。
+  - 管理SharePoint網站存儲限制。
+  - 建立和設定SharePoint中樞網站。
+  - 描述如何使用SharePoint Admin Center管理SharePoint網站。
+
+
+  ### 模塊 2&#58;設定與管理OneDrive
+  本模塊說明了如何規劃OneDrive的部署。它討論了根據不同方案部署OneDrive的不同方法。它還介紹了在OneDrive中管理內容的功能。
+  #### 課程
+  - Microsoft 365中的OneDrive概述
+  - 部署OneDrive
+  - 管理OneDrive
+
+  完成本單元後，學生將能夠&#58;
+  - 管理使用者的存儲限制。
+  - 在OneDrive中設定資料保留。
+  - 使用群組策略控制 OneDrive 同步用戶端設定。
+  - 描述部署OneDrive的不同方法。
+  - 描述如何使用OneDrive管理中心來管理OneDrive。
+
+
+  ### 模塊 3&#58;SharePoint和OneDrive中的共享和安全
+  該模塊專注於Microsoft SharePoint和OneDrive中的共享、安全和監視。具體來說，我們討論在SharePoint和OneDrive中規劃和管理外部共享以及存取控制。它還討論了如何使用Microsoft 365管理中心來監視Microsoft SharePoint和OneDrive中的活動。
+  #### 課程
+  - 管理SharePoint網站權限
+  - 在SharePoint和OneDrive中管理共享
+  - 在SharePoint和OneDrive中管理安全性
+
+  完成本單元後，學生將能夠&#58;
+  - 描述Microsoft SharePoint和OneDrive中的外部共享。
+  - 描述用於管理對Microsoft SharePoint和OneDrive的設備存取的選項。
+  - 查看可衡量SharePoint和OneDrive使用情況的Microsoft 365報告。
+
+
+  ### 模塊 4&#58;管理使用者設定檔和應用程式
+  此模塊與Microsoft SharePoint中的使用者設定檔和自定義有關。它討論了在Microsoft SharePoint中管理使用者設定檔。它還描述了如何使用應用程式目錄使自定義業務應用程式可用於Microsoft 365中的SharePoint。
+  #### 課程
+  - 管理使用者設定檔
+  - 管理應用
+
+  完成本單元後，學生將能夠&#58;
+  - 描述如何設定使用者設定檔屬性。
+  - 描述如何管理觀眾。
+  - 描述如何使用應用目錄管理自定義應用。
+
+
+  ### 模塊 5&#58;規劃和設定受管理的中繼資料和業務連接服務
+  此模塊與受管理的中繼資料和業務連接服務有關。它介紹了受管理的中繼資料的概念以及導入術語集的過程。它還描述了如何管理Business Connectivity Services和建立外部列表。
+  #### 課程
+  - 規劃與設定受管理的中繼資料
+  - 規劃和設定Business Connectivity Service
+
+  完成本單元後，學生將能夠&#58;
+  - 描述受管理的中繼資料的功能。
+  - 建立和管理術語組，術語集和術語。
+  - 解釋BDC模型的關鍵組件。
+  - 描述BCS的高級體系結構。
+  - 說明安全存儲服務的目的。
+
+
+  ### 模塊 6&#58;規劃及設定搜尋
+  此模塊與SharePoint搜尋服務有關。它提供了有關規劃和設定SharePoint搜尋的詳細資訊，包括經典搜尋體驗與現代搜尋體驗之間的區別。它還討論了如何使用不同的設置來自定義搜尋體驗。
+  #### 課程
+  - 規劃搜尋
+  - 設定搜尋
+
+  完成本單元後，學生將能夠&#58;
+  - 描述現代和經典搜尋體驗之間的區別。
+  - 描述如何管理搜尋架構。
+  - 說明查詢規則的使用和部署。
+  - 說明結果源的使用和部署。
+

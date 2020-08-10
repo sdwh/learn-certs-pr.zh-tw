@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 查看預定將於未來 12 個月內停止提供的測驗，順序依技術排列。(後續的資訊可能會變更。)
 
-| 於 2021 年 1 月 31 日撤銷 ||
+| 於 2021 年 1 月 31 日撤銷 | |
 | --- | --- |
 | [70-333](https://www.microsoft.com/learning/exam-70-333.aspx): Deploying Enterprise Voice with Skype for Business 2015 |  |
 | [70-334](https://www.microsoft.com/learning/exam-70-334.aspx): Core Solutions of Microsoft Skype for Business 2015 |  |
@@ -59,12 +59,12 @@ ms.author: micsullivan
 | [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
 | [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
 
-| 於 2020 年 9 月 30 日撤銷 ||
+| 於 2020 年 9 月 30 日撤銷 | |
 | --- | --- |
 | [AZ-300](https://www.microsoft.com/learning/exam-AZ-300.aspx): Microsoft Azure Architect Technologies |  |
 | [AZ-301](https://www.microsoft.com/learning/exam-AZ-301.aspx): Microsoft Azure Architect Design |  |
 
-| 於 2020 年 8 月 31 日撤銷 ||
+| 於 2020 年 8 月 31 日撤銷 | |
 | --- | --- |
 | [MS-200](/learn/certifications/exams/ms-200): Planning and Configuring a Messaging Platform |  |
 | [MS-201](/learn/certifications/exams/ms-201): Implementing a Hybrid and Secure Messaging Platform |  |
@@ -73,15 +73,11 @@ ms.author: micsullivan
 | [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
 
-| 於 2020 年 6 月 30 日撤銷 ||
-| --- | --- |
-| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
-
 ## 最近淘汰的測試
 
 去年淘汰的測驗將包含連接到他們的測驗詳細頁面以作為參考，為期12個月。
 
-| ITPro/Developer| | |
+|基於角色| | |
 | --- | --- | --- |
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019 年 5 月 1 日
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019 年 5 月 1 日
@@ -92,6 +88,11 @@ ms.author: micsullivan
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 2019 年 6 月 30 日
 | [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | (2019 年 9 月 30 日撤銷)
 | [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | (2019 年 9 月 30 日撤銷)
+
+<br/>
+
+| ITPro/Developer| | |
+| --- | --- | --- |
 | 70-246 | Monitoring and Operating a Private Cloud with System Center 2012 | 2017 年 12 月 31 日
 | 70-247 | Configuring and Deploying a Private Cloud | 2017 年 12 月 31 日
 | 70-331 | Core Solutions of Microsoft SharePoint Server 2013 | 2019 年 3 月 31 日
@@ -130,6 +131,7 @@ ms.author: micsullivan
 | [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | 2019 年 7 月 31 日
 | 74-344 | Managing Programs and Projects with Project Server 2013 | 2017 年 12 月 31 日
 | 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | 2018 年 7 月 31 日
+| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx) | Microsoft SharePoint 2013 | 2020 年 6 月 30 日
 | [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 2019 年 9 月 30 日
 | [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Introduction to Programming Using Block-Based Languages (Touch Develop) | 2019 年 8 月 7 日
 
@@ -247,7 +249,7 @@ ms.author: micsullivan
 | 70-441 | PRO: Designing Database Solutions by Using Microsoft SQL Server 2005 | 2011 年 6 月 30 日
 | 70-442 | PRO: Designing and Optimizing Data Access by Using Microsoft SQL Server 2005 | 2011 年 6 月 30 日
 | 70-443 | PRO: Designing a Database Server Infrastructure by Using Microsoft SQL Server 2005 | 2011 年 6 月 30 日
-| 70-444 | PRO: Optimizing and Maintaining a Database Administration Solution by Using Microsoft SQL Server 2005 | J2011 年 6 月 30 日
+| 70-444 | PRO: Optimizing and Maintaining a Database Administration Solution by Using Microsoft SQL Server 2005 | 2011 年 6 月 30 日
 | 70-444 | TS: Bing Maps Platform, Application Development | 2011 年 12 月 31 日
 | 70-445 | TS: Microsoft SQL Server 2005, Business Intelligence ‒ Development and Maintenance | 2011 年 6 月 30 日
 | 70-446 | PRO: Designing a Business Intelligence Solution by Using Microsoft SQL Server 2005 | 2011 年 6 月 30 日
@@ -331,7 +333,7 @@ ms.author: micsullivan
 | 70-595 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2010 | 2015 年 7 月 31 日
 | 70-599 | Pro: Designing and Developing Windows Phone Applications | 2014 年 9 月 30 日
 | 70-620 | TS: Configuring Microsoft Windows Vista Client | 2013 年 7 月 31 日
-| 70-621 | PRO: Upgrading Your MCDST Certification to MCITP Enterprise Support | 2011年7月31日
+| 70-621 | PRO: Upgrading Your MCDST Certification to MCITP Enterprise Support | 2011年3月31日
 | 70-622 | Pro: Microsoft Desktop Support – ENTERPRISE | 2013 年 7 月 31 日
 | 70-623 | Pro: Microsoft Desktop Support – CONSUMER | 2013 年 7 月 31 日
 | 70-624 | TS: Deploying and Maintaining Windows Vista Client and 2007 Microsoft Office System Desktops | 2010 年 10 月 31 日

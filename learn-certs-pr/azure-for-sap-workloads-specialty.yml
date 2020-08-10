@@ -10,7 +10,7 @@ summary: |-
 
   適用於 SAP Workloads 專業認證的 Azure 的應試者應是具有豐富經驗和知識的架構師或工程師，這些經驗和知識應針對 SAP 解決方案在 Microsoft Azure 上的長期運行。
 
-  擔任此職務的職責包括就服務提出建議並適當調整資源，以實現最佳彈性、效能、規模、供應、規模和監視。
+  擔任此職務的職責包括就服務提出建議並適當調整資源，以實現最佳彈性、性能、比例、供應，規模和監視。
 
   Azure for SAP Workloads 的架構師或工程師與雲管理員，雲 DBA 和客戶端合作以實作解決方案。
 
@@ -46,6 +46,9 @@ resources:
 - title: Azure 認證海報
   description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 認證之旅
+  description: 探索 Azure for SAP Workloads Specialty 認證的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -56,7 +59,7 @@ resources:
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
   href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。

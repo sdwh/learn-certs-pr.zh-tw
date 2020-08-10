@@ -1,6 +1,6 @@
 ---
 title: 關於透過 Pearson VUE 進行的線上測驗|Microsoft Docs
-description: 關於線上考試 
+description: 關於在線考試 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -14,31 +14,69 @@ ms.author: micsullivan
 您可以透過線上、Pearson VUE 參加任何基於 Microsoft Certification 角色的測驗或基礎測驗，並且可以在家中或辦公室中舒適地進行。線上督導測驗交付透過督導員透過網路攝像頭和麥克風監視您的測驗經歷，從而保持測驗結果的完整性。如果您有興趣透過 Pearson VUE 參加線上督導測驗，而且在註冊之前想要更好地理解可能出現的情形，則此頁面將會解釋詳細資訊。觀看 Pearson VUE 的 [YouTube 視頻](https://youtu.be/Gm1PqdbwBP0)，了解有關參加線上督導測驗的更多資訊。(本節不介紹 Certiport 提供的測驗。)
 
 
-## <a name="take-a-system-test"></a> 現在參加系統測試
+## <a name="take-a-system-test"></a> 立即運行系統測試
 
-現在參加系統測試，檢測您的電腦和地址是否和線上測驗軟體相容，然後安排您的考試時間。
+運行一次[系統測試](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) 在在同一台計算機的同一位置進行測試，以驗證您的計算機，位置和網際網路連接是否與 Pearson VUE OnVUE 軟體和測試準則兼容。
 
 [立即運行系統測試](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)
 
 大多數國家當前都提供線上測驗。請注意，接待員支援、監考者支援和監考軟體目前只提供部分語言。您將在考試註冊流程中選擇此語言； 它可能與您參加測驗的語言不同。不論測驗的語言是什麼，大多數應試者都只能選擇使用英語接待員支援，監考者支援和監考軟體參加線上測驗。
 
-**警告!在註冊線上考試之前：**
+### 警告！在註冊線上測驗之前：
 
-1. **在要進行測試的同一台計算機以及同一位置上，必须完成[系統測試](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)。**  
-2. **確認您的 ID 符合要求(請閱讀[要求](https://home.pearsonvue.com/Policies/1S/English))，並且 Microsoft Certification 設定檔上的名稱與您將要識別的名稱上的名稱完全匹配用於輸入測驗預約。**  
-3. **查看下面的技術，系統，環境和測試協議要求。**
+1. **在要進行測試的同一台計算機以及同一位置上，必须完成[系統測試](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)。**
+2. 確認您的ID符合Pearson VUE  [ID 政策](https://home.pearsonvue.com/Policies/1S/English) ，並且您的Microsoft認證設定檔中的名稱與您在政府頒發的ID上的名稱完全匹配將出席測驗。如果您需要更改 Microsoft 認證設定檔聯絡人的姓名 [認證支援](https://aka.ms/mcpforum)，論壇仲裁者將提供援助。
+3. 如果您在測驗期間需要Pearson VUE與您聯絡，請使用您的手機號碼(包括國家/地區代碼)更新Microsoft認證資料。如果您在測驗期間失去聯絡，這是Pearson VUE與您聯絡的唯一方法。
+4. 閱讀保密協議([NDA](/learn/certifications/certification-exam-policies#non-disclosure-agreement))。在測驗開始時，您必須閱讀並同意NDA和Microsoft認證測驗的一般使用條款。您只會得到5分鐘的閱讀時間。測驗前請閱讀此書，以確保您完全理解要求並可以在不浪費時間的情況下同意它們。如果您在指定的時間內不同意NDA，則將無法參加測驗。
+5. 檢視以下技術，系統，環境，與測試協議要求。
+6. 設置對電腦的本地管理員存取權限。
+
+### Microsoft Windows
+<div>
+<table style="border:0px;">
+    <tbody>
+        <tr>
+            <td>
+<ul>
+<li>右鍵單擊開始按鈕</li>
+<li>選擇電腦管理>本地使用者和組>使用者>右鍵單擊管理員</li>
+<li>選擇設置密碼>右鍵單擊管理員>建立用戶名/密碼</li>
+<li>取消選擇帳戶已禁用>取消選擇使用者必須在下次啟動時更改密碼</li>
+<li>選擇確定</li></ul>
+            </td>
+        </tr>
+        <tr><td></td></tr>
+    </tbody>
+</table>
+</div>
+
+如果需要幫助在Microsoft電腦上設置本地管理員權限，然後存取 [Microsoft 支援](https://support.microsoft.com/allproducts)，然後選擇設備產品類別。
+<br/>
+
+### Apple Mac
+<div>
+<table style="border:0px;">
+    <tbody>
+        <tr>
+            <td>
+<ul>
+<li>從Apple菜單或“應用程式”資料夾啟動系統偏好設置</li>
+<li>選擇使用者和群組</li>
+<li>選擇鎖定圖標，然後輸入密碼。選擇確定</li>
+<li>選擇使用者帳戶列表下方的加號(+)按鈕</li>
+<li>從帳戶類型的下拉菜單中選擇管理員</li>
+<li>輸入所需的資訊：新帳戶持有人的全名、帳戶名、密碼和密碼提示</li>
+<li>選擇創建用戶</li></ul>
+            </td>
+        </tr>
+        <tr><td></td></tr>
+    </tbody>
+</table>
+</div>
+
+存取 [Apple 支援](https://support.apple.com/)，以獲取有關在Apple電腦上設置本地管理員權限的幫助。
 
 ## 系統要求
-
-線上測驗可能受 Proxy 伺服器、網路封包檢查/篩選或嚴格網路安全性組態干擾。
-
-登入交付工作站所用的 Windows 使用者帳戶，必須具有本機系統管理的權限。
-
-部分防毒軟體可能造成效能問題。進行測驗時，請停用防毒掃描。
-
-您可能需要確保您的安全性軟體不會封鎖 JavaScript、Adobe Air 應用程式或 Adobe Flash Player 擴充套件的執行。
-
-您可能需要設定網路安全性及防毒軟體，以使 Pearson Secure Browser 可執行檔案成為例外。
 
 ### 最低要求
 
@@ -47,15 +85,15 @@ ms.author: micsullivan
     <tbody>
         <tr>
             <td>
-                <p><strong>作業系統</strong></p>
+                <p><strong>操作系統</strong></p>
             </td>
             <td>
             <p><strong>Windows 10</strong></p>
-            <p>Windows 8.1 (32位元 和 64位元)</p>
+            <p>Windows 8.1 (32-bit and 64-bit)</p>
             <p>Mac OS 10.13 及更高版本(測試版除外)</p>
             <p>附註：Windows 作業系統必須通過正版 Windows 驗證。</p>
             <p>
-            嚴格禁止 Windows Vista，Windows XP，Windows 7 和所有以 Linux / Unix 為主的作業系統測驗交付。</p>
+            嚴格禁止 Windows Vista，Windows XP，Windows 7 和所有以 Linux / Unix 為主的作業作系統測驗交付。</p>
             </td>
         </tr>
         <tr>
@@ -75,15 +113,15 @@ ms.author: micsullivan
         </tr>
         <tr>
             <td>
-                <p><strong>網路瀏覽器</strong></p>
+                <p><strong>網絡瀏覽器</strong></p>
             </td>
             <td>
-                <p>最新版本的 Microsoft <strong>Edge</strong>，<strong>Safari</strong>，<strong>Chrome</strong> 和 <strong>Firefox</strong>可進行網頁端註冊或下載安全瀏覽器或  <strong>Internet Explorer 11</strong>。</p>
+                <p>最新版本的 Microsoft <strong>Edge</strong>，<strong>Safari</strong>，<strong>Chrome</strong> 和 <strong>Firefox</strong>，可進行 Web 註冊或下載安全瀏覽器或  <strong>Internet Explorer 11</strong>。</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p><strong>網路連接</strong></p>
+                <p><strong>網絡連接</strong></p>
             </td>
             <td>
                 <p>穩定的 1 Mbps下載/上傳的上網連接速度是必要的。</p>
@@ -96,9 +134,9 @@ ms.author: micsullivan
                 <p><strong>攝像頭</strong></p>
             </td>
             <td>
-                <p>網路攝影機的<strong>最低解析度必須為 640x480 @ 10 fps</strong>。<br/>
-                                網路攝像頭可能內嵌，也可能是外圍，並已連接至計算機。</p>
-                <p>Mac 用戶可能需要在麥克風和攝像頭的“系統偏好設置：安全性和隱私性”設置中允許 OnVUE。</p>
+                <p>網路攝影機的<strong>最低解析度必須為 640x480 @ 10 fps強</strong>。<br/>
+                                網絡攝像頭可能內嵌，也可能是外圍，並已連接至計算機。</p>
+                <p>Mac用戶可能需要在麥克風和攝像頭的“系統偏好設置：麥克風和攝像機的安全性和隱私性設置。</p>
             </td>
         </tr>
         <tr>
@@ -106,7 +144,7 @@ ms.author: micsullivan
                 <p><strong>聲音和麥克風</strong></p>
             </td>
             <td>
-                <p>確認在 Windows 中未將音頻和麥克風設置為靜音。</p><p class=""> Mac用戶可能需要在麥克風，攝像頭，自動化和輸入監視的 “系統偏好設置：安全和隱私：隱私” 設置內允許OnVUE。</p>
+                <p>確認在 Windows 中未將音頻和麥克風設置為靜音。</p><p class=""> Mac用戶可能需要在麥克風，攝像頭，自動化和輸入監視的 “系統偏好設置：安全和隱私：麥克風、攝像頭、自動化和輸入監控隱私設置。</p>
             </td>
         </tr>
         <tr>
@@ -114,7 +152,7 @@ ms.author: micsullivan
                 <p><strong>瀏覽器設定</strong></p>
             </td>
             <td>
-                <p><strong>必須開啟 Internet Cookies。<br/>必須取消任何彈出視窗阻止設定。</strong></p>
+                <p><strong>必須取消任何彈出視窗阻止設定。<br/>必須取消任何彈出視窗阻止設定。</strong></p>
             </td>
         </tr>
         <tr>
@@ -135,19 +173,29 @@ ms.author: micsullivan
         </tr>
         <tr>
             <td>
-                <p><strong>其他軟體</strong></p>
+                <p><strong>其他軟件</strong></p>
             </td>
             <td>
-                <p>如果可能，請在考試期間停止運行任何防病毒軟體。</p>
+                <p>如果可能，請在考試期間停止運行任何防病毒軟件。</p>
             </td>
         </tr>
     </tbody>
 </table>
 </div>
 
-[閱讀網路管理員級別的故障排除要求](https://home.pearsonvue.com/op/OnVUE-min-specs-Network-Admin-Requirements)
+### 其他注意事項和提示：
 
 在註冊和購買考試之前，請必须在要進行測試的同一台計算機和同一位置上完成[系統測試](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)。
+- 線上測驗可能受 Proxy 伺服器、網路封包檢查/篩選或嚴格網路安全性組態干擾。
+- 登入交付工作站所用的 Windows 使用者帳戶，必須具有本機系統管理的權限。
+- 部分防毒軟體可能造成效能問題。進行測驗時，請停用防毒掃描。
+- 您可能需要確保您的安全性軟體不會封鎖 JavaScript、Adobe Air 應用程式或 Adobe Flash Player 擴充套件的執行。
+- 在個人電腦而不是工作電腦上進行測試，因為工作電腦安裝了會阻止OnVUE軟件啟動的軟件。
+- 如果可能，請使用台式電腦而不是筆記本電腦。
+- 您可能需要設定網路安全性及防毒軟體，以使 Pearson Secure Browser 可執行檔案成為例外。
+- 參加線上督導式測驗時，請盡可能使用硬連線的網際網路連接。
+- 不要連接行動熱點；明確禁止這樣做。
+- [閱讀網路管理員級別的故障排除要求](https://home.pearsonvue.com/op/OnVUE-min-specs-Network-Admin-Requirements)
 
 ## 參加所在國/地区
 
@@ -167,9 +215,9 @@ ms.author: micsullivan
 
 ### 與接待員或監考者聯絡：
 
-- **電話。** 在簽到程序中，接待員會在您測驗簽到時請您提供與您聯絡的電話號碼。在完成簽到程序之後，會要求您將電話放在拿不到但又近到可以聽到的地方。
-- **聊天窗口。** 與接待員和監考者的聯絡大多會經由交談視窗進行。
-- **麥克風。** 在簽到程序及測驗 (若有需要) 期間，您可以經由麥克風與接待員和監考者聯絡。
+- **電話。** 在簽到程序中，接待員會在您測驗簽到時請您提供與您連絡的電話號碼。在完成簽到程序之後，會要求您將電話放在拿不到但又近到可以聽到的地方。
+- **聊天窗口。** 與接待員和監考者的連絡大多會經由交談視窗進行。
+- **麥克風。** 在簽到程序及測驗 (若有需要) 期間，您可以經由麥克風與接待員和監考者連絡。
 - **語言。** 與接待員和監考者的所有溝通都使用限量的語言進行，這些語言可能與您測驗所用的語言不同。
 
 ### 身份驗證：
@@ -180,9 +228,9 @@ ms.author: micsullivan
   - 護照
   - 身份證(國家/州/省身份證)
   - 外國人登記證(綠卡，永久居民，簽證)
-  - 政府簽發的本地語言 ID(非羅馬字符)- _僅當 ID 由應試者所在的國家/地區發出時才被接受_
+  - 政府簽發的本地語言ID(非羅馬字符)—_僅當ID由應試者所在的國家/地區發出時才被接受_
 - 網路攝影機將會拍攝您的證件和您的相片。
-- 證件上的姓名必須確切符合您 Microsoft 和 Pearson VUE 個人檔案中的姓名。
+- 您出示要參加測驗的政府頒發的ID上的名稱必須與Microsoft認證資料中的名稱完全匹配。如果您需要更改Microsoft認證設定檔的名稱，請在測驗日之前聯絡[認證支援](https://aka.ms/mcpforum) ，論壇仲裁者將為您提供幫助。
 - 18 歲以下青少年可出示有效學生證作為身份證明。應試者的監護人也必須出示有效證件，並且必須在簽到程序期間口頭同意測驗。
 
 ### 工作區域掃描：
@@ -195,7 +243,7 @@ ms.author: micsullivan
 
 ### 沒有個人物品
 
-- 在考試期間，您不能接觸以下類型的個人物品：手提電腦或其他電子設備、傳呼機、手錶、錢包、皮夾、帽子(或其他頭上用品)、包、大衣、書籍、便箋或任何其他未明確批准的材料。
+- 在考試期間，您不能接觸以下類型的個人物品：手提電腦或其他電子設備，傳呼機，手錶，錢包，皮夾，帽子(或其他頭上用品)，包，大衣，書籍，便箋或任何其他未明確批准的材料。
 - 如果出現支援問題，監考者可能會嘗試透過您在測驗簽到期間所提供的手機號碼與您聯絡。 請確保您的手機號碼包含國家代碼。可以將手機放在附近，但不要放在手邊。
 - 要求您把所有的口袋(褲子的口袋和夾克/毛衣的口袋)全部翻出來，以便接待人員看到它們是空的。
 - 如果您穿著長袖，請捲起袖子以表明手臂上沒有任何文字。
@@ -212,7 +260,7 @@ ms.author: micsullivan
 - **在測驗階段期間，任何人不可進入房間。如果發生這種情況，您的考試將被終止。**
 - 參加測驗時，您可能不會得到其他人的幫助或指導，並且在測驗過程中，您可能不允許其他人看到電腦螢幕。
 - 測驗期間，您不得使用書籍或其他資源，草稿紙，可擦拭白板或任何其他書寫物品。測驗交付期間也不得使用任何書寫工具，例如筆、馬克筆或鉛筆。
-- 監考人不能回答與考試內容有關的問題。如果有關於測驗內容的問題，請在完成測驗之後聯絡 Microsoft。
+- 監考人不能回答與考試內容有關的問題。如果有關於測驗內容的問題，請在完成測驗之後連絡 Microsoft。
 
 ### 面部比對政策
 
@@ -224,50 +272,52 @@ ms.author: micsullivan
 
 ### 其他重要信息
 
-- 與其他任何Microsoft認證測驗一樣，您必須閱讀並同意我們的[非披露協議](/learn/certifications/certification-exam-policies#non-disclosure-agreement)(NDA)中所述的條款，並且您必須符合應試者的行為要求。這可能包括但不限於：
+- 與其他任何Microsoft認證測驗一樣，您必須閱讀並同意我們的[非披露協議](/learn/certifications/certification-exam-policies#non-disclosure-agreement) (NDA).您只有5分鐘的閱讀時間，因此我們建議您在測驗前閱讀它，以確保您完全理解這些要求，並且可以在不浪費時間的情況下同意這些要求。如果您在指定的時間內不同意NDA，則將無法參加測驗。
+- 中所述的條款，您必須符合應試者的行為要求。這可能包括但不限於：
   - 您不得以任何方式複製或記錄測驗中的問題或答案。
   - 您不得與他人分享或討論測驗中出現的問題或答案。
 - 如果您不遵守[應試者規則合約](https://www.pearsonvue.com/rp/rp_candidate_rules_agreement.pdf)或被懷疑欺騙或篡改 Pearson VUE 或其轉包商的軟體，或者如果在測驗期間在您坐的房間裡偵測到您以外的人，監考者將立即終止測驗，並將違規情況以及音訊和/或視訊證據報告給 Pearson VUE 和 Microsoft 。您的測驗可能會無效，並且 Microsoft 可能會採取其他行動，例如取消您的資格並在未來不准您參加所有 Microsoft 認證計劃。
 
-## 註冊線上考試
+## 註冊在線考試
 
 - 在大多數國家中，透過 Pearson VUE 進行的線上測驗適用於角色型或基礎測驗。如果您所在的國家可以提供線上測驗，則可以使用您所在國家的測驗中心所使用的相同語言進行線上測驗。請注意，接待員支援、監考者支援和監考軟體目前只提供部分語言。您將在考試註冊流程中選擇此語言； 它可能與您參加測驗的語言不同。不論測驗的語言是什麼，大多數應試者都只能選擇使用英語接待員支援，監考者支援和監考軟體參加線上測驗。
-- 要注册，请从[考试列表](/learn/certifications/browse/) 中选择您要参加的Microsoft考试，然后选择“计划考试”按钮。如果在您的國家有提供線上測驗，您將可以在測驗註冊過程中選取該選項。您還將選擇接待員，監查員和監考軟體的語言。
+- 要進行註冊，請首先使用與您的Microsoft認證設定檔相關的電子郵件登錄到您的Microsoft [認證儀錶板](https://aka.ms/certdashboard)。選擇“規劃測驗”按鈕，然後從[測驗清單](/learn/certifications/browse/)中選擇您要參加的Microsoft測驗。如果在您的國家有提供線上測驗，您將可以在測驗註冊過程中選取該選項。您還將選擇接待員，監查員和監考軟體的語言。
 
 ## 啟動考試和應試者報到過程
 
 啟動和簽到程序應該會花費約 15 分鐘。
 
 - 在開始測驗之前，請查看OnVUE [FAQ](https://home.pearsonvue.com/microsoft/onvue)中的疑難解答提示。
-- 如果測驗負責人需要與您聯絡，請確保您附近有手機且屏幕可見。
+- **在測驗當天，請在要在測驗期間使用的設備和網際網路連接上再次運行[系統測試](/learn/certifications/online-exams#take-a-system-test)**。網際網路帶寬可能會在一天中的某個時間發生變化。
+- 以管理員身份登錄到電腦，以便確定是否正在運行任何後台進程並將其停止。
 - 關閉瀏覽器彈出窗口阻止程序。
-- 確保您具有計算機的管理權限，以便可以下載測試軟體。
+- 如果測驗負責人需要與您聯絡，請確保您的手機不在即時測試空間之內，但應在伸手可及的範圍內並看到屏幕。
+  - 確保Pearson VUE在測驗期間需要與您聯絡時，請使用您的手機號碼(包括國家/地區代碼)更新Microsoft認證資料。
 
 若要開始測驗階段，並與接待員連線：
 
-1. 使用與您的 Microsoft Certification 設定檔關聯的電子郵件登錄到[certification dashboard](https://aka.ms/certdashboard)。
-2. 在右側的“預約”部分中，選擇“開始先前安排的線上監考考試”。
-3. 在 **購買線上測驗** 下選擇測驗。
-4. 選擇 **開始測驗**，然後繼續進行自檢過程，然後等待監考人與您建立聯絡。(附註：您必須選擇開始測驗才能啟動測驗；如果您不這樣做，則測驗將不會啟動。)
+1. 使用與您的 Microsoft Certification 設定檔關聯的電子郵件登錄到[certification dashboard](https://aka.ms/certdashboard)。(如果您首先無法在此步驟中存取Microsoft認證資訊中心，請使用InCognito或InPrivate瀏覽器重試。如果您仍然無法存取認證儀表板，請透過[認證支援](https://aka.ms/mcpforum)和論壇仲裁者打開案例
+將為您提供幫助。)
+2. 我們建議您提前15分鐘登錄以開始簽入過程。在排定的預約時間之後，您最多有 15 分鐘來開始測驗。
+3. 在右側的“預約”部分中，選擇“開始先前安排的線上監考考試”。
+4. 在**購買線上測驗**下選擇測驗。
+5. 選擇**開始測驗**，然後繼續進行自檢過程，然後等待監考人與您建立聯絡。(附註：您必須選擇開始測驗才能啟動測驗；如果您不這樣做，則測驗將不會啟動。)
 
 **注意**在完成自助登機手續後，您最多可能需要等待 30 分鐘，才能與迎賓員(要求再次確認身份或房間要求)或監理人聯絡。
 
-如果您在預定測驗時間**後 30 分鐘仍未連接到監理員，請聯絡[Pearson VUE](https://home.pearsonvue.com/contact)。
+如果您**在預定的測驗時間後** 30分鐘未連接到監理員，則連接斷開。您可以在最初的測驗預約後24到30小時重新安排測驗時間。只需使用與您的Microsoft認證設定檔關聯的電子郵件登錄到[認證儀表板](https://www.microsoft.com/learning/dashboard.aspx)，即可重新規劃。我們建議您盡可能自助，但也可以與Pearson VUE [支援](https://home.pearsonvue.com/microsoft/contact)聯絡以獲取重新安排測驗的幫助。請耐心等待，因為由於COVID-19，回復速度比正常慢(最多5天)。
 
 - 身份驗證和房間掃描由迎賓員在完成自檢後完成。如果在對這些工件進行歡迎檢查期間未發現任何問題或疑慮，您將被置於監工隊列中。監考人員到位後，您就可以開始測驗了。在迎賓員對所提供的工件有疑問的情況下，迎賓員將與您一起解決這些問題。
+- 在此程序完成之後，測驗即會開始。除非有問題，否則監考者在測驗期間不會聯絡您。
+- 如果在測驗交付期間發生技術問題，監試者會先嘗試經由Chat聯絡您。如果不成功，監試者會用電話聯絡您。
+- 如果在測驗交付之後還有問題，請聯絡[Pearson VUE](https://home.pearsonvue.com/contact)支援。請提交監考者所提供的事件報告編號。
 
-在此程序完成之後，測驗即會開始。除非有問題，否則監考者在測驗期間不會聯絡您。
-
-如果在測驗交付期間發生技術問題，監試者會先嘗試經由Chat聯絡您。如果不成功，監試者會用電話聯絡您。
-
-如果在測驗交付之後還有問題，請聯絡[Pearson VUE](https://home.pearsonvue.com/contact)支援。請提交監考者所提供的事件報告編號。
-
-### 獲取成績報告，並移除監考人軟體
+### 獲取成績報告，並刪除監考人軟件
 
 分數報告可以從[認證儀錶板](https://aka.ms/certdashboard)存取。
 
 1. 登錄到您的[ 認證儀錶板](https://aka.ms/certdashboard)。
-2. 選擇 **查看我的分數報告**。您可以從這裡儲存和列印成績單。
+2. 選擇**查看我的分數報告**。您可以從這裡儲存和列印成績單。
 3. 測驗結果 (合格與否) 將會轉發給 Microsoft 以進行處理。(如果您在完成測驗 48 小時後仍未看到分數，請與[認證支援](https://aka.ms/mcpforum)聯絡，論壇仲裁者將為您提供幫助。)
 4. 考試結束後，您應該移除所有可執行文件和輔助文件，包括“Pearson VUE 安全瀏覽器”圖標。要從桌面上移除該圖標，請右鍵單擊該圖標，選擇“移除”，然後選擇“是”。
 5. **[卸載 Pearson VUE 安全瀏覽器的可執行文件](https://windows.microsoft.com/en-us/windows7/uninstall-or-change-a-program)**。
@@ -276,14 +326,14 @@ ms.author: micsullivan
 
 尋找線上監考測驗相關常見問題的解答。
 
-### 我怎麼知道線上考試是否適合我？
+### 我怎麼知道在線考試是否適合我？
 首先，請確保您的電腦滿足[系統要求](/learn/certifications/online-exams#testing-session-protocol) 並完成所需的[系統測試](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)。查看[測試會話協議](/learn/certifications/online-exams#testing-session-protocol)，以了解測驗期間的期望。如果您對系統符合要求或對測試會話協議有疑問或保留，我們建議您在測試中心安排測驗。
 
 ### 如果我的系統未通過系統測試，我仍可以線上參加考試嗎？
 不可以。如果您的系統未通過[系統測試](/learn/certifications/online-exams#take-a-system-test)，則不應註冊線上測驗，如果您對身分識別無法取得清晰的照片，則不應安排線上測驗。
 
 ### 如何註冊線上考試？
-要註冊，請從[考試列表](/learn/certifications/browse/)中選擇您要參加的考試，然後選擇“安排考試”按鈕。如果在您的國家有提供線上測驗，您將可以在測驗註冊過程中選取該選項。
+要進行註冊，請首先使用與您的Microsoft認證設定檔相關的電子郵件登錄到您的Microsoft [認證儀錶板](https://aka.ms/certdashboard)。選擇“規劃測驗”按鈕，然後從[測驗清單](/learn/certifications/browse/)中選擇您要參加的Microsoft測驗。如果在您的國家有提供線上測驗，您將可以在測驗註冊過程中選取該選項。您還將選擇接待員，監查員和監考軟體的語言。
 
 ### 如果我不在考試中心，作弊似乎會容易得多。線上測驗是否安全？
 我們致力於保護測驗的誠信，無論測驗用什麼方式交付。當您參加線上測驗時，必須先安裝安全瀏覽器，以在整個測驗過程中執行強力的安全保護措施。此外，Pearson VUE 監考者在測驗期間會經由網路攝影機和麥克風來全時監看您。當我們懷疑有作弊時也會檢查測驗期間的錄影片段。我們很擅長抓作弊，所以不建議您嘗試。我們會取消作弊者的資格、移除作弊者的認證並禁止參加未來測驗。
@@ -297,14 +347,14 @@ ms.author: micsullivan
 ### 線上考試比考試中心的考試更難嗎？
 不可以。考試的難度相當。
 
-### 我可以在線上考試時做筆記嗎？
+### 我可以在在線考試時做筆記嗎？
 是的，透過使用線上測驗體驗一部分的白板功能(您可能無法使用外部白板)。白板功能提供輸入筆記或繪製形狀的選項。您可在測驗期間單擊熒屏上方的橡皮擦圖標存取白板。
 
 ### 線上考試是否支援多種語言？
 是。如果您所在的國家可以提供線上測驗，則可以使用您所在國家的測驗中心所使用的相同語言進行線上測驗。請注意，接待員支援、監考者支援和監考軟體目前只提供部分語言。您將在考試註冊流程中選擇此語言； 它可能與您參加測驗的語言不同。不論測驗的語言是什麼，大多數應試者都只能選擇使用英語接待員支援，監考者支援和監考軟體參加線上測驗。
 
-### 如果在線上考試之前、之中或之後遇到技術問題，我應該與誰聯絡？
-關於註冊問題，請使用註冊期間提供的 Pearson VUE 客戶服務連結。如果您在測驗交付期間遭遇技術問題，測驗監考者會協助您嘗試解決問題。如有必要，在跟進[Pearson VUE 客戶支援](https://www.pearsonvue.com/microsoft/contact)時，監考人員將提供事件報告編號以供參考。
+### 如果在在線考試之前、之中或之後遇到技術問題，我應該與誰聯繫？
+關於註冊問題，請使用註冊期間提供的 Pearson VUE 客戶服務連結。如果您在測驗交付期間遭遇技術問題，測驗監考者會協助您嘗試解決問題。如有必要，在跟進[Pearson VUE 客戶支持](https://www.pearsonvue.com/microsoft/contact)時，監考人員將提供事件報告編號以供參考。
 
 ### 辦理登記手續時需要什麼類型的身份證明？
 請查看當前的[ID 政策](https://home.pearsonvue.com/Policies/1S/English) ，以獲取可接受的標識列表。請記住，您的 Microsoft Certification 設定檔上的名稱必須與您用於參加 Microsoft Certification 測驗的政府頒發的身份證上顯示的姓名完全匹配**.如果您正在更新或換新證件，請注意線上測驗不接受法定名稱變更表格，包括身份證換新表格。
@@ -317,8 +367,8 @@ ms.author: micsullivan
 
 1. 使用與您的 Microsoft Certification 設定檔關聯的電子郵件登錄到[certification dashboard](https://aka.ms/certdashboard)。
 2. 在右側的“預約”部分中，選擇“開始先前安排的線上監考考試”。
-3. 在 **購買線上測驗** 下選擇測驗。
-4. 選擇 **開始測驗**，然後繼續進行自檢過程，然後等待監考人與您建立聯絡。(附註：您必須選擇開始測驗才能啟動測驗；如果您不這樣做，則測驗將不會啟動。)
+3. 在**購買線上測驗**下選擇測驗。
+4. 選擇**開始測驗**，然後繼續進行自檢過程，然後等待監考人與您建立聯絡。(附註：您必須選擇開始測驗才能啟動測驗；如果您不這樣做，則測驗將不會啟動。)
 
 ### 在哪裡可以找到考試政策列表？
 請參閱適用於所有 Microsoft 認證測驗的[測驗原則和常見問題集](/learn/certifications/certification-exam-policies)。

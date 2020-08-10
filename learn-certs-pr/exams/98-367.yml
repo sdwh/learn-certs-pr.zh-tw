@@ -15,7 +15,11 @@ subTitle: 本測驗會驗證應試者具備基礎安全性方面的識與技能�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k1
 practiceTestUrl: https://www.mindhub.com/MTA-98-367-Security-Fundamentals-p/mu-98-367_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-367&examname=Security%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-367
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-367&examname=Security%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-367
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -53,7 +57,7 @@ resources:
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

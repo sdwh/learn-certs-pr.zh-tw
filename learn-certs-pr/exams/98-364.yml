@@ -12,7 +12,11 @@ summary: |-
 subTitle: 本測驗的應試者意在證明其擁有資料庫的入門知識與技能，包括 Microsoft SQL Server 等關聯式資料庫。建議應試者修習相關訓練課程，或使用 MSDN 和 Microsoft Visual Studio 提供的教學課程和範例，以熟悉這裡所描述技術的概念，並取得實際操作經驗。雖然建議要具備基本的實際操作體驗與技術，但不需要工作經驗即可參加這些測驗。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJq
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-364&examname=Database%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-364
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=98-364&examname=Database%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-364
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -42,7 +46,7 @@ courses:
 - uid: course.40364
 relatedCertifications:
 - related:
-    uid: certification.mta-database-fundamentals
+    uid: none
 resources:
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
@@ -50,7 +54,7 @@ resources:
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
+- title: 請求無障礙設施
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題
