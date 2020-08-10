@@ -1,0 +1,246 @@
+### YamlMime:Course
+title: Microsoft Azure technologies for AWS architects
+metadata:
+  title: 'Course AZ-030T00-A: Microsoft Azure technologies for AWS architects'
+  description: 'Course AZ-030T00-A: Microsoft Azure technologies for AWS architects'
+uid: course.az-030t00
+courseNumber: 'AZ-030T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用 Azure Active Directory 以及用戶和組的安全身份
+- skill: 實作跨內部和基於雲端功能的身份解決方案
+- skill: 應用監視解決方案以蒐集、合併和分析來自不同來源的資料
+- skill: 管理訂閱、帳戶、Azure 策略和基於角色的存取控制
+- skill: 使用資源管理器、Azure入口、Cloud Shell 和 CLI 管理Azure
+- skill: 設定站點間連接解決方案，例如 VNet Peering 和虛擬網路閘道
+- skill: 管理 Azure 應用服務，Azure 容器執行個體和 Kubernetes
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- solution-architect
+products:
+- azure
+exams:
+- uid: exam.az-303
+summary: |-
+  本課程教以前為Amazon Web Services設計的解決方案架構師如何將業務需求轉換為Azure的安全、可擴充和可靠的解決方案。課程包括虛擬化、自動化、網路、存儲、身份、安全性、資料平台和應用程式基礎結構。本課程概述了這些領域的決策對整體解決方法的影響。
+
+  #### 對象設定檔
+  本課程面向具有設計和實作在AWS上運行的解決方案的專業知識的AWS Cloud 架構師，他們現在想為Microsoft Azure設計。
+prerequisitesSection: |-
+  - 作為一名AWS架構師（>1年），具有跨存儲結構，計算，網路以及與外部資源/服務的交互設計安全且可擴充的AWS雲端解決方案的經驗。
+  - 了解內部虛擬化技術，包括&#58;VM、虛擬網路和虛擬硬碟。
+  - 了解網路設定，包括TCP/IP，網域名稱系統（DNS），虛擬私人網路（VPN），防火牆和加密技術。
+  - 了解 Active Directory 概念，包括網域，樹系，網域控制站，複寫，Kerberos 通訊協定和輕量型目錄存取通訊協定（LDAP）。
+  - 了解恢復和災害復原，包括備份和還原操作。
+  - 了解編程基礎知識和使用腳本語言。
+
+  應試者將受益於對Azure管理、Azure開發流程和DevOps流程的熟悉。
+outlineSection: |-
+  ### 模組 1&#58;azure 導論
+  在此模塊中，您將了解Azure如何組織訂閱和帳戶，並可以設置資源組和模板以標準化資源的建立和生命週期管理。
+  #### 課程
+  - 訂閱和帳戶
+  - Azure資源管理器中的資源組和模板
+
+  完成本單元後，您生將能夠&#58;
+  - 確定最適合您的解決方案的帳戶和訂閱類型。
+  - 建立資源組和模板以標準化和管理解決方案。
+
+
+  ### 模塊 2&#58;Azure全球基礎架構
+  在本模塊中，您將看到Microsoft Azure的全球體系結構以及該體系結構如何影響應用程序和站點的可用性和可靠性。
+  #### 課程
+  - Azure地區
+  - Azure Availability Zones
+  - 與AWS的比較
+
+  完成本單元後，您生將能夠&#58;
+  - 實作可提供解決方案所需的可用性和可靠性的體系結構。
+
+
+  ### 模塊 3&#58; 實作 Azure Active Directory
+  在本模組中，您將學習如何使用 Azure Active Directory 保護身分識別並實現使用者和群組。
+  #### 課程
+  - Azure Active Directory簡介
+  - 網域和自訂網域
+  - 安全特性
+  - Azure Active Directory中的來賓使用者
+  - 管理多個目錄
+  - 與AWS的比較
+
+  完成本單元後，您生將能夠&#58;
+  - 使用Azure Active Directory確保身份安全。
+  - 實作使用者與群組。
+
+
+  ### 模塊 4&#58; 實作與管理混合身份
+  在本模塊中，您將學習如何將本地Active Directory帳戶擴展到雲端，以及如何同步帳戶。
+  #### 課程
+  - Azure AD連接簡介
+  - 與AWS的比較
+
+  完成本單元後，您生將能夠&#58;
+  - 使用您的本地Active Directory帳戶向您的雲端解決方案進行身份驗證。
+  - 在本地和雲端之間同步帳戶。
+
+
+  ### 模塊 5&#58; 實施虛擬網絡
+  在本模塊中，您將學習基本的虛擬網路概念，例如虛擬網路和子網路，IP尋址，Azure DNS、網路安全群組和Azure 防火牆。
+  #### 課程
+  - Azure虛擬網路和VNet對等
+  - VPN和ExpressRoute連接
+  - 與AWS的比較
+
+  完成本單元後，您生將能夠&#58;
+  - 設計虛擬網路時要考慮安全性。
+
+
+  ### 模塊 6&#58; 為 Windows 和 Linux 實作 VM
+  在本模塊中，您將學習如何設定VM以實作高可用性以及如何部署和設定規模集。
+  #### 課程
+  - 設定高可用性
+  - 與AWS的比較
+
+  完成本單元後，您生將能夠&#58;
+  - 實作虛擬機以建立高可用性解決方案。
+  - 部署與設定規模集。
+
+
+  ### 模塊 7&#58; 實作負載平衡和網路安全
+  在本模塊中，您將學習如何實作Azure負載平衡器，以及如何設置安全組。
+  #### 課程
+  - 實作Azure負載平衡
+  - 實作Azure應用程式閘道
+  - 實作Azure防火牆
+  - 實作網路安全組和應用程式安全組
+  - 與AWS的比較
+
+  完成本單元後，您生將能夠&#58;
+  - 實作負載平衡的元件。
+  - 設置網路和應用程式安全組。
+
+
+  ### 模塊 8&#58; 實作基於容器的應用程式
+  在本模塊中，您將學習如何設定Azure Kubernetes服務以及如何在Azure容器上發布解決方案。
+  #### 課程
+  - 設定Azure Kubernetes服務
+  - 在Azure容器執行個體上發布一個解決方案
+  - 與AWS的比較
+
+  完成本單元後，您生將能夠&#58;
+  - 為您的解決方案設定Azure Kubernetes服務。
+  - 在Azure容器執行個體上發布你的解決方案。
+
+
+  ### 模塊 9&#58; 實作應用程式基礎結構
+  在本模塊中，您將學習選擇App Service規劃，設定規劃以及設置Logic Apps和Azure Functions的基礎知識。
+  #### 課程
+  - 建立 App Service 規劃
+  - 建立和設定Azure應用服務
+  - 為應用程式服務設定網路
+  - 邏輯應用程式和Azure功能簡介
+  - 與AWS的比較
+
+  完成本單元後，您生將能夠&#58;
+  - 選擇適合您解決方案的應用服務規劃。
+  - 設定應用程式服務。
+  - 將Logic Apps和Azure功能整合到您的解決方案中。
+
+
+  ### 模組 10&#58;實作儲存賬戶
+  在本模塊中，將向您介紹Azure存儲以及如何設定網路存取，複製，身份驗證，存取和容錯移轉。
+  #### 課程
+  - Azure Storage核心概念
+  - 管理 Azure Blob 儲存生命週期
+  - 使用Azure Blob 儲存體
+  - 與AWS的比較
+
+  完成本單元後，您生將能夠&#58;
+  - 為您的解決方案選擇一個適當的Azure存儲帳戶。
+  - 設定您的存儲帳戶。
+
+
+  ### 模塊 11&#58; 實作 NoSQL 資料庫
+  在本模塊中，您將了解Azure Cosmos DB及其設定方法。
+  #### 課程
+  - Azure Cosmos DB簡介
+  - 一致性
+  - 選擇適當的CosmosDB API
+  - 在CosmosDB中設置副本
+  - 與AWS DynamoDB的比較
+
+  完成本單元後，您生將能夠&#58;
+  - 使用Azure Cosmos DB設定NoSQL資料庫解決方案。
+
+
+  ### 模塊 12&#58; 實作 Azure SQL 資料庫
+  在本模塊中，您將學習如何實作Azure SQL資料庫的受管理執行個體以及如何對其進行設定以實作高可用性。
+  #### 課程
+  - 設定Azure SQL 資料庫設置
+  - 設定 Azure SQL 資料庫受控執行個體
+  - 為Azure SQL 資料庫設定高可用性
+  - 與AWS的比較
+
+  完成本單元後，您生將能夠&#58;
+  - 實作Azure SQL資料庫的受管理執行個體。
+  - 設定資料庫以實作高可用性。
+
+
+  ### 模塊 13&#58; 實作雲端基礎結構監控
+  在本模塊中，您將學習如何使用Azure Monitor設置警報以及如何記錄和管理成本。
+  #### 課程
+  - 監控安全性
+  - 監控成本
+  - 設定Log Analytics工作區
+  - 與AWS的比較
+
+  完成本單元後，您生將能夠&#58;
+  - 為您的解決方案設置安全監控。
+  - 透過分析日誌監控成本。
+
+
+  ### 模塊 14&#58; 實施和管理Azure治理解決方案
+  在本模塊中，您將學習如何設定基於角色的存取控制以及如何設定Azure策略以強制遵守治理要求。
+  #### 課程
+  - 分配 RBAC 角色
+  - 設定對 Azure 的管理存取
+  - 實作和設定Azure策略
+  - 與AWS的比較
+
+  完成本單元後，您生將能夠&#58;
+  - 為管理存取設定RBAC角色。
+  - 設定Azure策略以強制遵守治理要求。
+
+
+  ### 模塊 15&#58; 管理應用程式的安全性
+  在本模塊中，您將學習如何實作和設定KeyVault，如何在Azure Active Directory中註冊和管理應用程式以及如何設定Azure Active Directory受管理身份。
+  #### 課程
+  - 實作Azure Key Vault
+  - 實作和設定Azure AD受管理身份
+  - 在Azure AD中註冊和管理應用程式
+  - 與AWS的比較
+
+  完成本單元後，您生將能夠&#58;
+  - 在Azure Active Directory中註冊您的應用程式。
+  - 為您的應用程式用來存取資料的受管理身份設定Azure Active Directory。
+
+
+  ### 模塊 16&#58;移轉、備份和災難恢復管理
+  在本模塊中，您將學習如何移轉工作負載，以及現在如何管理備份，災難恢復和更新。
+  #### 課程
+  - 移轉工作負載
+  - 為VM實作Azure備份
+  - 實作災難恢復
+  - 與AWS的比較
+
+  完成本單元後，您生將能夠&#58;
+  - 將工作負載移轉到雲端和在VM 之間移轉工作負載。
+  - 實作雲端備份。
+  - 實作災難恢復選項。
+  - 實作避免對可用性和效能造成負面影響的更新策略。
+

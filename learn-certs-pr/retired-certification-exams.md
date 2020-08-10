@@ -9,11 +9,11 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# 排定要撤銷(到期）的測驗
+# 排定要撤銷(到期)的測驗
 
 查看預定將於未來 12 個月內停止提供的測驗，順序依技術排列。(後續的資訊可能會變更。)
 
-| 於 2021 年 1 月 31 日撤銷 ||
+| 於 2021 年 1 月 31 日撤銷 | |
 | --- | --- |
 | [70-333](https://www.microsoft.com/learning/exam-70-333.aspx): Deploying Enterprise Voice with Skype for Business 2015 |  |
 | [70-334](https://www.microsoft.com/learning/exam-70-334.aspx): Core Solutions of Microsoft Skype for Business 2015 |  |
@@ -59,12 +59,12 @@ ms.author: micsullivan
 | [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
 | [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
 
-| 於 2020 年 9 月 30 日撤銷 ||
+| 於 2020 年 9 月 30 日撤銷 | |
 | --- | --- |
 | [AZ-300](https://www.microsoft.com/learning/exam-AZ-300.aspx): Microsoft Azure Architect Technologies |  |
 | [AZ-301](https://www.microsoft.com/learning/exam-AZ-301.aspx): Microsoft Azure Architect Design |  |
 
-| 於 2020 年 8 月 31 日撤銷 ||
+| 於 2020 年 8 月 31 日撤銷 | |
 | --- | --- |
 | [MS-200](/learn/certifications/exams/ms-200): Planning and Configuring a Messaging Platform |  |
 | [MS-201](/learn/certifications/exams/ms-201): Implementing a Hybrid and Secure Messaging Platform |  |
@@ -82,9 +82,9 @@ ms.author: micsullivan
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019 年 5 月 1 日
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019 年 5 月 1 日
 | [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 2019 年 6 月 30 日
-| AZ-200 | Microsoft Azure Developer Core Solutions (2018 年 9 月 24 日發佈） | 2019 年 1 月 3 日
-| AZ-201 | Microsoft Azure Developer Advanced Solutions (2018 年 9 月 24 日發佈） | 2019 年 1 月 3 日
-| AZ-202 | Microsoft Azure Developer Certification Transition (2018年9月24日發布）| 2019年3月31日
+| AZ-200 | Microsoft Azure Developer Core Solutions (2018 年 9 月 24 日發佈) | 2019 年 1 月 3 日
+| AZ-201 | Microsoft Azure Developer Advanced Solutions (2018 年 9 月 24 日發佈) | 2019 年 1 月 3 日
+| AZ-202 | Microsoft Azure Developer Certification Transition (2018年9月24日發布)| 2019年3月31日
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 2019 年 6 月 30 日
 | [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | (2019 年 9 月 30 日撤銷)
 | [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | (2019 年 9 月 30 日撤銷)
@@ -249,7 +249,7 @@ ms.author: micsullivan
 | 70-441 | PRO: Designing Database Solutions by Using Microsoft SQL Server 2005 | 2011 年 6 月 30 日
 | 70-442 | PRO: Designing and Optimizing Data Access by Using Microsoft SQL Server 2005 | 2011 年 6 月 30 日
 | 70-443 | PRO: Designing a Database Server Infrastructure by Using Microsoft SQL Server 2005 | 2011 年 6 月 30 日
-| 70-444 | PRO: Optimizing and Maintaining a Database Administration Solution by Using Microsoft SQL Server 2005 | J2011 年 6 月 30 日
+| 70-444 | PRO: Optimizing and Maintaining a Database Administration Solution by Using Microsoft SQL Server 2005 | 2011 年 6 月 30 日
 | 70-444 | TS: Bing Maps Platform, Application Development | 2011 年 12 月 31 日
 | 70-445 | TS: Microsoft SQL Server 2005, Business Intelligence ‒ Development and Maintenance | 2011 年 6 月 30 日
 | 70-446 | PRO: Designing a Business Intelligence Solution by Using Microsoft SQL Server 2005 | 2011 年 6 月 30 日
@@ -570,5 +570,5 @@ ms.author: micsullivan
 | MB7-846 | NAV 2009 Relationship Management | 2014 年 6 月 30 日
 | MB7-848 | NAV 2009 Service Management | 2014 年 6 月 30 日
 | MB7-849 | NAV 2009 Manufacturing | 2014 年 6 月 30 日
-| MB7-849 | NAV 2009-Produktion (丹麥語）| 2014 年 6 月 30 日
-| MB7-849 | NAV 2009-Produktion (德語）| 2014 年 6 月 30 日
+| MB7-849 | NAV 2009-Produktion (丹麥語)| 2014 年 6 月 30 日
+| MB7-849 | NAV 2009-Produktion (德語)| 2014 年 6 月 30 日

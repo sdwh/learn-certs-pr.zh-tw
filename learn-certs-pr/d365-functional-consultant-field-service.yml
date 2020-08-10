@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
-  description: 'Microsoft Dynamics 365 現場服務功能顧問負責設定現場服務應用程式，實作管理現場服務週期的解決方案，并部署 Connected Field Service (IoT) 解決方案。”'
+  description: 'Microsoft Dynamics 365 現場服務功能顧問負責設定現場服務應用程式，實作管理現場服務週期的解決方案，并部署 Connected Field Service (IoT) 解決方案。'
 uid: certification.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -35,6 +35,13 @@ courses:
 - uid: course.mb-200t00
 - uid: course.mb-240t00
 paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-bizapps.get-started-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 - uid: learn-bizapps.implementing-dyn365-field-service
 - uid: learn-bizapps.universal-resource-scheduling
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUiZ
@@ -43,7 +50,7 @@ exams:
 - uid: exam.mb-240
 resources:
 - title: 認證學習途徑
-  description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate。'
+  description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I72
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
@@ -55,7 +62,7 @@ resources:
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
   href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
