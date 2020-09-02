@@ -1,0 +1,305 @@
+### YamlMime:Course
+title: Developing Microsoft Azure and Web Services
+metadata:
+  title: 'Course 20487-C: Developing Microsoft Azure and Web Services'
+  description: 'Course 20487-C: Developing Microsoft Azure and Web Services'
+uid: course.20487-c
+courseNumber: '20487-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述使用 .NET 平台的服務開發和資料存取策略的基本概念。
+- skill: 描述 Microsoft Azure 雲平台及其計算、資料和應用程式託管產品。
+- skill: 使用 Visual Studio 2017 和 Entity Framework Core 設計和開發以資料為中心的應用程式。
+- skill: 使用 ASP.NET Core 設計、實作和使用 HTTP 服務。
+- skill: 使用 ASP.NET Core 擴展 HTTP 服務。
+- skill: 在本地和 Microsoft Azure 中託管服務。
+- skill: 將服務部署到本地和雲環境，並管理其服務的介面和策略。
+- skill: 選擇一種資料存儲解決方案，緩存、分發和同步資料。
+- skill: 監視、記錄服務和排除服務故障。
+- skill: 描述基於聲明的身份概念和標準，並使用 Azure Active Directory 實作身份驗證和授權。
+- skill: 建立可擴展的服務應用程式。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- dotnet
+exams:
+- uid: exam.70-487
+summary: |-
+  在本課程中，學生將學習如何設計和開發可從各種來源存取本地和遠端資料的服務。學生還將學習如何開發服務並將其部署到混合環境，包括本地伺服器和 Microsoft Azure。
+
+  #### 對象設定檔
+  主要受众&#58;.NET 開發人員，他們想學習如何開發服務並將其部署到混合環境中。
+
+  次要受众&#58;具有 Web 應用程式開發經驗的 .NET 開發人員，他們在探索開發新應用程式或將現有應用程式移植到 Microsoft Azure。
+prerequisitesSection: |-
+  在參加本課程之前，學生必須具備&#58;
+  - 使用 C＃ 編程以及 Lambda 表達式，LINQ 和匿名類型等概念的經驗。
+  - n-層應用程式的概念的知識
+  - 使用 ADO.NET 查詢和處理資料的經驗
+outlineSection: |-
+  ### 模組 1&#58;服務和雲技術概述
+  本模組概述了使用 Microsoft .NET Core 和 Azure 的服務和雲技術。第一課“分佈式應用程式的關鍵元件”討論了分佈式系統共有的特性，無論它們使用什麼技術。第2課“資料和資料存取技術”介紹了如何在分佈式應用程式中使用資料。第3課“服務技術”討論了分佈式系統中最常見的兩種協議以及基於這些協議用於開發服務的 .NET Core 技術。第4課“雲計算”介紹了雲計算及其在 Azure 中的實作方式。
+  #### 課程
+  - 分佈式應用程式的關鍵元件
+  - 資料和資料存取技術
+  - 服務技術
+  - 雲計算
+  - 處理資料
+
+
+  #### 實驗室&#58;探索工作環境
+  - 建立一個 ASP.NET Core 項目
+  - 建立一個簡單的 Entity Framework model
+  - 建立一個 Web API 類
+  - 將 Web 應用程式部署到 Azure
+
+  完成本單元後，學生將能夠&#58;
+  - 說明服務架構和託管環境
+  - 解釋雲計算和 Microsoft Azure 雲平台
+  - 說明資料存取策略
+
+
+  ### 模組 2&#58;使用 Entity Framework 查詢和操作資料
+  在本模組中，您將了解 Entity Framework 資料模型，以及如何建立、讀取、更新和刪除資料。Entity Framework 是一個豐富的對象關係型映射程式，它提供了方便而強大的應用程式編程介面(API)來處理資料。
+  本模組重點介紹 Entity Framework 的代碼優先的方法。
+  #### 課程
+  - ADO.NET 概述
+  - 建立實體資料模型
+  - 查詢資料
+
+
+  #### 實驗室&#58;使用 Entity Framework 建立資料存取層
+  - 建立資料模型
+  - 查詢資料庫
+
+
+  #### 實驗室&#58;操作資料
+  - 建立存儲庫方法
+  - 使用 SQL Server 和 SQLite 測試模型
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 ADO.NET 中的基本對象，並說明異步操作如何工作。
+  - 建立一個 Entity Framework Core 資料模型。
+  - 透過使用 Entity Framework Core 查詢資料。
+  - 使用 Entity Framework Core 插入、刪除和更新實體。
+
+
+  ### 模組 3&#58;建立和使用 ASP.NET Core Web API
+  ASP.NET Core Web API 為建立基於超文本傳輸協議(HTTP)的服務提供了穩健的現代框架。在本模組中，將向您介紹基於 HTTP 的服務。您將學習 HTTP 的工作原理，並熟悉 HTTP 消息、HTTP 方法、狀態代碼和標頭。還將向您介紹代表性狀態移轉(REST)的體系結構樣式和超媒體。
+
+  您將學習如何使用 ASP.NET Core Web API 建立 HTTP 服務。您還將學習如何從各種客戶端使用它們。在第 3 課之後，在實驗室“建立 ASP.NET Core Web API”中，您將建立一個 Web API 並從客戶端使用它。
+  #### 課程
+  - HTTP 服務
+  - 建立 ASP.NET Core Web API
+  - 使用 ASP.NET Core Web API
+  - 處理 HTTP 請求和響應
+  - 自動生成 HTTP 請求和響應
+
+
+  #### 實驗室&#58;建立 ASP.NET Core Web API
+  - 建立控制程式類
+  - 透過瀏覽器使用API
+  - 建立客戶端
+
+  完成本單元後，學生將能夠&#58;
+  - 使用 HTTP 協議設計服務。
+  - 使用 ASP.NET Core Web API 建立服務。
+  - 使用 HttpRequest/IActionResult 類控制 HTTP 消息。
+  - 使用 ASP.NET Web API 服務。
+
+
+  ### 模組 4&#58;擴展 ASP.NET Core HTTP 服務
+  ASP.NET Core Web API 提供了用於構建 HTTP 服務的完整解決方案，但是服務通常具有各種需求和依賴性。在許多情況下，您將需要擴展或自定義 ASP.NET Core Web API 執行服務的方式。處理需求(例如應用錯誤處理和日誌記錄)與應用程式的其他元件集成在一起，並支援 HTTP 世界中可用的其他標準。
+  擴展 ASP.NET Core Web API 時，了解 ASP.NET Core Web API 的工作方式很重要。干預 ASP.NET Core Web API 的執行方式時，元件之間的職責劃分和執行順序很重要。
+  最後，使用 ASP.NET Core Web API，您還可以擴展與系統其他部分進行交互的方式。使用依賴關係解析程式機制，您可以控制如何建立服務實例，從而完全控制管理服務的依賴關係。
+  #### 課程
+  - ASP.NET Core 請求管道
+  - 自定義控制程式和操作
+  - 將依賴項注入控制程式
+
+
+  #### 實驗室&#58;自定義 ASP.NET Core 管道
+  - 使用依賴注入取得存儲庫對象
+  - 建立緩存過濾程式
+  - 建立偵錯中間件
+
+  完成本單元後，學生將能夠&#58;
+  - 擴展 ASP.NET Web API 請求和響應管道。
+  - 自定義控制程式和運算子。
+  - 將依賴項注入 ASP.NET Web API 控制程式。
+
+
+  ### 模組 5&#58;在本地和 Azure 中託管服務
+  在本模組中，您將學習如何在本地和 Azure 上託管應用程式。
+  您還將學習 Docker 容器，以及使用 Azure 函數撰寫無伺服器的應用程式。
+  #### 課程
+  - 本地託管服務
+  - Azure 應用服務中的託管服務
+  - 將服務包裝到容器
+  - 實作無伺服器的服務
+
+
+  #### 實驗室&#58;在 Windows Service 中託管 ASP.NET Core 服務
+  - 建立一個新的 ASP.NET Core 應用程式
+  - 註冊 Windows Service
+
+
+  #### 實驗室&#58;在 Azure Web App 中託管 ASP.NET Core Web API
+  - 在 Azure 門戶中建立 Web 應用
+  - 將 ASP.NET Core Web API 部署到 Web Apps
+
+
+  #### 實驗室&#58;在 Azure Container Instances 中託管 ASP.NET Core 服務
+  - 將服務發佈到 Docker 容器
+  - 在 Azure Container Instances 中託管服務
+
+
+  #### 實驗室&#58;實作 Azure Function
+  - 在本地開發服務
+  - 將服務部署到 Azure Function
+
+  完成本單元後，學生將能夠&#58;
+  - 使用 Windows Services 和 Microsoft Internet Information Services(IIS)託管本地服務。
+  - 透過使用 Web Apps，Docker 容器和 Azure Functions 在 Azure 雲環境中託管服務。
+  - 將服務包裝到容器。
+  - 實作無伺服器的服務。
+
+
+  ### 模組 6&#58;部署和管理服務
+  在本模組中，您將了解 Web Deploy 以及如何透過在 Visual Studio 中使用 Web Deploy 來部署 Web 應用程式。
+  您還將學習如何定義持續集成和持續交付管道，以及如何使用 Azure API 管理和 OpenAPI 向客戶提供穩健、安全和可靠的 API。
+  #### 課程
+  - 使用 Visual Studio 2017 進行 Web 部署
+  - 使用 Visual Studio Team Services 進行連續交付
+  - 將應用程式部署到臨時工作台和生產環境
+  - 使用 Azure API Management 定義服務介面
+
+
+  #### 實驗室&#58;在 Linux 上部署 ASP.NET Core Web 服務
+  - 發布適用於 Linux 的 ASP.NET Core Web 服務
+  - 將 Nginx 設定為反向代理
+
+
+  #### 實驗室&#58;部署到臨時工作台和生產環境
+  - 將應用程式部署到生產環境
+  - 建立一個臨時工作台
+  - 交換環境
+
+
+  #### 實驗室&#58;使用 Azure API Management 髮布 Web API
+  - 建立 Azure API Management 實例
+  - 測試和管理 API
+
+  完成本單元後，學生將能夠&#58;
+  - 說明 Microsoft Internet Information Services(IIS)Web 部署。
+  - 透過使用 Microsoft Visual Studio Team Services 構建管道來說明 Azure Web Apps 部署。
+  - 說明如何將 Web 服務部署到 Azure Container Instances。
+  - 說明如何使用 API​​ Management 和 Swagger 定義服務介面。
+  - 說明如何使用API​​ Management 定義策略。
+  - 說明使用 Azure API Management 和 Swagger 定義服務介面
+
+
+  ### 模組 7&#58;在 Azure 中實作資料存儲
+  本模組說明如何存儲和存取存儲在 Azure Storage 中的資料。它還說明如何為存儲容器和內容設定存儲存取權限。
+  #### 課程
+  - 選擇資料存儲機制
+  - 存取 Azure Storage 中的資料
+  - 在 Azure 中使用結構化資料
+  - 使用 Azure CDN 按地理位置分佈資料
+  - 使用 Out-of-Process Cache 進行擴展
+
+
+  #### 實驗室&#58;在 Azure Storage 中存儲檔案
+  - 將可公開存取的檔案存儲在 Azure Blob 中
+  - 生成私有檔案並將其存儲在 Azure Blob 中
+
+
+  #### 實驗室&#58;使用 CosmosDB 查詢圖形資料
+  - 建立 CosmosDB 圖形資料庫
+  - 查詢 CosmosDB 資料庫
+
+
+  #### 實驗室&#58;使用 Azure Redis Cache 進行進程外緩存
+  - 建立 Azure Redis Cache 服務
+  - 從代碼存取緩存服務
+  - 測試應用程式
+
+  完成本單元後，學生將能夠&#58;
+  - 描述 Storage 的體系結構。
+  - 控制對 Storage 項目的存取。
+  - 使用Azure Redis Cache 來緩存資料。
+  - 使用 Microsoft Azure Content Delivery Network 分發資料。
+
+
+  ### 模組 8&#58;診斷和監視
+  本模組說明如何在本地和 Azure 中監視和記錄服務。
+  #### 課程
+  - 登錄 ASP.NET Core
+  - 診斷工具
+  - Application Insights
+
+
+  #### 實驗室&#58;使用 ETW 和 LTTng 監視 ASP.NET Core
+  - 收集和查看 ETW 事件
+  - 收集和查看 LTTng 事件
+
+
+  #### 實驗室&#58;使用 Application Insights 監視 Azure Web Apps
+  - 添加 Application Insights SDK
+  - 對 Web 服務進行負載測試
+  - 分析性能結果
+
+  完成本單元後，學生將能夠&#58;
+  - 解釋跟踪監聽器
+  - 解釋性能計數器
+  - 說明 ETW 和 LTTng 事件
+  - 演示使用 App Insights 監視服務
+
+
+  ### 模組 9&#58;保護本地和 Microsoft Azure 中的服務
+  本模組描述了基於聲明的身份概念和標準，以及如何透過使用 Azure Active Directory 來保護 ASP.NET Core Web API 服務的安全性來實作身份驗證和授權。
+  #### 課程
+  - 解釋安全術語
+  - 使用 ASP.NET Core Identity 保護服務
+  - 使用 Azure Active Directory 保護服務
+
+
+  #### 實驗室&#58;使用 ASP.NET Core Identity
+  - 添加 ASP.NET Core Identity 中間件
+  - 添加授權碼
+  - 運行客戶端應用程式以測試伺服器
+
+
+  #### 實驗室&#58;將 Azure Active Directory 與 ASP.NET Core 結合使用
+  - 使用 AAD B2C 和 MSAL.js 對客戶端應用程式進行身份驗證
+
+
+  ### 模組 10&#58;擴展服務
+  本模組說明如何建立可伸縮服務和應用程式，以及如何使用 Web Apps 負載均衡器、Azure Application Gateway 和 Azure Traffic Manager 自動縮放它們。
+  #### 課程
+  - 可伸縮性導論
+  - 自動縮放
+  - Azure Application Gateway 和 Traffic Manager
+
+
+  #### 實驗室&#58;對 Azure Web Apps 進行負載均衡操作
+  - 準備用於負載均衡的應用程式
+  - 使用實例關聯性測試負載均衡
+  - 不使用關聯性測試負載均衡
+
+
+  #### 實驗室&#58;使用 Azure Traffic Manager 進行負載均衡操作
+  - 將 Azure Web App 部署到多個區域
+  - 建立 Azure Traffic Manager 設定檔案
+
+  完成本單元後，學生將能夠&#58;
+  - 說明對可伸縮性的需求。
+  - 描述如何使用負載均衡來擴展服務。
+  - 說明 Azure Load Balancer、Azure Application Gateway 和 Azure Traffic Manager。
+

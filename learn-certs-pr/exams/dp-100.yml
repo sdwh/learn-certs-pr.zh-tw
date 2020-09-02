@@ -7,8 +7,8 @@ uid: exam.dp-100
 displayName: DP-100
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>該測驗的內容更新于 2020 年 5 月 22 日.請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><strong> 該測驗的內容更新于 2020 年 5 月 22 日.請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
   </div>
 
   Azure資料科學家套用他們在資料科學和機器學習方面的知識在Azure上實作和執行機器學習工作負載；特別是使用Machine Learning Service。這需要為 Azure 上的資料科學工作負載規劃和建立合適的工作環境，執行資料實驗和訓練預測模型，管理和最佳化模型，以及將機器學習模型部署到生產中。
@@ -25,10 +25,10 @@ levels:
 - intermediate
 skills:
 - 該測驗的內容更新于 2020 年 5 月 22 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
-- 設定 Azure 機器學習工作區 (30-35%)
-- 執行實驗和訓練模型 (25-30%)
-- 最佳化和管理模型 (20-25%)
-- 部署和使用模型 (20-25%)
+- 設定 Azure 機器學習工作區(30-35%)
+- 執行實驗和訓練模型(25-30%)
+- 最佳化和管理模型(20-25%)
+- 部署和使用模型(20-25%)
 roles:
 - data-scientist
 products:
@@ -40,6 +40,7 @@ products:
 courses:
 - uid: course.dp-100t01
 paths:
+- uid: learn.wwl.create-machine-learn-models
 - uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
 relatedCertifications:
@@ -53,18 +54,18 @@ resources:
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基本知識、基於角色和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
-- title: 支持認證考試
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 支援認證考試
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
+- title: 要求住宿
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

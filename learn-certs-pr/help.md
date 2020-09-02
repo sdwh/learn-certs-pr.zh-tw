@@ -1,6 +1,6 @@
 ---
-title: Microsoft 訓練和認證說明 | Microsoft Docs
-description: Microsoft 訓練和認證說明
+title: Microsoft 認證幫助 | Microsoft Docs
+description: Microsoft 認證幫助
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,23 +9,15 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Microsoft 訓練和認證說明
+# Microsoft 認證幫助
 
-<div style='color&#58; red;'><strong><font color="red"><br/>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>學到更多</a>.</font></strong><br/><br/></div>
+<div style='color&#58; red;'><strong><font color="red"><br/>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>學到更多</a>。</font></strong><br/><br/></div>
 
-對 Microsoft 訓練與認證產品有疑問嗎？連覽 [Microsoft 學習](/learn/certifications/), 在那裡您可以找到關於 Microsoft 訓練、認證、測驗、Microsoft 官方課程 (MOC) 等問題的答案。
+您需要有關 Microsoft 認證產品的幫助嗎？請參閱下面的支援選項。
 
-還有問題嗎？請參閱下面的支援選項。
-
-請注意，對於尋求獲得認證和培訓支持的客戶，我們的響應時間比預期的要長。感謝您的耐心配合，我們將盡快處理所有查詢。
-
-## 認證說明
+## 如何联系支援人員
 
 | 支援區域 | 聯絡資訊 |
 | ------------- | --- |
-| **Microsoft 認證** | 您的問題在我們的 [技術認證概述] 中可能已經有了答復<br/><br/> **認證支持論壇：**<br/>透過我們的[認證支援論壇](https://aka.ms/MCPForum) 獲得幫助。<br/><br/> 論壇版主將在一個工作日內回復。|
-| **Microsoft Certified Trainer (MCT) 計劃** | 您的問題在我們的 [MCT 計劃概述](/learn/certifications/mct-certification) 中可能已經有了答復<br/><br/> **MCT 支援論壇：**<br/>透過我們的[MCT 支援論壇](https://aka.ms/MCTForum) 獲得幫助。<br/><br/> 論壇版主將在一個工作日內回復。|
-
-## 訓練說明
-
-有關 Microsoft 官方課程工具(MOC)的協助，請[按一下此處](https://docs.microsoft.com/learn/certifications/certification-and-training-help)。
+| **Microsoft認證測驗和Microsoft認證** |您的問題可能已經在我們的 [Certification Overview](/learn/certifications/) 中得到了回答。<br/><br/> **認證支援論壇：**<br/> 透過我們的 [認證支援論壇](https://aka.ms/MCPForum) 獲得幫助。<br/><br/> 論壇版主將在一個工作日內回復。|
+| **Microsoft Certified Trainer (MCT) 計劃** | 您的問題在我們的 [MCT 計劃概述](/learn/certifications/mct-certification) 中可能已經有了答復<br/><br/> **MCT 支援論壇：** <br/>透過我們的 [MCT 支援論壇](https://aka.ms/MCTForum) 獲得幫助。<br/><br/> 論壇版主將在一個工作日內回復。|

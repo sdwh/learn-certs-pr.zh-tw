@@ -7,21 +7,28 @@ uid: certification.mcse-data-management-analytics
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div><strong>此認證於 2021 年 1 月 31 日淘汰。在此日期之後，您將無法再獲得此認證。在淘汰日期之前獲得的任何認證將繼續出現在您的成績單中 <a href='https://www.microsoft.com/learning/dashboard.aspx'>認證儀表板</a>.您也可以 <a href='/learn/certifications/retired-certifications'>browse all retired certifications</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><strong>此認證於 2021 年 1 月 31 日淘汰。在此日期之後，您將無法再取得此認證。在淘汰日期之前取得的任何認證將繼續出現在您的成績單中 <a href='https://www.microsoft.com/learning/dashboard.aspx'>認證儀表板</a>。您也可以 <a href='/learn/certifications/retired-certifications'>瀏覽所有停止提供的認證</a>。</strong><br/><br/></div>
   </div>
 
-  展現您在 SQL 管理方面的廣泛技能，亦即在內部部署與雲端環境中，建置企業規模資料解決方案以及運用商業智慧資料的能力。
+  本認證可證明您具備執行現代高效率資料中心所需的技能，也具備身份識別管理、系統管理、虛擬化、儲存以及網路功能的專業知識。
 
-  要獲得 MCSE&#58; Data Management and Analytics 認證，請通過以下考試中的其中一門&#58;
-  - [70-464&#58; Developing Microsoft SQL Server Databases](/learn/certifications/exams/70-464)
-  - [70-465&#58; Designing Database Solutions for Microsoft SQL Server](/learn/certifications/exams/70-465)
-  - [70-466&#58; Implementing Data Models and Reports with Microsoft SQL Server](/learn/certifications/exams/70-466)
-  - [70-467&#58; Designing Business Intelligence Solutions with Microsoft SQL Server](/learn/certifications/exams/70-467)
-  - [70-762&#58; Developing SQL Databases](/learn/certifications/exams/70-762)
-  - [70-767&#58; Implementing a Data Warehouse using SQL](/learn/certifications/exams/70-767)
-  - [70-768&#58; Developing SQL Data Models](/learn/certifications/exams/70-768)
-  - [70-777&#58; Implementing Microsoft Azure Cosmos DB Solutions](/learn/certifications/exams/70-777)
+  要取得 MCSE&#58; Data Management & Analytics認證，請完成以下要求&#58;
+  - 贏取一項先決條件認證&#58;
+    - 必備選項1&#58; [MCSA&#58; SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification)
+    - 必備選項2&#58; [MCSA&#58; SQL 2016 Database Development](/learn/certifications/mcsa-sql2016-database-development-certification)
+    - 必備選項3&#58; [MCSA&#58; 2016 Database Administration](/learn/certifications/mcsa-sql2016-database-administration-certification)
+    - 必備選項4&#58; [MCSA&#58;SQL 2016 BI Development](/learn/certifications/mcsa-sql2016-business-intelligence-certification)
+    - 必備選項5&#58; Reporting](/learn/certifications/mcsa-bi-reporting)
+  - 通過一項有效測驗&#58;
+    - [70-464&#58; Developing Microsoft SQL Server Databases](/learn/certifications/exams/70-464)
+    - [70-465&#58; Designing Database Solutions for Microsoft SQL Server](/learn/certifications/exams/70-465)
+    - [70-466&#58; Implementing Data Models and Reports with Microsoft SQL Server](/learn/certifications/exams/70-466)
+    - [70-467&#58; Designing Business Intelligence Solutions with Microsoft SQL Server](/learn/certifications/exams/70-467)
+    - [70-762&#58; Developing SQL Databases](/learn/certifications/exams/70-762)
+    - [70-767&#58; Implementing a Data Warehouse using SQL](/learn/certifications/exams/70-767)
+    - [70-768&#58; Developing SQL Data Models](/learn/certifications/exams/70-768)
+    - [70-777&#58; Implementing Microsoft Azure Cosmos DB Solutions](/learn/certifications/exams/70-777)
 subTitle: 展現您在 SQL 管理方面的廣泛技能，亦即在內部部署與雲端環境中，建置企業規模資料解決方案以及運用商業智慧資料的能力。
 levels:
 - intermediate
@@ -45,18 +52,29 @@ exams:
 - uid: exam.70-464
 - uid: exam.70-465
 - uid: exam.70-466
+prerequisites:
+- uid: certification.mcsa-sql-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-database-development-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-database-administration-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-business-intelligence-certification
+  isOptional: false
+- uid: certification.mcsa-bi-reporting
+  isOptional: false
 resources:
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基本知識、基於角色和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
