@@ -6,13 +6,14 @@ metadata:
 uid: certification.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
   Dynamics 365 供應鏈管理功能顧問助理負責為客戶簡明化成本核算、庫存管理、整體規劃，以及倉儲管理。
 subTitle: 'Dynamics 365 供應鏈管理功能顧問助理負責為客戶簡明化成本核算、庫存管理、整體規劃，以及倉儲管理。'
 levels:
 - intermediate
 skills:
+- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
 - 使用通用功能與實作工具
 - 設定安全性、流程與選項
 - 執行數據遷移
@@ -25,7 +26,7 @@ roles:
 - functional-consultant
 type: role-based
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 courses:
 - uid: course.mb-300t00
@@ -37,31 +38,34 @@ paths:
 - uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
 - uid: learn-dynamics.configure-analytics-reporting-finance-operations
 - uid: learn-dynamics.configure-manage-products-inventory-d365-finance-ops
-- uid: learn-dynamics.configure-manage-sales-customers-dyn365-supply-chain-mgmt
 - uid: learn-dynamics.configure-manage-procurement-vendors-d365-finance-ops
-- uid: learn-dynamics.use-warehouse-in-manufacturing-dyn365-fo
+- uid: learn-dynamics.configure-manage-sales-customers-dyn365-supply-chain-mgmt
+- uid: learn-dynamics.configure-work-warehouse-management-d365-finance-ops
 - uid: learn-dynamics.configure-work-transportation-mgmt-dyn365-supply-chain-mgmt
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUY
 exams:
 - uid: exam.mb-300
 - uid: exam.mb-330
 resources:
-- title: 認證學習途徑
-  description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35nkT
+- title: 認證海報
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認證之旅
+  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjF
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 認證學習途徑
+  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9S
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
-  href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: help.md
 
