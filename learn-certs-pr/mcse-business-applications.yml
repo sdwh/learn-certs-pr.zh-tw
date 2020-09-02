@@ -7,20 +7,18 @@ uid: certification.mcse-business-applications
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div><strong>此認證於 2021 年 1 月 31 日淘汰。在此日期之後，您將無法再獲得此認證。在淘汰日期之前獲得的任何認證將繼續出現在您的成績單中 <a href='https://www.microsoft.com/learning/dashboard.aspx'>認證儀表板</a>.您也可以 <a href='/learn/certifications/retired-certifications'>browse all retired certifications</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><strong>此認證於 2021 年 1 月 31 日淘汰。在此日期之後，您將無法再取得此認證。在淘汰日期之前取得的任何認證將繼續出現在您的成績單中 <a href='https://www.microsoft.com/learning/dashboard.aspx'>認證儀表板</a>。您也可以 <a href='/learn/certifications/retired-certifications'>瀏覽所有停止提供的認證</a>。</strong><br/><br/></div>
   </div>
 
   此認證證明您具有使用和管理 Microsoft Dynamics 365 技術的專業知識。您將以 Microsoft Dynamics 365 作為基礎開始，並在一個或多個特定業務領域展示其他專業知識。
 
-  要獲得 MCSE&#58; Business Applications 認證，請通過以下考試中的其中一門&#58;
-  - [MB2-716&#58; Microsoft Dynamics 365 Customization and Configuration](/learn/certifications/exams/mb2-716)
-  - [MB2-718&#58; Microsoft Dynamics 365 for Customer Service](/learn/certifications/exams/mb2-718)
-  - [MB2-719&#58; Microsoft Dynamics 365 for Marketing](/learn/certifications/exams/mb2-719)
-  - [MB6-895&#58; Financial Management in Microsoft Dynamics 365 for Finance and Operations](/learn/certifications/exams/mb6-895)
-  - [MB6-896&#58; Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations](/learn/certifications/exams/mb6-896)
-  - [MB6-897&#58; Microsoft Dynamics 365 for Retail](/learn/certifications/exams/mb6-897)
-  - [MB6-898&#58; Microsoft Dynamics 365 for Talent](/learn/certifications/exams/mb6-898)
+  要取得 MCSE&#58; Business Applications 認證，請完成以下要求&#58;
+  - 取得先決條件認證&#58;[MCSA&#58;Microsoft Dynamics 365 for Operations](/learn/certifications/mcsa-microsoft-dynamics-365-for-operations)
+  - 通過一項有效測驗&#58;
+    - [MB2-716&#58; Microsoft Dynamics 365 Customization and Configuration](/learn/certifications/exams/mb2-716)
+    - [MB6-897&#58; Microsoft Dynamics 365 for Retail](/learn/certifications/exams/mb6-897)
+    - [MB6-898&#58; Microsoft Dynamics 365 for Talent](/learn/certifications/exams/mb6-898)
 subTitle: 此認證證明您具有使用和管理 Microsoft Dynamics 365 技術的專業知識。您將以 Microsoft Dynamics 365 作為基礎開始，並在一個或多個特定業務領域展示其他專業知識。
 levels:
 - beginner
@@ -35,18 +33,21 @@ exams:
 - uid: exam.mb-2-716
 - uid: exam.mb-6-897
 - uid: exam.mb-6-898
+prerequisites:
+- uid: certification.mcsa-microsoft-dynamics-365-for-operations
+  isOptional: false
 resources:
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基本知識、基於角色和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。

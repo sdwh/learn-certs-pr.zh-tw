@@ -1,0 +1,86 @@
+### YamlMime:Course
+title: Microsoft Azure Data Fundamentals
+metadata:
+  title: 'Course DP-900T00-A: Microsoft Azure Data Fundamentals'
+  description: 'Course DP-900T00-A: Microsoft Azure Data Fundamentals'
+uid: course.dp-900t00
+courseNumber: 'DP-900T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述Azure 中的核心資料概念
+- skill: 解釋Azure中關係資料的概念
+- skill: 解釋Azure中非關係資料的概念
+- skill: 識別Azure中現代資料倉庫的組件
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- data-engineer
+- database-administrator
+products:
+- azure
+exams:
+- uid: exam.dp-900
+summary: |-
+  在本課程中，學生將學習雲端環境中資料庫概念的基礎知識，掌握雲端資料服務的基本技能，並在Microsoft Azure中建立有關雲端資料服務的基礎知識。學生將確定並描述核心資料概念，例如關係，非關係，大資料和分析，並探索如何使用Microsoft Azure實作該技術。他們將探索資料世界中的角色，任務和責任。這些學生將探索關係資料產品，供應和部署關係資料庫，以及使用Microsoft Azure通過雲端資料解決方案查詢關係資料。他們將使用Microsoft Azure探索非關係資料產品，供應和部署非關係資料庫以及非關係資料存儲。學生將探索可用於在Azure中構建資料分析解決方案的處理選項。他們將探索Azure Synapse Analytics，Azure Databricks和Azure HDInsight。學生將學習什麼是Power BI，包括其構建模塊以及它們如何協同工作。
+
+  #### 對象設定檔
+  本課程的讀者是想要學習雲端環境中資料庫概念的基礎知識，掌握雲端資料服務的基本技能並在Microsoft Azure中建立其云資料服務基礎知識的個人。
+outlineSection: |-
+  ### 模組 1&#58;探索核心資料概念
+  學生將學習雲端環境中資料庫概念的基礎知識，掌握雲端資料服務的基本技能，並在Microsoft Azure中建立有關雲端資料服務的基礎知識。學生將確定並描述核心資料概念，例如關係，非關係，大資料和分析，並探索如何使用Azure實作該技術。學生將探索資料世界中的角色，任務和責任。
+  #### 課程
+  - 探索核心資料概念
+  - 探索資料世界中的角色和責任
+  - 描述關係資料的概念
+  - 探索非關係資料的概念
+  - 探索資料分析的概念
+
+  完成本單元後，學生將能夠&#58;
+  - 在Azure中顯示有關雲端資料服務的基礎知識
+  - 識別並描述核心資料概念，例如關係，非關係，大資料和分析
+  - 說明如何使用Azure實作此技術
+
+
+  ### 模組 2&#58;在Azure中瀏覽關係資料
+  學生將學習雲端環境中資料庫概念的基礎知識，掌握雲端資料服務的基本技能，並在Microsoft Azure中建立有關雲端資料服務的基礎知識。學生將探索關係資料產品，供應和部署關係資料庫，以及通過Azure的雲端資料解決方案查詢關係資料。
+  #### 課程
+  - 探索Azure中的關係資料產品
+  - 探索Azure中的供應和部署關係資料庫產品
+  - 在Azure中查詢關係資料
+
+  完成本單元後，學生將能夠&#58;
+  - 在Azure上描述關係資料產品
+  - 解釋在Azure上設定和部署關係資料庫
+  - 通過Azure中的雲端資料解決方案查詢關係資料
+
+
+  ### 模組 3&#58;在Azure中瀏覽非關係資料
+  學生將學習雲端環境中資料庫概念的基礎知識，掌握雲端資料服務的基本技能，並在Azure中建立有關雲端資料服務的基礎知識。學生將使用Microsoft Azure探索非關係資料產品，供應和部署非關係資料庫以及非關係資料存儲。
+  #### 課程
+  - 探索Azure中的非關係資料產品
+  - 探索在Azure上設定和部署非關係資料服務
+  - 在Azure中管理非關係資料存儲
+
+  完成本單元後，學生將能夠&#58;
+  - 描述Azure上的非關係資料產品
+  - 解釋在Azure上設定和部署非關係資料庫
+  - 刪除Azure上的非關係資料存儲
+
+
+  ### 模組 4&#58;在Azure中探索現代資料倉庫分析
+  學生將學習雲端環境中資料庫概念的基礎知識，掌握雲端資料服務的基本技能，並在Azure中建立有關雲端資料服務的基礎知識。學生將探索可用於在Azure中構建資料分析解決方案的處理選項。學生將探索Azure Synapse Analytics，Azure Databricks和Azure HDInsight。學生將學習什麼是Power BI，包括其構建模塊以及它們如何協同工作。
+  #### 課程
+  - 檢查現代資料倉庫的組件
+  - 探索Azure中的資料提取
+  - 探索Azure中的資料存儲和處理
+  - 開始使用Power BI進行構建
+
+  完成本單元後，學生將能夠&#58;
+  - 描述可用於在Azure中構建資料分析解決方案的處理選項
+  - 描述Azure Synapse Analytics、Azure Databricks和Azure HDInsight
+  - 說明什麼是Microsoft Power BI，包括其構建基塊以及它們如何協同工作
+

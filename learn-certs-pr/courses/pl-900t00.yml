@@ -8,8 +8,8 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: '描述 Power Platform 元件: Power Apps，Power BI 和 Microsoft Automate'
-- skill: '描述 Power Platform 元件: Common Data Service，連接器和 AI 建立器'
+- skill: 描述 Power Platform 元件：Power Apps, Power BI and Microsoft Automate
+- skill: 描述 Power Platform 元件：Common Data Service，連接器和 AI 建立器
 - skill: 描述 M365，Dynamics 365，Microsoft Azure 和第三方服務的跨雲端案例
 - skill: 識別 Power Platform 的權益和功能
 - skill: 識別 Power Platform 元件的基本功能和商務價值
@@ -26,87 +26,93 @@ products:
 exams:
 - uid: exam.pl-900
 summary: |-
-  學習 Power Platform 的商務價值和產品功能。建立一個簡單的 PowerApp，將資料與 CDS 連線，組建一個 Power BI 儀表板，並使用 Microsoft Flow 自動化流程。
+  學習 Power Platform 的商務價值和產品功能。建立一個簡單的 Power App，使用 Common Data Service 連接資料，構建 Power BI 儀表板，並使用 Power Automate 自動化流程。
 
   #### 對象設定檔
-  本測驗的應試者是那些希望透過自動化業務流程提升生產力，透過分析資料生成業務見解，以及透過創建簡單的 APP 體驗提高執行效率的使用者。
+  本測驗的應試者是那些希望透過自動化業務流程提升生產力，透過分析資料生成業務見解，以及透過建立簡單的 APP 體驗提高執行效率的使用者。
 prerequisitesSection: |-
   本課程無需預備知識
 outlineSection: |-
   ### 模組 1&#58; 介紹Power Platform
-  了解Power Platform的組件，連接資料的方式以及組織如何利用該技術建立業務解決方案。
+  了解 Power Platform 的組件，連接資料的方式以及組織如何利用該技術建立業務解決方案。
   #### 課程
-  - Power Platform概觀
+  - Power Platform 概觀
   - 模組摘要
 
   完成本單元後，學生將能夠&#58;
-  - 判斷出什麼時候使用每一個Power Platform的元件運用程式去建立商業解決方案。
-  - 學習使用Power Platform去建立商業解決方案的價值
-  - 學習Power Platform的元件和特點
-
-  ### 模組 2&#58; 開始使用Power Apps
-  學習PowerApps的價值和能力，以及其他企業使用該技術創造的簡單運用程式的方法。
-  #### 課程
-  - Power應用程式概觀
-  - 怎樣建立一個App Solution
-  - 建立Staff Canvas App
-  - 完成該App
-
-  #### 實驗室室&#58; 怎樣建立一個Basic Canvas App 2
-  - 建立 Security Canvas App
-
-  完成本單元後，學生將能夠&#58;
-  - 學習其他企業是如何用Power Apps將他們的程式數字化的
-  - 查看Power App實例並學會製作您首款APP的選項
-  - 學習什麼是Power Apps機器商業價值
+  - 判斷出什麼時候使用每一個 Power Platform 的元件運用程式去建立商業解決方案。
+  - 學習使用 Power Platform 去建立商業解決方案的價值
+  - 學習 Power Platform 的元件和特點
 
 
-  ### 模組 3&#58; 介紹Common Data Service
-  Common Data Service將會允許您在雲端鑽研強大的，大規模的資料方案。學習是什麼令Common Data Service如此強大，以及它如何和Power Platform共同建立獨特而有效的商業解決方案。
+  ### 模組 2&#58; 介紹 Common Data Service
+  Common Data Service 將會允許您在雲端鑽研強大的，大規模的資料方案。學習是什麼令 Common Data Service 如此強大，以及它如何與 Power Platform 共同建立獨特而有效的商業解決方案。
   #### 課程
   - Common Data Service概觀
   - 模組摘要
 
-
-  #### 實驗室室&#58; Data Modeling
+  #### 實驗室&#58;Data Modeling
   - 建立環境和解決方案
   - 建立對象和關係
   - 匯入資料
 
   完成本單元後，學生將能夠&#58;
-  描繪Common Data Service 和 Common Data Model之間的區別
+  描繪 Common Data Service 和 Common Data Model之間的區別
   解釋用例和商業規則及其程式流程的限制
-  - 解釋在common data service裡面什麼是環境，對象，域和關係
+  - 解釋在 common data service 裡面什麼是環境，對象，域和關係
 
 
-  ### 模組 4&#58; 開始使用Power Automate
-  學習用戶如何樣才能利用Power Automate來提高商業效率和產出。
+  ### 模組 3&#58; 開始使用 Power Apps
+  了解 Power Apps 的價值和功能，以及其他組織如何利用此技術為其業務構建簡單的應用程式。
+  #### 課程
+  - Power應用程式概觀
+  - 怎樣建立一個 App Solution
+
+  #### 實驗&#58;畫布應用程式，第1部分
+  - 建立 Staff Canvas App
+  - 完成該 App
+
+  #### 實驗&#58;畫布應用程式，第2部分
+  - 建立 Security Canvas App
+
+  #### 實驗&#58;模型驅動的應用
+  - 自定義視圖和表單
+  - 建立模型驅動的應用程式
+
+  完成本單元後，學生將能夠&#58;
+  - 學習其他企業是如何用 Power Apps 將他們的程式數字化的
+  - 查看 Power App 實例並學會製作您首款APP的選項
+  - 學習什麼是 Power Apps 機器商業價值
+
+
+  ### 模組 4&#58; 開始使用 Power Automate
+  學習用戶如何樣才能利用 Power Automate 來提高商業效率和產出。
   #### 課程
   - 電源自動化概述
   - 如何建立一個自動化解決方案
 
-
-  #### 實驗室室&#58; 建立一個Simple Flow
-  - 建立Visit Notification Flow
-  - 建立Security Sweep Flow
+  #### 實驗&#58;電源自動化
+  - 建立 Visit Notification Flow
+  - 建立 Security Sweep Flow
 
   完成本單元後，學生將能夠&#58;
-  - 從用戶的角度看Power Automate是如何工作的
-  - 建立一個simple flow
+  - 從用戶的角度看 Power Automate 是如何工作的
+  - 建立一個簡單流
   - 學習Power Automate的商業價值和特點
 
 
   ### 模組 5&#58; 開始使用Power BI
-  學習企業如何使用Power BI來輕鬆地清楚、展示和瞭解資料，並作出更加精明的決策。
+  學習企業如何使用 Power BI 來輕鬆地清楚、展示和了解資料，並作出更加精明的決策。
   #### 課程
   - Power BI 概觀
   - 如何建立一個簡單儀表板
 
+  #### 實驗&#58;Power BI
+  - 建立 Power BI 報表
+  - 建立 Power BI 儀表板
 
-  #### 實驗室室&#58; 建立一個Power BI Report
-  
   完成本單元後，學生將能夠&#58;
-  - 從用戶的角度看Power BI是如何工作的
-  - 學習如何建立一個simple Power BI 儀表板
-  - 描繪Power BI的商業價值和特點
+  - 從用戶的角度看 Power BI 是如何工作的
+  - 學習如何建立一個簡單 Power BI 儀表板
+  - 描繪 Power BI 的商業價值和特點
 

@@ -7,8 +7,9 @@ uid: exam.mb-200
 displayName: MB-200
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'> 該測驗的內容更新于 2020 年 7 月 1日。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><strong> 該測驗的內容更新于 2020 年 7 月 1 日.請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
+  <div> <strong>該測驗將於 2020 年 12 月 31 日停用。要學到更多信息， <a href="https://aka.ms/microsoftlearncommunity">請訪問我們的博客</a>並查看我們的測驗停用職位。附註：測驗將在中部標準時間晚間11點59分到期。 </strong><br/><br/></div>
   </div>
 
   該測驗的應試者是功能顧問，他們可以存取企業授權產品的特性和功能。作為一名功能顧問，候選人知道功能的捆綁版本，但並不主要使用這些捆綁產品。
@@ -30,14 +31,15 @@ skills:
 - 該測驗的內容更新于 2020 年 7 月 1 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
 - 執行探索，計畫和分析 (5-10%)
 - 管理使用者體驗設計 (20-25%)
-- 管理實體和資料 (15-20%)
-- 實作安全性 (5-10%)
+- 管理實體和數據 (15-20%)
+- 實作安全 (5-10%)
 - 實作整合 (15-20%)
 - 執行解決方案部署和測試 (25-30%)
+retirementDate: 12/31/2020
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-sales
 - dynamics-marketing
 - dynamics-field-service
@@ -67,18 +69,18 @@ resources:
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基本知識、基於角色和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
-- title: 支持認證考試
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 支援認證考試
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
+- title: 要求住宿
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

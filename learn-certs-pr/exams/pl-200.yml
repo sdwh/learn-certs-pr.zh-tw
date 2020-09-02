@@ -6,25 +6,28 @@ metadata:
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
-  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
-  Power Platform功能顧問負責執行發現，捕獲需求，吸引題材專家和利益相關者參與，翻譯需求以及設定Power Platform解決方案和應用程式。
+  參加該測驗的考生將執行發現，捕獲需求，吸引主題專家和利益相關者參與，翻譯需求並設定 Power Platform 解決方案和應用。其中包括應用程式精進、自定義使用者體驗、系統整合、資料轉換、自定義流程自動化以及自定義可視化。
 
-  功能顧問實作解決方案的組件包括應用程式精進、自定義使用者體驗、系統整合、資料轉換、自定義流程自動化以及自定義可視化。
+  應試者實作由解決方案架構師提供並與之協作的設計，以及由用戶體驗設計師建立的標準，品牌和構件。他們設計整合以提供與第三方應用程式和服務的無縫整合。
 
-  <div style='font-weight&#58; bold;'><br/>附註：這項測驗將於 2020 年 10 月左右進行。</div>
-subTitle: '這項測驗將於 2020 年 10 月左右進行。該測驗評估您完成以下技術任務的能力：設定公共資料服務；構建一個Power App;使用Power Automate建立自動化；設定Power Virtual Agents；並使用Power BI建立視覺效果。'
+  應試者與質量保證團隊成員積極合作，以確保解決方案滿足功能和非功能要求。他們確定，生成並交付用於打包和部署的工件，提供給 DevOps 工程師，並為 Power Platform 管理員提供操作和維護培訓。
+
+  <div> <strong><br/>附註&#58;這項測驗將於2020年9月開始。</strong></div>
+subTitle: '這項測驗將於2020年9月開始。  該測驗衡量您完成以下任務的能力：設定公共資料服務；使用 Power Apps 建立應用；建立和管理 Power Automate；實作 Power Virtual Agents 聊天機器人；並將 Power Apps 與其他應用程式和服務整合。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 設定 Common Data Service
-- 建立電源應用程式
-- 使用Power Automate建立自動化
-- 設定Power Virtual Agents
-- 使用Power BI建立視覺效果
+- 設定公共資料服務(25-30%)
+- 使用Power Apps建立應用(20-25%)
+- 建立和管理 Power Automate (15-20%)
+- 實作 Power Virtual Agents 聊天機器人(10-15%)
+- 將 Power Apps 與其他應用程式和服務整合(15-20%)
 roles:
 - business-analyst
 - developer
@@ -46,18 +49,18 @@ resources:
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
-- title: 支持認證考試
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 支援認證考試
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
+- title: 要求住宿
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

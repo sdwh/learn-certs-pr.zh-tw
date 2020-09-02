@@ -62,6 +62,7 @@ ms.author: micsullivan
 > - [意大利](#italy)
 > - [日本](#japan)
 > - [哈薩克斯坦](#kazakhstan)
+> - [Korea](#korea)
 > - [科索沃](#kosovo)
 > - [科威特](#kuwait)
 > - [黎巴嫩](#lebanon)
@@ -109,7 +110,7 @@ ms.author: micsullivan
 
 | <a name="united-states-of-america"></a>美利堅合眾國 |
 |-----------|
-| [Accelebrate](https://www.accelebrate.com/microsoft)   </br>[CED Solutions](https://www.cedsolutions.com/microsoft-azure-certification-training.cfm)   </br>[Centriq Training](https://www.centriq.com/corporate/technologies/microsoft/)   </br>[Certification Camps](https://www.certificationcamps.com/new-microsoft-role-based-certifications/)   </br>[Directions Training](https://directionstraining.com/customers/partners/microsoft/)   </br>[Dynamics Edge](https://www.DynamicsEdge.com)   </br>[Fast Lane](https://www.fastlaneus.com/microsoft-training)   </br>[Global Knowledge](https://www.globalknowledge.com/us-en/training/course-catalog/brands/microsoft/)  </br>[Ingram Micro](https://www.ingrammicrotraining.com/Search.aspx?Vendor=Microsoft)   </br>[INTERFACE TECH TRAINING](https://www.interfacett.com/course-schedule/#windows-10)   </br>[Interface](https://www.interfacett.com/technology/microsoft-training-classes/)   </br>[ISInc](https://www.isinc.com/training/microsoft/)   </br>[Knowledge Transfer](https://www.knowledgetransferinc.com/computer-training/brands/microsoft-training)   </br>[LANTEC](http://www.lantecctc.com/CourseOfferings/microsoft)   </br>[Learning Tree](https://www.learningtree.com/training-directory/microsoft-training/)   </br>[LearnQuest](https://www.learnquest.com/vendor-training.aspx?tp_id=25)   </br>[LRS](https://www.lrseducationservices.com/microsoft-partnership/partner-info/)   </br>[Max Technical Training](https://maxtrain.com/microsoft-certified-learning-partner/)   </br>[NetCom Learning](https://www.netcomlearning.com/vendors/microsoft.phtml?advid=681)   </br>[Netmind](http://thellpa.com/members/netmind/microsoft)   </br>[New Horizons](https://www.newhorizons.com/mspartner)   </br>[ONLC](https://www.onlc.com/microsoft.asp)   </br>[Opsgility](https://www.opsgility.com/Courses/Azure)   </br>[Phoenix TS](https://phoenixts.com/courses/?brand[]=microsoft-it-training-certification-dc-md-va)   </br>[Quickstart Technologies](https://www.quickstart.com/find-training/technology/microsoft.html)   </br>[System Source](https://www.syssrc.com/cgi-bin/PCIP.pl?cmd=Schedules&classattr=Microsoft)   </br>[Tech Data/Exit Certified](https://www.exitcertified.com/it-training/microsoft?partner_referral=MICROSOFT)   </br>[TechSherpas 365](https://techsherpas.com/technology/microsoft-training/)   </br>[The Computer Workshop, Inc.](https://www.tcworkshop.com/Default.aspx?PageId=85&PageName=Microsoft%20Training)   </br>[TLG Learning](https://www.tlglearning.com/product-category/microsoft/)   </br>[Vitalyst](https://www.vitalyst.com/solutions/)   </br>[Web Age Solutions](https://www.webagesolutions.com/courses/microsoft-training)   </br>[Webucator](https://www.webucator.com/microsoft-training/index.cfm)   </br>[Wintellect](https://www.wintellect.com/software-developer-training/courses/?topic-filter=microsoft-official-courses-moc) |
+| [Accelebrate](https://www.accelebrate.com/microsoft)   </br>[CED Solutions](https://www.cedsolutions.com/microsoft-azure-certification-training.cfm)   </br>[Centriq Training](https://www.centriq.com/corporate/technologies/microsoft/)   </br>[Certification Camps](https://www.certificationcamps.com/new-microsoft-role-based-certifications/)   </br>[Directions Training](https://directionstraining.com/customers/partners/microsoft/)   </br>[Dynamics Edge](https://www.DynamicsEdge.com)   </br>[Fast Lane](https://www.fastlaneus.com/microsoft-training)   </br>[Global Knowledge](https://www.globalknowledge.com/us-en/training/course-catalog/brands/microsoft/)  </br>[Ingram Micro](https://www.ingrammicrotraining.com/Search.aspx?Vendor=Microsoft)   </br>[INTERFACE TECH TRAINING](https://www.interfacett.com/course-schedule/#windows-10)   </br>[Interface](https://www.interfacett.com/technology/microsoft-training-classes/)   </br>[ISInc](https://www.isinc.com/training/microsoft/)   </br>[Knowledge Transfer](https://www.knowledgetransferinc.com/computer-training/brands/microsoft-training)   </br>[Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses)   </br>[LANTEC](http://www.lantecctc.com/CourseOfferings/microsoft)   </br>[Learning Tree](https://www.learningtree.com/training-directory/microsoft-training/)   </br>[LearnQuest](https://www.learnquest.com/vendor-training.aspx?tp_id=25)   </br>[LRS](https://www.lrseducationservices.com/microsoft-partnership/partner-info/)   </br>[Max Technical Training](https://maxtrain.com/microsoft-certified-learning-partner/)   </br>[NetCom Learning](https://www.netcomlearning.com/vendors/microsoft.phtml?advid=681)   </br>[Netmind](http://thellpa.com/members/netmind/microsoft)   </br>[New Horizons](https://www.newhorizons.com/mspartner)   </br>[ONLC](https://www.onlc.com/microsoft.asp)   </br>[Opsgility](https://www.opsgility.com/Courses/Azure)   </br>[Phoenix TS](https://phoenixts.com/courses/?brand[]=microsoft-it-training-certification-dc-md-va)   </br>[Quickstart Technologies](https://www.quickstart.com/find-training/technology/microsoft.html)   </br>[Sunset Learning Institute](https://www.sunsetlearning.com/technology/microsoft/)   </br>[System Source](https://www.syssrc.com/cgi-bin/PCIP.pl?cmd=Schedules&classattr=Microsoft)   </br>[Tech Data/Exit Certified](https://www.exitcertified.com/it-training/microsoft?partner_referral=MICROSOFT)   </br>[TechSherpas 365](https://techsherpas.com/technology/microsoft-training/)   </br>[The Computer Workshop, Inc.](https://www.tcworkshop.com/Default.aspx?PageId=85&PageName=Microsoft%20Training)   </br>[TLG Learning](https://www.tlglearning.com/product-category/microsoft/)   </br>[Vitalyst](https://www.vitalyst.com/solutions/)   </br>[Web Age Solutions](https://www.webagesolutions.com/courses/microsoft-training)   </br>[Webucator](https://www.webucator.com/microsoft-training/index.cfm)   </br>[Wintellect](https://www.wintellect.com/software-developer-training/courses/?topic-filter=microsoft-official-courses-moc) |
 
 | <a name="albania"></a>阿爾巴尼亞 |
 |-----------|
@@ -123,9 +124,9 @@ ms.author: micsullivan
 |-----------|
 | [Full Solutions SA](http://www.fullsolutions.com/cursos-microsoft-profesionales-de-it/) <br> [Fast Lane LATAM](https://www.flane.com.pa/microsoft)<br> [IT College S.A.](http://thellpa.com/members/itcollege/microsoft) |
 
-| <a name="australia"></a>澳大利亞 |
+| <a name="australia"></a>Australia |
 |-----------|
-| [DDLS](https://www.ddls.com.au/courses/microsoft/)</br>[Fast Lane Australia](https://www.flanegroup.com.au/microsoft)</br> [Gooroo](https://gooroo.io/Microsoft)</br>[Koenig Solutions](https://australia.koenig-solutions.com/)</br>[New Horizons Learning Centres](https://www.nhaustralia.com.au/training-solutions/microsoft-offers/)</br>[NextTech Learning Pty Ltd.](https://www.nexttech.edu.au/our-courses/microsoft-training/#)</br>[The Quill Consultancy](https://quill.com.au/microsoft-courses/) |
+| [DDLS](https://www.ddls.com.au/courses/microsoft/)</br>[Fast Lane Australia](https://www.flanegroup.com.au/microsoft)</br> [Gooroo](https://gooroo.io/Microsoft)</br>[Koenig Solutions](https://australia.koenig-solutions.com/)</br>[New Horizons Learning Centres](https://www.nhaustralia.com.au/training-solutions/microsoft-offers/)</br>[NextTech Learning Pty Ltd.](https://www.nexttech.edu.au/our-courses/microsoft-training/#)</br>[The Quill Consultancy](https://quill.com.au/microsoft-courses/)</br>[TX Training Pty Ltd](https://www.txtraining.com.au/courses/microsoft-training) |
 
 | <a name="austria"></a>奧地利 |
 |-----------|
@@ -177,7 +178,7 @@ ms.author: micsullivan
 
 | <a name="china"></a>中國 |
 |-----------|
-| [EastHome](https://www.easthome.com/s/wei_ruan)</br>[Fast Lane Cloud and Security Services Pte. Ltd.](https://www.itls.io/microsoft)</br>[Huike](http://www.hpeiyou.com/microlandingpage.html)</br>[Kornerstone (A Trainocate Company)](https://www.kornerstone.com/microsoft-azure/)</br>[MicroMooC](https://www.micromooc.com/)</br>[Shanghai Yungoal](http://yungoal.com/services-training.html)</br>[Wei Ye Xuan Ran](https://www.techacademy.cn/home/courses) |
+| [EastHome](https://www.easthome.com/s/wei_ruan)</br>[Fast Lane Cloud and Security Services Pte. Ltd.](https://www.itls.io/microsoft)</br>[Huike](http://www.hpeiyou.com/microlandingpage.html)</br>[Kornerstone (A Trainocate Company)](https://www.kornerstone.com/microsoft-azure/)</br>[MicroMooC](https://www.micromooc.com/)</br>[Shanghai Nanyang](http://www.nytraining.com.cn/course/items/230.html)</br>[Shanghai Yungoal](http://yungoal.com/services-training.html)</br>[Wei Ye Xuan Ran](https://www.techacademy.cn/home/courses) |
 
 | <a name="colombia"></a>哥倫比亞 |
 |-----------|
@@ -225,7 +226,7 @@ ms.author: micsullivan
 
 | <a name="germany"></a>德國 |
 |-----------|
-| [AddOn AG](https://www.addon.de/de/training/seminar/microsoft)</br>[ADN Advanced Digital Network Distribution GmbH](https://www.adn.de/de/microsoft-zertifizierungen)</br>[Arrow ECS AG](https://edu.arrow.com/de/c/index.html/455/azure-trainings-und-zertifizierungen)</br>[brainymotion](https://www.brainymotion.de/training/azure/)</br>[Fast Lane Institute for Knowledge Transfer GmbH](https://www.flane.de/microsoft)</br>[Firebrand Training Limited](https://firebrand.training/de/courses/microsoft)</br>[GFN AG](https://www.gfn.de/ms-training)</br>[New Horizons](https://www.newhorizons.com/mspartner)</br>[ppedv AG](https://ppedv.de/Schulung/MicrosoftTraining.aspx)</br>[Private ptm-Akademie GmbH](https://www.ptm.de/de/training/hersteller/microsoft-training-und-consulting-services)</br>[SoftwareONE](https://www.comparex-group.com/web/de/akademie/Seminare/microsoft-schulungen/microsoft-schulung.htm?vendorid=Microsoft)</br>[Tech Data Corporation](https://academy.techdata.com/de/vendor/microsoft/training/)</br>[TUV Rheinland Akademie](http://thellpa.com/members/tuv/microsoft) |
+| [AddOn AG](https://www.addon.de/de/training/seminar/microsoft)</br>[ADN Advanced Digital Network Distribution GmbH](https://www.adn.de/de/microsoft-zertifizierungen)</br>[Arrow ECS AG](https://edu.arrow.com/de/c/index.html/455/azure-trainings-und-zertifizierungen)</br>[brainymotion](https://www.brainymotion.de/training/azure/)</br>[Fast Lane Institute for Knowledge Transfer GmbH](https://www.flane.de/microsoft)</br>[Firebrand Training Limited](https://firebrand.training/de/courses/microsoft)</br>[get&use Academy GmbH.](https://getanduse.academy)</br>[GFN AG](https://www.gfn.de/ms-training)</br>[New Horizons](https://www.newhorizons.com/mspartner)</br>[ppedv AG](https://ppedv.de/Schulung/MicrosoftTraining.aspx)</br>[Private ptm-Akademie GmbH](https://www.ptm.de/de/training/hersteller/microsoft-training-und-consulting-services)</br>[SoftwareONE](https://www.comparex-group.com/web/de/akademie/Seminare/microsoft-schulungen/microsoft-schulung.htm?vendorid=Microsoft)</br>[Tech Data Corporation](https://academy.techdata.com/de/vendor/microsoft/training/)</br>[TUV Rheinland Akademie](http://thellpa.com/members/tuv/microsoft) |
 
 | <a name="greece"></a>希臘 |
 |-----------|
@@ -245,11 +246,11 @@ ms.author: micsullivan
 
 | <a name="india"></a>印度 |
 |-----------|
-| [Alchemy Solutions](http://www.alchemysolutions.net/)</br>[CloudThat Technologies](https://cloudthat.in/new-microsoft-azure-certifications-training/)</br>[Fast Lane Cloud and Security Services Pte. Ltd.](https://www.itls.io/microsoft)</br>[Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses)</br>[RPS Consulting Private Limited](https://rpsconsulting.in/training/microsoft)</br>[Simplilearn](https://www.simplilearn.com/microsoft-azure)</br>[SPECTRUM FZ-LLC](http://www.spectrumme.com/AzureRoleBasedTraining)</br>[Synergetics Information Technology Services](http://www.synergetics-india.com/Microsoft-Azure-Skills.htm)</br>[Technofocus Solutions](https://www.technofocus.co)</br>[Trainocate](https://trainocate.com/courses/Microsoft) |
+| [Alchemy Solutions](http://www.alchemysolutions.net/)</br>[CloudThat Technologies](https://cloudthat.in/new-microsoft-azure-certifications-training/)</br>[Cognixia](https://www.cognixia.com/courses/category/microsoft-technologies)</br>[Fast Lane Cloud and Security Services Pte. Ltd.](https://www.itls.io/microsoft)</br>[Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses)</br>[Palmeto Solutions](https://palmeto.co.in/microsoft.html)</br>[RPS Consulting Private Limited](https://rpsconsulting.in/training/microsoft)</br>[Simplilearn](https://www.simplilearn.com/microsoft-azure)</br>[SPECTRUM FZ-LLC](http://www.spectrumme.com/AzureRoleBasedTraining)</br>[Synergetics Information Technology Services](http://www.synergetics-india.com/Microsoft-Azure-Skills.htm)</br>[TAI Infotech Pvt. Ltd.](https://www.taiindia.com/microsoft-training-certification-courses/)</br>[Technofocus Solutions](https://www.technofocus.co)</br>[Trainocate](https://trainocate.com/courses/Microsoft) |
 
 | <a name="indonesia"></a>印度尼西亞 |
 |-----------|
-| [Trainocate Indonesia](https://trainocate.com/courses/Microsoft) |
+| [ASABA COMPUTER CENTRE, PT](http://www.asaba.co.id/services)</br>[EBIZ INFOTAMA INTERINDO, PT](https://ebiz.co.id/it-solution/microsoft-services)</br>[INIXINDO PERSADA REKAYASA PT](https://www.inixindo.co.id/index.php/microsoft-certification)</br>[IVERSON TECHNOLOGY](https://learning.iverson.co.id/stream/microsoft)</br>[PT.ACTIVINDO SYSTEM INFORMATIKA](https://activetrain.net/training-dan-sertifikasi-microsoft/)</br>[PT ExecuTrain Nusantarajaya](https://www.executrain.co.id/microsoftcertificationroadmap)</br>[PT Mitra Integrasi Informatika](http://www.metrodata-training.com/training-category/1/microsoft/#training)</br>[PT SARANA SOLUSINDO INFORMATIKA](https://www.solusitraining.com/microsoft-official-courses-demand/#)</br>[PT Triutama Sistem Indonesia](http://trusttrain.com/Training.html)</br>[Trainocate Indonesia](https://trainocate.com/courses/Microsoft) |
 
 | <a name="ireland"></a>愛爾蘭 |
 |-----------|
@@ -270,6 +271,10 @@ ms.author: micsullivan
 | <a name="kazakhstan"></a>哈薩克斯坦 |
 |-----------|
 | [Fast Lane Russia](https://www.flane.ru/microsoft) |
+
+| <a name="korea"></a>Korea |
+|-----------|
+| [Korea Software Service Co., Ltd.](http://ikss.kr/eng/microsoft.html)</br>[Maven Dynamic Learning](http://www.dynamiclearning.co.kr/sub/guide2.php) |
 
 | <a name="kosovo"></a>科索沃 |
 |-----------|
@@ -317,7 +322,7 @@ ms.author: micsullivan
 
 | <a name="new-zealand"></a>新西蘭 |
 |-----------|
-| [Auldhouse](https://www.auldhouse.co.nz/courses-schedules/course-filter?v=29&c=-1&l=-1) |
+| [ACE Training Ltd](http://ace.co.nz/doc/ms-skills-development-roadmap5.pdf)</br>[Auldhouse](https://www.auldhouse.co.nz/courses-schedules/course-filter?v=29&c=-1&l=-1) |
 
 | <a name="nicaragua"></a>尼加拉瓜 |
 |-----------|
@@ -345,7 +350,7 @@ ms.author: micsullivan
 
 | <a name="poland"></a>波蘭 |
 |-----------|
-| [Altkom Akademia S.A.](https://www.altkomakademia.pl/microsoft/)  </br>[CBSG Polska](https://cbsg.pl/o-nas/)   </br>[CloudTeam](http://thellpa.com/members/cloudteam/microsoft)   </br>[Compendium Centrum Edukacyjne](https://www.compendium.pl/szkolenia/microsoft/?utm_source=MS-learning-partners&utm_medium=MS-learning-partners&utm_campaign=MS-learning-partners)   </br>[Fast Lane Poland Sp. z.o.o.](https://www.fastlane.pl/microsoft)   </br>[New Horizon](https://www.newhorizons.com/mspartner)   </br>[Softronic](https://www.softronic.pl/partner/Microsoft)   </br>[Tech Data Corporation](https://academy.techdata.com/pl/vendor/microsoft/training/) |
+| [Altkom Akademia S.A.](https://www.altkomakademia.pl/microsoft/)  </br>[Asseco](https://academy.asseco.pl/SciezkaCertyfikacyjnaById/Szkolenia-IT/Microsoft/437/False)  </br>[CBSG Polska](https://cbsg.pl/o-nas/)   </br>[CloudTeam](http://thellpa.com/members/cloudteam/microsoft)   </br>[Compendium Centrum Edukacyjne](https://www.compendium.pl/szkolenia/microsoft/?utm_source=MS-learning-partners&utm_medium=MS-learning-partners&utm_campaign=MS-learning-partners)   </br>[Fast Lane Poland Sp. z.o.o.](https://www.fastlane.pl/microsoft)   </br>[New Horizon](https://www.newhorizons.com/mspartner)   </br>[Softronic](https://www.softronic.pl/partner/Microsoft)   </br>[Tech Data Corporation](https://academy.techdata.com/pl/vendor/microsoft/training/) |
 
 | <a name="portugal"></a>葡萄牙 |
 |-----------|
@@ -409,7 +414,7 @@ ms.author: micsullivan
 
 | <a name="taiwan"></a>台灣 |
 |-----------|
-| [BestCom Infotech Corporation](https://www.bestcom.com.tw/content.aspx?CH_ID=803&RID=)   </br>[Systex](https://www.uuu.com.tw/Course/Partner/Microsoft微軟/系列課程Courses)   </br>[Trainocate](https://trainocate.com/courses/Microsoft) |
+| [BestCom Infotech Corporation](https://www.bestcom.com.tw/content.aspx?CH_ID=803&RID=)   </br>[Systex](https://www.uuu.com.tw/Course/Partner/Microsoft微軟/系列課程Courses)   </br>[Trainocate](https://www.trainocate.com.tw/microsoft.html) |
 
 | <a name="thailand"></a>泰國 |
 |-----------|
@@ -437,22 +442,20 @@ ms.author: micsullivan
 
 | <a name="vietnam"></a>越南 |
 |-----------|
-| [Trainocate](https://trainocate.com/courses/Microsoft) |
-
+| [SMACLINK ACADEMY](https://smaclink.com/category/khoa-dao-tao/theo-hang-cong-nghe/microsoft/)   </br>[Trainocate](https://trainocate.com/courses/Microsoft) |
 
 ## 探索1000多家解決方案提供商
 
 > [!div class="nextstepaction"]
 > [查找微軟解決方案提供商](https://www.microsoft.com/en-us/solution-providers/search?cacheId=6b7c41ec-9246-4196-9541-7a4427a37f97)
 
-
 ## IT 專業人員和開發人員的優勢
 
-**學習新技術**透過一門課程，您可以開發涵蓋技術採用生命週期的實用技能 - 從規劃到支援。而且你獲得的能力程度只能透過實地演練實驗室，模擬和實際應用技能進行教學。</br ></br> **準備認證**[Microsoft 認證](https://www.microsoft.com/learning/certification-overview.aspx) 適用於 Microsoft 的核心技術和技能水準。Microsoft 官方訓練課程考慮到 Microsoft 認證，並由合格的產業老師講授。</br ></br>**開始一個新的職業。** 教授 Microsoft 官方課程的產業導師可以幫助您獲得直接從課堂轉移到工作場所的IT技能。課程提供寶貴的數位資源，在您完成課程後，您仍然可以使用這些資源。</br ></br> 過去一年接受過IT或與企業相關訓練的專業人員平均比那些未接受過IT訓練的專業人員多賺了3400美元。(Global Knowledge, *IT Skills and Salary Survey*, 2011年3月)
+**學習新技術** 透過一門課程，您可以開發涵蓋技術採用生命週期的實用技能 - 從規劃到支援。而且您獲得的能力程度只能透過實地演練實驗室，模擬和實際應用技能進行教學。</br ></br> **準備認證** [Microsoft 認證](https://www.microsoft.com/learning/certification-overview.aspx) 適用於 Microsoft 的核心技術和技能水準。Microsoft 官方訓練課程考慮到 Microsoft 認證，並由合格的產業老師講授。</br ></br> **開始一個新的職業。** 教授 Microsoft 官方課程的產業導師可以幫助您獲得直接從課堂轉移到工作場所的IT技能。課程提供寶貴的數位資源，在您完成課程後，您仍然可以使用這些資源。</br ></br> 過去一年接受過IT或與企業相關訓練的專業人員平均比那些未接受過IT訓練的專業人員多賺了3400美元。(Global Knowledge, *IT Skills and Salary Survey*, 2011年3月)
 
 ## IT 經理的好處
 
-**提高效率和生產力。** Microsoft Learning Partners可以幫助您充分利用貴組織的技術投資。您的員工可以從課堂訓練或隨選 Microsoft 官方課程提升 Microsoft 技術的熟悉度。</br ></br> **準備部署。** 透過 Microsoft 學習合作夥伴提供的熟練訓練可幫助企業加速新的 Microsoft 技術部署，並減少停機時間。研究顯示40％的操作時的停機是由於操作人員的錯誤造成的，這是由於核心系統缺乏訓練。(安徒生，庫欣。“訓練對網路管理的影響：認證導致營運生產力”。IDC研究。據“網路世界”雜誌的 Linda Musthaler 報導，2009 年 11 月 25 日) </br ></br> **員工發展、招聘和保留。** 訓練和認證是衡量團隊成員如何使用特定技術、硬體和軟體的有效方法。</br ></br> 百分之六十的技術管理人員表示，規劃大型IT基礎設施專案時遇到的最大挑戰之一是在需要的時候能找到具備必要能力的專業人員。(TEKsystems/CIO Custom Solutions Group， *IT Workforce Planning Trends*, 2011 年 6 月)
+**提高效率和生產力。** Microsoft Learning Partners可以幫助您充分利用貴組織的技術投資。您的員工可以從課堂訓練或隨選 Microsoft 官方課程提升 Microsoft 技術的熟悉度。</br ></br> **準備部署。** 透過 Microsoft 學習合作夥伴提供的熟練訓練可幫助企業加速新的 Microsoft 技術部署，並減少停機時間。研究顯示40％的操作時的停機是由於操作人員的錯誤造成的，這是由於核心系統缺乏訓練。(安徒生，庫欣。“訓練對網路管理的影響：認證導致營運生產力”。IDC 研究。據“網路世界”雜誌的 Linda Musthaler 報導，2009 年 11 月 25 日) </br ></br> **員工發展、招聘和保留。** 訓練和認證是衡量團隊成員如何使用特定技術、硬體和軟體的有效方法。</br ></br> 百分之六十的技術管理人員表示，規劃大型IT基礎設施專案時遇到的最大挑戰之一是在需要的時候能找到具備必要能力的專業人員。(TEKsystems/CIO Custom Solutions Group, *IT Workforce Planning Trends*, June 2011)
 
 ## 成為 Microsoft 學習合作夥伴
 
