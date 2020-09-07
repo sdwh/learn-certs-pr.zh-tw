@@ -23,7 +23,7 @@ providers:
   - providerType: pearson-vue
     examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-500&examname=Exam%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-500
   - providerType: gsi
-    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+    examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-500&provider=psi&examname=Exam%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-500
 locales:
 - en
 - ja

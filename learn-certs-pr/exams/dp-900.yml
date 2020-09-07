@@ -22,7 +22,7 @@ providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DP-900&provider=psi&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
 locales:
 - en
 levels:
