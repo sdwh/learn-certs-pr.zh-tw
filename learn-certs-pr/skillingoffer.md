@@ -1,77 +1,77 @@
 ---
-title: '成為經 Microsoft 認證的，並為當今和未來的數位經濟樹立復原功能| Microsoft Docs'
+title: 取得 Microsoft 認證，適應當今和未來的數字經濟 | Microsoft 文檔
 description: 優惠 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 06/08/2019
+ms.date: 06/30/2020
 ms.author: micsullivan
 ---
-# 成為經 Microsoft 認證的，並為當今和未來的數位經濟樹立復原功能
+# 取得 Microsoft認證，適應當今和未來的數字經濟
 
-透過使用 Microsoft 認證提高可信度，驗證您的技能和使用 Microsoft 技術執行角色的能力，為 IT 職業增加更多選擇。隨著數位轉型發展我們的商務方式，接受訓練和獲得認證可以幫助您提高獲得所需技術職位的能力。
+利用 Microsoft 認證提高信譽、驗證您的技能和使用 Microsoft 技術擔任角色的能力，從而在 IT 事業中取得更多選擇。隨著數字化轉型不斷發展，我們開展業務、接受培訓和取得認證的方式可以幫助您提高取得熱門職位的能力。
 
-那些已完成針對這些 Microsoft 特定技術角色的訓練並且可以證明自己因 COVID-19 而失業或休假的求職者，可以以 15 美元的折扣價獲得產業認可的 Microsoft 認證。應試者將有能力 **在 2020 年 9 月至 2020 年 12 月 31 日之間排程測驗，並且必須在 2021 年 3 月 31 日** 之前參加並完成考試。請參閱[條款和條件](#terms-conditions)。
+那些已經完成了這些 Microsoft 特定技術角色的培訓且可以證明自己因 COVID-19 而失業或休假的求職者，能夠以 15 美元的折扣價取得行業認可的 Microsoft 認證。應試者將能夠 **在 2020 年 12 月 31 日之前安排考試，並在 2021 年 3 月 31 日之前** 參加並完成考試。請參見 [條款和條件](#terms-conditions)。
 <br/>
 <br/>
 
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4xwL5]
 
+透過行業認可的認證，您將有機會更新自己的 LinkedIn 個人資料，並增加吸引招聘者和潛在雇主、取得工作的機會。認證對於求職者和那些尋求職業發展的人來說是一項強大的資產。實際上，認證有助於簡化招聘流程、幫助求職者脫穎而出。超過一半的 IT 決策者認為，透過認證的人員的主要優點是他們能夠彌合在瞬息萬變的技術環境中出現的組織技能差距。[請參閱《2019 年 IT 技能和薪酬報告》中的 IT 決策者見解](#terms-conditions)。
 
-擁有產業認可的認證，您將有機會更新自己的 LinkedIn 個人資料，並增加吸引招募者的機會和潛在雇主的工作機會。認證對於求職者和那些希望提升職業生涯的人來說是一項強大的資產。  實際上，認證有助於使招聘變得容易，幫助求職者脫穎而出。超過一半的IT決策者認為，通過認證的人員的主要好處是他們能夠彌合在瞬息萬變的技術環境中出現的組織技能差距。[請參閱Global Knowledge的2019年IT技能和薪資報告中的IT決策者洞察](https://www.globalknowledge.com/zh-cn/content/salary-report/it-skills-and-salary-report)。
+## 透過此優惠可取得 Microsoft 認證考試折扣
 
-## 透過此優惠可獲得的折扣 Microsoft 認證測驗
-
-|認證名稱|認證測驗|
+|認證名稱|認證考試|
 |-|-|
 |Microsoft Certified: Azure Fundamentals|[Exam AZ-900: Microsoft Azure Fundamentals](/learn/certifications/exams/az-900)|
-|Microsoft Certified: Azure Data Fundamentals|Exam DP-900: Microsoft Azure Data Fundamentals*|
-|Microsoft Certified: Azure AI Fundamentals|Exam AI-900: Microsoft Azure AI Fundamentals*|
+|Microsoft Certified: Azure Data Fundamentals|[Exam DP-900: Microsoft Azure Data Fundamentals](/learn/certifications/exams/dp-900)|
+|Microsoft Certified: Azure AI Fundamentals|[Exam AI-900: Microsoft Azure AI Fundamentals](/learn/certifications/exams/ai-900)|
 |Microsoft Certified: Power Platform Fundamentals|[Exam PL-900: Microsoft Power Platform Fundamentals](/learn/certifications/exams/pl-900)|
 |Microsoft 365 Certified: Fundamentals|[Exam MS-900: Microsoft 365 Fundamentals](/learn/certifications/exams/ms-900)|
 |Microsoft Certified: Azure Administrator Associate|[Exam AZ-104: Microsoft Azure Administrator](/learn/certifications/exams/az-104)|
 |Microsoft Certified: Azure Developer Associate|[Exam AZ-204: Developing Solutions for Microsoft Azure](/learn/certifications/exams/az-204)|
 |Microsoft Certified: Azure Security Engineer Associate|[Exam AZ-500: Microsoft Azure Security Technologies](/learn/certifications/exams/az-500)|
-|Microsoft Certified: Power Platform App Maker Associate|Exam PL-100: Microsoft Power Platform App Maker*|
+|Microsoft Certified: Power Platform App Maker Associate|[Exam PL-100: Microsoft Power Platform App Maker](/learn/certifications/exams/pl-100)|
 |Microsoft 365 Certified: Teams Administrator Associate|[Exam MS-700: Managing Microsoft Teams](/learn/certifications/exams/ms-700)|
 |Microsoft 365 Certified: Security Administrator Associate|[Exam MS-500: Microsoft 365 Security Administration](/learn/certifications/exams/ms-500)|
 |Microsoft 365 Certified: Developer Associate|[Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services](/learn/certifications/exams/ms-600)|
 |Microsoft Certified: Data Analyst Associate|[Exam DA-100: Analyzing Data with Microsoft Power BI](/learn/certifications/exams/da-100)|
 
+## 考試日程表清單
 
-**測驗即將推出*
+為了幫助您備考並確保您能夠註冊並參加 Microsoft 認證考試，請按照以下步驟操作。**附註：** 符合條件的應試者必須在 2020 年 12 月 31 日之前安排享用打折優惠的考試。
 
-## 測驗排程清單
+1. 查看以下關鍵 Microsoft 認證資料：
+	1. [關於使用 PSI 在線考試](/learn/certifications/online-exams-psi) 包括參與國家/地區、系統要求、測試協議要求、線上考試過程等。  
+	2. 在要測試的同一臺計算機上和同一位置上[運行系統檢查](https://syscheck.bridge.psiexams.com/)。
+2. 確保您擁有 Microsoft 帳戶
+	1. 如果您已經取得 Microsoft 認證或參加過 Microsoft 認證考試，請使用相同的 Microsoft 帳戶。  
+	2. 如果您需要一個 Microsoft 帳戶，請[創建一個](https://account.microsoft.com/account/manage-my-account)。
+3. 如果您沒有 Microsoft 認證個人資料，則在安排考試時會提示您創建。<br/>**重要提示：** 創建認證個人資料時，請確保您的姓名與參加考試時將使用的政府頒發的身份證件完全匹配。作為身份驗證過程的一部分，監考人員會將您 ID 上的姓名與您認證個人資料中的姓名進行比較。進一步了解 [身份驗證要求](/learn/certifications/online-exams-psi#identity-verification-requirements)。
 
-為了幫助您準備並確保您能夠註冊並參加 Microsoft 認證測驗，請按照以下步驟操作。**附註：** 排程打折測驗的功能將在今年晚些時候（2020 年 9 月至 2020 年 12 月 31 日）提供。
+如果需要幫助，請訪問 [Microsoft 認證支持論壇](https://aka.ms/mcpforum)。要聯絡客戶支持代理，請點擊頁面頂部的 *提問* 並填寫表格。支持代理應在 1 個工作日內回復。
 
-1. 確保您擁有 Microsoft 帳戶
-	1. 如果您已經獲得 Microsoft 認證或已參加 Microsoft 認證考試，請使用相同的 Microsoft 帳戶。  
-	2. 如果您需要一個 Microsoft 帳戶，請[建立一個](https://account.microsoft.com/account/manage-my-account).
-2. 如果您沒有 Microsoft 認證個人資料，則排程測驗時，系統會提示您建立。<br/>**重要:** 建立認證個人資料時，請確保您的姓名與參加測驗時將使用的政府頒發的身份識別碼完全符合。作為識別驗證流程一部分，監考官會將 ID 上的姓名與認證個人資料中的姓名進行比較。
+## FAQ
 
-如果需要幫助，請[參閱 Microsoft 認證支援論壇](https://aka.ms/mcpforum)。
+有關 PSI 線上考試的常見問題和解答，請參見 [關於 PSI 線上考試頁面上的常見問題解答](/learn/certifications/online-exams-psi#frequently-asked-questions)。有關技能方案的一般問題和解答，請參閱[技能方案常見問題解答](https://aka.ms/JobSeekerFAQ)。
 
-## 常見問題集
+## <a name="terms-conditions"></a> 條款與條件
 
-有關常見問題和解答，請參閱[常見問題集](https://aka.ms/JobSeekerFAQ)。
-
-## <a name="terms-conditions"></a>條款和條件
-
-- 這項測驗優惠適用於可以證明自己因 COVID-19 而失業或休假的求職者。
-- 您必須年滿18歲以上才能存取和使用此測驗優惠。
-- 此考試優惠僅適用於限量的合格個人和測驗預約。
-- 此考試優惠授權給您以15美元的特殊限時折扣價註冊並參加一 (1) 個有效的 Microsoft 認證測驗。優惠將於 2020 年 12 月 31 日到期。
-- 此測驗優惠可以兌換為參加一 (1) 個有效的 Microsoft 認證測驗，僅提供作為線上監考測驗。
-- 本測驗優惠是特定測驗，並且只能兌換挑選出的 Microsoft 認證測驗。
-排程打折測驗的功能將在今年晚些時候（2020 年 9 月至 2020 年 12 月 31 日）提供。
-- 測驗必須在 2020 年 12 月 31 日之前排程。考試預約必須在 2021 年 3 月 31 日之前完成。
+- 這項考試優惠適用於可以證明自己由於 COVID-19 而失業或休假的求職者。
+- 您必須年滿 18 歲才能訪問和使用此考試優惠。
+- 此考試優惠僅適用於有限數量的合格個人和預約考試。
+- 此考試優惠使您能夠以 15 美元的特殊限時折扣價註冊並參加一(1)次有效的 Microsoft 認證考試。優惠將於 2020 年 12 月 31 日到期。
+- 此考試優惠可以兌換為參加一(1)次有效的 Microsoft 認證考試，僅為一次線上監考測驗試。
+- 此考試優惠是針對特定考試的，僅可用於精選的 Microsoft 認證考試。
+- 安排考試時間的窗口將於今年晚些時候(2020 年 9 月 1 日至 2020 年 12 月 31 日)提供。
+- 考試必須在 2020 年 12 月 31 日之前安排。預約考試必須在 2021 年 3 月 31 日之前完成。
 - 此測驗優惠的到期日在任何情況下都不能延長。
-- 本測驗優惠可能無法兌換或變換現金，信用額度或退款。
-- 本測驗優惠不可轉讓，如果您以任何方式更改，修改或轉讓，則該優惠無效。
-- 取消和重新排程規定以及所有相關費用適用。
-- 應試者必須同意[認證測驗保密協議](/learn/certifications/certification-exam-policies#non-disclosure-agreement)。
+- 此測驗優惠不得兌換現金、點數或退款。
+- 此測驗優惠不可轉讓，如果您以任何方式更改、修改或轉讓，則優惠無效。
+- 可能有適用的取消和重新安排政策以及任何相關費用。
+- 應試者必須同意 [認證考試保密協議](/learn/certifications/certification-exam-policies#non-disclosure-agreement)。
+- 應試者必須符合 [系統要求](/learn/certifications/online-exams-psi#system-requirements) 和 [測試協議要求](/learn/certifications/online-exams-psi#testing-protocol-requirements)。
 
-有關更多資訊，請參閱完整的 [Microsoft使用條款](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx)。
+有關更多資訊，請參閱完整的 [Microsoft使用條款](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx).
