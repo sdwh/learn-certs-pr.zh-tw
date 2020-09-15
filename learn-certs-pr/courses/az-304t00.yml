@@ -3,6 +3,7 @@ title: Microsoft Azure Architect Design
 metadata:
   title: 'Course AZ-304T00-A: Microsoft Azure Architect Design'
   description: 'Course AZ-304T00-A: Microsoft Azure Architect Design'
+  iltScheduling: true
 uid: course.az-304t00
 courseNumber: 'AZ-304T00-A'
 hoursToComplete: 96

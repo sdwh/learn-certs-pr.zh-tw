@@ -3,6 +3,7 @@ title: Microsoft Azure 安全技術
 metadata:
   title: 'Course AZ-500T00-A: Microsoft Azure 安全技術'
   description: 'Course AZ-500T00-A: Microsoft Azure 安全技術'
+  iltScheduling: true
 uid: course.az-500t00
 courseNumber: 'AZ-500T00-A'
 hoursToComplete: 96

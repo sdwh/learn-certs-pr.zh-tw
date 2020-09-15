@@ -3,6 +3,7 @@ title: 設計與實作 Azure AI 解決方法
 metadata:
   title: 'Course AI-100T01-A: 設計和實作 Azure AI 解決方案'
   description: 'Course AI-100T01-A: 設計和實作 Azure AI 解決方案'
+  iltScheduling: true
 uid: course.ai-100t01
 courseNumber: 'AI-100T01-A'
 hoursToComplete: 72

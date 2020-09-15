@@ -3,6 +3,7 @@ title: Microsoft Azure Architect Technologies
 metadata:
   title: 'Course AZ-303T00-A: Microsoft Azure Architect Technologies'
   description: 'Course AZ-303T00-A: Microsoft Azure Architect Technologies'
+  iltScheduling: true
 uid: course.az-303t00
 courseNumber: 'AZ-303T00-A'
 hoursToComplete: 120

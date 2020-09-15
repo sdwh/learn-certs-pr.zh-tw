@@ -3,6 +3,7 @@ title: Office 365 管理
 metadata:
   title: 'Course MS-100T01-A: Office 365 Management'
   description: 'Course MS-100T01-A: Office 365 Management'
+  iltScheduling: true
 uid: course.ms-100t01
 courseNumber: 'MS-100T01-A'
 hoursToComplete: 48

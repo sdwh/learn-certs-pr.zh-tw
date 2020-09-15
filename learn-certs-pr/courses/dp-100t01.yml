@@ -3,6 +3,7 @@ title: 在Azure上設計與實作資料科學解決方法
 metadata:
   title: 'Course DP-100T01-A: 在Azure上設計和實作資料科學解決方案'
   description: 'Course DP-100T01-A: 在Azure上設計和實作資料科學解決方案'
+  iltScheduling: true
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
