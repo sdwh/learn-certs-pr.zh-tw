@@ -3,6 +3,7 @@ title: Designing an Azure Data Solution
 metadata:
   title: 'Course DP-201T01-A: Designing an Azure Data Solution'
   description: 'Course DP-201T01-A: Designing an Azure Data Solution'
+  iltScheduling: true
 uid: course.dp-201t01
 courseNumber: 'DP-201T01-A'
 hoursToComplete: 48

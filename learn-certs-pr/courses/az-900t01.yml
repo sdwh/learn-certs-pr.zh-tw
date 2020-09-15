@@ -3,6 +3,7 @@ title: Microsoft Azure Fundamentals (1 Day)
 metadata:
   title: 'Course AZ-900T01-A: Microsoft Azure Fundamentals (1 Day)'
   description: 'Course AZ-900T01-A: Microsoft Azure Fundamentals (1 Day)'
+  iltScheduling: true
 uid: course.az-900t01
 courseNumber: 'AZ-900T01-A'
 hoursToComplete: 24

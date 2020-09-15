@@ -3,6 +3,7 @@ title: 安裝 Windows 10。
 metadata:
   title: 'Course MD-100T01-A: Installing Windows 10'
   description: 'Course MD-100T01-A: Installing Windows 10'
+  iltScheduling: true
 uid: course.md-100t01
 courseNumber: 'MD-100T01-A'
 hoursToComplete: 24
