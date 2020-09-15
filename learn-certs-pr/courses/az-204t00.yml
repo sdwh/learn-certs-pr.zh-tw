@@ -3,6 +3,7 @@ title: Developing Solutions for Microsoft Azure
 metadata:
   title: 'Course AZ-204T00-A: Developing Solutions for Microsoft Azure'
   description: 'Course AZ-204T00-A: Developing Solutions for Microsoft Azure'
+  iltScheduling: true
 uid: course.az-204t00
 courseNumber: 'AZ-204T00-A'
 hoursToComplete: 120

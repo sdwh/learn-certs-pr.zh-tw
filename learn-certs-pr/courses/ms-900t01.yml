@@ -3,6 +3,7 @@ title: Microsoft 365 Fundamentals
 metadata:
   title: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
   description: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
+  iltScheduling: true
 uid: course.ms-900t01
 courseNumber: 'MS-900T01-A'
 hoursToComplete: 24

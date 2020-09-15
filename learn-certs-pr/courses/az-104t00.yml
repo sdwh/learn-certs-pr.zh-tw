@@ -3,6 +3,7 @@ title: Microsoft Azure Administrator
 metadata:
   title: 'Course AZ-104T00-A: Microsoft Azure Administrator'
   description: 'Course AZ-104T00-A: Microsoft Azure Administrator'
+  iltScheduling: true
 uid: course.az-104t00
 courseNumber: 'AZ-104T00-A'
 hoursToComplete: 96

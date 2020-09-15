@@ -3,6 +3,7 @@ title: 管理 Microsoft 365 身份識別和存取
 metadata:
   title: 'Course MS-500T01-A: 管理 Microsoft 365 身份識別和存取'
   description: 'Course MS-500T01-A: 管理 Microsoft 365 身份識別和存取'
+  iltScheduling: true
 uid: course.ms-500t01
 courseNumber: 'MS-500T01-A'
 hoursToComplete: 24
