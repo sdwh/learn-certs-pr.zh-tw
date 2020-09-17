@@ -1,0 +1,16 @@
+{
+    "redirections": [
+        {
+            "source_path": "learn-certs-pr.zh-tw/azure-devops.yml",
+            "redirect_url": "/learn/certifications/devops-engineer",
+            "redirect_document_id": false
+        },
+		{
+            "source_path": "learn-certs-pr.zh-tw/microsoft-office-specialist-certification-2016.yml",
+            "redirect_url": "/learn/certifications/browse/?type=mos",
+            "redirect_document_id": false		
+		}
+      ]
+
+
+}
