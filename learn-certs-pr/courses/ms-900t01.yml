@@ -3,23 +3,21 @@ title: Microsoft 365 Fundamentals
 metadata:
   title: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
   description: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
-  iltScheduling: true
 uid: course.ms-900t01
 courseNumber: 'MS-900T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 區分各種雲端服務模型。
-- skill: 識別 Microsoft 365 和 Office 365 之間的主要差異。
-- skill: 計劃移轉到 Microsoft 365 服務。
-- skill: 識別 Microsoft 內部部署服務和 Microsoft 365 雲端服務之間的主要差異。
-- skill: 在 Microsoft 365 中定義企業行動力。
-- skill: 識別 Microsoft 365 服務如何支援團隊工作。
-- skill: 描述身份識別，包括雲端，內部部署身份和混合式身份識別。
-- skill: 描述雲端裝置的管理和保護，包括 Intune 的使用。
-- skill: 描述資料保護，包括使用 Azure 資訊保護。
-- skill: 描述一般合規性以及 Microsoft 365 中的合規性功能。
-- skill: 描述Microsoft 365訂閱，授權，帳單和支援
+- skill: 確定Microsoft 365訂閱之間的主要區別。
+- skill: 計劃遷移到Microsoft 365服務。
+- skill: 確定Microsoft內部服務和Microsoft 365雲端服務之間的主要區別。
+- skill: 確定Microsoft 365服務如何支援團隊合作。
+- skill: 描述身份，包括雲端、內部身份和混合身份。
+- skill: 描述雲端設備的管理和保護，包括Intune的使用。
+- skill: 描述資料保護，包括使用Azure資訊保護。
+- skill: 描述常規合規性以及Microsoft 365中的合規性功能。
+- skill: 描述Microsoft 365訂閱，許可證、賬單和支援
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -28,6 +26,7 @@ levels:
 roles:
 - business-user
 - administrator
+- maker
 products:
 - m365
 - windows
@@ -35,66 +34,56 @@ products:
 exams:
 - uid: exam.ms-900
 summary: |-
-  本課程提供有關採用雲端服務和軟體即服務（SaaS）雲端模型的考慮因素和好處的基礎知識，特別著重於Microsoft 365雲端服務產品。您將從學習雲端基礎知識開始，包括雲端計算概述，尤其是 Microsoft 雲端服務。將向您介紹 Microsoft Azure，並將檢查 Microsoft 365 和 Office 365 之間的差異。然後，您將對 Microsoft 365 進行深入檢閱，包括將 Microsoft 內部部署服務與 Microsoft 365 雲端服務進行比較，對 Microsoft 365 中的企業行動力進行檢閱，以及對 Microsoft 365 服務如何提供共同作業的分析。然後，本課程分析 Microsoft 365 中如何處理安全性，合規性，隱私權和信任，並以 Microsoft 365 訂閱，授權，帳單和支援的檢閱作為結束。
-  
+  本課程提供有關採用雲端服務和軟體即服務（SaaS）雲端模型的注意事項和好處的基礎知識，尤其側重於Microsoft 365雲端服務產品。您將從學習雲端基礎知識開始，包括雲端計算概述，尤其是Microsoft雲端服務。將向您介紹Microsoft Azure，並將檢查Microsoft 365和Office 365之間的區別。然後，您將對Microsoft 365進行深入審查，包括對Microsoft內部服務與Microsoft 365雲端服務的比較，對Microsoft 365中企業移動性的審查，以及對Microsoft 365服務如何提供協作的分析。然後，本課程分析Microsoft 365中如何處理安全性，合規性，隱私和信任，並以對Microsoft 365訂閱，許可證，計費和支援的回顧作為結束。
+
   #### 對象設定檔
-  本課程是為渴望在其組織中部署和管理雲端服務，或只是希望獲得有關雲端基礎的基礎知識的 IT 專業人員而設計的。這包括總體上採用雲端服務和特別是軟體即服務（SaaS）雲端模型的考慮因素和好處的基礎知識，通常著重於 Microsoft 365 雲端服務產品。 
+  本課程是為渴望在組織中部署雲端服務或僅希望獲得有關雲端基礎知識的商業決策者和IT專業人員而設計的。這包括總體上採用雲端服務，特別是採用軟體即服務（SaaS）雲端模型的注意事項和好處，並且通常側重於Microsoft 365雲端服務產品。
 prerequisitesSection: |-
-  本課程旨在
-  適用於渴望在其組織中部署
-  和管理雲端服務的 IT 專業人員。學生應具有以下背景&#58;
-  - 具有一般 IT 知識或在 IT 環境中工作的任何一般經驗
-  - 對對應的 Microsoft 內部部署產品（例如 Exchange Server、SharePoint、Office Professional、AD RMS 和其他產品）的一般（銷售等級）經驗
-  - 解決 IT 商務/法律/安全要求的經驗
+  本課程是為渴望在組織中部署雲端服務的業務決策者和IT專業人員設計的。學生應具有以下背景&#58;
+  - 網路、計算和雲端概念的常識
 outlineSection: |-
   ### 模組 1&#58; 雲端概念
-  #### 課程
-  - 雲端計算原則
-  - Microsoft 雲端服務
-  - 移轉到雲端服務
+  探索雲端計算的核心概念以及它如何幫助您的業務。
+  #### 課程 
+  - 雲端計算原理
+  - 什麼是Microsoft 365？
+  - 選擇雲端部署
 
 
-  #### 實驗室 &#58; 雲端基礎
-  - 演練 1&#58; 確定適當的雲端模型（紙張式的實驗室）
+  ### 模組 2&#58;Microsoft 365生產力和團隊合作能力
+  瞭解Microsoft 365中的生產力和團隊合作解決方案，以及使用Microsoft 365（World's Productivity Cloud）幫助人們提高生產力的功能。
+  #### 課程 
+  - Microsoft 365生產力和團隊合作解決方案
+  - 使員工參與Microsoft Stream，Team和Yammer
+  - 在所有設備上使用Office完成更多工作
+  - 檔案存儲以及與OneDrive和SharePoint共享
 
 
-  ### 模組 2&#58; 核心 Microsoft 365 服務
-  #### 課程
-  - Microsoft 365 核心服務
-  - Microsoft 365 中 Microsoft 內部部署服務和雲端服務
-  - Microsoft 365 中的統一端點管理
-  - Microsoft 365 中的團隊工作
+  ### 模組 3&#58; Microsoft 365業務管理功能
+  瞭解Microsoft 365中的業務管理解決方案以及使用Microsoft 365（World's Productivity Cloud）幫助組織提高生產力的功能。
+  #### 課程 
+  - 使用Microsoft 365管理您的業務
+  - 使用Microsoft Endpoint Manager簡化設備管理
+  - 使用Windows 10完成更多工作並保持安全
+  - 利用Microsoft 365分析和報告利用商業智能
 
 
-  ### 模組 &#58; 啟用和配置 Microsoft 365 租用戶
-  - 演練 1&#58; 啟動和配置 Microsoft 365 租用戶
-  - 演練 2&#58; 探索 Microsoft 365 租用戶和管理入口網站
-  - 演練 3&#58; 配置新的使用者和群組帳號
+  ### 模組 4&#58; Microsoft 365安全性和合規性
+  瞭解Microsoft 365安全和合規性解決方案領域以及可用於幫助企業保護其企業並滿足法規要求的功能。
+  #### 課程 
+  - 安全原則和解決方案領域
+  - 身份和存取管理
+  - 威脅防護
+  - 雲端安全
+  - 資訊保護與治理
+  - 合規管理
+  - 管理風險，發現和審計
 
 
-  ### 模組 3&#58; Microsoft 365 中的安全性，合規性，隱私權和信任
-  #### 課程
-  - 組織安全性基礎
-  - Microsoft 365 的安全性功能
-  - 身份識別和存取管理
-  - Microsoft 365 中的裝置和資料保護
-  - Microsoft 365中的合規性
-
-
-  ### 實驗室 &#58; 在 Microsoft 365 中安全性
-  - 演練 1&#58; 在 Azure Active Directory 中管理使用者和裝置
-  - 演練 2&#58; 評估身分識別保護
-  - 演練 3&#58; 探索合規性工具
-
-
-  ### 模組 4&#58; Microsoft 365定價和支援
-  #### 課程
-  - Microsoft 365 訂閱，授權和帳單
-  - Microsoft 365 中的支援
-
-
-  #### 實驗室 &#58; 在 M365 中管理訂閱，授權和支援
-  - 演練 1&#58; 探索帳單和訂閱界面
-  - 演練 2&#58; 向租用戶新增試用版授權
-  - 演練 3&#58; 檢閱支援選項
+  ### 模組 5&#58; Microsoft 365許可和支援
+  瞭解有關Microsoft 365許可、服務和支援選項的更多資訊。
+  #### 課程 
+  - 確定Microsoft 365中可用的許可選項
+  - 描述Microsoft 365服務中的支援產品
+  - 描述Microsoft 365中的服務生命週期
 

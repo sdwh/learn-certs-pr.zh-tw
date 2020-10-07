@@ -15,11 +15,18 @@ summary: |-
   Azure解決方案架構師與雲端管理員，雲端DBA和客戶端合作以實作解決方案。
 
   參加此認證的應試者應該在 IT 運營方面具有先進的經驗和知識，包括網路、視覺效果、身份、安全性、業務連續性、災難恢復、資料管理、預算和治理——該角色應管理各個領域的決策如何影響整體解決方案。此外，該角色應具有 Azure 管理方面的專家級技能，並具有 Azure 開發和 DevOps 流程的經驗。
+
+  <div><strong><br/>附註&#58; 如果您透過以下測驗組合之一，則將獲得此證書&#58;<ul>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> 和 <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
+  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> 和 <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> 和 <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> 和 <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
+  </ul></strong></div>
 subTitle: Azure 解決方案架構師設計並實作了可在 Microsoft Azure 上運行的解決方案，包括計算、網路、存儲和安全性等方面。
 levels:
 - advanced
 skills:
-- 實施和監視Azure基礎結構
+- 實作和監視Azure基礎結構
 - 實作管理和安全解決方案
 - 為應用程式實作解決方案
 - 實作和管理資料平台
@@ -72,7 +79,7 @@ exams:
 - uid: exam.az-303
 - uid: exam.az-304
 resources:
-- title: Azure 認證海報
+- title: Azure認證海報
   description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 認證之旅
@@ -82,13 +89,13 @@ resources:
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基本知識、基於角色和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。

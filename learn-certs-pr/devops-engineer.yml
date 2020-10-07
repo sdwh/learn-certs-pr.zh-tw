@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: DevOps Engineer Expert'
-  description: 'Azure DevOps 專業人員將人員、流程與技術相結合，不斷提供有價值的產品與服務，以滿足最終使用者的需求與業務目標。'
+  description: 'Microsoft DevOps 專業人員將人員、流程與技術相結合，不斷提供有價值的產品與服務，以滿足最終使用者的需求與業務目標。'
 uid: certification.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
@@ -13,7 +13,7 @@ summary: |-
   擔任此角色的職責包括設計和實作協作、代碼、基礎結構、源代碼控制、安全性、合規性、持續整合、測試、交付、監視和反饋的策略。
 
   本認證的應試者必須熟悉 Azure 管理和 Azure開發，並且至少精通其中一個領域。
-subTitle: Azure DevOps 專業人員將人員、流程與技術相結合，不斷提供有價值的產品與服務，以滿足最終使用者的需求與業務目標。
+subTitle: Microsoft DevOps 專業人員將人員、流程與技術相結合，不斷提供有價值的產品與服務，以滿足最終使用者的需求與業務目標。
 levels:
 - advanced
 skills:
@@ -51,7 +51,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8
 exams:
 - uid: exam.az-400
 resources:
-- title: Azure 認證海報
+- title: Azure認證海報
   description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 認證之旅
@@ -61,13 +61,13 @@ resources:
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基本知識、基於角色和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。

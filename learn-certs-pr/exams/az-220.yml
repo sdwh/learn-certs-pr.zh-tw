@@ -8,7 +8,7 @@ displayName: AZ-220
 summary: |-
   <div>
   <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-  <div><strong> 該測驗的內容更新于 2020 年 7 月 21 日.請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
+  <div> <strong>此測驗內容將於2020年9月24日更新。請下載下方的技能衡量文件，以查看將有哪些更改。</strong><br/><br/></div>
   </div>
 
   參加該測驗的應試者應具有主題知識，可以開發 Azure IoT 解決方案的雲端和邊緣元件。
@@ -31,13 +31,13 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容更新于 2020 年 7月 21日.請下載下面概述的測驗技能，以了解已發生什麼變化。
-- 實作 IoT 解決方案基礎架構(15-20%)
-- 佈建和管理裝置(20-25%)
+- 此測驗內容將於 2020 年 9 月 24 日更新。請下載下面概述的測驗技能，以了解將會發生什麼變化。
+- 實作 IoT 解決方案基礎架構 (15-20%)
+- 佈建和管理裝置 (20-25%)
 - 實作 Edge (15-20%)
-- 處理和管理數據(15-20%)
-- 監視，疑難排解和最佳化 IoT 解決方案(15-20%)
-- 實作安全(15-20%)
+- 處理和管理數據 (15-20%)
+- 監視，疑難排解和最佳化 IoT 解決方案 (15-20%)
+- 實作安全 (15-20%)
 roles:
 - developer
 products:

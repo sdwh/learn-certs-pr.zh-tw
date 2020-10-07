@@ -6,14 +6,13 @@ metadata:
 uid: certification.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
   Dynamics 365 供應鏈管理功能顧問助理負責為客戶簡明化成本核算、庫存管理、整體規劃，以及倉儲管理。
 subTitle: 'Dynamics 365 供應鏈管理功能顧問助理負責為客戶簡明化成本核算、庫存管理、整體規劃，以及倉儲管理。'
 levels:
 - intermediate
 skills:
-- '附註：出現在以下文件中所評量的每種技能下方的項目符號旨在說明我們如何評估該技能。此清單不明確或詳盡。'
 - 使用通用功能與實作工具
 - 設定安全性、流程與選項
 - 執行數據遷移
