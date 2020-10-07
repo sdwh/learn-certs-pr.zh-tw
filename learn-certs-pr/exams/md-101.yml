@@ -6,10 +6,11 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
-  如果您在2019年3月31日到期之前通過了[Exam  70-698](https://www.microsoft.com/learning/exam-70-698.aspx)，您只需要參加測驗 MD-101 即可獲得現代桌面認證。參加此測驗的應試者在企業環境中部署、配置、保護、管理和監視設備和客戶端應用程式的管理員。應試者管理身份、存取、策略、更新與應用程式。
-  <br/>
+  如果您在2019年3月31日到期之前通過了[Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx)，您只需要參加測驗 MD-101 即可獲得現代桌面認證。
+
+  參加此測驗的應試者在企業環境中部署、配置、保護、管理和監視設備和客戶端應用程式的管理員。應試者管理身份、存取、策略、更新與應用程式。
 
   作為管理員，應試者通常與 Microsoft 365 企業管理員合作來設計與實作滿足現代組織業務需求的裝置策略。
 
@@ -52,18 +53,18 @@ resources:
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基本知識、基於角色和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
-- title: 支持認證考試
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 支援認證考試
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
   href: ../help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
+- title: 要求住宿
   description: 詳細了解有關為測驗申請調整的資訊。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 測驗政策和常見問題

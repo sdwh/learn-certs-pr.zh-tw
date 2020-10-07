@@ -1,0 +1,53 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Migrating Oracle to Azure SQL or Postgre SQL'
+metadata:
+  title: 'Course 40514-G: Microsoft Cloud Workshop: Migrating Oracle to Azure SQL or Postgre SQL'
+  description: 'Course 40514-G: Microsoft Cloud Workshop: Migrating Oracle to Azure SQL or Postgre SQL'
+uid: course.40514
+courseNumber: '40514-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 在研習會結束時，您將能夠更好地進行站點分析，比較從Oracle遷移到SQL Server或PostgreSQL所需的成本、性能和工作量。鑒于完成研習會所需的時間，建議學員和培訓師選擇壹條單壹的遷移路徑。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  在本次研習會中，您將更好地了解如何爲客戶進行站點分析，以及比較從Oracle遷移到SQL Server或PostgreSQL所需的成本、性能和工作量。在這個研習會中包含了兩個遷移路徑，培訓文件根據每個路徑進行了相應的命名。兩個研習會共享壹個共同的客戶Oracle遷移場景。每個研習會的路徑都有定制的數據庫平台遷移步驟，以幫助您完成這壹學習旅程。您將評估壹些需要更新的相關應用程序和報告，並提出遷移計劃。此外，您還將設計和構建壹個概念驗證（POC），以幫助客戶利用新的SQL Server或PostgreSQL功能來提高性能和彈性。
+
+  對于那些關注于SQL Server遷移的學生，您將探索從舊版本的SQL Server遷移到最新版本的方法，並考量從本地遷移到雲的影響。
+
+  #### 觀衆概況
+  這個研習會面向雲架構師和IT專業人士，他們在雲技術的基礎設施和解決方案設計方面擁有架構專業知識，並且希望了解更多關于Azure和Azure服務的知識，如“關于本課程”和“課程完成時”部分所述。參加這個研習會的人還應該具有其他非微軟雲技術方面的經驗，符合參加本課程的先決條件，並且希望在Azure上進行交叉培訓。
+outlineSection: |-
+  ### 模塊 1&#58; 白板設計課堂 - 將Oracle遷移到Azure SQL或Postgre SQL
+  #### 課程
+  - 回顧客戶案例研究
+  - 設計壹個概念驗證解決方案
+  - 呈現解決方案
+
+
+  ### 模塊 2&#58; 動手實驗室 - 將Oracle遷移到Azure SQL或Postgre SQL
+
+  #### 實驗室&#58; 將Oracle遷移到Azure SQL
+
+  - 配置SQL Server實例
+  - 使用DMS將SQL Server遷移到Azure SQL數據庫
+  - 升級後增強
+  - 安裝Oracle 11g Express Edition
+  - 將Oracle數據庫遷移到SQL Server 2017
+  - 遷移應用程序
+
+  #### 實驗室&#58; 將Oracle遷移到Postgre SQL
+
+  - 安裝Oracle 11g Express Edition
+  - 在遷移到PostgreSQL之前，先評估Oracle 11g數據庫
+  - 准備將Oracle數據庫遷移到PostgreSQL
+  - 遷移數據庫和應用程序
+

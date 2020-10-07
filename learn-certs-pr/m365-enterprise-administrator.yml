@@ -10,7 +10,7 @@ summary: |-
 
   Microsoft 365 企業管理員評估，規劃，遷移，部署和管理 Microsoft 365 服務。
 
-  <div><br/><strong>MCSE 生產力解決方案專家認證將於 2021 年 1 月 31 日淘汰。因此，MCSE生产力解决方案专家认证不会成为Microsoft 365认证的必备选项：2022 年 1 月 31 日（MCSE 停用後一年）之後的企業管理員專家證書。</strong></div>
+  <div><br/><strong>MCSE 生產力解決方案專家認證將於 2021 年 1 月 31 日淘汰。因此，MCSE生产力解决方案专家认证不会成为Microsoft 365认证的必备选项&#58; 2022 年 1 月 31 日（MCSE 停用後一年）之後的企業管理員專家證書。</strong></div>
 subTitle: Microsoft 365 企業管理員評估，規劃，遷移，部署和管理 Microsoft 365 服務。
 levels:
 - advanced
@@ -52,13 +52,13 @@ resources:
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基本知識、基於角色和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
   href: help.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。

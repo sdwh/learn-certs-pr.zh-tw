@@ -8,7 +8,7 @@ displayName: MB-220
 summary: |-
   <div>
   <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-  <div> <strong>此測驗內容將於2020年10月7日更新。請下載下方的技能衡量文件，以查看將有哪些更改。</strong><br/><br/></div>
+  <div><strong>此測驗內容將於 2020 年 10 月 7 日更新。請下載下方的技能衡量文件，以查看將有哪些更改。</strong><br/><br/></div>
   </div>
 
   本次測驗的應試者是擁有行銷專業技能的 Dynamics 365 Customer Engagement 功能顧問。應試者負責實作吸引並轉化潛在客戶的解決方案，建構品牌知名度，標準化全渠道訊息傳送，以及提供行銷見解。
@@ -19,6 +19,7 @@ summary: |-
 subTitle: '該測驗測量您完成以下技術任務的能力：設定行銷應用；管理區段和清單；建立和管理行銷表單和頁面；管理潛在客戶；建立和管理行銷電子郵件；管理客戶旅程；管理事件與網路研討會；並設定和分析客戶響應。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjQ
+practiceTestUrl: https://in.mindhub.com/mb-220-microsoft-dynamics-365-marketing-microsoft-official-practice-test/p/MU-MB-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-220&examname=Exam%20MB-220:%20Microsoft%20Dynamics%20365%20for%20Marketing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-220
 locales:
 - en

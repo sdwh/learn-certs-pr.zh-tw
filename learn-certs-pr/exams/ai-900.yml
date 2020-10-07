@@ -13,9 +13,15 @@ providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
 - providerType: gsi
-  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AI-900&provider=psi&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- de
+- fr
+- es
 levels:
 - beginner
 skills:

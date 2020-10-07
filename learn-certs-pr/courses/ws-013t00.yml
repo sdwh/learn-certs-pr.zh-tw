@@ -1,0 +1,147 @@
+### YamlMime:Course
+title: Azure Stack HCI
+metadata:
+  title: 'Course WS-013T00-A: Azure Stack HCI'
+  description: 'Course WS-013T00-A: Azure Stack HCI'
+uid: course.ws-013t00
+courseNumber: 'WS-013T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述Azure Stack產品組合，包括Azure Stack HCI、Azure Stack Hub和Azure Stack Edge
+- skill: 描述Azure Stack HCI核心技術和管理工具。
+- skill: 描述典型的Azure Stack HCI實作的過程。
+- skill: 識別Azure Stack HCI混合功能。
+- skill: 在Azure Stack HCI上實作、管理和維護工作負載。
+- skill: 規劃和實作Azure Stack HCI存儲，包括存儲QoS和存儲副本。
+- skill: 規劃Azure Stack HCI網路。
+- skill: 在Azure Stack HCI中實作軟體定義的網路。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- windows-server
+summary: |-
+  此為期三天的課程主要面向已在管理內部Windows Server環境方面具有豐富經驗的IT專業人員。其目的是涵蓋與Windows Server軟體定義的資料中心和Azure Stack HCI相關的高階主題。該課程還提供有關其他Azure Stack產品的資訊，並描述如何使用現有的System Center產品來透過Windows Server 2019實作和管理軟體定義的資料中心。本課程是高階課程，面向希望使用軟體定義的資料中心和超融合原理在Windows Server 2019上以中型到大型規模運行其虛擬工作負載的人員。
+
+  #### 對象設定檔
+  本課程適用於管理內部Windows Server環境並希望使用Azure來管理伺服器工作負載並在Windows Server 2019上運行其虛擬工作負載的IT專業人員。他們還希望使用現有的Microsoft System Center產品來透過Windows Server 2019實作和管理軟體定義的資料中心。
+prerequisitesSection: |-
+  - 在內部方案中管理Windows Server操作系統和Windows Server虛擬化工作負載的經驗
+  - 在Microsoft Azure中實作和管理基礎結構即服務（IaaS）服務的經驗
+  - Azure Active Directory（Azure AD）的基本知識
+  - 具有PowerShell腳本和PowerShell所需狀態設定（DSC）的中級知識
+  - 具有Microsoft核心計算，存儲，網路和虛擬化技術的中級知識
+  - 具有基於Windows Server的計算和存儲高可用性技術的中級知識
+  - 具有Microsoft虛擬化安全相關技術的中級知識
+outlineSection: |-
+  ### 模組 1&#58; 引入Azure Stack HCI
+  本模組描述了Azure Stack HCI的基本特徵，以及其作為Azure Stack產品組合一部分的對等產品，包括Azure Stack Hub和Azure Stack Edge。該模組還概述了Azure Stack HCI核心技術和管理工具，並概述了典型實作過程。最後，這些模組以Azure Stack HCI混合功能的摘要結尾，在模組4中詳細介紹了其中的大多數功能。
+  #### 課程
+  - Azure Stack HCI概述
+  - Azure Stack HCI技術概述
+  - Azure Stack HCI管理工具概述
+  - Azure Stack HCI實作過程概述
+
+  完成本單元後，學生將能夠&#58;
+  - 描述Microsoft Azure Stack產品組合的基本功能和用例。
+  - 確定Azure Stack HCI體系結構的核心組件。
+  - 確定用於部署和管理超融合基礎結構的通用管理工具。
+  - 描述Azure Arc的目的和功能。
+  - 確定可以整合到內部環境中的Azure基礎結構服務。
+  - 將雲端見證設定為仲裁見證類型。
+  - 描述如何使用Azure網路配接器建立指向Azure虛擬網路的點對點VPN
+  - 描述Azure檔案同步和Azure Monitor的特徵和用例。
+  - 現在說明使用Azure備份和Azure站點恢復來保持業務連續性。
+  - 描述Azure更新管理用例和體系結構。
+  - 描述用於預設定Azure Stack HCI實作的高階過程。
+
+
+  ### 模組 2&#58; 操作和維護Azure Stack HCI
+  本模組介紹如何在Azure Stack HCI上實作、管理和維護工作負載。如第一個模組中所述，Azure Stack HCI旨在優化特定類型的工作負載的效能、復原和延展性。在初始設定之後實作這些工作負載，這涉及在運行Windows Server 2019操作系統的Microsoft批准的硬體之上設定虛擬化存儲和網路層。本模組概述了不同的Azure服務和Windows Server功能，可利用Windows Server 2019與Azure的整合來管理和維護這些工作負載。
+  #### 課程
+  - 在Azure Stack HCI上實作和管理工作負載
+  - 維護Azure Stack HCI
+
+  #### 實驗室&#58; 實驗室A&#58; 提供實驗室環境
+  - 提供實驗室環境
+
+  #### 實驗室&#58; 實驗室B&#58; 在混合式案例中使用Windows管理中心
+  - 將超融合基礎結構與Azure服務整合
+  - 檢視Azure整合功能
+  - 管理對超融合基礎結構的更新
+
+  完成本單元後，學生將能夠&#58;
+  - 使用共享磁碟實作共享叢集。
+  - 描述部署屏蔽VM所需的組件。
+  - 實作虛擬桌面基礎結構（VDI）工作負載。
+  - 在Azure Stack HCI中受控基於容器的部署。
+  - 使用Azure網路配接器創建到Azure虛擬網路的點對點（P2S）VPN連接。
+  - 描述Azure檔案同步體系結構。
+  - 實作Azure檔案同步以在內部和Azure檔案共享之間複製檔案。
+  - 使用Azure Arc管理Azure Stack HCI工作負載。
+
+
+  ### 模組 3&#58; 規劃和實作Azure Stack HCI存儲
+  本模組介紹如何計劃和實作Azure Stack HCI存儲。該模組詳細介紹了核心HCI存儲技術，並涵蓋了存儲QoS和存儲副本的特定範圍（在Azure Stack HCI的上下文中）。該模組描述了Azure Stack HCI存儲的規劃，實作和管理過程。
+  #### 課程
+  - Azure Stack HCI存儲核心技術概述
+  - 在Azure Stack HCI中直接規劃存儲空間
+  - 實作基於Storage Space Direct的超融合基礎結構
+  - 在Azure Stack HCI中直接管理存儲空間
+  - 規劃和實作存儲QoS
+  - 規劃和實作存儲副本
+
+  #### 實驗室&#58; 在超融合基礎結構上直接實作存儲空間
+  - 準備部署S2D叢集
+  - 使用Windows管理中心實作S2D叢集
+  - 使用Windows管理中心設定S2D叢集的存儲
+  - 使用Windows PowerShell實作和測試S2D叢集
+  - 管理和監視S2D叢集中的磁碟
+  - 管理和監視S2D叢集的復原
+  - 識別和分析S2D叢集的元資料
+  - 識別和設定S2D叢集層
+
+  完成本單元後，學生將能夠&#58;
+  - 描述Azure Stack HCI存儲核心技術。
+  - 在Azure Stack HCI中直接規劃存儲空間。
+  - 實作基於Directs的存儲空間超融合基礎結構。
+  - 在Azure Stack HCI中直接管理存儲空間。
+  - 規劃和實作存儲QoS。
+  - 規劃和實作存儲副本。
+
+
+  ### 模組 4&#58; 規劃和實作Azure Stack HCI網路
+  本模組描述了如何在Azure Stack HCI中規劃和實作軟體定義的網路。該模組重點介紹該技術及其基本功能，重點是Windows Admin Center作為主要的SDN管理工具。該模組還更詳細地介紹了Azure Stack HCI中可用的SDN的四個特定組件。交換機嵌入式團隊（SET），軟體負載平衡（SLB），資料中心防火牆和RAS閘道。
+  #### 課程
+  - Azure Stack HCI核心網路技術概述
+  - 網路虛擬化和SDN概述
+  - 規劃和實作Switch Embedded Teaming
+  - 規劃和實作軟體負載平衡
+  - 規劃和實作資料中心防火牆
+  - 規劃和實作RAS閘道
+
+  #### 實驗室&#58; 實驗室A&#58; 部署軟體定義的網路
+  - 使用PowerShell部署軟體定義的網路
+
+  #### 實驗室&#58; 實驗室B&#58; 在超融合基礎結構上實作軟體定義的網路
+  - 為SDN實驗室環境設定路由和管理
+  - 使用Windows管理中心和PowerShell管理虛擬網路
+  - 使用Windows管理中心實作SDN存取控制列表
+  - 使用PowerShell透過私有VIP實作SDN軟體負載平衡
+
+  完成本單元後，學生將能夠&#58;
+  - 描述Azure Stack HCI的核心軟體定義網路（SDN）組件。
+  - 在Azure Stack HCI的上下文中區分純軟體功能和純硬體功能。
+  - 描述簡化的SMB多通道和多NIC叢集網路的用例。
+  - 在Azure Stack HCI的上下文中描述網路虛擬化。
+  - 描述在Azure Stack HCI中部署SDN的過程。
+  - 規劃並實作SET。
+  - 描述SLB的功能和基礎結構，並實作SLB。
+  - 實作和設定資料中心防火牆。
+  - 實作、設定RAS閘道並進行疑難排解。
+

@@ -1,14 +1,13 @@
----
+﻿---
 title: 'Microsoft Learning Partners and Providers | Microsoft Docs'
 description: 'Microsoft Learning Partners and Providers'
 documentationcenter: NA
-author: micsullivan
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 06/02/2020
-ms.author: msulliv
-ms.prod: non-product-specific
+ms.author: micsullivan
 ---
 # Microsoft Learning Partners: 今天教授明天的技能。
 
@@ -18,7 +17,7 @@ ms.prod: non-product-specific
 
 ## 按國家/地區查找 Microsoft 學習合作夥伴
 
-我們的全球合作夥伴網路在 Microsoft 技術方面提供了靈活的基於角色的自定義培訓和認證。所有講師都是 Microsoft 認證的培訓師(MCT)，他們已經完成了嚴格的培訓，並且滿足嚴格的技術認證要求。
+我們的全球合作夥伴網路在 Microsoft 技術方面提供了靈活的基於角色的自定義培訓和認證。所有講師都是 Microsoft 認證的培訓師（MCT），他們已經完成了嚴格的培訓，並且滿足嚴格的技術認證要求。
 
 選擇一個國家：
 > [!div class="op_single_selector"]
@@ -191,7 +190,7 @@ ms.prod: non-product-specific
 
 | <a name="croatia"></a>克羅地亞 |
 |-----------|
-| [Algebra d.o.o. Maksimirska](http://thellpa.com/members/algebra/microsoft)</br>[Fast Lane CEE](https://www.fastlane.si/microsoft-training)</br>[Tech Data Corporation](https://academy.techdata.com/cz/vendor/microsoft/training/) |
+| [Algebra d.o.o.Maksimirska](http://thellpa.com/members/algebra/microsoft)</br>[Fast Lane CEE](https://www.fastlane.si/microsoft-training)</br>[Tech Data Corporation](https://academy.techdata.com/cz/vendor/microsoft/training/) |
 
 | <a name="czech-republic"></a>捷克共和國 |
 |-----------|
@@ -231,7 +230,7 @@ ms.prod: non-product-specific
 
 | <a name="greece"></a>希臘 |
 |-----------|
-| [I.C.T.C. EPE](http://www.ictc.gr/microsoft/)</br>[Infolab](http://thellpa.com/members/infolab/microsoft)</br>[Tech Data Corporation](https://academy.techdata.com/it/vendor/microsoft/training/) |
+| [I.C.T.C.EPE](http://www.ictc.gr/microsoft/)</br>[Infolab](http://thellpa.com/members/infolab/microsoft)</br>[Tech Data Corporation](https://academy.techdata.com/it/vendor/microsoft/training/) |
 
 | <a name="hong-kong"></a>香港 |
 |-----------|
@@ -251,7 +250,7 @@ ms.prod: non-product-specific
 
 | <a name="indonesia"></a>印度尼西亞 |
 |-----------|
-| [ASABA COMPUTER CENTRE, PT](http://www.asaba.co.id/services)</br>[EBIZ INFOTAMA INTERINDO, PT](https://ebiz.co.id/it-solution/microsoft-services)</br>[INIXINDO PERSADA REKAYASA PT](https://www.inixindo.co.id/index.php/microsoft-certification)</br>[IVERSON TECHNOLOGY](https://learning.iverson.co.id/stream/microsoft)</br>[PT. ACTIVINDO SYSTEM INFORMATIKA](https://activetrain.net/training-dan-sertifikasi-microsoft/)</br>[PT ExecuTrain Nusantarajaya](https://www.executrain.co.id/microsoftcertificationroadmap)</br>[PT Mitra Integrasi Informatika](http://www.metrodata-training.com/training-category/1/microsoft/#training)</br>[PT SARANA SOLUSINDO INFORMATIKA](https://www.solusitraining.com/microsoft-official-courses-demand/#)</br>[PT Triutama Sistem Indonesia](http://trusttrain.com/Training.html)</br>[Trainocate Indonesia](https://trainocate.com/courses/Microsoft) |
+| [ASABA COMPUTER CENTRE, PT](http://www.asaba.co.id/services)</br>[EBIZ INFOTAMA INTERINDO, PT](https://ebiz.co.id/it-solution/microsoft-services)</br>[INIXINDO PERSADA REKAYASA PT](https://www.inixindo.co.id/index.php/microsoft-certification)</br>[IVERSON TECHNOLOGY](https://learning.iverson.co.id/stream/microsoft)</br>[PT.ACTIVINDO SYSTEM INFORMATIKA](https://activetrain.net/training-dan-sertifikasi-microsoft/)</br>[PT ExecuTrain Nusantarajaya](https://www.executrain.co.id/microsoftcertificationroadmap)</br>[PT Mitra Integrasi Informatika](http://www.metrodata-training.com/training-category/1/microsoft/#training)</br>[PT SARANA SOLUSINDO INFORMATIKA](https://www.solusitraining.com/microsoft-official-courses-demand/#)</br>[PT Triutama Sistem Indonesia](http://trusttrain.com/Training.html)</br>[Trainocate Indonesia](https://trainocate.com/courses/Microsoft) |
 
 | <a name="ireland"></a>愛爾蘭 |
 |-----------|
@@ -445,18 +444,20 @@ ms.prod: non-product-specific
 |-----------|
 | [SMACLINK ACADEMY](https://smaclink.com/category/khoa-dao-tao/theo-hang-cong-nghe/microsoft/)   </br>[Trainocate](https://trainocate.com/courses/Microsoft) |
 
+
 ## 探索1000多家解決方案提供商
 
 > [!div class="nextstepaction"]
 > [查找微軟解決方案提供商](https://www.microsoft.com/en-us/solution-providers/search?cacheId=6b7c41ec-9246-4196-9541-7a4427a37f97)
 
+
 ## IT 專業人員和開發人員的優勢
 
-**學習新技術** 透過一門課程，您可以開發涵蓋技術採用生命週期的實用技能 - 從規劃到支援。而且您獲得的能力程度只能透過實地演練實驗室，模擬和實際應用技能進行教學。</br ></br> **準備認證** [Microsoft 認證](https://www.microsoft.com/learning/certification-overview.aspx) 適用於 Microsoft 的核心技術和技能水準。Microsoft 官方訓練課程考慮到 Microsoft 認證，並由合格的產業老師講授。</br ></br> **開始一個新的職業。** 教授 Microsoft 官方課程的產業導師可以幫助您獲得直接從課堂轉移到工作場所的IT技能。課程提供寶貴的數位資源，在您完成課程後，您仍然可以使用這些資源。</br ></br> 過去一年接受過IT或與企業相關訓練的專業人員平均比那些未接受過IT訓練的專業人員多賺了3400美元。(Global Knowledge, *IT Skills and Salary Survey*, 2011年3月)
+**學習新技術**透過一門課程，您可以開發涵蓋技術採用生命週期的實用技能 - 從規劃到支援。而且您獲得的能力程度只能透過實地演練實驗室，模擬和實際應用技能進行教學。</br ></br> **準備認證**[Microsoft 認證](https://www.microsoft.com/learning/certification-overview.aspx) 適用於 Microsoft 的核心技術和技能水準。Microsoft 官方訓練課程考慮到 Microsoft 認證，並由合格的產業老師講授。</br ></br>**開始一個新的職業。** 教授 Microsoft 官方課程的產業導師可以幫助您獲得直接從課堂轉移到工作場所的IT技能。課程提供寶貴的數位資源，在您完成課程後，您仍然可以使用這些資源。</br ></br> 過去一年接受過IT或與企業相關訓練的專業人員平均比那些未接受過IT訓練的專業人員多賺了3400美元。(Global Knowledge, *IT Skills and Salary Survey*, 2011年3月)
 
 ## IT 經理的好處
 
-**提高效率和生產力。** Microsoft Learning Partners可以幫助您充分利用貴組織的技術投資。您的員工可以從課堂訓練或隨選 Microsoft 官方課程提升 Microsoft 技術的熟悉度。</br ></br> **準備部署。** 透過 Microsoft 學習合作夥伴提供的熟練訓練可幫助企業加速新的 Microsoft 技術部署，並減少停機時間。研究顯示40％的操作時的停機是由於操作人員的錯誤造成的，這是由於核心系統缺乏訓練。(安徒生，庫欣。“訓練對網路管理的影響：認證導致營運生產力”。IDC 研究。據“網路世界”雜誌的 Linda Musthaler 報導，2009 年 11 月 25 日) </br ></br> **員工發展、招聘和保留。** 訓練和認證是衡量團隊成員如何使用特定技術、硬體和軟體的有效方法。</br ></br> 百分之六十的技術管理人員表示，規劃大型IT基礎設施專案時遇到的最大挑戰之一是在需要的時候能找到具備必要能力的專業人員。(TEKsystems/CIO Custom Solutions Group, *IT Workforce Planning Trends*, June 2011)
+**提高效率和生產力。** Microsoft Learning Partners可以幫助您充分利用貴組織的技術投資。您的員工可以從課堂訓練或隨選 Microsoft 官方課程提升 Microsoft 技術的熟悉度。</br ></br> **準備部署。** 透過 Microsoft 學習合作夥伴提供的熟練訓練可幫助企業加速新的 Microsoft 技術部署，並減少停機時間。研究顯示40％的操作時的停機是由於操作人員的錯誤造成的，這是由於核心系統缺乏訓練。（安徒生，庫欣。“訓練對網路管理的影響：認證導致營運生產力”。IDC 研究。據“網路世界”雜誌的 Linda Musthaler 報導，2009 年 11 月 25 日） </br ></br> **員工發展、招聘和保留。** 訓練和認證是衡量團隊成員如何使用特定技術、硬體和軟體的有效方法。</br ></br> 百分之六十的技術管理人員表示，規劃大型IT基礎設施專案時遇到的最大挑戰之一是在需要的時候能找到具備必要能力的專業人員。(TEKsystems/CIO Custom Solutions Group, *IT Workforce Planning Trends*, June 2011)
 
 ## 成為 Microsoft 學習合作夥伴
 

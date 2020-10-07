@@ -1,15 +1,15 @@
-### YamlMime:Role 
-title: 開發人員 
+﻿### YamlMime:Role 
+title: Developer [開發人員] 
 metadata: 
-  title: 開發人員 
-  description: 開發人員設計、組建、測試和維護解決方案。開發人員透過與解決方案架構師和客戶合作、來實作應用程式和服務。
+  title: Developer [開發人員] 
+  description: 開發人員設計，組建，測試和維護解決方案。開發人員透過與解決方案架構師和客戶合作，來實作應用程式和服務。
 uid: role.developer 
 summary: | 
-  開發人員設計、組建、測試和維護解決方案。開發人員透過與解決方案架構師和客戶合作、來實作應用程式和服務。  
+  開發人員設計，組建，測試和維護解決方案。開發人員透過與解決方案架構師和客戶合作，來實作應用程式和服務。 
 subTitle: 開發人員設計、組建、測試和維護雲解決方案。
 certificationPaths: 
-- title: Azure 開發人員
-  linkedInKeywords: Azure 開發人員
+- title: Azure Developer
+  linkedInKeywords: Azure Developer
   uid: certification-path.developer 
   prerequisites: 
   - uid: certification.azure-fundamentals
@@ -19,8 +19,8 @@ certificationPaths:
   - uid: certification.azure-developer
     levels:
     - intermediate 
-- title: Dynamics 365 財務與營運 APP 開發人員
-  linkedInKeywords: Dynamics 365 財務與營運 APP 開發人員
+- title: Dynamics 365 Finance and Operations Apps Developer [Dynamics 365 財務與營運 APP 開發人員]
+  linkedInKeywords: Dynamics 365 Finance and Operations Apps Developer [Dynamics 365 財務與營運 APP 開發人員]
   uid: certification.d365-finance-and-operations-apps-developer-associate
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -55,7 +55,7 @@ certificationPaths:
 certifications:
 - uid: certification.azure-developer
   requiredExams:
-  - uid: exam.az-203
+  - uid: exam.az-204
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   requiredExams:
   - uid: exam.mb-300
@@ -65,14 +65,20 @@ certifications:
   - uid: exam.ms-600
 - uid: certification.power-apps-and-d365-developer-associate
   requiredExams:
-  - uid: exam.pl-900
+  - uid: exam.mb-400
+- uid: certification.power-platform-developer-associate
+  requiredExams:
+  - uid: exam.pl-400
+- uid: certification.azure-iot-developer-specialty
+  requiredExams:
+  - uid: exam.az-220
 resources:
 - title: Microsoft 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 訓練和認證海報
   description: 透過此訓練和認證海報選取您的成功路徑。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 支持認證
+- title: 支援認證
   href: ../help.md
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
