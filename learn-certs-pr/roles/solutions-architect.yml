@@ -1,7 +1,7 @@
-### YamlMime:Role 
-title: Azure 解決方案架構師 
+﻿### YamlMime:Role 
+title: Solutions Architect [解決方案架構師] 
 metadata: 
-  title: Azure 解決方案架構師 
+  title: Solutions Architect [解決方案架構師]
   description: 解決方案架構師擁有計算、網路、儲存和安全性方面的專業知識。 
 uid: role.solution-architect  
 summary: | 
@@ -19,8 +19,8 @@ certificationPaths:
   - uid: certification.azure-solutions-architect
     levels:
     - advanced    
-- title: Dynamics 365 財務與營運 APP 解決方案架構師
-  linkedInKeywords: Dynamics 365 財務與營運 APP 解決方案架構師
+- title: Dynamics 365 Finance and Operations Apps Solution Architect [Dynamics 365 財務與營運 APP 解決方案架構師]
+  linkedInKeywords: Dynamics 365 Finance and Operations Apps Solution Architect [Dynamics 365 財務與營運 APP 解決方案架構師]
   uid: certification.d365-finance-and-operations-apps-solution-architect-expert
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -42,8 +42,8 @@ certificationPaths:
   - uid: certification.d365-finance-and-operations-apps-solution-architect-expert
     levels:
     - advanced  
-- title: Power Apps + Dynamics 365 解決方案架構師
-  linkedInKeywords: Power Apps + Dynamics 365 解決方案架構師
+- title: Power Apps + Dynamics 365 Solution Architect [Power Apps + Dynamics 365 解決方案架構師]
+  linkedInKeywords: Power Apps + Dynamics 365 Solution Architect [Power Apps + Dynamics 365 解決方案架構師]
   uid: certification.power-apps-and-d365-solution-architect-expert
   prerequisites: 
   - uid: certification.power-platform-fundamentals
@@ -56,7 +56,7 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-sales
     levels:
     - intermediate
-    - uid: certification.d365-functional-consultant-marketing
+  - uid: certification.d365-functional-consultant-marketing
     levels:
     - intermediate
   - uid: certification.d365-functional-consultant-customer-service
@@ -71,21 +71,24 @@ certificationPaths:
 certifications:
 - uid: certification.azure-solutions-architect
   requiredExams:
-  - uid: exam.az-300
-  - uid: exam.az-301
+  - uid: exam.az-303
+  - uid: exam.az-304
 - uid: certification.d365-finance-and-operations-apps-solution-architect-expert
   requiredExams:
   - uid: exam.mb-700
 - uid: certification.power-apps-and-d365-solution-architect-expert
   requiredExams:
   - uid: exam.mb-600
+- uid: certification.azure-for-sap-workloads-specialty
+  requiredExams:
+  - uid: exam.az-120
 resources:
 - title: Microsoft 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 訓練和認證海報
   description: 透過此訓練和認證海報選取您的成功路徑。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 支持認證
+- title: 支援認證
   href: ../help.md
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。

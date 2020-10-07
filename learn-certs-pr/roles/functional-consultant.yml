@@ -1,15 +1,15 @@
-### YamlMime:Role 
-title: 功能顧問
+﻿### YamlMime:Role 
+title: Functional Consultant [功能顧問] 
 metadata: 
-  title: 功能顧問
-  description: 功能顧問利用 Microsoft Dynamics 365 來預測和規劃客戶需求。 
+  title: Functional Consultant [功能顧問] 
+  description: 功能顧問利用Microsoft Dynamics 365和Microsoft Power Platform來預測和計劃客戶需求。 
 uid: role.functional-consultant 
 summary: | 
-  功能顧問利用 Microsoft Dynamics 365 來預測和規劃客戶需求。
-subTitle: 功能顧問利用 Microsoft Dynamics 365 來預測和規劃客戶需求。
+  功能顧問利用Microsoft Dynamics 365和Microsoft Power Platform來預測和計劃客戶需求。
+subTitle: 功能顧問利用Microsoft Dynamics 365和Microsoft Power Platform來預測和計劃客戶需求。
 certificationPaths: 
-- title: Dynamics 365 客戶服務功能顧問
-  linkedInKeywords: Dynamics 365 客戶服務功能顧問
+- title: Dynamics 365 Customer Service Functional Consultant [Dynamics 365 客戶服務功能顧問]
+  linkedInKeywords: Dynamics 365 Customer Service Functional Consultant [Dynamics 365 客戶服務功能顧問]
   uid: certification-path.d365-functional-consultant-customer-service 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -20,8 +20,8 @@ certificationPaths:
     levels:
     - intermediate
     
-- title: Dynamics 365 現場服務功能顧問
-  linkedInKeywords: Dynamics 365 現場服務功能顧問
+- title: Dynamics 365 Field Service Functional Consultant [Dynamics 365 現場服務功能顧問]
+  linkedInKeywords: Dynamics 365 Field Service Functional Consultant [Dynamics 365 現場服務功能顧問]
   uid: certification-path.d365-functional-consultant-field-service 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -32,8 +32,8 @@ certificationPaths:
     levels:
     - intermediate
 
-- title: Dynamics 365 財務功能顧問
-  linkedInKeywords: Dynamics 365 財務功能顧問
+- title: Dynamics 365 Finance Functional Consultant [Dynamics 365 財務功能顧問]
+  linkedInKeywords: Dynamics 365 Finance Functional Consultant [Dynamics 365 財務功能顧問]
   uid: certification-path.d365-functional-consultant-financials 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -45,8 +45,8 @@ certificationPaths:
     - intermediate
 
 
-- title: Dynamics 365 製造業功能顧問
-  linkedInKeywords: Dynamics 365 製造業功能顧問
+- title: Dynamics 365 Manufacturing Functional Consultant [Dynamics 365 製造業功能顧問]
+  linkedInKeywords: Dynamics 365 Manufacturing Functional Consultant [Dynamics 365 製造業功能顧問]
   uid: certification-path.d365-functional-consultant-manufacturing
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -57,8 +57,8 @@ certificationPaths:
     levels:
     - intermediate
 
-- title: Dynamics 365 行銷功能顧問
-  linkedInKeywords: Dynamics 365 行銷功能顧問
+- title: Dynamics 365 Marketing Functional Consultant [Dynamics 365 行銷功能顧問]
+  linkedInKeywords: Dynamics 365 Marketing Functional Consultant [Dynamics 365 行銷功能顧問]
   uid: certification-path.d365-functional-consultant-marketing 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -69,8 +69,8 @@ certificationPaths:
     levels:
     - intermediate
 
-- title: Dynamics 365 銷售功能顧問
-  linkedInKeywords: Dynamics 365 銷售功能顧問
+- title: Dynamics 365 Sales Functional Consultant [Dynamics 365 銷售功能顧問]
+  linkedInKeywords: Dynamics 365 Sales Functional Consultant [Dynamics 365 銷售功能顧問]
   uid: certification-path.d365-functional-consultant-sales 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -81,8 +81,8 @@ certificationPaths:
     levels:
     - intermediate
 
-- title: Dynamics 365 供應鏈管理功能顧問
-  linkedInKeywords: Dynamics 365 供應鏈管理功能顧問
+- title: Dynamics 365 Supply Chain Management Functional Consultant [Dynamics 365 供應鏈管理功能顧問]
+  linkedInKeywords: Dynamics 365 Supply Chain Management Functional Consultant [Dynamics 365 供應鏈管理功能顧問]
   uid: certification-path.d365-functional-consultant-supply-chain-management
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -129,13 +129,19 @@ certifications:
   requiredExams:
   - uid: exam.mb-300
   - uid: exam.mb-330  
+- uid: certification.power-platform-functional-consultant-associate
+  requiredExams:
+  - uid: exam.pl-200  
+- uid: certification.d365-business-central-functional-consultant-associate
+  requiredExams:
+  - uid: exam.mb-800
 resources:
 - title: Microsoft 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 訓練和認證海報
   description: 透過此訓練和認證海報選取您的成功路徑。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 支持認證
+- title: 支援認證
   href: ../help.md
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。

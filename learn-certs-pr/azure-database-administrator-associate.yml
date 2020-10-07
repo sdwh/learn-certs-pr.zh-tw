@@ -6,7 +6,7 @@ metadata:
 uid: certification.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
   Azure 資料庫管理員實作和管理建立在 Microsoft Azure 資料服務和 Microsoft SQL Server 的雲原生和混合式資料平台解決方案的可作業層面。Azure 資料庫管理員使用各種方法和工具來執行日常操作，包括套用有關使用行政管理目的的 T-SQL 知識。
 subTitle: Azure 資料庫管理員實作和管理建立在 Microsoft Azure 資料服務和 Microsoft SQL Server 的雲原生和混合式資料平台解決方案的可作業層面。
@@ -18,7 +18,7 @@ skills:
 - 監視和最佳化可作業資源
 - 優化查詢性能
 - 執行工作自動化
-- 規劃並實作高可用性和災害復原(HADR)環境
+- 規劃並實作高可用性和災害復原（HADR）環境
 - 使用T-SQL執行管理
 roles:
 - database-administrator

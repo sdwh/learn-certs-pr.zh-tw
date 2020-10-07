@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: 'First Look Clinic: Windows 10 for IT Professionals'
+metadata:
+  title: 'Course 40336-A: First Look Clinic: Windows 10 for IT Professionals'
+  description: 'Course 40336-A: First Look Clinic: Windows 10 for IT Professionals'
+uid: course.40336
+courseNumber: '40336-A'
+hoursToComplete: 12
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 列出並解釋Windows 10的新功能。
+- skill: 列出現在可用的功能及其所在版本。
+- skill: 在Windows10中使用和自定義新用戶界面
+- skill: 描述部署和管理Windows 10所需的准備工作
+- skill: 了解部署選擇
+- skill: 了解管理選項
+- skill: 了解Windows 10的總體安全功能
+- skill: 列出設備保護（Device Guard）的功能
+- skill: 了解部署設備保護（Device Guard）的方法
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows
+summary: |-
+  這個Microsoft First Look Clinic（微軟搶先看診所）使用Windows 10企業版向IT專業人士介紹Windows 10的新特性和功能。它還涵蓋身份管理、雲服務（如Azure Active Directory ，AAD）、部署/管理工具和新的用戶界面等關鍵的windows 10生態系統。本Clinic沒有深入討論任何主題，但學生們將在離開本Clinic時了解到Windows 10的新特性和功能以及相關的服務和管理工具。
+
+  #### 觀衆概況
+  這個Clinic是爲那些有興趣學習Windows 10的新特性和功能的IT專業人士設計的。壹般來說，新技術的采用者或希望盡早了解windows 10功能及相關雲服務和工具的人，將受益于參加這個First Look Clinic。IT組織中的關鍵技術影響者和技術決策者也可以參加這個Clinic，因爲他們可以從搶先了解到的Windows 10包含的壹些最新功能和技術中獲益。
+outlineSection: |-
+  ### 模塊 1&#58; Windows 10簡介
+  Windows 10是Windows客戶端操作系統的最新版本。它包括了與windows 8.1相同的核心功能，以及含有壹些影響企業環境的重要增強和功能改進，特別是在安全方面。windows 10的設計滿足了廣泛的計算需求，並使用戶能夠高效地執行任務。本模塊將向您介紹Windows 10的壹些主要新功能。
+  #### 課程
+  - Windows 10的新功能
+  - Windows 10最初版本中沒有的功能
+  - 探索Windows 10的新用戶界面（UI）
+  - Windows 10桌面版和平板電腦版
+  - Windows 10的硬件要求
+
+  完成本課程後，您將能夠&#58;
+  - 列出並解釋Windows 10的新功能。
+  - 列出現在可用的功能及其所在版本。
+  - 使用windows 10的新用戶界面。
+  - 列出並描述可以運行Windows 10的設備。
+  - 列出Windows 10的硬件要求。
+  - 解釋各種Windows 10版本
+
+
+  ### 模塊 2&#58; Windows 10的部署和管理
+  評估企業的部署需求，首先要了解其硬件和基礎設施環境，並確定硬件是否能夠支持Windows 10，以及Windows 10中對于企業來說重要的功能。在大多數情況下，遷移到Windows10是非常直接的，只需要對企業現有的部署進行最小的更新，盡管現在有更多的選擇。我們建議的策略是將windows 10作爲基礎平台，然後以Windows作爲服務，提供新的功能。如前所述，遷移到Windows 10不會像從Windows XP升級到Windows 7那樣昂貴和耗時。在大多數情況下，硬件和軟件都將與Windows 10兼容。在本模塊中，我們將看壹看如何使用管理和部署工具的功能來進行演化升級。
+  #### 課程
+  - 部署Windows 10
+  - Windows 10配置
+  - 管理Windows 10
+  - 支持Windows 10
+
+  完成本模塊後，您將能夠&#58;
+  - 描述部署和管理Windows 10所需的准備工作
+  - 了解部署選擇
+  - 了解管理選項
+
+
+  ### 模塊 3&#58; Windows 10的安全功能
+  Windows 10旨在保護您免受現代安全威脅，我們圍繞以下幾個支柱組織了我們的工作&#58; 安全設備/硬件、安全身份、信息保護和抵禦威脅。
+
+  在這個模塊中，我們將概述Windows10的安全功能，然後深入了解設備保護（Device Guard）的各個方面。
+  #### 課程
+  - Windows 10安全概述
+  - 設備保護概述
+  - 可配置的代碼完整性
+  - 爲設備保護做計劃
+  - 設備保護目錄文件
+  - 使用設備保護
+
+  完成本模塊後，您將能夠&#58;
+  - 了解Windows 10的總體安全功能
+  - 了解設備保護的功能
+

@@ -1,0 +1,216 @@
+### YamlMime:Course
+title: Windows Server 2019 Hybrid and Azure IaaS
+metadata:
+  title: 'Course WS-012T00-A: Windows Server 2019 Hybrid and Azure IaaS'
+  description: 'Course WS-012T00-A: Windows Server 2019 Hybrid and Azure IaaS'
+uid: course.ws-012t00
+courseNumber: 'WS-012T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述Azure IaaS的基本原理，包括計算、存儲和網路。
+- skill: 確定用於實作混合解決方案的工具，包括Windows Admin Center和PowerShell。
+- skill: 在混合式案例中實作身份，包括Azure IaaS上的AD DS和受控AD DS。
+- skill: 將AD DS與Azure AD整合。
+- skill: 使用WAC，Azure Arc，Azure自動化和Azure Monitor管理和監視混合式案例。
+- skill: 使用Azure安全中心，Azure Sentinel和Windows更新管理增強混合安全性。
+- skill: 使用Azure檔案和Azure檔案同步在混合式案例中實作檔案服務。
+- skill: 規劃和實作混合和僅雲端的遷移、備份和恢復方案。
+- skill: 部署運行Windows Server 2019的Azure VM，並設定網路，存儲和安全性。
+- skill: 管理和維護運行Windows Server 2019的Azure VM。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+summary: |-
+  此為期三天的課程主要面向具有管理內部Windows Server環境的經驗的IT專業人員。其目的是為專業人員提供規劃，實作和管理環境的準備，這些環境包括Azure IaaS受控的基於Windows Server的工作負載。該課程涵蓋如何利用Azure的混合功能，如何將虛擬和物理伺服器工作負載遷移到Azure IaaS以及如何管理和保護運行Windows Server 2019的Azure VM。
+
+  #### 對象設定檔
+  這個為期三天的課程主要面向Windows Server管理員和系統工程師，為從內部環境過渡到混合環境和純雲端環境做準備。其次，本課程將使任何涉及針對Microsoft Azure IaaS工作負載的管理和操作任務的角色受益。
+prerequisitesSection: |-
+  - 具有在內部方案中管理Windows Server操作系統和Windows Server工作負載的經驗，包括AD DS、DNS、DFS、Hyper-V以及檔案和存儲服務
+  - 具有通用Windows Server管理工具的經驗（由第一個前提條件暗示）。
+  - 有關Microsoft核心計算、存儲、網路和虛擬化技術的基本知識（由第一個前提條件暗示）。
+  - 有關內部復原的基本知識，基於Windows Server的計算和存儲技術（容錯移轉叢集、存儲空間）。
+  - 在Microsoft Azure中實作和管理IaaS服務的基本經驗。
+  - Azure Active Directory的基本知識。
+  - 基本瞭解與安全相關的技術（防火牆、加密、多因素身份驗證，SIEM/SOAR）。
+  - PowerShell腳本編寫的基本知識。
+
+  對與Windows Server技術相關的以下概念的理解&#58;
+  - 高可用性和災難恢復
+  - 自動化
+  - 監控
+outlineSection: |-
+  ### 模組 1&#58; Windows Server 2019引入Azure混合IaaS
+  本模組描述Azure IaaS的原理（計算、存儲和網路），以及將內部環境與Azure和Azure AD整合的方法（網路、檔案服務、管理、監視、備份和災難恢復以及身份）。該模組還引入了混合管理工具（Windows管理中心、Azure入口、PowerShell和Azure CLI）。作為入門模組，這些主題中的大多數將在本課程的後面部分進行更深入的介紹。此外，該模組不涵蓋Windows Server 2019技術之外的主題，這些主題從混合整合的角度來看都是相關的。
+  #### 課程
+  - Azure IaaS概述
+  - Azure混合模型概述
+  - 使用混合管理工具
+
+  完成本單元後，學生將能夠&#58;
+  - 描述Azure IaaS的基本原理，包括計算、存儲和網路。
+  - 確定用於實作混合解決方案的工具，包括Windows Admin Center和PowerShell。
+
+
+  ### 模組 2&#58; 在混合式案例中實作身份
+  本模組介紹了在混合式案例中整合身份管理和身份驗證的三種主要方法。 Azure VM上的AD DS，與Azure Active Directory整合的AD DS和Azure AD DS）。
+  #### 課程
+  - 在Azure IaaS上實作AD DS
+  - 將AD DS與Azure AD整合
+  - 實作受控的AD DS環境
+
+  #### 實驗室&#58; 在AD DS和Azure AD之間實作整合
+  - 準備Azure AD與AD DS整合
+  - 準備內部AD DS以與Azure AD整合
+  - 下載、安裝和設定Azure AD Connect
+  - 驗證AD DS和Azure AD之間的整合
+  - 在AD DS中實作Azure AD整合功能
+
+  完成本單元後，學生將能夠&#58;
+  - 在Azure IaaS上實作AD DS。
+  - 將AD DS與Azure AD整合。
+  - 實作受控的AD DS。
+
+
+  ### 模組 3&#58; 在混合場景中促進混合管理和操作監控
+  本模組重點介紹了有助於混合管理和操作監控的工具（與安全相關的監控分開，在模塊4中進行了介紹），包括Windows Admin Center、Azure Arc、Azure Automation和Azure Monitor。
+  #### 課程
+  - Windows管理中心
+  - 天藍色弧
+  - Azure 監視器
+  - Azure 自動化
+
+  #### 實驗室&#58; 在混合式案例中使用Windows管理中心
+  - 設置運行Windows Server 2019的Azure VM
+  - 透過Azure網路配接器測試混合連接
+  - 在Azure中部署Windows管理中心閘道
+  - 在Azure中驗證Windows Admin Center閘道的功能
+
+  完成本單元後，學生將能夠&#58;
+  - 描述、部署和設定Windows管理中心。
+  - 描述和實作Azure Arc。
+  - 描述和管理Azure Monitor。
+  - 實作服務圖。
+  - 將Azure Monitor與Operations Manager整合。
+
+
+  ### 模組 4&#58; 在混合式案例中實作安全解決方案
+  本模塊介紹增強混合安全性的主要技術和服務，包括用於Windows Update Management的Azure安全中心，Azure Sentinel和基於Azure Monitor/Azure Automation的解決方案。
+  #### 課程
+  - Azure安全中心
+  - Azure Sentinel
+  - 管理Windows更新
+
+  #### 實驗室&#58; 在混合式案例中使用Azure安全中心
+  - 設置運行Windows Server 2019的Azure VM
+  - 設定Azure安全中心
+  - 將內部Windows Server 2019引入Azure安全中心
+  - 驗證Azure安全中心的混合功能
+
+  完成本單元後，學生將能夠&#58;
+  - 描述Azure安全中心並在混合環境中啟用它。
+  - 描述Azure Sentinel並實作SIEM功能。
+  - 在Azure Sentinel中實作SOAR解決方案。
+  - 在Azure自動化中實作更新管理解決方案。
+
+
+  ### 模組 5&#58; 在混合式案例中實作檔案服務
+  本模組介紹如何利用Azure檔案服務替換或增強內部Windows檔案伺服器。該模組涵蓋實作Azure檔案和Azure檔案同步。
+  #### 課程
+  - 實作Azure檔案
+  - 實作Azure檔案同步
+
+  #### 實驗室&#58; 實作Azure檔案同步
+  - 在內部環境中實作DFS複製
+  - 創建和設定同步組
+  - 將DFS複製替換為基於檔案同步的複制
+  - 驗證複製並啟用雲端分層
+  - 對複制問題進行疑難排解
+
+  完成本單元後，學生將能夠&#58;
+  - 對複制問題進行疑難排解
+  - 描述和實作Azure檔案同步。
+  - 管理雲端分層。
+  - 從DFSR遷移到Azure檔案同步。
+
+
+  ### 模組 6&#58; 部署和設定Azure VM
+  他的模組描述瞭如何部署和設定運行Windows Server 2019的Azure VM。該模組介紹如何設定Azure VM網路、存儲和安全性。
+  #### 課程
+  - 部署Azure VM
+  - 設定Azure VM網路
+  - 設定Azure VM存儲
+  - 設定Azure VM安全
+
+  #### 實驗室&#58; 在Azure VM上部署和設定Windows Server 2019
+  - 編寫用於Azure VM部署的ARM模板
+  - 修改ARM模板以包括基於VM延伸模組的設定
+  - 使用ARM模板部署運行Windows Server 2019的Azure VM
+  - 設定對運行Windows Server 2019的Azure VM的管理存取權限
+  - 在Azure VM中設定Windows Server 2019安全性
+
+  完成本單元後，學生將能夠&#58;
+  - 實作Azure VM平台級的復原。
+  - 在Azure VM中實作Windows Server 2019操作系統級的復原。
+  - 為Windows Server 2019實作Azure VM延伸模組。
+  - 設定和優化Azure VM網路。
+  - 設定Azure VM磁碟。
+  - 擴展Azure VM存儲
+
+
+  ### 模組 7&#58; 管理和維護Azure VM
+  本模塊介紹瞭如何管理和維護運行Windows Server 2019的Azure VM。該模塊介紹了用於管理和維護Azure VM的工具，包括Windows管理中心，透過Cloud Shell進行PowerShell遠程處理，運行命令，串行控制台以及透過來賓設定延伸模組的Azyure警察。
+  #### 課程
+  - 管理運行Windows Server 2019的Azure VM
+  - 維護運行Windows Server 2019的Azure VM
+
+  #### 實驗室&#58; 管理運行Windows Server 2019的Azure VM
+  - 設置運行Windows Server 2019的Azure VM
+  - 使用Windows管理中心在Azure VM中管理Windows Server 2019
+  - 使用PowerShell Remoting從Cloud Shell在Azure VM中管理Windows Server 2019
+  - 使用運行命令在Azure VM中管理Windows Server 2019
+  - 使用運行命令在Azure VM中管理Windows Server 2019
+  - 透過來賓設定延伸模組使用Azure策略在Azure VM中管理Windows Server 2019
+
+  完成本單元後，學生將能夠&#58;
+  - 在Azure VM中管理Windows Server 2019。
+  - 實作Azure策略。
+  - 維護Windows更新。
+  - 描述Azure VM級和磁碟級備份和還原。
+  - 維護Azure VM的可用性。
+
+
+  ### 模組 8&#58; 在混合式案例中規劃和實作遷移和恢復服務
+  本模塊描述瞭如何利用Windows Server 2019和Azure服務來計劃和實作混合和僅雲端的遷移、備份和恢復方案。這些服務包括Azure遷移，存儲遷移服務，Azure備份，Azure站點恢復和存儲副本。
+  #### 課程
+  - Azure遷移
+  - 存儲遷移伺服器
+  - Azure網站恢復
+  - 存儲副本
+  - Azure備份
+
+  #### 實驗室&#58; 實作基於Azure的恢復服務
+  - 設置運行Windows Server 2019的Azure VM
+  - 實作Azure網站恢復
+  - 實作Azure備份
+
+  #### 實驗室&#58; 測試基於Azure的恢復服務
+  - 測試基於Azure備份的備份和還原
+  - 測試Azure Site Recovery容錯移轉
+
+  完成本單元後，學生將能夠&#58;
+  - 透過使用Azure遷移來遷移Windows Server工作負載。
+  - 描述存儲遷移服務，並確定適當的使用場景。
+  - 說明Azure網站恢復如何幫助業務連續性和災難恢復。
+  - 使用Azure Site Recovery將Windows伺服器遷移到Azure。
+  - 描述存儲副本及其使用的適當方案。
+  - 透過使用存儲副本將存儲複製到Azure VM。
+  - 使用Azure備份來備份內部工作負載。
+

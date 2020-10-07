@@ -1,4 +1,4 @@
----
+﻿---
 title: 關於 Microsoft Certification 測驗 | Microsoft Docs
 description: 關於 Microsoft Certification 測驗 
 documentationcenter: NA 
@@ -48,7 +48,6 @@ Microsoft Certification 可協助您從職涯的起點邁向高峰。認證能�
 為保護測驗安全與認證價值，我們並不會在測驗前指出測驗會採取何種測驗形式或題型。Microsoft 會持續納入新穎的測驗技術與題型，並保留隨時整合至測驗內容而不事先通知的權利。測驗可能包含下列任一項目：
 
 ### 測驗與問題範例
-
 #### 啟用畫面題 (0:44)
 
 <div>
@@ -148,7 +147,7 @@ Microsoft Certification 可協助您從職涯的起點邁向高峰。認證能�
 
 ## 測驗發展
 
-Microsoft  Certification 測驗經過嚴謹的研擬過程，並採納來自業界專業人士的意見，藉以反映 Microsoft 產品在全球各地之組織的使用概況。
+Microsoft Certification 測驗經過嚴謹的研擬過程，並採納來自業界專業人士的意見，藉以反映 Microsoft 產品在全球各地之組織的使用概況。
 
 1. 定義技能領域。
 專家會確定在利用 Microsoft 技術和解決方案的特定工作角色或職能中執行的關鍵任務。
@@ -172,7 +171,7 @@ Beta 測驗的結果還將進行如困難度、高低程度辨別力及可信度
 群專家會與 Microsoft 心理計量員共同合作來決定合格分數。此分數的評斷依據包括：與測驗所包含之問題的困難度有關，且經認可為在該技能領域具備足夠能力所需擁有的技能。
 
 8. 該測驗在全球範圍均可獲取。
-獨立的測驗辦理單位管理認證測驗。該測驗可在全球的測驗中心或透過線上指導進行(線上指導目前不適用於學術交付)。
+獨立的測驗辦理單位管理認證測驗。該測驗可在全球的測驗中心或透過線上指導進行（線上指導目前不適用於學術交付）。
 
 9. 維持/維護測驗的長期有效性。
 在測驗的整個有效期限內，Microsoft 會一直監視其計量效能，以確保它們能持續有效並能對相關技術領域進行可靠的測量。無法繼續進行計量測試的問題將被移除，出於對因為計量原因或技術改變原因而被移除掉的項目進行替換或者增加特征和功能的目的，新的項目將被添加上。
@@ -184,11 +183,11 @@ Beta 測驗是測驗研擬流程的關鍵。透過參與 Beta 形式的測驗，
 
 ### 如何參加
 
-Microsoft Beta 測驗提供 80％ 的折扣(需提供優惠碼)。參加測驗的應試者在重新計分完成後會在下次考試中取得 25％ 的折扣，正如 Microsoft Beta 測驗計畫的[更新](/learn/certifications/posts/updates-microsoft-beta-exam-program)所述。
+Microsoft Beta 測驗提供 80％ 的折扣（需提供優惠碼）。考核完成後，利用80％折扣參加Beta測驗的應試者在下一次測驗中可獲得25％的折扣，如下所述：[Updates on Microsoft Beta Exam Program](/learn/certifications/posts/updates-on-microsoft-beta-exam-program)._並非所有Beta版參與者都可享受此折扣。如果您透過其他任何方式為Beta測驗付費，則您沒有資格獲得25％的折扣券。
 
-如要獲取代碼，您既可以成為我們的 SME 個人檔案資料庫的成員，也可以從我們的[測驗原則和常見問題集頁面](/learn/certifications/certification-exam-policies)左側的“公告”部分中獲取代碼 。SME 個人檔案資料庫計劃中符合資格的參與者會收到一個唯一的折扣代碼，以參與 Beta 測驗，提高在 Beta 測驗中取得席位的可能性。
+如要獲取代碼，您既可以成為我們的 SME 個人檔案資料庫的成員，也可以從我們的[測驗原則和常見問題集頁面](/learn/certifications/certification-exam-policies)左側的“公告”部分中獲取代碼。SME 個人檔案資料庫計劃中符合資格的參與者會收到一個唯一的折扣代碼，以參與 Beta 測驗，提高在 Beta 測驗中取得席位的可能性。
 
-SME 個人檔案資料庫規劃現在  [Microsoft Collaborate](https://aka.ms/collaborate)託管。請參閱社區部落格[幫助我們建立測驗和學習內容!立即加入我們的 SME 資料庫!](/learn/certifications/posts/help-us-create-exams-and-learning-content) ，以獲取有關如何加入 Collaborate 計劃的說明。
+SME 個人檔案資料庫規劃現在 [Microsoft Collaborate](https://aka.ms/collaborate)託管。請參閱社區部落格[幫助我們建立測驗和學習內容！立即加入我們的 SME 資料庫！](/learn/certifications/posts/help-us-create-exams-and-learning-content) ，以獲取有關如何加入 Collaborate 計劃的說明。
 
 對於某些職位，與可用職位相比，我們在SME 個人檔案資料庫中擁有合格的應試者要多得多。在這些情況下，我們會隨機挑選適當數量的合格應試者，然後將邀請函寄送給這些隨機挑選的應試者。如果您未被選中，您仍然可以透過觀看公告頁面而參與其中，我們將在 Beta 測驗註冊開放日發布不同的代碼。
 
@@ -204,7 +203,7 @@ SME 個人檔案資料庫規劃現在  [Microsoft Collaborate](https://aka.ms/co
 
 您將有機會訪問測驗詳細信息頁面，該頁面羅列了測驗中將進行評估的技能。儘管我們的目標是確保在 Beta 版考試開始之前進行一些培訓，但這並非絕對。有興趣參加 Beta 測驗的人士通常有方法可以取得其他資源、熟悉該項技術的操作，或使用其 Beta 版的產品。若是需要其他準備資料，建議您洽詢同儕意見、社群資源以及早期採用者文章以取得協助。
 
-更多關於如何在沒有準備材料的情況下準備測驗的建議和想法，請參見：[只是沒有準備資料的人如何準備 Beta 測驗？](/learn/certifications/posts/just-how-does-one-prepare-for-beta-exams-without-preparation-materials)
+更多關於如何在沒有準備材料的情況下準備測驗的建議和想法，請參見：[ 只是沒有準備資料的人如何準備 Beta 測驗？](/learn/certifications/posts/just-how-does-one-prepare-for-beta-exams-without-preparation-materials)
 
 ### Beta 測驗成績和結果
 
@@ -216,11 +215,11 @@ SME 個人檔案資料庫規劃現在  [Microsoft Collaborate](https://aka.ms/co
 
 ### 通過 Beta 測驗
 
-若通過認證途徑中的 Beta 測驗，也會計入您的認證成績。您不需要針對正式版本的測驗進行重新測驗。確保您在一年內再次參加測驗，這樣您就可以利用為取得 Beta 測驗而取得的25％的折扣。
+若通過認證途徑中的 Beta 測驗，也會計入您的認證成績。您不需要針對正式版本的測驗進行重新測驗。確保您在一年內參加另一場測驗，以便可以透過我們的Beta測驗折扣計劃享受您透過Beta測驗獲得的25％折扣。
 
-若未通過 Beta 測驗，將無法重新進行 Beta 測驗。如果您有興趣取得需要成功完成該測驗的認證，那麼您必須等待在測驗開始時以固定成本重新參加測驗，或者您可以申請參加Beta測驗時取得的 25％ 折扣。
+若未通過 Beta 測驗，將無法重新進行 Beta 測驗。如果您有興趣獲得需要成功完成該測驗的認證，則必須等到正式上線後再按常規費用重新參加測驗，否則，您可以透過我們的Beta測驗應用所獲得的25％折扣來參加Beta測驗折扣計劃。
 
-若您認為您的 Beta 測驗分數應已公佈(因為線上測驗，或者您看到推特所描述的)，請先查看測驗辦理單位是否已將該資訊張貼到線上。若尚未有任何消息，請聯絡測驗辦理單位。(注意，在測驗的正式版本推出後，最多可能需要兩週時間，您的 Beta 測驗分數才會於線上公開顯示。)若測驗辦理單位已張貼分數的相關資訊，但您卻沒有在 Microsoft 成績證明上看到分數，請聯絡[認證支援](https://aka.ms/mcpforum)。
+若您認為您的 Beta 測驗分數應已公佈（因為線上測驗，或者您看到推特所描述的），請先查看測驗辦理單位是否已將該資訊張貼到線上。若尚未有任何消息，請聯絡測驗辦理單位。(注意，在測驗的正式版本推出後，最多可能需要兩週時間，您的 Beta 測驗分數才會於線上公開顯示。)若測驗辦理單位已張貼分數的相關資訊，但您卻沒有在 Microsoft 成績證明上看到分數，請聯絡[認證支援](https://aka.ms/mcpforum)。
 
 ## 為您的知識與技能獲取認可。 
 [查看所有認證考試。](/learn/certifications/browse/?resource_type=examination)

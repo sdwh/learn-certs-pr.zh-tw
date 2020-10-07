@@ -1,6 +1,6 @@
----
-title: Microsoft Retired Certifications | Microsoft Docs
-description: Microsoft Retired Certifications
+﻿---
+title: '支援：在Learn上安排Learning Partner課程 | Microsoft Docs'
+description: '支援：在Learn上安排Learning Partner課程'
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,64 +9,70 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# 認證退休信息
+# 支援：在Learn上安排Learning Partner課程
 
-為了保持Microsoft認證專家規劃的最新狀態，Microsoft Learning不斷檢閱我們目前和規劃的認證，以確保我們的認證反映最新的Microsoft技術以及Microsoft認證專家每天使用的技術。
+## 講師指導的訓練 
 
-## 規劃撤銷的認證
+Microsoft透過將實時的講師指導的訓練計劃功能引入 [Microsoft Learn](/learn/)，發布了一種簡化和流線型學習者體驗。透過Microsoft Learn上的課程表集成，學習者可以預覽合格的Learning Partner提供的講師指導的訓練課程。選擇課程後，您將被直接路由到Learning Partner網站以完成註冊和付款。  
 
-尋找規劃在未來12個月內停用的認證。(後續的資訊可能會變更。)  
+請參閱下面的常見問題解答以及提供反饋和支援的渠道。雖然您不會在“公共預覽”期間收到對反饋的答复，但請知道您的反饋很重要，我們將予以解決。   
 
-|                                             |                    |
-| ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSA: Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx) | 於 2021 年 1 月 31 日停止提供 |
-| [MCSA: BI Reporting](https://www.microsoft.com/learning/mcsa-bi-reporting.aspx) | 於 2021 年 1 月 31 日停止提供 |
-| [MCSA: SQL 2016 Database Admin](https://www.microsoft.com/learning/mcsa-sql2016-database-administration-certification.aspx) | 於 2021 年 1 月 31 日停止提供 |
-| [MCSA: SQL 2016 BI Development](https://www.microsoft.com/learning/mcsa-sql2016-business-intelligence-certification.aspx) | 於 2021 年 1 月 31 日停止提供 |
-| [MCSA: SQL 2016 Database Dev](https://www.microsoft.com/learning/mcsa-sql2016-database-development-certification.aspx) | 於 2021 年 1 月 31 日停止提供 |
-| [MCSA: SQL Server 2012/2014](https://www.microsoft.com/learning/mcsa-sql-certification.aspx) | 於 2021 年 1 月 31 日停止提供 |
-| [MCSA: Universal Windows Platform](https://www.microsoft.com/learning/mcsa-universal-windows-platform.aspx) | 於 2021 年 1 月 31 日停止提供 |
-| [MCSA: Web Applications](https://www.microsoft.com/learning/mcsa-web-applications-certification.aspx) | 於 2021 年 1 月 31 日停止提供 |
-| [MCSA: Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx) | 於 2021 年 1 月 31 日停止提供 |
-| [MCSA: Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx) | 於 2021 年 1 月 31 日停止提供 |
-| [MCSD: App Builder](https://www.microsoft.com/learning/mcsd-app-builder-certification.aspx) | 於 2021 年 1 月 31 日停止提供 |
-| [MCSE: Business Applications](https://www.microsoft.com/learning/mcse-business-applications.aspx) | 於 2021 年 1 月 31 日停止提供 |
-| [MCSE: Core Infrastructure](https://www.microsoft.com/learning/mcse-core-infrastructure.aspx) | 於 2021 年 1 月 31 日停止提供 |
-| [MCSE: Data Management & Analytics](https://www.microsoft.com/learning/mcse-data-management-analytics.aspx) | 於 2021 年 1 月 31 日停止提供 |
-| [MCSE: Productivity](https://www.microsoft.com/learning/mcse-productivity-certification.aspx) | 於 2021 年 1 月 31 日停止提供 |
-| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 於 2020 年 12 月 31 日停止提供 |
-| [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator) | 於 2020 年 8 月 31 日撤銷 |
+課程註冊僅以英語提供。明年將增加其他合格的Learning Partner。 
 
-## 停用的證書
+## 如何联系支援人員
 
-尋找已經在去年內停用的認證。當認證停用已經超過一年時，將從此頁面中刪除。一旦認證已經停用，將不再能夠獲得，但是如果已經獲得認證，它則將被保留在成績單上的有效區段之中。
-
-附註：在認證停用之後，Microsoft 繼續審查相應的技術，以確定它們是否仍然相關。如果對應技術已確定為不再具有相關性，那麼關聯認證會被移至成績單的證書歷史部分。
-
-展開下列界面，按照類型和關聯停用日期檢閱停用認證清單。
-
-| Microsoft Certified Solutions Developer                                            |
-| ---------------------------------------------------------------------------------- |
-|                                                                                    |
-
-| Microsoft Certified Solutions Associate                                            |                    |
-| ---------------------------------------------------------------------------------- | ------------------ |
-| MCSA: CRM Dynamics Technical                                                                                          | 於 2019 年 12 月 31 日  |
-| [MCSA: Cloud Platform](https://www.microsoft.com/learning/mcsa-cloud-platform-certification.aspx)                     | 2018 年 12 月 31 日  |
-| [MCSA: Linux on Azure](https://www.microsoft.com/learning/mcsa-linux-azure-certification.aspx)                        | 2018 年 12 月 31 日  |
-| [MCSA: Office 365](https://www.microsoft.com/learning/mcsa-office365-certification.aspx)                              | 2019 年 4 月 30 日     |
-| [MCSA: Windows 10](https://www.microsoft.com/learning/mcsa-windows-10-certifications.aspx)                            | 2019 年 4 月 30 日     |
-| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365.aspx)                   | 2019 年 6 月 30 日      |
-| [MCSA: Machine Learning](https://www.microsoft.com/learning/mcsa-machine-learning.aspx)                               | 2019 年 6 月 30 日      |
-| [MCSA: Data Engineering with Azure](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx)         | 2019 年 6 月 30 日      |
-
-| Microsoft Certified Solutions Expert                                               |                    |
-| ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSE: Cloud Platfrom and Infrastructure](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 2018 年 12 月 31 日  |
-| [MCSE: Mobility](https://www.microsoft.com/learning/mcse-mobility-certification.aspx)                                 | 2019 年 4 月 30 日     |
-
-| Microsoft Technology Associate                                                     |                    |
-| ---------------------------------------------------------------------------------- | ------------------ |
-| MTA: 98-369: Cloud Fundamentals                                               | 2019 年9月30日 |
-| MTA: 98-380: Introduction to Programming Using Block-Based Languages (Touch Develop)                      |2019年8月7日|
-___
+<br/>
+<div>
+<table style="border:0px;">
+	<tr>
+      <th>支援範圍</th>
+      <th>聯絡信息</th>
+    </tr>
+    <tbody>
+        <tr>
+            <td>
+                <p><strong>排程</strong></p>
+				<ul>
+					<li>課程確認</li>
+					<li>取消課程</li>
+					<li>課程變更</li>
+					<li>課程費用</li>
+				</ul>
+            </td>
+            <td>
+            <p>如果您有支援方面的問題，請直接與Learning Provider聯絡。</p>
+            <a href="/learn/certifications/partners#find-a-microsoft-learning-partner-by-country"><strong>按國家或地區查找MicrosoftLearning Partner</strong></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>與Learning Partner選擇課程並單擊“註冊”後，不路由到所選Learning Partner的註冊頁面。</p>
+			</td>
+			<td>
+				<ul>
+					<li>請查看<a href="/learn/certifications/training-faq">常見問題解答(FAQs)。</a></li>
+					<li>如果找不到問題的答案，請在Learn支援論壇的<a href="https://trainingsupport.microsoft.com/iltvilt/forum">Learning Partner”講師指導的課程表中發布您的問題</a>。
+</li>
+				</ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong><em>一般反饋，</em></strong> 以改善體驗或服務</p>
+            </td>
+            <td>
+                <p>請<a href="/learn/support/troubleshooting#report-feedback">使用此表單提交反饋，</a>然後選擇“產品或功能”，然後選擇“教師指導的訓練”，並提供您的詳細反饋。</p>
+				<p>請放心，您的反饋將得到解決，但是您不會收到對反饋的答复。</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>您感興趣的Learning Partner未列出。</p>
+            </td>
+            <td>
+                <p>此服務當前為“公共預覽 (Public Preview)”，並將在明年擴展到其他符合要求條件的Learning Partner。</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
