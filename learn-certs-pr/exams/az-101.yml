@@ -54,7 +54,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 請求無障礙設施
   description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
-  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: ../request-accommodations.md
 - title: 測驗政策和常見問題
   description: 查看測驗政策和常見問題。
   href: ../certification-exam-policies.md
