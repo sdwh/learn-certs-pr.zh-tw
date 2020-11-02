@@ -2,16 +2,17 @@
 title: 關於透過 PSI 進行的線上測驗 | Microsoft Docs
 description: 關於透過 PSI 進行的線上測驗 
 documentationcenter: NA 
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 09/01/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # 關於透過 PSI 進行的線上測驗
 
-基礎知識和基於角色的認證考試是 [求職者考試](https://aka.ms/skillscert) 的一部分，必須透過 PSI 線上進行。線上參加考試可在您家中或在辦公室的舒適環境中提供完全數字化的體驗，同時由監考人員透過網路攝像頭和麥克風進行監考，從而維持考試成績的公正性。要了解體驗如何，[請觀看 PSI YouTube 視頻](https://www.youtube.com/watch?v=FvqONzwF2nM)，並了解有關 PSI 線上監考測驗試的更多信息。
+基礎知識和基於角色的認證測驗是[USD15 exam offer for job seekers](https://aka.ms/skillscert)的一部分，必須透過PSI(此優惠的Microsoft測驗交付合作夥伴)線上進行。線上參加考試可在您家中或在辦公室的舒適環境中提供完全數字化的體驗，同時由監考人員透過網路攝像頭和麥克風進行監考，從而維持考試成績的公正性。要了解體驗如何，[請觀看 PSI YouTube 視頻](https://www.youtube.com/watch?v=FvqONzwF2nM)，並了解有關 PSI 線上監考測驗試的更多信息。
 
 ## <a name="participating-countries-and-supported-languages"></a> 參與國家和支持的語言
 
@@ -23,7 +24,7 @@ ms.author: micsullivan
 2. 在要測試的同一台計算機上和同一位置上，完成所需的 [系統檢查](#run-a-system-check)，以確保與線上監考軟體兼容。
 3. 請確認您的 ID 符合要求(請閱讀下面的[身份驗證要求](/learn/certifications/online-exams-psi#identity-verification-requirements))以及 Microsoft 認證個人資料上的姓名(用於註冊預約考試)為最新姓名。要參加考試，您用來註冊預約考試的姓名必須與您要提供的 ID 相符。
 
-如果您想請求對考試進行調節，請在安排考試之前 [透過 PSI 提交調節請求](https://psihelpdesk1522166508.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000991532)； PSI 將在 24-48 個工作小時內回復。
+如果您想請求對考試進行調節，請在安排考試之前 [透過 PSI 提交調節請求](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872) PSI 將在 24-48 個工作小時內回復。
 
 ## <a name="system-requirements"></a> 系統要求
 
@@ -57,7 +58,7 @@ ms.author: micsullivan
         </tr>
         <tr>
             <td>
-                <p><strong>顯示</strong></p>
+                <p><strong>展示</strong></p>
             </td>
             <td>
                 <p>最低分辨率：1368 x 769 或以上
@@ -88,9 +89,9 @@ ms.author: micsullivan
                 <p><strong>攝像頭</strong></p>
             </td>
             <td>
-                <P>網路攝影機的 <strong>最低解析度必須為 640x480 @ 10 fps</strong>。<br/>
+                <p>網路攝影機的 <strong>最低解析度必須為 640x480 @ 10 fps</strong>。<br/>
                                 網路攝像頭可能內嵌，也可能是外圍，並已連接至計算機。</p>
-                <p>Mac 用戶可能需要在麥克風和攝像頭的 “系統偏好設定：安全性隱私” 設定中允許使用 PSI 安全瀏覽器。</p>
+                <p>Mac 用戶可能需要在麥克風和攝像頭的 “系統偏好設定：麥克風和攝像頭的安全性隱私” 設定。</p>
             </td>
         </tr>
         <tr>
@@ -98,7 +99,7 @@ ms.author: micsullivan
                 <p><strong>聲音和麥克風</strong></p>
             </td>
             <td>
-                <p>確認在 Windows 中未將音頻和麥克風設定為靜音。</p><p> Mac用戶可能需要在麥克風，攝像頭，自動化和輸入監視的 “系統偏好設置：安全和隱私：隱私” 設置內允許 PSI Secure Browser。</p>
+                <p>確認在 Windows 中未將音頻和麥克風設定為靜音。</p><p> Mac用戶可能需要在麥克風，攝像頭，自動化和輸入監視的 “系統偏好設置：安全和隱私：麥克風、攝像頭、自動化和輸入監控隱私設置。</p>
             </td>
         </tr>
         <tr>
@@ -143,9 +144,9 @@ ms.author: micsullivan
 
 ### 與接待員或監考者聯絡：
 
-- **電話。** 在辦理登記過程中，系統將提示您輸入電話號碼。 如果出現技術問題，技術支持將透過提供的電話號碼給您打電話。
+- **電話。** 在辦理登記過程中，系統將提示您輸入電話號碼。  如果出現技術問題，技術支持將透過提供的電話號碼給您打電話。
 - **聊天窗口。** 與接待人員和監考人員的所有交流都是透過聊天窗口進行的。
-- **語言。** 與接待人員和監考人員的所有交流僅以英語進行。
+-  **語言。** 與接待人員和監考人員的所有交流僅以英語進行。
 
 ### <a name="identity-verification-requirements"></a> 身份驗證要求：
 
@@ -190,7 +191,7 @@ ms.author: micsullivan
 
 ### 面部比對政策:
 
-- 透過註冊線上測驗，您了解並同意 PSI 可以使用面部比對技術來在測試過程中驗證您的身份。它將您的面部圖像與您所識別的面部圖像以及在測試過程中捕獲的面部圖像進行比較，以幫助我們進一步開發，升級和改進此應用程式。**如果您不同意，您將無法進行測試。**
+- 透過註冊線上測驗，您了解並同意 PSI 可以使用面部比對技術來在測試過程中驗證您的身份。它將您的面部圖像與您所識別的面部圖像以及在測試過程中捕獲的面部圖像進行比較，以幫助我們進一步開發，升級和改進此應用程式。 **如果您不同意，您將無法進行測試。**
 
 ### 測驗期間錄像
 
@@ -199,7 +200,7 @@ ms.author: micsullivan
 ### 其他重要信息：
 
 - 與其他任何 Microsoft 認證測驗一樣，您必須閱讀並同意我們的 [非披露協議](/learn/certifications/certification-exam-policies#non-disclosure-agreement) 中所述的條款，並且您必須符合應試者的行為要求。這可能包括但不限於：
-  - 您不得以任何方式複製或記錄測驗中的問題或答案。
+  - 您不得以任何方式複製或記錄測驗中的問題或答案。 
   - 您不得與他人分享或討論測驗中出現的問題或答案。
 - 如果您不遵守[非披露合約](/learn/certifications/certification-exam-policies#non-disclosure-agreement) 或被懷疑欺騙或篡改 PSI 或其轉包商的軟體，或者如果在測驗期間在您坐的房間裡偵測到您以外的人，監考者將立即終止測驗，並將違規情況以及音訊和/或視訊證據報告給 PSI 和 Microsoft。您的測驗可能會無效，並且 Microsoft 可能會採取其他行動，例如取消您的資格並在未來不准您參加所有 Microsoft 認證計劃。
 
@@ -209,7 +210,7 @@ ms.author: micsullivan
 
 ## <a name="schedule-for-an-online-exam"></a> 安排線上考試
 
-- 要安排 PSI 線上考試，請從[合適的考試列表](/learn/certifications/skillingoffer?WT.mc_id=gsi#discounted-microsoft-certification-exams-available-through-this-offer) 中單擊您希望參加的 Microsoft 認證考試，然後選擇 “**安排 15 美元優惠考試**” 按鈕。
+- 要安排 PSI 線上考試，請從[合適的考試列表](/learn/certifications/skillingoffer?WT.mc_id=gsi#discounted-microsoft-certification-exams-available-through-this-offer) 中單擊您希望參加的 Microsoft 認證考試，然後選擇 “**安排 15 美元優惠考試**” 按鈕。 
 - 如果您所在的國家/地區提供線上考試，則可以在考試安排過程中選擇該選項。您將進入 PSI 考試安排站點，在這裡您將選擇您所在的國家/地區和時區、考試的語言以及日期和時間。
 - 完成後，您需要支付考試費用。
 
@@ -222,8 +223,8 @@ ms.author: micsullivan
 
 要開始測試會話並與監考人員聯絡，請執行以下操作：
 
-1. 使用 Microsoft 認證個人資料中用於註冊考試的電子郵件登錄到 [Microsoft 認證儀表板](https://aka.ms/CertDashboard)。
-2. 在**預約**部分中，選擇“**開始線上考試**”。
+1. 使用 Microsoft 認證個人資料中用於註冊考試的電子郵件登錄到 [Microsoft 認證儀表板](https://aka.ms/CertDashboard) 。
+2. 在**預約**部分中，選擇 “**開始線上考試**”。
 3. 您將進入 PSI 考試安排平台，並看到一個“啟動考試”按鈕。選擇“**啟動考試**”以開始安全瀏覽器下載。繼續執行自助登記過程，並等待監考人員與您聯絡。
 
 **請註意**在預約的考試開始時間之前您會分配有一個監考人員。如果在**預約的考試時間** 30 分鐘後仍未有監考人員聯系您，請 [與 PSI 支持人員聯絡](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001044112)。
@@ -233,7 +234,7 @@ ms.author: micsullivan
 
 如果在考試過程中遇到技術問題，監考人員將嘗試透過聊天與您聯絡。如果您在考試後遇到問題，請 [聯絡 PSI 支持人員](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001044112)。請保存提供的事件報告編號。
 
-您將會在完成測驗後幾分鐘內收到合格與否的通知。此外，您還將收到 PSI 的電子郵件，會提供您的考試成績和有關您在所測技能領域的表現的反饋。  
+您將會在完成測驗後幾分鐘內收到合格與否的通知。此外，您還將收到 PSI 的電子郵件，會提供您的考試成績和有關您在所測技能領域的表現的反饋。
 
 透過 PSI 完成測驗後，從 Windows 10 中的應用和功能中移除或將其移至 MacOS 中的回收筒，即可 **卸載 PSI 安全瀏覽器的可執行文件**。
 
@@ -251,7 +252,7 @@ ms.author: micsullivan
 
 ### 我如何申請考試調節？
 
-要請求考試調節，請在安排考試之前 [向 PSI 提交調節請求](https://psihelpdesk1522166508.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000991532)。PSI 將在 24-48 個工作小時內回復請求。
+要請求考試調節，請在安排考試之前 [向 PSI 提交調節請求](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872)。PSI 將在 24-48 個工作小時內回復請求。
 
 ### 如何安排 PSI 線上考試？
 
@@ -259,7 +260,7 @@ ms.author: micsullivan
 
 ### 我可以重新安排或取消考試嗎？
 
-可以。但是您必須至少在預約的考試前 24 小時重新安排或取消考試。登錄到您的 [Microsoft 認證儀表板](https://aka.ms/CertDashboard)，然後在“預約”部分中選擇 “**取消/重新安排**” 按鈕。然後，您將重定向到 PSI 網站以取消或重新安排考試。  
+可以。但是您必須至少在預約的考試前 24 小時重新安排或取消考試。登錄到您的 [Microsoft 認證儀表板](https://aka.ms/CertDashboard)，然後在“預約”部分中選擇 “**取消/重新安排**” 按鈕。然後，您將重定向到 PSI 網站以取消或重新安排考試。
 
 附註：價值 15 美元的求職者考試優惠必須在 2020 年 12 月 31 日之前領取，且考試必須在 2021 年 3 月 31日 之前進行。可以在 2020 年 12 月 31 日之前的任何一個時間重新安排考試；但是，如果您在 2020 年 12 月 31 日之後取消了預約考試，將無法使用折扣優惠再次安排時間。
 
@@ -276,11 +277,12 @@ ms.author: micsullivan
 不可以。考試的難度相當。
 
 ### 我可以在線上考試時做筆記嗎？
+
 不可以。PSI 線上考試沒有此功能。請參閱 [測試協議要求](/learn/certifications/online-exams-psi#testing-protocol-requirements)。
 
 ### 線上考試是否支援多種語言？
 
-是。PSI 線上考試有以下幾種語言：英語，日語，韓語，簡體中文，法語，西班牙語和德語。在考試註冊過程中將提供選擇考試語言的功能。請註意，監考人員支持和監考軟體僅以英語提供。
+是。PSI 線上考試有以下幾種語言：英語，日語，韓語，簡體中文，法語，西班牙語和德語。在考試註冊過程中將提供選擇考試語言的功能。註意，監考人員支持和監考軟體僅以英語提供。
 
 ### 如果在線上考試之前、之中或之後遇到技術問題，我應該與誰聯絡？
 
@@ -322,7 +324,7 @@ ms.author: micsullivan
 
 ### 如果監考人員未加入我的會話該怎麼辦？
 
-右鍵單擊 “PSI 安全瀏覽器” 頁面中的任意位置，然後選擇 “重新加載”，或者從左上角選擇 “查看”，然後選擇 “重新加載”如果這樣不起作用，請關閉 PSI 安全瀏覽器。然後重新啟動。請註意，您將**不**能在預約的考試前的 15 分鐘之前登錄或開始考試。
+右鍵單擊 “PSI 安全瀏覽器” 頁面中的任意位置，然後選擇 “重新加載”，或者從左上角選擇 “查看”，然後選擇 “重新加載”如果這樣不起作用，請關閉 PSI 安全瀏覽器。然後重新啟動。請註意，您將 **不** 能在預約的考試前的 15 分鐘之前登錄或開始考試。
 
 ## 得分報告常見問題解答
 
@@ -332,7 +334,7 @@ ms.author: micsullivan
 
 ### 成績單上會有哪些項目？
 
-分數報告是一封電子郵件，其中提供了有關整體考試成績的分數值、透過/未透過狀態、有關您在考試所評估的每個技能領域中的表現信息以及有關如何解釋您的成績和後續步驟的詳細信息。
+分數報告是一封電子郵件，其中提供了有關整體考試成績的分數值、透過/未透過狀態、有關您在考試所評估的每個技能領域中的表現信息以及有關如何解釋您的成績和後續步驟的詳細信息。 
 
 ### 成績證明上的百分比條圖有何意義？
 
@@ -348,7 +350,7 @@ ms.author: micsullivan
 
 不可以，我們無法提供比分數報告更詳細的有關您成績的詳細信息。
 
-### 分數報告中的百分比顯示我的分數超過 70％。為何我沒有透過測驗？
+### 分數報告中的百分比顯示我的分數超過 70％。為何我沒有通過測驗？
 
 測驗的每個部分都包含不同數量的問題； 因此，將成績組合在各個測驗部分不會反映您的最終測驗成績。換句話說，報告的每個部分的百分比與透過/失敗狀態之間沒有一對一的關係。
 

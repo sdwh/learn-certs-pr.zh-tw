@@ -5,13 +5,13 @@ metadata:
   description: 'Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
 uid: exam.77-729
 displayName: 77-729
-summary: |+
-  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
   成功的應試者將對 PowerPoint 環境有基本的了解，並展示 PowerPoint 2016 的正確應用。應試者可以建立、編輯與強化簡報和投影片放映。演示示例包括專業級銷售演示，員工訓練，教學材料和展台投影片演示。
 
   Microsoft Office Specialist (MOS) 2016 認證測驗為使用 MOS 2016 計劃改進對應試者的知識、技能及能力的測試而引進新的基於性能的格式&#58;
-  - MOS 2016 測驗任務說明一般不包括命令名稱，如舊版所示。例如，會避免出現函數名稱並將其取代為描述元。這表示，應試者必須瞭解計畫功能的用途及一般使用方式，才能成功完成每個專案中的任務。
+  - MOS 2016 測驗任務說明一般不包括命令名稱，如舊版所示。例如，會避免出現函數名稱並將其取代為描述元。這表示，應試者必須了解計畫功能的用途及一般使用方式，才能成功完成每個專案中的任務。
   - MOS 2016 測驗格式併入多個專案。
 subTitle: 成功的應試者將對 PowerPoint 環境有基本的了解，並展示 PowerPoint 2016 的正確應用。應試者可以建立、編輯與強化簡報和投影片放映。演示示例包括專業級銷售演示，員工訓練，教學材料和展台投影片演示。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -41,18 +41,20 @@ locales:
 levels:
 - intermediate
 skills:
-- 建立與管理簡報 (30-35%)
-- 插入與格式化文字、形狀與影像 (20-25%)
-- 插入表格、圖表、SmartArt 與媒體 (20-25%)
-- 套用轉場與動畫(10-15%)
-- 管理多個簡報 (5-10%)
+- 建立和管理演示文稿 (30-35%)
+- 將文本、形狀與圖像插入并進行格式化 (20-25%)
+- 插入表格、圖表、SmartArt和媒體 (20-25%)
+- 應用轉換和動畫 (10-15%)
+- 管理多個演示文稿 (5-10%)
 roles:
-- developer
+- business-user
 products:
 - office-powerpoint
 relatedCertifications:
 - related:
     uid: certification.mos-powerpoint-2016
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
@@ -60,7 +62,7 @@ resources:
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
+- title: 要求住宿
   description: 詳細了解有關為測驗申請調整的資訊。
   href: ../request-accommodations.md
 - title: 測驗政策和常見問題

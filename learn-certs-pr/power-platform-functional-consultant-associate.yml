@@ -2,21 +2,19 @@
 title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
-  description: 該認證將在 2020 年 9 月 25 日或前後可用。Power Platform 功能顧問必須對 Power Platform 具有廣泛的應用知識，包括對功能、邊界和約束的實際理解。
+  description: Power Platform 功能顧問必須對 Power Platform 具有廣泛的應用知識，包括對功能、邊界和約束的實際理解。
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong><br/><br/></font></div>
 
   Power Platform 功能顧問必須對 Power Platform 具有廣泛的應用知識，包括對功能、邊界和約束的實際理解。他們應該具有使用 Power Platform 製作器工具建立使用 Power Platform 和 Microsoft 365 的解決方案的經驗。認證的功能顧問應精通資料建模，使用者體驗設計，需求分析和過程分析。
-
-  <div><br/><strong>附註&#58; 該認證將在 2020 年 9 月 25 日或前後可用。</strong></div>
-subTitle: 該認證將在 2020 年 9 月 25 日或前後可用。Power Platform 功能顧問必須對 Power Platform 具有廣泛的應用知識，包括對功能、邊界和約束的實際理解。
+subTitle: Power Platform 功能顧問必須對 Power Platform 具有廣泛的應用知識，包括對功能、邊界和約束的實際理解。
 levels:
 - intermediate
 skills:
 - 設定公共資料服務
-- 使用 Power Apps 建立應用
+- 使用Power Apps建立應用
 - 建立和管理 Power Automate
 - 實作 Power Virtual Agents 聊天機器人
 - 將 Power Apps 與其他應用程式和服務整合
@@ -34,6 +32,20 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4D1eL
 exams:
 - uid: exam.pl-200
@@ -43,11 +55,11 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: 認證之旅
   description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Gn93
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Replay
+- title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 認證儀錶板

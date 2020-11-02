@@ -12,11 +12,11 @@ summary: |-
 
   擔任此職務的職責包括為利益相關者提供建議，並將業務需求轉換為安全，可擴充且可靠的雲端解決方案。
 
-  Azure解決方案架構師與雲端管理員，雲端DBA和客戶端合作以實作解決方案。
+  Azure 解決方案架構師與雲端管理員，雲端 DBA 和客戶端合作以實作解決方案。
 
   參加此認證的應試者應該在 IT 運營方面具有先進的經驗和知識，包括網路、視覺效果、身份、安全性、業務連續性、災難恢復、資料管理、預算和治理——該角色應管理各個領域的決策如何影響整體解決方案。此外，該角色應具有 Azure 管理方面的專家級技能，並具有 Azure 開發和 DevOps 流程的經驗。
 
-  <div><strong><br/>附註&#58; 如果您透過以下測驗組合之一，則將獲得此證書&#58;<ul>
+  <div><strong><br/>如果您通過以下測驗組合之一，則將取得此證書（請注意，英語版本 AZ-300 和 AZ-301 已於 2020 年 9 月 30 日退役，而本地化版本將於 2020 年 10 月 30 日退休）&#58;<ul>
   <li><a href="/learn/certifications/exams/az-300">AZ-300</a> 和 <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
   <li><a href="/learn/certifications/exams/az-303">AZ-303</a> 和 <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
   <li><a href="/learn/certifications/exams/az-300">AZ-300</a> 和 <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
@@ -83,7 +83,7 @@ resources:
   description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 認證之旅
-  description: 探索獲得 Azure solution-architect 認證的步驟以及可用來幫助您進行準備的資源。
+  description: 探索取得 Azure Solutions Architect Expert 認證的步驟以及可用來幫助您進行準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
@@ -91,7 +91,7 @@ resources:
 - title: 認證海報
   description: 查看基本知識、基於角色和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支援認證

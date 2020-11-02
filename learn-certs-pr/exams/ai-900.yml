@@ -5,15 +5,28 @@ metadata:
   description: 'Exam AI-900: Microsoft Azure AI Fundamentals'
 uid: exam.ai-900
 displayName: AI-900
-summary: "<div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>\r\n\r\n參加此測驗的應試者應具有機器學習 (ML) 和人工智慧 (AI) 概念以及相關的 Microsoft Azure 服務的基礎知識。\r\n\r\n這次測驗是一次展示常見的 ML 和 AI 工作負載以及如何在 Azure 上實作知識的機會。  \r\n\r\n該測驗適用於具有技術和非技術背景的考生。不需要資料科學和軟體工程經驗；但是，一些一般的編程知識或經驗將是有益的。  \r\n\r\nAzure AI Fundamentals 可用於準備其他基於 Azure 角色的認證，例如 Azure Data Scientist Associate 或 Azure AI Engineer Associate，但這不是其中任何一個的先決條件。"
+summary: |-
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>此測驗內容將於 2020 年 10 月 22 日更新。請下載下方的技能衡量文件，以查看將有哪些變化。</strong><br/><br/></div>
+  </div>
+
+  參加此測驗的應試者應具有機器學習 (ML) 和人工智慧 (AI) 概念以及相關的 Microsoft Azure 服務的基礎知識。
+
+  這次測驗是一次展示常見的 ML 和 AI 工作負載以及如何在 Azure 上實作知識的機會。
+
+  該測驗適用於具有技術和非技術背景的考生。不需要資料科學和軟體工程經驗；但是，一些一般的編程知識或經驗將是有益的。
+
+  Azure AI Fundamentals 可用於準備其他基於 Azure 角色的認證，例如 Azure Data Scientist Associate 或 Azure AI Engineer Associate，但這不是其中任何一個的先決條件。
 subTitle: '證明您可以描述以下內容：AI 工作負載和注意事項； Azure 上機器學習的基本原理； Azure 上的電腦視覺工作負載的功能； Azure 上的自然語言處理 (NLP) 工作負載的功能；和 Azure 上的對話式 AI 工作負載的功能。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
+practiceTestUrl: https://www.mindhub.com/p/MU-AI-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AI-900&provider=psi&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
 locales:
 - en
 - ja
@@ -25,10 +38,11 @@ locales:
 levels:
 - beginner
 skills:
+- 此測驗內容將於 2020 年 10 月 22日更新。請下載下面概述的測驗技能，以了解將會發生什麼變化。
 - 描述 AI 工作負載和注意事項 (15-20%)
 - 描述 Azure 上機器學習的基本原理 (30-35%)
 - 描述 Azure 上的電腦視覺工作負載的功能 (15-20%)
-- 描述 Azure 上自然語言處理(NLP)工作負載的功能 (15-20%)
+- 描述 Azure 上自然語言處理（NLP）工作負載的功能 (15-20%)
 - 描述 Azure 上的對話式 AI 工作負載的功能 (15-20%)
 roles:
 - ai-engineer
@@ -72,7 +86,7 @@ resources:
 - title: 認證海報
   description: 查看基本知識、基於角色和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 支援認證考試

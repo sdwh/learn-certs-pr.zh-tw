@@ -6,15 +6,14 @@ metadata:
 uid: exam.dp-100
 displayName: DP-100
 summary: |-
-  <div>
-  <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-  <div><strong> 該測驗的內容更新于 2020 年 5 月 22 日.請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>該測驗的內容已於2020年5月22日更新。請下載下方的技能衡量文件,以查看有哪些更改。</strong><br/><br/></div>
   </div>
 
-  Azure資料科學家套用他們在資料科學和機器學習方面的知識在Azure上實作和執行機器學習工作負載；特別是使用Machine Learning Service。這需要為 Azure 上的資料科學工作負載規劃和建立合適的工作環境，執行資料實驗和訓練預測模型，管理和最佳化模型，以及將機器學習模型部署到生產中。
+  Azure 資料科學家套用他們在資料科學和機器學習方面的知識在 Azure 上實作和執行機器學習工作負載；特別是使用 Azure 機器學習服務。這需要為 Azure 上的資料科學工作負載規劃和建立合適的工作環境，執行資料實驗和訓練預測模型，管理和最佳化模型，以及將機器學習模型部署到生產中。
 subTitle: '此測驗會評量您達成下方技術性工作的能力：設定 Azure 機器學習工作區； 進行實驗和訓練模型；最佳化和管理模型；並部署和使用模型。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
+practiceTestUrl: https://www.mindhub.com/p/MU-DP-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
@@ -24,11 +23,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容更新于 2020 年 5 月 22 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
-- 設定 Azure 機器學習工作區(30-35%)
-- 執行實驗和訓練模型(25-30%)
-- 最佳化和管理模型(20-25%)
-- 部署和使用模型(20-25%)
+- 該測驗的內容更新于 2020 年 5 月 22 日。請下載下面概述的測驗技能，以了解已發生什麼變化。
+- 設定 Azure 機器學習工作區（30-35％）
+- 執行實驗和訓練模型（25-30％）
+- 最佳化和管理模型（20-25％）
+- 部署和使用模型（20-25％）
 roles:
 - data-scientist
 products:
@@ -48,7 +47,7 @@ relatedCertifications:
     uid: certification.azure-data-scientist
 resources:
 - title: 認證之旅
-  description: 探索獲得 Azure Data Scientist Associate 資格的步驟以及可用來幫助您進行準備的資源。
+  description: 探索取得 Azure Data Scientist Associate 資格的步驟以及可用來幫助您進行準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ABJV
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
@@ -56,7 +55,7 @@ resources:
 - title: 認證海報
   description: 查看基本知識、基於角色和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 支援認證考試

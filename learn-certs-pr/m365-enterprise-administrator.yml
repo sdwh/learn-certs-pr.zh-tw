@@ -2,26 +2,26 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: 'Microsoft 365企業管理員參與評估，計劃，遷移，部署和管理Microsoft 365服務。'
+  description: 'Microsoft 365 企業管理員參與評估，規劃，移轉，部署與管理 Microsoft 365 服務。'
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
-  Microsoft 365 企業管理員評估，規劃，遷移，部署和管理 Microsoft 365 服務。
+  Microsoft 365 企業管理員評估，規劃，移轉，部署和管理 Microsoft 365 服務。
 
-  <div><br/><strong>MCSE 生產力解決方案專家認證將於 2021 年 1 月 31 日淘汰。因此，MCSE生产力解决方案专家认证不会成为Microsoft 365认证的必备选项&#58; 2022 年 1 月 31 日（MCSE 停用後一年）之後的企業管理員專家證書。</strong></div>
-subTitle: Microsoft 365 企業管理員評估，規劃，遷移，部署和管理 Microsoft 365 服務。
+  <div><br/><strong>有關MCSE&#58; 生產力解決方案專家認證將於 2021 年 1 月 31 日淘汰。在2022年1月31日之前（證書到期後一年），它將繼續有資格作為此證書的必備選項。</strong></div>
+subTitle: Microsoft 365 企業管理員評估，規劃，移轉，部署和管理 Microsoft 365 服務。
 levels:
 - advanced
 skills:
-- 設計與實作 Microsoft 365 服務
-- 管理使用者身分識別與角色
-- 管理存取與驗證
-- 規劃 Office 365 工作負載與應用程式
-- 實作現代裝置服務
-- 實作 Microsoft 365 安全與威脅管理
-- 管理 Microsoft 365 治理和合規性
+- 設計和實作Microsoft 365服務
+- 管理用戶身份和角色
+- 管理存取和身份驗證
+- 規劃Office 365工作負載和應用程式
+- 實作現代設備服務
+- 實作Microsoft 365安全和威脅管理
+- 管理Microsoft 365治理和合規性
 roles:
 - administrator
 type: role-based
@@ -32,8 +32,6 @@ courses:
 - uid: course.ms-101t00
 prerequisites:
 - uid: certification.modern-desktop
-  isOptional: false
-- uid: certification.m365-teamwork-administrator
   isOptional: false
 - uid: certification.m365-security-administrator
   isOptional: false
@@ -54,7 +52,7 @@ resources:
 - title: 認證海報
   description: 查看基本知識、基於角色和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 支援認證

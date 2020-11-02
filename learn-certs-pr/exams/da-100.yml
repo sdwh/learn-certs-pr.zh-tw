@@ -6,8 +6,7 @@ metadata:
 uid: exam.da-100
 displayName: DA-100
 summary: |-
-  <div>
-  <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>瞭解更多</a> 。</strong></font><br/><br/></div><div><strong>此測驗內容將於 2020 年 9 月 24 日更新。請下載下方的技能衡量文件，以查看將有哪些更改。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>該測驗的內容已於2020年9月24日更新。請下載下方的技能衡量文件,以查看有哪些更改。</strong><br/><br/></div>
   </div>
 
   資料分析師使企業可以使用Microsoft Power BI提高資料資產的價值。作為主題專家，資料分析師負責設計和構建可調整規模的資料模型，清理和轉換資料，並啟用進階分析功能，這些功能透過易於理解的資料視覺效果提供有意義的商務價值。資料分析師還與各種產業的關鍵利害關係人共同作業，根據已識別的商務需求提供相關的深入解析。
@@ -21,7 +20,7 @@ providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DA-100&provider=psi&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
 locales:
 - en
 - zh-cn
@@ -30,12 +29,12 @@ locales:
 levels:
 - intermediate
 skills:
-- 此測驗內容將於 2020 年 9 月 24 日更新。請下載下面概述的測驗技能，以了解將會發生什麼變化。
-- 準備資料 (20-25%)
-- 對資料建模 (25-30%)
-- 可視化資料 (20-25%)
-- 分析資料 (10-15%)
-- 部署和維護交付項目 (10-15%)
+- 該測驗的內容更新于 2020 年 9月 24日。請下載下面概述的測驗技能，以了解已發生什麼變化。
+- 準備資料（20-25％）
+- 對資料建模（25-30％）
+- 可視化資料（20-25％）
+- 分析資料（10-15％）
+- 部署和維護交付項目（10-15％）
 roles:
 - data-analyst
 products:
@@ -54,7 +53,7 @@ relatedCertifications:
     uid: certification.data-analyst-associate
 resources:
 - title: 認證之旅
-  description: 探索獲得 Data Analyst Associate 資格的步驟以及可用來幫助您進行準備的資源。
+  description: 探索取得 Data Analyst Associate 資格的步驟以及可用來幫助您進行準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AzbJ
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
@@ -62,7 +61,7 @@ resources:
 - title: 認證海報
   description: 查看基本知識、基於角色和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 支援認證考試
