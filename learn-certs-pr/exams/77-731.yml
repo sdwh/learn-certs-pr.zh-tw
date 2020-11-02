@@ -1,17 +1,17 @@
 ### YamlMime:Examination
-title: 'Outlook 2016: Core Communication, Collaboration and Email Skills'
+title: 'Outlook 2016: Core Communication, Collaboration, and Email Skills'
 metadata:
-  title: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
-  description: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
+  title: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration, and Email Skills'
+  description: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration, and Email Skills'
 uid: exam.77-731
 displayName: 77-731
-summary: |+
-  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+summary: |-
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
   成功的應試者將建立及編輯具專業外觀的電子郵件訊息、跨時區維護行事曆，以及針對各種用途與情況排程工作。應試者將使用 Outlook 2016 增強專業人員通信、建立行事曆及排定約會。應用實例包括協調建築資源，為營銷活動發送訊息，規劃員工會議以及分配會議操作項目。
 
   Microsoft Office Specialist (MOS) 2016 認證測驗為使用 MOS 2016 計劃改進對應試者的知識、技能及能力的測試而引進新的基於性能的格式&#58;
-  - MOS 2016 測驗任務說明一般不包括命令名稱，如舊版所示。例如，會避免出現函數名稱並將其取代為描述元。這表示，應試者必須瞭解計畫功能的用途及一般使用方式，才能成功完成每個專案中的任務。
+  - MOS 2016 測驗任務說明一般不包括命令名稱，如舊版所示。例如，會避免出現函數名稱並將其取代為描述元。這表示，應試者必須了解計畫功能的用途及一般使用方式，才能成功完成每個專案中的任務。
   - MOS 2016 測驗格式併入多個專案。
 subTitle: 成功的應試者將建立及編輯具專業外觀的電子郵件訊息、跨時區維護行事曆，以及針對各種用途與情況排程工作。應試者將使用 Outlook 2016 增強專業人員通信、建立行事曆及排定約會。應用實例包括協調建築資源，為營銷活動發送訊息，規劃員工會議以及分配會議操作項目。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -38,7 +38,7 @@ skills:
 - 管理時間表 (35-40%)
 - 管理連絡人和群組 (10-15%)
 roles:
-- developer
+- business-user
 products:
 - office-outlook
 relatedCertifications:
@@ -51,7 +51,7 @@ resources:
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
+- title: 要求住宿
   description: 詳細了解有關為測驗申請調整的資訊。
   href: ../request-accommodations.md
 - title: 測驗政策和常見問題

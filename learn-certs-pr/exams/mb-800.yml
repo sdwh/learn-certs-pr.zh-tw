@@ -6,9 +6,9 @@ metadata:
 uid: exam.mb-800
 displayName: MB-800
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
-  該測驗的應試者是職能顧問，他們為中小型企業實作了核心應用程式設置過程。他們實現和設定 Dynamics 365 商業中心應用程式，包括設置核心應用程式功能和模塊以及將資料遷移到商業中心。
+  該測驗的候選人是職能顧問，他們為中小型企業實施了核心的應用程序設定過程。他們實現和設定 Dynamics 365 商業中心應用程式，包括設定核心應用程式功能和模塊以及將資料移轉到商業中心。
 
   應試者與實作團隊協作運行用戶界面，·為企業提供可管理性和導覽便利性。他們設定角色中心，包括使用 Microsoft Power Platform 元件來調整見解、線索、作業塊、報告、圖表，以及擴展 Business Central。
 
@@ -16,8 +16,8 @@ summary: |-
 
   此測驗的應試者通常專門研究 Business Central 的一個或多個功能集。他們了解 Business Central 與 Dynamics 365 應用程式套件之間的關係。
 
-  <div> <strong><br/>附註&#58;這項測驗將於 2020年10月開始。</strong></div>
-subTitle: '這項測驗將於 2020年10月開始。 該測驗衡量您完成以下任務的能力：設置 Business Central；設定財務；設定銷售和採購；並執行 Business Central 操作。'
+  <div><strong><br/>附註&#58; 這項測驗將於 2020 年 10 月 6 日左右開始。</strong></div>
+subTitle: '這項測驗將於 2020 年 10 月 6 日左右開始。該測驗評估您完成以下任務的能力：設定 Business Central，設定財務，設定銷售和採購，和執行 Business Central 操作'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
 locales:
@@ -26,14 +26,27 @@ levels:
 - intermediate
 skills:
 - 設立商務中心 (20-25%)
-- 設定財務 (25-30%)
+- 配置財務 (25-30%)
 - 設定銷售和購買 (10-15%)
-- 執行 Business Central 操作 (30-35%)
+- 執行Business Central操作 (30-35%)
 roles:
 - functional-consultant
 products:
 - dynamics-business-central
 - power-platform
+paths:
+- uid: learn-dynamics.get-started-dynamics-365-business-central
+- uid: learn-dynamics.deploy-configure-dynamics-365-business-central
+- uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
+- uid: learn-dynamics.setup-reporting-dynamics-365-business-central
+- uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central
+- uid: learn-dynamics.use-journals-dynamics-365-business-central
+- uid: learn-dynamics.trade-get-started-dynamics-365-business-central
+- uid: learn-dynamics.purchase-items-services-dynamics-365-business-central
+- uid: learn-dynamics.sell-items-services-dynamics-365-business-central
+- uid: learn-dynamics.return-items-dynamics-365-business-central
+- uid: learn-dynamics.process-customer-vendor-payments-dynamics-365-business-central
+- uid: learn-dynamics.reconcile-bank-accounts-dynamics-365-business-central
 relatedCertifications:
 - related:
     uid: certification.d365-business-central-functional-consultant-associate
@@ -44,7 +57,7 @@ resources:
 - title: 認證海報
   description: 查看基本知識、基於角色和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 支援認證考試

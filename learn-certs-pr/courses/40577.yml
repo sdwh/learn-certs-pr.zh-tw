@@ -1,0 +1,59 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+metadata:
+  title: 'Course 40577-G: Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+  description: 'Course 40577-G: Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+uid: course.40577
+courseNumber: '40577-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用Azure IoT Hub捕獲物聯網（IoT）設備資料
+- skill: 使用Azure Stream Analytics（流分析）處理設備資料
+- skill: 使用Azure Functions（函數）來應用命令和查詢職責分離（CQRS）模式
+- skill: 使用Azure Synapse Analytics Spark筆記本來構建一個預測性維護模型
+- skill: 將模型部署到Azure機器學習（Machine Learning）模型註冊表中
+- skill: 將模型部署到Azure容器（Container）實例
+- skill: 通過訪問Cosmos DB change feed的Azure函數來生成預測
+- skill: 使應用程式現代化，並將人工智慧集成到應用程式中
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  在本研討會，您將瞭解使用Azure服務實現現代應用程式的過程。研討會將涵蓋事件來源以及命令和查詢職責分離（CQRS）模式、資料載入、資料準備、資料轉換、資料服務、異常檢測、預測性維護模型的創建，以及預測性維護模型的即時評分。
+
+  #### 觀眾概況
+
+  這個研習會面向雲架構師和IT專業人士，他們在雲技術的基礎設施和解決方案設計方面擁有架構專業知識，並且希望瞭解更多關於Azure和Azure服務的知識，如“關於本課程”和“課程完成時”部分所述。參加這個研習會的人還應該具有其他非微軟雲技術方面的經驗，符合參加本課程的先決條件，並且希望在Azure上進行交叉培訓。
+prerequisitesSection: |+
+  研習會內容假定學生有300級（300-level）的基礎架構和解決方案設計的架構專業知識。我們建議學生在參加這個研習會之前先完成這個先決條件。
+  - 微軟Azure基本課程, http&#58;//www.microsoft.com/en-US/azureessentials
+
+outlineSection: |-
+  ### 模組 1&#58; 白板設計課堂 - 利用資料和人工智慧來創新和使應用程式現代化
+  #### 課程
+  - 回顧客戶案例研究
+  - 設計一個概念驗證解決方案
+  - 呈現解決方案
+
+
+  ### 模組 2&#58; 動手實驗室 - 利用資料和人工智慧來創新和使應用程式現代化
+  #### 課程
+  - 部署一個工廠負載模擬器
+  - 使用Azure機器學習來培訓和註冊一個預測性維護模型
+  - 創建一個Azure函數來向Cosmos DB發送事件遙測
+  - 使用預測性維護結果豐富事件遙測
+  - 使用自動異常檢測來豐富事件遙測
+  - 將評分的遙測資料發送到PostgreSQL
+  - 使服務邏輯（services logic）現代化以使用事件源和CQRS 
+  - 在Power BI報告中查看工廠狀態
+
+
+
+

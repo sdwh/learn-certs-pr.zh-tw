@@ -6,20 +6,16 @@ metadata:
 uid: exam.mb-230
 displayName: MB-230
 summary: |-
-  <div>
-  <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-  <div><strong>此測驗內容將於 2020 年 10 月 2 日更新。請下載下方的技能衡量文件，以查看將有哪些更改。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>該測驗的內容已於2020年10月2日更新。請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
   </div>
 
-  本測驗的應試者是具有客戶服務專業知識的 Dynamics 365 功能顧問。應試者負責實施全渠道解決方案，重點關註服務、質量、可靠性、效率和客戶滿意度。
+  Dynamics 365客戶服務職能顧問負責實施全渠道解決方案，該解決方案側重於服務，質量，可靠性，效率和客戶滿意度。
   <br/>
 
-  應試者設計和實現由解決方案架構師提供並與之協作的服務管理可視化和報告。應試者與 Dynamics 365 管理員合作，實現和升級 Power 平台組件，包括知識庫和 Forms Pro。
+  Dynamics 365客戶服務功能顧問可實作和設計由解決方案架構師提供的協作服務可視化和報告。功能顧問與客戶參與管理員合作，以實作和升級Power Platform組件，包括知識管理，客戶反饋和連接的服務。
 
-  應試者必須透過 Dynamics 365 客戶服務擁有強大的應用知識，滿足用戶需求，包括對案例、知識庫、佇列、權利、服務水平協議(SLA)、可視化和統一服務臺的深入理解。
-
-  應試者應該了解行業術語、優先級、標準、方法、客戶服務操作和最佳實踐。應試者應該包括對客戶服務應用程式在 Dynamics 365 應用程式套件中的角色的全面理解，以及對解決方案體系結構和品質保證的基本理解。
-subTitle: '本測試衡量您完成以下技術任務的能力：執行配置；管理案例和知識庫；管理隊列、權利和 SLA；並設定 Forms Pro。'
+  Dynamics 365客戶服務職能顧問必須具有豐富的客戶服務應用知識，包括&#58; 了解行業術語、優先級、標準、方法，客戶服務運營和最佳實踐。具有客戶服務專業知識的功能顧問必須具有透過Dynamics 365客戶服務滿足用戶需求的強大應用知識，包括對案例、知識管理、隊列、權利、資源調度、服務水平協議（SLA）、可視化、已連接服務、客戶服務見解，Power Virtual Agents 和用於客戶服務的 Omnichannel。應試者應該包括對客戶服務應用程式在 Dynamics 365 應用程式套件中的角色的全面理解，以及對解決方案體系結構和品質保證的基本理解
+subTitle: '該測驗衡量您完成以下技術任務的能力：管理案例和知識管理；管理隊列，權利和服務級別協議；執行調度；實作全渠道客戶服務；和管理分析。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
 practiceTestUrl: https://in.mindhub.com/mb-230-microsoft-dynamics-365-customer-service-microsoft-official-practice-test/p/MU-MB-230?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -29,11 +25,12 @@ locales:
 levels:
 - intermediate
 skills:
-- 此測驗內容將於 2020 年 10 月 2 日更新。請下載下面概述的測驗技能，以了解將會發生什麼變化。
-- 執行配置 (25-30%)
-- 管理服務案與知識庫 (30-35%)
-- 管理隊列，權利和SLA (25-30%)
-- 設定Forms Pro (15-20%)
+- 該測驗的內容更新于 2020 年 10 月 2日。請下載下面概述的測驗技能，以了解已發生什麼變化。
+- 管理案例和知識管理 (20-25%)
+- 管理隊列，權利和服務級別協議（SLA） (15-20%)
+- 實作計劃 (10-15%)
+- 實作客戶服務全渠道 (30-35%)
+- 管理分析 (10-15%)
 roles:
 - functional-consultant
 products:
@@ -53,7 +50,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+  description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
@@ -61,7 +58,7 @@ resources:
 - title: 認證海報
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay
+- title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 支援認證考試

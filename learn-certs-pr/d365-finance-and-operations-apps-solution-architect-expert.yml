@@ -2,19 +2,19 @@
 title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
 metadata:
   title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
-  description: Microsoft Dynamics 365 中財務和運營應用程式的解決方案架構師是受信任的顧問，他們了解業務推薦的實踐，軟體功能和實作交付，因此他們可以帶領實作團隊成員實作可以實現預定義實作目標的 Dynamics 解決方案。
+  description: Microsoft Dynamics 365 中財務和運營應用程式的解決方案架構師是受信任的顧問，他們了解業務推薦的實踐和軟體功能。他們帶領團隊成員實作可以實現預定義實作目標的 Dynamics 解決方案。
 uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
-  Microsoft Dynamics 365 中財務和運營應用程式的解決方案架構師是受信任的顧問，他們了解業務推薦的實踐，軟體功能和實作交付，因此他們可以帶領實作團隊成員實作可以實現預定義實作目標的 Dynamics 解決方案。
-subTitle: Microsoft Dynamics 365 中財務和運營應用程式的解決方案架構師是受信任的顧問，他們了解業務推薦的實踐，軟體功能和實作交付，因此他們可以帶領實作團隊成員實作可以實現預定義實作目標的 Dynamics 解決方案。
+  Microsoft Dynamics 365中財務和運營應用程式的解決方案架構師是受信任的顧問，他們了解業務推薦的實踐和軟體功能。他們帶領團隊成員實作可以實現預定義實作目標的 Dynamics 解決方案。
+subTitle: Microsoft Dynamics 365中財務和運營應用程式的解決方案架構師是受信任的顧問，他們了解業務推薦的實踐和軟體功能。他們帶領團隊成員實作可以實現預定義實作目標的Dynamics解決方案。
 levels:
 - advanced
 skills:
-- 確定解決方案要求
-- 設計解決方案組件
+- 識別解決方案要求
+- 設計解決方案元件
 - 定義解決方案測試與管理策略
 roles:
 - functional-consultant
@@ -49,9 +49,9 @@ resources:
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+  description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gm
-- title: Exam Replay
+- title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 認證儀錶板

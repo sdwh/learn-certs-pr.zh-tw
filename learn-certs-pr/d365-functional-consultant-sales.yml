@@ -2,26 +2,26 @@
 title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
-  description: 'Microsoft Dynamics 365 銷售職能顧問實作的解決方案可以預測和計劃客戶聯絡，通過處理和結算來管理交易，並使用數據分析來提高銷售團隊的績效。'
+  description: 'Microsoft Dynamics 365 銷售職能顧問實施的解決方案可以預測和計劃客戶聯繫，通過處理和結算來管理交易，並使用數據分析來提高銷售團隊的績效。'
 uid: certification.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>2020 年 9 月，MB-200將被替換為<a href="/learn/certifications/exams/pl-200">PL-200</a>新測驗。通過 MB-200 或 PL-200，再加 MB-210，您將可以取得此認證，直到 MB-200 於 2020 年 12 月 31 日停用。MB-200停用後，必須通過PL-200和MB-210才能取得此認證。 </strong><br/><br/></div></div>
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>2020 年 9 月，MB-200將被替換為<a href="/learn/certifications/exams/pl-200">PL-200</a>新測驗。通過 MB-200 或 PL-200，再加 MB-210，您將可以取得此認證，直到 MB-200 於 2020 年 12 月 31 日停用。MB-200 停用後，必須通過 PL-200 和 MB-210 才能取得此認證。</strong><br/><br/></div></div>
 
-  Microsoft Dynamics 365 銷售職能顧問實作的解決方案可以預測和計劃客戶聯絡，通過處理和結算來管理交易，並使用數據分析來提高銷售團隊的績效。
-subTitle: Microsoft Dynamics 365 銷售職能顧問實作的解決方案可以預測和計劃客戶聯絡，通過處理和結算來管理交易，並使用數據分析來提高銷售團隊的績效。
+  Microsoft Dynamics 365 銷售職能顧問實施的解決方案可以預測和計劃客戶聯繫，通過處理和結算來管理交易，並使用數據分析來提高銷售團隊的績效。
+subTitle: Microsoft Dynamics 365 銷售職能顧問實施的解決方案可以預測和計劃客戶聯繫，通過處理和結算來管理交易，並使用數據分析來提高銷售團隊的績效。
 levels:
 - intermediate
 skills:
-- 執行探索，計畫和分析
-- 管理使用者體驗設計
-- 管理實體和數據
-- 實作安全
-- 實作整合
-- 執行解決方案部署和測試
-- 執行配置
+- 執行發現，計劃和分析
+- 管理用戶體驗設計
+- 管理實體和資料
+- 實作安全性
+- 實作集成
+- 進行解決方案部署和測試
+- 進行設定
 - 管理核心銷售實體
-- 管理銷售實體
+- 設定其他工具和服務
 roles:
 - functional-consultant
 type: role-based
@@ -56,9 +56,9 @@ resources:
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+  description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0T
-- title: Exam Replay
+- title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 認證儀錶板

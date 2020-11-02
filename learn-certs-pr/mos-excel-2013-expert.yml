@@ -1,0 +1,42 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Excel 2013 Expert'
+metadata:
+  title: 'Microsoft Office Specialist: Excel 2013 Expert'
+  description: 'Microsoft Office Specialist: Excel 2013 Expert'
+uid: certification.mos-excel-2013-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+
+  本認證展現您取得 Microsoft Office Specialist Expert 認證，在 Microsoft Excel 方面具備進階技能。應試者應具備對 Excel 環境的進階專業知識，並具備指導其他人正確使用 Office Professional Plus Excel 2013 的能力。應試者應了解及能夠示範使用應用程式內的進階與專門功能。
+subTitle: 本認證展現您取得 Microsoft Office Specialist Expert 認證，在 Microsoft Excel 方面具備進階技能。
+levels:
+- intermediate
+skills:
+- 管理及共用活頁簿
+- 套用自訂格式和版面配置
+- 建立進階公式
+- 建立進階圖表和資料表
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-excel
+exams:
+- uid: exam.77-427
+- uid: exam.77-428
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 测验重放
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: help.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

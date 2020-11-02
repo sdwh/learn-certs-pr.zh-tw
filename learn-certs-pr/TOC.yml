@@ -1,4 +1,4 @@
-- name: Microsoft 認證
+- name: Microsoft Certifications
   href: index.yml
 - name: 優惠
   href: deals.md
@@ -7,27 +7,52 @@
 - name: Microsoft Learning Partners
   href: partners.md
 - name: 停止提供的認證，測驗和課程
-  expanded: false
+  expanded: 錯誤
   items:
   - name: 停用的證書
     href: retired-certifications.md
   - name: 停止提供的測驗
-    href: retired-certification-exams.md 
-  - name: 停止提供的課程
+    href: retired-certification-exams.md
+  - name: 停用課程
     href: retired-courses.md
-- name: 成為經 Microsoft 認證的訓練師
+- name: 成為經 Microsoft 認證的培訓師
   href: mct-certification.md
-- name: 關於Microsoft認證考試
+- name: 關於 Microsoft 認證測驗
   href: certification-exams.md
 - name: Microsoft 測驗與認證徽章
   href: badges.md
-- name: 關於線上測驗
+- name: 關於透過 Pearson VUE 進行的線上測驗
   href: online-exams.md
+- name: 關於透過 PSI 進行的線上測驗
+  href: online-exams-psi.md
 - name: 測驗政策和常見問題
-  href: certification-exam-policies.md
-- name: 認證說明
+  expanded: 錯誤
+  items:
+  - name: 測驗流程概述
+    href: exam-process-overview.md
+  - name: 測驗安全策略和測驗重考策略
+    href: exam-security-policy-and-exam-retake-policy.md
+  - name: 測驗改期和取消策略
+    href: exam-reschedule-and-cancellation-policy.md
+  - name: Microsoft Certification 規劃合約
+    href: microsoft-certification-program-agreement.md
+  - name: Microsoft測驗保密協議
+    href: microsoft-exam-non-disclosure-agreement.md
+  - name: 要求住宿
+    href: request-accommodations.md
+  - name: 考試考題挑戰流程
+    href: exam-item-challenge-process.md
+  - name: Beta exams
+    href: beta-exams.md
+  - name: 認證測驗的大學學分
+    href: college-credit-for-certification-exams.md
+  - name: 學生折扣
+    href: student-discounts.md
+- name: 認證幫助
   href: help.md
-- name: Microsoft Certification program FAQs 
+- name: Microsoft Official Courseware (MOC)幫助
+  href: certification-and-training-help.md
+- name: Microsoft Certification Program 常見問題
   href: microsoft-certification-program-faqs.md
-- name: 移轉到 Microsoft Learning...
+- name: 搜尋 Microsoft 學習 ...
   href: learnfaq.md

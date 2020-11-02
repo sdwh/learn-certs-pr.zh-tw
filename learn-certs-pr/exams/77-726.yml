@@ -5,15 +5,15 @@ metadata:
   description: 'Exam 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
 uid: exam.77-726
 displayName: 77-726
-summary: |+
-  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
   Word 2016 測驗的專家級應試者能夠熟練使用 Word 2016 的進階功能進行文件與內容管理以及進階格式化。
 
-  應試者為各種專業目的和情況創建並管理四頁或更多頁的專業文件。他們可以自訂其 Word 環境，以符合專案需求及提高生產力。Expert 等級文件的範例包括商業計劃、論文、書籍、專業摺頁冊及大宗郵件。應試者角色可能包括編輯、專案經理，商業資訊工作者，教育工作者等。
+  應試者為各種專業目的和情況建立並管理四頁或更多頁的專業文件。他們可以自訂其 Word 環境，以符合專案需求及提高生產力。Expert 等級文件的範例包括商業計劃、論文、書籍、專業摺頁冊及大宗郵件。應試者角色可能包括編輯、專案經理，商業資訊工作者，教育工作者等。
 
   Microsoft Office Specialist (MOS) 2016 認證測驗為使用 MOS 2016 計劃改進對應試者的知識、技能及能力的測試而引進新的基於性能的格式&#58;
-  - MOS 2016 測驗任務說明一般不包括命令名稱，如舊版所示。例如，會避免出現函數名稱並將其取代為描述元。這表示，應試者必須瞭解計畫功能的用途及一般使用方式，才能成功完成每個專案中的任務。
+  - MOS 2016 測驗任務說明一般不包括命令名稱，如舊版所示。例如，會避免出現函數名稱並將其取代為描述元。這表示，應試者必須了解計畫功能的用途及一般使用方式，才能成功完成每個專案中的任務。
   - MOS 2016 測驗格式併入多個專案。
 subTitle: Word 2016 測驗的專家級應試者能夠熟練使用 Word 2016 的進階功能進行文件與內容管理以及進階格式化。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -34,17 +34,19 @@ locales:
 levels:
 - intermediate
 skills:
-- 管理文件選項與設定 (35-40%)
-- 設計進階文件 (20-25%)
+- 管理文檔選項和設定 (35-40%)
+- 設計進階文檔 (20-25%)
 - 建立進階參考 (20-25%)
-- 建立自訂的 Word 元素 (15-20%)
+- 建立自定義 Word 元素 (15-20%)
 roles:
-- developer
+- business-user
 products:
 - office
 relatedCertifications:
 - related:
     uid: certification.mos-word-2016-expert
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
@@ -52,7 +54,7 @@ resources:
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
+- title: 要求住宿
   description: 詳細了解有關為測驗申請調整的資訊。
   href: ../request-accommodations.md
 - title: 測驗政策和常見問題
