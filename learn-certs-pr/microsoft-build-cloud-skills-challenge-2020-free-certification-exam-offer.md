@@ -1,17 +1,18 @@
-﻿---
+---
 title: 'Microsoft Build Cloud Skills Challenge 2020: Free Certification Exam | Microsoft Docs'
 description: 'Microsoft Build Cloud Skills Challenge 2020: Free Certification Exam' 
 documentationcenter: NA 
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 05/18/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Microsoft Build Cloud Skills Challenge 2020: Free Certification Exam
 
-感謝您參加[Microsoft Build 2020](https://mybuild.microsoft.com/)並完成 2020 年 Microsoft Build 雲端技能挑戰賽。所有完成一個挑戰收集的參與者都有資格參加免費的認證測驗，但要遵守 [條款和條件](#terms-and-conditions)，以幫助您繼續熟練並向雇主和同行證明您的技術專長。
+感謝您參加[Microsoft Build 2020](https://mybuild.microsoft.com/) 並完成 2020 年 Microsoft Build 雲端技能挑戰賽。所有完成一個挑戰收集的參與者都有資格參加免費的認證測驗，但要遵守 [條款和條件](#terms-and-conditions)，以幫助您繼續熟練並向雇主和同行證明您的技術專長。
 
 ## 詳情
 
@@ -21,7 +22,7 @@ ms.author: micsullivan
 
 以下是有關如何取得免費考試的逐步說明。
 
-**第 1 步：** 選擇任何[資格測驗](#eligible -exams)之一，然後單擊“計劃測驗”按鈕以開始線上註冊過程。  
+**第 1 步：** 選擇任何[資格測驗](#eligible-exams) 之一，然後單擊“計劃測驗”按鈕以開始線上註冊過程。  
 ![安排一門測驗](images/step1.png)
 
 **第 2 步：** 登入到現有的 Microsoft 認證個人資料或使用 Microsoft 帳戶建立一個。  
@@ -33,7 +34,7 @@ ms.author: micsullivan
 **第 4 步：** 在證書個人資料頁面底部按一下"儲存並繼續按鈕”，以繼續 '測驗折扣' 頁面。  
 ![按一下認證個人資料頁面底部的儲存並繼續按鈕](images/step-4-2x.png)
 
-**第 5 步：** 在“測驗折扣”頁面上，輸入用於註冊活動的電子郵件（例如 alias@company.com 或 alias@outlook.com)。  
+**第 5 步：** 在“測驗折扣”頁面上，輸入用於註冊活動的電子郵件(例如 alias@company.com 或 alias@outlook.com)。  
 ![輸入用於註冊活動的電子郵件](images/step5-1-enter-email.png)
 
 **第 6 步：** 如果您有資格取得測驗折扣，您將收到一封確認電子郵件，其中包含您輸入的地址。您必須輸入在電子郵件中收到的密碼才能繼續。如果您沒有收到電子郵件，則可以重新發送代碼。  
@@ -60,8 +61,8 @@ ms.author: micsullivan
 
 | 按產品| 測驗 |
 | --- | --- |
-| Azure | [AI-100: Designing and Implementing an Azure AI Solution](/learn/certifications/exams/ai-100)<br/>[AI-900: Microsoft Azure AI Fundamentals](/learn/certifications/exams/ai-900)<br/>[AZ-104: Microsoft Azure Administrator](/learn/certifications/exams/az-104)<br/>[AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](/learn/certifications/exams/az-120)<br/>[AZ-204: Developing Solutions for Microsoft Azure](/learn/certifications/exams/az-204)<br/>[AZ-220: Microsoft Azure IoT Developer](/learn/certifications/exams/az-220)<br/>[AZ-300: Microsoft Azure Architect Technologies](/learn/certifications/exams/az-300)<br/>[AZ-301: Microsoft Azure Architect Design](/learn/certifications/exams/az-301)<br/>[AZ-303: Microsoft Azure Architect Technologies](/learn/certifications/exams/az-303)<br/>[AZ-304: Microsoft Azure Architect Design](/learn/certifications/exams/az-304)<br/>[AZ-400: Designing and Implementing Microsoft DevOps Solutions](/learn/certifications/exams/az-400)<br/>[AZ-500: Microsoft Azure Security Technologies](/learn/certifications/exams/az-500)<br/>[AZ-900: Microsoft Azure Fundamentals](/learn/certifications/exams/az-900)<br/>[DA-100: Analyzing Data with Microsoft Power BI](/learn/certifications/exams/da-100)<br/>[DP-100: Designing and Implementing a Data Science Solution on Azure](/learn/certifications/exams/dp-100)<br/>[DP-200: Implementing an Azure Data Solution](/learn/certifications/exams/dp-200)<br/>[DP-201: Designing an Azure Data Solution](/learn/certifications/exams/dp-201)<br/>[DP-300: Administering Relational Databases on Microsoft Azure](/learn/certifications/exams/dp-300)<br/>[DP-900: Microsoft Azure Data Fundamentals](/learn/certifications/exams/dp-900) |
-| Dynamics 365 and Power Platform | [MB-200: Microsoft Power Platform + Dynamics 365 Core](/learn/certifications/exams/mb-200)<br/>[MB-210: Microsoft Dynamics 365 Sales](/learn/certifications/exams/mb-210)<br/>[MB-220: Microsoft Dynamics 365 Marketing](/learn/certifications/exams/mb-220)<br/>[MB-230: Microsoft Dynamics 365 Customer Service](/learn/certifications/exams/mb-230)<br/>[MB-240: Microsoft Dynamics 365 Field Service](/learn/certifications/exams/mb-240)<br/>[MB-300: Microsoft Dynamics 365: Core Finance and Operations](/learn/certifications/exams/mb-300)<br/>[MB-310: Microsoft Dynamics 365 Finance](/learn/certifications/exams/mb-310)<br/>[MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing](/learn/certifications/exams/mb-320)<br/>[MB-330: Microsoft Dynamics 365 Supply Chain Management](/learn/certifications/exams/mb-330)<br/>[MB-400: Microsoft Power Apps + Dynamics 365 Developer](/learn/certifications/exams/mb-400)<br/>[MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer](/learn/certifications/exams/mb-500)<br/>[MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect](/learn/certifications/exams/mb-600)<br/>[MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect](/learn/certifications/exams/mb-700)<br/>[MB-901: Microsoft Dynamics 365 Fundamentals](/learn/certifications/exams/mb-901) <br/>[PL-100: Microsoft Power Platform App Maker](/learn/certifications/exams/pl-100)<br/>[PL-900: Microsoft Power Platform Fundamentals](/learn/certifications/exams/pl-900) |
+| Azure | [AI-100: Designing and Implementing an Azure AI Solution](/learn/certifications/exams/ai-100)<br/>[AI-900: Microsoft Azure AI Fundamentals](/learn/certifications/exams/ai-900)<br/>[AZ-104: Microsoft Azure Administrator](/learn/certifications/exams/az-104)<br/>[AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](/learn/certifications/exams/az-120)<br/>[AZ-204: Developing Solutions for Microsoft Azure](/learn/certifications/exams/az-204)<br/>[AZ-220: Microsoft Azure IoT Developer](/learn/certifications/exams/az-220)<br/>[AZ-303: Microsoft Azure Architect Technologies](/learn/certifications/exams/az-303)<br/>[AZ-304: Microsoft Azure Architect Design](/learn/certifications/exams/az-304)<br/>[AZ-400: Designing and Implementing Microsoft DevOps Solutions](/learn/certifications/exams/az-400)<br/>[AZ-500: Microsoft Azure Security Technologies](/learn/certifications/exams/az-500)<br/>[AZ-900: Microsoft Azure Fundamentals](/learn/certifications/exams/az-900)<br/>[DA-100: Analyzing Data with Microsoft Power BI](/learn/certifications/exams/da-100)<br/>[DP-100: Designing and Implementing a Data Science Solution on Azure](/learn/certifications/exams/dp-100)<br/>[DP-200: Implementing an Azure Data Solution](/learn/certifications/exams/dp-200)<br/>[DP-201: Designing an Azure Data Solution](/learn/certifications/exams/dp-201)<br/>[DP-300: Administering Relational Databases on Microsoft Azure](/learn/certifications/exams/dp-300)<br/>[DP-900: Microsoft Azure Data Fundamentals](/learn/certifications/exams/dp-900) |
+| Dynamics 365 and Power Platform | [MB-200: Microsoft Power Platform + Dynamics 365 Core](/learn/certifications/exams/mb-200)<br/>[MB-210: Microsoft Dynamics 365 Sales](/learn/certifications/exams/mb-210)<br/>[MB-220: Microsoft Dynamics 365 Marketing](/learn/certifications/exams/mb-220)<br/>[MB-230: Microsoft Dynamics 365 Customer Service](/learn/certifications/exams/mb-230)<br/>[MB-240: Microsoft Dynamics 365 Field Service](/learn/certifications/exams/mb-240)<br/>[MB-300: Microsoft Dynamics 365: Core Finance and Operations](/learn/certifications/exams/mb-300)<br/>[MB-310: Microsoft Dynamics 365 Finance](/learn/certifications/exams/mb-310)<br/>[MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing](/learn/certifications/exams/mb-320)<br/>[MB-330: Microsoft Dynamics 365 Supply Chain Management](/learn/certifications/exams/mb-330)<br/>[MB-400: Microsoft Power Apps + Dynamics 365 Developer](/learn/certifications/exams/mb-400)<br/>[MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer](/learn/certifications/exams/mb-500)<br/>[MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect](/learn/certifications/exams/mb-600)<br/>[MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect](/learn/certifications/exams/mb-700)<br/>[MB-901: Microsoft Dynamics 365 Fundamentals](/learn/certifications/exams/mb-901) <br/>[PL-100: Microsoft Power Platform App Maker](/learn/certifications/exams/pl-100)<br/>[PL-200: Microsoft Power Platform Functional Consultant](/learn/certifications/exams/pl-200)<br/>[PL-400: Microsoft Power Platform Developer](/learn/certifications/exams/pl-400)<br/>[PL-900: Microsoft Power Platform Fundamentals](/learn/certifications/exams/pl-900) |
 | Microsoft 365 | [MD-100: Windows 10](/learn/certifications/exams/md-100)<br/>[MD-101: Managing Modern Desktops](/learn/certifications/exams/md-101)<br/>[MS-100: Microsoft 365 Identity and Services](/learn/certifications/exams/ms-100)<br/>[MS-101: Microsoft 365 Mobility and Security](/learn/certifications/exams/ms-101)<br/>[MS-203: Microsoft 365 Messaging](/learn/certifications/exams/ms-203)<br/>[MS-500: Microsoft 365 Security Administration](/learn/certifications/exams/ms-500)<br/>[MS-600: Building Applications and Solutions with Microsoft 365 Core Services](/learn/certifications/exams/ms-600)<br/>[MS-700: Managing Microsoft Teams](/learn/certifications/exams/ms-700)<br/>[MS-900: Microsoft 365 Fundamentals](/learn/certifications/exams/ms-900) |
 
 ## 常問問題：
@@ -92,7 +93,7 @@ ms.author: micsullivan
 
 **問: 我可以選擇親自或線上參加排定的測驗嗎？**
 
-**答案：** 是的，您可以選擇透過本地測驗中心（如果有）親自透過 Pearson Vue 或透過[online](/learn/certifications/online-exams)參加計劃的測驗。由於 COVID -19 的限制，測試中心可能會暫時關閉。隨時瞭解最新的資訊[來自 Pearson Vue 的可用測試訊息](https://home.pearsonvue.com/coronavirus-update)。
+**答案：** 是的，您可以選擇透過本地測驗中心(如果有)親自透過 Pearson Vue 或透過[online](/learn/certifications/online-exams)參加計劃的測驗。由於 COVID -19 的限制，測試中心可能會暫時關閉。隨時瞭解最新的資訊[來自 Pearson Vue 的可用測試訊息](https://home.pearsonvue.com/coronavirus-update)。
 
 ### 取消和重新安排規定
 
@@ -102,7 +103,7 @@ ms.author: micsullivan
 
 **問: 重新安排或取消測驗預約時需要付費嗎？**
 
-**答案：** 如果您在取消之前沒有提供足夠的通知，則可以取消免費的測驗優惠。  如果您在重新安排時間之前沒有提供足夠的通知，則將收取一定費用。  欲瞭解更多，請查看 [取消和重新安排政策](/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**答案：** 如果您在取消之前沒有提供足夠的通知，則可以取消免費的測驗優惠。 如果您在重新安排時間之前沒有提供足夠的通知，則將收取一定費用。 欲瞭解更多，請查看 [取消和重新安排政策](/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 **問: 如果我錯過了測驗預約，並且沒有重新安排或取消測驗，會發生什麼？**
 
@@ -120,7 +121,7 @@ ms.author: micsullivan
 - 此測驗優惠可兌換參加一 (1) 次 Microsoft Certification 測驗，測驗地點為經授權的 Pearson Vue 測驗中心或 Pearson Vue 在線監考網站。
 - 此測驗優惠僅限測驗使用，且只能兌換選定的 Microsoft 測驗。
 - 此測驗優惠兌換窗口從2020年6月8日開始，到2021年1月31日截止。
-- 此測驗優惠使您可以在優惠到期之前註冊並參加一（1）項測驗。
+- 此測驗優惠使您可以在優惠到期之前註冊並參加一(1)項測驗。
 - 此測驗優惠的到期日在任何情況下都不能延長。
 - 此測驗優惠僅可兌換一次。
 - 此測驗優惠不得兌換現金、點數或退款。

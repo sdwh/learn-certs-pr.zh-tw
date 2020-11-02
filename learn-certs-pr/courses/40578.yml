@@ -1,0 +1,31 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Implementing Windows Virtual Desktop in the enterprise'
+metadata:
+  title: 'Course 40578-G: Microsoft Cloud Workshop: Implementing Windows Virtual Desktop in the enterprise'
+  description: 'Course 40578-G: Microsoft Cloud Workshop: Implementing Windows Virtual Desktop in the enterprise'
+uid: course.40578
+courseNumber: '40578-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 利用Microsoft 365和Azure技術構建Windows虛擬桌面基礎架構。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  在本研習會中，您將獲得利用Microsoft 365和Azure技術為Windows虛擬桌面設計解決方案的經驗。需要確定以下元素，以作為解決方案的一部分。第一個是Microsoft 365訂閱，它需要向使用者提供安全要求、Azure Active Directory、應用程式和Windows許可。接下來，需要配置支援Windows虛擬桌面環境所需的Azure基礎架構。最後，需要確定網路要求，以連接到應用伺服器的當前內部（on-premises ）基礎架構，以及在高安全和有限延遲的情況下正確訪問使用者桌面和內部（on-premises ）網路。
+
+  #### 觀眾概況
+
+  這個研習會面向雲架構師和IT專業人士，他們在雲技術的基礎架構和解決方案設計方面擁有架構專業知識，並且希望瞭解更多關於Azure和Azure服務的知識，如“關於本課程”和“課程完成時”部分所述。參加這個研習會的人還應該具有其他非微軟雲技術方面的經驗，符合參加本課程的先決條件，並且希望在Azure上進行交叉培訓。
+prerequisitesSection: |
+  研習會內容假定學生有300級（300-level）的基礎架構和解決方案設計的架構專業知識。我們建議學生在參加這個研習會之前先完成這個先決條件。
+  - 微軟Azure基本課程, http&#58;//www.microsoft.com/en-US/azureessentials
+outlineSection: "### 模組 1&#58;  白板設計課堂 - 在企業中實現Windows虛擬桌面\r\n#### 課程\r\n- 回顧客戶案例研究\r\n- 設計一個概念驗證解決方案\r\n- 呈現解決方案\r\n\r\n\r\n### 模組 2&#58;  動手實驗室 - 在企業中實現Windows虛擬桌面\r\n#### 課程\r\n- 使用AD DS配置Azure AD Connect\r\n- 為WVD創建Azure AD組\r\n- 為FSLogix創建Azure檔案共用\r\n- 為WVD創建主映射\r\n- 為個人桌面創建主機池（host pool）\r\n- 創建主機池並分配池中的遠端應用程式。 \r\n- 通過web用戶端連接到WVD\r\n- 設置WVD監控\r\n\r\n\r\n"
+

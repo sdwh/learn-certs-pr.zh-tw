@@ -1,11 +1,20 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform App Maker (beta)'
+title: 'Microsoft Power Platform App Maker'
 metadata:
-  title: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
-  description: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
+  title: 'Exam PL-100: Microsoft Power Platform App Maker'
+  description: 'Exam PL-100: Microsoft Power Platform App Maker'
 uid: exam.pl-100
 displayName: PL-100
-summary: "<div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>\r\n  \r\n該應用程式製造商為自己和他們的團隊構建了解決方案，以簡化，自動化和轉換任務和流程，他們在解決方案領域擁有豐富的專業知識。他們精通關鍵的技術業務分析師任務，例如資料建模，基本 UX 設計，需求分析，流程分析等。<br/><br/>\r\n\r\nApp Maker創建和執行業務流程，構建資訊的數字收集結構，提高可重複任務的效率，並使業務流程自動化。\r\n\r\nApp Maker使用Power Platform的Maker工具解決業務問題。他們可能具有 Visual Basic for Applications、Excel 資料透視表、Team 和其他工具的經驗。他們應該對資料模型、用戶介面和流程有基本的了解。App Maker知道可用工具的功能和局限性，並瞭解如何應用它們。\r\n\r\nApp Maker是自我指導的，專注於解決方案。他們可能沒有接受過正式的 IT 培訓，但很樂於以個人成長的心態使用技術來解決業務問題。他們了解操作需求，並對期望的結果有願景。他們採用分階段的迭代策略來解決問題。\r\n\r\n<div><strong><br/> Beta測試不會立即獲得評分，因為我們正在收集有關問題和測驗質量的資料。詳細了解 <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">Beta考試的價值和重要性</a>.</strong></div>"
+summary: |-
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+    
+  該應用程式製造商為自己和他們的團隊構建了解決方案，以簡化，自動化和轉換任務和流程，他們在解決方案領域擁有豐富的專業知識。他們精通關鍵的技術業務分析師任務，例如資料建模，基本 UX 設計，需求分析，流程分析等。<br/><br/>
+
+  App Maker建立和執行業務流程，構建資訊的數字收集結構，提高可重複任務的效率，並使業務流程自動化。
+
+  App Maker使用Power Platform的Maker工具解決業務問題。他們可能具有 Visual Basic for Applications、Excel 資料透視表、Team 和其他工具的經驗。他們應該對資料模型、用戶介面和流程有基本的了解。App Maker 知道可用工具的功能和局限性，並了解如何應用它們。
+
+  App Maker 是自我指導的，專注於解決方案。他們可能沒有接受過正式的 IT 培訓，但很樂於以個人成長的心態使用技術來解決業務問題。他們了解操作需求，並對期望的結果有願景。他們採用分階段的迭代策略來解決問題。
 subTitle: '該測驗衡量您完成以下技術任務的能力：設計解決方案；建立解決方案；分析資料；並實作和管理解決方案。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
@@ -13,7 +22,7 @@ providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=PL-100&examname=Exam%20PL-100:%20Microsoft%20Power%20Platform%20App%20Maker&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-100
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=PL-100&provider=psi&examname=Exam%20PL-100:%20Microsoft%20Power%20Platform%20App%20Maker&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-100
 locales:
 - en
 levels:
@@ -81,7 +90,7 @@ relatedCertifications:
     uid: certification.power-platform-app-maker
 resources:
 - title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+  description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjG
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
@@ -89,7 +98,7 @@ resources:
 - title: 認證海報
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay
+- title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
 - title: 支援認證考試

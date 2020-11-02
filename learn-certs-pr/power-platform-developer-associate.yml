@@ -2,26 +2,24 @@
 title: 'Microsoft Certified: Power Platform Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Developer Associate'
-  description: 該認證將在 2020 年 9 月 25 日或前後可用。Microsoft Power Platform Developer Associate認證的應試者，設計、開發、保護Power Platform解決方案並進行疑難排解。
+  description: Microsoft Power Platform Developer Associate 認證的應試者，設計、開發、保護 Power Platform 解決方案並進行疑難排解。
 uid: certification.power-platform-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong><br/><br/></font></div>
 
-  Microsoft Power Platform Developer Associate認證的應試者，設計、開發、保護Power Platform解決方案並進行疑難排解。他們 實作解決方案的元件，包括應用程式增強功能，自訂使用者體驗，系統整合，資料轉換，自訂流程自動化和自訂視覺效果。
+  Microsoft Power Platform Developer Associate 認證的應試者，設計、開發、保護 Power Platform 解決方案並進行疑難排解。他們實作解決方案的元件，包括應用程式增強功能，自訂使用者體驗，系統整合，資料轉換，自訂流程自動化和自訂視覺效果。
 
-  應試者必須對Power Platform服務具有豐富的應用知識。應試者對他們的能力、界限和約束有深入的了解。他們應該 Power Platform的DevOps實踐有基本的了解。
+  應試者必須對 Power Platform 服務具有豐富的應用知識。應試者對他們的能力、界限和約束有深入的了解。他們應該 Power Platform 的 DevOps 實踐有基本的了解。
 
-  他們在此職位上的開發經驗應包括Power Platform服務，JavaScript，JSON，TypeScript，C＃，HTML，.NET，Microsoft Azure，Microsoft 365，RESTful Web服務，ASP.NET和Power BI。
-
-  <div><br/><strong>附註&#58; 該認證將在 2020 年 9 月 25 日或前後可用。</strong></div>
-subTitle: 該認證將在 2020 年 9 月 25 日或前後可用。Microsoft Power Platform Developer Associate認證的應試者，設計、開發、保護Power Platform解決方案並進行疑難排解。
+  他們在此職位上的開發經驗應包括 Power Platform 服務、JavaScript、JSON、TypeScript、C＃、HTML、.NET、Microsoft Azure、Microsoft 365、RESTful Web服務，ASP.NET 和 Power BI。
+subTitle: Microsoft Power Platform Developer Associate 認證的應試者，設計、開發、保護 Power Platform 解決方案並進行疑難排解。
 levels:
 - intermediate
 skills:
 - 建立一項技術設計
 - 設定公共資料服務
-- 創建和設定 Power Apps
+- 建立和設定 Power Apps
 - 配置業務流程自動化
 - 擴展使用者體驗
 - 擴展平台
@@ -33,6 +31,16 @@ products:
 - power-platform
 - power-apps
 - common-data-service
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.integrate-power-platform
+- uid: learn-dynamics.use-power-apps-component-framework
+- uid: learn-bizapps.administer-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhzw
 exams:
 - uid: exam.pl-400
@@ -46,7 +54,7 @@ resources:
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Replay
+- title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 認證儀錶板

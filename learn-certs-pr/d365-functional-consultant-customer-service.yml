@@ -6,25 +6,25 @@ metadata:
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div>
-  <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-  <div> <strong>2020 年 9 月，MB-200 將被替換為新測驗，<a href="/learn/certifications/exams/pl-200">PL-200</a>。通過 MB-200 或 PL-200，再加 MB-230，您將可以取得此認證，直到 MB-200 於 2020 年 12 月 31 日停用。MB-200 停用後，必須通過 PL-200 和 MB-230 才能取得此認證。 </strong><br/><br/></div></div>
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><strong>2020 年 9 月，MB-200 將被替換為<a href="/learn/certifications/exams/pl-200">PL-200</a>新測驗。通過 MB-200 或 PL-200，再加 MB-230，您將可以取得此認證，直到 MB-200 於 2020 年 12 月 31 日停用。MB-200 停用後，必須通過 PL-200 和 MB-230 才能取得此認證。 </strong><br/><br/></div></div>
 
-  Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用 AI 的 CX 解決方案，以推動可預測客戶需求的可採取動作的見解。
+  Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用AI的CX解決方案，以推動可預測客戶需求的可採取動作的見解。
 subTitle: Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用 AI 的 CX 解決方案，以推動可預測客戶需求的可採取動作的見解。
 levels:
 - intermediate
 skills:
-- 執行探索，計畫和分析
-- 管理使用者體驗設計
-- 管理實體和數據
-- 實作安全
-- 實作整合
+- 執行發現，計劃和分析
+- 管理用戶體驗設計
+- 管理實體和資料
+- 實作安全性
+- 實作集成
 - 執行解決方案部署和測試
-- 執行配置
-- 管理服務案與知識庫
-- 管理隊列，權利和 SLA
-- 設定 Forms Pro
+- 管理案例和知識管理
+- 管理隊列，權利和服務級別協議（SLA）
+- 實作計劃
+- 實作客戶服務全渠道
+- 管理分析
 roles:
 - functional-consultant
 type: role-based
@@ -61,9 +61,9 @@ resources:
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+  description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87
-- title: Exam Replay
+- title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: deals.md
 - title: 認證儀錶板
