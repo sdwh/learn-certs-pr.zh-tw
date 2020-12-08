@@ -7,7 +7,7 @@
 - name: Microsoft Learning Partners
   href: partners.md
 - name: 停止提供的認證，測驗和課程
-  expanded: 錯誤
+  expanded: false
   items:
   - name: 停用的證書
     href: retired-certifications.md
@@ -26,10 +26,10 @@
 - name: 關於透過 PSI 進行的線上測驗
   href: online-exams-psi.md
 - name: 測驗政策和常見問題
-  expanded: 錯誤
+  expanded: false
   items:
-  - name: 測驗流程概述
-    href: exam-process-overview.md
+  - name: 常見問題及回答
+    href: frequently-asked-questions.md  
   - name: 測驗安全策略和測驗重考策略
     href: exam-security-policy-and-exam-retake-policy.md
   - name: 測驗改期和取消策略

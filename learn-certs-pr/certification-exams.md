@@ -28,7 +28,7 @@ Microsoft Certification 可協助您從職涯的起點邁向高峰。認證能�
 
 #### 教師主導的課程
 
-[查找 Microsoft 認證訓練師提供的 Microsoft 技術的課堂和依需求訓練。](https://www.microsoft.com/learning/find-partner.aspx)
+[查找 Microsoft 認證訓練師提供的 Microsoft 技術的課堂和依需求訓練。](/learn/certifications/partners)
 
 #### 探索免費的線上訓練
 
@@ -185,7 +185,7 @@ Beta 測驗是測驗研擬流程的關鍵。透過參與 Beta 形式的測驗，
 
 Microsoft Beta 測驗提供 80％ 的折扣（需提供優惠碼）。考核完成後，利用80％折扣參加Beta測驗的應試者在下一次測驗中可獲得25％的折扣，如下所述：[Updates on Microsoft Beta Exam Program](/learn/certifications/posts/updates-on-microsoft-beta-exam-program)._並非所有Beta版參與者都可享受此折扣。如果您透過其他任何方式為Beta測驗付費，則您沒有資格獲得25％的折扣券。
 
-如要獲取代碼，您既可以成為我們的 SME 個人檔案資料庫的成員，也可以從我們的[測驗原則和常見問題集頁面](/learn/certifications/certification-exam-policies)左側的“公告”部分中獲取代碼。SME 個人檔案資料庫計劃中符合資格的參與者會收到一個唯一的折扣代碼，以參與 Beta 測驗，提高在 Beta 測驗中取得席位的可能性。
+要獲取代碼，您可以成為我們的SME Profile資料庫成員，或從[Microsoft Learn Blog](https://aka.ms/learningblog)上的公告處獲取。SME 個人檔案資料庫計劃中符合資格的參與者會收到一個唯一的折扣代碼，以參與 Beta 測驗，提高在 Beta 測驗中取得席位的可能性。
 
 SME 個人檔案資料庫規劃現在 [Microsoft Collaborate](https://aka.ms/collaborate)託管。請參閱社區部落格[幫助我們建立測驗和學習內容！立即加入我們的 SME 資料庫！](/learn/certifications/posts/help-us-create-exams-and-learning-content) ，以獲取有關如何加入 Collaborate 計劃的說明。
 

@@ -26,7 +26,7 @@ skills:
 - 安排和派遣工單
 - 管理現場服務流動性
 - 管理庫存與採購
-- 管理資產與協議
+- 實現Connected Field Service
 roles:
 - functional-consultant
 type: role-based
@@ -56,7 +56,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: 認證之旅
   description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

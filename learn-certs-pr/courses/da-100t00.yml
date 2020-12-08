@@ -31,7 +31,15 @@ summary: |-
   #### 對象設定檔
   本課程的讀者是想要學習如何使用 Power BI 準確執行資料分析的資料專業人員和商業智慧專業人員。本課程還面向那些開發報告的人員，這些報告可以視覺效果來自雲端和內部部署中的資料平台技術的資料。
 prerequisitesSection: |-
-  除了他們的專業經驗之外，參加此培訓的學生還應具有與 Azure 基礎知識課程中找到的資訊等效的技術知識。
+  成功的Data Analyst憑藉使用雲端資料的經驗開始該角色。
+  
+  具體而言&#58;
+  - 瞭解核心資料概念
+  - 瞭解雲端資料的使用
+  - 瞭解雲端非關係資料的使用
+  - 瞭解資料分析及視覺化的概念 
+  
+  在開始本課程學習前，通過完成[Microsoft Azure Data Fundamentals]學習(/learn/certifications/azure-data-fundamentals)，您會具備Azure資料使用的先決條件，也會對其有更深入的理解。
 outlineSection: |-
   ### 模組 1&#58;Microsoft Data Analytics 入門
   本模組探討了資料空間中的不同角色，概述了資料分析師的重要角色和職責，然後探討了 Power BI 產品組合的前景。

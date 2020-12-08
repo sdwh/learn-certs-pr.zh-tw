@@ -15,13 +15,6 @@ summary: |-
   Azure 解決方案架構師與雲端管理員，雲端 DBA 和客戶端合作以實作解決方案。
 
   參加此認證的應試者應該在 IT 運營方面具有先進的經驗和知識，包括網路、視覺效果、身份、安全性、業務連續性、災難恢復、資料管理、預算和治理——該角色應管理各個領域的決策如何影響整體解決方案。此外，該角色應具有 Azure 管理方面的專家級技能，並具有 Azure 開發和 DevOps 流程的經驗。
-
-  <div><strong><br/>如果您通過以下測驗組合之一，則將取得此證書（請注意，英語版本 AZ-300 和 AZ-301 已於 2020 年 9 月 30 日退役，而本地化版本將於 2020 年 10 月 30 日退休）&#58;<ul>
-  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> 和 <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
-  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> 和 <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
-  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> 和 <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
-  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> 和 <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
-  </ul></strong></div>
 subTitle: Azure 解決方案架構師設計並實作了可在 Microsoft Azure 上運行的解決方案，包括計算、網路、存儲和安全性等方面。
 levels:
 - advanced

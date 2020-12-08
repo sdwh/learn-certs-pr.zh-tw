@@ -6,7 +6,7 @@ metadata:
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
-  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>該測驗的內容已於 2020 年 9 月 24 日更新。請下載下方的技能衡量文件,以查看有哪些更改。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>本次考試的內容將於2020年11月24日更新。請下載以下的技能測試文檔以查看將發生什麼變化。</strong><br/><br/></div>
   </div>
 
   參加該測驗的應試者是資料庫管理員和資料管理專家，他們管理使用 Microsoft SQL Server 和 Microsoft Azure 資料服務構建的本地和雲關係資料庫。
@@ -26,7 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 此測驗內容將於 2020 年 9 月 24 日更新。請下載下面概述的測驗技能，以了解將會發生什麼變化。
+- 本次考試的內容將於2020年11月24日更新。請下載下述考試技巧以查看將發生什麼變化。
 - 規劃和實作資料平台資源 (15-20%)
 - 實作安全的環境 (15-20%)
 - 監視和最佳化可作業資源 (15-20%)

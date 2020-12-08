@@ -6,7 +6,10 @@ metadata:
 uid: exam.ms-203
 displayName: MS-203
 summary: |-
+  <div>
   <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
+  <div><strong>本次考試的內容將於2020年11月24日更新。請下載以下的技能測試文檔以查看將發生什麼變化。</strong><br/><br/></div>
+  </div>
 
   此測驗的應試者是傳訊管理員，他們在混合式和雲端企業環境中部署、設定、管理、疑難排解和監控收件者、權限、郵件保護、郵件流和公用資料夾。
 
@@ -18,12 +21,14 @@ summary: |-
 subTitle: '這項測驗衡量您完成以下技術任務的能力：管理組織設置和資源；規劃和管理郵件體系結構；規劃和實作混合設定和遷移；並確保傳訊環境的安全。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4xqnc
+practiceTestUrl: https://in.mindhub.com/ms-203-microsoft-365-messaging-microsoft-official-practice-test/p/MU-MS-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
 locales:
 - en
 levels:
 - intermediate
 skills:
+- 本次考試的內容將於2020年11月24日更新。請下載下述考試技巧以查看將發生什麼變化。
 - 管理組織設置和資源 (30-35%)
 - 規劃和管理郵件體系結構 (20-25%)
 - 計劃和實作混合配置和移轉 (20-25%)

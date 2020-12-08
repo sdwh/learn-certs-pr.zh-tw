@@ -15,12 +15,13 @@ levels:
 skills:
 - 使用通用功能與實作工具
 - 設定安全性、流程與選項
-- 執行數據遷移
+- 管理Finance and Operations資料
 - 驗證並支援解決方法
 - 實作產品資訊管理
 - 實作庫存管理
-- 實作與管理供應鏈流程
-- 實作倉儲管理與運輸管理並執行業務流程
+- 實現和管理Supply Chain流程
+- 實施倉庫管理和運輸管理
+- 實施主計畫
 roles:
 - functional-consultant
 type: role-based

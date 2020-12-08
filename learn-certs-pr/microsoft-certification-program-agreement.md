@@ -12,8 +12,6 @@ ms.prod: non-product-specific
 ---
 # Microsoft Certification 規劃合約
 
-## 策略和協議
-
 這份Microsoft Certification 規劃合約 (下稱 **“合約”** ) 為您 (下稱 **“您”** 或 **“您的”** ) 與 Microsoft (下稱 **“Microsoft”** ) 之間關於您參與Microsoft Certification 規劃(下稱 **“規劃”** )的法律文件。本合約的條款適用於 (a) 您取得的任何Microsoft Certification ，以及 (b) 您參與規劃的相關事宜，包括存取與使用由 Microsoft 在規劃中提供給您的任何Microsoft Certification 規劃權益和Microsoft Certification 標誌。請仔細閱讀本合約。若存取或使用Microsoft Certification 規劃權益或Microsoft Certification 證明，即表示您接受本合約的條款與條件。若您不同意本合約，請勿存取或使用任何Microsoft Certification 規劃權益或Microsoft Certification 證明。
 
 1. 定義

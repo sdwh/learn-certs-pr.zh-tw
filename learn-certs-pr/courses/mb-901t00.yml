@@ -32,7 +32,7 @@ summary: |-
   此教程將會概述Dynamics 365所有的應用程式我們將會介紹所有的應用程式，展示它們的商業價值，並討論和演示它們的核心功能我們介紹的內容將會涵蓋Dynamics 365的安全、報告，並用數據和產品整合來令您熟悉這些應用
 
   #### 對象設定檔
-  本課程面向想要在Dynamics 365的基礎方面有紮實基礎的學習者。
+  本課程的目標人群是希望扎實掌握Dynamics 365基礎知識的學員。
 prerequisitesSection: |-
   無
 outlineSection: |-
@@ -97,7 +97,7 @@ outlineSection: |-
   - 闡明在 Dynamics 365 Sales里如何管理銷售流程
   - 發現Microsoft Relationship Sales Solution（MRSS）
   - 解釋Dynamics 365 Sales Insights的商業價值
-  - 解釋Microsoft Forms Pro的商業價值
+  - 說明Dynamics 365 Customer Voice的商業價值
 
 
   ### 模塊 4&#58;介紹Dynamics 365 Marketing

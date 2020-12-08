@@ -1,0 +1,188 @@
+### YamlMime:Course
+title: Microsoft Power Platform Functional Consultant
+metadata:
+  title: 'Course PL-200T00-A: Microsoft Power Platform Functional Consultant'
+  description: 'Course PL-200T00-A: Microsoft Power Platform Functional Consultant'
+uid: course.pl-200t00
+courseNumber: 'PL-200T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 與一個組織合作，收集需求並實施Power Platform解決方案
+- skill: 建立模型驅動、畫布和門戶應用程式
+- skill: 創建Power Automate流程
+- skill: 用Power Virtual Agents設計簡單的聊天機器人
+- skill: 用Power BI視覺化和控制台來分析資料
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-200
+summary: |-
+  Power Platform將使組織能實現業務流程自動化及自主開發大量的應用程式。在本課程中，學生將學會執行發現、捕獲需求、吸引領域專家和利益相關者、翻譯需求、配置Power Platform解決方案和應用程式。這樣，動手實驗室將補充學生創建應用程式增強、自訂使用者體驗、系統集成、資料轉換、自訂流程自動化和自訂視覺化的知識。Power Platform包括四個關鍵產品：Power Apps、Power Automate、Power BI和Power Virtual Agents。在本課程中，我們將深入講解這四個應用程式，另外還將關注Common Data Service、AI Builder、連接器和門戶。
+
+  #### 對象設定檔
+  Power Platform功能顧問負責執行發現、捕獲需求、吸引領域專家和利益相關者、翻譯需求、配置Power Platform解決方案和應用程式。功能顧問將實施解決方案的各個部分，包括應用增強、自訂使用者體驗、系統集成、資料轉換、自訂流程自動化和自訂視覺化。
+prerequisitesSection: |-
+  - 作為IT專業人員或學生的經驗
+  - Power Platform及其關鍵元件的使用知識
+  - 瞭解Common Data Service和安全概念
+outlineSection: |-
+  ### 模組 1&#58; Power Platform簡介
+  本模組將為學員提供Power Platform及其4個關鍵元件的背景知識&#58; Power Apps、Power Automate、Power BI和Power Virtual Agents。
+  #### 課程概述
+  - Power Platform概述
+  
+  #### 實驗室&#58; 確認實驗室環境
+  
+  完成本模組學習後，學生將能&#58; 
+  - 識別Power Platform的關鍵元件
+  - 描述功能顧問的角色
+  
+  
+  ### 模組 2&#58; 使用Common Data Service
+  在本模組中，學生將瞭解在Common Data Service中創建資料模型，包括導入資料、表格報告選項和配置安全設置。他們還將瞭解用AI Builder創建簡易AI的方法。
+  #### 課程概述
+  - 使用資料模型
+  - 創建和管理流程
+  - 使用AI Builder
+  - 配置Common Data Service設置
+  - 導入和匯出資料
+  - 使用表格報告選項
+  - 配置安全設置
+  
+  #### 實驗室&#58; 創建應用程式
+  
+  #### 實驗室&#58; 創建實體和欄位
+  
+  #### 實驗室&#58; 創建關係
+  
+  #### 實驗室&#58; 其他實體選項
+  
+  完成本模組學習後，學生將能&#58; 
+  - 創建資料模型
+  - 配置Common Data Service設置
+  - 配置安全設置
+  
+  
+  ### 模組 3&#58; 製作Power應用程式
+  在本模組中，學生將瞭解這三種Power應用程式的商業價值。隨後，他們將學習如何配置和設計這些應用程式，包括各種應用的用戶體驗考慮事項。
+  #### 課程概述
+  - 製作模型驅動應用程式
+  - 製作畫布應用程式
+  - 製作門戶應用程式
+  
+  #### 實驗室&#58; 應用設計器
+  
+  #### 實驗室&#58; 修改形狀
+  
+  #### 實驗室&#58; 修改視圖
+  
+  #### 實驗室&#58; 建立控制台
+  
+  #### 實驗室&#58; 畫布應用程式基礎
+  
+  #### 實驗室&#58; 使用資料和服務
+  
+  #### 實驗室&#58; 使用者體驗
+  
+  完成本模組學習後，學生將能&#58; 
+  - 創建和設計Power應用程式
+  - 連接Power應用程式和資料
+  - 設計應用程式導航
+  
+  
+  ### 模組 4&#58; 建立Power Automate流程
+  在本模組中，學生將學習如何用 Power Automate流程、業務流程和UI流程來實現業務流程自動化。
+  #### 課程概述
+  - 建立流程
+  - 建立業務流程
+  - 建立UI流程
+  
+  #### 實驗室&#58; 創建用戶
+  
+  #### 實驗室&#58; 創建安全角色
+  
+  #### 實驗室&#58; 配置新的業務角色
+  
+  #### 實驗室&#58; 高級業務規則
+  
+  #### 實驗室&#58; 創建流程
+  
+  #### 實驗室&#58; 建立審批流
+  
+  #### 實驗室&#58; 建立業務流程
+  
+  #### 實驗室&#58; 給業務流程添加分支
+  
+  完成本模組學習後，學生將能&#58; 
+  - 用流程實現業務流程自動化
+  - 在Power Automate中連接到資料
+  - 用分支邏輯創建業務流程
+  
+  
+  ### 模組 5&#58; 使用Power Virtual Agents
+  在本模組中，學生將學習如何用Power Virtual Agents實現客戶與聊天機器人的交互自動化。
+  #### 課程概述
+  - 創建聊天機器人
+  - 配置主題
+  - 自動化和集成
+  - 配置實體
+  - 測試和發佈聊天機器人
+  
+  #### 實驗室&#58; 創建聊天機器人
+  
+  完成本模組學習後，學生將能&#58; 
+  - 配置主題、實體和變體
+  - 創建聊天機器人
+  - 集成Omnichannel for Customer Service
+  - 使用PVA介面
+  
+  
+  ### 模組 6&#58; 用Power BI分析資料
+  在本模組中，學生將學習如何使用Power BI Desktop和Power BI Service來分析資料和創建視覺化。
+  #### 課程概述
+  - 初步瞭解Power BI
+  - Power BI中的模型資料
+  - 創建視覺化
+  - 創建控制台
+  - Power BI中的發佈和分享
+  
+  #### 實驗室&#58; 建立Word範本
+  
+  #### 實驗室&#58; 建立Excel範本
+  
+  #### 實驗室&#58; 重複檢測
+  
+  #### 實驗室&#58; 導入資料
+  
+  #### 實驗室&#58; 匯出資料
+  
+  #### 實驗室&#58; 批量刪除
+  
+  完成本模組學習後，學生將能&#58; 
+  - 創建視覺化
+  - 使用Power BI中的資料
+  - 匯出利益相關者的資料視覺化
+  
+  
+  ### 模組 7&#58; 顧問技能
+  在本模組中，學生將進一步瞭解功能顧問角色和為組織順利實施Power Platform解決方案的技能。
+  #### 課程概述
+  - 顧問技能概述
+  - 創建和確認文檔
+  - 吸引利益相關者
+  - 執行品質保證
+  - 配置集成
+  
+  完成本模組學習後，學生將能&#58; 
+  - 識別相應的文檔
+  - 編寫業務需求
+  - 通過演示吸引利益相關者
+  - 參與ALM和測試

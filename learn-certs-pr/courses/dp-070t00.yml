@@ -26,8 +26,17 @@ summary: |-
   本課程的主要對像是規劃將MySQL或Postgres DB工作負載移轉到Azure SQL DB的資料庫開發人員。
   本課程的主要讀者是MySQL / Postgres管理員，旨在提高人們對Azure SQL DB的功能和優勢的認識。
 prerequisitesSection: |-
-  參加訓練的學生除了具備專業經驗外，還應具備以下技術知識&#58;
-  - 對開放原始碼關係資料庫管理系統（例如Postgres和/或MySQL），SQL管理，備份和恢復技術（即傾印表資料）的一些瞭解
+  成功的學生憑藉雲計算概念的基礎知識和開源關聯式資料庫管理系統的經驗開始該角色。  
+  具體而言&#58;
+  - 使用PostgreSQL和/或MySQL
+  - 使用帶開來源資料的備份和恢復技術
+  - SQL管理
+
+  為了獲取此類技能，上課前請完成以下免費線上培訓&#58
+  - [核心雲服務 - Azure計算選項](/learn/modules/intro-to-azure-compute/)
+  - [在Azure上部署MariaDB、MySQL和PostgreSQL](/learn/modules/deploy-mariadb-mysql-postgresql-azure/)
+  - [Azure SQL簡介](/learn/modules/azure-sql-intro/)
+  - [開來源資料庫遷移至Azure Cosmos DB的簡介](/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/)
 outlineSection: |-
   ### 模組 1&#58; 移轉到適用於 Azure SQL DB for MySQL & PostgreSQL
   本模組描述了Azure SQL DB的優點和架構。

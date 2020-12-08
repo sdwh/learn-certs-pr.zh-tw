@@ -59,6 +59,7 @@ paths:
 - uid: learn.data-ai.data-processing-with-azure-adls
 - uid: learn.data-ai.implement-data-streaming-with-asa
 - uid: learn.data-ai.implement-sql-data-warehouse
+- uid: learn.wwl.data-engineer-azure-databricks
 relatedCertifications:
 - related:
     uid: certification.azure-data-engineer
