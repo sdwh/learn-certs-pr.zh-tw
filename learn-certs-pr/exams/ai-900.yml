@@ -6,7 +6,7 @@ metadata:
 uid: exam.ai-900
 displayName: AI-900
 summary: |-
-  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>此測驗內容將於 2020 年 10 月 22 日更新。請下載下方的技能衡量文件，以查看將有哪些變化。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>本次考試的內容更新於2020年10月22日。請下載以下的技能測試文檔以查看已發生的變化。</strong><br/><br/></div>
   </div>
 
   參加此測驗的應試者應具有機器學習 (ML) 和人工智慧 (AI) 概念以及相關的 Microsoft Azure 服務的基礎知識。
@@ -38,7 +38,7 @@ locales:
 levels:
 - beginner
 skills:
-- 此測驗內容將於 2020 年 10 月 22日更新。請下載下面概述的測驗技能，以了解將會發生什麼變化。
+- 本次考試的內容更新於2020年10月22日。請下載下述考試技巧以查看已發生的變化。
 - 描述 AI 工作負載和注意事項 (15-20%)
 - 描述 Azure 上機器學習的基本原理 (30-35%)
 - 描述 Azure 上的電腦視覺工作負載的功能 (15-20%)

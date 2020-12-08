@@ -30,10 +30,20 @@ summary: |-
   #### 對象設定檔
   本課程面向雲端解決方案架構師，Azure人工智慧設計師和AI開發人員。
 prerequisitesSection: |-
-  在參加本課程之前，學生必須具備&#58; 
-  - Azure Fundamentals
-  - 瞭解Azure儲存技術
-  - C＃知識
+  成功的Azure AI Engineers憑藉在雲技術方面專業經驗和軟體開發套件經驗開始該角色。  
+  
+  具體而言&#58
+  - 實現C#或Python解決方案
+  - 雲端應用開發
+  - 瞭解Azure存儲技術
+
+  為了獲取此類必備技能，上課前請完成以下免費線上培訓&#58
+    - [研究Microsoft Azure的雲概念](/learn/paths/explore-microsoft-azure-cloud-concepts/)
+    - [邁出您的C#第一步](/learn/paths/csharp-first-steps/)或[邁出您的Python第一步](/learn/paths/python-first-steps/)
+    - [Core Cloud Services - Azure簡介](/learn/modules/welcome-to-azure/)
+    - [Core Cloud Services - Azure計算選項](/learn/modules/intro-to-azure-compute/)
+
+  若您之前完全沒用過Azure AI服務，請先完成[Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals)學習。
 outlineSection: |-
   ### 模組 1&#58; Azure認知服務簡介
   該學生將瞭解Microsoft Azure上可用的認知服務及其在構建AI解決方案中的作用。

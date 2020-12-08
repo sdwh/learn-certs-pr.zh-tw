@@ -41,12 +41,7 @@ ms.author: micsullivan
 </div>
 
 
-## 利用學生折扣省錢
-在註冊測驗前先驗證您的學生身分，即可享有 Microsoft Certified Professional 測驗大幅降價的優惠。*注意：印度或中國不經 Microsoft Certified Professional 認證的 測驗的學生優惠。*
-
-[**瞭解更多**](/learn/certifications/certification-exam-policies)
-
-## 常見問題集
+## <a name="frequently-asked-questions"></a>常見問題集
 
 **問。Q. 什麼是Exam Replay？**
 

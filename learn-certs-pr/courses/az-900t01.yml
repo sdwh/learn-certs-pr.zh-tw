@@ -11,7 +11,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 了解一般的雲端計算概念
 - skill: 了解 Microsoft Azure 提供的核心服務
-- skill: 了解 Microsoft Azure 的安全性，隱私性，合規性和信任度
+- skill: 瞭解使用Microsoft Azure的安全性、隱私、合規性和可靠性
 - skill: 了解 Microsoft 提供的定價和支援模型
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -39,7 +39,7 @@ summary: |-
   #### 對象設定檔
   本課程適合具有一般IT背景的項目經理和技術銷售人員。這些學生想了解我們的產品，了解組件的實現方式，並詢問有關產品和功能的問題。本課程沒有為學生提供課堂上的Azure通行證或時間來進行任何動手操作。學生可以免費試用並在課外進行演練。本課程主要是講座和演示。本課程將幫助某人為AZ-900測驗做準備。
 prerequisitesSection: |-
-  參加本課程沒有任何先決條件。不需要專業 IT 經驗，但是，一些一般的 IT 知識或經驗會是有益的。
+  報名參加本課程學習沒有先決條件。IT技術經驗不是必需的，但具有IT基本知識或經驗有利於學習。
 outlineSection: |-
   ### 模組 1&#58; 雲端概念
   在本模組中，您將學習基本的雲端概念。

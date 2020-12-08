@@ -30,22 +30,25 @@ Microsoft 訓練和認證解決方案可透過以下 Microsoft 大量授權項�
 
 * Microsoft Imagine Academy [Microsoft 創意學院 (適用於符合條件的組織)]
 
-  Microsoft Imagine Academy [Microsoft 創意學院] 項目提供了世界水準的二十一世紀技術課程，以幫助您持續掌握最新的 Microsoft 技術。教育工作者可以輕鬆地將技術課程計劃、電子學習、學生項目和評估納入到所有年齡和經驗水平的學生的新課程或現有課程中。此外，創意學院項目為教育工作者和員工提供了專業發展機會。
+  Microsoft Imagine Academy（MSIA）計畫是一項提供技術課程、教學資源及與需求的勞動力/職業技能相匹配的相關福利的技能福利。綜合學習路徑和課程將使學生為順利地完成行業認可的認證並就業做好準備。教材包括用於Microsoft Office Specialist、Microsoft Technology Associate和Microsoft Fundamentals認證準備的課程。
 
-  創意學院提供以下內容：
+  Microsoft Imagine Academy將提供以下福利：
 
-  * 存取 Microsoft 線上學習課程
-  * 幫助跟蹤和監控學生進度的“講師學習管理系統 (LMS)”
-  * 官方課件折扣(僅對學術機構開放)
-  * 增強與 Microsoft 品牌和官方認證相結合的營銷資源
+  * 用於教職員工職業發展（MOS、MTA、Fundamentals和 MCE）的30張免費認證考試券/VL協議（學校之間共用）
+  * 生產力（MOS）課程和入門級IT（MTA）課程的課程內容包-MOAC
+  * MOS 2016版和MOS 2019/O365版考試教程
+  * MCT (Microsoft Certified Trainer) 計畫享受五折優惠
+  * Microsoft Official Courseware (MOC)內容使用權
+  * 定制課程結業證書
+  * Microsoft Press書籍享受六折優惠 
 
-  大學和職業就緒型教育項目以訂閱式會員制為基礎向所有認可學術機構開放。要參與 [Microsoft 創意學院項目](https://www.microsoft.com/en-us/education/imagine-academy/default.aspx)，您必須符合並遵守特定的[標準和要求](https://edudownloads.azureedge.net/msdownloads/Imagine_Academy_Program_Guide_10_languages.zip).
+  首次購買或續訂EES (入學教育解決方案)、School和OVS-ES（開放式訂閱-入學訂閱）批量許可訂閱後，可訪問Microsoft Imagine Academy (MSIA)，作為計畫技能福利，無需支付額外費用。
 
 * 用於學術機構的 Microsoft Certification 測驗套件
 
-  透過 Microsoft Certification，您可以驗證學生的技術技能，幫助他們嶄露頭角，提高他們的教育和職業前景。此外，您還可以使用 Microsoft Certification 來支持教職員工的專業發展目標。透過將 Microsoft 創意學院添加到您的 Microsoft Academic 大量授權協議中，您可以取得一份完整的技術教育解決方案。
+  透過 Microsoft Certification，您可以驗證學生的技術技能，幫助他們嶄露頭角，提高他們的教育和職業前景。此外，您還可以使用 Microsoft Certification 來支持教職員工的專業發展目標。
 
-  您可以訂購測驗課堂和站點套件，以協助學生取得 Microsoft Certification——包括 Microsoft Office Specialist (MOS)、Microsoft Technology Associate (MTA) 和 Microsoft Certified Professional  認證等。認證測驗課堂和站點套件包括您可以在一年中使用的特定數量的測驗凴券。無論是高中、兩年制大學還是四年制大學，您都可以根據自己的獨特需求定制一份專屬認證組合。
+  您可以訂購考試班和網站包，這些資源能讓學生為取得Microsoft認證而做好準備—包括Microsoft Office Specialist (MOS)、Microsoft Technology Associate (MTA)、Fundamentals和Microsoft Certified Professional等認證。認證測驗課堂和站點套件包括您可以在一年中使用的特定數量的測驗凴券。無論是高中、兩年制大學還是四年制大學，您都可以根據自己的獨特需求定制一份專屬認證組合。
 
   | 認證產品 | 描述 | 每個站點/課堂套件的測驗凴券編號 |
   | --- | --- | --- |
@@ -53,32 +56,28 @@ Microsoft 訓練和認證解決方案可透過以下 Microsoft 大量授權項�
   | MTA/MCE 和 MOS/MCE 站點套件 | 可被用作 MTA/MCE 或 MOS/MCE 測驗組合的 125 個測驗套件。MOS 測驗驗證對企業所需的 Office 技能的全面理解和專業化掌握，使學生能夠脫穎而出，並在他們繼續接受高等教育或進入職場時提高其成功機會。MTA 測驗驗證基礎架構、資料庫和開發方面的核心技術概念，幫助學生為更高級的技術教育和/或認證做準備。MTA 認證可在一個學期內取得，並可被用來證明對入門級 IT 職位的勝任能力和經驗水準。Microsoft Certified Educator (MCE) 項目為教育工作者將資訊和通信技術 (ICT) 以最佳方式整合到課堂教學中提供了強有力的工具。與教科文組織面向教育工作者的 ICT 能力框架相對應。| 125 |
   | Microsoft Certified Professional  課堂套件 | Microsoft Certified Professional測驗憑券可用於取得 Microsoft Certified Solutions Associate (MCSA)、Microsoft Certified Solutions Expert (MCSE) 或 Microsoft Certified Solutions Developer (MCSD) 認證。這些認證驗證的是對當今 IT 職業至關重要的技能。MCSA 驗證的是核心平台技能，MCSD 和 MCSE 驗證的是設計、構建和實作解決方案所需的深度專業知識。| 30 |
 
-  您可以透過下列 Microsoft Academic 大量授權項目訂購年度 Microsoft 創意學院會員資格和 Microsoft 認證測驗套件：
+  您可以通過下面的Microsoft Academic Volume Licensing計畫來訂購您的Microsoft Certification考試包：
 
-  * 註冊教育解決方案 (EES)
-  * 學校註冊(根據學校和校區協議)
-  * 選取學術 Plus
-
-  有關更多資訊，請聯絡您的學術授權轉售商或瀏覽 [Microsoft 產業授權項目](https://www.microsoft.com/licensing/licensing-options/for-industries.aspx) 頁面。
+  EES (入學教育解決方案)、School和OVS-ES (開放式訂閱-入學訂閱)批量許可訂閱。  如需瞭解更多詳情，請聯繫您的學術授權經銷商或訪問[Microsoft Licensing行業計畫](https://www.microsoft.com/licensing/licensing-options/for-industries.aspx)頁面。
 
   **更多大量授權學術認證資源**
 
-  * [Microsoft 創意學院項目權益指南](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [Microsoft 創意學院項目權益指南](https://www.microsoft.com/en-us/education/imagine-academy)
   * [Microsoft 學術產業認證資料工作表](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
   * [Microsoft 創意學院認證藍圖](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
   * [用於 Academic  批量授權資料工作表的 Microsoft Certification 測驗](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * 更多關於大量授權的學術電子資源
 
-  透過 Microsoft Certification，您可以驗證學生的技術技能，幫助他們嶄露頭角，提高他們的教育和職業前景。此外，您還可以使用 Microsoft Certification 來支持教職員工的專業發展目標。透過將 Microsoft 創意學院添加到您的 Microsoft Academic 大量授權協議中，您可以取得一份完整的技術教育解決方案。
+  透過 Microsoft Certification，您可以驗證學生的技術技能，幫助他們嶄露頭角，提高他們的教育和職業前景。此外，您還可以使用 Microsoft Certification 來支持教職員工的專業發展目標。
 
-  您可以訂購測驗課堂和站點套件，以協助學生取得 Microsoft Certification——包括 Microsoft Office Specialist (MOS)、Microsoft Technology Associate (MTA) 和 Microsoft Certified Professional  認證等。認證測驗課堂和站點套件包括您可以在一年中使用的特定數量的測驗凴券。無論是高中、兩年制大學還是四年制大學，您都可以根據自己的獨特需求定制一份專屬認證組合。
+  您可以訂購考試班和網站包，這些資源能讓學生為取得Microsoft認證而做好準備—包括Microsoft Office Specialist (MOS)、Microsoft Technology Associate (MTA)、Fundamentals和Microsoft Certified Professional等認證。認證測驗課堂和站點套件包括您可以在一年中使用的特定數量的測驗凴券。無論是高中、兩年制大學還是四年制大學，您都可以根據自己的獨特需求定制一份專屬認證組合。
 
   Microsoft 不再以大量授權方式銷售電子學習資源。以下資源是為那些仍在根據現有合約使用我們的電子學習內容的客戶而提供的。它們旨在幫助您部署、配置和管理您購買的大量授權電子學習資源。
 
   * [大量授權線上服務管理器線上使用指南](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
   * [大量授權終端使用者/學生線上使用指南](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
-  * [Microsoft 創意學院項目](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [Microsoft 創意學院項目]((https://www.microsoft.com/en-us/education/imagine-academy)
   * [Microsoft 學術產業認證](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
   * [Microsoft 創意學院認證藍圖](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
   * [用於學術批量許可的Microsoft Certification 考試包](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
@@ -169,10 +168,6 @@ Microsoft 訓練和認證解決方案提供的是單一層級、單一套件價�
 **問: Microsoft Certified Professional (MCP) 課程套件、Microsoft Office Specialist (MOS) 站點套件和 Microsoft Technology Associate (MTA) 站點套件中有哪些課程選項可用於準備測驗？**
 
 每項測驗都有可用的準備材料。從[新測驗清單](/learn/certifications/browse/?resource_type=examination)選取測驗 ，然後查找該測驗的可用準備選項。
-
-**問: 要想透過“大量授權”訂購一項 Microsoft Certification 測驗課堂或站點套件，我的機構是否必須是一家 Microsoft 創意學院？**
-  
-不。任何認可機構均能透過“大量授權”購買或兌換課堂或站點套件內可購買的任何 Microsoft Certification 測驗。
 
 **問: MCP 站點套件如何執行？**
 

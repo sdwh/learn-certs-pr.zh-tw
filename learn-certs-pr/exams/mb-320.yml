@@ -8,19 +8,19 @@ displayName: MB-320
 summary: |-
   <div>
   <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-  <div> <strong>此測驗內容將於2020年10月16日更新。請下載下方的技能衡量文件，以查看將有哪些更改。</strong><br/><br/></div>
+  <div> <strong>本次考試的內容更新於2020年10月16日。請下載以下的技能測試文檔以查看已發生的變化。</strong><br/><br/></div>
   </div>
 
-  此測驗的應試者應為功能顧問，他們負責分析業務需求，並將這些需求轉化為完全實作的業務流程與實作行業最佳實踐的解決方案。應試者是實作與設定應用程式以滿足業務需求的關鍵資源。
+  本次考試的報考人是分析業務需求並將此類需求翻譯為完全實現的業務流程和實施最佳行業做法的解決方案的功能顧問。報考人作為實施和配置滿足業務需求的應用的關鍵資源。
   <br/>
 
   此測驗的應試者對企業客戶服務、現場服務、製造、零售的會計原則與財務運作，以及供應鏈管理概念應有基本的了解。
   <br/>
 
-  此測驗的應試者通常專注於 Microsoft Dynamics 365 財務的一個或多個功能集，包括財務、製造與供應鏈管理。
+  本次考試的報考人通常專攻Finance and Operations的一個或多個特徵集，包括財務、製造和供應鏈管理。
 
-  應試者必須具備基本稽核原理與實踐方面的知識。
-subTitle: '該測驗測量您完成以下技術任務的能力：設定和配置製造；建立和管理生產和精益訂單；以及建立、處理和管理生產批次訂單。'
+  報考人須具備一些製造實踐的知識。
+subTitle: '本次考試將衡量您完成以下技術任務的能力：配置Dynamics 365 Supply Chain Management, Manufacturing；管理製造流程；實施主生產計畫；實現其他製造特徵。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVs
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-320&examname=Exam%20MB-320:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Manufacturing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-320
@@ -29,10 +29,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 此測驗內容將於 2020 年 10 月 16 日更新。請下載下面概述的測驗技能，以了解將會發生什麼變化。
-- 設置與設定製造 (30-35%)
-- 建立與管理生產與精益訂單 (25-30%)
-- 建立，處理與管理生產批量訂單 (40-45%)
+- 本次考試的內容更新於2020年10月16日。請下載下述考試技巧以查看已發生的變化。
+- 配置Dynamics 365 Supply Chain Management, Manufacturing (35-40%)
+- 管理製造流程 (20-25%)
+- 實施主生產計畫 (10-15%)
+- 實現其他製造特徵 (15-20%)
 roles:
 - functional-consultant
 products:
@@ -53,7 +54,7 @@ relatedCertifications:
 resources:
 - title: 認證學習途徑
   description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRH
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBE
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

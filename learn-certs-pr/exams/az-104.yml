@@ -6,7 +6,10 @@ metadata:
 uid: exam.az-104
 displayName: AZ-104
 summary: |-
+  <div>
   <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><strong>本次考試的內容將於2020年11月24日更新。請下載以下的技能測試文檔以查看將發生什麼變化。</strong><br/><br/></div>
+  </div>
 
   參加該測驗的考生應具有主題知識，可以實作、管理和監控組織的 Microsoft Azure 環境。
 
@@ -32,6 +35,7 @@ locales:
 levels:
 - intermediate
 skills:
+- 本次考試的內容將於2020年11月24日更新。請下載下述考試技巧以查看將發生什麼變化。
 - 管理 Azure 身份識別和治理 (15-20%)
 - 實作和管理存儲 (10-15%)
 - 部署和管理 Azure 計算資源 (25-30%)

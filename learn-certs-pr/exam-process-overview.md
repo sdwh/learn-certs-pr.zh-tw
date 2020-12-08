@@ -1,6 +1,6 @@
 ---
-title: '測驗流程概述 | Microsoft Docs'
-description: '測驗流程概述' 
+title: '常見問題及回答 | Microsoft Docs'
+description: '常見問題及回答' 
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -10,22 +10,11 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# 測驗流程概述
-
-## 策略和協議
+# 常見問題及回答
 
 尋找 Microsoft Certification 測驗相關常見問題的解答。
 
-- 測驗基本資訊
-- 考試細節
-- 評分與結果
-- 考試安全性和完整性政策
-- 基於性能的測試
-- 基於角色的認證
-- 測驗學術定價
-- 無障礙設施的申請
-
-### 測驗基本資訊
+## 測驗基本資訊
 
 **測驗中會有多少個問題？**
 
@@ -76,7 +65,7 @@ ms.prod: non-product-specific
 
 您可能還想問其他人他們们如何執行這些任務，閱讀白皮書、MSDN 或 TechNet 以獲取考試中包含的任務的更多資訊，和/或查看“考試詳情”頁 面上“備考材料”一節中提供的資源。“考試詳情”頁面將連結到任何可用的線上课程、微學習、選項和入口網站，您可以在其中找到您所在地區的講師指導訓練選項。
 
-此外，[Microsoft 官方實踐測試](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) 對於我們的一些認證測驗也可用。這些測驗可針對您表現出色與表現欠佳的特定領域提供詳細資訊。然而，透過練習測驗不保證您一定會透過認證測驗。
+此外，[Microsoft 官方實踐測試](https://www.measureup.com/microsoft/microsoft-technical/microsoft-practice-tests.html) 對於我們的一些認證測驗也可用。這些測驗可針對您表現出色與表現欠佳的特定領域提供詳細資訊。然而，透過練習測驗不保證您一定會透過認證測驗。
 
 如果您參加過該測驗但未通過，您可以將重心放在測驗表現最弱以及題目所佔百分比最高的內容領域，優先練習這些技能。
 
@@ -86,11 +75,11 @@ ms.prod: non-product-specific
 
 **我是否必須以英文進行測驗？**
 
-Microsoft Certification 測驗有多種語言版本。然而，以英文而非其母語進行測驗的應試者可要求延長測驗時間。額外時間的批准是逐案提供的，需要在考試前提出申請。應該透過[住宿過程](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams) 提出要求.
+Microsoft Certification 測驗有多種語言版本。然而，以英文而非其母語進行測驗的應試者可要求延長測驗時間。額外時間的批准是逐案提供的，需要在考試前提出申請。應該透過[住宿過程](/learn/certifications/request-accomodations) 提出要求.
 
 **可以提供哪些殘疾人設施？**
 
-Microsoft 致力於確保所有人員均可參加我們的測驗，包括任何身心障礙者。如需可用無障礙設施的清單，請造訪 [accommodations section](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams).
+Microsoft 致力於確保所有人員均可參加我們的測驗，包括任何身心障礙者。如需可用無障礙設施的清單，請造訪 [住宿申請章節](/learn/certifications/exam-process-overview#accommodation-requests).
 
 **測驗的費用是多少？**
 
@@ -114,7 +103,7 @@ Microsoft 致力於確保所有人員均可參加我們的測驗，包括任何�
 
 若要提報安全層面的問題，請聯絡[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。
 
-### 考試細節
+## 考試細節
 
 **Microsoft Certification 測驗中會出現哪些題型？**
 
@@ -195,7 +184,7 @@ Microsoft 致力於確保將會於測驗中評量的所有技能都涵蓋於某�
 
 不可以。同一項測驗不可以既被用來滿足 MCSA 的要求又用作相同 MCSE 或 MCSD 路徑的可選測驗。
 
-### 評分與結果
+## 評分與結果
 
 **如何且何時才能拿到我的測驗結果？**
 
@@ -317,7 +306,7 @@ Microsoft 測驗的設計是為了使得測驗總分可以用來做出通過/失
 
 **我要如何對測驗問題提出異議？**
 
-如果您認為 Microsoft Certification 測驗的問題有錯誤，您可以利用項目異議表單要求評估該問題。 您可以在參加測驗後的 30 個日曆天內使用 [測驗項目質疑流程](/learn/certifications/exam-reschedule-and-cancellation-policy) 要求對該問題進行評估。評估流程可協助我們辨識並修正有疑問的問題並據此更新測驗。
+如果您認為 Microsoft Certification 測驗的問題有錯誤，您可以利用項目異議表單要求評估該問題。 您可以在參加測驗後的 30 個日曆天內使用 [測驗項目質疑流程](/learn/certifications/exam-item-challenge-process) 要求對該問題進行評估。評估流程可協助我們辨識並修正有疑問的問題並據此更新測驗。
 
 **Microsoft 員工是否會檢閱並評估我所質疑的測驗問題？**
 
@@ -335,7 +324,7 @@ Microsoft 員工會進行初步的評估。如有需要進行額外的評估，�
 
 不行。對於您未通過或錯過排定日期的測驗，Microsoft 不會提供任何退費。
 
-### 考試安全性和完整性政策
+## 考試安全性和完整性政策
 
 **為何我需要先接受保密合約 (NDA) 後才能進行測驗？**
 
@@ -399,7 +388,7 @@ Microsoft Certification 規劃要求應試者必須先接受 NDA 的條款才能
 
 是。所有寄給 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) 的信件均可選擇匿名；我們並不會與任何人分享您的聯絡資訊。若您想要附上您的聯絡資訊以便我們後續追蹤時，可勞煩您提供更多資訊，我們會確保您聯絡資訊的安全。
 
-### 基於性能的測試
+## 基於性能的測試
 
 **什麼是實作式測試(PBT)？**
 
@@ -448,7 +437,7 @@ Microsoft Certification 規劃要求應試者必須先接受 NDA 的條款才能
 
 **我需要多長時間才能完成實驗？**
 
- 實驗室並未與測驗的其他部分分開計時。在測驗開始時，將提供實驗室數量，案例研究和問題以及測驗時間。您必須在提供的時間內回答所有問題，包括完成與任何實驗室相關的任務。因此，管理您的時間，以便您可以完成必須完成的所有活動。
+實驗室並未與測驗的其他部分分開計時。在測驗開始時，將提供實驗室數量，案例研究和問題以及測驗時間。您必須在提供的時間內回答所有問題，包括完成與任何實驗室相關的任務。因此，管理您的時間，以便您可以完成必須完成的所有活動。
 
 **我有足夠的時間來完成實驗嗎？**
 
@@ -490,7 +479,7 @@ Microsoft Certification 規劃要求應試者必須先接受 NDA 的條款才能
 
 包括實驗室的考試要求考試中心滿足某些網際網路連線要求，因此可用的考試中心较少。随着實驗室被添加到更多角色型的考試中，他们也將受到同一組考試中心的影響。如果您有心仪的考試中心，請聯絡该考試中心，了解他们是否可以提供實驗室；或者，您在選擇考試时它们将不会被列为可用的考試中心。如果发生这种情况，我们建議您找另外的考試中心或透過線上監考参加考試。附註：您可能可以透過線上指導進行實驗室研究；但是，這取決於您的頻寬和互聯網連接。
 
-### 基於角色的認證
+## 基於角色的認證
 
 **角色型的認證是如何命名的？他们还会成为 MCSA，MCSD 和 MCSE 吗？**
 
@@ -512,7 +501,7 @@ Microsoft Certification 規劃要求應試者必須先接受 NDA 的條款才能
 
 不，我们不会降低人们通过考試或取得認證所需的经验要求。訓練旨在为考試做好准备，但其本身可能不够。为了解我们角色型的考試中的問題，要求您运用在实际問題訓練时取得的技能和知识。
 
-### 測驗學術定價
+## 測驗學術定價
 
 **如果一開始註冊測驗並付款時沒有驗證學術折扣，但現在通過驗證了，可以退費嗎？**
 
@@ -530,11 +519,11 @@ Microsoft Certification 規劃要求應試者必須先接受 NDA 的條款才能
 
 如果您有與測驗註冊有關的一般性問題，或者對新的或待處理的驗證請求有特定的問題，請聯絡 [認證支援](https://aka.ms/mcpforum)。
 
-### 無障礙設施的申請
+## 無障礙設施的申請
 
 **我如何申請無障礙設施?**
 
-如果您在測驗時需要特殊設備或其他任何無障礙設施，您可以透過[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 使用其“合理調整申請系統” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) 申請無障礙設施。上文中 [參加測驗時的特殊無障礙設施](/learn/certifications/request-accomodations) 部分提供了更多詳細資訊。
+如果您在測驗時需要特殊設備或其他任何無障礙設施，您可以透過[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 使用其“合理調整申請系統” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) 申請無障礙設施。上文中 [申請住宿](/learn/certifications/request-accomodations) 部分提供了更多詳細資訊。
 
 **為什麼需要提交文件？**
 

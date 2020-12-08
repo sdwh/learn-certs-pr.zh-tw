@@ -8,7 +8,7 @@ displayName: AZ-900
 summary: |-
   <div>
   <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-  <div> <strong>新的 OD 考試、考試和相應培訓的發布已從 2020 年 9 月 15 日移到 11 月初。請返回以獲取更多信息。在發布新版本的考試之前，我們將確保您至少有 30 天的通知時間。 </strong><br/><br/></div> 
+  <div> <strong>本次考試的內容將於2020年11月9日更新。請下載以下的技能測試文檔以查看將發生什麼變化。 </strong><br/><br/></div> 
   </div>
   
   參加該測驗的應試者應具有有關雲端服務以及 Microsoft Azure 如何提供這些服務的基礎知識。該測驗適用於剛開始使用基於雲的解決方案和服務或對 Azure 尚不熟悉的考生。
@@ -38,6 +38,7 @@ locales:
 levels:
 - beginner
 skills:
+- 本次考試的內容將於2020年11月9日更新。請下載下述考試技巧以查看將發生什麼變化。
 - 描述雲端概念 (15-20%)
 - 描述核心 Azure 服務 (30-35%)
 - 描述安全性、隱私權、合規性和信任 (25-30%)

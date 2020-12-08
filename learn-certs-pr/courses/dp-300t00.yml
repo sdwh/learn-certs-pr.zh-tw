@@ -35,9 +35,16 @@ summary: |-
   #### 對象設定檔
   本課程的讀者是管理資料和資料庫的資料專業人員，他們想要學習有關管理Microsoft Azure上可用的資料平台技術的知識。對於需要了解哪些技術可用於Azure資料平台以及如何透過應用程式使用這些技術的資料架構師和應用程式開發人員來說，本課程也很有價值。
 prerequisitesSection: |-
-  除了專業經驗外，參加此訓練的學生還應具有與以下課程相當的技術知識&#58;
-  - Azure Fundamentals
-  - Azure Data Fundamentals
+  成功的Azure Database Administrators憑藉資料庫管理專業經驗和雲技術的技術知識開始該角色。
+  
+  具體而言&#58;
+  - 使用、維護SQL伺服器並用其進行開發
+  - 部署和管理資源等Azure使用經驗
+
+  上課前，您至少應瞭解以下線上培訓課程的資訊&#58
+  - [Azure SQL簡介](/learn/modules/azure-sql-intro/)
+  - [Azure Fundamentals](/learn/certifications/azure-fundamentals)
+  - [Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals) 
 outlineSection: |-
   ### 模組 1&#58; Azure資料庫管理員的角色
   本模組探討Azure中資料庫管理員的角色。它還提供了一些與總體內容相關的基礎信息。其中包括對各種基於SQL Server的選項(VM，受控執行個體和Azure SQL資料庫中的SQL Server）的回顧。學生將了解為什麼在Azure中使用SQL資料庫時兼容性級別是至關重要的概念。除了基於SQL Server的資料庫平台外，還向學生介紹了Azure上可用的其他資料庫平台，特別是PostgreSQL和MySQL 
