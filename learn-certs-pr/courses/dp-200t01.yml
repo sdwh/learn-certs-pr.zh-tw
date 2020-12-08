@@ -37,8 +37,18 @@ summary: |-
   #### 對象設定檔
   本課程的主要讀者是想要瞭解Microsoft Azure上存在的資料平台技術的資料專業人員，資料結構設計師和商業智慧專業人員。本課程的次要讀者是開發從資料平台交付內容的應用程式的個人。 Microsoft Azure上存在的技術。
 prerequisitesSection: |-
-  除了專業經驗外，參加此訓練的學生還應具有與以下課程相當的技術知識&#58; 
-  - [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
+  成功的學生在開始本課程學習時，具備雲計算概念知識和資料解決方案的專業經驗。 
+  
+  具體而言&#58;
+  - 在Microsoft Azure中創建雲資源
+  - 識別大資料使用案例
+  - 瞭解雲計算服務解決常見業務需求的方式
+
+  為了獲取此類必備技能，上課前請完成以下免費線上培訓&#58
+  - [研究Microsoft雲概念](/learn/paths/explore-microsoft-azure-cloud-concepts/)
+  - [識別資料工程師的任務](/learn/modules/data-engineering-processes/)
+  - [核心雲服務 - Azure資料存儲選項](/learn/modules/intro-to-data-in-azure/)
+  - [核心雲服務 - Azure計算選項](/learn/modules/intro-to-azure-compute/)
 outlineSection: |-
   ### 模組 1&#58; 資料工程師的天藍色
   本模組探討了資料世界如何演變以及雲端資料平台技術如何為企業提供了以不同方式瀏覽資料的新機會。這些學生將概述可用的各種資料平台技術，以及資料工程師的角色職責如何演變為在這個新世界中工作以使組織受益。

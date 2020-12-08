@@ -28,8 +28,8 @@
 - name: 測驗政策和常見問題
   expanded: 錯誤
   items:
-  - name: 測驗流程概述
-    href: exam-process-overview.md
+  - name: 常見問題及回答
+    href: frequently-asked-questions.md  
   - name: 測驗安全策略和測驗重考策略
     href: exam-security-policy-and-exam-retake-policy.md
   - name: 測驗改期和取消策略

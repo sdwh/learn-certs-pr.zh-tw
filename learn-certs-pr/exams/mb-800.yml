@@ -16,10 +16,11 @@ summary: |-
 
   此測驗的應試者通常專門研究 Business Central 的一個或多個功能集。他們了解 Business Central 與 Dynamics 365 應用程式套件之間的關係。
 
-  <div><strong><br/>附註&#58; 這項測驗將於 2020 年 10 月 6 日左右開始。</strong></div>
-subTitle: '這項測驗將於 2020 年 10 月 6 日左右開始。該測驗評估您完成以下任務的能力：設定 Business Central，設定財務，設定銷售和採購，和執行 Business Central 操作'
+  <div><strong><br/>測試版考試不會立即進行評分，因為我們正在收集問題和考試品質相關資料。如需瞭解更多詳情，請訪問網址<a href="/learn/certifications/certification-exams#participating-in-beta-exams">，查看測試版考試的價值和重要性</a>。</strong></div>
+subTitle: '該測驗評估您完成以下任務的能力：設定 Business Central，設定財務，設定銷售和採購，和執行 Business Central 操作'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-800&examname=Exam%20MB-800:%20Microsoft%20Dynamics%20365%20Business%20Central%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-800
 locales:
 - en
 levels:
@@ -51,6 +52,9 @@ relatedCertifications:
 - related:
     uid: certification.d365-business-central-functional-consultant-associate
 resources:
+- title: 認證學習途徑
+  description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GHuX
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

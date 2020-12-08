@@ -22,21 +22,21 @@ AZ-100: Microsoft Azure Infrastructure and Deployment
 
 AZ-101: Microsoft Azure Integration and Security
 
-[AZ-103: Microsoft Azure Administrator](https://docs.microsoft.com/learn/certifications/exams/az-103)
+AZ-103: Microsoft Azure Administrator
 
 AZ-200: Microsoft Azure Developer Core Solutions
 
 AZ-201: Microsoft Azure Developer Advanced Solutions
 
-[AZ-203: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/learn/certifications/exams/az-203)
+AZ-203: Developing Solutions for Microsoft Azure
 
-[AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/learn/certifications/exams/az-300)
+AZ-300: Microsoft Azure Architect Technologies
 
-[AZ-301: Microsoft Azure Architect Design](https://docs.microsoft.com/learn/certifications/exams/az-301)
+AZ-301: Microsoft Azure Architect Design
 
 [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/learn/certifications/exams/az-400)
 
-### 申請學分的流程
+## 申請學分的流程
 
 要申請學分，請執行以下操作：
 

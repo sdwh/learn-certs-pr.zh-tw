@@ -1,0 +1,79 @@
+### YamlMime:Course
+title: Microsoft Power Platform Developer
+metadata:
+  title: 'Course PL-400T00-A: Microsoft Power Platform Developer'
+  description: 'Course PL-400T00-A: Microsoft Power Platform Developer'
+uid: course.pl-400t00
+courseNumber: 'PL-400T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 創建技術設計
+- skill: 配置Common Data Service
+- skill: 創建和配置Power應用程式
+- skill: 配置業務流程自動化
+- skill: 擴展使用者體驗
+- skill: 擴展平臺
+- skill: 開發集成
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-400
+summary: |-
+  Microsoft Power Platform將説明組織通過簡化、自動化和轉變業務任務和流程來優化其運營。在本課程中，學生將學習如何建立Power應用程式、實現流程自動化和擴展平臺以實現業務需求並解決複雜的經營問題。
+
+  #### 對象設定檔
+  本課程的申請人將進行Power Platform解決方案的設計、開發、保護和故障處理。申請人將實施解決方案的各個部分，包括應用增強、自訂使用者體驗、系統集成、資料轉換、自訂流程自動化和自訂視覺化。申請人將獲得Power Platform服務的應用知識，包括深入瞭解功能、邊界和限制。申請人應具備JavaScript、JSON、TypeScript、C#、HTML、.NET、Microsoft Azure、Microsoft 365、RESTful Web Services、ASP.NET和Power BI等開發經驗。
+prerequisitesSection: |-
+  - 申請人應具備Power Platform入門知識
+  - 申請人應具備JavaScript、JSON、TypeScript、C#、HTML、.NET、Microsoft Azure、Microsoft 365、RESTful Web Services、ASP.NET和Power BI等開發經驗。
+outlineSection: |-
+  ### 模組 1&#58; 在Power Apps中創建模型驅動應用
+  本模組將為您介紹在Power Apps中使用Common Data Service創建模型驅動應用程式的方法。
+  
+  
+  ### 模組 2&#58; 初步使用Common Data Service
+  本模組將說明Common Data Service背後的概念及其優勢。還將討論創建環境、實體、欄位和選項集。
+  
+  
+  ### 模組 3&#58; 在Power Apps中創建畫布應用程式
+  本模組將為您介紹Power Apps，幫助您創建和定制應用程式，然後管理和發佈該應用。還將為您展示如何提供最佳應用導航和用主題、圖示、圖像、個性化、各種形狀參數和控制器來建立最佳UI。
+  
+  
+  ### 模組 4&#58; 用Power Automate實現業務流程自動化
+  本模組將為您介紹Power Automate，教您如何建立工作流，如何管理流程。
+  
+  
+  ### 模組 5&#58; 在Power Automate中創建業務流程
+  本模組將為您介紹在Power Automate中創建業務流程的方法。
+  
+  
+  ### 模組 6&#58; Power Platform開發簡介
+  本模組是瞭解Power Platform的平臺、工具和生態系統的第一步。
+  
+  
+  ### 模組 7&#58; 擴展Power Platform使用者體驗模型驅動應用程式 
+  本模組描述了如何創建用戶端指令碼，執行用戶端指令碼常用操作，用用戶端指令碼實現業務流程自動化。瞭解用戶端指令碼的作用、規則和維護腳本。弄清楚何時應該使用用戶端指令碼以及何時不應使用用戶端指令碼。
+  
+  
+  ### 模組 8&#58; 用Power Apps Component Framework創建元件
+  本模組描述了如何通過核心概念和元件的介紹模組來初步瞭解Power Apps Component Framework。隨後，將為您展示如何建立元件和使用高級Power Apps Component Framework功能。
+  
+  
+  ### 模組 9&#58; 擴展Power Platform Common Data Service
+  本模組關注擴展Power Platform所需的工具和資源。我們將初步關注SDK、擴展性模型和事件框架。該學習路徑還包括何時使用外掛程式。配置外掛程式以及外掛程式註冊和部署。
+  
+  
+  ### 模組 10&#58; 集成Power Platform和Common Data Service
+  本模組描述如何用代碼通過瞭解Common Data Service API來集成Common Data Service。獲取Common Data Service可用選項詳細描述將資料和事件集成到Azure。
+  
+  
+  ### 模組 11&#58; 擴展Power Apps門戶
+  本模組描述如何將內容門戶轉變為與Common Data Service交互的完整web應用。還將包含定制器和開發人員可用于擴展門戶功能以及與Office 365、Power Platform和Azure集成的選項。

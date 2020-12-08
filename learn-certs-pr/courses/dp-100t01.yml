@@ -26,10 +26,18 @@ summary: |-
   #### 對象設定檔
   本課程面向資料科學家以及在訓練和部署機器學習模型方面負有重要責任的人員。
 prerequisitesSection: |-
-  在參加本課程之前，學生必須具備&#58; 
-  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
-  - 瞭解資料科學，包括如何準備資料，訓練模型以及評估競爭模型以選擇最佳模型。
-  - 如何使用Python程式設計語言進行編程以及如何使用Python庫&#58; pandas，scikit-learn，matplotlib和seaborn。
+  成功的Azure Data Scientists憑藉雲計算概念的基礎知識和通用資料科學及機器學習工具和技術的經驗開始該角色。
+  
+  具體而言&#58
+  - 在Microsoft Azure中創建雲資源
+  - 使用Python進行資料探索和視覺化。
+  - 用Scikit-Learn、PyTorch和TensorFlow等常見框架來培訓和校驗機器學習模型。
+  
+  為了獲取此類必備技能，上課前請完成以下免費線上培訓&#58;
+  - [研究Microsoft雲概念](/learn/paths/explore-microsoft-azure-cloud-concepts/)。
+  - [創建機器學習模型](/learn/paths/create-machine-learn-models/) 
+  
+  若您之前完全不瞭解資料科學和機器學習，請先完成[Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals)學習。
 outlineSection: |-
   ### 模組 1&#58; 在Azure上進行資料科學
   學生將學習資料科學過程和資料科學家的角色。  然後將其應用於瞭解Azure服務如何支援和增強資料科學過程。

@@ -6,7 +6,7 @@ metadata:
 uid: exam.dp-900
 displayName: DP-900
 summary: |-
-  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>此測驗內容將於 2020 年 10 月 22 日更新。請下載下方的技能衡量文件，以查看將有哪些變化。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>本次考試的內容更新於2020年10月22日。請下載以下的技能測試文檔以查看已發生的變化。</strong><br/><br/></div>
   </div>
 
   參加該測驗的考生應具有核心資料概念的基本知識，以及如何使用 Microsoft Azure 資料服務實作這些知識。
@@ -38,7 +38,7 @@ locales:
 levels:
 - beginner
 skills:
-- 此測驗內容將於 2020 年 10 月 22日更新。請下載下面概述的測驗技能，以了解將會發生什麼變化。
+- 本次考試的內容更新於2020年10月22日。請下載下述考試技巧以查看已發生的變化。
 - 描述核心資料概念 (15-20%)
 - 描述如何在 Azure 上使用關係資料 (25-30%)
 - 描述如何在 Azure 上使用非關係資料 (25-30%)

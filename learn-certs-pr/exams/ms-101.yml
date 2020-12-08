@@ -6,12 +6,12 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>該測驗的內容已於2020年9月24日更新。請下載下方的技能衡量文件，以查看將有哪些變化。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>本次考試的內容將於2020年11月24日更新。請下載以下的技能測試文檔以查看將發生什麼變化。</strong><br/><br/></div>
   </div>
 
   此測驗的應試者是參與評估、規劃、移轉、部署與管理 Microsoft 365 服務的 Microsoft 365 企業管理員。他們為企業執行 Microsoft 365 租戶管理任務，包括其身份識別，安全性，合規性與支援的技術。
 
-   應試者具有 Microsoft 365 工作負載的工作知識，且應該是至少一個 Microsoft 365 工作負載（Exchange、SharePoint、Skype for Business 或 Windows 即服務）的管理員。應試者還具備網路、伺服器管理和 IT 基礎知識（如 DNS，Active Directory 與 PowerShell）的工作知識。
+  應試者具有 Microsoft 365 工作負載的工作知識，且應該是至少一個 Microsoft 365 工作負載（Exchange、SharePoint、Skype for Business 或 Windows 即服務）的管理員。應試者還具備網路、伺服器管理和 IT 基礎知識（如 DNS，Active Directory 與 PowerShell）的工作知識。
 subTitle: '此測驗測量您在完成以下技術任務時的能力：實作現代設備服務；實作 Microsoft 365 安全和威脅管理；以及管理 Microsoft 365 治理和合規性。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
@@ -23,7 +23,7 @@ locales:
 levels:
 - advanced
 skills:
-- 該測驗的內容更新于 2020 年 9月 24日。請下載下面概述的測驗技能，以了解已發生什麼變化。
+- 本次考試的內容將於2020年11月24日更新。請下載下述考試技巧以查看將發生什麼變化。
 - 實作現代裝置服務 (30-35%)
 - 實作 Microsoft 365 安全與威脅管理 (30-35%)
 - 管理 Microsoft 365 治理和合規性 (35-40%)

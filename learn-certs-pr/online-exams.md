@@ -272,7 +272,7 @@ ms.author: micsullivan
 
 ### 其他重要信息
 
-- 與其他任何Microsoft認證測驗一樣，您必須閱讀並同意我們的[非披露協議](/learn/certifications/certification-exam-policies#non-disclosure-agreement) (NDA).您只有5分鐘的閱讀時間，因此我們建議您在測驗前閱讀它，以確保您完全理解這些要求，並且可以在不浪費時間的情況下同意這些要求。如果您在指定的時間內不同意NDA，則將無法參加測驗。
+- 與其他任何Microsoft認證測驗一樣，您必須閱讀並同意我們的[非披露協議](/learn/certifications/microsoft-exam-non-disclosure-agreement) (NDA).您只有5分鐘的閱讀時間，因此我們建議您在測驗前閱讀它，以確保您完全理解這些要求，並且可以在不浪費時間的情況下同意這些要求。如果您在指定的時間內不同意NDA，則將無法參加測驗。
 - 中所述的條款，您必須符合應試者的行為要求。這可能包括但不限於：
   - 您不得以任何方式複製或記錄測驗中的問題或答案。
   - 您不得與他人分享或討論測驗中出現的問題或答案。
@@ -305,7 +305,7 @@ ms.author: micsullivan
 
 **注意**在完成自助登機手續後，您最多可能需要等待 30 分鐘，才能與迎賓員(要求再次確認身份或房間要求)或監理人聯絡。
 
-如果您**在預定的測驗時間後** 30分鐘未連接到監理員，則連接斷開。您可以在最初的測驗預約後24到30小時重新安排測驗時間。只需使用與您的Microsoft認證設定檔關聯的電子郵件登錄到[認證儀表板](https://www.microsoft.com/learning/dashboard.aspx)，即可重新規劃。我們建議您盡可能自助，但也可以與Pearson VUE [支援](https://home.pearsonvue.com/microsoft/contact)聯絡以獲取重新安排測驗的幫助。請耐心等待，因為由於COVID-19，回復速度比正常慢(最多5天)。
+如果您**在預定的測驗時間後** 30分鐘未連接到監理員，則連接斷開。您可以在最初的測驗預約後24到30小時重新安排測驗時間。只需使用與您的Microsoft認證設定檔關聯的電子郵件登錄到[認證儀表板](https://aka.ms/certdashboard)，即可重新規劃。我們建議您盡可能自助，但也可以與Pearson VUE [支援](https://home.pearsonvue.com/microsoft/contact)聯絡以獲取重新安排測驗的幫助。請耐心等待，因為由於COVID-19，回復速度比正常慢(最多5天)。
 
 - 身份驗證和房間掃描由迎賓員在完成自檢後完成。如果在對這些工件進行歡迎檢查期間未發現任何問題或疑慮，您將被置於監工隊列中。監考人員到位後，您就可以開始測驗了。在迎賓員對所提供的工件有疑問的情況下，迎賓員將與您一起解決這些問題。
 - 在此程序完成之後，測驗即會開始。除非有問題，否則監考者在測驗期間不會聯絡您。
@@ -327,10 +327,10 @@ ms.author: micsullivan
 尋找線上監考測驗相關常見問題的解答。
 
 ### 我怎麼知道在線考試是否適合我？
-首先，請確保您的電腦滿足[系統要求](/learn/certifications/online-exams#testing-session-protocol) 並完成所需的[系統測試](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)。查看[測試會話協議](/learn/certifications/online-exams#testing-session-protocol)，以了解測驗期間的期望。如果您對系統符合要求或對測試會話協議有疑問或保留，我們建議您在測試中心安排測驗。
+首先，請確保您的電腦滿足[系統要求](/learn/certifications/online-exams#system-requirements) 並完成所需的[系統測試](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)。查看[測試會話協議](/learn/certifications/online-exams#testing-session-protocol)，以了解測驗期間的期望。如果您對系統符合要求或對測試會話協議有疑問或保留，我們建議您在測試中心安排測驗。
 
 ### 如果我的系統未通過系統測試，我仍可以線上參加考試嗎？
-不可以。如果您的系統未通過[系統測試](/learn/certifications/online-exams#take-a-system-test)，則不應註冊線上測驗，如果您對身分識別無法取得清晰的照片，則不應安排線上測驗。
+不可以。如果您的系統未通過[系統測試](/learn/certifications/online-exams#system-requirements)，則不應註冊線上測驗，如果您對身分識別無法取得清晰的照片，則不應安排線上測驗。
 
 ### 如何註冊線上考試？
 要進行註冊，請首先使用與您的Microsoft認證設定檔相關的電子郵件登錄到您的Microsoft [認證儀錶板](https://aka.ms/certdashboard)。選擇“規劃測驗”按鈕，然後從[測驗清單](/learn/certifications/browse/)中選擇您要參加的Microsoft測驗。如果在您的國家有提供線上測驗，您將可以在測驗註冊過程中選取該選項。您還將選擇接待員，監查員和監考軟體的語言。
@@ -342,7 +342,7 @@ ms.author: micsullivan
 否，交付方法可以混搭(線上或親臨測試中心)。
 
 ### 考試已啟動並分配了監考人後，我需要多長時間才能完成考試？
-可用於完成測驗的時間將會與您在 Pearson VUE 測驗中心參加測驗時相同。查看[測驗政策和常見問題](/learn/certifications/certification-exam-policies#frequently-asked-questions)，以根據測驗類型確定測驗時間。
+可用於完成測驗的時間將會與您在 Pearson VUE 測驗中心參加測驗時相同。查看[考試流程概述](/learn/certifications/exam-process-overview)，以根據測驗類型確定測驗時間。
 
 ### 線上考試比考試中心的考試更難嗎？
 不可以。考試的難度相當。
@@ -360,7 +360,7 @@ ms.author: micsullivan
 請查看當前的[ID 政策](https://home.pearsonvue.com/Policies/1S/English) ，以獲取可接受的標識列表。請記住，您的 Microsoft Certification 設定檔上的名稱必須與您用於參加 Microsoft Certification 測驗的政府頒發的身份證上顯示的姓名完全匹配**.如果您正在更新或換新證件，請注意線上測驗不接受法定名稱變更表格，包括身份證換新表格。
 
 ### 我該如何在 Microsoft Certification 設定檔變更我的法定名稱？
-您的Microsoft Certification 資料中的名稱必須與您在測驗辦理過程中提供的政府頒發的身份完全匹配。如果您需要更改姓名，請聯絡[認證支援](https://aka.ms/mcpforum)，論壇仲裁者將為您提供幫助。
+您的Microsoft Certification 資料中的名稱必須與您在測驗辦理過程中提供的政府頒發的身份完全匹配。若您需要修改您的名稱，請填寫[法定名稱更新表](https://aka.ms/MSCertificationLegalNamechange)提交申請。
 
 ### 我為線上考試安排了預約。要如何開始？
 我們建議您提前15分鐘登錄以開始簽入過程。在排定的預約時間之後，您最多有 15 分鐘來開始測驗。
