@@ -51,10 +51,12 @@ courses:
 - uid: course.az-900t01
 - uid: course.az-900t00
 paths:
-- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
-- uid: learn.wwl.distinguish-microsoft-azure-core-services
-- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
-- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
+- uid: learn.az-900-describe-cloud-concepts
+- uid: learn.az-900-describe-core-azure-services
+- uid: learn.az-900-describe-core-solutions-management-tools-azure
+- uid: learn.az-900-describe-general-security-network-security-features
+- uid: learn.az-900-describe-identity-governance-privacy-compliance-features
+- uid: learn.az-900-describe-azure-cost-management-service-level-agreements
 relatedCertifications:
 - related:
     uid: certification.azure-fundamentals
