@@ -20,5 +20,5 @@ ms.prod: non-product-specific
 
 | 支援區域 | 聯絡資訊 |
 | ------------- | --- |
-| **Microsoft認證測驗和Microsoft認證** |您的問題可能已經在我們的[Certification Overview](/learn/certifications/)中得到了回答。<br/><br/>  **更新您的法定名稱：**<br/>透過[legal name update form](https://aka.ms/MSCertificationLegalNamechange)提交請求。<br/><br/>  **所有其他支援問題：**<br/>透過我們的[認證支援論壇](https://aka.ms/MCPForum) 獲得幫助。<br/><br/>要聯絡客戶支援代理，請點擊頁面頂部的 *提問* 並填寫表格。  支援代理應在 1 個工作日內回復。|
+| **Microsoft認證測驗和Microsoft認證** |您的問題可能已經在我們的[Microsoft認證計劃常見問題解答](/learn/certifications/microsoft-certification-program-faqs)中得到了回答。<br/><br/>  **更新您的法定名稱：**<br/>透過[legal name update form](https://aka.ms/MSCertificationLegalNamechange)提交請求。<br/><br/>  **所有其他支援問題：**<br/>透過我們的[認證支援論壇](https://aka.ms/MCPForum) 獲得幫助。<br/><br/>要聯絡客戶支援代理，請點擊頁面頂部的 *提問* 並填寫表格。  支援代理應在 1 個工作日內回復。|
 | **Microsoft Certified Trainer (MCT) 計劃** | 您的問題在我們的 [MCT 計劃概述](/learn/certifications/mct-certification) 中可能已經有了答復<br/><br/> **MCT 支援論壇：**<br/>透過我們的[MCT 支援論壇](https://aka.ms/MCTForum) 獲得幫助。<br/><br/>要聯絡客戶支持代理，請點擊頁面頂部的 *提問* 並填寫表格。  支援代理應在 1 個工作日內回復。|
