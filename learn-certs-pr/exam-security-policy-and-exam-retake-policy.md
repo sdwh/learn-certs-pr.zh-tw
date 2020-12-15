@@ -14,10 +14,6 @@ ms.prod: non-product-specific
 
 Microsoft 制定了明確的規範內容來處理 Microsoft認證考試，測驗安全相關的議題。
 
-## 證書到期及換發新證
-
-Microsoft 基於角色的證書和專業證書當前有效期為自取得證書之日起兩年。由於 COVID-19 大流行及其對個人和企業的影響，我們提供了擴展，其認證最初計劃在 2020 年 12 月 31 日之前到期。我們將繼續監視 COVID-19 的情況。如果需要，我們將通知認證即將過期的個人並為他們提供更多時間。目前，您無需“採取任何措施”以確保您的認證仍然有效。我們將繼續告知您有關情況和變化。訂閱[Microsoft Learn Blog](https://aka.ms/learningblog)，隨時了解將來的程式更新和重新認證的要求。
-
 ## 應試者禁止處分
 
 若應試者違反任何測驗規則、測驗準則或測驗合約 (NDA) 中的條款，或做出以任何方式牴觸Microsoft Certification 規劃之安全性與完整性的任何不端行為，可能會永久禁止應試者參加未來的任何 Microsoft Certification 測驗。除此之外，應試者可能會無法通過該 Microsoft Certification 規劃的認證，且測驗成績與認證可能會遭撤銷。

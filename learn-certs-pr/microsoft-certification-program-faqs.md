@@ -35,8 +35,11 @@ ms.author: micsullivan
 ### 關於 Microsoft 認證計劃
 1. [什麼是 Microsoft 認證計劃？](#c1)
 
+### 關於認證更新
+1. [如何更新我的Microsoft認證或使其保持最新狀態？](#d1)
+
 ### 聯絡支援
-1. [如何聯絡 Microsoft 認證計劃支援？](#d1)
+1. [如何聯絡 Microsoft 認證計劃支援？](#e1)
 
 <br/>
 
@@ -148,8 +151,16 @@ ms.author: micsullivan
 
 <br/>
 
+## 關於認證更新
+
+**問: 如何更新我的Microsoft認證或使其保持最新狀態？**<a name="d1"></a>
+
+**答案：** 有關維護Microsoft認證並保持其最新狀態的信息，請訪問[更新Microsoft認證頁面](/learn/certifications/renew-your-microsoft-certification)。
+
+<br/>
+
 ## 聯絡支援
 
-**問: 如何联系 Microsoft 認證支援？**<a name="d1"></a>
+**問: 如何联系 Microsoft 認證支援？**<a name="e1"></a>
 
 **答案：** 如果您需要有關 Microsoft 認證設定檔的幫助，查看分數報告，存取成績的資訊，或者需要有關該程序的其他幫助，請聯絡 [Certification Support](https://aka.ms/mcpforum)。論壇仲裁者將在 24 個工作小時內回复您以提供幫助。
