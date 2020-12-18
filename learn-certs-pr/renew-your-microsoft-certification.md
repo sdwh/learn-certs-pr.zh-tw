@@ -30,7 +30,7 @@ Microsoft認證是具備成功完成現代數位領域商務所需的相關技�
 | Microsoft Certified: Azure Developer Associate |
 | Microsoft Certified: Azure Security Engineer Associate |
 | Microsoft Certified: DevOps Engineer Expert |
-| Microsoft Certified: Azure Solutions Architect Associate |
+| Microsoft Certified: Azure Solutions Architect Expert |
 | Microsoft Certified: Azure for SAP Workloads Specialty |
 | Microsoft Certified: Azure IoT Developer Specialty |
 | Microsoft Certified: Azure Data Scientist Associate |
