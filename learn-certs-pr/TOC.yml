@@ -44,12 +44,12 @@
     href: exam-item-challenge-process.md
   - name: Beta exams
     href: beta-exams.md
-  - name: 認證測驗的大學學分
+  - name: ACE 大學認證考試學分
+    href: ace-credit-for-certification-exams.md
+  - name: NCCRS 大學認證考試學分
     href: college-credit-for-certification-exams.md
   - name: 學生折扣
     href: student-discounts.md
-- name: 更新您的Microsoft認證
-  href: renew-your-microsoft-certification.md
 - name: 認證幫助
   href: help.md
 - name: Microsoft Official Courseware (MOC)幫助

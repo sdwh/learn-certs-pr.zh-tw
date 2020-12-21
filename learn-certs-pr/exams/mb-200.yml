@@ -15,6 +15,8 @@ summary: |-
   應試者主要負責配置系統以滿足客戶需求，執行與實現新特性和功能相關的設計任務，以及實現和測試系統更改。
 
   應試者規劃解決方案的功能設計，實現應用程式生命周期管理(ALM)過程，從遺留系統和外部系統移轉資料和對象，將 Power 平台與其他系統整合，並管理 Power 平台環境。
+
+  <div><strong><br/>由於本次考試將於2020年12月31日結束，Microsoft 不會將“Common Data Service”的引用更新為“Microsoft Dataverse”。</strong></div>
 subTitle: '此測驗測量您在完成以下技術任務時的能力：執行發現，計劃與分析; 管理用戶體驗設計; 管理實體與這裡；實作安全性; 實作集成；以及執行解決方案部署與測試。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb

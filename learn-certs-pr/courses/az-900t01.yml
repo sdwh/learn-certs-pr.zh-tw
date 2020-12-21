@@ -9,10 +9,13 @@ courseNumber: 'AZ-900T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 了解一般的雲端計算概念
-- skill: 了解 Microsoft Azure 提供的核心服務
-- skill: 瞭解使用Microsoft Azure的安全性、隱私、合規性和可靠性
-- skill: 了解 Microsoft 提供的定價和支援模型
+- skill: 討論 cloud 計算和 Azure 的基礎知識，以及如何開始使用 Azure 的訂閱和帳戶。
+- skill: 描述使用 cloud 計算服務的優勢，學會區分 cloud 計算的類別和類型，以及如何檢查使用 Azure 架構所必需的各種概念、資源和術語。
+- skill: 概述 Microsoft Azure 提供的核心服務。
+- skill: 討論包含 Microsoft Azure 的各種工具和服務的核心解決方案。
+- skill: 描述一般安全和網路安全特徵，以及如何使用各種 Azure 服務來説明確保 cloud 資源是安全和可信的。
+- skill: 討論身份、治理、隱私和合規特徵，以及 Azure 如何説明你安全訪問 cloud 資源，構建 cloud 治理戰略意味著什麼，以及 Azure 如何遵守常見的監管和合規標準。
+- skill: 討論影響成本的因素、幫助估計和管理 cloud 開銷的工具，以及 Azure 的 service-level agreements（SLAs）如何影響應用程式設計決策。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -32,58 +35,114 @@ products:
 exams:
 - uid: exam.az-900
 summary: |-
-  這門一天的課程將提供以下概念的基礎層次知識：雲端概念；核心 Azure 服務；安全性、隱私權、合規性和信任；以及 Azure 定價和支援。
+  此為期一天的課程將提供有關 Azure 概念；核心 Azure 服務；核心解決方案和管理工具；一般安全和網路安全；治理、隱私和合規特徵；Azure 成本管理和 service level agreements 的基礎知識。
 
-  注：本課程沒有為學生提供Azure准證或時間參加動手實驗。如果您對更具交互性的動手實驗體驗感興趣，請考慮AZ-900T00：Microsoft Azure基礎知識(2天）課程，其中包括由培訓師指導的動手實驗。這兩門課程的內容均與 AZ -900 測驗目標範圍一致。
+  注&#58; 本課程沒有為學生提供Azure准證或時間參加動手實驗。如果您對更具交互性的動手實驗體驗感興趣，請考慮AZ-900T00&#58; Microsoft Azure基礎知識(2天）課程，其中包括由培訓師指導的動手實驗。這兩門課程的內容均與 AZ-900 測驗目標範圍一致。
 
   #### 對象設定檔
   本課程適合具有一般IT背景的項目經理和技術銷售人員。這些學生想了解我們的產品，了解組件的實現方式，並詢問有關產品和功能的問題。本課程沒有為學生提供課堂上的Azure通行證或時間來進行任何動手操作。學生可以免費試用並在課外進行演練。本課程主要是講座和演示。本課程將幫助某人為AZ-900測驗做準備。
 prerequisitesSection: |-
-  報名參加本課程學習沒有先決條件。IT技術經驗不是必需的，但具有IT基本知識或經驗有利於學習。
+  選修這門課沒有先決條件。然而，學員掌握的技術知識越多，他們對 cloud 的瞭解就越多。
 outlineSection: |-
-  ### 模組 1&#58; 雲端概念
-  在本模組中，您將學習基本的雲端概念。
+  ### 模組 1&#58; 描述核心 Azure 概念
+  在本模組中，你將以端到端的方式查看 Azure 及其功能，這將為完成 Azure Fundamentals 的可用模組提供堅實的基礎。
   #### 課程
-  - 學習目標
-  - 為什麼要使用雲端服務？
-  - 基礎結構即服務(IaaS)服務(PaaS)和軟體即服務(SaaS)
-  - 公共，私有和混合雲端模型
-
-  完成本單元後，學生將能夠&#58;
-  - 了解一般的雲端計算概念
-
-
-  ### 模組 2&#58; 核心Azure服務
-  在本模組中，您將學習 Microsoft Azure 提供的基本核心服務。
+  - Azure 基礎知識簡介
+  - 討論 Azure 的基本概念
+  - 描述核心 Azure 架構元件
+  
+  完成本模組後，學員將能夠&#58;
+  - 瞭解 Azure 中 cloud 計算的好處以及它如何為你節省時間和金錢。
+  - 說明高可用性、可伸縮性、彈性、靈活性和災難恢復等概念。
+  - 描述核心 Azure 架構組件，如訂閱、管理組和資源。
+  - 總結 Azure 區域和區域對和可用性區域等地理分佈概念。
+  
+  
+  ### 模組 2&#58; 描述核心 Azure 服務
+  在本模組中，你將瞭解核心 Azure 服務，如 Azure 資料庫、Azure 計算、Azure 存儲和 Azure 網路。
   #### 課程
-  - 核心Azure 架構組件
-  - 核心Azure 服務和產品
-  - Azure 解決方案
-  - Azure 管理工具
-
-  完成本單元後，學生將能夠&#58;
-  - 了解可用於的核心服務 Microsoft Azure
-
-  ### 模組 3&#58; 安全性，隱私權，合規性和信任
-  在本模組中，您將了解有關 Microsoft Azure 的安全性，隱私性，合規性和信任度。
+  - 探索 Azure 資料庫和分析服務
+  - 探索 Azure 探索
+  - 探索 Azure 儲存服務
+  - 探索 Azure 網路服務
+  
+  完成本模組後，學員將能夠&#58;
+  - 瞭解 Azure 中可用的服務，包括計算、網路、存儲和資料庫。
+  - 識別虛擬化服務，如 Azure VMs、Azure Container Instances 和 Azure Kubernetes。
+  - 比較 Azure 的資料庫服務，如 Azure Cosmos DB、Azure SQL 和 Azure Database for MySQL.
+  - 檢查 Azure 網路資源，如 Virtual Networks、VPN Gateways 和 Azure ExpressRoute。
+  - 總結 Azure 存儲服務，如 Azure Blob 存儲、Azure Disk 存儲和 Azure File 存儲。
+  
+  
+  ### 模組 3&#58; 描述 Azure 上的核心解決方案和管理工具
+  在本模組中，你將學習 AI 機器學習、Azure DevOps、監控基礎知識、管理基礎知識、無服務計算基礎知識和 IoT 基本知識。
   #### 課程
-  - 保護 Azure 中的網路連接
-  - 核心 Azure 身份識別服務
-  - 安全工具和功能
-  - Azure 控管方法
-  - Azure 中的監視和報告
-  - Azure 中的隱私合規性和資料保護標準
-
-  完成本單元後，學生將能夠&#58;
-  - 了解 Microsoft Azure 安全性、隱私權、合規性和信任
-
-  ### 模組 4&#58; Azure定價，服務級別協議(SLA）和生命週期
-  在本模組中，您將重點關注 Microsoft 可用的定價和支援模型。
+  - 根據你的需求選擇最佳 AI 服務
+  - 選擇最好的工具，以説明組織構建更好的解決方案
+  - 選擇最佳的監控服務，以實現可見性、洞察力和停機緩解
+  - 選擇最好的工具來管理和配置 Azure 環境
+  - 為你的業務場景選擇最佳的 Azure 無伺服器技術
+  - 為你的應用程式選擇最佳的 Azure IoT 服務
+  
+  完成本模組後，學員將能夠&#58;
+  - 選擇正確的 Azure AI 服務來解決不同類型的業務挑戰。
+  - 為給定的業務場景選擇最佳的軟體發展過程工具和服務。
+  - 選擇正確的 cloud 監控服務來解決不同類型的業務挑戰。
+  - 選擇正確的 Azure 管理工具來滿足不同類型的技術需求。
+  - 為你的業務場景選擇正確的無伺服器計算技術。
+  - 為給定的業務場景選擇最佳的 Azure IoT 服務。
+  
+  
+  ### 模組 4&#58; 描述一般安全和網路安全特徵
+  在本模組中，你將學習如何保護自己免受安全威脅，並使用 Azure 保護你的網路。
   #### 課程
-  - Azure 訂閱
-  - 規劃和管理成本
-  - Azure中的服務生命週期
-
-  完成本單元後，學生將能夠&#58;
-  - 了解Microsoft提供的定價和服務生命週期模型
-
+  - 在 Azure 上抵禦安全威脅
+  - Azure 上的安全網路連接
+  
+  完成本模組後，學員將能夠&#58;
+  - 通過使用 Azure Security Center，增強你的安全態勢並抵禦威脅。
+  - 通過使用 Azure Sentinel 從許多不同的來源收集和處理安全資料。
+  - 管理專用物理伺服器以託管適用於 Windows 和 Linux 的 Azure VMs。
+  - 識別構成*縱深防禦*策略的層次。
+  - 說明 Azure Firewall 如何使你能夠控制網路上允許的流量。
+  - 配置網路安全性群組以篩選來往于 Azure 資源的網路流量。
+  - 說明 Azure DDoS Protection 如何幫助保護 Azure 資源免受 DDoS 攻擊。
+  
+  
+  ### 模組 5&#58; 描述身份、治理、隱私和合規性特徵
+  在本模組中，你將學習 Azure 身份服務、如何構建 cloud 治理策略以及Azure上的隱私、合規性和資料保護標準。
+  #### 課程
+  - 使用 Azure 身份服務安全訪問你的應用程式
+  - 在 Azure 上構建 cloud 治理策略
+  - 檢查 Azure 上的隱私、合規性和資料保護標準
+  
+  完成本模組後，學員將能夠&#58;
+  - 說明身份驗證和授權之間的區別。
+  - 描述 Azure Active Directory 如何提供身份和訪問管理。
+  - 說明角色單點登錄（SSO）、多因素身份驗證和 Conditional Access 的作用。
+  - 通過使用適用於 Azure 的 CAF，對你的 cloud 環境做出組織決策。
+  - 定義誰可以使用 Azure 基於角色的存取控制訪問 cloud 資源。
+  - 應用資源鎖以防止意外刪除 Azure 資源。
+  - 將標記應用於你的 Azure 資源，以幫助描述其用途。
+  - 使用 Azure 策略控制和審核資源的創建方式。
+  - 通過使用 Azure 藍圖跨多個 Azure 訂閱實現規模管理。
+  - 說明 Azure 上可用的合規性產品類型。
+  - 深入瞭解 Azure 的監管標準和合規性。
+  - 說明特定於政府機構的 Azure 功能。
+  
+  
+  ### 模組 6&#58; 描述 Azure 成本管理和服務級別協定
+  在本模組中，你將學習如何計畫和管理 Azure 成本，以及如何通過 SLAs 和服務生命週期選擇正確的 Azure 服務。
+  #### 課程
+  - 計畫和管理你的 Azure 成本
+  - 通過檢查 SLAs 和服務生命週期選擇正確的 Azure服務
+  
+  完成本模組後，學員將能夠&#58;
+  - 使用擁有權總成本計算器。
+  - 描述購買 Azure 產品和服務的不同方式。
+  - 使用定價計算器來估計運行 cloud 工作負載的每月成本。
+  - 確定影響總成本的主要因素，並應用推薦的實踐來最小化成本。
+  - 描述什麼是 service-level agreement (SLA) 以及為什麼 SLAs 很重要。
+  - 識別可能影響 SLA 的因素，例如你選擇的服務層。
+  - 合併 SLAs 來計算複合 SLA。
+  - 描述 Azure 中的服務生命週期。

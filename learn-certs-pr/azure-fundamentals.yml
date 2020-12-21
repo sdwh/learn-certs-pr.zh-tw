@@ -19,8 +19,10 @@ levels:
 skills:
 - 描述雲端概念
 - 描述核心 Azure 服務
-- 描述安全性、隱私權、合規性和信任
-- 描述 Azure 定價服務等級協定和生命週期
+- 描述 Azure 的核心解決方案和管理工具
+- 描述一般安全和網路安全特性
+- 描述身份、治理、隱私和合規性特徵
+- 描述 Azure 成本管理和 Service Level Agreements
 roles:
 - developer
 type: fundamentals
@@ -30,10 +32,12 @@ courses:
 - uid: course.az-900t01
 - uid: course.az-900t00
 paths:
-- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
-- uid: learn.wwl.distinguish-microsoft-azure-core-services
-- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
-- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
+- uid: learn.az-900-describe-cloud-concepts
+- uid: learn.az-900-describe-core-azure-services
+- uid: learn.az-900-describe-core-solutions-management-tools-azure
+- uid: learn.az-900-describe-general-security-network-security-features
+- uid: learn.az-900-describe-identity-governance-privacy-compliance-features
+- uid: learn.az-900-describe-azure-cost-management-service-level-agreements
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
 exams:
 - uid: exam.az-900

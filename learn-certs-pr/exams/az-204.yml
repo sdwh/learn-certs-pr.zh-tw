@@ -18,6 +18,8 @@ summary: |-
   Azure 開發人員與遠端解決方案架構師、雲端 DBA、雲端管理員和客戶端合作以實作解決方案。
 
   參加此測驗的應試者應具有 1-2 年的專業開發經驗以及 Microsoft Azure 的經驗。此外，該角色應具有使用 Azure 支援的語言進行編程的能力，並熟練使用 Azure SDK、Azure PowerShell、Azure CLI、資料存儲選項、資料連接、API、應用程式身份驗證和授權、計算和容器部署、調試、效能調整，以及監控。
+
+  如果你通過本次認證考試，你可能有資格獲得 ACE 大學學分。有關詳細資訊，請參閱 [ACE 大學認證考試學分](/learn/certifications/ace-credit-for-certification-exams)。
 subTitle: '此測驗會評量您達成下方技術性工作的能力：開發 Azure 計算解決方案；開發 Azure 儲存;實作 Azure 安全性;監視，疑難排解和最佳化 Azure 解決方案;並連接以及使用 Azure 服務和第三方服務。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B

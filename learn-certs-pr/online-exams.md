@@ -11,8 +11,10 @@ ms.author: micsullivan
 ---
 # 關於透過 Pearson VUE 進行的線上測驗
 
-您可以透過線上、Pearson VUE 參加任何基於 Microsoft Certification 角色的測驗或基礎測驗，並且可以在家中或辦公室中舒適地進行。線上督導測驗交付透過督導員透過網路攝像頭和麥克風監視您的測驗經歷，從而保持測驗結果的完整性。如果您有興趣透過 Pearson VUE 參加線上督導測驗，而且在註冊之前想要更好地理解可能出現的情形，則此頁面將會解釋詳細資訊。觀看 Pearson VUE 的 [YouTube 視頻](https://youtu.be/Gm1PqdbwBP0)，了解有關參加線上督導測驗的更多資訊。(本節不介紹 Certiport 提供的測驗。)
+你可以在 Pearson VUE 線上參加任何 Microsoft Certification 基於角色或基礎的測試, 也可以在舒適的家裡或辦公室裡進行。線上監考通過網路攝像頭和麥克風監控你的考試體驗，從而保持考試結果的完整性。如果你有興趣通過 Pearson VUE 參加線上監考考試，並希望在註冊前更好地瞭解預期內容，本頁面包含重要的詳細資訊。觀看下面的視頻以瞭解關於參加線上監考考試的更多資訊。（本節不涉及 Certiport 提供的考試。）
+<br/>
 
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4IFBp]
 
 ## <a name="take-a-system-test"></a> 立即運行系統測試
 

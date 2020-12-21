@@ -8,7 +8,7 @@ displayName: AZ-104
 summary: |-
   <div>
   <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-  <div><strong>本次考試的內容將於2020年11月24日更新。請下載以下的技能測試文檔以查看將發生什麼變化。</strong><br/><br/></div>
+  <div><strong>本次考試的內容於2020年11月24日更新。請下載下面的技能衡量文檔，以瞭解有何變化。</strong><br/><br/></div>
   </div>
 
   參加該測驗的考生應具有主題知識，可以實作、管理和監控組織的 Microsoft Azure 環境。
@@ -18,6 +18,8 @@ summary: |-
   Azure 管理員通常是專門用於實作組織的雲端基礎結構的較大團隊的一部分。
 
   參加該測驗的應試者應至少具有六個月的 Azure 管理實踐經驗，並對核心 Azure 服務、Azure 工作負載、安全性和治理有深刻的了解。此外，該角色應具有使用 PowerShell、Azure CLI、Azure 門戶和 Azure 資源管理員模板的經驗。
+
+  如果你通過本次認證考試，你可能有資格獲得 ACE 大學學分。有關詳細資訊，請參閱 [ACE 大學認證考試學分](/learn/certifications/ace-credit-for-certification-exams)。
 subTitle: '此測驗會評量您達成下方技術性工作的能力：管理 Azure 身份識別和治理； 實作和管理儲存； 部署和管理 Azure 計算資源； 設定和管理虛擬網路； 並監視和備份Azure資源。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
@@ -35,7 +37,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考試的內容將於2020年11月24日更新。請下載下述考試技巧以查看將發生什麼變化。
+- 本次考試的內容於2020年11月24日更新。請下載以下考試技能大綱，以瞭解有何變化。
 - 管理 Azure 身份識別和治理 (15-20%)
 - 實作和管理存儲 (10-15%)
 - 部署和管理 Azure 計算資源 (25-30%)

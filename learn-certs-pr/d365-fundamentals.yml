@@ -9,6 +9,8 @@ summary: |-
   <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
 
   證明您了解 Microsoft Dynamics 365； 人工智慧；混合實境； Power Platform； 雲端概念； 雲端安全； Dynamics 365 安全性； Common Data Service； Dynamics 365 報告； Dynamics 365 整合； 和雲端部署。
+
+  <div><br/><strong>注釋：目前，Microsoft 不會將“Common Data Service”的引用更新為“Microsoft Dataverse”。</strong></div>
 subTitle: '證明您了解 Microsoft Dynamics 365； 人工智慧(AI)；混合實境(MR)； Power Platform； 雲端概念； 雲端安全； Dynamics 365 安全性； Common Data Service； Dynamics 365 報告； Dynamics 365 整合； 和雲端部署。'
 levels:
 - beginner
@@ -18,7 +20,10 @@ skills:
 - 描述模型驅動式應用程式
 - 描述財務和營運應用程式
 roles:
+- business-owner
+- business-user
 - functional-consultant
+- student
 type: fundamentals
 products:
 - dynamics-365

@@ -37,25 +37,28 @@ MCT 計劃是專為全球各地積極提供 Microsoft 技術訓練工作的教�
 如需 MCT 計畫必要條件的詳細資訊，請檢閱本頁 [應用程式處理程序](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) 部分中的《MCT 計畫指南》和《MCT 計畫合約》。
 
 ### MCT 計劃參加條件
-- 擁有最新 Microsoft 認證或 MCT 計劃申請資格 。 
+
+- 擁有最新 Microsoft 認證或 MCT 計劃申請資格。
 (參見下方的合格認證清單)
 - 滿足下列其中一項條件，以證明教學技能：
-  -教學技能認證
+  - 教學技能認證
     - CompTIA CTT+
     - Essential Educate Trainer(內部Microsoft-認證)
-	- Fourth Dimension Technologies, Inc.
+    - Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
     - Global Knowledge Instructional Skills Certification
     - IAMCT Approved Technical Trainer (IAMCT ATT)
     - IPM (Institut für Personalberatung und Managemententwicklung)
     - Learning and Performance Institute Trainer Performance Monitoring and Assessment (TPMA)
-    了解樹式訓練的訓練者計劃
+    - 了解樹式訓練的訓練者計劃
     - Marcom Deli
     - Microsoft Certified Trainer Instructional Skills Certification (MCT-ISC)
-	- Microsoft客戶服務與支援(CSS)訓練師認證
-	- Microsoft核心訓練技能
+    - Microsoft客戶服務與支援(CSS)訓練師認證
+    - Microsoft核心訓練技能
     - New Horizons Instructional Skills Certification
     - PrepMasters USA
+    - Modern Classroom Certified Trainer (MCCT®)
+    - Certified Virtual Educator
   
   或<br/><br/>
 

@@ -6,7 +6,8 @@ metadata:
 uid: exam.ms-500
 displayName: MS-500
 summary: |-
-  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>此測驗內容將於 2020 年 11 月 24 日更新。請下載下方的技能衡量文件，以查看將有哪些變化。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div>
+  <div><strong>本次考試的內容於2020年11月24日更新。請下載下面的技能衡量文檔，以瞭解有何變化。</strong><br/><br/></div>
   </div>
 
   此測驗的應試者實作，管理與監視 Microsoft 365 與混合式環境的安全性與合規性解決方法。Microsoft 365 安全管理員可主動保護 Microsoft 365 企業環境、回覆威脅、執行調查並實作資料控管。Microsoft 365 安全管理員與 Microsoft 365 企業管理員，企業利害關係人與其他工作負載管理員共同作業，以規劃與實作安全策略，並確保解決方法符合組織的策略與規定。
@@ -28,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 此測驗內容將於 2020 年 11 月 24日更新。請下載下面概述的測驗技能，以了解將會發生什麼變化。
+- 本次考試的內容於2020年11月24日更新。請下載以下考試技能大綱，以瞭解有何變化。
 - 實作與管理身份與存取 (30-35%)
 - 實作與管理威脅防護 (20-25%)
 - 實作與管理資訊防護 (15-20%)

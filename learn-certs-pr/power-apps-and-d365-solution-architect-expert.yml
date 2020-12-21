@@ -5,7 +5,15 @@ metadata:
   description: Microsoft Dynamics 365 + Power Platform 的解決方案架構師領導成功的實作，並專注於解決方案如何滿足組織更廣泛的業務和技術需求。
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: "<div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>\r\n\r\nMicrosoft Dynamics 365 + Power Platform 的解決方案架構師領導成功的實作，並專注於解決方案如何滿足組織更廣泛的業務和技術需求。"
+summary: |-
+  <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+
+  Microsoft Dynamics 365 + Power Platform 的解決方案架構師領導成功的實作，並專注於解決方案如何滿足組織更廣泛的業務和技術需求。
+  
+  <div>注釋&#58; 獲得以下兩項認證是獲得該認證的先決條件。由於網站限制，以下未列出此先決條件。<ul>
+  <li><a href="/learn/certifications/power-platform-functional-consultant-associate">Microsoft Certified&#58; Power Platform Functional Consultant Associate</a></li>
+  <li><a href="/learn/certifications/power-platform-developer-associate">Microsoft Certified&#58; Power Platform Developer Associate</a></li>
+  </ul></div>
 subTitle: Microsoft Dynamics 365 + Power Platform 的解決方案架構師領導成功的實作，並專注於解決方案如何滿足組織更廣泛的業務和技術需求。
 levels:
 - advanced
