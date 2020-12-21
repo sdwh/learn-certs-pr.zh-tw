@@ -30,6 +30,20 @@ products:
 courses:
 - uid: course.ms-100t00
 - uid: course.ms-101t00
+paths:
+- uid: learn-m365.identity-and-access
+- uid: learn.security.manage-identity-and-access
+- uid: learn-m365.microsoft-365-get-modern
+- uid: learn-m365.m365-stay-current
+- uid: learn-m365.manage-enterprise-deployment-m365
+- uid: learn-m365.m365-cloud-security
+- uid: learn-m365.m365-security-threat-protection
+- uid: learn-m365.m365-security-management
+- uid: learn.security.manage-security-operations
+- uid: learn-m365.m365-messaging-secure-environment
+- uid: learn-m365.m365-compliance-information
+- uid: learn-m365.audit-safeguard-customer-data
+- uid: learn-m365.compliance-discover
 prerequisites:
 - uid: certification.modern-desktop
   isOptional: false

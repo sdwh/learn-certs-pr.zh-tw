@@ -7,7 +7,7 @@ uid: exam.az-400
 displayName: AZ-400
 summary: |-
   <div><div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'> 本次考試的內容將於2020年11月24日更新。請下載以下的技能測試文檔以查看將發生什麼變化。<br/><br/></div>
+  <div><strong>本次考試的內容於2020年11月24日更新。請下載下面的技能衡量文檔，以瞭解有何變化。</strong><br/><br/></div>
   </div>
 
   參加該測驗的考生應具有與人員，流程和技術一起工作的主題專業知識，以不斷交付業務價值。
@@ -28,7 +28,7 @@ locales:
 levels:
 - advanced
 skills:
-- 本次考試的內容將於2020年11月24日更新。請下載下述考試技巧以查看將發生什麼變化。
+- 本次考試的內容於2020年11月24日更新。請下載以下考試技能大綱，以瞭解有何變化。
 - 制定規範策略 (5-10%)
 - 制定站點可靠性工程(SRE)策略 (5-10%)
 - 制定安全和合規計劃 (10-15%)

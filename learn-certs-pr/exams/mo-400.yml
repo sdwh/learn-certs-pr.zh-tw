@@ -15,6 +15,12 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4mUR
 scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
+- nl
+- es
+- de
+- zh-cn
+- fr
+- ko
 levels:
 - intermediate
 skills:

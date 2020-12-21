@@ -49,7 +49,7 @@ paths:
 - uid: learn.data-ai.evaluate-text-with-language-services
 - uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
 - uid: learn.data-ai.create-bots-with-the-azure-bot-service
-- uid: learn.data-ai.classify-images-with-vision-services
+- uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
 relatedCertifications:
 - related:
     uid: certification.azure-ai-engineer

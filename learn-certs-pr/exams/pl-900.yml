@@ -11,6 +11,8 @@ summary: |-
   </div>
 
   這項測驗的應試者希望透過了解 Power Platform 的功能，使用 Power Automate 自動化基本業務流程，使用 Power BI 執行基本資料分析，透過建立簡單的 Power 應用程式體驗來更有效地行動來提高生產力，無需使用代碼即可建立功能強大的聊天機器人。
+
+  如果你通過本次認證考試，你可能有資格獲得 ACE 大學學分。有關詳細資訊，請參閱 [ACE 大學認證考試學分](/learn/certifications/ace-credit-for-certification-exams)。
 subTitle: 該測驗衡量您描述 Power Platform 商業價值的能力；確定 Power Platform 的核心元件；演示 Power BI 的功能；描述 Power Apps 的功能；演示 Power Automate 的功能；並展示 Power Virtual Agents 的商業價值。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
@@ -41,7 +43,9 @@ skills:
 - 演示Power Automate的功能 (15-20%)
 - 展示 Power Virtual Agents 的商業價值 (10-15%)
 roles:
-- developer
+- business-user
+- functional-consultant
+- student
 products:
 - power-platform
 courses:
