@@ -1,6 +1,6 @@
 ---
-title: '認證測驗的大學學分 | Microsoft Docs'
-description: '認證測驗的大學學分' 
+title: 'NCCRS 大學認證考試學分 | Microsoft Docs'
+description: 'NCCRS 大學認證考試學分'
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -10,7 +10,7 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# 認證測驗的大學學分
+# NCCRS 大學認證考試學分
 
 ## 学生認證
 
@@ -50,7 +50,7 @@ AZ-301: Microsoft Azure Architect Design
 
 - 第 4 步：按照步骤通过電子郵件共享您的徽章 [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)
 
-- 有關更多資訊，請參閱：[Microsoft 測驗和認證徽章 ](/learn/certifications/badges)
+- 有關更多資訊，請參閱：[Microsoft 測驗和認證徽章](/learn/certifications/badges)
 
 **驗證認證選項2 - 共享成績單：**
 

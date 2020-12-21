@@ -10,6 +10,8 @@ summary: |-
   </div>
 
   Azure 資料科學家套用他們在資料科學和機器學習方面的知識在 Azure 上實作和執行機器學習工作負載；特別是使用 Azure 機器學習服務。這需要為 Azure 上的資料科學工作負載規劃和建立合適的工作環境，執行資料實驗和訓練預測模型，管理和最佳化模型，以及將機器學習模型部署到生產中。
+
+  如果你通過本次認證考試，你可能有資格獲得 ACE 大學學分。有關詳細資訊，請參閱 [ACE 大學認證考試學分](/learn/certifications/ace-credit-for-certification-exams)。
 subTitle: '此測驗會評量您達成下方技術性工作的能力：設定 Azure 機器學習工作區； 進行實驗和訓練模型；最佳化和管理模型；並部署和使用模型。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA

@@ -17,6 +17,11 @@ providers:
   examUrl: http://www.certiport.com/locator
 locales:
 - en
+- es
+- fr
+- de
+- ja
+- ko
 levels:
 - advanced
 skills:

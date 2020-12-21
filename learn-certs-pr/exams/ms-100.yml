@@ -38,6 +38,12 @@ exams:
 - uid: exam.ms-101
 courses:
 - uid: course.ms-100t00
+paths:
+- uid: learn-m365.identity-and-access
+- uid: learn.security.manage-identity-and-access
+- uid: learn-m365.microsoft-365-get-modern
+- uid: learn-m365.m365-stay-current
+- uid: learn-m365.manage-enterprise-deployment-m365
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator

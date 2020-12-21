@@ -8,7 +8,7 @@ displayName: MS-203
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  <div><strong>本次考試的內容將於2020年11月24日更新。請下載以下的技能測試文檔以查看將發生什麼變化。</strong><br/><br/></div>
+  <div><strong>本次考試的內容於2020年11月24日更新。請下載下面的技能衡量文檔，以瞭解有何變化。</strong><br/><br/></div>
   </div>
 
   此測驗的應試者是傳訊管理員，他們在混合式和雲端企業環境中部署、設定、管理、疑難排解和監控收件者、權限、郵件保護、郵件流和公用資料夾。
@@ -28,7 +28,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考試的內容將於2020年11月24日更新。請下載下述考試技巧以查看將發生什麼變化。
+- 本次考試的內容於2020年11月24日更新。請下載以下考試技能大綱，以瞭解有何變化。
 - 管理組織設置和資源 (30-35%)
 - 規劃和管理郵件體系結構 (20-25%)
 - 計劃和實作混合配置和移轉 (20-25%)
@@ -39,6 +39,10 @@ products:
 - m365
 courses:
 - uid: course.ms-203t00
+paths:
+- uid: learn-m365.m365-messaging-hybrid-migration
+- uid: learn-m365.m365-messaging-architecture
+- uid: learn-m365.m365-messaging-secure-environment
 relatedCertifications:
 - related:
     uid: certification.m365-messaging-administrator

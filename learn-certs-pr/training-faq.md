@@ -85,11 +85,11 @@ Learning Partner 網站或購物車上的最終價格可能會有所不同，因
 
 ### 為什麼其他訓練課程比我想參加的課程貴一些？
 
-與任何市場一樣，課程價格由每個 Learning Partner 決定。合作夥伴需要以 Microsoft Learn 計劃工具上列出的價格提供完整的 Microsoft 官方課程訓練經驗。合作夥伴可以對其他可選的產品和服務進行廣告宣傳。如果您認為廣告宣傳的定價有誤導性或不正確，請透過 [Learning Partner instructor-led course scheduling on Learn support forum](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1)與我們聯絡。
+與任何市場一樣，課程價格由每個 Learning Partner 決定。合作夥伴需要以 Microsoft Learn 計劃工具上列出的價格提供完整的 Microsoft 官方課程訓練經驗。合作夥伴可以對其他可選的產品和服務進行廣告宣傳。如果您認為廣告宣傳的定價有誤導性或不正確，請透過 [Learning Partner instructor-led course scheduling on Learn support forum](https://trainingsupport.microsoft.com/en-us/iltvilt/forum)與我們聯絡。
 
 ### 按課程位置、日期等進行的篩選無法正常執行。
 
-如果篩選無法執行，請刷新瀏覽器，然後重試。如果您認為篩選器仍然無法使用，則可以在[Learning Partner instructor-led course scheduling on Learn support forum](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1)中提出問題。這是搜索和尋求幫助，報告問題並獲得建議的最佳資源。
+如果篩選無法執行，請刷新瀏覽器，然後重試。如果您認為篩選器仍然無法使用，則可以在[Learning Partner instructor-led course scheduling on Learn support forum](https://trainingsupport.microsoft.com/en-us/iltvilt/forum)中提出問題。這是搜索和尋求幫助，報告問題並獲得建議的最佳資源。
 
 ### 我找不到我所在地區的 Learning Partner。
 
@@ -101,4 +101,4 @@ Learning Partner 網站或購物車上的最終價格可能會有所不同，因
 
 Learning Partner 負責提供有關在其站點上進行計劃的支援。您可以透過訪問 Learning Partner 的網站嘗試不同的號碼。
 
-如果您仍然無法與 Learning Partner 聯絡，則可以在[Learning Partner instructor-led course scheduling on Learn support forum](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1)中發布您的問題。這是尋求幫助，報告問題並獲得建議的最佳資源。
+如果您仍然無法與 Learning Partner 聯絡，則可以在[Learning Partner instructor-led course scheduling on Learn support forum](https://trainingsupport.microsoft.com/en-us/iltvilt/forum)中發布您的問題。這是尋求幫助，報告問題並獲得建議的最佳資源。

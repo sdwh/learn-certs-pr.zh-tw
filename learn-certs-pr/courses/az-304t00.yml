@@ -38,11 +38,19 @@ summary: |-
   #### 對象設定檔
   本課程面向具有設計和實作在 Microsoft Azure 上運行的解決方案的專業知識的 IT 專業人員。應試者應具備跨 IT 運營各個方面的高級經驗和知識，包括網路、虛擬化、身份、安全性、業務連續性、災難恢復、資料管理、預算和治理。Azure 解決方案架構師使用 Azure 入口，在他们更加熟練之后，则会使用命令行界面。應試者必須具有 Azure 管理方面的專家級技能，並且具有 Azure 開發流程和 DevOps 流程的經驗。
 prerequisitesSection: |-
-  成功的 Azure 解決方案架構師透過操作系統，虛擬化，雲端基礎結構，存儲結構和網路方面的經驗開始擔任這一角色。
+  成功的 Azure 架構師通過在作業系統、虛擬化、cloud 基礎設施、存儲結構、網路、應用程式和資料庫方面的經驗開始這一角色。
   - 了解內部虛擬化技術，包括&#58;VM、虛擬網路和虛擬硬碟。
   - 了解網路設定，包括 TCP/IP，網域名稱系統（DNS），虛擬私人網路（VPN），防火牆和加密技術。
   - 了解 Active Directory 概念，包括網域，樹系，網域控制站，複寫，Kerberos 通訊協定和輕量型目錄存取通訊協定（LDAP）。
   - 了解恢復和災害復原，包括備份和還原操作。
+  - 瞭解應用程式開發和 APIs。
+  - 瞭解資料庫，包括SQL（如MS SQL、MySQL 或 Postgres）和非SQL資料庫（如 MongoDB）。
+  - 瞭解分離應用程式和服務，例如佇列、表、緩存。
+  - 瞭解保護環境的安全概念，如靜態加密、傳輸加密、SSL、TLS。
+  
+  必修課程（或同等知識）&#58;
+  - AZ-900 Azure Fundamentals
+  - AZ-303 Azure Solution Architect Technologies
 outlineSection: |-
   ### 模組 1&#58; 設計計算策略
   在本模組中，您將學習適當的計算技術，包括虛擬機器，App Services，Service Fabric，Azure Functions，Windows Virtual Desktop和容器。
@@ -162,7 +170,7 @@ outlineSection: |-
   - 推薦資料流
   - 推薦資料整合解決方案
 
-  完成本單元後，學生將能夠&#58; 
+  完成本單元後，學生將能夠&#58;
   - 實作 Azure Synapse 分析
   - 描述如何使用 Azure Data Factory 傳輸資料
   - 演示如何使用Azure資料工廠將資料加載到 SQL 資料庫中

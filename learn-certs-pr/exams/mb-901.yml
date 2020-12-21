@@ -16,6 +16,10 @@ summary: |-
   應試者應該對 Dynamics 365 功能和 Microsoft 雲端計算有功能上的了解。
 
   測驗的應試者應具備資訊科技(IT)環境方面的一般知識或相關工作經驗。應試者還應對商務場景和解決 IT 專案的業務，法律和安全要求的經驗有基本的了解。
+
+  如果你通過本次認證考試，你可能有資格獲得 ACE 大學學分。有關詳細資訊，請參閱 [ACE 大學認證考試學分](/learn/certifications/ace-credit-for-certification-exams)。
+
+  <div><br/><strong>注釋&#58; 目前，Microsoft 不會將“Common Data Service”的引用更新為“Microsoft Dataverse”。</strong></div>
 subTitle: 此測驗評量您了解 Microsoft Dynamics 365； 人工智慧(AI)；混合實境(MR)； Power Platform； 雲端概念； 雲端安全； Dynamics 365 中角色型安全性； Common Data Service； Dynamics 365 報告； Dynamics 365 整合； 和雲端部署的能力。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
@@ -41,7 +45,10 @@ skills:
 - 描述模型驅動式應用程式 (25-30%)
 - 描述財務和營運應用程式 (25-30%)
 roles:
+- business-owner
+- business-user
 - functional-consultant
+- student
 products:
 - dynamics-365
 courses:
