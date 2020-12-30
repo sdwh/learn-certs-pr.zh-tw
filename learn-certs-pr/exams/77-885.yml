@@ -16,13 +16,8 @@ scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&e
 locales:
 - zh-cn
 - zh-tw
-- de
 - es
 - ja
-- ko
-- nl
-- ar-sa
-- pt-br
 levels:
 - beginner
 skills:
