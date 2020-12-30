@@ -14,7 +14,19 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjX
 scheduleExamUrl: https://www.certiport.com/locator
 locales:
+- en
 - ar-sa
+- zh-cn
+- zh-tw
+- de
+- el-gr
+- es
+- fr
+- ja
+- ko
+- nl
+- ru
+- vi-vn
 levels:
 - beginner
 skills:

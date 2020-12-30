@@ -14,18 +14,9 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toWg
 scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=77-884&examname=Outlook%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-884
 locales:
-- zh-cn
 - zh-tw
-- de
-- es
-- fr
 - ja
-- ko
-- nl
 - ru
-- ar-sa
-- it
-- pt-br
 levels:
 - beginner
 skills:
