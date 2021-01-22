@@ -118,7 +118,7 @@ ms.author: micsullivan
                 <p><strong>網絡瀏覽器</strong></p>
             </td>
             <td>
-                <p>最新版本的 Microsoft <strong>Edge</strong>，<strong>Safari</strong>，<strong>Chrome</strong> 和 <strong>Firefox</strong>，可進行 Web 註冊或下載安全瀏覽器或  <strong>Internet Explorer 11</strong>。</p>
+                <p>Microsoft <strong>Edge</strong>, <strong>Safari</strong>, <strong>Chrome</strong>的最新版本, 以及<strong>Firefox</strong></p>
             </td>
         </tr>
         <tr>

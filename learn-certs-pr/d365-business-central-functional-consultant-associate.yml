@@ -25,6 +25,8 @@ type: role-based
 products:
 - dynamics-business-central
 - power-platform
+courses:
+- uid: course.mb-800t00
 paths:
 - uid: learn-dynamics.get-started-dynamics-365-business-central
 - uid: learn-dynamics.deploy-configure-dynamics-365-business-central

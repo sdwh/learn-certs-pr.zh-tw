@@ -5,7 +5,7 @@ metadata:
   description: 'Course MB-210T01-A: Dynamics 365 for customer engagement for sales'
 uid: course.mb-210t01
 courseNumber: 'MB-210T01'
-hoursToComplete: 48
+hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 安裝和配置應用程式

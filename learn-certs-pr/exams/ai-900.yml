@@ -6,15 +6,15 @@ metadata:
 uid: exam.ai-900
 displayName: AI-900
 summary: |-
-  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>本次考試的內容更新於2020年10月22日。請下載以下的技能測試文檔以查看已發生的變化。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div><div><strong>該考試的內容將於2021年1月27日進行更新。請下載以下技能測量文檔，來看看會發生哪些變化。</strong><br/><br/></div>
   </div>
-
+  
   參加此測驗的應試者應具有機器學習 (ML) 和人工智慧 (AI) 概念以及相關的 Microsoft Azure 服務的基礎知識。
-
+  
   這次測驗是一次展示常見的 ML 和 AI 工作負載以及如何在 Azure 上實作知識的機會。
-
+  
   該測驗適用於具有技術和非技術背景的考生。不需要資料科學和軟體工程經驗；但是，一些一般的編程知識或經驗將是有益的。
-
+  
   Azure AI Fundamentals 可用於準備其他基於 Azure 角色的認證，例如 Azure Data Scientist Associate 或 Azure AI Engineer Associate，但這不是其中任何一個的先決條件。
 subTitle: '證明您可以描述以下內容：AI 工作負載和注意事項； Azure 上機器學習的基本原理； Azure 上的電腦視覺工作負載的功能； Azure 上的自然語言處理 (NLP) 工作負載的功能；和 Azure 上的對話式 AI 工作負載的功能。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -38,7 +38,7 @@ locales:
 levels:
 - beginner
 skills:
-- 本次考試的內容更新於2020年10月22日。請下載下述考試技巧以查看已發生的變化。
+- 該考試的內容將於2021年1月27日進行更新。請下載以下考試技巧大綱，來看看會發生哪些變化。
 - 描述 AI 工作負載和注意事項 (15-20%)
 - 描述 Azure 上機器學習的基本原理 (30-35%)
 - 描述 Azure 上的電腦視覺工作負載的功能 (15-20%)

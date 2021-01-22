@@ -41,6 +41,7 @@ paths:
 - uid: learn-dynamics.configure-manage-procurement-vendors-d365-finance-ops
 - uid: learn-dynamics.configure-manage-sales-customers-dyn365-supply-chain-mgmt
 - uid: learn-dynamics.configure-work-warehouse-management-d365-finance-ops
+- uid: learn-dynamics.master-planning-supply-chain-management
 - uid: learn-dynamics.configure-work-transportation-mgmt-dyn365-supply-chain-mgmt
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUY
 exams:
