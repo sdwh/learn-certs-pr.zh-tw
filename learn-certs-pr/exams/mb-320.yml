@@ -48,6 +48,7 @@ paths:
 - uid: learn-dynamics.configure-and-use-process-manufacturing-in-d365-finance-ops
 - uid: learn-dynamics.configure-and-use-lean-manufacturing-in-d365-finance-ops
 - uid: learn-dynamics.use-warehouse-in-manufacturing-dyn365-fo
+- uid: learn-dynamics.master-planning-supply-chain-management
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-manufacturing

@@ -31,6 +31,8 @@ products:
 - power-platform
 - power-apps
 - common-data-service
+courses:
+- uid: course.pl-400t00
 paths:
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes

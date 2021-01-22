@@ -7,8 +7,20 @@ uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
   <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-
-  證明您了解 Power Platform 的核心功能-從商業價值和核心產品功能到構建簡單的 Power Apps 畫布應用程式，連接資料源，使用 Power Automate 自動化基本業務流程，建立 Power BI 儀表板以及使用以下功能建立強大的聊天機器人電源虛擬代理。
+  
+  如果您是一名學生、商業用戶或剛入門的專業技術人士，該認證可以使您進步加速，並促進您的職業生涯，這是因為您可以使用Microsoft Power Platform的技能來提高您所在團隊的生產力。該認證的培訓無需經驗，只要基本熟悉電腦技術、資料分析、cloud計算和互聯網即可。可以考慮將基礎認證視為提高您的技能組合和晉升其他認證（如Microsoft Power Platform Functional Consultant）的第一步。
+  
+  如果您願意，Microsoft Power Platform Fundamentals認證可能非常適合您&#58;
+  - 使用Microsoft Power Platform來構建解決方案。
+  - 借助Power Automate來實現基本業務流程自動化。
+  - 通過Power BI進行資料分析。
+  - 創建簡單的Power Apps體驗。
+  - 借助Power Virtual Agents來構建實用的聊天機器人。
+  
+  該認證沒有前提條件。然而，如果您想獲得更多的經驗，你可以&#58;
+  - 在您的團隊中跟隨一位借助Microsoft Power Platform工作的人。
+  - 在Microsoft Learn上探究可用的學習途徑。
+  - 報名參加由導師指導的培訓課程。
 subTitle: 證明您了解 Power Platform 的核心功能-從商業價值和核心產品功能到構建簡單的 Power Apps 畫布應用程式，連接資料源，使用 Power Automate 自動化基本業務流程，建立 Power BI 儀表板以及使用以下功能建立強大的聊天機器人電源虛擬代理。
 levels:
 - beginner

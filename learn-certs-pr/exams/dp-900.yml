@@ -6,15 +6,15 @@ metadata:
 uid: exam.dp-900
 displayName: DP-900
 summary: |-
-  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>本次考試的內容更新於2020年10月22日。請下載以下的技能測試文檔以查看已發生的變化。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div><div><strong>該考試的內容將於2021年1月27日進行更新。請下載以下技能測量文檔，來看看會發生哪些變化。</strong><br/><br/></div>
   </div>
-
+  
   參加該測驗的考生應具有核心資料概念的基本知識，以及如何使用 Microsoft Azure 資料服務實作這些知識。
-
+  
   該測驗適用於開始使用雲端中的資料的應試者。
-
+  
   應試者應該熟悉關係和非關係資料的概念，以及不同類型的資料工作負載，例如事務性或分析性。
-
+  
   Azure 資料基礎知識可用於為其他基於 Azure 角色的認證做準備，例如 Azure Database Administrator Associate 或 Azure Data Engineer Associate，但這不是其中任何一個的先決條件。
 subTitle: '證明您可以描述以下內容：核心資料概念；如何在 Azure 上使用關係資料；如何在 Azure 上使用非關係資料以及 Azure 上的分析工作負載。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -38,7 +38,7 @@ locales:
 levels:
 - beginner
 skills:
-- 本次考試的內容更新於2020年10月22日。請下載下述考試技巧以查看已發生的變化。
+- 該考試的內容將於2021年1月27日進行更新。請下載以下考試技巧大綱，來看看會發生哪些變化。
 - 描述核心資料概念 (15-20%)
 - 描述如何在 Azure 上使用關係資料 (25-30%)
 - 描述如何在 Azure 上使用非關係資料 (25-30%)

@@ -8,19 +8,18 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div>
   <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-  <div> <strong>2020年9月，MB-200將被替換為新測驗，<a href="/learn/certifications/exams/pl-200">PL-200</a>。通過 MB-200 或 PL-200，再加 MB-220，您將可以取得此認證，直到 MB-200 於 2020 年 12 月 31 日停用。MB-200停用後，必須通過PL-200和MB-220才能取得此認證。 </strong><br/><br/></div></div>
+  <div> <strong>考試<a href="/learn/certifications/exams/mb-200">MB-200</a>正在被一個新的考試<a href="/learn/certifications/exams/pl-200">PL-200</a>所取代。在通過MB-200或PL-200以及MB-220考試的情況下，您將能夠獲得該證書，直至MB-200於2020年12月31日停用。在MB-200停用後，將需要通過PL-200和MB-220才能獲得該證書。注意&#58;考試於中央標準時間晚上11點59分停用。</strong><br/><br/></div></div>
 
   Microsoft Dynamics 365 行銷功能顧問實作吸引並轉化潛在客戶的解決方案，建構品牌知名度，標準化全渠道訊息傳送，以及提供行銷見解。
 subTitle: Microsoft Dynamics 365 行銷功能顧問實作吸引並轉化潛在客戶的解決方案，建構品牌知名度，標準化全渠道訊息傳送，以及提供行銷見解。
 levels:
 - intermediate
 skills:
-- 執行探索，計畫和分析
-- 管理使用者體驗設計
-- 管理實體和數據
-- 實作安全
-- 實作整合
-- 執行解決方案部署和測試
+- 配置Common Data Service
+- 利用Power Apps來創建應用程式
+- 創建和管理Power Automate
+- 實現Power Virtual Agents聊天機器人
+- 將Power Apps與其他應用程式和服務集成在一起
 - 設定行銷應用程式
 - 管理區段和清單
 - 建立與管理行銷表單與頁面
@@ -36,23 +35,29 @@ products:
 - dynamics-365
 - dynamics-marketing
 courses:
-- uid: course.mb-200t00
+- uid: course.pl-200t00
 - uid: course.mb-220t00
 paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
-- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.create-business-process-flow
 - uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-bizapps.get-started-power-apps-portals
-- uid: learn-bizapps.extend-power-apps-portals
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 - uid: learn-dynamics.set-up-dynamics-365-marketing
 - uid: learn-dynamics.work-core-features-marketing
 - uid: learn-dynamics.manage-events-dynamics-marketing
 - uid: learn-dynamics.analyze-marketing-insights
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj1
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 - uid: exam.mb-220
 resources:
 - title: 認證海報

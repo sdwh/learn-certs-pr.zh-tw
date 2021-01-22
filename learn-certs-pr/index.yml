@@ -107,21 +107,21 @@ resourcesSection:
       url: /learn/certifications/browse
 
 statisticsSection:
-  title: 為何要認證？
-  summary: 認證是對您專業優勢的證明，是產業認可的職位技能的體現。
+  title: Microsoft認證
+  summary: 通過提供全球和行業認可的技能掌握證據，Microsoft認證體現了在數位和cloud業務中的專業優勢。
   video:
-    pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
+    pdfDownloadUrl: https://home.pearsonvue.com/voc
     iframeTitle: Microsoft Certifications [Microsoft 認證]
     iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
-    title: Microsoft 認證的好處
-    summary: 在獲得認證後，23％ 的 Microsoft 認證技術人員報告稱薪資漲幅高達 20％。更重要的是，經過認證的員工經常被委託監督他們的同事，讓他們走上快速晉升的通道。— 2017 Pearson VUE 認證價值白皮書
+    title: 認證的好處
+    summary: 獲得證書後，67%的專業技術人員表示，他們對自己的工作能力更有自信了，41%的人表示工作滿意度提高了，35%的人表示薪水或工資增加了。- “2018 Pearson VUE IT認證價值”。
   items:
-    - title: 38%
-      summary: 到 2021 年，__% 的 IT 職位都將與雲端有關係。
-      note: IDC/Microsoft，雲端技能和組織影響力* 雲技術如何助力 IT 專業人士的職業生涯，2017 年 5 月
-    - title: 35%
-      summary: __的 IT 專業人員表示，在部署其他技術期間，他們在雲端部署期間的影響力要高於同行。
-      note: IDC/Microsoft，雲端技能和組織影響力* 雲技術如何助力 IT 專業人士的職業生涯，2017 年 5 月
-    - title: 36.9%
-      summary: __% 的 IT 專業人員稱認證幫助他們更加自信的執行複雜的工作。
-      note: Pearson VUE，IT 認證價值調查，2017 年 1 月
+    - title: 91%
+      summary: 通過認證的IT專業人士表示，認證讓他們在專業上更有信譽。
+      note: “2018 Pearson VUE認證價值”
+    - title: 52%
+      summary: 通過認證的IT專業人士表示，他們的專業知識在其組織內部更受歡迎。
+      note: Global Knowledge 2019 IT技能和薪資報告
+    - title: 93%
+      summary: 決策者們對於通過認證的員工能提供附加價值均表示贊同。
+      note: Global Knowledge 2019 IT Decision Makers Insights

@@ -6,20 +6,20 @@ metadata:
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-  <div><strong>2020 年 9 月，MB-200 將被替換為<a href="/learn/certifications/exams/pl-200">PL-200</a>新測驗。通過 MB-200 或 PL-200，再加 MB-230，您將可以取得此認證，直到 MB-200 於 2020 年 12 月 31 日停用。MB-200 停用後，必須通過 PL-200 和 MB-230 才能取得此認證。 </strong><br/><br/></div></div>
-
+  <div>
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  考試<a href="/learn/certifications/exams/mb-200">MB-200</a>正在被一個新的考試<a href="/learn/certifications/exams/pl-200">PL-200</a>所取代。在通過MB-200或PL-200以及MB-230考試的情況下，您將能夠獲得該證書，直至MB-200於2020年12月31日停用。在MB-200停用後，將需要通過PL-200和MB-230才能獲得該證書。注意&#58; 考試於中央標準時間晚上11點59分停用。
+  
   Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用AI的CX解決方案，以推動可預測客戶需求的可採取動作的見解。
 subTitle: Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用 AI 的 CX 解決方案，以推動可預測客戶需求的可採取動作的見解。
 levels:
 - intermediate
 skills:
-- 執行發現，計劃和分析
-- 管理用戶體驗設計
-- 管理實體和資料
-- 實作安全性
-- 實作集成
-- 執行解決方案部署和測試
+- 配置Common Data Service
+- 利用Power Apps來創建應用程式
+- 創建和管理Power Automate
+- 實現Power Virtual Agents聊天機器人
+- 將Power Apps與其他應用程式和服務集成在一起
 - 管理案例和知識管理
 - 管理隊列，權利和服務級別協議（SLA）
 - 實作計劃
@@ -32,23 +32,29 @@ products:
 - dynamics-365
 - dynamics-customer-service
 courses:
-- uid: course.mb-200t00
+- uid: course.pl-200t00
 - uid: course.mb-230t01
 paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
-- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.create-business-process-flow
 - uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-bizapps.get-started-power-apps-portals
-- uid: learn-bizapps.extend-power-apps-portals
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
 - uid: learn-dynamics.create-surveys
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6G
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 - uid: exam.mb-230
 resources:
 - title: 認證海報

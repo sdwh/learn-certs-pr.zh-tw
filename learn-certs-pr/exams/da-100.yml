@@ -6,14 +6,14 @@ metadata:
 uid: exam.da-100
 displayName: DA-100
 summary: |-
-  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>該測驗的內容已於2020年9月24日更新。請下載下方的技能衡量文件,以查看有哪些更改。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div><div><strong>該考試的內容將於2021年1月27日進行更新。請下載以下技能測量文檔，來看看會發生哪些變化。</strong><br/><br/></div>
   </div>
 
   資料分析師使企業可以使用Microsoft Power BI提高資料資產的價值。作為主題專家，資料分析師負責設計和構建可調整規模的資料模型，清理和轉換資料，並啟用進階分析功能，這些功能透過易於理解的資料視覺效果提供有意義的商務價值。資料分析師還與各種產業的關鍵利害關係人共同作業，根據已識別的商務需求提供相關的深入解析。
   <br/>
 
   資料分析師應該對內部部署和雲端中的資料存放庫和資料處理有基本的了解。
-subTitle: '此測驗會評量您達成下方技術性工作的能力：準備資料；對資料建模；可視化資料； 分析資料；並部署和維護交付項目。'
+subTitle: '此測驗會評量您達成下方技術性工作的能力：準備資料；對資料建模；可視化資料；分析資料；並部署和維護交付項目。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
 practiceTestUrl: https://in.mindhub.com/da-100-analyzing-data-with-microsoft-power-bi-microsoft-official-practice-test/p/MU-DA-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -30,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容更新于 2020 年 9月 24日。請下載下面概述的測驗技能，以了解已發生什麼變化。
+- 該考試的內容將於2021年1月27日進行更新。請下載以下考試技巧大綱，來看看會發生哪些變化。
 - 準備資料（20-25％）
 - 對資料建模（25-30％）
 - 可視化資料（20-25％）

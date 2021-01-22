@@ -8,19 +8,18 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div>
   <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-  <div> <strong>2020年9月，MB-200將被替換為新測驗，<a href="/learn/certifications/exams/pl-200">PL-200</a>。通過 MB-200 或 PL-200，再加 MB-240，您將可以取得此認證，直到 MB-200 於 2020 年 12 月 31 日停用。MB-200 停用後，必須通過 PL-200 和 MB-240 才能取得此認證。 </strong><br/><br/></div></div>
+  考試<a href="/learn/certifications/exams/mb-200">MB-200</a>正在被一個新的考試<a href="/learn/certifications/exams/pl-200">PL-200</a>所取代。在通過MB-200或PL-200以及MB-240考試的情況下，您將能夠獲得該證書，直至MB-200於2020年12月31日停用。在MB-200停用後，將需要通過PL-200和PL-240才能獲得該證書。注意&#58; 考試於中央標準時間晚上11點59分停用。
 
   Microsoft Dynamics 365 現場服務功能顧問負責設定現場服務應用程式，實作管理現場服務週期的解決方案，并部署 Connected Field Service (IoT) 解決方案。
 subTitle: Microsoft Dynamics 365 現場服務功能顧問負責設定現場服務應用程式，實作管理現場服務週期的解決方案，并部署 Connected Field Service (IoT) 解決方案。
 levels:
 - intermediate
 skills:
-- 執行探索，計畫和分析
-- 管理使用者體驗設計
-- 管理實體和數據
-- 實作安全
-- 實作整合
-- 執行解決方案部署和測試
+- 配置Common Data Service
+- 利用Power Apps來創建應用程式
+- 創建和管理Power Automate
+- 實現Power Virtual Agents聊天機器人
+- 將Power Apps與其他應用程式和服務集成在一起
 - 設定現場服務應用程式
 - 管理工單
 - 安排和派遣工單
@@ -34,21 +33,27 @@ products:
 - dynamics-365
 - dynamics-field-service
 courses:
-- uid: course.mb-200t00
+- uid: course.pl-200t00
 - uid: course.mb-240t00
 paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
-- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.create-business-process-flow
 - uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-bizapps.get-started-power-apps-portals
-- uid: learn-bizapps.extend-power-apps-portals
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 - uid: learn-bizapps.implementing-dyn365-field-service
 - uid: learn-bizapps.universal-resource-scheduling
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUiZ
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 - uid: exam.mb-240
 resources:
 - title: 認證海報

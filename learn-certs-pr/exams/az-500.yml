@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>該測驗的內容已於2020年9月24日更新。請下載下方的技能衡量文件,以查看有哪些更改。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div><div><strong>該考試的內容將於2021年1月27日進行更新。請下載以下技能測量文檔，來看看會發生哪些變化。</strong><br/><br/></div>
   </div>
 
   作為端到端基礎結構的一部分，參加此測驗的應試者應具有主題方面的專業知識，以實施安全控制和威脅防護、管理身份和存取以及保護雲端和混合環境中的資料、應用程式和網路。
@@ -33,7 +33,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容更新于 2020 年 9月 24日.請下載下面概述的測驗技能，以了解已發生什麼變化。
+- 該考試的內容將於2021年1月27日進行更新。請下載以下考試技巧大綱，來看看會發生哪些變化。
 - 實作與管理身份與存取 (30-35%）
 - 實作平台防護 (15-20%)
 - 管理安全操作 (25-30%)

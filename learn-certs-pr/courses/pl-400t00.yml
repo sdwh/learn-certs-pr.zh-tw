@@ -37,43 +37,88 @@ prerequisitesSection: |-
 outlineSection: |-
   ### 模組 1&#58; 在Power Apps中創建模型驅動應用
   本模組將為您介紹在Power Apps中使用Common Data Service創建模型驅動應用程式的方法。
+  #### 課程概述
+  模型驅動應用程式和Common Data Service介紹
+  - 在Power Apps中開始使用模型驅動應用程式
+  - 在Common Data Service中創建並管理實體
+  - 在Common Data Service中創建並管理實體中的欄位
+  - 在Common Data Service中使用選項集
+  - 在Common Data Service中創建實體之間的關係
+  - 在Common Data Service中定義並創建業務規則
+  - 在Common Data Service中創建並定義計算或匯總欄位
+  - 在Common Data Service中從安全角色開始
   
-  
-  ### 模組 2&#58; 初步使用Common Data Service
-  本模組將說明Common Data Service背後的概念及其優勢。還將討論創建環境、實體、欄位和選項集。
-  
-  
-  ### 模組 3&#58; 在Power Apps中創建畫布應用程式
+  ### 模組 2&#58; 在Power Apps中創建一個canvas應用程式
   本模組將為您介紹Power Apps，幫助您創建和定制應用程式，然後管理和發佈該應用。還將為您展示如何提供最佳應用導航和用主題、圖示、圖像、個性化、各種形狀參數和控制器來建立最佳UI。
+  #### 課程概述
+  - 開始使用Power Apps
+  - 在Power Apps中定制一個canvas應用程式
+  - 在Power Apps中管理應用程式
+  - 在Power Apps的canvas應用程式中所進行的導航
+  - 如何在Power Apps的canvas應用程式中構建使用者介面(UI)
+  - 在Power Apps的canvas應用程式中使用並瞭解控制項
+  - 記錄並測試您的Power Apps應用程式
   
+  ### 模組 3&#58; 掌握canvas應用程式中的高級技術及資料選項
+  本模組將説明您使用高級公式，並執行自訂更新、性能檢查及測試。它還將幫您改進用戶體驗、使用自訂連接器並專注於處理資料來源限制。
+  #### 課程概述
+  - 在Power Apps中使用必要的canvas應用程式開發技術
+  - 在Power Apps的canvas應用程式中編寫一個使用表格、記錄和集合的高級公式
+  - 在Power Apps canvas應用程式中執行自訂更新
+  - 在Power Apps canvas應用程式中完成測試和性能檢查
+  - 在Power Apps canvas應用程式中使用關係資料
+  - 在Power Apps canvas應用程式中使用資料來源限制（委託限制）
+  - 在Power Apps canvas應用程式中連接到其他資料
+  - 在Power Apps canvas應用程式中使用自訂連接器
   
-  ### 模組 4&#58; 用Power Automate實現業務流程自動化
+  ### 模組 4&#58; 通過Power Automate來實現業務流程自動化
   本模組將為您介紹Power Automate，教您如何建立工作流，如何管理流程。
+  #### 課程概述
+  - 開始使用Power Automate
+  - 利用Power Automate構建更複雜的流程
+  - 介紹Power Automate中的業務流程
+  - 在Power Automate中創建沉浸式業務流程
+  - 瞭解Power Automate中的高級業務流程概念
+  - 介紹Power Automate中的運算式
   
+  ### 模組 5&#58; 借助Power Platform進行開發的介紹
+  本模組是學習平臺、工具以及Power Platform生態系統的第一步
+  #### 課程概述
+  - Power Platform開發人員資源介紹
+  - 使用開發人員工具來擴展Power Platform
+  - 擴展Microsoft Power Platform的介紹"
+
   
-  ### 模組 5&#58; 在Power Automate中創建業務流程
-  本模組將為您介紹在Power Automate中創建業務流程的方法。
-  
-  
-  ### 模組 6&#58; Power Platform開發簡介
-  本模組是瞭解Power Platform的平臺、工具和生態系統的第一步。
-  
+  ### 模組 6&#58; 擴展Power Platform Common Data Service
+  本模組介紹了擴展Power Platform所需的工具和資源。我們將從查看SDKs、可擴展性模型和事件框架開始。本學習路徑還包括何時使用外掛程式。外掛程式的配置以及註冊和部署外掛程式。
+  #### 課程概述
+  - 面向開發人員的Common Data Service介紹
+  - 擴展外掛程式
   
   ### 模組 7&#58; 擴展Power Platform使用者體驗模型驅動應用程式 
   本模組描述了如何創建用戶端指令碼，執行用戶端指令碼常用操作，用用戶端指令碼實現業務流程自動化。瞭解用戶端指令碼的作用、規則和維護腳本。弄清楚何時應該使用用戶端指令碼以及何時不應使用用戶端指令碼。
-  
+  #### 課程概述
+  - 網路資源介紹
+  - 借助用戶端指令碼進行常見操作
+  - 借助用戶端指令碼實現業務流程自動化
   
   ### 模組 8&#58; 用Power Apps Component Framework創建元件
   本模組描述了如何通過核心概念和元件的介紹模組來初步瞭解Power Apps Component Framework。隨後，將為您展示如何建立元件和使用高級Power Apps Component Framework功能。
+  #### 課程概述
+  - 開始使用Power Apps元件框架
+  - 構建一個Power Apps元件
+  - 使用帶有Power Apps元件框架的高級功能
   
-  
-  ### 模組 9&#58; 擴展Power Platform Common Data Service
-  本模組關注擴展Power Platform所需的工具和資源。我們將初步關注SDK、擴展性模型和事件框架。該學習路徑還包括何時使用外掛程式。配置外掛程式以及外掛程式註冊和部署。
-  
+  ### 模組 9&#58; 擴展Power Apps門戶網站
+  本模組描述如何將內容門戶轉換為與Common Data Service交互的完整的網路應用程式。我們還將介紹定制者和開發人員的可用選項，以擴展門戶功能並與Office 365、Power Platform及Azure組件相集成。
+  #### 課程概述
+  - Power Apps門戶介紹
+  - 在Power Apps門戶中訪問Common Data Service
+  - 擴展Power Apps門戶
+  - 構建定制的Power Apps門戶網路範本
   
   ### 模組 10&#58; 集成Power Platform和Common Data Service
   本模組描述如何用代碼通過瞭解Common Data Service API來集成Common Data Service。獲取Common Data Service可用選項詳細描述將資料和事件集成到Azure。
-  
-  
-  ### 模組 11&#58; 擴展Power Apps門戶
-  本模組描述如何將內容門戶轉變為與Common Data Service交互的完整web應用。還將包含定制器和開發人員可用于擴展門戶功能以及與Office 365、Power Platform和Azure集成的選項。
+  #### 課程概述
+  - 使用Common Data Service Web API
+  - 整合Common Data Service Azure解決方案

@@ -2,14 +2,23 @@
 title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
-  description: Power Platform 功能顧問必須對 Power Platform 具有廣泛的應用知識，包括對功能、邊界和約束的實際理解。
+  description: 作為一名業務顧問，使用該證書可以在專案和其他工作中更加有效地推銷自己。Microsoft Power Platform Functional Consultant Associate認證讓各個組織認識到——借助零代碼或低代碼——您可以構建通常需要開發人員專業知識的解決方案。
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong><br/><br/></font></div>
 
-  Power Platform 功能顧問必須對 Power Platform 具有廣泛的應用知識，包括對功能、邊界和約束的實際理解。他們應該具有使用 Power Platform 製作器工具建立使用 Power Platform 和 Microsoft 365 的解決方案的經驗。認證的功能顧問應精通資料建模，使用者體驗設計，需求分析和過程分析。
-subTitle: Power Platform 功能顧問必須對 Power Platform 具有廣泛的應用知識，包括對功能、邊界和約束的實際理解。
+  您是一名希望磨練諮詢和配置技能的業務顧問、資料分析師或開發人員，或者是一名想要獲得解決方案架構師證書的解決方案架構師嗎？或者，您也許是一名具有配置Microsoft Power Platform知識和經驗的IT專業人士。如果這描述的是您，並且您熟悉Microsoft Dynamics 365模型驅動的應用程式和資料建模原理，那麼就請探究Microsoft Power Platform Functional Consultant Associate認證能夠如何幫助您提升職業生涯，並使您成為團隊中的關鍵成員。該證書向世界表明，您被認為有資格構建和實施那些使用Power Apps、Power BI和Power Virtual Agents的解決方案。
+  
+  作為該證書的候選人，您需要與一個組織的利益相關者和主題內容專家（如解決方案架構師、開發人員和測試人員）一起收集需求，然後實施Microsoft Power Platform解決方案。您可以構建模型驅動的、canvas和門戶應用程式。而且您可以創建Power Automate流程，使用Power Virtual Agents來設計聊天機器人，並借助Power BI視覺化和儀錶板來分析資料。您甚至可以創建應用程式優化處理、自訂使用者體驗、系統集成、資料轉換、自訂流程自動化和自訂視覺化。
+  
+  作為一名業務顧問，使用該證書可以在專案和其他工作中更加有效地推銷自己。Microsoft Power Platform Functional Consultant Associate認證讓各個組織認識到——借助零代碼或低代碼——您可以構建通常需要開發人員專業知識的解決方案。
+  
+  如果您需要更多的經驗才能獲得該證書，這裡有一些建議&#58;
+  - 利用Power BI構建一個基本的儀錶板。
+  - 在Microsoft Learn上採取可用的學習途徑。
+  - 報名參加由導師指導的培訓課程。
+subTitle: 作為一名業務顧問，使用該證書可以在專案和其他工作中更加有效地推銷自己。Microsoft Power Platform Functional Consultant Associate認證讓各個組織認識到——借助零代碼或低代碼——您可以構建通常需要開發人員專業知識的解決方案。
 levels:
 - intermediate
 skills:
@@ -32,6 +41,8 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+courses:
+- uid: course.pl-200t00
 paths:
 - uid: learn-dynamics.get-started-using-common-data-service
 - uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
