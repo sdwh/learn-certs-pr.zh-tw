@@ -8,6 +8,8 @@ displayName: MB-901
 summary: |-
   <div>
   <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
+  <div><strong>該考試將於2021年6月30日停用。有兩個替代考試，即MB-910和MB-920。欲瞭解更多資訊，請訪問<a href="/learn/certifications/exams/mb-910">MB-910</a>和<a href="/learn/certifications/exams/mb-920">MB-920</a>考試詳細資訊頁面。注意&#58; 考試於中央標準時間晚上11點59分停用。</strong><br/><br/></div>
+
   <div><strong> 該測驗的內容更新于 2020 年 7 月 10 日.請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
   </div>
 
@@ -19,7 +21,7 @@ summary: |-
 
   如果你通過本次認證考試，你可能有資格獲得 ACE 大學學分。有關詳細資訊，請參閱 [ACE 大學認證考試學分](/learn/certifications/ace-credit-for-certification-exams)。
 
-  <div><br/><strong>注釋&#58; 目前，Microsoft 不會將“Common Data Service”的引用更新為“Microsoft Dataverse”。</strong></div>
+  <div><br/><strong>由於該考試將於2021年6月30日停用，Microsoft不會將“Common Data Service”的引用更新為“Microsoft Dataverse.”</strong></div>
 subTitle: 此測驗評量您了解 Microsoft Dynamics 365； 人工智慧(AI)；混合實境(MR)； Power Platform； 雲端概念； 雲端安全； Dynamics 365 中角色型安全性； Common Data Service； Dynamics 365 報告； Dynamics 365 整合； 和雲端部署的能力。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
@@ -44,6 +46,7 @@ skills:
 - 描述 Dynamics 365 的人工智慧和混合實境 (10-15%)
 - 描述模型驅動式應用程式 (25-30%)
 - 描述財務和營運應用程式 (25-30%)
+retirementDate: 06/30/2021
 roles:
 - business-owner
 - business-user

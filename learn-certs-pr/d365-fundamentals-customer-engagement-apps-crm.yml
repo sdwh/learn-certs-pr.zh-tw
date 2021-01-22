@@ -1,0 +1,57 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Fundamentals Customer Engagement Apps (CRM)'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals Customer Engagement Apps (CRM)'
+  description: '該證書將於2021年2月生效。如果您熟悉業務操作、客戶關係管理(CRM)，並且精通IT——不管是一般的還是通過工作經驗——那麼就可以利用該證書來突出這些技能。驗證您對廣泛接觸Dynamics 365的客戶參與能力，從而提升您的職業生涯。'
+uid: certification.d365-fundamentals-customer-engagement-apps-crm
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong></font><br/><br/></div>
+  
+  如果您熟悉業務操作、客戶關係管理(CRM)，並且精通IT——無論是一般的還是通過工作經驗——那麼就可以利用該證書來突出這些技能。驗證您對廣泛接觸Dynamics 365的客戶參與能力，從而提升您的職業生涯。
+  
+  在其職業生涯中扮演不同角色、處於不同階段的人們都可以從該基礎認證中受益。以下是一些例子&#58;
+  - 想要展示對所使用的應用程式有總體瞭解的IT專業人員
+  - 業務涉眾和其他瞭解Dynamics 365並想要驗證其技能和經驗的人
+  - 想要強調他們對業務運營和CRM的理解的開發人員
+  - 想要利用Dynamics 365的客戶參與能力更上一層樓的學生、應屆畢業生和正在轉行的人士
+  
+  <div><br/><strong>注意&#58; 該證書將於2021年2月生效。</strong></div>
+subTitle: '該證書將於2021年2月生效。如果您熟悉業務操作、客戶關係管理(CRM)，並且精通IT——不管是一般的還是通過工作經驗——那麼就可以利用該證書來突出這些技能。驗證您對廣泛接觸Dynamics 365的客戶參與能力，從而提升您的職業生涯。'
+levels:
+- beginner
+skills:
+- 描述Dynamics 365 Marketing
+- 描述Dynamics 365 Sales
+- 描述Dynamics 365 Customer Service
+- 描述Dynamics 365 Field Service
+- 描述“專案運營”
+- 描述共用的特性
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products: 
+- dynamics-365
+- dynamics-customer-engagement
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIew
+exams:
+- uid: exam.mb-910
+resources:
+- title: 認證海報
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 测验重放
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: help.md

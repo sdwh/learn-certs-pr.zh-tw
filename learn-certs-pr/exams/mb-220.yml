@@ -8,13 +8,13 @@ displayName: MB-220
 summary: |-
   <div>
   <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-  <div><strong>本次考試的內容於2020年11月10日更新。請下載下面的技能衡量文檔，以瞭解有何變化。</strong><br/><br/></div>
+  <div><strong>該考試的內容將於2021年1月15日進行更新。請下載以下技能測量文檔，來看看會發生哪些變化。</strong><br/><br/></div>
   </div>
-
+  
   本次考試的報考人是Dynamics 365市場行銷功能顧問。報考人負責實施吸引和改變線索、打造品牌知名度、標準化全管道消息傳遞和提供市場行銷洞察的解決方案。
-
+  
   應試者負責設定與擴展核心行銷應用程式以包括電子郵件行銷、設置、交互式客戶經驗、LinkedIn 整合、事件、調查、登陸頁面、分割與評分，以及維護一般資料保護監管 (GDPR) 合規性。
-
+  
   報考人應瞭解一些市場行銷原則和應用Dynamics 365套件相關的市場行銷應用角色，包括與Dynamics 365和Microsoft 365應用的集成。
 subTitle: '本次考試將衡量您完成以下技術任務的能力：配置市場行銷應用；管理節段和列表；創建和管理市場行銷表單；管理線索、連絡人和客戶；創建和管理市場行銷email；管理客戶旅程；管理事件和線上研討會；配置Dynamics 365 Customer Voice。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -26,7 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考試的內容於2020年11月10日更新。請下載以下考試技能大綱，以瞭解有何變化。
+- 該考試的內容將於2021年1月15日進行更新。請下載以下考試技巧大綱，來看看會發生哪些變化。
 - 設定行銷應用程式 (20-25%)
 - 管理區段和清單 (5-10%)
 - 建立與管理行銷表單與頁面 (10-15%)

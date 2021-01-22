@@ -71,7 +71,7 @@ ms.prod: non-product-specific
                 <p><strong>網路瀏覽器</strong></p>
             </td>
             <td>
-                <p>Web 註冊或下載安全瀏覽器時，請使用 <strong>Chrome，Microsoft Edge，Safari</strong>，和 <strong>Firefox</strong> 的最新版本。PSI 強烈建議使用 Chrome 作為註冊瀏覽器，因為安全瀏覽器基於 Chrome ，並且會提供更準確的體驗。</p>
+                <p>Web 註冊或下載安全瀏覽器時，請使用 <strong>Chrome，Microsoft Edge，Safari</strong>，和 <strong>Firefox</strong> 的最新版本。PSI 強烈建議使用 Chrome 作為註冊瀏覽器，因為安全瀏覽器基於 Chrome，並且會提供更準確的體驗。</p>
             </td>
         </tr>
         <tr>
@@ -144,9 +144,9 @@ ms.prod: non-product-specific
 
 ### 與接待員或監考者聯絡：
 
-- **電話。** 在辦理登記過程中，系統將提示您輸入電話號碼。  如果出現技術問題，技術支持將透過提供的電話號碼給您打電話。
+- **電話。** 在辦理登記過程中，系統將提示您輸入電話號碼。如果出現技術問題，技術支持將透過提供的電話號碼給您打電話。
 - **聊天窗口。** 與接待人員和監考人員的所有交流都是透過聊天窗口進行的。
--  **語言。** 與接待人員和監考人員的所有交流僅以英語進行。
+- **語言。** 與接待人員和監考人員的所有交流僅以英語進行。
 
 ### <a name="identity-verification-requirements"></a> 身份驗證要求：
 
@@ -200,7 +200,7 @@ ms.prod: non-product-specific
 ### 其他重要信息：
 
 - 與其他任何 Microsoft 認證測驗一樣，您必須閱讀並同意我們的 [非披露協議](/learn/certifications/certification-exam-policies#non-disclosure-agreement) 中所述的條款，並且您必須符合應試者的行為要求。這可能包括但不限於：
-  - 您不得以任何方式複製或記錄測驗中的問題或答案。 
+  - 您不得以任何方式複製或記錄測驗中的問題或答案。
   - 您不得與他人分享或討論測驗中出現的問題或答案。
 - 如果您不遵守[非披露合約](/learn/certifications/certification-exam-policies#non-disclosure-agreement) 或被懷疑欺騙或篡改 PSI 或其轉包商的軟體，或者如果在測驗期間在您坐的房間裡偵測到您以外的人，監考者將立即終止測驗，並將違規情況以及音訊和/或視訊證據報告給 PSI 和 Microsoft。您的測驗可能會無效，並且 Microsoft 可能會採取其他行動，例如取消您的資格並在未來不准您參加所有 Microsoft 認證計劃。
 
@@ -210,9 +210,10 @@ ms.prod: non-product-specific
 
 ## <a name="schedule-for-an-online-exam"></a> 安排線上考試
 
-- 要安排 PSI 線上考試，請從[合適的考試列表](/learn/certifications/skillingoffer?WT.mc_id=gsi#discounted-microsoft-certification-exams-available-through-this-offer) 中單擊您希望參加的 Microsoft 認證考試，然後選擇 “**安排 15 美元優惠考試**” 按鈕。 
+- 要安排 PSI 線上考試，請從[合適的考試列表](/learn/certifications/skillingoffer?WT.mc_id=gsi#discounted-microsoft-certification-exams-available-through-this-offer) 中單擊您希望參加的 Microsoft 認證考試，然後選擇 “**安排 15 美元優惠考試**” 按鈕。
 - 如果您所在的國家/地區提供線上考試，則可以在考試安排過程中選擇該選項。您將進入 PSI 考試安排站點，在這裡您將選擇您所在的國家/地區和時區、考試的語言以及日期和時間。
 - 完成後，您需要支付考試費用。
+- 考試必須提前24小時預定。因此，如果您想在錄取的最後一天（2021年12月31日）參加考試，就必須在2021年12月30日之前預定。
 
 ## 啟動考試和應試者報到過程
 
@@ -223,7 +224,7 @@ ms.prod: non-product-specific
 
 要開始測試會話並與監考人員聯絡，請執行以下操作：
 
-1. 使用 Microsoft 認證個人資料中用於註冊考試的電子郵件登錄到 [Microsoft 認證儀表板](https://aka.ms/CertDashboard) 。
+1. 使用 Microsoft 認證個人資料中用於註冊考試的電子郵件登錄到 [Microsoft 認證儀表板](https://aka.ms/CertDashboard)。
 2. 在**預約**部分中，選擇 “**開始線上考試**”。
 3. 您將進入 PSI 考試安排平台，並看到一個“啟動考試”按鈕。選擇“**啟動考試**”以開始安全瀏覽器下載。繼續執行自助登記過程，並等待監考人員與您聯絡。
 
@@ -262,11 +263,13 @@ ms.prod: non-product-specific
 
 可以。但是您必須至少在預約的考試前 24 小時重新安排或取消考試。登錄到您的 [Microsoft 認證儀表板](https://aka.ms/CertDashboard)，然後在“預約”部分中選擇 “**取消/重新安排**” 按鈕。然後，您將重定向到 PSI 網站以取消或重新安排考試。
 
-附註：價值 15 美元的求職者考試優惠必須在 2020 年 12 月 31 日之前領取，且考試必須在 2021 年 3 月 31日 之前進行。可以在 2020 年 12 月 31 日之前的任何一個時間重新安排考試；但是，如果您在 2020 年 12 月 31 日之後取消了預約考試，將無法使用折扣優惠再次安排時間。
+注意：申請人必須在2021年12月31日 &#42;前領取USD15的求職考試通知；考試必須在2021年12月31日前完成。可在2021年12月30日之前的任何時間進行考試；然而，如果您在2021年12月31日&#42; 之後取消您的考試預約，您將無法再次使用折扣優惠進行預定。
+
+*&#42;考試必須提前24小時預定。因此，如果您想在錄取的最後一天（2021年12月31日）參加考試，就必須在2021年12月30日之前預定。*
 
 ### 我可以用 15 美元的折扣價參加重考嗎？
 
-不可以，每次考試優惠您能夠以 15 美元的折扣價註冊並參與一次(1)有效的 Microsoft 認證考試 [條款和條件](/learn/certifications/skillingoffer?WT.mc_id=gsi#terms-conditions)。但是，您可以前往精選的認證考試頁面，然後單擊 “ Pearson VUE 安排考試” 按鈕，以標準價格重考認證考試。  
+不可以，每次考試優惠您能夠以 15 美元的折扣價註冊並參與一次(1)有效的 Microsoft 認證考試 [條款和條件](/learn/certifications/skillingoffer?WT.mc_id=gsi#terms-conditions)。但是，您可以前往精選的認證考試頁面，然後單擊 “Pearson VUE 安排考試” 按鈕，以標準價格重考認證考試。
 
 ### 如果我不在考試中心，作弊似乎會容易得多。線上測驗是否安全？
 
@@ -334,7 +337,7 @@ ms.prod: non-product-specific
 
 ### 成績單上會有哪些項目？
 
-分數報告是一封電子郵件，其中提供了有關整體考試成績的分數值、透過/未透過狀態、有關您在考試所評估的每個技能領域中的表現信息以及有關如何解釋您的成績和後續步驟的詳細信息。 
+分數報告是一封電子郵件，其中提供了有關整體考試成績的分數值、透過/未透過狀態、有關您在考試所評估的每個技能領域中的表現信息以及有關如何解釋您的成績和後續步驟的詳細信息。
 
 ### 成績證明上的百分比條圖有何意義？
 

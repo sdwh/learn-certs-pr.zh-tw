@@ -15,6 +15,8 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n2b
 scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
+- ja
+- fr
 levels:
 - advanced
 skills:

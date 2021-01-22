@@ -65,6 +65,10 @@ ms.prod: non-product-specific
 | [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core |
 | [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer |
 
+| 2021年6月30日停用 |
+| --- |
+| [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
+
 ## 最近淘汰的測試
 
 去年淘汰的測驗將包含連接到他們的測驗詳細頁面以作為參考，為期12個月。
