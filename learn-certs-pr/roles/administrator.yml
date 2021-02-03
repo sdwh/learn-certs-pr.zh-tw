@@ -96,6 +96,9 @@ certifications:
 - uid: certification.azure-for-sap-workloads-specialty
   requiredExams:
   - uid: exam.az-120
+- uid: certification.azure-stack-hub-operator
+  requiredExams:
+  - uid: exam.az-600
 - uid: certification.m365-messaging-administrator
   requiredExams:
   - uid: exam.ms-203

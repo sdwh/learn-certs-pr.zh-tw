@@ -8,11 +8,18 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong><br/><br/></font></div>
 
-  Microsoft Power Platform Developer Associate 認證的應試者，設計、開發、保護 Power Platform 解決方案並進行疑難排解。他們實作解決方案的元件，包括應用程式增強功能，自訂使用者體驗，系統整合，資料轉換，自訂流程自動化和自訂視覺效果。
-
-  應試者必須對 Power Platform 服務具有豐富的應用知識。應試者對他們的能力、界限和約束有深入的了解。他們應該 Power Platform 的 DevOps 實踐有基本的了解。
-
-  他們在此職位上的開發經驗應包括 Power Platform 服務、JavaScript、JSON、TypeScript、C＃、HTML、.NET、Microsoft Azure、Microsoft 365、RESTful Web服務，ASP.NET 和 Power BI。
+  如果您熱衷於設計、開發、保護和擴展 Microsoft Power Platform 解決方案，該認證將非常適合您。要獲得該認證，您必須能夠創建解決方案元件，包括應用程式增強功能、自訂使用者體驗、系統集成、資料轉換、自訂過程自動化和自訂視覺化。您需要對 Microsoft Power Platform 服務有較強的應用知識，並對 Microsoft Power Platform 的 DevOps 實踐有基本瞭解。此外，您的背景應包括使用 JavaScript、JSON、TypeScript、C#、HTML、.NET、Azure、Microsoft 365、RESTful web 服務、ASP.NET 和 Power BI 的開發經驗。
+  
+  該認證的候選人通常與應用製作者、功能顧問、解決方案架構師和 IT 管理員一起工作。您有各種各樣的責任，包括&#58;
+  - 創建技術設計和 Power Apps。
+  - 配置 Dataverse、Power Apps 和 business process automation。
+  - 擴展平臺和用戶體驗。
+  - 開發集成。
+  
+  要瞭解更多資訊，請流覽我們的博客帖子&#58; [新認證&#58; Microsoft Power Platform Developer Associate](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/new-certification-microsoft-power-platform-developer-associate/ba-p/1469335)。如果您在嘗試該認證之前需要更多經驗，您可以&#58;
+  - 自願參與 Microsoft Power Platform 開發專案以獲得實際操作經驗。
+  - 在 Microsoft Learn 上進行學習。
+  - 報名參加講師指導的培訓課程。
 subTitle: Microsoft Power Platform Developer Associate 認證的應試者，設計、開發、保護 Power Platform 解決方案並進行疑難排解。
 levels:
 - intermediate

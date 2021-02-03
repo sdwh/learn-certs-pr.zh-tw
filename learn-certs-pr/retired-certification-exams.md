@@ -60,11 +60,6 @@ ms.prod: non-product-specific
 | [MB6-897](/learn/certifications/exams/mb6-897): Microsoft Dynamics 365 for Retail |
 | [MB6-898](/learn/certifications/exams/mb6-898): Microsoft Dynamics 365 for Talent |
 
-| 於 2020 年 12 月 31 日撤銷 |
-| --- |
-| [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core |
-| [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer |
-
 | 2021年6月30日停用 |
 | --- |
 | [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
@@ -143,6 +138,8 @@ ms.prod: non-product-specific
 
 | Microsoft Dynamics | | |
 | --- | --- | --- |
+| [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 2020 年 12 月 31 日
+| [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 2020 年 12 月 31 日
 | [MB-900](https://www.microsoft.com/learning/exam-MB-900.aspx) | Microsoft Dynamics 365 Fundamentals | 2019 年 12 月 31 日
 | [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx) | Microsoft Dynamics CRM Online Deployment | 2019 年 12 月 31 日
 | [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx) | Microsoft Dynamics CRM Customization and Configuration | 2019 年 12 月 31 日
