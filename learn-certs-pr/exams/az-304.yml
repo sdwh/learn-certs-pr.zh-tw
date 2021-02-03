@@ -8,7 +8,7 @@ displayName: AZ-304
 summary: |-
   <div>
   <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-  <div><strong>本次考試的內容於2020年11月24日更新。請下載下面的技能衡量文檔，以瞭解有何變化。</strong><br/><br/></div>
+  <div><strong>本次考試的內容將於2021年1月27日更新。請下載下面的技能評估文檔，看看會發生什麼變化。</strong><br/><br/></div>
   </div>
 
   參加該測驗的應試者應具有設計和實作可在 Microsoft Azure 上運行的解決方案的主題專業知識，包括計算、網路、存儲和安全性等方面。候選人應具備管理 Azure 的中級技能。候選人應瞭解 Azure 開發和 DevOps 流程。
@@ -31,7 +31,7 @@ locales:
 levels:
 - advanced
 skills:
-- 本次考試的內容於2020年11月24日更新。請下載以下考試技能大綱，以瞭解有何變化。
+- 本次考試的內容將於2021年1月27日更新。請下載下面的考試技能大綱，看看將會改變什麼。
 - 設計監控（10-15％）
 - 設計身份和安全性（25-30％）
 - 設計資料儲存區（15-20％）

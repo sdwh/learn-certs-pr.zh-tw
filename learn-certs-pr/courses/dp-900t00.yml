@@ -12,7 +12,7 @@ skillsGained:
 - skill: 解釋Azure中關係資料的概念
 - skill: 解釋Azure中非關係資料的概念
 - skill: 識別Azure中現代資料倉庫的組件
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
@@ -55,8 +55,8 @@ outlineSection: |-
   ### 模組 2&#58; 在Azure中瀏覽關係資料
   學生將學習雲端環境中資料庫概念的基礎知識，掌握雲端資料服務的基本技能，並在Microsoft Azure中建立有關雲端資料服務的基礎知識。學生將探索關係資料產品，供應和部署關係資料庫，以及通過Azure的雲端資料解決方案查詢關係資料。
   #### 課程
-  - 探索Azure中的關係資料產品
-  - 探索Azure中的供應和部署關係資料庫產品
+  - 探索 Azure 中的關係資料服務
+  - 探索在 Azure 中配置和部署關聯式資料庫服務
   - 在Azure中查詢關係資料
 
   完成本單元後，學生將能夠&#58;
@@ -66,14 +66,13 @@ outlineSection: |-
 
 
   ### 模組 3&#58; 在Azure中瀏覽非關係資料
-  學生將學習雲端環境中資料庫概念的基礎知識，掌握雲端資料服務的基本技能，並在Azure中建立有關雲端資料服務的基礎知識。學生將使用Microsoft Azure探索非關係資料產品，供應和部署非關係資料庫以及非關係資料存儲。
-  #### 課程
-  - 探索Azure中的非關係資料產品
+  學員將學習 cloud 環境中資料庫概念的基礎知識，掌握 cloud 資料服務的基本技能，並建立 Azure 中 cloud 資料服務的基礎知識。 學員將探索非關係資料服務、使用 Microsoft Azure 配置和部署非關聯式資料庫以及非關係資料存儲。
+  - 探索 Azure 中的非關係資料服務
   - 探索在Azure上設定和部署非關係資料服務
   - 在Azure中管理非關係資料存儲
 
   完成本單元後，學生將能夠&#58;
-  - 描述Azure上的非關係資料產品
+  - 描述 Azure 上的非關係資料服務
   - 解釋在Azure上設定和部署非關係資料庫
   - 刪除Azure上的非關係資料存儲
 

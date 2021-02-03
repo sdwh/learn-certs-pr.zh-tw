@@ -35,8 +35,6 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p
 exams:
 - uid: exam.mb-600
 prerequisites:
-- uid: certification.power-apps-and-d365-developer-associate
-  isOptional: false
 - uid: certification.d365-functional-consultant-sales
   isOptional: false
 - uid: certification.d365-functional-consultant-marketing

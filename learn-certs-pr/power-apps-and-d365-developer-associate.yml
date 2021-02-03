@@ -8,11 +8,10 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div>
   <div><font color='red'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-  <div><strong>該認證將於2020年12月31日到期。在此日期之後，您將無法再取得此認證。在淘汰日期之前取得的任何認證將繼續出現在您的成績單中 <a href="https://aka.ms/certdashboard">認證儀表板</a>。</strong><br/><br/></div></div>
+  <div><strong>該認證已失效。有關當前可用的選項，請參閱<a href="/learn/certifications/browse/">流覽認證和考試頁面</a>。您在結束日期之前獲得的任何認證將繼續出現在您的<a href="https://aka.ms/certdashboard">認證儀錶板</a>中的成績單上。</strong><br/><br/></div></div>
 
   處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。應試者實作解決方案的元件，包括應用程式增強功能，自訂使用者體驗，系統整合，資料轉換，自訂流程自動化和自訂視覺效果。
 
-  <div><strong><br/>由於該認證將於2020年12月31日到期，Microsoft 不會將“Common Data Service”的引用更新為“Microsoft Dataverse”。</strong></div>
 subTitle: 處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。
 levels:
 - intermediate
@@ -36,9 +35,6 @@ type: role-based
 products:
 - dynamics-365
 - dynamics-customer-engagement
-courses:
-- uid: course.mb-400t00
-- uid: course.mb-200t00
 paths:
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes

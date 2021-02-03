@@ -6,8 +6,8 @@ metadata:
 uid: exam.mb-200
 displayName: MB-200
 summary: |-
-  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>該測驗的內容已於 2020 年 7 月 1 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
-  <div><strong>該測驗將於 2020 年 12 月 31 日停用。新測驗, <a href="/learn/certifications/exams/pl-200">PL-200</a>, 將於 2020 年 9 月推出。附註&#58; 測驗將在中部標準時間晚間 11 點 59 分到期。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div>
+  <div><strong>本次考試將於2020年12月31日結束。您可以參加替代考試 PL-200。有關更多資訊，請訪問 <a href="/learn/certifications/exams/pl-200">PL-200 考試詳細資訊頁面</a>。</strong><br/><br/></div>
   </div>
 
   該測驗的應試者是功能顧問，他們可以存取企業授權產品的特性和功能。作為一名功能顧問，候選人知道功能的捆綁版本，但並不主要使用這些捆綁產品。
@@ -16,19 +16,16 @@ summary: |-
 
   應試者規劃解決方案的功能設計，實現應用程式生命周期管理(ALM)過程，從遺留系統和外部系統移轉資料和對象，將 Power 平台與其他系統整合，並管理 Power 平台環境。
 
-  <div><strong><br/>由於本次考試將於2020年12月31日結束，Microsoft 不會將“Common Data Service”的引用更新為“Microsoft Dataverse”。</strong></div>
 subTitle: '此測驗測量您在完成以下技術任務時的能力：執行發現，計劃與分析; 管理用戶體驗設計; 管理實體與這裡；實作安全性; 實作集成；以及執行解決方案部署與測試。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-200&examname=Exam%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 locales:
 - en
 - ja
 levels:
 - intermediate
 skills:
-- 該測驗的內容更新于 2020 年 7 月 1 日。請下載下面概述的測驗技能，以了解已發生什麼變化。
 - 執行探索，計畫和分析 (5-10%)
 - 管理使用者體驗設計 (20-25%)
 - 管理實體和數據 (15-20%)
@@ -45,12 +42,7 @@ products:
 - dynamics-field-service
 - dynamics-customer-service
 exams:
-- uid: exam.mb-210
-- uid: exam.mb-220
-- uid: exam.mb-230
-- uid: exam.mb-240
-courses:
-- uid: course.mb-200t00
+- uid: exam.mb-400
 paths:
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
@@ -61,9 +53,7 @@ paths:
 - uid: learn-bizapps.extend-power-apps-portals
 relatedCertifications:
 - related:
-    uid: certification.d365-functional-consultant-sales
-- related:
-    uid: certification.d365-functional-consultant-customer-service
+    uid: certification.power-apps-and-d365-developer-associate
 resources:
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
