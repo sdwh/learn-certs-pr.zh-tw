@@ -29,14 +29,13 @@ products:
 - azure
 - azure-cognitive-services
 - azure-bot-service
-- azure-machine-learning-service
 - azure-machine-learning-studio
 - azure-search
 courses:
 - uid: course.ai-100t01
 paths:
 - uid: learn.data-ai.evaluate-text-with-language-services
-- uid: learn.data-ai.translate-speech-with-speech-services
+- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
 - uid: learn.data-ai.create-bots-with-the-azure-bot-service
 - uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf

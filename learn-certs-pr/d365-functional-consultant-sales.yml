@@ -4,9 +4,10 @@ metadata:
   title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
   description: 'Microsoft Dynamics 365 銷售職能顧問實施的解決方案可以預測和計劃客戶聯繫，通過處理和結算來管理交易，並使用數據分析來提高銷售團隊的績效。'
 uid: certification.d365-functional-consultant-sales
+certificationRenewalUid: renewal.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div><div><strong>考試<a href="/learn/certifications/exams/mb-200">MB-200</a>正在被一個新的考試<a href="/learn/certifications/exams/pl-200">PL-200</a>所取代。在通過MB-200或PL-200以及MB-210考試的情況下，您將能夠獲得該證書，直至MB-200於2020年12月31日停用。在MB-200停用後，將需要通過PL-200和MB-210才能獲得該證書。注意&#58; 考試於中央標準時間晚上11點59分停用。</strong><br/><br/></div></div>
+  <div><div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a> 。</strong></font><br/><br/></div></div>
   
   Microsoft Dynamics 365 銷售職能顧問實施的解決方案可以預測和計劃客戶聯繫，通過處理和結算來管理交易，並使用數據分析來提高銷售團隊的績效。
 subTitle: Microsoft Dynamics 365 銷售職能顧問實施的解決方案可以預測和計劃客戶聯繫，通過處理和結算來管理交易，並使用數據分析來提高銷售團隊的績效。

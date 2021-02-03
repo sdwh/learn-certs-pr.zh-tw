@@ -14,7 +14,7 @@ skillsGained:
 - skill: 配置銷售和採購
 - skill: 配置運營
 - skill: 瞭解集成和自動化場景
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
@@ -34,24 +34,55 @@ summary: |-
 prerequisitesSection: |-
   本課程是為使用Dynamics 365 Business Central的功能顧問或者使用其他Dynamics 365應用程式的功能顧問而設計的，他們想要擴展自己在Business Central方面的知識。
 outlineSection: |-
-  ### 模組1&#58; Business Central介紹
-  Business Central模組介紹
+  ### 模組 1&#58; Business Central 簡介
+  Business Central 模組簡介
   #### 課程
-  
-  
-  ### 模組2&#58; 應用程式安裝程式
-  
-  
-  ### 模組3&#58; 配置財務
-  
-  
-  ### 模組4&#58; 配置銷售和採購
-  
-  
-  ### 模組5&#58; 運營
-  
-  
-  ### 模組6&#58; 集成和自動化
+  - Business Central 簡介
+  - 技術概述
+  - 流覽使用者介面
+  - 銷售和採購流程的主資料
+
+
+  ### 模組 2&#58; 應用程式設置
+  #### 課程
+  - 創建和配置新公司
+  - 將資料移轉到 Business Central
+  - 管理安全性
+  - 設置核心應用程式功能
+  - 設置尺寸
+
+
+  ### 模組 3&#58; 配置財務
+  #### 課程
+  - 設立財務管理
+  - 設置會計科目表
+  - 設置過帳組
+  - 通用日記帳
+  - 設置現金管理
+  - 設置應付帳款
+  - 設置應收賬款
+
+
+  ### 模組 4&#58; 配置銷售和採購
+  #### 課程
+  - 設置庫存
+  - 配置價格和折扣
+
+
+  ### 模組 5&#58;  運營
+  #### 課程
+  - 採購專案
+  - 銷售專案
+  - 處理財務交易
+  - 庫存成本
+
+
+  ### 模組 6&#58; 集成和自動化
+  #### 課程
+  - 通過工作流程設置和使用批准
+  - 連接 Power Apps
+  - 連接 Power Automate
+  - 連接 Power BI
   
   #### 輔助讀物
   Microsoft.com/learn

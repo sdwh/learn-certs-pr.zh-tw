@@ -63,9 +63,6 @@ certifications:
 - uid: certification.m365-developer-associate
   requiredExams:
   - uid: exam.ms-600
-- uid: certification.power-apps-and-d365-developer-associate
-  requiredExams:
-  - uid: exam.mb-400
 - uid: certification.power-platform-developer-associate
   requiredExams:
   - uid: exam.pl-400

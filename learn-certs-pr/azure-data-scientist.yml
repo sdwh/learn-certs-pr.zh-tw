@@ -24,7 +24,6 @@ products:
 - azure
 - azure-data-science-vm
 - azure-machine-learning
-- azure-machine-learning-service
 - azure-machine-learning-studio
 courses:
 - uid: course.dp-100t01
