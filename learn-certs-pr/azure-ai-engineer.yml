@@ -29,7 +29,6 @@ products:
 - azure
 - azure-cognitive-services
 - azure-bot-service
-- azure-machine-learning-service
 - azure-machine-learning-studio
 - azure-search
 courses:
