@@ -21,7 +21,7 @@ skillsGained:
 - skill: 執行正在進行的資料庫維護。
 - skill: 使用 SQL Server Agent 作業自動化 SQL Server 維護。
 - skill: 設定資料庫郵件，警報和通知。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

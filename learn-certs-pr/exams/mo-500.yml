@@ -6,8 +6,6 @@ metadata:
 uid: exam.mo-500
 displayName: MO-500
 summary: |-
-  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-
   該測驗涵蓋創建和維護 Access 資料庫對象(包括表、關係、資料輸入表單、多級報告和多表查詢)的能力。應試者應演示 Access 的主要功能的正確應用，並獨立完成任務。
 subTitle: 該測驗衡量資料庫設計原則中的能力。該測驗涵蓋創建和維護 Access 資料庫對象(包括表、關係、資料輸入表單、多級報告和多表查詢)的能力。
 iconUrl: /media/learn/certification/badges/certification-exam.svg

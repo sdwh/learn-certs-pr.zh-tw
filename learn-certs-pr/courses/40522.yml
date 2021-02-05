@@ -14,7 +14,7 @@ skillsGained:
 - skill: 了解Azure Stack的分類（tenants, regions, subscriptions, offers, plans, services 和 quotas）
 - skill: 描述可用于Azure Stack的資源提供者
 - skill: 設計並部署Azure公共雲和Azure Stack之間的混合連接
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

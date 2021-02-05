@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-
   適用於 SAP Workloads 專業認證的 Azure 的應試者應是具有豐富經驗和知識的架構師或工程師，這些經驗和知識應針對 SAP 解決方案在 Microsoft Azure 上的長期運行。
 
   擔任此職務的職責包括就服務提出建議並適當調整資源，以實現最佳彈性、性能、比例、供應，規模和監視。

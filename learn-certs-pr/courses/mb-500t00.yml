@@ -7,7 +7,7 @@ uid: course.mb-500t00
 courseNumber: 'MB-500T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

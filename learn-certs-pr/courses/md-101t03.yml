@@ -14,7 +14,7 @@ skillsGained:
 - skill: 根據合規性原則配置條件式存取規則。
 - skill: 描述用於保護裝置和資料的各種工具。
 - skill: 實作 Windows Defender 進階威脅防護。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

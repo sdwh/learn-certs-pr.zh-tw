@@ -26,7 +26,7 @@ skillsGained:
 - skill: 了解 SQL CLR 集成的適當用法，並在 SQL Server 中實作現有的 .NET 程式集。
 - skill: 在 SQL Server 中存放 XML 資料和架構。
 - skill: 對 SQL Server 中的 XML 資料執行基本查詢。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

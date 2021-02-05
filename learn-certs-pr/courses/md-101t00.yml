@@ -14,7 +14,7 @@ skillsGained:
 - skill: 管理和部署應用程式並規劃出一套移動應用程式的管理策略。
 - skill: 管理用戶並授權使用Azure AD 及 Active Directory DS。
 - skill: 描繪和實作用於保護設備和資料的方案。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

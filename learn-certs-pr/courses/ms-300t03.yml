@@ -14,7 +14,7 @@ skillsGained:
 - skill: 管理使用者存取 Teams
 - skill: 配置 Teams 參加會議
 - skill: 建立 Teams 資料的資料治理策略
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

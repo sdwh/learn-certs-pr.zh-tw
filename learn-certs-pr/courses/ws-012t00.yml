@@ -18,7 +18,7 @@ skillsGained:
 - skill: 計畫和實現混合遷移和純雲遷移、備份和恢復方案。
 - skill: 部署運行Windows Server 2019的Azure VM（虛擬機器），並配置網路、存儲和安全。
 - skill: 管理和維護運行Windows Server 2019的Azure虛擬機器。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

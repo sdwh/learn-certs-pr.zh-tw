@@ -21,7 +21,7 @@ skillsGained:
 - skill: 實作和管理 AD FS。
 - skill: 在 AD DS 和 Azure AD 之間實現同步。
 - skill: 監視、疑難排解並建立 AD DS 服務的業務連續性。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

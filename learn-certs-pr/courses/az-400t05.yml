@@ -15,7 +15,7 @@ skillsGained:
 - skill: 使用帶有Azure的第三方工具和服務來部署和配置基礎結構，例如Chef，Puppet，Ansible，SaltStack和Terraform
 - skill: 為發布管道和應用程式基礎結構定義基礎結構和配置策略以及適當的工具集
 - skill: 在您的應用程式基礎結構中實作合規性和安全性
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

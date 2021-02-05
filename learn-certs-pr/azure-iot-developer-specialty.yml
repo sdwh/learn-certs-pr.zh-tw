@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-
   Azure IoT 開發人員專業認證的應試者應具有開發 Azure IoT 解決方案的雲端和邊緣元件方面的主題專業知識。
 
   擔任此角色的職責包括使用雲端服務和其他工具管理設備生命週期（設置、設定和維護）。您可以實作 Azure IoT 解決方案的設計，包括設備拓撲、連線能力、調試和安全性，以及用於管理、監控和轉換與 IoT 相關的資料管線的解決方案。您還可以部署 Azure IoT Edge 元件並在邊緣上設定設備網路。

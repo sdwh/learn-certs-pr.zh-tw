@@ -9,7 +9,7 @@ hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 使用Azure Synapse Analytics設計並構建壹個完整的端到端高級分析解決方案。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -12,8 +12,6 @@ ms.prod: non-product-specific
 ---
 # Microsoft 認證幫助
 
-<div style='color&#58; red;'><strong><font color="red"><br/>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>學到更多</a>。</font></strong><br/><br/></div>
-
 您需要有關 Microsoft 認證產品的幫助嗎？請參閱下面的支援選項。
 
 ## 如何联系支援人員

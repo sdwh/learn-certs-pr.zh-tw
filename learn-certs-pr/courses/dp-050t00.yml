@@ -13,7 +13,7 @@ skillsGained:
 - skill: 將SQL工作負載移轉到Azure虛擬機器
 - skill: 將SQL工作負載移轉到Azure SQL資料庫
 - skill: 將SQL工作負載移轉到Azure SQL資料庫受控實例
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

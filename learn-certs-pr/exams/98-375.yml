@@ -6,8 +6,6 @@ metadata:
 uid: exam.98-375
 displayName: 98-375
 summary: |-
-  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-
   本測驗的應試者是希望證明在現今支援觸控裝置 (電腦、平板電腦與手機) 執行之核心 HTML5 用戶端應用程式開發技能的人。雖然一般會將 HTML 視為在瀏覽器轉譯以產生 UI 的 Web 技術，但本測驗強調的是用 HTML5、CSS3 與 JavaScript 開發用戶端應用程式。應試者在接受測驗之前，應對準備指南所述主題具備紮實的基礎知識，包括 CSS 和 JavaScript。建議應試者修習相關訓練課程，或使用 MSDN 和 Microsoft Visual Studio 提供的教學課程和範例，以熟悉相關技術的概念，並取得實際操作經驗。
 subTitle: 本測驗的應試者是希望證明在現今支援觸控裝置 (電腦、平板電腦與手機) 執行之核心 HTML5 用戶端應用程式開發技能的人。雖然一般會將 HTML 視為在瀏覽器轉譯以產生 UI 的 Web 技術，但本測驗強調的是用 HTML5、CSS3 與 JavaScript 開發用戶端應用程式。應試者在接受測驗之前，應對準備指南所述主題具備紮實的基礎知識，包括 CSS 和 JavaScript。建議應試者修習相關訓練課程，或使用 MSDN 和 Microsoft Visual Studio 提供的教學課程和範例，以熟悉相關技術的概念，並取得實際操作經驗。
 iconUrl: /media/learn/certification/badges/certification-exam.svg

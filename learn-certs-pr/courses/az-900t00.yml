@@ -7,7 +7,7 @@ uid: course.az-900t00
 courseNumber: 'AZ-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

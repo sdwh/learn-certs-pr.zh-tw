@@ -21,7 +21,7 @@ skillsGained:
 - skill: 實作群組原則
 - skill: 透過使用群組原則物件(GPO)保護 Windows 伺服器。
 - skill: 透過使用 Hyper-V 實作伺服器虛擬化。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

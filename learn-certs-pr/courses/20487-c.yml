@@ -19,7 +19,7 @@ skillsGained:
 - skill: 監視、記錄服務和排除服務故障。
 - skill: 描述基於聲明的身份概念和標準，並使用 Azure Active Directory 實作身份驗證和授權。
 - skill: 建立可擴展的服務應用程式。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

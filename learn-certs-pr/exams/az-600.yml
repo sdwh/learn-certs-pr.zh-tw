@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-600
 displayName: AZ-600
 summary: |-
-  <div style='color&#58; red;'><strong>針對冠狀病毒(COVID-19)的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>.</strong><br/><br/></div>
-  
   考試 AZ-600 的候選人是 Azure administrators 或 Azure Stack Hub 操作員，他們使用 Azure Stack Hub 從自己的資料中心向最終使用者或客戶提供 cloud 服務。
   
   該考試的候選人應具有管理和操作 Azure Stack Hub 環境的豐富經驗。除了一些虛擬化、網路和身份管理方面的知識外，他們還應該對 Azure 有很強的理解。他們需要瞭解 Azure Stack Hub 是如何啟用 DevOps 進程和混合開發模型的。

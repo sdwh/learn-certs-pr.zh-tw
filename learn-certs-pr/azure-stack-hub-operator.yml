@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-stack-hub-operator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-  
   Azure Stack Hub Operator Associate 認證的候選人是 Azure 管理員或 Azure Stack Hub 操作員，他們使用 Azure Stack Hub 從自己的資料中心向最終使用者或客戶提供 cloud 服務。
   
   他們的職責是計畫、部署、包裝、更新和維護 Azure Stack Hub 基礎設施。 他們還提供混合 cloud 資源和請求的服務，並管理基礎設施即服務 (PaaS) 和平臺即服務 (IaaS)。

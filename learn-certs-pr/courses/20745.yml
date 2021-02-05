@@ -20,7 +20,7 @@ skillsGained:
 - skill: 透過使用 System Center Operations Manager 監視虛擬化基礎結構。
 - skill: 實作和管理 Microsoft Hyper-V 副本和 Microsoft Azure 站點恢復。
 - skill: 透過使用 Data Protection Manager 保護虛擬化基礎架構。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

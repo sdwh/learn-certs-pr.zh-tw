@@ -20,7 +20,7 @@ skillsGained:
 - skill: 部署和管理 Windows 和 Hyper-V 容器。
 - skill: 實作容錯移轉叢集。
 - skill: 使用虛擬機器實作容錯移轉叢集。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
