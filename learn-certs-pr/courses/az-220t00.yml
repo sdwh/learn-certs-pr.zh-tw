@@ -19,7 +19,7 @@ skillsGained:
 - skill: 實現含有監視、日誌記錄和診斷測試的解決方案。
 - skill: 識別並解決安全問題，並實現Azure IoT安全中心。
 - skill: 使用Azure IoT Central構建IoT（物聯網）解決方案，並重新認識物聯網上SaaS的機遇。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

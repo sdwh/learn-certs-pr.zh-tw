@@ -21,7 +21,7 @@ skillsGained:
 - skill: 將非託管庫和動態元件集成到 Visual C# 應用程式中。
 - skill: 透過使用反射檢查類型的元資料，建立和使用自定義屬性，在運行時生成代碼，以及管理程式集版本。
 - skill: 透過使用對稱和非對稱加密來加密和解密資料。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

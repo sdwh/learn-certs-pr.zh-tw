@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-
   Azure 安全工程師證書的應試者應具有實作安全控制和威脅防護、管理身份和訪問以及保護雲端和混合環境中的資料、應用程式和網路（作為端到端基礎結構的一部分）等方面的主題知識。
 
   擔任此角色的職責包括維護安全狀況、使用各種安全工具識別和補救漏洞、實作威脅防護以及對安全事件升級做出響應。

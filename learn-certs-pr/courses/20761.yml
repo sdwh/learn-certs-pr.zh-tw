@@ -24,7 +24,7 @@ skillsGained:
 - skill: 透過實現資料透視圖、取消透視圖、匯總和多維資料集來轉換資料。
 - skill: 實作和實現存儲程式。
 - skill: 向 T-SQL 代碼添加編程構造，例如變量、條件和循環。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

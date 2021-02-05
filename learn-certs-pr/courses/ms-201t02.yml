@@ -18,7 +18,7 @@ skillsGained:
 - skill: 管理系統管理員角色
 - skill: 管理使用者角色型權限
 - skill: 計劃 Exchange 設定 - RBAC 和 AD 分割的權限
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

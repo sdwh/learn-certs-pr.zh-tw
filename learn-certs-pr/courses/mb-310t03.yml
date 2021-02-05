@@ -7,7 +7,7 @@ uid: course.mb-310t03
 courseNumber: 'MB-310T03-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

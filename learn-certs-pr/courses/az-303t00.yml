@@ -15,7 +15,7 @@ skillsGained:
 - skill: 使用資源管理器、Azure入口、Cloud Shell 和 CLI 管理Azure。
 - skill: 設定站點間連接解決方案，例如 VNet Peering 和虛擬網路閘道。
 - skill: 管理 Azure 應用服務，Azure 容器執行個體和 Kubernetes。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-
   Azure AI Engineer Associate 認證的應試者應具有使用認知服務，機器學習和知識挖掘的主題專業知識，以架構和實作涉及自然語言處理，語音，電腦視覺和對話式 AI 的 Microsoft AI 解決方案。
 
   擔任此職務的職責包括分析對 AI 解決方案的需求，推薦適當的工具和技術，以及設計和實現滿足可伸縮性和效能要求的 AI 解決方案。

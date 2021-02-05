@@ -18,7 +18,7 @@ skillsGained:
 - skill: 描述資料保護，包括使用Azure資訊保護。
 - skill: 描述常規合規性以及Microsoft 365中的合規性功能。
 - skill: 描述Microsoft 365訂閱，許可證、賬單和支援
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

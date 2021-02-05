@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-
   Azure 解決方案架構師專家認證的應試者應具有設計和實作可在 Microsoft Azure 上運行的解決方案的主題專業知識，包括計算、網路、存儲和安全性等方面。候選人應具備管理 Azure 的中級技能。候選人應瞭解 Azure 開發和 DevOps 流程。
 
   擔任此職務的職責包括為利益相關者提供建議，並將業務需求轉換為安全，可擴充且可靠的雲端解決方案。

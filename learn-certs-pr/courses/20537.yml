@@ -18,7 +18,7 @@ skillsGained:
 - skill: 在 Microsoft Azure Stack 中管理更新。
 - skill: 在 Microsoft Azure Stack 中執行監視和疑難排解。
 - skill: 了解許可和計費在 Microsoft Azure Stack 中的工作方式。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

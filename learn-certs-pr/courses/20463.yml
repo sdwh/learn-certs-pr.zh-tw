@@ -21,7 +21,7 @@ skillsGained:
 - skill: 使用自定義腳本和元件擴展 SSIS
 - skill: 部署和設定 SSIS 包
 - skill: 描述 BI 解決方案如何使用資料倉庫中的資料
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

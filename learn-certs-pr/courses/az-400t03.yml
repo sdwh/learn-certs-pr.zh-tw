@@ -29,7 +29,7 @@ skillsGained:
 - skill: 實作藍綠色部署
 - skill: 實作Canary釋放
 - skill: 實作逐步暴露部署
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

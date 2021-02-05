@@ -15,7 +15,7 @@ skillsGained:
 - skill: 描述如何使用 Cosmos DB 建立有效的圖形資料庫模型。
 - skill: 描述如何將 Azure 搜尋、HDInsight、Azure Databricks 和 Power BI 與 Cosmos DB 一起使用來查詢和分析巨量分析。
 - skill: 描述如何使用 Cosmos DB 作為串流資料的來源和接收。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
