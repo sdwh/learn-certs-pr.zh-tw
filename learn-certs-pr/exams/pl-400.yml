@@ -6,8 +6,6 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong></font><br/><br/></div>
-
   此測驗的應試者設計，開發，保護Power Platform解決方案並對其進行疑難排解。應試者應實作包括應用程式增強功能、自訂使用者體驗、系統整合、資料轉換、自訂流程自動化和自訂視覺效果在內的解決方案組件。
 
   應試者必須對Power Platform服務具有廣泛的應用知識，包括對功能，邊界和約束的深入了解。應試者應對 Power Platform 的 DevOps 實作有基本的理解。

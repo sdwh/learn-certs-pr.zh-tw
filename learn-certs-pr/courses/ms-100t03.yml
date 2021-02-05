@@ -20,7 +20,7 @@ skillsGained:
 - skill: 配置 Azure AD 應用程式 Proxy
 - skill: 設計外部存取解決方法
 - skill: 管理他們的 Microsoft 365 租用戶健康狀況和服務
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

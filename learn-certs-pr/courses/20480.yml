@@ -24,7 +24,7 @@ skillsGained:
 - skill: 使用 Web 套接字在 Web 應用程式和伺服器之間發送和接收資料。
 - skill: 透過使用 Web Worker 進程來提高執行長時間運行操作的 Web 應用程式的響應能力。
 - skill: 使用 WebPack 打包 Web 應用程式以進行生產。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

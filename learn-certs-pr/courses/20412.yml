@@ -22,7 +22,7 @@ skillsGained:
 - skill: 實作容錯移轉叢集，和設定及驗證高可用性網路服務。
 - skill: 在容錯移轉叢集中部署和管理 Hyper-V 虛擬機器。
 - skill: 根據商務和技術要求實作備份和災害復原解決方案。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

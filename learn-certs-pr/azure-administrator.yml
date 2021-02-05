@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>針對冠狀病毒（COVID-19）的情況，Microsoft 正在對我們的訓練和認證計劃進行一些臨時變更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>學到更多</a>。</strong><br/><br/></font></div>
-
   Azure Administrator Associate 認證的應試者應具有在實作、管理和監控組織的 Microsoft Azure 環境方面的主題專業知識。
 
   擔任此角色的職責包括在雲端環境中實作、管理和監控身份、治理、存儲、計算和虛擬網路，以及在需要時提供、調整大小、監控和調整資源。

@@ -8,7 +8,7 @@ uid: course.az-204t00
 courseNumber: 'AZ-204T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

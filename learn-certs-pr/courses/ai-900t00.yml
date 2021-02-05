@@ -13,7 +13,7 @@ skillsGained:
 - skill: 描述 Azure 上的電腦視覺工作負載的功能
 - skill: 描述 Azure 上自然語言處理（NLP）工作負載的功能
 - skill: 描述 Azure 上的對話式 AI 工作負載的功能
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

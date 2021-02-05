@@ -11,7 +11,7 @@ skillsGained:
 - skill: 計劃、部署和設定Azure SQL產品
 - skill: 監視資料庫效能並調整資料庫和查詢以獲得最佳效能
 - skill: 規劃並實作高可用性解決方案
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

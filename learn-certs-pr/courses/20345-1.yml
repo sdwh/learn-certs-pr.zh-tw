@@ -20,7 +20,7 @@ skillsGained:
 - skill: 監視Exchange Server並對其進行疑難​​排解。
 - skill: 配置基於Exchange Server角色的存取控制權限，並為管理員和使用者配置審核日誌記錄。
 - skill: 實作和管理與Exchange Online的整合。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

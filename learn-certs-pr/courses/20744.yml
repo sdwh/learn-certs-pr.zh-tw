@@ -21,7 +21,7 @@ skillsGained:
 - skill: 優化和保護檔案服務。
 - skill: 使用防火牆和加密來保護網路流量。
 - skill: 透過使用 DNSSEC 和 Message Analyzer 來保護網路流量。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

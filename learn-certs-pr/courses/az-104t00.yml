@@ -7,7 +7,7 @@ uid: course.az-104t00
 courseNumber: 'AZ-104T00-A'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

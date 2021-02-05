@@ -7,7 +7,7 @@ uid: course.az-203t01
 courseNumber: 'AZ-203T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

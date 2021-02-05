@@ -24,7 +24,7 @@ skillsGained:
 - skill: 實作Azure Monitor，包括連接的源，日誌分析和警報。
 - skill: 實作Azure安全中心，包括策略，建議和及時的虛擬機存取。
 - skill: 實作Azure Sentinel，包括工作簿，事件和劇本。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

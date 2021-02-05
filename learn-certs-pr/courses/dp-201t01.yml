@@ -8,7 +8,7 @@ uid: course.dp-201t01
 courseNumber: 'DP-201T01-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

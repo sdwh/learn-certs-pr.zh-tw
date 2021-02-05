@@ -12,7 +12,7 @@ skillsGained:
 - skill: 使用Microsoft Graph
 - skill: 決定工作量平台的目標
 - skill: Integration Points包括Microsoft Teams，Office Add -ins，和SharePoint Framework
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
