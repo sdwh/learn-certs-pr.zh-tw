@@ -1,0 +1,71 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Solution Architect (beta)'
+metadata:
+  title: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+  description: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+uid: exam.pl-600
+displayName: PL-600
+summary: |-
+  Microsoft Power Platform 解決方案架構師領導成功的實施，並專注於解決方案如何滿足組織更廣泛的業務和技術需求。
+  
+  解決方案架構師擁有 Power Platform、Dynamics 365 客戶參與應用、相關 Microsoft cloud 解決方案和其他協力廠商技術的功能和技術知識。解決方案架構師在整個參與過程中應用知識和經驗。解決方案架構師執行主動和預防性工作，以增加客戶投資的價值並促進組織健康。該角色需要能夠識別解決業務問題的機會。
+  
+  解決方案架構師擁有 Power Platform 的功能和技術學科方面的經驗。解決方案架構師應該能夠促進跨開發、配置、集成、基礎設施、安全性、可用性、存儲和變更管理的設計決策。該角色平衡專案的業務需求，並同時滿足功能性和非功能性需求。
+  
+  <div><br/><font color='red'><strong>注釋&#58;本考試將2021年3月開始。</strong></font></div>
+subTitle: '本考試將2021年3月開始。本考試將衡量你完成以下技術任務的能力：執行解決方案設想和需求分析；設計解決方案；以及實施解決方案。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
+locales:
+- en
+levels:
+- advanced
+skills:
+- 執行解決方案設想和需求分析(35-40%)
+- 設計解決方案(40-45%)
+- 實施解決方案(15-20%)
+roles:
+- developer
+- functional-consultant
+- solution-architect
+products:
+- dynamics-365
+- power-platform
+- ai-builder
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- dynamics-customer-engagement
+- common-data-service
+- azure-api-apps
+- azure-app-configuration
+- azure-app-service
+relatedCertifications:
+- related:
+    uid: certification.power-platform-solution-architect-expert
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證海報
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 测验重放
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 支援認證考試
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: ../help.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 要求住宿
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: ../request-accommodations.md
+- title: 測驗政策和常見問題
+  description: 查看測驗政策和常見問題。
+  href: ../certification-exam-policies.md

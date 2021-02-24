@@ -2,18 +2,20 @@
 title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure AI Engineer Associate'
-  description: 'Azure AI 工程師使用認知服務，機器學習和知識探勘來構建和實作涉及自然語言處理，語音，電腦視覺 ，機器人和代理的 Microsoft AI 解決方案。'
+  description: 'Azure AI 工程師構建、管理和部署利用 Azure Cognitive Services、Azure Cognitive Search 和 Microsoft Bot 框架的 AI 解決方案。'
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>考試 AI-100 將於2021年2月23日替換為 <a href='/learn/certifications/exams/ai-102'>EXAM AI-102</a>。在2021年6月30日考試結束前，若通過考試 AI-100，你仍然可以獲得此認證。</strong></font><br/><br/></div>
+  
   Azure AI Engineer Associate 認證的應試者應具有使用認知服務，機器學習和知識挖掘的主題專業知識，以架構和實作涉及自然語言處理，語音，電腦視覺和對話式 AI 的 Microsoft AI 解決方案。
-
+  
   擔任此職務的職責包括分析對 AI 解決方案的需求，推薦適當的工具和技術，以及設計和實現滿足可伸縮性和效能要求的 AI 解決方案。
-
+  
   Azure AI工程師將解決方案架構師的願景轉化為事實，並與資料科學家、資料工程師、IoT 專家和軟體開發人員合作，以構建完整的端到端解決方案。
-
+  
   參加此認證的應試者應具有設計和實作使用 Microsoft Azure 認知服務，Azure 機器人服務，Azure 認知搜尋和 Azure 中資料存儲的 AI 應用程式和代理的知識和經驗。此外，應試者應能夠推薦使用開源技術的解決方案，了解構成 Azure AI 產品組合的組件和可用的資料存儲選項，並了解何時應開發自訂API以滿足特定要求。
-subTitle: Azure AI 工程師使用認知服務，機器學習和知識探勘來構建和實作涉及自然語言處理，語音，電腦視覺 ，機器人和代理的 Microsoft AI 解決方案。
+subTitle: Azure AI 工程師構建、管理和部署利用 Azure Cognitive Services、Azure Cognitive Search 和 Microsoft Bot 框架的 AI 解決方案。
 levels:
 - intermediate
 skills:
@@ -61,4 +63,3 @@ resources:
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-

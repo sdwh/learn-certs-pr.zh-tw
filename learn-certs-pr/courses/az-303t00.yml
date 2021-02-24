@@ -9,7 +9,7 @@ hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 使用 Azure Active Directory 以及用戶和組的安全身份。
-- skill: 實作跨內部和基於雲端功能的身份解決方案
+- skill: 實作跨內部和基於雲端功能的身份解決方案。
 - skill: 應用監視解決方案以蒐集、合併和分析來自不同來源的資料。
 - skill: 管理訂閱、帳戶、Azure 策略和基於角色的存取控制。
 - skill: 使用資源管理器、Azure入口、Cloud Shell 和 CLI 管理Azure。
@@ -28,18 +28,19 @@ exams:
 - uid: exam.az-303
 summary: |-
   本課程教解決方案架構師如何將業務需求轉換為安全、可擴充和可靠的解決方案。課程包括虛擬化、自動化、網路、存儲、身份、安全性、資料平台和應用程式基礎結構。本課程概述了這些領域的決策對整體解決方法的影響。
-
+  
   #### 對象設定檔
   本課程面向具有設計和實作在 Microsoft Azure 上運行的解決方案的專業知識的 IT 專業人員。應試者應具備跨 IT 運營各個方面的高級經驗和知識，包括網路、虛擬化、身份、安全性、業務連續性、災難恢復、資料管理、預算和治理。Azure 解決方案架構師使用 Azure 入口，在他们更加熟練之后，则会使用命令行界面。應試者必須具有 Azure 管理方面的專家級技能，並且具有 Azure 開發流程和 DevOps 流程的經驗。
 prerequisitesSection: |-
   成功的 Azure 架構師學員在作業系統、虛擬化、cloud 基礎設施、存儲結構和網路方面擁有豐富的經驗&#58;
-  - 瞭解本地虛擬化技術，包括 Vms 和虛擬網路 
-  - 瞭解網路配置，包括 TCP/IP、Domain Name System (DNS)、virtual private networks (VPNs)、防火牆和加密技術 
+  - 瞭解本地虛擬化技術，包括 Vms 和虛擬網路
+  - 瞭解網路配置，包括 TCP/IP、Domain Name System (DNS)、virtual private networks (VPNs)、防火牆和加密技術
   - 瞭解 Active Directory 概念，包括域、森林和網域控制站
   
   如果你是 Azure 和 cloud 計算的新手，請考慮以下資源之一&#58;
   - 免費線上&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
   - 講師指導課程&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  - Azure 管理員的先決條件(https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### 模組 1&#58; 實施 Azure Active Directory
   在本模組中，你將學習如何使用 Azure Active Directory 保護身份，以及實現用戶和組。本模組包括&#58;
@@ -62,7 +63,7 @@ outlineSection: |-
   - 配置 Azure MFA 設置
   - 實施 Conditional Access Azure MFA
   - 創建藍圖
-
+  
   
   ### 模組 2&#58; 實施和管理混合身份
   在本模組中，你將學習如何安裝和配置 Azure AD Connect 和實施 Azure AD Connect Health。本模組包括&#58;
@@ -174,7 +175,7 @@ outlineSection: |-
   - 實施 Azure SQL 資料庫託管實例
   - 高可用性和 Azure SQL 資料庫
   - 在本單元中，你將學習如何 
-  - 創建 Azure SQL 資料庫（單個資料庫）
+  - 創建 Azure SQL 資料庫(單個資料庫)
   - 創建 Azure SQL 資料庫託管實例
   - 推薦 Azure SQL 資料庫中使用的高可用性架構模型
   
@@ -266,7 +267,8 @@ outlineSection: |-
   完成本模組後，學員將能夠&#58;
   - 運行 Azure Container 實例
   - 使用 AKS 部署 Kubernetes
-
+  
+  
   ### 模組 14&#58; 實施應用程式基礎設施
   在本模組中，你將學習如何為容器創建應用程式服務 Web 應用程式，創建和配置應用程式服務計畫，以及創建和管理部署插槽。
   #### 課程
@@ -277,22 +279,22 @@ outlineSection: |-
   - 創建和管理部署插槽
   - 實現 Logic Apps
   - 實現 Azure 功能
- 
+  
   #### 實驗室 &#58; 配置基於消息的集成架構
   - 配置和驗證 Azure Function App Storage Blob 觸發器
   - 配置和驗證基於 Azure Event Grid 訂閱的佇列消息傳遞
- 
+  
   #### 實驗室 &#58; 使用 Staging Slot 實施 Azure App Service Web 應用
   - 使用 Azure App Service Web 應用的部署插槽實現藍/綠部署模式
   - 使用 Azure App Service Web 應用的部署插槽執行 A/B 測試
- 
+  
   完成本模組後，學員將能夠&#58;
   - 配置 Azure App Service
   - 創建 App Service Plan
   - 使用 Azure Logic Apps 創建工作流
   - 創建 Function App
- 
- 
+  
+  
   ### 模組 15&#58; 實施 Cloud Infrastructure Monitoring
   在本模組中，你將瞭解 Azure Monitor、Azure 工作簿、Azure 警報、 Network Watcher、Azure Service Health,、Azure Application Insights。
   #### 課程
@@ -306,7 +308,7 @@ outlineSection: |-
   - 監控 Azure 成本
   - Azure 應用見解
   - Azure 中的統一監控
- 
+  
   在本單元中，你將學習如何
   - 瞭解 Azure Log Analytics
   - 瞭解 Azure Service Health

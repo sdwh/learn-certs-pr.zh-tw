@@ -2,12 +2,14 @@
 title: 'Microsoft Certified: Azure Data Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Engineer Associate'
-  description: 'Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理，監控，安全性和隱私權，以滿足業務需求。'
+  description: 'Azure 資料工程師將來自各種結構化和非結構化資料系統的資料集成、轉換和整合到適合構建分析解決方案的結構中。'
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>考試 DP-200 和 DP-201 將於2021年2月23日替換為 <a href='/learn/certifications/exams/dp-203'>EXAM DP-203</a>。在2021年6月30日考試結束前，若通過考試 DP-200 和 DP-201，你仍然可以獲得此認證。</strong></font><br/><br/></div>
+  
   Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理，監控，安全性和隱私權，以滿足業務需求。
-subTitle: Azure資料工程師使用完整堆疊的Azure資料服務來設計和實作資料管理，監控，安全性和隱私權，以滿足業務需求。
+subTitle: Azure 資料工程師將來自各種結構化和非結構化資料系統的資料集成、轉換和整合到適合構建分析解決方案的結構中。
 levels:
 - intermediate
 skills:
@@ -21,16 +23,12 @@ roles:
 - data-engineer
 type: role-based
 products:
-- azure
-- azure-cosmos-db
+- azure-data-factory
+- azure-synapse-analytics
+- azure-stream-analytics
+- azure-event-hubs
 - azure-data-lake
 - azure-databricks
-- azure-notebooks
-- azure-stream-analytics
-- azure-sql-database
-- azure-storage
-- azure-monitor
-- azure-hdinsight
 courses:
 - uid: course.dp-200t01
 - uid: course.dp-201t01
@@ -69,4 +67,3 @@ resources:
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
-

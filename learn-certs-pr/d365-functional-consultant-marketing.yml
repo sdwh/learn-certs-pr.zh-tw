@@ -6,16 +6,19 @@ metadata:
 uid: certification.d365-functional-consultant-marketing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Dynamics 365 行銷功能顧問實作吸引並轉化潛在客戶的解決方案，建構品牌知名度，標準化全渠道訊息傳送，以及提供行銷見解。
+  如果你是職能顧問、在組織的日常業務運營中使用 Microsoft Dynamics 365 Marketing 的專業人士，或者是希望磨練諮詢技巧的開發人員，此認證將有助於提升你的職業生涯，並使你能夠更有效地為專案和促銷活動做好準備。
+  
+  作為此認證的候選人，你瞭解 Dynamics 365 模型驅動的應用程式和資料建模原則，並且可以配置 Microsoft Power Platform。你實施行銷計畫，例如活動、電子郵件和客戶旅程。你有與組織的利益相關者合作收集需求和實施 Dynamics 365 Marketing 解決方案的經驗。此外，你還配置 Dynamics 365 Marketing 並設置 Dynamics 365 組織安全性。你甚至使用 Power Platform 元件(如 Power Automate 和 Power Apps)擴展 Dynamics 365 解決方案。
+  
+  如果你在嘗試獲得此認證之前需要更多經驗，以下是一些建議&#58;
+  - 從事 Dynamics 365 模型驅動的應用程式實施專案。
+  - 跟隨使用 Dynamics 365 Marketing 的職能顧問或解決方案架構師。
+  - 在 Microsoft Learn 上採取可用的學習路徑。
+  - 報名參加講師指導的培訓課程。
 subTitle: Microsoft Dynamics 365 行銷功能顧問實作吸引並轉化潛在客戶的解決方案，建構品牌知名度，標準化全渠道訊息傳送，以及提供行銷見解。
 levels:
 - intermediate
 skills:
-- 配置Common Data Service
-- 利用Power Apps來創建應用程式
-- 創建和管理Power Automate
-- 實現Power Virtual Agents聊天機器人
-- 將Power Apps與其他應用程式和服務集成在一起
 - 設定行銷應用程式
 - 管理區段和清單
 - 建立與管理行銷表單與頁面
@@ -24,6 +27,11 @@ skills:
 - 管理客戶旅程
 - 管理事件與網路研討會
 - 配置Dynamics 365 Customer Voice
+- 配置Common Data Service
+- 利用Power Apps來創建應用程式
+- 創建和管理Power Automate
+- 實現Power Virtual Agents聊天機器人
+- 將Power Apps與其他應用程式和服務集成在一起
 roles:
 - functional-consultant
 type: role-based

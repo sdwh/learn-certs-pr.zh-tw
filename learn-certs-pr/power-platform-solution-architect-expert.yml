@@ -1,0 +1,70 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Solution Architect Expert'
+metadata:
+  title: 'Microsoft Certified: Power Platform Solution Architect Expert'
+  description: 本認證將2021年3月開始。Power Platform Solution Architect Experts 與利益相關者合作，專注於影響其組織廣泛業務和技術需求的解決方案。
+uid: certification.power-platform-solution-architect-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  如果你希望證明自己作為 Microsoft Power Platform 或 Microsoft Dynamics 365 解決方案架構師的專業技能，或者你是一名開發人員或高級顧問，準備下一步成為解決方案架構師，那麼此專家認證可以幫助你在職業生涯中不斷前進。
+  
+  作為 Power Platform Solution Architect Expert 專家認證的候選人，你將與利益相關者合作，專注於影響組織廣泛業務和技術需求的解決方案。你擁有 Power Platform, Dynamics 365 客戶參與應用、相關 Microsoft cloud 解決方案和協力廠商技術的功能和技術知識。對於此認證，你至少需要1到3年的 Power Platform 解決方案架構師經驗，或7到10年的高級顧問或開發人員經驗，以及對 Power Platform 架構的深入瞭解。
+  
+  如果你在嘗試獲得此認證之前需要更多的經驗，以下是一些建議&#58;
+  - 在 Power Platform 專案中擔任(或跟隨)解決方案架構師。
+  - 報名參加講師指導的培訓課程。
+  - 在[Microsoft Learn](/learn/paths/become-solution-architect/)上探索可用的學習路徑。
+  
+  <div><font color='red'><strong>注釋&#58;本認證將2021年3月開始。</strong></font></div>
+subTitle: 本認證將2021年3月開始。Power Platform 解決方案架構師專家與利益相關者合作，專注於影響其組織廣泛業務和技術需求的解決方案。候選人擁有 Power Platform、Dynamics 365 客戶參與應用、相關 Microsoft cloud 解決方案和協力廠商技術的功能和技術知識。
+levels:
+- advanced
+skills:
+- 執行解決方案設想和需求分析
+- 設計解決方案
+- 實施解決方案
+roles:
+- developer
+- functional-consultant
+- solution-architect
+type: role-based
+products:
+- dynamics-365
+- power-platform
+- ai-builder
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- dynamics-customer-engagement
+- common-data-service
+- azure-api-apps
+- azure-app-configuration
+- azure-app-service
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56P
+exams:
+- uid: exam.pl-600
+prerequisites:
+- uid: certification.power-platform-functional-consultant-associate
+  isOptional: false
+- uid: certification.power-platform-developer-associate
+  isOptional: false
+resources:
+- title: 認證海報
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: help.md

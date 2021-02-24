@@ -12,17 +12,17 @@ subTitle: Microsoft Dynamics 365 現場服務功能顧問負責設定現場服�
 levels:
 - intermediate
 skills:
-- 配置Common Data Service
-- 利用Power Apps來創建應用程式
-- 創建和管理Power Automate
-- 實現Power Virtual Agents聊天機器人
-- 將Power Apps與其他應用程式和服務集成在一起
 - 設定現場服務應用程式
 - 管理工單
 - 安排和派遣工單
 - 管理現場服務流動性
 - 管理庫存與採購
 - 實現Connected Field Service
+- 配置Common Data Service
+- 利用Power Apps來創建應用程式
+- 創建和管理Power Automate
+- 實現Power Virtual Agents聊天機器人
+- 將Power Apps與其他應用程式和服務集成在一起
 roles:
 - functional-consultant
 type: role-based

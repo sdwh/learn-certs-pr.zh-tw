@@ -15,7 +15,7 @@ ms.author: micsullivan
 
 ## 規劃撤銷的認證
 
-尋找規劃在未來12個月內停用的認證。（後續的資訊可能會變更。)  
+尋找規劃在未來12個月內停用的認證。(後續的資訊可能會變更。)  
 
 |                                             |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
@@ -35,6 +35,7 @@ ms.author: micsullivan
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | 於 2021 年 1 月 31 日停止提供 |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | 於 2021 年 1 月 31 日停止提供 |
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 2021年6月30日停用 |
+| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | 2021年6月30日停用 |
 
 ## 停用的證書
 
