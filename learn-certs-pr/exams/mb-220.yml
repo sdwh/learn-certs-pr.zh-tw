@@ -6,9 +6,7 @@ metadata:
 uid: exam.mb-220
 displayName: MB-220
 summary: |-
-  <div>
-  <div><strong>該考試的內容將於2021年1月15日進行更新。請下載以下技能測量文檔，來看看會發生哪些變化。</strong><br/><br/></div>
-  </div>
+  <div><strong>本考試的內容更新於2021年1月15日。請下載下面的技能評估文檔，看看發生了什麼變化。</strong><br/><br/></div>
   
   本次考試的報考人是Dynamics 365市場行銷功能顧問。報考人負責實施吸引和改變線索、打造品牌知名度、標準化全管道消息傳遞和提供市場行銷洞察的解決方案。
   
@@ -25,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 該考試的內容將於2021年1月15日進行更新。請下載以下考試技巧大綱，來看看會發生哪些變化。
+- 本考試的內容更新於2021年1月15日。請下載下面的考試技能大綱，看看發生了什麼變化。
 - 設定行銷應用程式 (20-25%)
 - 管理區段和清單 (5-10%)
 - 建立與管理行銷表單與頁面 (10-15%)
@@ -40,7 +38,7 @@ products:
 - dynamics-365
 - dynamics-marketing
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-220t00
 paths:

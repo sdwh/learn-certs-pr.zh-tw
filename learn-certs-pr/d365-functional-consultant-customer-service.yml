@@ -12,16 +12,16 @@ subTitle: Microsoft Dynamics 365 Customer Service Functional Consultants 構建�
 levels:
 - intermediate
 skills:
+- 管理案例和知識管理
+- 管理隊列，權利和服務級別協議(SLA)
+- 實作計劃
+- 實作客戶服務全渠道
+- 管理分析
 - 配置Common Data Service
 - 利用Power Apps來創建應用程式
 - 創建和管理Power Automate
 - 實現Power Virtual Agents聊天機器人
 - 將Power Apps與其他應用程式和服務集成在一起
-- 管理案例和知識管理
-- 管理隊列，權利和服務級別協議（SLA）
-- 實作計劃
-- 實作客戶服務全渠道
-- 管理分析
 roles:
 - functional-consultant
 type: role-based
