@@ -6,10 +6,26 @@
             "redirect_document_id": false
         },
 		{
+            "source_path": "learn-certs-pr/m365-modern-desktop.yml",
+            "redirect_url": "/learn/certifications/modern-desktop",
+            "redirect_document_id": false
+        },		
+		{
             "source_path": "learn-certs-pr/microsoft-office-specialist-certification-2016.yml",
             "redirect_url": "/learn/certifications/browse/?type=mos",
             "redirect_document_id": false		
-		}
+		},
+		{
+            "source_path": "learn-certs-pr/request-accomodations.md",
+            "redirect_url": "/learn/certifications/request-accommodations",
+            "redirect_document_id": false		
+		},
+		{
+            "source_path": "learn-certs-pr/exam-process-overview.md",
+            "redirect_url": "/learn/certifications/frequently-asked-questions",
+            "redirect_document_id": false		
+		}	
+		
       ]
 
 

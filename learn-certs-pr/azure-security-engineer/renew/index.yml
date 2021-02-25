@@ -1,0 +1,28 @@
+### YamlMime:Certification
+title: '更新您的 Microsoft Certified: Azure Security Engineer Associate'
+metadata:
+  title: '更新您的 Microsoft Certified: Azure Security Engineer Associate'
+  description: '如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。'
+uid: renewal.azure-security-engineer
+certificationUid: certification.azure-security-engineer
+assessmentId: 824be456-aba3-45ba-a4b4-4478c41a7622
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。通過更新評估，表明您已瞭解最新的Azure更新。您還可以準備精選的學習模組更新。
+skills:
+- 使用Azure Active Directory加強身份驗證（條件存取）
+- 微軟Azure架構完善框架 - 性能效率
+- 在Azure Active Directory中啟用身份保護
+- 透過角色型的存取控制（RBAC）保護Azure資源
+- 透過使用網路安全群組和服務端點來保護和隔離對Azure資源的存取
+- 在Azure上設計整體監控策略
+- 保護您的Azure儲存帳戶
+- 使用Azure Key Vault管理伺服器應用程式中的機密
+examsPassed:
+- az-303, az-304
+studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft認證做準備：Azure解決方案架構師專家更新評估。'
+resources:
+- title: 關於證書更新
+  summary: 了解線上更新證書的過程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification
