@@ -16,11 +16,11 @@ certificationPaths:
     isOptional: true
     levels:
     - beginner 
-  - uid: certification.azure-devops
+  - uid: certification.devops-engineer
     levels:
     - advanced    
 certifications:
-- uid: certification.azure-devops
+- uid: certification.devops-engineer
   requiredExams:
   - uid: exam.az-400
 resources:
