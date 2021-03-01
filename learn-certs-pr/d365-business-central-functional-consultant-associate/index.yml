@@ -1,0 +1,63 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
+  description: 該認證將在 2020 年 10 月 6 日或前後可用。Dynamics 365 業務中心功能顧問負責為中小型企業實作核心應用程式設定過程。
+uid: certification.d365-business-central-functional-consultant-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Dynamics 365 業務中心功能顧問負責為中小型企業實作核心應用程式設定過程。
+
+  <div><br/><strong>附註&#58; 該認證將在 2020 年 10 月 6 日或前後可用。</strong></div>
+subTitle: 該認證將在 2020 年 10 月 6 日或前後可用。Dynamics 365 業務中心功能顧問負責為中小型企業實作核心應用程式設定過程。
+levels:
+- intermediate
+skills:
+- 設立商務中心
+- 配置財務
+- 設定銷售和購買
+- 執行Business Central操作
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-business-central
+- power-platform
+courses:
+- uid: course.mb-800t00
+paths:
+- uid: learn-dynamics.get-started-dynamics-365-business-central
+- uid: learn-dynamics.deploy-configure-dynamics-365-business-central
+- uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
+- uid: learn-dynamics.setup-reporting-dynamics-365-business-central
+- uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central
+- uid: learn-dynamics.use-journals-dynamics-365-business-central
+- uid: learn-dynamics.trade-get-started-dynamics-365-business-central
+- uid: learn-dynamics.purchase-items-services-dynamics-365-business-central
+- uid: learn-dynamics.sell-items-services-dynamics-365-business-central
+- uid: learn-dynamics.return-items-dynamics-365-business-central
+- uid: learn-dynamics.process-customer-vendor-payments-dynamics-365-business-central
+- uid: learn-dynamics.reconcile-bank-accounts-dynamics-365-business-central
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSG
+exams:
+- uid: exam.mb-800
+resources:
+- title: 認證海報
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認證之旅
+  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 测验重放
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: ../help.md
+

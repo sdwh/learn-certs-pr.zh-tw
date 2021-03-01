@@ -6,13 +6,14 @@ metadata:
 uid: exam.mb-210
 displayName: MB-210
 summary: |-
-  <div><div><strong>該測驗的內容已於 2020 年 10 月 2 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
+  <div>
+  <div><strong>該測驗的內容已於 2020 年 10 月 2 日更新。請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
   </div>
-
+  
   本次測驗的應試者是 Dynamics 365 專業銷售顧問。應試者負責實施支持銷售生命周期的解決方案，以高效和有效地運行，以滿足收入目標、業務戰略和公司目標。
-
+  
   應試者負責配置和擴展領導、聯絡人、客戶、機會和支持實體的核心功能，以映射到公司現有的銷售流程。他們負責識別可用的機會，從而能夠使用 Power Apps 為多台設備開發統一體驗，使用 Power Automate 整合應用程式、商務流程，以及使用其他自動化工具建構支援與加速“走向現金之旅”的應用程式。
-
+  
   應試者必須具有較強的商業知識，最好是銷售領域的一個或多個銷售職位的第一人稱經驗。
 subTitle: '此測驗測量您在完成以下技術任務時的能力：執行設定，管理核心銷售實體與管理銷售實體。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -34,7 +35,7 @@ products:
 - dynamics-365
 - dynamics-sales
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-210t01
 paths:

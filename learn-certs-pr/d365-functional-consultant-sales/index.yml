@@ -1,0 +1,82 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
+  description: 'Microsoft Dynamics 365 銷售職能顧問實施的解決方案可以預測和計劃客戶聯繫，通過處理和結算來管理交易，並使用數據分析來提高銷售團隊的績效。'
+uid: certification.d365-functional-consultant-sales
+certificationRenewalUid: renewal.d365-functional-consultant-sales
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果你是職能顧問、使用 Microsoft Dynamics 365 Sales 的專業人士，或者是希望磨練諮詢技巧的開發人員，此認證將有助於提升你的職業生涯。它可以讓你更有效地針對專案進行行銷，並向你的組織展示你可以使用 Dynamics 365 Sales 來增強銷售人員的能力。
+  
+  作為此認證的候選人，你擁有配置 Microsoft Power Platform 的經驗，並且瞭解 Dynamics 365 模型驅動的應用程式和資料建模原則。你有與組織的利益相關者合作收集需求和實施 Dynamics 365 Sales 解決方案。你管理潛在客戶、商機、報價和訂單，並配置產品目錄和價目表。此外，你還配置 Dynamics 365 Sales 以匹配組織獨特的業務流程，並對 Dynamics 365 Sales 資料進行建模。你甚至使用 Power Platform 元件(如 Power Automate 和 Power Apps)擴展 Dynamics 365 解決方案。
+  
+  如果你在嘗試獲得此認證之前需要更多經驗，以下是一些建議&#58;
+  - 從事 Dynamics 365 模型驅動的應用程式實施專案。
+  - 跟隨使用 Dynamics 365 Sales 的職能顧問或解決方案架構師。
+  - 在 Microsoft Learn 上採取可用的學習路徑。
+  - 報名參加講師指導的培訓課程。
+subTitle: Microsoft Dynamics 365 銷售職能顧問實施的解決方案可以預測和計劃客戶聯繫，通過處理和結算來管理交易，並使用數據分析來提高銷售團隊的績效。
+levels:
+- intermediate
+skills:
+- 進行設定
+- 管理核心銷售實體
+- 設定其他工具和服務
+- 配置Common Data Service
+- 利用Power Apps來創建應用程式
+- 創建和管理Power Automate
+- 實現Power Virtual Agents聊天機器人
+- 將Power Apps與其他應用程式和服務集成在一起
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-sales
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-210t01
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-dynamics.dynamics-365-for-sales
+- uid: learn-bizapps.applying-goal-management
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6I
+exams:
+- uid: exam.pl-200
+- uid: exam.mb-210
+resources:
+- title: 認證海報
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認證之旅
+  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C54X
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證學習途徑
+  description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0T
+- title: 测验重放
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: ../help.md
+

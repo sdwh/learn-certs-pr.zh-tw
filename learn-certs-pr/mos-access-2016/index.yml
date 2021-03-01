@@ -1,0 +1,39 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Access 2016'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Access 2016'
+  description: 'Microsoft Office Specialist: Microsoft Access 2016'
+uid: certification.mos-access-2016
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  透過取得 Microsoft Office Specialist (MOS) 2016 認證，證明您具有充分利用 Access 所需的技能。Access 2016 認證的成功應試者對應用程式的環境有基本的了解。
+subTitle: 該認證展現您取得特定 Office 程式的 Microsoft Office Specialist (MOS) 認證，具備充分運用 Office 所需的技能。
+levels:
+- intermediate
+skills:
+- 建立及管理資料庫
+- 建立表格
+- 建立查詢
+- 建立表單
+- 建立報告
+roles:
+- business-user
+type: mos
+products:
+- office-access
+exams:
+- uid: exam.77-730
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 测验重放
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: ../help.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

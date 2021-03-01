@@ -1,0 +1,74 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
+  description: Microsoft Dynamics 365 中財務和運營應用程式的解決方案架構師是受信任的顧問，他們了解業務推薦的實踐和軟體功能。他們帶領團隊成員實作可以實現預定義實作目標的 Dynamics 解決方案。
+uid: certification.d365-finance-and-operations-apps-solution-architect-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  您是一位解決方案架構師、功能或技術顧問、IT專業人士或熟悉Microsoft Dynamics 365應用程式和Microsoft Power Platform的資訊工作者嗎？您對Dynamics 365的財務和運營應用程式有深入的瞭解嗎？您是一位元瞭解推薦商務活動和軟體能力的可信賴的顧問嗎？如果是這樣，獲得該專家認證就可以打開一扇門，讓您的職業生涯更上一層樓。
+  
+  作為該認證的一位候選人，您是Dynamics 365專業人士，可以為利益相關者提供建議，並將業務需求轉化為安全的、可擴展的和可靠的解決方案。您可以為您的客戶設計有凝聚力的解決方案，這是由於您知道如何使用Dynamics 365財務和運營應用程式的基本架構元件。您在一個或多個行業具有廣泛的專業知識。而且，您也瞭解每個領域中的決策是如何影響整體解決方案的。此外，您還熟悉平臺、工具和功能性領域，比如金融、供應鏈管理和製造。
+  
+  如果具備以下條件，Dynamics 365&#58; Finance and Operations Apps Solution Architect Expert認證將非常適合您&#58;
+  - 作為一位元Dynamics 365財務和運營應用程式功能顧問或技術顧問，您具有豐富的經驗。
+  - 您渴望成為一名解決方案架構師，或於最近開始了這一職業生涯。
+  - 您在組織中負責整體技術解決方案的成功設計、實施、部署和採用。
+  - 您具備與各個組織和實施團隊成員進行諮詢的經驗，以此將業務需求細化為明確且具有成本效益的解決方案。
+  
+  如果您需要更多的經驗才能獲得該證書，這裡有一些建議&#58;
+  - 向解決方案架構師學習或作為架構師同時在幾個專案中工作。
+  - 自願設計和實施一個財務和運營應用解決方案。
+  - 與其他解決方案架構師一起參加解決方案架構研討會。
+subTitle: Microsoft Dynamics 365中財務和運營應用程式的解決方案架構師是受信任的顧問，他們了解業務推薦的實踐和軟體功能。他們帶領團隊成員實作可以實現預定義實作目標的Dynamics解決方案。
+levels:
+- advanced
+skills:
+- 識別解決方案要求
+- 設計解決方案元件
+- 定義解決方案測試與管理策略
+roles:
+- functional-consultant
+- solution-architect
+type: role-based
+products:
+- dynamics-365
+courses:
+- uid: course.mb-700t00
+paths:
+- uid: learn-dynamics.become-solution-architect
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
+exams:
+- uid: exam.mb-700
+prerequisites:
+- uid: certification.d365-functional-consultant-financials
+  isOptional: false
+- uid: certification.d365-functional-consultant-manufacturing
+  isOptional: false
+- uid: certification.d365-functional-consultant-supply-chain-management
+  isOptional: false
+- uid: certification.d365-finance-and-operations-apps-developer-associate
+  isOptional: false
+resources:
+- title: 認證海報
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認證之旅
+  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRK
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證學習途徑
+  description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gm
+- title: 测验重放
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: ../help.md
+

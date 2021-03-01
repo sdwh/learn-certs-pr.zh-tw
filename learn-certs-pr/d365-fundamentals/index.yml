@@ -1,0 +1,61 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals'
+  description: '證明您了解 Microsoft Dynamics 365； 人工智慧(AI)；混合實境(MR)； Power Platform； 雲端概念； 雲端安全； Dynamics 365 安全性； Common Data Service； Dynamics 365 報告； Dynamics 365 整合； 和雲端部署。'
+uid: certification.d365-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div>
+  <div><strong>該證書將於2021年6月30日失效。在此日期之後，您將無法獲得該證書。您在它們的失效日期之前所獲得的任何證書都將繼續出現在您的成績單上，此成績單位於<a href="https://aka.ms/certdashboard">“認證面板”之中</a>.</strong><br/><br/></div>
+  </div>
+
+  證明您了解 Microsoft Dynamics 365； 人工智慧；混合實境； Power Platform； 雲端概念； 雲端安全； Dynamics 365 安全性； Common Data Service； Dynamics 365 報告； Dynamics 365 整合； 和雲端部署。
+
+  <div><br/><strong>由於該證書將於2021年6月30日失效，Microsoft不會將“Common Data Service”的引用更新為“Microsoft Dataverse”。</strong></div>
+subTitle: '證明您了解 Microsoft Dynamics 365； 人工智慧(AI)；混合實境(MR)； Power Platform； 雲端概念； 雲端安全； Dynamics 365 安全性； Common Data Service； Dynamics 365 報告； Dynamics 365 整合； 和雲端部署。'
+levels:
+- beginner
+skills:
+- 識別 Dynamics 365 的Microsoft 平台元件
+- 描述 Dynamics 365 的人工智慧和混合實境
+- 描述模型驅動式應用程式
+- 描述財務和營運應用程式
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products:
+- dynamics-365
+courses:
+- uid: course.mb-901t00
+paths:
+- uid: learn-dynamics.wwl.dynamics-365-fundamentals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj0
+exams:
+- uid: exam.mb-901
+resources:
+- title: 認證海報
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認證之旅
+  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRV
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證學習途徑
+  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: ../help.md
+

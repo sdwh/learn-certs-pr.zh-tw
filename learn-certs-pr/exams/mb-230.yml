@@ -6,15 +6,16 @@ metadata:
 uid: exam.mb-230
 displayName: MB-230
 summary: |-
-  <div><div><strong>該測驗的內容已於2020年10月2日更新。請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
+  <div>
+  <div><strong>該測驗的內容已於2020年10月2日更新。請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
   </div>
-
+  
   Dynamics 365客戶服務職能顧問負責實施全渠道解決方案，該解決方案側重於服務，質量，可靠性，效率和客戶滿意度。
   <br/>
-
+  
   Dynamics 365客戶服務功能顧問可實作和設計由解決方案架構師提供的協作服務可視化和報告。功能顧問與客戶參與管理員合作，以實作和升級Power Platform組件，包括知識管理，客戶反饋和連接的服務。
-
-  Dynamics 365客戶服務職能顧問必須具有豐富的客戶服務應用知識，包括&#58; 了解行業術語、優先級、標準、方法，客戶服務運營和最佳實踐。具有客戶服務專業知識的功能顧問必須具有透過Dynamics 365客戶服務滿足用戶需求的強大應用知識，包括對案例、知識管理、隊列、權利、資源調度、服務水平協議（SLA）、可視化、已連接服務、客戶服務見解，Power Virtual Agents 和用於客戶服務的 Omnichannel。應試者應該包括對客戶服務應用程式在 Dynamics 365 應用程式套件中的角色的全面理解，以及對解決方案體系結構和品質保證的基本理解
+  
+  Dynamics 365客戶服務職能顧問必須具有豐富的客戶服務應用知識，包括&#58; 了解行業術語、優先級、標準、方法，客戶服務運營和最佳實踐。具有客戶服務專業知識的功能顧問必須具有透過Dynamics 365客戶服務滿足用戶需求的強大應用知識，包括對案例、知識管理、隊列、權利、資源調度、服務水平協議(SLA)、可視化、已連接服務、客戶服務見解，Power Virtual Agents 和用於客戶服務的 Omnichannel。應試者應該包括對客戶服務應用程式在 Dynamics 365 應用程式套件中的角色的全面理解，以及對解決方案體系結構和品質保證的基本理解
 subTitle: '該測驗衡量您完成以下技術任務的能力：管理案例和知識管理；管理隊列，權利和服務級別協議；執行調度；實作全渠道客戶服務；和管理分析。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
@@ -27,7 +28,7 @@ levels:
 skills:
 - 該測驗的內容更新于 2020 年 10 月 2日。請下載下面概述的測驗技能，以了解已發生什麼變化。
 - 管理案例和知識管理 (20-25%)
-- 管理隊列，權利和服務級別協議（SLA） (15-20%)
+- 管理隊列，權利和服務級別協議(SLA) (15-20%)
 - 實作計劃 (10-15%)
 - 實作客戶服務全渠道 (30-35%)
 - 管理分析 (10-15%)
@@ -37,7 +38,7 @@ products:
 - dynamics-365
 - dynamics-customer-service
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-230t01
 paths:

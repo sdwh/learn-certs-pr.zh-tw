@@ -1,0 +1,39 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Word 2016'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Word 2016'
+  description: 'Microsoft Office Specialist: Microsoft Word 2016'
+uid: certification.mos-word-2016
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  透過取得 Microsoft Office Specialist (MOS) 2016 認證，證明您具有充分利用 Word 所需的技能。Word 2016 認證的成功應試者具備對 Word 環境的基本了解，以及獨立完成工作的能力。
+subTitle: 該認證展現您取得特定 Office 程式的 Microsoft Office Specialist (MOS) 認證，具備充分運用 Office 所需的技能。
+levels:
+- intermediate
+skills:
+- 建立和管理文件
+- 格式化文字、段落和章節
+- 建立表格和清單
+- 建立及管理參考
+- 插入並設定圖形元素格式
+roles:
+- business-user
+type: mos
+products:
+- office-word
+exams:
+- uid: exam.77-725
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 测验重放
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: ../help.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

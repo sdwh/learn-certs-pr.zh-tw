@@ -1,0 +1,77 @@
+### YamlMime:Certification
+title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
+metadata:
+  title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
+  description: 'Microsoft 365 企業管理員參與評估，規劃，移轉，部署與管理 Microsoft 365 服務。'
+uid: certification.m365-enterprise-administrator
+certificationRenewalUid: renewal.m365-enterprise-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Microsoft 365 企業管理員評估，規劃，移轉，部署和管理 Microsoft 365 服務。
+
+  <div><br/><strong>有關MCSE&#58; 生產力解決方案專家認證將於 2021 年 1 月 31 日淘汰。在2022年1月31日之前（證書到期後一年），它將繼續有資格作為此證書的必備選項。</strong></div>
+subTitle: Microsoft 365 企業管理員評估，規劃，移轉，部署和管理 Microsoft 365 服務。
+levels:
+- advanced
+skills:
+- 設計和實作Microsoft 365服務
+- 管理用戶身份和角色
+- 管理存取和身份驗證
+- 規劃Office 365工作負載和應用程式
+- 實作現代設備服務
+- 實作Microsoft 365安全和威脅管理
+- 管理Microsoft 365治理和合規性
+roles:
+- administrator
+type: role-based
+products:
+- m365
+courses:
+- uid: course.ms-100t00
+- uid: course.ms-101t00
+paths:
+- uid: learn-m365.identity-and-access
+- uid: learn.security.manage-identity-and-access
+- uid: learn-m365.microsoft-365-get-modern
+- uid: learn-m365.m365-stay-current
+- uid: learn-m365.manage-enterprise-deployment-m365
+- uid: learn-m365.m365-cloud-security
+- uid: learn-m365.m365-security-threat-protection
+- uid: learn-m365.m365-security-management
+- uid: learn.security.manage-security-operations
+- uid: learn-m365.m365-messaging-secure-environment
+- uid: learn-m365.m365-compliance-information
+- uid: learn-m365.audit-safeguard-customer-data
+- uid: learn-m365.compliance-discover
+prerequisites:
+- uid: certification.modern-desktop
+  isOptional: false
+- uid: certification.m365-security-administrator
+  isOptional: false
+- uid: certification.m365-messaging-administrator
+  isOptional: false
+- uid: certification.mcse-productivity-certification
+  isOptional: false
+- uid: certification.m365-teams-administrator-associate
+  isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUi7
+exams:
+- uid: exam.ms-100
+- uid: exam.ms-101
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證海報
+  description: 查看基本知識、基於角色和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 测验重放
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: ../help.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

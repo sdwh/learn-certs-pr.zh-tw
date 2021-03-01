@@ -1,0 +1,72 @@
+### YamlMime:Examination
+title: Designing and Implementing a Microsoft Azure AI Solution (beta)
+metadata:
+  title: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution (beta)'
+  description: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution (beta)'
+uid: exam.ai-102
+displayName: AI-102
+summary: |-
+  考試 AI-102 的候選人應擁有利用 Azure Cognitive Services、Azure Cognitive Search 和 Microsoft Bot 框架構建、管理和部署 AI 解決方案的學科知識專長。
+  
+  本考試的候選人應精通 C#、Python 或 JavaScript 並應能夠使用基於 REST 的 APIs 和 SDKs 在 Azure 上構建電腦視覺、自然語言處理、知識挖掘和會話 AI 解決方案。他們還應該瞭解組成 Azure AI 組合的元件和可用的資料存儲選項。另外，候選人需要瞭解並能夠應用負責任的 AI 原則。
+  
+  <div><br/><font color='red'><strong>注釋&#58;本考試將於2021年2月23日開始。</strong></font></div>
+subTitle: '本考試將於2021年2月23日開始。本考試衡量你完成以下技術任務的能力：規劃和管理 Azure Cognitive Services 解決方案；實施電腦視覺解決方案；實施自然語言處理解決方案；實施知識挖掘解決方案；以及實施會話 AI 解決方案。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYD
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 規劃和管理 Azure Cognitive Services 解決方案(15-20%)
+- 實施電腦視覺解決方案(20-25%)
+- 實施自然語言處理解決方案(20-25%)
+- 實施知識挖掘解決方案(15-20%)
+- 實施對話 AI 解決方案(15-20%)
+roles:
+- ai-engineer
+products:
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-custom-vision
+- azure-face
+- azure-form-recognizer
+- azure-language-understanding
+- azure-qna-maker
+- azure-speech
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator
+- azure-translator-speech
+- azure-translator-text
+- azure-video-indexer
+relatedCertifications:
+- related:
+    uid: certification.azure-ai-engineer
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證海報
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 支持認證考試
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  href: ../help.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 請求無障礙設施
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: ../request-accommodations.md
+- title: 測驗政策和常見問題
+  description: 查看測驗政策和常見問題。
+  href: ../certification-exam-policies.md

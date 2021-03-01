@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: '更新您的 Microsoft Certified: Azure Data Scientist Associate'
+metadata:
+  title: '更新您的 Microsoft Certified: Azure Data Scientist Associate'
+  description: '如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。'
+uid: renewal.azure-data-scientist
+certificationUid: certification.azure-data-scientist
+assessmentId: 336d9230-44d1-4603-8056-a88d3a79daeb
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。通過更新評估，表明您已瞭解最新的Azure Machine Learning更新。您還可以準備精選的學習模組更新。
+skills:
+- Azure機器學習SDK簡介
+- 使用Azure機器學習訓練機器學習模型
+- 在Azure機器學習中使用資料
+- 在Azure機器學習中使用計算
+- 透過管道協調機器學習
+- 使用Azure機器學習部署實時機器學習服務
+- 使用Azure機器學習監控模型
+- 在Azure機器學習中使用自動化機器學習
+- 使用Azure機器學習設計器建立分類模型
+examsPassed:
+- dp-100
+studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft認證做準備：Azure資料科學家助理更新評估。'
+resources:
+- title: 關於證書更新
+  summary: 了解線上更新證書的過程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

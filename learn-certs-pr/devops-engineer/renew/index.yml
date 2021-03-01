@@ -1,0 +1,27 @@
+### YamlMime:CertificationRenewal
+title: '更新您的 Microsoft Certified: DevOps Engineer Expert'
+metadata:
+  title: '更新您的 Microsoft Certified: DevOps Engineer Expert'
+  description: '如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。'
+uid: renewal.devops-engineer
+certificationUid: certification.devops-engineer
+assessmentId: a2d734be-49cd-42e6-966e-e7278821234c
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。通過更新評估，表明您已瞭解最新的Azure和GitHub更新。您還可以準備精選的學習模組更新。
+skills:
+- 管理站點可靠性
+- 監視並報告Azure AD中的安全事件
+- 使用GitHub Actions將應用程式構建和部署到Azure
+- 使用GitHub指令碼自動化GitHub
+- 查看規劃和管理Azure成本
+- 使用Azure Artifacts管理構建依賴關係
+- 在Azure Pipelines中託管自己建立的代理
+examsPassed:
+- az-400
+studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft認證做準備：DevOps工程師專家更新評估。'
+resources:
+- title: 關於證書更新
+  summary: 了解線上更新證書的過程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

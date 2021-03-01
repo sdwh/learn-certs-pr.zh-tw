@@ -1,0 +1,49 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Office 2013'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Office 2013'
+  description: 'Microsoft Office Specialist: Microsoft Office 2013'
+uid: certification.microsoft-office-specialist-certification-2013
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  該認證展現您取得特定 Office 程式的 Microsoft Office Specialist (MOS) 認證，具備充分運用 Office 所需的技能。Office 2013 結合了雲端和 Web 技術，藉此擴展您建立與使用資訊的方式，同時也帶來全新的雲端應用程式模型，可供您建置兼具安全性與靈活性的應用程式，而這一切都可以透過您熟悉的 Office 介面進行。
+
+  要獲得 Microsoft Office Specialist on Microsoft Office 2013 認證，請通過7項考試中的任意一項或全部考試，以通過該特定計劃的認證&#58;
+  - [Exam 77-418&#58; Microsoft Office Word 2013](/learn/certifications/exams/77-418)
+  - [Exam 77-420&#58; Microsoft Office Excel 2013](/learn/certifications/exams/77-420)
+  - [Exam 77-422&#58; Microsoft Office PowerPoint 2013](/learn/certifications/exams/77-422)
+  - [Exam 77-423&#58; Microsoft Office Outlook 2013](/learn/certifications/exams/77-423)
+  - [Exam 77-424&#58; Microsoft Office Access 2013](/learn/certifications/exams/77-424)
+  - [Exam 77-419&#58; Microsoft SharePoint 2013](/learn/certifications/exams/77-419)
+  - [Exam 77-421&#58; Microsoft Office OneNote 2013](/learn/certifications/exams/77-421)
+subTitle: 該認證展現您取得特定 Office 程式的 Microsoft Office Specialist (MOS) 認證，具備充分運用 Office 所需的技能。Office 2013 結合了雲端和 Web 技術，藉此擴展您建立與使用資訊的方式，同時也帶來全新的雲端應用程式模型，可供您建置兼具安全性與靈活性的應用程式，而這一切都可以透過您熟悉的 Office 介面進行。
+levels:
+- beginner
+skills:
+- none
+roles:
+- business-user
+type: mos
+products:
+- office
+exams:
+- uid: exam.77-418
+- uid: exam.77-420
+- uid: exam.77-422
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證海報
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 支持認證
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  href: ../help.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

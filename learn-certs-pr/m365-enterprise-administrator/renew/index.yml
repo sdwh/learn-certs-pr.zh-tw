@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: '更新您的 Microsoft 365 Certified: Enterprise Administrator Expert'
+metadata:
+  title: '更新您的 Microsoft 365 Certified: Enterprise Administrator Expert'
+  description: '如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。'
+uid: renewal.m365-enterprise-administrator
+certificationUid: certification.m365-enterprise-administrator
+assessmentId: f28a7832-30d9-4fe7-afea-e88ec7ab4e5a
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。通過更新評估，表明您已保持最新的Microsoft 365更新。您還可以準備精選的學習模組更新。
+skills:
+- 使用System Center Configuration Manager透過共同管理來管理Windows 10
+- 使用Microsoft Endpoint Manager簡化設備管理
+- 使用Azure Active Directory簡化存取和身份配置
+- 使用連接器將郵件傳遞到Microsoft 365外部的信箱
+- 透過Microsoft Threat Protection防禦威脅
+- 在Microsoft 365中遷移使用者檔案和設置
+- 交付Microsoft 365 Apps和業務應用
+- 使用靈敏度標籤保護您的資料
+- 在Microsoft 365中管理內部風險
+examsPassed:
+- ms-100, ms-101
+studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft 365認證做準備：企業管理員專家更新評估。'
+resources:
+- title: 關於證書更新
+  summary: 了解線上更新證書的過程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

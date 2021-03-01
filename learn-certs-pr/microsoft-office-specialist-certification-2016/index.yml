@@ -1,0 +1,42 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Office 2016'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Office 2016'
+  description: 'Microsoft Office Specialist: Microsoft Office 2016'
+uid: certification.microsoft-office-specialist-certification-2016
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  該認證展現您取得特定 Office 程式的 Microsoft Office Specialist (MOS) 認證，具備充分運用 Office 所需的技能。有5种Microsoft Office Specialist認證&#58;
+  - 為了獲得 [Microsoft Office Specialist&#58; Microsoft Word 2016 Certification](/learn/certifications/mos-word-2016), 請先通過 [Exam 77-725&#58; Word 2016&#58; Core Document Creation, Collaboration and Communication](/learn/certifications/exams/77-725)
+  - 為了獲得 [Microsoft Office Specialist&#58; Microsoft Excel 2016 Certification](/learn/certifications/mos-excel-2016), 請先通過 [Exam 77-727&#58; Excel 2016&#58; Core Data Analysis, Manipulation, and Presentation](/learn/certifications/exams/77-727)
+  - 為了獲得 [Microsoft Office Specialist&#58; Microsoft PowerPoint 2016 Certification](/learn/certifications/mos-powerpoint-2016), 請先通過 [Exam 77-729&#58; PowerPoint 2016Core Presentation Design and Delivery Skills](/learn/certifications/exams/77 -729)
+  - 為了獲得 [Microsoft Office Specialist&#58; Microsoft Access 2016 Certification](/learn/certifications/mos-access-2016), 請先通過 [Exam 77-730&#58; Access 2016&#58; Core Database Management, Manipulation, and Query Skills](/learn/certifications/exams/77-730)
+  - 為了獲得 [Microsoft Office Specialist&#58; Microsoft Outlook 2016 Certification](/learn/certifications/mos-outlook-2016), 請先通過 [Exam 77-731&#58; Outlook 2016&#58; Core Communication, Collaboration and Email Skills](/learn/certifications/exams/77-731)
+  
+subTitle: 該認證展現您取得特定 Office 程式的 Microsoft Office Specialist (MOS) 認證，具備充分運用 Office 所需的技能。 <div style='bold;'>One exam</div> is required for the certification. 從Excel 2016, PowerPoint 2016, 或者 Word 2016裡面選擇。
+levels:
+- intermediate
+skills:
+- none
+roles:
+- developer
+type: mos
+products:
+- office
+exams:
+- uid: exam.77-725
+- uid: exam.77-727
+- uid: exam.77-729
+resources:
+- title: 訓練和認證指南
+  description: 在簡明的訓練和認證指南中探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 支持認證
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  href: ../help.md
+- title: 認證儀錶板
+  description: 檢閱並管理您的預定測驗、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx

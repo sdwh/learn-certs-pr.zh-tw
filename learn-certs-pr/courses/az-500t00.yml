@@ -42,21 +42,27 @@ exams:
 - uid: exam.az-500
 summary: |-
   本課程向IT安全專業人員提供實作安全控制，維護組織的安全狀況以及識別和修復安全漏洞所需的知識和技能。本課程包括身份和存取的安全性，平台保護，資料和應用程式以及安全性操作。
-
+  
   #### 對象設定檔
   本課程適用於計劃參加相關的認證測驗或在日常工作中執行安全任務的Azure安全工程師。對於希望專門為基於Azure的數字平台提供安全性並在保護組織資料中扮演不可或缺的角色的工程師，本課程也將有所幫助。
 prerequisitesSection: |-
-  為了充分利用本課程，學生應該&#58;
-  - 瞭解安全最佳實踐和行業安全要求，例如深度防禦，最低特權存取，基於角色的存取控制，多因素身份驗證，共享責任和零信任模型。
-  - 熟悉安全協議，例如虛擬專用網（VPN），Internet安全協議（IPSec），安全套接字層（SSL），磁碟和資料加密方法。
+  成功的學員將事先瞭解並理解&#58;
+  - 安全最佳實踐和行業安全要求，如深度防禦、最低特權訪問、基於角色的存取控制、多因素身份驗證、共用責任和零信任模型。
+  - 熟悉安全協議，例如虛擬專用網(VPN)，Internet安全協議(IPSec)，安全套接字層(SSL)，磁碟和資料加密方法。
   - 具有部署Azure工作負載的經驗。本課程不涉及Azure管理的基礎知識，而是透過添加特定於安全性的資訊來基於該知識構建課程內容。
   - 具有Windows和Linux操作系統以及腳本語言的經驗。課程實驗室可以使用PowerShell和CLI。
-
-  要準備上課，請考慮使用此免費的線上訓練。
-  - [Azure J基礎](/learn/paths/azure-fundamentals/)
-  - [AZ-104&#58; Prerequisites for Azure Administrators](/learn/paths/az-104-administrator-prerequisites/)
+  
+  先決條件課程(或同等知識及實際經驗)&#58;
+  
+  這項免費的線上培訓將為你提供在本課程中取得成功所需的經驗。
+  
+  - [AZ-104&#58; 在 Azure 中管理身份和治理 - 學習 | Microsoft Docs](/learn/paths/az-104-manage-identities-governance/)
+  - [AZ-104&#58; 在 Azure 中實施和管理存儲 - 學習 | Microsoft Docs](/learn/paths/az-104-manage-storage/)
+  - [AZ-104&#58; 為 Azure administrators 配置和管理 virtual networks - 學習 | Microsoft Docs](/learn/paths/az-104-manage-virtual-networks/)
+  - [AZ-104&#58; 監控和備份 Azure 資源 - 學習 | Microsoft Docs](/learn/paths/az-104-monitor-backup-resources/)
+  - [AZ-104&#58; 部署和管理 Azure 計算資源 - 學習 | Microsoft Docs](/learn/paths/az-104-manage-compute-resources/)
 outlineSection: |-
-  ### 模組1&#58; 管理身份和存取
+  ### 模組 1&#58; 管理身份和存取
   此模塊涵蓋Azure Active Directory，Azure身份保護，企業治理，Azure AD PIM和混合身份。
   #### 課程
   - Azure Active Directory
@@ -64,82 +70,82 @@ outlineSection: |-
   - 企業治理
   - Azure AD特權身份管理
   - 混合身份
-
+  
   #### 實驗室&#58; 基於角色的存取控制
-
+  
   #### 實驗室&#58; Azure策略
-
+  
   #### 實驗室&#58; 資源管理器鎖
-
+  
   #### 實驗室&#58; MFA，條件存取和AAD身份保護
-
+  
   #### 實驗室&#58; Azure AD特權身份管理
-
+  
   #### 實驗室&#58; 實作目錄同步
-
+  
   完成本單元後，學生將能夠&#58;
   - 實作企業治理策略，包括基於角色的存取控制，Azure策略和資源鎖定。
   - 實作Azure AD基礎結構，包括使用者，組和多因素身份驗證。
   - 實作Azure AD身份保護，包括風險策略，條件存取和存取審核。
   - 實作Azure AD特權身份管理，包括Azure AD角色和Azure資源。
   - 實作Azure AD Connect，包括身份驗證方法和內部目錄同步。
-
-
-  ### 模組2&#58; 實作平台保護
+  
+  
+  ### 模組 2&#58; 實作平台保護
   該模塊涵蓋外圍，網路，主機和容器的安全性。
   #### 課程
   - 周邊安全
   - 網路安全
   - 主機安全
   - 集裝箱安全
-
+  
   #### 實驗室&#58; 網路安全組和應用程式安全組
-
+  
   #### 實驗室&#58; Azure防火牆
-
+  
   #### 實驗室&#58; 設定和保護ACR和AKS
-
+  
   完成本單元後，學生將能夠&#58;
   - 實作外圍安全策略，包括Azure防火牆。
   - 實作網路安全策略，包括網路安全組和應用程式安全組。
   - 實作主機安全策略，包括端點保護，遠程存取管理，更新管理和磁碟加密。
   - 實作容器安全策略，包括Azure容器實例，Azure容器註冊表和Azure Kubernetes。
-
-
-  ### 模組3&#58; 保護資料和應用程式
+  
+  
+  ### 模組 3&#58; 保護資料和應用程式
   此模塊涵蓋Azure Key Vault，應用程式安全性，存儲安全性和SQL資料庫安全性。
   #### 課程
   - Azure Key Vault
   - 應用安全
   - 儲存體安全性
   - SQL資料庫安全
-
-  #### 實驗室&#58; 密鑰保管箱（透過設置始終加密來實作安全資料）
-
+  
+  #### 實驗室&#58; 密鑰保管箱(透過設置始終加密來實作安全資料)
+  
   #### 實驗室&#58; 保護Azure SQL資料庫
-
+  
   #### 實驗室&#58; 服務端點和保護存儲
-
+  
   完成本單元後，學生將能夠&#58;
   - 實作Azure密鑰保管庫，包括證書，密鑰和機密。
   - 實作應用程式安全策略，包括應用程式註冊、受控身份和服務端點。
   - 實作存儲安全策略，包括共享存取簽名、blob保留策略和Azure檔案身份驗證。
   - 實作資料庫安全策略，包括身份驗證、資料分類、動態資料屏蔽和始終加密。
-
-
-  ### 模組4&#58; 管理安全操作
+  
+  
+  ### 模組 4&#58; 管理安全操作
   此模塊涵蓋Azure監視器，Azure安全中心和Azure Sentinel。
   #### 課程
   - Azure 監視器
   - Azure安全中心
   - Azure Sentinel
-
+  
   #### 實驗室&#58; Azure監控器
-
+  
   #### 實驗室&#58; Azure安全中心
-
+  
   #### 實驗室&#58; Azure Sentinel
-
+  
   完成本單元後，學生將能夠&#58;
   - 實作Azure Monitor，包括連接的源，日誌分析和警報。
   - 實作Azure安全中心，包括策略、建議和及時的虛擬機存取。

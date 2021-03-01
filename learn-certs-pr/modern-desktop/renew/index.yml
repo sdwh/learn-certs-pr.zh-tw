@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: '更新您的 Microsoft 365 Certified: Modern Desktop Administrator Associate'
+metadata:
+  title: '更新您的 Microsoft 365 Certified: Modern Desktop Administrator Associate'
+  description: '如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。'
+uid: renewal.m365-modern-desktop
+certificationUid: certification.modern-desktop
+assessmentId: 8602eec7-4017-456f-a878-62fe16630114
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。通過更新評估，表明您已保持最新的Microsoft 365更新。您還可以準備精選的學習模組更新。
+skills:
+- 使用Windows Autopilot自動化Windows部署
+- 使用Microsoft Endpoint Manager簡化設備管理
+- 使用Windows 10完成更多工作並保持安全
+- 使用Microsoft 365遷移到現代個人電腦
+- 使用Microsoft Intune管理設備
+- 使用System Center Configuration Manager透過共同管理來管理Windows 10
+- 使用Microsoft Endpoint Manager簡化設備管理
+- 部署，升級和遷移到Windows 10
+- 使用Microsoft Intune管理應用程式
+examsPassed:
+- md-100, md-101
+studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft 365認證做準備：現代個人電腦管理員助理更新評估。'
+resources:
+- title: 關於證書更新
+  summary: 了解線上更新證書的過程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

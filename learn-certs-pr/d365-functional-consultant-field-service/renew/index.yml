@@ -1,0 +1,26 @@
+### YamlMime:CertificationRenewal
+title: '更新您的 Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+metadata:
+  title: '更新您的 Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+  description: '如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。'
+uid: renewal.d365-functional-consultant-field-service
+certificationUid: certification.d365-functional-consultant-field-service
+assessmentId: 8ae55969-c279-47f9-83f7-2c75be7c57be
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。通過更新評估，表明您保持最新的Dynamics 365現場服務更新。您還可以準備精選的學習模組更新。
+skills:
+- 在Dynamics 365現場服務中設定可預訂​​資源
+- 將Dynamics 365遠程協助與Dynamics 365現場服務整合
+- 在Dynamics 365現場服務中自訂排程面板
+- 部署資源排程最佳化
+- 開始使用Microsoft Dynamics 365現場服務行動版
+- 開始使用Dynamics 365和Azure IoT的Connected Field Service
+examsPassed:
+- pl-200, mb-240
+studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft認證做準備：Dynamics 365現場服務功能顧問助理更新評估。'
+resources:
+- title: 關於證書更新
+  summary: 了解線上更新證書的過程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

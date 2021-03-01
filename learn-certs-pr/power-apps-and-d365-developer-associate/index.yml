@@ -1,0 +1,74 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
+metadata:
+  title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
+  description: 處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。應試者實作解決方案的元件，包括應用程式增強功能，自訂使用者體驗、系統整合、資料轉換自訂流程自動化和自訂視覺效果。
+uid: certification.power-apps-and-d365-developer-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div>
+  <div><strong>該認證已失效。有關當前可用的選項，請參閱<a href="/learn/certifications/browse/">流覽認證和考試頁面</a>。您在結束日期之前獲得的任何認證將繼續出現在您的<a href="https://aka.ms/certdashboard">認證儀錶板</a>中的成績單上。</strong><br/><br/></div></div>
+
+  處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。應試者實作解決方案的元件，包括應用程式增強功能，自訂使用者體驗，系統整合，資料轉換，自訂流程自動化和自訂視覺效果。
+
+subTitle: 處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。
+levels:
+- intermediate
+skills:
+- 執行探索，計畫和分析
+- 管理使用者體驗設計
+- 管理實體和數據
+- 實作安全
+- 實作整合
+- 執行解決方案部署和測試
+- 建立一項技術設計
+- 設定公共資料服務
+- 創建和設定 Power Apps
+- 配置業務流程自動化
+- 擴展使用者體驗
+- 擴展平台
+- 開發整合
+roles:
+- developer
+type: role-based
+products:
+- dynamics-365
+- dynamics-customer-engagement
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-bizapps.get-started-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
+- uid: learn-dynamics.introduction-development
+- uid: learn-dynamics.extend-power-platform-model-driven-apps
+- uid: learn-dynamics.extend-power-platform-common-data-service
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42Fcm
+exams:
+- uid: exam.mb-200
+- uid: exam.mb-400
+resources:
+- title: 認證海報
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認證之旅
+  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkSW
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證學習途徑
+  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C5rO
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: ../help.md
+
