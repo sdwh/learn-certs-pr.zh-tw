@@ -61,7 +61,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
-  href: deals.md
+  href: ../deals.md
 - title: 支持認證
   description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
   href: ../help.md

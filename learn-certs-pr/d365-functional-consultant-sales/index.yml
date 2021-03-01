@@ -72,7 +72,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0T
 - title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
-  href: deals.md
+  href: ../deals.md
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
