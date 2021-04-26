@@ -10,10 +10,11 @@ summary: |-
   
   該考試的考生須具備資訊技術(IT)環境的常識或相關工作經驗。他們也應該對財務原理和業務運營具備基本的認識。
   
-  <div><br/><strong>注意&#58; 該考試將於2021年2月開始。</strong></div>
-subTitle: '該考試將於2021年2月開始。該考試測試您描述以下內容的能力：Dynamics 365 Supply Chain Management; Dynamics Finance; Dynamics 365 Commerce; Dynamics 365 Human Resources; “專案運營”； Dynamics 365 Business Central; 以及共用的特性。'
+  <div><br/><font color='red'><strong>Beta考試不會立即進行評分，這是因為我們正在收集關於問題和考試品質的資料。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">瞭解更多關於beta考試的價值及重要性</a>.</strong></font></div>
+subTitle: '本次考試測試您描述以下內容的能力：Dynamics 365 Supply Chain Management; Dynamics Finance; Dynamics 365 Commerce; Dynamics 365 Human Resources; 專案運營；以及共用的特性。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JFBT
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-920&examname=Exam%20MB-920:%20Microsoft%20Dynamics%20365%20Fundamentals%20Finance%20and%20Operations%20Apps%20(ERP)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-920
 locales:
 - en
 levels:
@@ -24,7 +25,6 @@ skills:
 - 描述Dynamics 365 Commerce (10-15%)
 - 描述Dynamics 365 Human Resources (5-10%)
 - 描述Project Operations (10-15%)
-- 描述Dynamics 365 Business Central (5-10%)
 - 描述共用的特性 (10-15%)
 roles:
 - business-owner
@@ -34,10 +34,19 @@ roles:
 products: 
 - dynamics-365
 - dynamics-finance-operations
+paths:
+- uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
+- uid: learn.wwl.explore-microsoft-dynamics-365-finance
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-commerce
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-human-resources
+- uid: learn.wwl.explore-microsoft-dynamics-365-project-operations-erp
 relatedCertifications:
 - related:
     uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 resources:
+- title: 認證學習路徑
+  description: 推薦的培訓資源可助您準備必需的考試並獲得認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub 
 metadata:
-  title: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)'
-  description: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)'
+  title: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  description: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
 uid: exam.az-600
 displayName: AZ-600
 summary: |-
@@ -10,13 +10,12 @@ summary: |-
   
   該考試的候選人應具有管理和操作 Azure Stack Hub 環境的豐富經驗。除了一些虛擬化、網路和身份管理方面的知識外，他們還應該對 Azure 有很強的理解。他們需要瞭解 Azure Stack Hub 是如何啟用 DevOps 進程和混合開發模型的。
   
-  <div><strong><br/>Beta 考試不會立即得分，因為我們正在收集有關問題和考試品質的資料。瞭解<a href="/learn/certifications/certification-exams#participating-in-beta-exams">關於 beta 考試的價值和重要性</a>。</strong></div>
 subTitle: '本考試衡量您完成以下技術任務的能力：提供服務；實施資料中心集成；管理身份和訪問；以及管理基礎設施。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Lwq9
 providers:
   - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-600&examname=Exam%20AZ-600:%20Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-600
+    examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-600&examname=Exam%20AZ-600:%20Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-600
 locales:
 - en
 levels:
@@ -37,6 +36,8 @@ products:
 - azure-app-service
 - azure-event-hubs
 - azure-active-directory
+courses:
+- uid: course.az-600t00
 relatedCertifications:
 - related:
     uid: certification.azure-stack-hub-operator
