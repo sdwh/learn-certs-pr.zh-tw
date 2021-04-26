@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Information Protection Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Information Protection Administrator Associate'
+  description: 資訊保護管理員計畫並實施用於滿足組織合規需求的那些控制。該人員負責將需求及合規控制轉化為技術實施。他們協助組織控制所有者成為並保持合規。
+uid: certification.information-protection-administrator 
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  資訊保護管理員計畫並實施用於滿足組織合規需求的那些控制。該人員負責將需求及合規控制轉化為技術實施。他們協助組織控制所有者成為並保持合規。
+
+  他們與資訊技術 (IT) 人員、業務應用程式所有者、人力資源及合法的利益相關者合作，以實施支持政策和控制的技術，而這些政策和控制是充分滿足其組織的法規要求所必需的。他們還與合規和安全領導（如首席合規官和安全官）合作，評估相關企業風險的全部範圍，並合作制定這些策略。
+
+  該人員可定義適用要求，並根據這些策略和控制來測試IT流程及操作。他們負責創建用於內容分類、資料丟失防護、治理及保護的策略和規則。
+subTitle: 資訊保護管理員計畫並實施用於滿足組織合規需求的那些控制。該人員負責將需求及合規控制轉化為技術實施。他們協助組織控制所有者成為並保持合規。
+levels:
+- intermediate
+skills:
+- 實施資訊保護
+- 實施資料丟失防護 
+- 實施資訊治理
+roles:
+- administrator
+- ip-admin
+- risk-practitioner
+- security-engineer
+type: role-based
+products:
+- office-teams
+- office-sp
+- m365
+- m365-ems-cloud-app-security
+courses:
+- uid: course.sc-400t00
+paths:
+- uid: learn.wwl.implement-information-protection
+- uid: learn.wwl.implement-data-loss-prevention
+- uid: learn.wwl.implement-information-governance
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp6
+exams:
+- uid: exam.sc-400
+resources:
+- title: 認證海報
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: ../help.md
