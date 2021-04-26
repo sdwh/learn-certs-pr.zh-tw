@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
-  description: '該證書將於2021年2月生效。如果您對Dynamics 365的企業資源規劃(ERP)能力有廣泛的瞭解，並且瞭解財務和運營應用程式如何在Microsoft整體生態系統中發揮作用的基本原理，那麼該證書就是為您而量身定制的。'
+  description: '如果您對Dynamics 365的企業資源規劃(ERP)能力有廣泛的瞭解，並且瞭解財務和運營應用程式如何在Microsoft整體生態系統中發揮作用的基本原理，那麼該證書就是為您而量身定制的。'
 uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
@@ -17,8 +17,7 @@ summary: |-
   - 想要對業務運營、財務和ERP有更加深入瞭解的開發人員
   - 想要利用Dynamics 365財務和運營應用程式更上一層樓的學生、應屆畢業生和正在轉行的人士
   
-  <div><br/><strong>注意&#58; 該證書將於2021年2月生效。</strong></div>
-subTitle: '該證書將於2021年2月生效。如果您對Dynamics 365的企業資源規劃(ERP)能力有廣泛的瞭解，並且瞭解財務和運營應用程式如何在Microsoft整體生態系統中發揮作用的基本原理，那麼該證書就是為您而量身定制的。'
+subTitle: '如果您對Dynamics 365的企業資源規劃(ERP)能力有廣泛的瞭解，並且瞭解財務和運營應用程式如何在Microsoft整體生態系統中發揮作用的基本原理，那麼該證書就是為您而量身定制的。'
 levels:
 - beginner
 skills:
@@ -27,7 +26,6 @@ skills:
 - 描述Dynamics 365 Commerce
 - 描述Dynamics 365 Human Resources
 - 描述Project Operations
-- 描述Dynamics 365 Business Central
 - 描述共用的特性
 roles:
 - business-owner
@@ -38,6 +36,12 @@ type: fundamentals
 products: 
 - dynamics-365
 - dynamics-finance-operations
+paths:
+- uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
+- uid: learn.wwl.explore-microsoft-dynamics-365-finance
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-commerce
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-human-resources
+- uid: learn.wwl.explore-microsoft-dynamics-365-project-operations-erp
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JKOU
 exams:
 - uid: exam.mb-920
@@ -45,9 +49,15 @@ resources:
 - title: 認證海報
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認證之旅
+  description: 探索獲得認證的步驟以及説明您進行準備的可用資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAWQX
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證學習路徑
+  description: 推薦的培訓資源可助您準備必需的考試並獲得認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
 - title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

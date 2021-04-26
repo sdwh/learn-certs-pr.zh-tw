@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: Microsoft Azure Developer Core Solutions (beta)
+title: Microsoft Azure Developer Core Solutions
 metadata:
-  title: '測驗 AZ-200: Microsoft Azure Developer Core Solutions (beta)'
-  description: '測驗 AZ-200: Microsoft Azure Developer Core Solutions (beta)'
+  title: '測驗 AZ-200: Microsoft Azure Developer Core Solutions'
+  description: '測驗 AZ-200: Microsoft Azure Developer Core Solutions'
 uid: exam.az-200
 displayName: AZ-200
 summary: "<div><strong>該測驗已於 2019年1月03日到期。測驗將在中部標準時間晚間11點59分到期</strong></div>\n<br/>   \n此測驗的應試者是負責設計與構建雲端解決方法（如應用程式與服務等）的 Azure 開發人員。他們參與了開發過程的全部階段，包括從解決方法設計到開發與部署，再到測試與維護。他們與雲端解決方法架構師、雲端 DBA、雲端管理員以及實作解決方法的客戶進行過合作。\n\n應試者應精通使用 Azure 工具與技術（包括儲存、安全、計算與通信）開發應用與服務。\n\n應試者必須在軟體開發的全部階段擁有至少一年的可擴展解決方法開發經驗，而且需要精通至少一種雲端支援程式設計語言。"

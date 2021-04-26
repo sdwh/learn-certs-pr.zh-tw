@@ -1,0 +1,69 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals'
+  description: '證明您熟悉Microsoft Azure和Microsoft 365，並瞭解Microsoft安全、合規及標識解決方案如何能夠跨越這些解決方案領域，以提供一個整體和端到端的解決方案。'
+uid: certification.security-compliance-and-identity-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  該認證的目標是那些希望熟悉安全、合規及標識 (SCI) 的基本原理的人群，而這些原理貫穿基於cloud的和相關的Microsoft服務。
+
+  這是一個廣泛的受眾，其中可能包括業務利益相關者、新的或現有的IT專業人員，或者對Microsoft安全、合規及標識解決方案感興趣的學生。
+
+  考生應熟悉Microsoft Azure和Microsoft 365，並瞭解Microsoft安全、合規及標識解決方案如何能夠跨越這些解決方案領域，以提供一個整體和端到端的解決方案。
+subTitle: 證明您熟悉Microsoft Azure和Microsoft 365，並瞭解Microsoft安全、合規及標識解決方案如何能夠跨越這些解決方案領域，以提供一個整體和端到端的解決方案。
+levels:
+- beginner
+skills:
+- 描述安全、合規及標識的概念
+- 描述Microsoft身份和訪問管理解決方案的能力 
+- 描述Microsoft安全解決方案的能力
+- 描述Microsoft合規解決方案的能力 
+roles:
+- business-user
+- student
+type: fundamentals
+products:
+- azure
+- azure-active-directory
+- azure-bastion
+- azure-blueprints
+- azure-ddos-protection
+- azure-firewall
+- azure-policy
+- azure-security-center
+- azure-sentinel
+- azure-web-application-firewall
+- m365
+- mem-intune
+- m365-ems-cloud-app-security
+- m365-threat-protection
+- m365-security-score
+- m365-security-center
+- mdatp
+- mem
+- office-365-atp
+paths:
+- uid: learn.wwl.describe-concepts-of-security-compliance-identity
+- uid: learn.wwl.describe-capabilities-of-microsoft-identity-access-management-solutions
+- uid: learn.wwl.describe-capabilities-of-microsoft-security-solutions
+- uid: learn.wwl.describe-capabilities-of-microsoft-compliance-solutions
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp7
+exams:
+- uid: exam.sc-900
+resources:
+- title: 認證海報
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: ../help.md

@@ -7,48 +7,70 @@ uid: certification.azure-ai-engineer
 certificationRenewalUid: renewal.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>考試 AI-100 將於2021年2月23日替換為 <a href='/learn/certifications/exams/ai-102'>EXAM AI-102</a>。在2021年6月30日考試結束前，若通過考試 AI-100，你仍然可以獲得此認證。</strong></font><br/><br/></div>
+  <div><font color='red'><strong><a href='/learn/certifications/exams/ai-102'>考試 AI-102</a> 正在取代AI-100考試。AI-100將於2021年6月30日失效。</strong></font><br/><br/></div>
+
+  Azure AI Engineer Associate認證的考生應具備專業技能，這些技能利用Azure Cognitive Services、Azure Cognitive Search及“Microsoft Bot框架”來構建、管理並部署AI解決方案。
+
+  他們的職責包括參與AI解決方案開發的所有階段——從需求定義和設計到開發、部署、維護、性能優化及監控。
   
-  Azure AI Engineer Associate 認證的應試者應具有使用認知服務，機器學習和知識挖掘的主題專業知識，以架構和實作涉及自然語言處理，語音，電腦視覺和對話式 AI 的 Microsoft AI 解決方案。
-  
-  擔任此職務的職責包括分析對 AI 解決方案的需求，推薦適當的工具和技術，以及設計和實現滿足可伸縮性和效能要求的 AI 解決方案。
-  
-  Azure AI工程師將解決方案架構師的願景轉化為事實，並與資料科學家、資料工程師、IoT 專家和軟體開發人員合作，以構建完整的端到端解決方案。
-  
-  參加此認證的應試者應具有設計和實作使用 Microsoft Azure 認知服務，Azure 機器人服務，Azure 認知搜尋和 Azure 中資料存儲的 AI 應用程式和代理的知識和經驗。此外，應試者應能夠推薦使用開源技術的解決方案，了解構成 Azure AI 產品組合的組件和可用的資料存儲選項，並了解何時應開發自訂API以滿足特定要求。
+  Azure AI工程師與解決方案架構師合作，轉換他們的願景，並與資料科學家、資料工程師、IoT專家及AI開發人員一起構建完整的端到端AI解決方案。
+
+  該認證的考生應精通C#, Python, 或者JavaScript，並應能使用基於REST的API和SDK在Azure上構建電腦視覺、自然語言處理、知識挖掘以及對話式AI解決方案。他們還應瞭解構成Azure AI組合的那些元件以及可用的資料存儲選項。此外，考生還需瞭解並能應用負責任的AI準則。
+
+  <div><br/><strong>如果您通過以下考試之一，您將會獲得該證書&#58;</strong><br/>
+  <ul>
+  <li><a href="/learn/certifications/exams/ai-100">AI-100</a> （2021年6月30日失效） <strong>或者</strong></li>
+  <li><a href="/learn/certifications/exams/ai-102">AI-102</a> （測試版於2021年2月23日發佈）</li></ul></div>
 subTitle: Azure AI 工程師構建、管理和部署利用 Azure Cognitive Services、Azure Cognitive Search 和 Microsoft Bot 框架的 AI 解決方案。
 levels:
 - intermediate
 skills:
-- 分析解決方案要求
-- 設計 AI 解決方案
-- 實作和監控 AI 解決方案
+- 計畫並管理Azure Cognitive Services解決方案
+- 實施“電腦視覺”解決方案
+- 實施自然語言處理解決方案
+- 實施知識挖掘解決方案
+- 實施對話式AI解決方案
 roles:
 - ai-engineer
 type: role-based
 products:
-- azure
-- azure-cognitive-services
 - azure-bot-service
-- azure-machine-learning-studio
-- azure-search
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-custom-vision
+- azure-face
+- azure-form-recognizer
+- azure-language-understanding
+- azure-qna-maker
+- azure-speech
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator
+- azure-translator-speech
+- azure-translator-text
+- azure-video-indexer
 courses:
-- uid: course.ai-100t01
+- uid: course.ai-102t00
 paths:
 - uid: learn.data-ai.evaluate-text-with-language-services
-- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
-- uid: learn.data-ai.create-bots-with-the-azure-bot-service
+- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services														   
 - uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
+- uid: learn.wwl.process-natural-language-azure-cognitive-language-services
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
+- uid: learn.wwl.create-conversational-ai-solutions
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf
 exams:
-- uid: exam.ai-100
+- uid: exam.ai-102
 resources:
+- title: 認證之旅
+  description: 探索獲得Azure AI Engineer Associate認證的步驟以及説明您進行準備的可用資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWy1S2
 - title: Azure 認證海報
   description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 認證之旅
-  description: 探索獲得 Azure AI Engineer Associate 認證的步驟以及可用來幫助您進行準備的資源。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

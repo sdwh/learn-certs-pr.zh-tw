@@ -1,0 +1,55 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Identity and Access Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Identity and Access Administrator Associate'
+  description: 通過使用Azure AD，Microsoft身份和訪問管理員設計、實施並操作一個組織的身份和訪問管理系統。他們管理一些任務，例如為企業應用程式提供安全的身份驗證及授權訪問。
+uid: certification.identity-and-access-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  通過使用Azure Active Directory (Azure AD)，“Microsoft身份和訪問管理員”設計、實施並操作一個組織的身份和訪問管理系統。他們管理一些任務，例如為企業應用程式提供安全的身份驗證及授權訪問。該管理員為所有用戶提供無縫體驗及自助服務管理能力。適應性訪問和治理是該角色的核心元素。該角色還負責標識和訪問環境的故障排除、監控及報告。
+
+  身份和訪問管理員可以是單獨的個體，或是較大團隊的成員。該角色與組織中的許多其他角色協作，以推動戰略身份項目，從而實現身份解決方案的現代化，實施混合標識解決方案，並實施身份治理。
+subTitle: 通過使用Azure AD，Microsoft身份和訪問管理員設計、實施並操作一個組織的身份和訪問管理系統。他們管理一些任務，例如為企業應用程式提供安全的身份驗證及授權訪問。
+levels:
+- advanced
+skills:
+- 實施身份管理解決方案 
+- 實施身份驗證及訪問管理解決方案 
+- 實施應用程式訪問管理 
+- 計畫並實施身份治理戰略
+roles:
+- administrator
+- identity-access-admin
+- security-engineer
+type: role-based
+products:
+- azure
+- azure-active-directory
+- azure-log-analytics
+- azure-sentinel
+courses:
+- uid: course.sc-300t00
+paths:
+- uid: learn.wwl.implement-identity-management-solution
+- uid: learn.wwl.implement-authentication-access-management-solution
+- uid: learn.wwl.implement-access-management-for-apps
+- uid: learn.wwl.plan-implement-identity-governance-strategy
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr7Z
+exams:
+- uid: exam.sc-300
+resources:
+- title: 認證海報
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: ../help.md

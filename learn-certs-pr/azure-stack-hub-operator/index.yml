@@ -33,6 +33,8 @@ products:
 - azure-app-service
 - azure-event-hubs
 - azure-active-directory
+courses:
+- uid: course.az-600t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4LyWu
 exams:
 - uid: exam.az-600
