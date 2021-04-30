@@ -45,21 +45,21 @@ ms.author: micsullivan
 
 1. 查看以下關鍵 Microsoft 認證資料：
 	1. [關於使用 PSI 在線考試](/learn/certifications/online-exams-psi) 包括參與國家/地區、系統要求、測試協議要求、線上考試過程等。  
-	2. 在要測試的同一臺計算機上和同一位置上[運行系統檢查](https://syscheck.bridge.psiexams.com/)。
+	2. 在要測試的同一臺計算機上和同一位置上[運行系統檢查。](https://syscheck.bridge.psiexams.com/)
 2. 確保您擁有 Microsoft 帳戶
 	1. 如果您已經取得 Microsoft 認證或參加過 Microsoft 認證考試，請使用相同的 Microsoft 帳戶。  
-	2. 如果您需要一個 Microsoft 帳戶，請[創建一個](https://account.microsoft.com/account/manage-my-account)。
+	2. 如果您需要一個 Microsoft 帳戶，請[創建一個。](https://account.microsoft.com/account/manage-my-account)
 3. 如果您沒有 Microsoft 認證個人資料，則在安排考試時會提示您創建。<br/>**重要提示：** 創建認證個人資料時，請確保您的姓名與參加考試時將使用的政府頒發的身份證件完全匹配。作為身份驗證過程的一部分，監考人員會將您 ID 上的姓名與您認證個人資料中的姓名進行比較。進一步了解 [身份驗證要求](/learn/certifications/online-exams-psi#identity-verification-requirements)。
 
-如果需要幫助，請訪問 [Microsoft 認證支持論壇](https://aka.ms/mcpforum)。要聯絡客戶支持代理，請點擊頁面頂部的 *提問* 並填寫表格。支持代理應在 1 個工作日內回復。
+如果需要幫助，請訪問 [Microsoft 認證支持論壇。](https://aka.ms/mcpforum) 要聯絡客戶支持代理，請點擊頁面頂部的 *提問* 並填寫表格。支持代理應在 1 個工作日內回復。
 
 ## FAQ
 
-有關 PSI 線上考試的常見問題和解答，請參見 [關於 PSI 線上考試頁面上的常見問題解答](/learn/certifications/online-exams-psi#frequently-asked-questions)。有關技能方案的一般問題和解答，請參閱[技能方案常見問題解答](https://aka.ms/JobSeekerFAQ)。
+有關 PSI 線上考試的常見問題和解答，請參見 [關於 PSI 線上考試頁面上的常見問題解答](/learn/certifications/online-exams-psi#frequently-asked-questions)。有關技能方案的一般問題和解答，請參閱 [技能方案常見問題解答。](https://aka.ms/JobSeekerFAQ)
 
 ## <a name="terms-conditions"></a> 條款與條件
 
-- 這項考試優惠適用於可以證明自己由於 COVID-19 而失業或休假的求職者。
+- 這項測驗優惠適用於可以證明由於 COVID-19 而失業或暫時被解僱的求職者，以及正在積極報名高中、學院、大學或其他專業技術訓練計劃的學生。
 - 您必須年滿 18 歲才能訪問和使用此考試優惠。
 - 此考試優惠僅適用於有限數量的合格個人和預約考試。
 - 此考試優惠使您能夠以 15 美元的特殊限時折扣價註冊並參加一(1)次有效的 Microsoft 認證考試。錄取將於2021年12月31日截止。
@@ -75,4 +75,4 @@ ms.author: micsullivan
 
 *&#42;考試必須提前24小時預定。因此，如果您想在錄取的最後一天（2021年12月31日）參加考試，就必須在2021年12月30日之前預定。*
 
-有關更多資訊，請參閱完整的 [Microsoft使用條款](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx).
+有關更多資訊，請參閱完整的 [Microsoft使用條款。](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx)
