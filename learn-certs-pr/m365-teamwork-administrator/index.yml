@@ -65,4 +65,7 @@ resources:
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 分享您的認證徽章
+  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+  href: ../badges.md
 
