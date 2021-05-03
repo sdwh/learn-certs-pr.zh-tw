@@ -9,7 +9,6 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   Microsoft 365 企業管理員評估，規劃，移轉，部署和管理 Microsoft 365 服務。
 
-  <div><br/><strong>有關MCSE&#58; 生產力解決方案專家認證將於 2021 年 1 月 31 日淘汰。在2022年1月31日之前（證書到期後一年），它將繼續有資格作為此證書的必備選項。</strong></div>
 subTitle: Microsoft 365 企業管理員評估，規劃，移轉，部署和管理 Microsoft 365 服務。
 levels:
 - advanced
@@ -49,10 +48,10 @@ prerequisites:
 - uid: certification.m365-security-administrator
   isOptional: false
 - uid: certification.m365-messaging-administrator
-  isOptional: false
-- uid: certification.mcse-productivity-certification
-  isOptional: false
+  isOptional: false												   
 - uid: certification.m365-teams-administrator-associate
+  isOptional: false
+- uid: certification.identity-and-access-administrator
   isOptional: false
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUi7
 exams:
@@ -74,4 +73,7 @@ resources:
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 分享您的認證徽章
+  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+  href: ../badges.md
 

@@ -68,4 +68,7 @@ resources:
 - title: 支援認證
   description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
   href: ../help.md
+- title: 分享您的認證徽章
+  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+  href: ../badges.md
 
