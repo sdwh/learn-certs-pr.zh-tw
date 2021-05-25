@@ -1,20 +1,18 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)
+title: Microsoft Dynamics 365 Fundamentals (ERP)
 metadata:
-  title: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)'
-  description: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)'
+  title: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)'
+  description: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)'
 uid: exam.mb-920
 displayName: MB-920
 summary: |-
   該考試涵蓋了Microsoft Dynamics 365財務和運營應用程式的特性和能力。
   
   該考試的考生須具備資訊技術(IT)環境的常識或相關工作經驗。他們也應該對財務原理和業務運營具備基本的認識。
-  
-  <div><br/><font color='red'><strong>Beta考試不會立即進行評分，這是因為我們正在收集關於問題和考試品質的資料。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">瞭解更多關於beta考試的價值及重要性</a>.</strong></font></div>
 subTitle: '本次考試測試您描述以下內容的能力：Dynamics 365 Supply Chain Management; Dynamics Finance; Dynamics 365 Commerce; Dynamics 365 Human Resources; 專案運營；以及共用的特性。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JFBT
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-920&examname=Exam%20MB-920:%20Microsoft%20Dynamics%20365%20Fundamentals%20Finance%20and%20Operations%20Apps%20(ERP)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-920
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-920&examname=Exam%20MB-920:%20Microsoft%20Dynamics%20365%20Fundamentals%20(ERP)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-920
 locales:
 - en
 levels:
@@ -31,9 +29,11 @@ roles:
 - business-user
 - functional-consultant
 - student
-products: 
+products:
 - dynamics-365
 - dynamics-finance-operations
+courses:
+- uid: course.mb-920t00
 paths:
 - uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
 - uid: learn.wwl.explore-microsoft-dynamics-365-finance
@@ -49,7 +49,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI

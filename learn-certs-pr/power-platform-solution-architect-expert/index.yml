@@ -14,7 +14,6 @@ summary: |-
   - 在 Power Platform 專案中擔任(或跟隨)解決方案架構師。
   - 報名參加講師指導的培訓課程。
   - 在[Microsoft Learn](/learn/paths/become-solution-architect/)上探索可用的學習路徑。
-  
 subTitle: Power Platform 解決方案架構師專家與利益相關者合作，專注於影響其組織廣泛業務和技術需求的解決方案。候選人擁有 Power Platform、Dynamics 365 客戶參與應用、相關 Microsoft cloud 解決方案和協力廠商技術的功能和技術知識。
 levels:
 - advanced
@@ -43,6 +42,9 @@ products:
 - azure-api-apps
 - azure-app-configuration
 - azure-app-service
+paths:
+- uid: learn-dynamics.become-solution-architect
+- uid: learn-bizapps.solution-architect-design
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56P
 exams:
 - uid: exam.pl-600
@@ -57,7 +59,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

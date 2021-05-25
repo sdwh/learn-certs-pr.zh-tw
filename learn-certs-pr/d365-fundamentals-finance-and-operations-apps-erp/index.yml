@@ -1,7 +1,7 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
   description: '如果您對Dynamics 365的企業資源規劃(ERP)能力有廣泛的瞭解，並且瞭解財務和運營應用程式如何在Microsoft整體生態系統中發揮作用的基本原理，那麼該證書就是為您而量身定制的。'
 uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -15,8 +15,7 @@ summary: |-
   - 技術專業人士和商業決策者，他們正在探索如何將Dynamics 365的功能性與他們正在使用的應用程式集成在一起
   - 業務涉眾和其他使用Dynamics 365並想要證明他們理解該平臺的基本原理的人
   - 想要對業務運營、財務和ERP有更加深入瞭解的開發人員
-  - 想要利用Dynamics 365財務和運營應用程式更上一層樓的學生、應屆畢業生和正在轉行的人士
-  
+  - 學生、應屆畢業生及轉行人士，他們想要充分利用 Dynamics 365 的財務和運營應用程式，以達到更高水準
 subTitle: '如果您對Dynamics 365的企業資源規劃(ERP)能力有廣泛的瞭解，並且瞭解財務和運營應用程式如何在Microsoft整體生態系統中發揮作用的基本原理，那麼該證書就是為您而量身定制的。'
 levels:
 - beginner
@@ -36,6 +35,8 @@ type: fundamentals
 products: 
 - dynamics-365
 - dynamics-finance-operations
+courses:
+- uid: course.mb-920t00
 paths:
 - uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
 - uid: learn.wwl.explore-microsoft-dynamics-365-finance
@@ -54,7 +55,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAWQX
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證學習路徑
   description: 推薦的培訓資源可助您準備必需的考試並獲得認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
