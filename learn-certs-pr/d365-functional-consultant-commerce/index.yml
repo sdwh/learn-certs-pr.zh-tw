@@ -1,0 +1,58 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate'
+  description: 'Dynamics 365 Commerce “功能顧問”在 Dynamics 365 Commerce 中設置和使用應用程式功能，並為應用程式提供支援。'
+uid: certification.d365-functional-consultant-commerce
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您是一位借助 Dynamics 365 Commerce 來支援您的團隊和組織的功能顧問、開發人員、資訊工作者或IT或商務專業人士，那麼該認證可助您提升職業生涯。作為該認證的考生，您需要配置、部署並維護 Dynamics 365 Commerce 應用程式。
+  
+  考生必須對統一的商務運作有著較強的理解。他們可配置 Dynamics 365 Commerce 指揮部；配置並管理商務呼叫中心，在商務中管理“銷售終端”(POS)，管理電子商務，並配置產品、價格、折扣、忠誠度及附屬機構。
+  
+  如果您在嘗試獲得該認證之前需要更多的經驗，這裡有一些建議&#58;
+  
+  - 在一些 Dynamics 365 Commerce 項目上與功能顧問一起工作。
+  - 在 Microsoft Learn 上採用自主學習路徑。
+  - 報名參加一項由教師指導的培訓課程。
+subTitle: 'Dynamics 365 Commerce “功能顧問”在 Dynamics 365 Commerce 中設置和使用應用程式功能，並為應用程式提供支援。'
+levels:
+- intermediate
+skills:
+- 配置 Dynamics 365 Commerce “指揮部”
+- 配置產品、價格、折扣、忠誠度及附屬機構
+- 在 Dynamics 365 Commerce 中管理“銷售終端”(POS)
+- 配置並管理 Dynamics 365 Commerce 呼叫中心
+- 管理電子商務
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-commerce
+- dynamics-cust-svc-insights
+- dynamics-retail
+- dynamics-sales
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKp
+exams:
+- uid: exam.mb-300
+- uid: exam.mb-340
+resources:
+- title: 認證海報
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: ../help.md
+- title: 分享您的認證徽章
+  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+  href: ../badges.md
