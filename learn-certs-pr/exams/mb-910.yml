@@ -1,16 +1,14 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)
+title: Microsoft Dynamics 365 Fundamentals (CRM)
 metadata:
-  title: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)'
-  description: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)'
+  title: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
+  description: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
 uid: exam.mb-910
 displayName: MB-910
 summary: |-
   該考試涵蓋了Microsoft Dynamics 365客戶參與應用程式的特性和能力。
   
   該考試的考生須具備資訊技術(IT)環境的常識或相關工作經驗。他們也應該對客戶參與原則和業務運營具備基本的認識。
-  
-  <div><br/><font color='red'><strong>Beta考試不會立即進行評分，這是因為我們正在收集關於問題和考試品質的資料。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">瞭解更多關於beta考試的價值及重要性</a>.</strong></font></div>
 subTitle: '該考試測試您描述以下內容的能力&#58; Dynamics 365 Marketing; Dynamics 365 Sales; Dynamics 365 Customer Service; Dynamics 365 Field Service; “專案運營”；以及共用的特性。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIev
@@ -51,7 +49,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色和專業認證的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI

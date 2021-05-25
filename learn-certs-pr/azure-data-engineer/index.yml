@@ -8,16 +8,16 @@ certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>考試 Dp-203</a> 正在取代DP-200和DP-201考試。DP-200和DP-201將於2021年6月30日失效。</strong></font><br/><br/></div>
-
+  
   Azure Data Engineer Associate認證的考生應具備專業技能，這些技能可將各種結構化及非結構化資料系統中的資料集成、轉換並整合為適於構建分析解決方案的結構。
-
+  
   該角色的職責包括幫助利益相關者借助探索瞭解資料，並通過使用不同的工具和技術，構建和維護安全及合規的資料處理管道。該專業人士使用各種Azure資料服務和語言來存儲和生成用於分析的經過清理和增強的資料集。
-
+  
   鑒於一組特定的業務需求和約束，“Azure資料工程師”還可説明確保資料管道及資料存儲是高性能、高效、有組織和可靠的。該專業人士可快速處理未預料到的問題，並最大限度地減少資料丟失。“Azure資料工程師”還可設計、實施、監控並優化資料平臺，以滿足資料管道的需求。
-
+  
   該認證的考生必須具備扎實的資料處理語言知識，如SQL, Python, 或Scala, 而且需要瞭解並行處理及資料體系結構模式。
-
-  <Div><br/><strong>如果您完成以下選項之一，您將會獲得該證書&#58;</strong><br/>
+  
+  <div><br/><strong>如果您完成以下選項之一，您將會獲得該證書&#58;</strong><br/>
   <ul>
   <li>通過 <a href="/learn/certifications/exams/dp-200">Dp-200</a> 和 <a href="/learn/certifications/exams/dp-201">DP-201</a> （2021年6月30日失效） <strong>或者</strong></li>
   <li>通過 <a href="/learn/certifications/exams/dp-203">DP-203</a> （測試版於2021年2月23日發佈）</li></ul></div>
@@ -39,6 +39,8 @@ products:
 - azure-event-hubs
 - azure-data-lake
 - azure-databricks
+courses:
+- uid: course.dp-203t00
 paths:
 - uid: learn.data-ai.azure-for-the-data-engineer
 - uid: learn.store-data-in-azure
@@ -62,10 +64,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

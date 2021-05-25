@@ -1,16 +1,14 @@
 ### YamlMime:Examination
-title: Data Engineering on Microsoft Azure (beta)
+title: Data Engineering on Microsoft Azure
 metadata:
-  title: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
-  description: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
+  title: 'Exam DP-203: Data Engineering on Microsoft Azure'
+  description: 'Exam DP-203: Data Engineering on Microsoft Azure'
 uid: exam.dp-203
 displayName: DP-203
 summary: |-
   Azure 資料工程師將來自各種結構化和非結構化資料系統的資料集成、轉換和整合到適合構建分析解決方案的結構中。
   
   考試的候選人 DP-203&#58; Data Engineering on Microsoft Azure 必須具有可靠的資料處理語言知識，例如 SQL, Python 或 Scala，並且需要瞭解並行處理和資料架構模式。
-  
-  <div><br/><font color='red'><strong>Beta考試不會立即進行評分，這是因為我們正在收集關於問題和考試品質的資料。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">瞭解更多關於beta考試的價值及重要性</a>.</strong></font></div>
 subTitle: '本考試將衡量你完成以下技術任務的能力：設計和實施資料存儲；設計和開發資料處理；設計和實施資料安全；以及監控和優化資料存儲和資料處理。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT
@@ -33,6 +31,8 @@ products:
 - azure-event-hubs
 - azure-data-lake
 - azure-databricks
+courses:
+- uid: course.dp-203t00
 paths:
 - uid: learn.data-ai.azure-for-the-data-engineer
 - uid: learn.store-data-in-azure
@@ -53,10 +53,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
