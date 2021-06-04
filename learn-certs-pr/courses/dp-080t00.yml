@@ -8,12 +8,12 @@ courseNumber: 'DP-080T00'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill： 使用SQL伺服器查詢工具
-- skill： 編寫SELECT語句以檢索一個或多個表格中的列。
-- skill： 選定數據的排序和篩選
-- skill： 使用內置函數返回資料值
-- skill： 創建資料組並得出聚合結果
-- skill： 用Transact-SQL通過使用INSERT、UPDATE、DELETE 和MERGE來修改資料
+- skill: 使用SQL伺服器查詢工具
+- skill: 編寫SELECT語句以檢索一個或多個表格中的列。
+- skill: 選定數據的排序和篩選
+- skill: 使用內置函數返回資料值
+- skill: 創建資料組並得出聚合結果
+- skill: 用Transact-SQL通過使用INSERT、UPDATE、DELETE 和MERGE來修改資料
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
