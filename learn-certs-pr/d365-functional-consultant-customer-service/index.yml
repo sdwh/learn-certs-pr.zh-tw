@@ -7,7 +7,15 @@ uid: certification.d365-functional-consultant-customer-service
 certificationRenewalUid: renewal.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用AI的CX解決方案，以推動可預測客戶需求的可採取動作的見解。
+  如果您是一位元負責為客戶配置並實施 Dynamics 365 解決方案的功能顧問，您可以利用此認證來展示您的各項技能，並為您的職業發展提供幫助。Dynamics 365 Customer Service 功能顧問可實施全管道解決方案，這些解決方案專注於服務、品質、可靠性、效率及客戶滿意度。作為一位功能顧問，您知道如何與專案經理、開發人員及解決方案架構師進行合作。在作為功能顧問實施 Dynamics 365 方面，您需要至少1-3年的經驗。
+  
+  如果您在設法獲得該認證之前需要更多的經驗，這裡有一些建議&#58;
+  - 在一個或多個專案中擔任 Dynamics 365 功能顧問。
+  - 從事 Dynamics 365 Customer Service 的實施。
+  - 加入社區 [community.dynamics.com](https://community.dynamics.com/)。
+  - 在 [Microsoft Learn] 上採取可用的學習路徑(/learn/browse/?expanded=dynamics-365&products=dynamics-customer-service&roles=functional-consultant&resource_type=learning%20path).
+  - 完成更多的親身實踐。
+  - 報名參加一門由教師指導的培訓課程。
 subTitle: Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用 AI 的 CX 解決方案，以推動可預測客戶需求的可採取動作的見解。
 levels:
 - intermediate
@@ -62,7 +70,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證學習途徑
   description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87

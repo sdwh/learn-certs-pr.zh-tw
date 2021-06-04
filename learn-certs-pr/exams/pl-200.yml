@@ -6,23 +6,28 @@ metadata:
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
+  <div><div><font color='red'><strong>本次考試的內容於2021年3月23日進行了更新。請下載下面的技能測試文檔，看看有何變化。</strong></font><br/><br/></div>
+  </div>
+
   參加該測驗的考生將執行發現，捕獲需求，吸引主題專家和利益相關者參與，翻譯需求並設定 Power Platform 解決方案和應用。其中包括應用程式精進、自定義使用者體驗、系統整合、資料轉換、自定義流程自動化以及自定義可視化。
 
-  應試者實作由解決方案架構師提供並與之協作的設計，以及由用戶體驗設計師建立的標準，品牌和構件。他們設計整合以提供與第三方應用程式和服務的無縫整合。
+  考生們實施由解決方案架構師所提供並合作的設計，以及由“用戶體驗設計師”所建立的標準、品牌和工件。他們設計各項集成，用以提供與協力廠商應用程式及服務的無縫整合。
 
   應試者與質量保證團隊成員積極合作，以確保解決方案滿足功能和非功能要求。他們確定，生成並交付用於打包和部署的工件，提供給 DevOps 工程師，並為 Power Platform 管理員提供操作和維護培訓。
 
-  Power Platform功能顧問應熟悉Dynamics 365模型驅動應用，具有使用Power Platform元件擴展和定制化Dynamics 365模型驅動應用的經驗。
-subTitle: '該測驗衡量您完成以下任務的能力：設定公共資料服務；使用 Power Apps 建立應用；建立和管理 Power Automate；實作 Power Virtual Agents 聊天機器人；並將 Power Apps 與其他應用程式和服務整合。'
+  Power Platform 功能顧問應熟悉使用 Power Platform 元件來擴展和定制 Microsoft 應用程式及服務，比如 Teams, Dynamics 365, Excel, 和 Word.
+subTitle: '該考試可測試您完成以下任務的能力：配置 Microsoft Dataverse；通過使用 Power Apps 來創建應用程式；創建和管理 Power Automate；實施 Power Virtual Agents 聊天機器人；並將 Power Apps 與其他應用及服務整合在一起。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
+practiceTestUrl: https://www.mindhub.com/p/MU-PL-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=PL-200&examname=Exam%20PL-200:%20Microsoft%20Power%20Platform%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-200
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 設定公共資料服務 (25-30%)
+- 本次考試的內容於2021年3月23日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
+- 配置 Microsoft Dataverse (25-30%)
 - 使用Power Apps建立應用 (20-25%)
 - 建立和管理 Power Automate (15-20%)
 - 實作 Power Virtual Agents 聊天機器人 (10-15%)
@@ -65,7 +70,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GP08
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

@@ -20,13 +20,14 @@ summary: |-
   - 向解決方案架構師學習或作為架構師同時在幾個專案中工作。
   - 自願設計和實施一個財務和運營應用解決方案。
   - 與其他解決方案架構師一起參加解決方案架構研討會。
-subTitle: Microsoft Dynamics 365中財務和運營應用程式的解決方案架構師是受信任的顧問，他們了解業務推薦的實踐和軟體功能。他們帶領團隊成員實作可以實現預定義實作目標的Dynamics解決方案。
+subTitle: 作為該認證的考生，您是一位 Dynamics 365 專業人士，為利益相關者提供建議，並將業務需求轉化為安全的、可擴展的和可靠的解決方案。您為客戶設計有凝聚力的解決方案，因為您知道如何使用 Dynamics 365 財務和運營應用程式的基本架構元件。
 levels:
 - advanced
 skills:
-- 識別解決方案要求
-- 設計解決方案元件
-- 定義解決方案測試與管理策略
+- 構建解決方案 
+- 定義解決方案策略 
+- 管理實施方案 
+- 管理測試
 roles:
 - functional-consultant
 - solution-architect
@@ -37,6 +38,11 @@ courses:
 - uid: course.mb-700t00
 paths:
 - uid: learn-dynamics.become-solution-architect
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.implement-finance-operations
+- uid: learn-dynamics.use-success-design-unified-operations
+- uid: learn.wwl.config-d365-finance-operations-apps
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
 exams:
 - uid: exam.mb-700
@@ -58,7 +64,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRK
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證學習途徑
   description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gm

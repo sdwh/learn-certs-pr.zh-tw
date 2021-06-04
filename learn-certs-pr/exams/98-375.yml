@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-375
 displayName: 98-375
 summary: |-
+  <div><font color='red'><strong>本次 MTA 考試必須在2021年6月30日前購買。如果您目前正在學習這門考試，那麼您必須在一年內，即2022年6月30日之前參加考試，因為到那時它就會失效。請參閱<a href="/learn/certifications/mta-retirement-faqs">這個 FAQ</a> 以獲取更多詳情。</strong></font></br></br></div>
+  
   本測驗的應試者是希望證明在現今支援觸控裝置 (電腦、平板電腦與手機) 執行之核心 HTML5 用戶端應用程式開發技能的人。雖然一般會將 HTML 視為在瀏覽器轉譯以產生 UI 的 Web 技術，但本測驗強調的是用 HTML5、CSS3 與 JavaScript 開發用戶端應用程式。應試者在接受測驗之前，應對準備指南所述主題具備紮實的基礎知識，包括 CSS 和 JavaScript。建議應試者修習相關訓練課程，或使用 MSDN 和 Microsoft Visual Studio 提供的教學課程和範例，以熟悉相關技術的概念，並取得實際操作經驗。
 subTitle: 本測驗的應試者是希望證明在現今支援觸控裝置 (電腦、平板電腦與手機) 執行之核心 HTML5 用戶端應用程式開發技能的人。雖然一般會將 HTML 視為在瀏覽器轉譯以產生 UI 的 Web 技術，但本測驗強調的是用 HTML5、CSS3 與 JavaScript 開發用戶端應用程式。應試者在接受測驗之前，應對準備指南所述主題具備紮實的基礎知識，包括 CSS 和 JavaScript。建議應試者修習相關訓練課程，或使用 MSDN 和 Microsoft Visual Studio 提供的教學課程和範例，以熟悉相關技術的概念，並取得實際操作經驗。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -36,13 +38,11 @@ skills:
 - 使用 HTML5 構建使用者界面 (UI)(25-30%) 
 - 使用階層式樣式表 (CSS) 格式化使用者界面 (20-25%)
 - 使用JavaScript編碼 (30-35%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:
 - vs
-courses:
-- uid: course.40375
-- uid: course.40034
 relatedCertifications:
 - related:
     uid: certification.mta-html5-application-development-fundamentals

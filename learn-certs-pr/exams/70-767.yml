@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-767
 displayName: 70-767
 summary: |-
-  <div>
-  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>該考試於2021年1月31日失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/?resource_type=examination'>“流覽認證和考試”頁面</a>.<br/><br/></strong></font></div>
 
   本測驗適合要建立商業智慧 (BI) 解決方案的擷取、轉換與載入 (ETL) 以及資料倉儲開發人員。其責任除了 ETL 和資料倉儲實作之外，還包括資料清理。
 
@@ -17,7 +15,6 @@ subTitle: 本測驗適合要建立商業智慧 (BI) 解決方案的擷取、轉�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trnq
 practiceTestUrl: http://www.mindhub.com/70-767-Developing-Implementing-a-Data-Warehouse-p/mu-70-767_p.htm
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=767&examname=Implementing%20a%20Data%20Warehouse%20using%20SQL&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-767
 locales:
 - en
 levels:
@@ -26,6 +23,7 @@ skills:
 - 設計、實作和維護資料倉儲 (35-40%)
 - 擷取、轉換和加載資料 (40-45%)
 - 構建資料品質解決方法 (15-20%)
+retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:

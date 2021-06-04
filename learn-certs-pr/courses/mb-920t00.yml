@@ -1,0 +1,218 @@
+### YamlMime:Course
+title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
+metadata:
+  title: 'Course MB-920T00--A: Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
+  description: 'Course MB-920T00--A: Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
+uid: course.mb-920t00
+courseNumber: 'MB-920T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 說明Dynamics 365 Supply Chain Management的功能
+- skill: 說明Dynamics 365 Supply Chain Management的功能
+- skill: 說明Dynamics 365 Supply Chain Management的功能
+- skill: 說明Dynamics 365 Supply Chain Management的功能
+- skill: 說明Dynamics 365 Project Operations (ERP)的功能
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-owner
+products:
+- dynamics-365
+exams:
+- uid: exam.mb-920
+summary: |-
+  本課程將為您介紹Dynamics 365的財務和運營功能。您將逐漸熟悉企業資源計畫 （ERP）的概念以及每一個財務和運營應用程式，包括Dynamics 365 Supply Chain Management、Dynamics 365 Finance、Dynamics 365 Commerce、Dynamics 365 Human Resources及Dynamics 365 Project Operations的ERP功能。本課程將包括講座和上機實驗。
+
+  #### 受眾人群
+
+  在職場中扮演各種角色以及處於各種發展階段的人員均可以從本基礎課程中獲益。包括 IT專業人員、企業利益相關者以及其他計畫接觸 Dynamics 365財務和運營功能的人員、學生、應屆畢業生以及計畫利用Dynamics 365提升自己而轉行的人員。
+outlineSection: |-
+  ### 模組 1&#58; 學習Dynamics 365 Supply Chain Management
+  的基礎知識
+  本模組涵蓋深入介紹Dynamics 365 Supply Chain Management之前應瞭解的企業資源管理基礎概念以及財務和運營應用程式的共同點。我們將先介紹標準的市場行銷業務流程以及市場行銷如何解決這些問題。然後，我們再檢查產品功能。最後我們也會討論其他的市場行銷應用軟體，諸如LinkedIn Campaign Manager、Dynamics 365 Customer Voice和Dynamics 365 Customer Insights。
+
+  #### 課程
+
+  *   獲得財務和運營應用軟體的介紹
+
+  *   識別Dynamics 365 Supply Chain Management的通用功能
+
+  *    探索Dynamics 365 Supply Chain Management的倉庫和庫存功能
+
+  *   探索Dynamics 365 Supply Chain Management的製造策略
+
+  *   探索Dynamics 365 Supply Chain Management的資產管理功能
+
+  *   Capstone實驗室
+
+  #### 實驗室&#58; 流覽財務和運營應用程式
+
+  ####
+
+  #### 實驗室&#58; 探索工作區和過濾
+
+  ####
+
+  #### 實驗室&#58; 創建產品
+
+  ####
+
+  #### 實驗室&#58; 創建採購訂單
+
+  ####
+
+  #### 實驗室&#58; 創建倉庫
+
+  ####
+
+  #### 實驗室&#58; 創建生產訂單
+
+  ####
+
+  #### 實驗室&#58; 創建計畫工單
+
+  ####
+
+  #### 實驗室&#58; Dynamics 365 Supply Chain Management Capstone實驗室
+
+  ####
+
+  *   探索產品管理
+
+  *   探索倉庫管理
+
+  *   探索生產管理
+
+  *   探索庫存管理
+
+  *   探索採購和貨源
+
+  完成本模組學習後，學生將能&#58;
+
+  *   說明財務和運營應用程式的共同特點
+
+  *   說明Dynamics 365 Supply Chain Management的通用功能
+
+  *   說明倉庫和庫存管理、製造和資產管理功能
+
+  ### 模組 2&#58; 學習Dynamics 365 Finance的基礎知識
+
+  在本模組中，我們來看一下Dynamics 365 Finance。著重介紹總帳、應付帳款和應收賬款前，我們將先介紹產品的核心功能。隨後，我們將探討 Dynamics 365 Finance中的費用管理與預算。
+
+  #### 課程
+
+  *   探索Dynamics 365 Finance核心功能
+
+  *   探索總帳
+
+  *   探索應付帳款和應收賬款
+
+  *   探索費用管理、固定資產管理和預算
+
+  *   Capstone實驗室
+
+  #### 實驗室&#58; Capstone實驗室
+
+  ####
+
+  #### 實驗室&#58; 創建供應商付款日誌
+
+  ####
+
+  #### 實驗室&#58; 創建財務維度
+
+  ####
+
+  *   探索總帳
+
+  *   探索應付帳款
+
+  *   探索應收賬款
+
+  完成本模組學習後，學生將能&#58;
+
+  *   討論Dynamics 365 Finance核心功能
+
+  *   討論總帳、應付帳款和應收賬款
+
+  *  討論費用管理固定資產管理和預算
+
+  ### 模組 3&#58; 學習Dynamics 365 Commerce的基礎知識
+
+  在本模組中，我們來看一下Dynamics 365 Commerce。在轉向重點關注Dynamics 365 Fraud Protection及其功能之前，我們將介紹該產品的核心功能。 
+
+  #### 課程
+
+  *   探索Dynamics 365 Commerce功能
+
+  *   探索Dynamics 365 Fraud Protection
+
+  *   Capstone實驗室
+
+  #### 實驗室&#58; 創建打折產品
+
+  ####
+
+  #### 實驗室&#58; 創建產品組合
+
+  ####
+
+  #### 實驗室&#58; Capstone實驗室
+
+  ####
+
+  *   探索Commerce Headquarters
+
+  完成本模組學習後，學生將能&#58;
+
+  *   討論Dynamics 365 Commerce
+
+  *   討論 Dynamics 365 Fraud Protection
+
+  ### 模組 4&#58; 學習Dynamics 365 Human Resources的基礎知識
+
+  在本模組中，我們來看一下Dynamics 365 Human Resources。在轉向重點關注該產品的人員管理功能之前，我們將介紹該產品的核心功能。
+
+  #### 課程
+
+  *   探索Dynamics 365 Human Resources核心功能
+
+  *   探索人員管理功能
+
+  *   Capstone實驗室
+
+  #### 實驗室&#58; Capstone實驗室
+
+  ####
+
+  *   探索人力資源
+
+  完成本模組學習後，學生將能&#58;
+
+  *   討論Dynamics 365 Human Resources的核心功能
+
+  *   討論人員管理功能
+
+  ### 模組 5&#58; 學習Dynamics 365 Project Operations (ERP)的基礎知識
+
+  在本模組中，我們來看一下Dynamics 365 Project Operations的企業資源功能。我們將介紹專案生命週期以及產品的專案規劃和執行功能。
+
+  #### 課程
+
+  *   識別 Dynamics 365 Project Operations中的專案生命週期管理功能
+
+  *   探索Dynamics 365 Project Operations的專案規劃和執行功能
+
+  完成本模組學習後，學生將能：
+
+  *   討論Dynamics 365 Project Operations中的專案生命週期管理功能
+
+  *   探討Dynamics 365 Project Operations的專案規劃和執行功能
+
+  #### 課外閱讀
+
+  請查閱Microsoft Learn上與本課程相關的內容。請注意每個產品都有單獨的學習路徑。

@@ -1,0 +1,167 @@
+### YamlMime:Course
+title: Microsoft Identity and Access Administrator
+metadata:
+  title: 'Course SC-300T00-A: Microsoft Identity and Access Administrator'
+  description: 'Course SC-300T00-A: Microsoft Identity and Access Administrator'
+uid: course.sc-300t00
+courseNumber: 'SC-300T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 執行身份管理解決方案
+- skill: 執行認證和訪問管理解決方案
+- skill: 實現應用程式訪問管理
+- skill: 規劃並執行身份治理策略
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+- identity-access-admin
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-log-analytics
+- azure-sentinel
+exams:
+- uid: exam.sc-300
+summary: |-
+  本課程為IT身份和訪問專業人員以及IT安全專業人員提供執行基於Microsoft Azure AD的身份管理解決方案所需的知識和技能，並且與身份技術關聯。本課程包括用於Azure AD、企業應用程式註冊、有條件的訪問、身份治理和其他身份管理工具的身份認證內容。
+
+  #### 受眾人群
+  本課程針對計畫參加相關認證考試或者在日常工作中執行身份和訪問管理任務的身份和訪問管理員。本課程還可以幫助打算專門為基於Azure的解決方案提供身份解決方案和訪問管理系統; 專門在組織保護中發揮不可或缺的作用的管理員和工程師。
+prerequisitesSection: |-
+  成功的初學者將事先學習和瞭解&#58; 
+  - 安全性最佳做法和行業安全性需求，如深度防禦、最小許可權訪問、責任分擔和零信任模型。
+  - 熟悉身份驗證、授權和活動目錄等身份概念。
+  - 具備一定的Azure workloads部署經驗。本課程不涉及Azure管理基本知識。相反，課程內容以該知識為基礎，添加了安全性特定資訊。
+  - 一定的Windows 和 Linux作業系統和指令碼語言經驗是有用的，但不是必需的。課程實驗室可使用PowerShell和CLI。
+  
+  <div><strong>預修課程（或同等知識和實踐經驗&#58;  </strong></div>
+  
+  本項免費線上培訓賦予您順利完成本課學習所需的經驗。
+  - [SC-900第1部分&#58; 說明安全性、合規性和身份的概念 - Learn | Microsoft Docs](/learn/paths/describe-concepts-of-security-compliance-identity/)
+  - [SC-900第2部分&#58; 說明Microsoft Identity和訪問管理解決方案的功能 - Learn | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-identity-access/)
+  - [SC-900第3部分&#58; 說明Microsoft security解決方案的功能 - Learn | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-security-solutions/)
+  - [SC-900第4部分&#58; 說明Microsoft合規性解決方案的功能 - Learn | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/)
+  - [AZ-104&#58; 管理Azure中的身份和治理 - Learn | Microsoft Docs](/learn/paths/az-104-manage-identities-governance/)
+outlineSection: |-
+  ### 模組 1&#58; 實現身份管理解決方案
+  學習創建和管理您的初始Azure Active Directory (Azure AD)實現並配置您將用於運行您的解決方案的用戶、組和外部身份。
+  #### 課程
+  - 實現Azure AD的初始配置
+  - 創建、配置和管理身份
+  - 實現和管理外部身份
+  - 實現和管理混合身份
+
+  #### 實驗室 &#58; 管理用戶角色
+  
+  #### 實驗室 &#58; 設置租戶範圍屬性
+  
+  #### 實驗室 &#58; 為用戶分配許可證
+  
+  #### 實驗室 &#58; 恢復或移除已刪除用戶
+  
+  #### 實驗室 &#58; 在Azure AD中添加組
+  
+  #### 實驗室 &#58; 更改組許可證分配
+  
+  #### 實驗室 &#58; 更改使用授權分配
+  
+  #### 實驗室 &#58; 配置外部協作
+  
+  #### 實驗室 &#58; 向目錄添加客戶使用者
+  
+  #### 實驗室 &#58; 探索動態組
+  
+  完成本模組學習後，學生將能&#58; 
+  - 用自訂設置部署初始Azure AD 
+  - 同時管理內部和外部身份
+  - 實現混合身份解決方案
+  
+  
+  ### 模組 2&#58; 實現身份驗證和訪問管理解決方案
+  使用Azure AD來實現和管理您的訪問管理。
+
+  使用MFA、有條件的訪問和身份保護來管理您的身份解決方案。
+  #### 課程
+  - 使用MFA保護Azure AD user 
+  - 管理用戶身份驗證
+  - 規劃實現和管理有條件的訪問
+  - 管理Azure AD身份保護
+  
+  #### 實驗室 &#58; 啟用 Azure AD MFA
+  
+  #### 實驗室 &#58; 配置和部署自助密碼重置(SSPR)
+  
+  #### 實驗室 &#58; 使用安全預設值
+  
+  #### 實驗室 &#58; 實現有條件的訪問策略、角色和分配
+  
+  #### 實驗室 &#58; 配置身份驗證會話控制
+  
+  #### 實驗室 &#58; 管理Azure AD智慧鎖定值
+  
+  #### 實驗室 &#58; 啟用登錄風險策略
+  
+  #### 實驗室 &#58; 配置Azure AD MFA身份驗證註冊策略
+  
+  完成本模組學習後，學生將能&#58; 
+  - 配置和管理使用者身份驗證，包括MFA
+  - 使用有條件的訪問來控制對資源的訪問
+  - 使用Azure AD身份保護來保護您的組織
+  
+  
+  ### 模組 3&#58; 實現應用程式的訪問管理
+  探索如何能/應該如何用 Azure AD中的應用程式註冊將應用程式添加到您的身份和訪問解決方案中。
+  #### 課程
+  - 規劃和設計企業的SSO集成  - 實現和監控企業應用程式的SSO集成
+  - 實現應用程式註冊
+  
+  #### 實驗室 &#58; 實現應用程式訪問管理
+  
+  #### 實驗室 &#58; 創建自訂角色來管理應用程式註冊
+  
+  #### 實驗室 &#58; 註冊應用程式
+  
+  #### 實驗室 &#58; 給應用程式授予租戶範圍的管理同意
+  
+  #### 實驗室 &#58; 向應用程式添加應用程式角色並接收權杖
+  
+  完成本模組學習後，學生將能&#58; 
+  - 在您的Azure AD上註冊一個新的應用程式
+  - 為企業應用程式規劃和實現SSO
+  - 監控和維護企業應用程式
+  
+  
+  ### 模組 4&#58; 規劃和實現身份治理策略
+  使用授權、訪問評審、特權訪問來為您的身份解決方案設計和實現身份治理，並監控您的Azure Active Directory (Azure AD)。
+  #### 課程
+  - 規劃和實現授權管理
+  - 規劃實現和管理訪問評審
+  - 規劃和實現特權服務
+  - 監控和維護 Azure AD
+  
+  #### 實驗室 &#58; 使用Azure AD 授權創建和管理資原始目錄
+  
+  #### 實驗室 &#58; 添加使用驗收報告條款
+  
+  #### 實驗室 &#58; 使用Azure AD身份治理來管理外部用戶的生命週期
+  
+  #### 實驗室 &#58; 創建組合應用程式訪問評審
+  
+  #### 實驗室 &#58; 配置Azure AD角色的PIM
+  
+  #### 實驗室 &#58; 在PIM中分配Azure AD角色
+  
+  #### 實驗室 &#58; 在PIM中分配Azure資源角色
+  
+  #### 實驗室 &#58; 將來自Azure AD的資料連接至Azure Sentinel
+  
+  完成本模組學習後，學生將能&#58; 
+  - 管理和維護 Azure AD，從創建到解決方案
+  - 使用訪問評審來維護您的Azure AD
+  - 通過授權管理為授予用戶存取權限

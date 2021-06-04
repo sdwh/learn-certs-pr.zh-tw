@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-741
 displayName: 70-741
 summary: |-
-  <div>
-  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>該考試於2021年1月31日失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/?resource_type=examination'>“流覽認證和考試”頁面</a>.<br/><br/></strong></font></div>
 
   此測驗的應試者執行關於 Windows Server 2016 中可用網路功能的任務。應試者應熟悉實作和管理DNS、DHCP和IPAM，以及部署遠端存取解決方案，如 VPN 和 RADIUS。
 
@@ -19,7 +17,6 @@ subTitle: 此測驗的應試者執行關於 Windows Server 2016 中可用網路�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IW1D
 practiceTestUrl: https://www.mindhub.com/70-741-Networking-with-Windows-Server-2016-p/mu-70-741_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=741&examname=Networking%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-741
 locales:
 - en
 - es
@@ -37,6 +34,7 @@ skills:
 - 實作網路連線和遠端存取解決方案 (20-25%)
 - 實施核心和分佈式網絡解決方案 (15-20%)
 - 實作先進的網路基礎結構 (15-20%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

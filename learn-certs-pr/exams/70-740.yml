@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-740
 displayName: 70-740
 summary: |-
-  <div>
-  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>該考試於2021年1月31日失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/?resource_type=examination'>“流覽認證和考試”頁面</a>.<br/><br/></strong></font></div>
 
   此測驗的應試者參與Windows Server 2016的安裝，儲存和可用的計算功能。應試者執行一般安裝任務，以及建立和管理映像以進行部署。
 
@@ -19,7 +17,6 @@ subTitle: 此測驗的應試者參與Windows Server 2016的安裝，儲存和可
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IGlV
 practiceTestUrl: https://www.mindhub.com/70-740-Windows-Server-2016-p/mu-70-740_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=740&examname=Installation,%20Storage,%20and%20Compute%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-740
 locales:
 - en
 - es
@@ -38,6 +35,7 @@ skills:
 - 實作Windows 容器 (5-10%)
 - 實作高可用性 (30-35%)
 - 維護和監視伺服器環境(10-15%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

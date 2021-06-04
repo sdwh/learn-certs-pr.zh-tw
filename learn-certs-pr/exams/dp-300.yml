@@ -6,9 +6,7 @@ metadata:
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
-  <div>
-  <div><strong>本次考試的內容將於2021年1月27日更新。請下載下面的技能評估文檔，看看會發生什麼變化。</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>本次考試的內容將於2021年5月25日進行更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
 
   參加該測驗的應試者是資料庫管理員和資料管理專家，他們管理使用 Microsoft SQL Server 和 Microsoft Azure 資料服務構建的本地和雲關係資料庫。
 
@@ -22,6 +20,7 @@ summary: |-
 subTitle: '此測驗會評量您達成下方技術性工作的能力：規劃和實作資料平台資源； 實作安全的環境； 監視和最佳化可作業資源； 最佳化查詢效能； 執行工作自動化； 規劃並實作高可用性和災害復原（HADR）環境； 然後使用 T-SQL 執行管理。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
+practiceTestUrl: https://in.mindhub.com/dp-300-administering-relational-databases-on-microsoft-azure-microsoft-official-practice-test/p/MU-DP-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DP-300&examname=Exam%20DP-300:%20Administering%20Relational%20Databases%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-300
 locales:
 - en
@@ -31,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考試的內容將於2021年1月27日更新。請下載下面的考試技能大綱，看看將會改變什麼。
+- 本次考試的內容將於2021年5月25日進行更新。請下載下面的考試技巧大綱，看看將有何變化。
 - 規劃和實作資料平台資源 (15-20%)
 - 實作安全的環境 (15-20%)
 - 監視和最佳化可作業資源 (15-20%)
@@ -69,10 +68,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

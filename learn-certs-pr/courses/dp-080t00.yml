@@ -1,0 +1,113 @@
+### YamlMime:Course
+title: Querying Data with Microsoft Transact-SQL
+metadata:
+  title: 'Course DP-080T00--A: Querying Data with Microsoft Transact-SQL'
+  description: 'Course DP-080T00--A: Querying Data with Microsoft Transact-SQL'
+uid: course.dp-080T00
+courseNumber: 'DP-080T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill： 使用SQL伺服器查詢工具
+- skill： 編寫SELECT語句以檢索一個或多個表格中的列。
+- skill： 選定數據的排序和篩選
+- skill： 使用內置函數返回資料值
+- skill： 創建資料組並得出聚合結果
+- skill： 用Transact-SQL通過使用INSERT、UPDATE、DELETE 和MERGE來修改資料
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- database-administrator
+products:
+- azure
+summary: |-
+  本課程將介紹標準SQL語言的Microsoft方言基礎知識&#58; Transact-SQL。主題包括在基於Microsoft SQL Server的資料庫系統所託管的關聯式資料庫中查詢和修改資料，包括&#58; Microsoft SQL Server、Azure SQL Database和Azure Synapse Analytics。
+
+  #### 受眾人群
+  本課程對於任何需要撰寫基本SQL或 Transact-SQL查詢的人員都具有價值。包括使用資料的任何人，如數據分析師、資料工程師、資料科學家、資料庫管理員或資料庫開發人員。本課對其他間接使用資料或需要瞭解更多資料使用資訊的人員也很有用，如解決方案架構師、學生和技術主管。
+outlineSection: |-
+  ### 模組 1&#58; 從Transact-SQL開始
+  在本模組中您將瞭解到Transact-SQL (T-SQL)語言的基礎知識以及關聯式資料庫的一般屬性和術語。本模組將介紹用於檢索表格資料的基本SELECT語句。
+  #### 課程
+  - Transact-SQL簡介
+  - 使用SELECT語句
+
+  #### 實驗室 &#58; 從SQL伺服器查詢工具開始並用T-SQL撰寫查詢
+  
+  完成本模組學習後，學生將能&#58; 
+  - 使用查詢工具以用Transact-SQL撰寫和執行查詢
+  - 瞭解關聯式資料庫基本概念及T-SQL 語言
+  - 撰寫SELECT語句以檢索關聯式資料庫表格中的資料
+  - 瞭解基底資料型別及其使用方法
+  - 瞭解NULL值的基礎知識
+  
+  
+  ### 模組 2&#58; 查詢結果排序和篩選
+  在本模組中，您將學習如何控制返回哪些資料以及返回順序。
+
+  您將使用ORDER BY子句，分頁或不分頁。您將瞭解可用於WHERE子句中以控制返回哪些資料行的各種篩選程式。您還將學習如何通過用DISTINCT刪除重複項來管理結果。
+  #### 課程
+  - 查詢結果排序
+  - 資料篩選
+  
+  #### 實驗室 &#58; SELECT 查詢返回資料的排序和篩選
+  
+  完成本模組學習後，學生將能&#58; 
+  - 使用 ORDER BY對 T-SQL SELECT語句的結果進行排序
+  - 添加TOP子句來限制返回的命令列
+  - 用OFFSET-FET給已排序資料分頁
+  - 撰寫WHERE子句以篩選返回行
+  - 使用DISTINCT以消除結果中的重複行
+  
+  
+  ### 模組 3&#58; 使用連接和子查詢
+  在本模組中，您將探索 T-SQL查詢，其用各種JOIN操作和簡單的子查詢訪問多個表格中的資料。
+  #### 課程
+  - 使用JOIN操作
+  - 使用子查詢
+  
+  #### 實驗室 &#58; 用JOIN操作撰寫查詢
+  
+  #### 實驗室 &#58; 用子查詢撰寫SELECT語句
+  
+  完成本模組學習後，學生將能&#58; 
+  - 使用JOIN操作來撰寫訪問多個表格資料的查詢
+  - 瞭解各種JOIN操作&#58之間的差異; INNER JOIN、OUTER JOIN、CROSS JOIN
+  - 瞭解如何用自連接將表格連接到表本身。
+  - 在SELECT語句內撰寫子查詢。
+  - 瞭解標量子查詢和多值子查詢之間的差異
+  - 瞭解相關子查詢和獨立子查詢之間的差異
+  
+  
+  ### 模組 4&#58; 使用內置函數
+  在本模組中，您將探索將內置函數用於返回SELECT清單中或WHERE子句中的計算值或特殊值。函數包括數學函數、字串函數和系統函數。還會提到其他類型的函數，但不會詳細討論。您還將學習如何將資料行合併到單個組中，為該組提供匯總資訊，如SUM、MIN或MAX。
+  #### 課程
+  - 從標量函數開始
+  - 聚合結果分組
+  
+  #### 實驗室 &#58; 內置函數
+  
+  完成本模組學習後，學生將能&#58; 
+  - 使用標量函數撰寫查詢
+  - 使用彙總函式撰寫查詢
+  - 根據公共列值使用GROUP BY將資料合併到組
+  - 瞭解如何使用HAVING篩選行組
+  
+  
+  ### 模組 5&#58; 修改資料
+  在本模組中您將學習用於表格資料的T-SQL語句，包括UPDATE、DELETE和MERGE以及各種用於INSERT的選項，包括用現有表格中的資料來創建新的表格。您還將瞭解到如何讓系統在插入資料時自動為列提供值。
+  #### 課程
+  - 將資料插入表格
+  - 修改和刪除資料
+  
+  #### 實驗室 &#58; 修改資料
+  
+  完成本模組學習後，學生將能&#58; 
+  - 將資料插入現有表格
+  - 指定應使用IDENTITY或SEQUENCE值自動填充列
+  - 使用UPDATE語句修改資料
+  - 使用DELETE語句刪除資料
+  - 使用MERGE修改資料以同步兩個表格

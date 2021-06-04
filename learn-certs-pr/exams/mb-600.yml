@@ -7,7 +7,7 @@ uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div>
-  <div><font color='red'><strong>本考試的新版本 <a href="/learn/certifications/exams/pl-600">Pl-600</a> 將於2021年3月推出。在2021年6月30日考試結束前，你可以一直參加本考試。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>本次考試的新版本，即<a href="/learn/certifications/exams/pl-600">PL-600</a>，於2021年3月生效。您可以在2021年6月30日考試失效前參加該考試。</strong></font><br/><br/></div>
   <div><strong>該測驗的內容更新于 2020 年 7月 30日.請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
   </div>
   
@@ -48,7 +48,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9W
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

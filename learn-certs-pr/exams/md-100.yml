@@ -6,6 +6,8 @@ metadata:
 uid: exam.md-100
 displayName: MD-100
 summary: |-
+  <div><font color='red'><strong>本次考試的內容於2021年3月8日進行了更新。請下載下面的技能測試文檔，看看有何變化。</strong></font><br/><br/></div>
+
   如果您在2019年3月31日到期之前通過了[Exam  70-698](https://www.microsoft.com/learning/exam-70-698.aspx)，您只需要參加測驗 MD-101 即可獲得現代桌面認證。參加此測驗的應試者在企業環境中部署、配置、保護、管理和監視設備和客戶端應用程式的管理員。應試者管理身份、存取、策略、更新與應用程式。
 
   作為管理員，應試者通常與 Microsoft 365 企業管理員合作來設計與實作滿足現代組織業務需求的裝置策略。
@@ -13,7 +15,7 @@ summary: |-
   應試必須熟悉 Microsoft 365 工作負載，並且必須在部署，設定與維護 Windows 10 與非 Windows 裝置與技術方面具有豐富的經驗與經驗。
 
   如果你通過本次認證考試，你可能有資格獲得 ACE 大學學分。有關詳細資訊，請參閱 [ACE 大學認證考試學分](/learn/certifications/ace-credit-for-certification-exams)。
-subTitle: '此測驗測量您在完成以下技術任務時的能力：部署 Windows；管理設備與資料；設定連接性；以及維護 Windows。如果您在2019年3月31日到期之前通過了測驗 70-698，您只需要參加測驗 MD-101 即可獲得現代桌面認證。'
+subTitle: '該考試可測試您完成以下技術任務的能力：部署 Windows；管理設備及資料；配置存儲及連接；並維護 Windows。如果您在2019年3月31日考試到期之前通過了 Exam 70-698，那麼您只需參加 MD-101 考試就可獲得 Modern Desktop certification.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVC
 practiceTestUrl: https://www.mindhub.com/md-100-windows-10-microsoft-official-practice-test/p/MU-MD-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -23,10 +25,11 @@ locales:
 levels:
 - intermediate
 skills:
+- 本次考試的內容於2021年3月8日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
 - 部署 Windows (15-20%)
-- 管理裝置和資料 (35-40%)
-- 設定連線性 (15-20%)
-- 維護 Windows (25-30%)
+- 管理裝置和資料 (25-30%)
+- 配置存儲和連接（15-20%）
+- 維護 Windows (30-35%)
 roles:
 - administrator
 products:
@@ -47,10 +50,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

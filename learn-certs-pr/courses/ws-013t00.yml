@@ -41,7 +41,7 @@ prerequisitesSection: |-
   - 具有微軟虛擬化安全相關技術的中級知識
   - 具有PowerShell腳本和PowerShell所需狀態配置（DSC）的中級知識
 outlineSection: |-
-  ### 模組1&#58; Azure Stack HCI介紹
+  ### 模組 1&#58; Azure Stack HCI介紹
   本模組描述了Azure Stack HCI的基本特徵，以及Azure Stack產品組合中的同類產品，包括Azure Stack Hub和Azure Stack Edge。本模組還概述了Azure Stack HCI核心技術和管理工具，以及一個典型實現過程的高級演練。最後，本模組總結了Azure Stack HCI混合功能，其中大部分功能在模組4中有詳細介紹。
   #### 課程
   - Azure Stack HCI概述
@@ -96,7 +96,6 @@ outlineSection: |-
   - 規劃和實現Storage Replica
 
   #### 實驗室&#58; 實現直接存儲空間群集
-  - 通過Windows Admin Center實現直接存儲空間
   - 通過Windows PowerShell實現直接存儲空間
   - 通過Windows Admin Center和Windows PowerShell來管理直接存儲空間群集
   - 管理和監視直接存儲空間群集的彈性

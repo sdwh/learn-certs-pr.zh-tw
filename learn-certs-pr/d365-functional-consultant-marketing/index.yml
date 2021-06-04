@@ -28,7 +28,7 @@ skills:
 - 管理客戶旅程
 - 管理事件與網路研討會
 - 配置Dynamics 365 Customer Voice
-- 配置Common Data Service
+- 配置 Microsoft Dataverse 
 - 利用Power Apps來創建應用程式
 - 創建和管理Power Automate
 - 實現Power Virtual Agents聊天機器人
@@ -73,7 +73,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C55m
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證學習途徑
   description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjW

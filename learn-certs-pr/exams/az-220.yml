@@ -6,17 +6,14 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
-  <div><div><strong>該考試的內容將於2021年1月27日進行更新。請下載以下技能測量文檔，來看看會發生哪些變化。</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>本次考試的內容將於2021年5月25日進行更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
 
-  參加該測驗的應試者應具有主題知識，可以開發 Azure IoT 解決方案的雲端和邊緣元件。
-
-  Azure IoT 開發人員的職責包括使用雲端服務和其他工具管理設備生命週期（設定、設定和維護）。您可以實作 Azure IoT 解決方案的設計，包括設備拓撲、連線能力、調試和安全性，以及用於管理、監控和轉換與 IoT 相關的資料管線的解決方案。您還可以部署 Azure IoT Edge 元件並在邊緣上設定設備網路。
-
-  Azure IoT 開發人員與資料工程師和其他利害關係人合作，以確保成功進行商務整合。
-
-  參加該測驗的應試者應具有實作構成 IoT 解決方案的 Azure 服務的經驗，包括資料存儲選項、資料分析、資料處理和平台即服務選項。該角色還應該能夠識別 IoT 解決方案的代碼部分內的 Azure IoT 服務設定，並以至少一種 Azure 支援的語言（包括 C＃、Node、C 或 Python）執行特定的 IoT 編碼任務。
-subTitle: '此測驗會評量您實作 IoT 解決方案基礎架構的能力； 佈建和管理裝置； 在 Azure IoT Edge 裝置上實作解決方案; 處理和管理資料； 監視，疑難排解和最佳化 IoT 解決方案; 並實作安全性。'
+  Azure IoT 開發人員實施配置並執行用於創建及維護 IoT 解決方案的 cloud 及邊緣部分所需的編碼任務。除了通過使用 cloud 服務來配置和維護設備，IoT 開發人員還可設置物理設備。IoT 開發人員負責對整個生命週期的設備配置進行維護和故障排除。 
+  
+  IoT 開發人員實施 IoT 解決方案的設計規範，其中包括設備拓撲、連接、診斷和監控，以及安全。IoT 開發人員為解決方案的 IoT Edge 部分開發和部署模組並對設備聯網進行配置。IoT 開發人員為管理資料管道的解決方案實施設計，其中包括與 IoT 相關的監測和資料轉換。IoT 開發人員與 Azure IoT 架構師、資料工程師及其他利益相關者合作，以確保成功的業務整合。
+  
+  IoT 開發人員應該對設備類型及 Azure 服務具備大致的瞭解，包括資料存儲選項、資料分析、資料處理、AI 及其他“平臺即服務”選項。IoT 開發人員必須能夠使用至少一種 Azure IoT SDK 所支援的語言進行程式設計。
+subTitle: '本次考試可測試您建立 IoT 解決方案基礎設施的能力；提供和管理設備的能力；實施 IoT Edge 的能力；處理和管理資料的能力；監控、故障排除和優化 IoT 解決方案的能力；以及實施安全的能力。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -29,13 +26,14 @@ locales:
 levels:
 - intermediate
 skills:
-- 該考試的內容將於2021年1月27日進行更新。請下載以下考試技巧大綱，來看看會發生哪些變化。
-- 實作 IoT 解決方案基礎架構 （15-20％）
-- 佈建和管理裝置 （20-25％）
-- 實作 Edge （15-20％）
+- 本次考試的內容將於2021年5月25日進行更新。請下載下面的考試技巧大綱，看看將有何變化。。
+- 建立 IoT 解決方案基礎設施 (10-15%)
+- 提供和管理設備 (15-20%)
+- 實施 IoT Edge (15-20%)
+- 實施業務整合 (5-10%)
 - 處理和管理數據（ 15-20％）
 - 監視，疑難排解和最佳化 IoT 解決方案 （15-20％）
-- 實作安全 （15-20％）
+- 實作安全 (10-15%)
 roles:
 - developer
 products:
@@ -49,6 +47,7 @@ paths:
 - uid: learn.securely-connect-iot-devices-to-cloud
 - uid: learn.build-intelligent-edge-with-azure-iot-edge
 - uid: learn-develop-solutions-with-azure-iot-central
+- uid: learn.azure.develop-azure-digital-twins
 relatedCertifications:
 - related:
     uid: certification.azure-iot-developer-specialty
@@ -58,10 +57,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

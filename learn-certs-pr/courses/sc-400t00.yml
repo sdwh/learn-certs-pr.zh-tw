@@ -1,0 +1,130 @@
+### YamlMime:Course
+title: Microsoft Information Protection Administrator
+metadata:
+  title: 'Course SC-400T00-A: Microsoft Information Protection Administrator'
+  description: 'Course SC-400T00-A: Microsoft Information Protection Administrator'
+uid: course.sc-400t00
+courseNumber: 'SC-400T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 說明和使用敏感標籤。
+- skill: 配置資料丟失防護策略。
+- skill: 保護Office 365中的資訊。
+- skill: 說明資訊治理配置流程。
+- skill: 定義與Microsoft的資訊保護和治理解決方案相關的關鍵術語。
+- skill: 說明內容管理器和活動管理器。
+- skill: 說明如何使用敏感資訊類型和可訓練分類器。
+- skill: 查看和分析DLP報告。
+- skill: 識別和減輕DLP策略違規。
+- skill: 說明DLP 和Microsoft Cloud App Security (MCAS)的集成。
+- skill: 部署Endpoint DLP
+- skill: 說明記錄管理
+- skill: 配置事件驅動保留
+- skill: 導入檔計畫
+- skill: 配置保留策略和標籤
+- skill: 創建自訂關鍵字字典
+- skill: 實現文檔指紋
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+- ip-admin
+- risk-practitioner
+- security-engineer
+products:
+- office-teams
+- office-sp
+- m365
+- m365-ems-cloud-app-security
+exams:
+- uid: exam.sc-400
+summary: |-
+  學習如何保護您的Microsoft 365 部署中的資訊。 本課程著重介紹貴組織內部資料治理和資訊保護。本課程涉及實現資料丟失防護策略、敏感資訊類型、敏感標籤、資料保留策略和其他相關主題的Office 365資訊加密。本科將可幫助初學者準備參加 Microsoft Information Protection Administrator考試（SC-400）
+
+  #### 受眾人群
+  資訊保護管理員計畫和實現能滿足組織合規需求的控制。此人負責將需求和合規控制轉化為技術實現。其協助組織控制負責人使組織達到合規要求並持續合規。該管理員與資訊技術 （IT） 人員、業務應用程式所有者、人力資源、法律利益相關者配合以實現支援充分滿足其組織監管需求所需的策略和控制的技術。該管理員還與首席合規官和首席安全官等合規和安全管理層配合，以評估全面相關企業風險以及制定此類策略的合作夥伴。此人定義適用需求並針對此類策略和控制測試 IT流程和運營。其負責創建用於內容分類、資料丟失預防、治理和保護的策略和規則。
+prerequisitesSection: |-
+  參加本課程之前，學生應具備&#58; 
+  - Microsoft安全性和合規性技術基礎知識。
+  - 資訊保護概念的基本知識。
+  - 瞭解 cloud計算概念。
+  - 瞭解 Microsoft 365產品和服務。
+outlineSection: |-
+  ### 模組 1&#58; 實現Microsoft 365中的資訊保護
+  組織需要資訊保護解決方案來防止其資料被盜和意外丟失。學習如何保護您的敏感資訊。學習Microsoft 365資訊保護和治理解決方案如何説明您在整個資料生命週期內保護和管理您的資料，無論資料存於何處或被傳送到何處。瞭解可用的資訊，以説明您理解您的資料圖景和瞭解您的資料。學習如何使用敏感資訊類型來支援您的資訊保護策略。瞭解如何使用敏感標籤來分類和保護業務資料，同時確保不會妨礙用戶工作效率及其合作能力。
+  #### 課程
+  - 介紹Microsoft 365中的資訊保護和治理
+  - 出於保護和治理目的，對資料進行分類
+  - 創建和管理敏感資訊類型
+  - 說明Microsoft 365加密
+  - 在Office 365中進行資訊加密
+  - 配置敏感標籤
+  - 應用和管理敏感標籤
+
+  #### 實驗室 &#58; 實現資訊保護
+  - 分配合規性許可權
+  - 管理Office 365資訊加密
+  - 管理敏感資訊類型
+  - 管理可訓練分類器
+  - 管理敏感標籤
+  
+  完成本模組學習後，學生將能&#58; 
+  - 說明Microsoft的資訊保護和治理方法。
+  - 列出資料分類解決方案的元件。
+  - 說明如何使用敏感資訊類型和可訓練分類器。
+  - 實現文檔指紋
+  - 創建自訂關鍵字字典
+  - 在Office 365上部署資訊加密
+  
+  
+  ### 模組 2 &#58; 實現Microsoft 365中的資料丟失防護
+  在本模組中，我們討論了如何實施資料丟失預防技術來保護您的Microsoft 365資料。學習如何在其整個資料生命週期內發現組織內的敏感內容和關鍵業務內容並進行分類和保護。學習如何配置和實施資料丟失預防策略，並將其與Microsoft Cloud App Security進行集成。學習如何回應和減輕資料丟失策略違規。
+  #### 課程
+  - 防止Microsoft 365中的資料丟失
+  - 實現 Endpoint 資料丟失防護
+  - 配置用於Microsoft Cloud App Security and Power Platform的DLP 策略
+  - 管理Microsoft 365中的DLP策略和報告
+  
+  #### 實驗室 &#58; 實現資料丟失防護
+  - 管理DLP策略
+  - 管理Endpoint DLP
+  - 測試DLP策略
+  - 管理DLP報告
+  
+  完成本模組學習後，學生將能&#58; 
+  - 說明資訊保護配置流程。
+  - 清楚地說明部署和採用的最佳做法。
+  - 說明DLP和Microsoft Cloud App Security (MCAS)的集成。
+  - Microsoft Cloud App Security中的配置策略。
+  - 查看和分析DLP報告。
+  - 識別和減輕DLP策略違規。
+  - 減輕MCAS中的DLP違規。
+  
+  
+  ### 模組 3&#58; 在Microsoft 365中實現資訊治理
+  在本模組中，您將學習如何為組織規劃和實施資訊治理策略。學習如何用解決方案管理您的內容生命週期以導入、存儲和分類關鍵業務資料，以便您能保留所需資料並刪除不需要的資料。學習如何管理Microsoft 365的保留，以及如何在個別Microsoft 365服務中實施保留解決方案。學習如何使用智慧分類來實現用於貴組織法律、法規、關鍵業務記錄的保留計畫的自動執行和簡化。
+  #### 課程
+  - 治理Microsoft 365中的資訊
+  - 管理Microsoft 365工作負載中的資料保留
+  - 管理Microsoft 365中的記錄
+  
+  #### 實驗室 &#58; 實現資訊治理
+  - 配置保留標籤
+  - 實現保留標籤
+  - 配置基於服務的保留
+  - 使用eDiscovery進行恢復
+  - 配置記錄管理
+  
+  完成本模組學習後，學生將能&#58; 
+  - 說明資訊治理配置流程。
+  - 清楚地說明部署和採用的最佳做法。
+  - 說明 Microsoft 365 工作負載中的保留功能。
+  - 配置Microsoft Teams 和SharePoint Online中的保留設置。
+  - 實現Exchange Mailbox項的保留。
+  - 恢復受到保留設置保護的內容。
+  - 從Exchange Mailboxes中恢復受保護專案。
+  - 說明記錄管理配置流程。

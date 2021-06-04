@@ -1,0 +1,225 @@
+### YamlMime:Course
+title: Power Platform Solution Architect
+metadata:
+  title: 'Course PL-600T00--A: Power Platform Solution Architect'
+  description: 'Course PL-600T00--A: Power Platform Solution Architect'
+uid: course.pl-600t00
+courseNumber: 'PL-600T00'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- power-platform
+summary: |-
+  解決方案架構師負責順利地設計、實現、部署和採用整體方案。解決方案架構師確保該解決方案滿足客戶當前和未來的需求。在本課程中，學生將瞭解解決方案架構師在實現過程中所做出的決定，包括安全性、集成、Power Apps體系結構、Power Automate體系結構等。本課程專門為您介紹解決方案架構師角色。
+
+  #### 受眾人群
+  有意向成為解決方案架構師的高級顧問（同時包括職能型和技術型），或者新晉解決方案架構師。
+outlineSection: |-
+  ### 模組 1&#58; 成為解決方案架構師/瞭解您的客戶
+
+  #### 課程
+
+  *   定義解決方案架構師
+
+  *   解決方案架構師在專案中的角色
+
+  *   專案化教學法
+
+  *   瞭解您的客戶
+
+  *   小組作業 - 瞭解您的客戶
+
+  ### 模組 2&#58; 根據需求形成設計概念
+
+  #### 課程
+
+  *   如何引導需求收集工作
+
+  *   採用適度差異分析
+
+  *   良好體系結構的支柱
+
+  *   規劃解決方案體系結構
+
+  *   小組作業 - 基於需求進行設計。
+
+  ### 模組 3&#58; 專案治理和團隊合作
+
+  #### 課程
+
+  *   解決方案架構師在專案治理中的角色
+
+  *   保證專案正常運行的技巧
+
+  *   可能會導致專案失敗的場景
+
+  *   小組作業 - 項目治理和團隊合作
+
+  ### 模組 4&#58; Power Platform Architecture
+
+  #### 課程
+
+  *   關鍵Power Platform體系結構元件
+
+  *   瞭解平臺設計和限制如何影響解決方案體系結構。
+
+  *   更新和功能發佈
+
+  *   瞭解如何就平臺怎樣滿足客戶需求進行溝通
+
+  ### 模組 5&#58; 資料建模
+
+  #### 課程
+
+  *   資料模型的影響
+
+  *   資料模型策略
+
+  *   資料類型
+
+  *   資料關係
+
+  *   小組作業 - 資料建模
+
+  ### 模組 6&#58; 分析法和人工智慧
+
+  #### 課程
+
+  *   規劃和評估需求
+
+  *   運行報告
+
+  *   Power BI
+
+  *   Enterprise BI
+
+  *   預先構建的洞察力並自訂AI
+
+  ### 模組 7&#58; Power Apps Architecture
+
+  #### 課程
+
+  *   討論應用程式的選項以及如何選擇起點
+
+  *   討論應用程式組合選項
+
+  *   將元件用作您應用程式體系結構的一部分。
+
+  *   將門戶作為應用套裝程式含到您體系結構中的注意事項
+
+  *   小組作業 - Power Apps Architecture主題
+
+  ### 模組 8&#58; 應用程式生命週期管理。（ALM）
+
+  #### 課程
+
+  *   Microsoft公司願景以及解決方案架構師在 ALM中的角色
+
+  *   環境策略
+
+  *   為您的交付成果定義解決方案結構
+
+  #### 實驗室&#58; ALM上機實驗
+
+  ####
+
+  ### 模組 9&#58; Power Automate Architecture
+
+  #### 課程
+
+  *   討論自動執行選項並自訂邏輯
+
+  *   查閱使用觸發器和常見操作的注意事項
+
+  *   探索使用業務流程流(BPF)通過業務流程來指導使用者。
+
+  *   小組作業 - 評估使用Power Automate的場景
+
+  ### 模組 10&#58; 安全威脅建模
+
+  #### 課程
+
+  *   解決方案架構師在安全威脅建模中的角色
+
+  *   發現和瞭解您的用戶端環境
+
+  *   控制對環境和資源的訪問
+
+  *   控制對CDS資料的訪問
+
+  *   小組作用 - 安全威脅建模
+
+  ### 模組 11&#58; 集成
+
+  #### 課程
+
+  *   解決方案架構師在集成中的角色
+
+  *   什麼是集成及我們需要集成的原因
+
+  *   啟用集成的平臺功能
+
+  *   CDS 事件發佈
+
+  *   用於小組討論的場景
+
+  ### 模組 12&#58; Dynamics 365 Applications Architecture
+
+  #### 課程
+
+  *   解決方案架構師在部署 Dynamics 365應用程式時的角色
+
+  *   主應用程式的體系結構注意事項
+
+  *   小組作業 - 應用程式特定工作組評估需求
+
+  ### 模組 13&#58; Power Virtual Agents 體系結構
+
+  #### 課程
+
+  *   簡介
+
+  *   聊天機器人選項
+
+  *   聊天機器人選項
+
+  *   最佳做法
+
+  *   集成聊天機器人
+
+  *   Microsoft Teams中的Power Virtual Agents
+
+  ### 模組 14&#58; 機器人流程自動化
+
+  #### 課程
+
+  *   簡介
+
+  *   Power Automate Desktop
+
+  *   記錄和編輯任務
+
+  *   運行桌面流
+
+  *   流程顧問（Process advisor）
+
+  ### 模組 15&#58; 測試和上線
+
+  #### 課程
+
+  *   解決方案架構師在測試和上線時的角色
+
+  *   規劃測試
+
+  *   規劃上線
+
+  #### 課外閱讀
+
+  https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/

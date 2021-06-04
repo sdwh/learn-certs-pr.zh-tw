@@ -12,7 +12,6 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k0
 scheduleExamUrl: https://www.certiport.com/locator
 locales:
-- zh-cn
 - zh-tw
 levels:
 - beginner
@@ -21,6 +20,7 @@ skills:
 - 應用公式和函數
 - 可視化呈現資料
 - 使用宏和表格
+retirementDate: 06/30/2022
 roles:
 - business-user
 products:

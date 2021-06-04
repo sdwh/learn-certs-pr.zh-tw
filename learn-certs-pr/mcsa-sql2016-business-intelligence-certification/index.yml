@@ -6,9 +6,7 @@ metadata:
 uid: certification.mcsa-sql2016-business-intelligence-certification
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div>
-  <div><strong>此認證於 2021 年 1 月 31 日淘汰。在此日期之後，您將無法再獲得此認證。在淘汰日期之前獲得的任何認證將繼續出現在您的成績單中 <a href='https://www.microsoft.com/learning/dashboard.aspx'>認證儀表板</a>.您也可以 <a href='/learn/certifications/retired-certifications'>瀏覽所有停止提供的認證</a>。</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>該認證已失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/'>“流覽認證和考試”頁面</a>。您在失效日之前所獲得的任何認證都將繼續出現在您的成績單上，位於<a href='https://aka.ms/certdashboard'>“認證儀錶板”中</a>.</strong></font><br/><br/></div>
 
   本認證證明您具備擷取、轉換及載入 (ETL) 資料倉儲等技能，以及使用多維度及表格式資料模型和線上分析處理 (OLAP) Cube 來實作 BI 解決方案的技能。
 subTitle: 本認證證明您具備擷取、轉換及載入 (ETL) 資料倉儲等技能，以及使用多維度及表格式資料模型和線上分析處理 (OLAP) Cube 來實作 BI 解決方案的技能。
@@ -30,10 +28,10 @@ exams:
 resources:
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
