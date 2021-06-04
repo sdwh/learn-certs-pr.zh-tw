@@ -104,6 +104,7 @@ ms.prod: non-product-specific
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
 - MS-600T00 搭配 Microsoft 365 核心服務構建應用程式和解決方法
+- PL-400T00 Microsoft Power Platform Developer
 - WS-050T00 Migrating Application Workloads to Azure
 
 附註：此清單可能會更改，並且隨著新版本或課程的發佈以及舊版本和課程的停止提供，標題可能會新增到此清單中或從中刪除。

@@ -6,7 +6,7 @@ metadata:
 uid: exam.pl-900
 displayName: PL-900
 summary: |-
-  <div><div><strong> 該測驗的內容更新于 2020 年 7 月 13 日.請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>本次考試的內容於2021年3月10日進行了更新。請下載下面的技能測試文檔，看看有何變化。</strong></font><br/><br/></div>
   </div>
 
   這項測驗的應試者希望透過了解 Power Platform 的功能，使用 Power Automate 自動化基本業務流程，使用 Power BI 執行基本資料分析，透過建立簡單的 Power 應用程式體驗來更有效地行動來提高生產力，無需使用代碼即可建立功能強大的聊天機器人。
@@ -34,7 +34,7 @@ providers:
 levels:
 - beginner
 skills:
-- 該測驗的內容更新于 2020 年 7月 13日.請下載下面概述的測驗技能，以了解已發生什麼變化。
+- 本次考試的內容於2021年3月10日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
 - 描述 Power Platform 的商業價值 (15-20%)
 - 確定 Power Platform 的核心組件 (15-20%)
 - 演示 Power BI 的功能 (15-20%)
@@ -60,7 +60,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gn
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

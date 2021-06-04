@@ -7,7 +7,7 @@ uid: exam.ai-100
 displayName: AI-100
 summary: |-
   <div>
-  <div><font color='red'><strong>本考試的新版本 <a href='/learn/certifications/exams/ai-102'>AI-102</a> 將於2021年2月23日推出。在2021年6月30日考試結束前，你可以一直參加本考試。注釋&#58;考試在中部標準時間晚上11點59分結束。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>本次考試的新版本，即<a href='/learn/certifications/exams/ai-102'>AI-102</a>，已經生效。您可以在2021年6月30日考試失效前參加該考試。注意：考試將於中央標準時間晚11點59分失效。</strong></font><br/><br/></div>
   <div style='font-weight&#58; bold;'>該測驗的內容更新於 2020 年 5 月 20 日。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
   </div>
   
@@ -58,10 +58,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

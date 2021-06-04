@@ -6,16 +6,13 @@ metadata:
 uid: exam.70-764
 displayName: 70-764
 summary: |-
-  <div>
-  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>該考試於2021年1月31日失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/?resource_type=examination'>“流覽認證和考試”頁面</a>.<br/><br/></strong></font></div>
 
   此測驗適用於執行安裝、維護及設定工作的資料庫專業人員。其他職責包括設定資料庫系統、確保這些系統能有效運作，以及定期儲存、備份資料並保護資料免受未經授權的存取。
 subTitle: 此測驗適用於執行安裝、維護及設定工作的資料庫專業人員。其他職責包括設定資料庫系統、確保這些系統能有效運作，以及定期儲存、備份資料並保護資料免受未經授權的存取。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfJx
 practiceTestUrl: http://www.mindhub.com/70-764-Administering-SQL-Database-Infrastructure-p/mu-70-764_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=764&examname=Administering%20a%20SQL%20Database%20Infrastructure&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-764
 locales:
 - en
 levels:
@@ -25,6 +22,7 @@ skills:
 - 管理資料庫的備份與還原 (20-25%)
 - 管理與監視 SQL Server 執行個體 (35-40%)
 - 管理高可用性與災害復原 (20-25%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

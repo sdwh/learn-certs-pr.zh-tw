@@ -19,12 +19,9 @@ certificationPaths:
   - uid: certification.azure-administrator
     levels:
     - intermediate
-  - uid: certification.devops-engineer
-    levels:
-    - advanced      
-- title: Microsoft 365 Certified Messaging Administrator Associate
-  linkedInKeywords: Microsoft 365 Certified Messaging Administrator Associate
-  uid: certification.m365-messaging-administrator
+- title: Microsoft 365 Messaging Administrator Associate
+  linkedInKeywords: Microsoft 365 Messaging Administrator Associate
+  uid: certification-path.m365-messaging-administrator
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
     isOptional: true
@@ -32,13 +29,10 @@ certificationPaths:
     - beginner 
   - uid: certification.m365-messaging-administrator
     levels:
-    - intermediate  
-  - uid: certification.m365-enterprise-administrator
-    levels:
-    - advanced
-- title: Microsoft 365 Certified Modern Desktop Administrator Associate
-  linkedInKeywords: Microsoft 365 Certified Modern Desktop Administrator Associate
-  uid: certification.modern-desktop
+    - intermediate
+- title: Microsoft 365 Modern Desktop Administrator Associate
+  linkedInKeywords: Microsoft 365 Modern Desktop Administrator Associate
+  uid: certification-path.modern-desktop
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
     isOptional: true
@@ -46,13 +40,10 @@ certificationPaths:
     - beginner 
   - uid: certification.modern-desktop
     levels:
-    - intermediate  
-  - uid: certification.m365-enterprise-administrator
-    levels:
-    - advanced
-- title: Microsoft 365 Certified Security Administrator Associate
-  linkedInKeywords: Microsoft 365 Certified Security Administrator Associate
-  uid: certification.m365-security-administrator
+    - intermediate
+- title: Microsoft 365 Security Administrator Associate
+  linkedInKeywords: Microsoft 365 Security Administrator Associate
+  uid: certification-path.m365-security-administrator
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
     isOptional: true
@@ -60,13 +51,10 @@ certificationPaths:
     - beginner 
   - uid: certification.m365-security-administrator
     levels:
-    - intermediate  
-  - uid: certification.m365-enterprise-administrator
-    levels:
-    - advanced
-- title: Microsoft 365 Certified Teamwork Administrator Associate
-  linkedInKeywords: Microsoft 365 Certified Teamwork Administrator Associate
-  uid: certification.m365-teamwork-administrator
+    - intermediate
+- title: Microsoft 365 Teamwork Administrator Associate
+  linkedInKeywords: Microsoft 365 Teamwork Administrator Associate
+  uid: certification-path.m365-teamwork-administrator
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
     isOptional: true
@@ -74,19 +62,75 @@ certificationPaths:
     - beginner 
   - uid: certification.m365-teamwork-administrator
     levels:
-    - intermediate  
-  - uid: certification.m365-enterprise-administrator
-    levels:
-    - advanced
+    - intermediate
 - title: Microsoft Teams Administrator
   linkedInKeywords: Microsoft Teams Administrator
-  uid: certification.m365-teams-administrator-associate
+  uid: certification-path.m365-teams-administrator-associate
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
     isOptional: true
     levels:
     - beginner 
   - uid: certification.m365-teams-administrator-associate
+    levels:
+    - intermediate
+- title: Identity and Access Administrator
+  linkedInKeywords: Identity and Access Administrator
+  uid: certification-path.identity-and-access-administrator
+  prerequisites: 
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.identity-and-access-administrator
+    levels:
+    - intermediate
+- title: Information Protection Administrator
+  linkedInKeywords: Information Protection Administrator
+  uid: certification-path.information-protection-administrator
+  prerequisites: 
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.information-protection-administrator
+    levels:
+    - intermediate
+- title: Enterprise Administrator Expert
+  linkedInKeywords: Enterprise Administrator Expert
+  uid: certification-path.m365-enterprise-administrator
+  prerequisites: 
+  - uid: certification.power-platform-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.modern-desktop
+    levels:
+    - intermediate
+  - uid: certification.m365-security-administrator
+    levels:
+    - intermediate
+  - uid: certification.m365-messaging-administrator
+    levels:
+    - intermediate
+  - uid: certification.m365-teams-administrator-associate
+    levels:
+    - intermediate
+  - uid: certification.identity-and-access-administrator
+    levels:
+    - intermediate
+  - uid: certification.m365-enterprise-administrator
+    levels:
+    - advanced
+- title: Azure Stack Hub Administrator
+  linkedInKeywords: Azure Stack Hub Administrator
+  uid: certification-path.azure-stack-hub-operator
+  prerequisites: 
+  - uid: certification.power-platform-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-stack-hub-operator
     levels:
     - intermediate
 certifications:
@@ -96,6 +140,9 @@ certifications:
 - uid: certification.azure-for-sap-workloads-specialty
   requiredExams:
   - uid: exam.az-120
+- uid: certification.windows-virtual-desktop-specialty
+  requiredExams:
+  - uid: exam.az-140
 - uid: certification.azure-stack-hub-operator
   requiredExams:
   - uid: exam.az-600
@@ -116,13 +163,19 @@ certifications:
 - uid: certification.m365-teams-administrator-associate
   requiredExams:
   - uid: exam.ms-700
+- uid: certification.identity-and-access-administrator
+  requiredExams:
+  - uid: exam.sc-300
+- uid: certification.information-protection-administrator
+  requiredExams:
+  - uid: exam.sc-400
 resources:
 - title: Microsoft 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 訓練和認證海報
   description: 透過此訓練和認證海報選取您的成功路徑。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 支援認證
   href: ../help.md
   description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。

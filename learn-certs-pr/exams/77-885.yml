@@ -12,9 +12,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiDl
 scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=77-885&examname=Access%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-885
 locales:
-- zh-cn
 - zh-tw
-- es
 - ja
 levels:
 - beginner
@@ -24,6 +22,7 @@ skills:
 - 組建表單
 - 建立與管理查詢
 - 設計報告
+retirementDate: 06/30/2022
 roles:
 - business-user
 products:

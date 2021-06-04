@@ -11,7 +11,7 @@ summary: |-
 
   擔任此角色的職責包括維護安全狀況、使用各種安全工具識別和補救漏洞、實作威脅防護以及對安全事件升級做出響應。
 
-  Azure 安全工程師通常是一個較大的團隊的一部分，該團隊致力於基於雲端的管理和安全性，或者作為端到端基礎結構的一部分的混合環境。
+  Azure 安全工程師通常是致力於基於cloud的管理和安全的更大規模團隊的一部分，也可作為端到端基礎設施的一部分來保護混合環境。
 
   參加此認證的應試者應具有較強的腳本編寫和自動化技能；對網路、視覺效果和雲端 N 層架構的深入了解；對 Azure 的雲端功能、產品和服務以及其他 Microsoft 產品和服務非常熟悉。
 subTitle: Azure 安全工程師實作安全控制和威脅防護，管理身分識別和存取，並保護雲端和混合環境中作為端到端基礎架構一部分的資料、應用程式和網路。
@@ -53,10 +53,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

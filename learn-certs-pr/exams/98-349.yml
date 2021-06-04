@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-349
 displayName: 98-349
 summary: |-
+  <div><font color='red'><strong>本次 MTA 考試必須在2021年6月30日前購買。如果您目前正在學習這門考試，那麼您必須在一年內，即2022年6月30日之前參加考試，因為到那時它就會失效。請參閱<a href="/learn/certifications/mta-retirement-faqs">這個 FAQ</a> 以獲取更多詳情。</strong></font></br></br></div>
+  
   此測驗的應試者應具有Windows 10環境中基本Windows作業系統概念的知識。
 
   <div style='font-weight&#58; bold;'><br/>自 2016 年 8 月 31 日開始，此測驗包括 Windows 10 的更新，包括刪除 Windows 10 不支援的任何工具。要了解有關這些變更以及它們如何影響所測技能的更多資訊，請下載並檢閱 98-349 測驗變更文件。</div>
@@ -37,12 +39,11 @@ skills:
 - 管理檔案和資料夾 (15–20%)
 - 管理裝置 (15–20%)
 - 了解作業系統維護 (15–20%)
+retirementDate: 06/30/2022
 roles:
 - administrator
 products:
 - windows
-courses:
-- uid: course.40349
 relatedCertifications:
 - related:
     uid: certification.mta-windows-operating-system-fundamentals

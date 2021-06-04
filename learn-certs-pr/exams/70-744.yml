@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-744
 displayName: 70-744
 summary: |-
-  <div>
-  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>該考試於2021年1月31日失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/?resource_type=examination'>“流覽認證和考試”頁面</a>.<br/><br/></strong></font></div>
 
   本測驗的應試者可以安全使用Windows Server 2016環境。應試者熟悉使用受防護和支援加密的虛擬機器和 Guarded Fabric 來強化伺服器環境和安全虛擬機器基礎結構的方法和技術。
 
@@ -21,7 +19,6 @@ subTitle: 本測驗的應試者可以安全使用Windows Server 2016環境。應
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IDM3
 practiceTestUrl: https://www.mindhub.com/70-744-Securing-Windows-Server-2016-p/mu-70-744_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=744&examname=Securing%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-744
 locales:
 - en
 - es
@@ -40,6 +37,7 @@ skills:
 - 管理特權身份(25-30%)
 - 實作 Threat Detection 解決方案(15-20%)
 - 實作特定工作負載安全(5-10%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

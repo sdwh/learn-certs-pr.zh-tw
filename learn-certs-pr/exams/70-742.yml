@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-742
 displayName: 70-742
 summary: |-
-  <div>
-  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>該考試於2021年1月31日失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/?resource_type=examination'>“流覽認證和考試”頁面</a>.<br/><br/></strong></font></div>
 
   此測驗的應試者使用Windows Server 2016中的功能管理身份。應試者安裝，設定，管理和維護 Active Directory 網域服務 (AD DS) 以及實作群組原則物件 (GPO)。
 
@@ -19,7 +17,6 @@ subTitle: 此測驗的應試者使用Windows Server 2016中的功能管理身份
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1l
 practiceTestUrl: https://www.mindhub.com/70-742-Identity-with-Windows-Server-2016-Microsoft-p/mu-70-742_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=742&examname=Identity%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-742
 locales:
 - en
 - es
@@ -37,6 +34,7 @@ skills:
 - 建立及管理群組原則(25-30%)
 - 實作 Active Directory 憑證服務 (AD CS) (10-15%)
 - 實作身份聯合和存取解決方案 (15-20%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

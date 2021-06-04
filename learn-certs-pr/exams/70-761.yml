@@ -6,16 +6,13 @@ metadata:
 uid: exam.70-761
 displayName: 70-761
 summary: |-
-  <div>
-  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>該考試於2021年1月31日失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/?resource_type=examination'>“流覽認證和考試”頁面</a>.<br/><br/></strong></font></div>
 
   本測驗適合具有兩年以上經驗、且想驗證其編寫查詢技能與知識的 SQL Server 資料庫管理員、系統工程師和開發人員。
 subTitle: 本測驗適合具有兩年以上經驗、且想驗證其編寫查詢技能與知識的 SQL Server 資料庫管理員、系統工程師和開發人員。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiOm
 practiceTestUrl: https://www.mindhub.com/search?query=70-761&amp;categoryId=11284?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=761&examname=Querying%20Data%20with%20Transact-SQL&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-761
 locales:
 - en
 levels:
@@ -24,6 +21,7 @@ skills:
 - 使用 Transact-SQL 來管理資料 (40-45%)
 - 使用進階 Transact-SQL 元件來查詢資料 (30-35%)
 - 使用 Transact-SQL 來程式設計資料庫 (25-30%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

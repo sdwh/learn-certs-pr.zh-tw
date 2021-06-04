@@ -6,18 +6,12 @@ metadata:
 uid: exam.az-204
 displayName: AZ-204
 summary: |-
-  <div>
-  <div><strong> 該測驗的內容更新于 2020 年 5 月 18 日.請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>本次考試的內容於2021年3月26日進行了更新。請下載下面的技能測試文檔，看看有何變化。</strong></font><br/><br/></div>
   </div>
 
   參加該測驗的應試者應具有主題知識，可以在 Microsoft Azure 上設計、構建、測試和維護雲端應用程式和服務。
 
-  Azure 開發人員的職責包括參與從需求定義和設計到開發、部署和維護的雲端開發、效能調整和監控的所有階段。
-  <br/>
-
-  Azure 開發人員與遠端解決方案架構師、雲端 DBA、雲端管理員和客戶端合作以實作解決方案。
-
-  參加此測驗的應試者應具有 1-2 年的專業開發經驗以及 Microsoft Azure 的經驗。此外，該角色應具有使用 Azure 支援的語言進行編程的能力，並熟練使用 Azure SDK、Azure PowerShell、Azure CLI、資料存儲選項、資料連接、API、應用程式身份驗證和授權、計算和容器部署、調試、效能調整，以及監控。
+  該認證的考生應有1-2年的專業開發經驗以及使用 Microsoft Azure 的經驗。此外，該認證的考生應該能夠使用 Azure 所支援的語言進行程式設計，並能熟練使用 Azure SDKs, Azure PowerShell, Azure CLI, 資料存儲選項、資料連接、APIs, 應用程式驗證和授權、計算和容器部署、調試、性能調優及監控。
 
   如果你通過本次認證考試，你可能有資格獲得 ACE 大學學分。有關詳細資訊，請參閱 [ACE 大學認證考試學分](/learn/certifications/ace-credit-for-certification-exams)。
 subTitle: '此測驗會評量您達成下方技術性工作的能力：開發 Azure 計算解決方案；開發 Azure 儲存;實作 Azure 安全性;監視，疑難排解和最佳化 Azure 解決方案;並連接以及使用 Azure 服務和第三方服務。'
@@ -36,12 +30,12 @@ providers:
 levels:
 - intermediate
 skills:
-- 該測驗的內容更新于 2020 年 5 月 18 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
-- 開發 Azure 計算解決方案(25-30%)
-- 開發 Azure 存儲(10-15%)
-- 實作 Azure 安全(15-20%)
-- 監視，疑難排解和最佳化 Azure 解決方案(10-15%)
-- 連接並使用 Azure 服務和第三方服務(25-30%)
+- 本次考試的內容於2021年3月26日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
+- 開發 Azure 計算解決方案 (25-30%)
+- 開發 Azure 存儲 (15-20%)
+- 實作 Azure 安全 (20-25%)
+- 監視，疑難排解和最佳化 Azure 解決方案 (15-20%)
+- 連接並使用 Azure 服務和第三方服務 (15-20%)
 roles:
 - developer
 products:
@@ -92,10 +86,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

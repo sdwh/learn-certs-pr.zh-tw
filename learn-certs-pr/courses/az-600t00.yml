@@ -1,0 +1,160 @@
+### YamlMime:Course
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub
+metadata:
+  title: 'Course AZ-600T00-A: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  description: 'Course AZ-600T00-A: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+uid: course.az-600t00
+courseNumber: 'AZ-600T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 為 Azure Stack Hub 部署做準備
+- skill: 管理 Azure Stack Hub 的基礎設施證書
+- skill: 管理 Azure Stack Hub 註冊
+- skill: 配置 Azure Stack Hub 主目錄
+- skill: 為 Azure Stack Hub 提供服務主體
+- skill: 推薦業務連續性和災難恢復 (BCDR) 策略
+- skill: 通過使用特權端點來管理 Azure Stack Hub
+- skill: 管理 Azure Stack Hub 市場
+- skill: 提供“應用服務”和 Event Hub 資源提供者
+- skill: 管理用量和帳單
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+- azure-stack
+- azure-stack-edge
+- azure-stack-hci
+- azure-stack-hub
+- azure-app-service
+- azure-event-hubs
+- azure-active-directory
+exams:
+- uid: exam.az-600
+summary: |-
+  本課程教授 Azure 管理員和 Azure Stack Hub 操作員如何規劃、部署、打包、更新並維護 Azure Stack Hub 基礎設施。課程包括部署 Azure Stack Hub，管理 Azure Stack Hub Marketplace，提供“應用服務”和 Event Hub 資源提供者，管理 Azure Stack Hub 註冊，並維護系統健康。
+
+  #### 視聽眾群體
+  AZ-600&#58; Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub 課程的學生有興趣成為 Azure Stack Hub 操作員，他們通過使用 Azure Stack Hub，在自己的資料中心內為最終使用者或客戶提供 cloud 服務。
+  Azure Stack Hub 操作員的職責包括規劃、部署、打包、更新並維護 Azure Stack Hub 基礎設施。他們還提供混合 cloud 資源及請求的服務，並管理基礎設施即服務 (IaaS) 和平臺即服務 (PaaS)。
+prerequisitesSection: |-
+  成功的 Azure Stack Hub 學生之前有作業系統、虛擬化、cloud 基礎設施、存儲結構和聯網方面的經驗&#58;
+  - 瞭解包括 VMs 和虛擬網路在內的本地虛擬化技術
+  - 瞭解網路配置，其中包括 TCP/IP、Domain Name System (DNS)、虛擬私人網路 (VPNs)、防火牆及加密技術
+  - 瞭解“活動目錄”概念，包括域、林及網域控制站
+  
+  如果您是 Azure 和 cloud 計算的新手，請考慮以下資源之一&#58;
+  - 線上免費&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+  - 教師引導式線上課程&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  - Azure administrators 預備知識 (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
+outlineSection: |-
+  ### 模組 1&#58; Azure Stack Hub 概述
+  在本模組中，您將學習 Azure Stack Hub 如何是 Azure 的一個擴展，它提供了一種在本地環境中運行應用程式並在您的資料中心中交付 Azure 服務的方法。
+  #### 課程
+  - Azure Stack Hub
+  - 資料中心集成
+  - Azure Stack Hub PowerShell
+  - 模組審核問題
+
+  完成此模組後，學生們將能夠&#58;
+  - 描述邊緣和斷開連接解決方案
+  - 描述 Azure Stack Hub 集成系統架構
+  - 說明 Azure Stack Hub 部署選項
+  - 定義 Azure Stack Hub, Azure Stack HCI 和全域 Azure 之間的區別
+  
+  
+  ### 模組 2&#58; 提供服務
+  在本模組中，您將學習如何在斷開連接的環境中填充 Azure Stack Hub Marketplace，部署“應用服務”資源提供商，部署 Event Hubs 資源提供，創建並管理配額、計畫、報價和訂閱，以及管理用量和帳單。
+  #### 課程
+  - 管理 Azure Stack Hub Marketplace
+  - 提供“應用服務”資源提供商
+  - 提供 Event Hubs 資源提供商
+  - 提供服務
+  - 管理用量和帳單
+  - 模組審核問題
+  
+  #### 實驗室&#58; 在 Azure Stack Hub 中管理報價和計畫
+  
+  #### 實驗室&#58; 通過使用 Azure Gallery Packager 來添加自訂“市場專案”
+  
+  #### 實驗室&#58; 用 Azure Stack Hub 來驗證 Azure Resource Manager (ARM) 範本
+
+  #### 實驗室&#58; 可選的實驗室&#58; 在 Azure Stack Hub 中實施 SQL Server 資源提供者
+  
+  完成此模組後，學生們將能夠&#58;
+  - 創建自訂的 Azure Stack Hub Marketplace 專案
+  - 部署並更新“應用服務”資源提供者
+  - 計畫 Event Hubs 資源提供者部署
+  - 創建並管理用戶訂閱
+  - 管理多租戶和 CSP 場景下的用量和帳單
+  
+  
+  ### 模組 3&#58; 實施資料中心集成
+  在本模組中，您將學習如何準備 Stack Hub 部署，推薦並驗證證書，以及在連接和斷開連接的環境中進行註冊。
+  #### 課程
+  - 為 Azure Stack Hub 部署做準備
+  - 管理 Azure Stack Hub 註冊
+  - 模組審核問題
+  
+  完成此模組後，學生們將能夠&#58; 
+  - 使用 Usage API 查看並檢索用量資料
+  - 推薦名稱解析策略
+  - 驗證身份提供者集成
+  - 驗證證書
+  - 推薦註冊模式
+  
+  
+  ### 模組 4&#58; 管理 Azure Stack Hub 的身份和訪問
+  在本模組中，您將學習如何配置 Azure Stack Hub 主目錄，用 Azure Stack Hub 註冊客人租戶目錄，並確定適當的存取方法（服務主體、使用者、組）。
+  #### 課程
+  - 管理多租戶
+  - 管理訪問
+  - 模組審核問題
+
+  #### 實驗室&#58; 在 Azure Stack Hub 中委託報價管理
+  #### 實驗室&#58; 在 Azure Stack Hub 中管理服務主體
+  
+  完成此模組後，學生們將能夠&#58;
+  - 用 Azure Stack Hub 註冊客人租戶目錄
+  - 對客人租戶目錄進行更新
+  - 在 Azure Stack Hub 中配置訪問
+  - 創建自訂角色
+  
+  
+  ### 模組 5&#58; 管理 Azure Stack Hub 基礎設施
+  在本模組中，您將瞭解如何通過使用 REST API 來監控系統運行狀況，如何使用 Syslog Server 來監控系統運行狀況，如何使用 PowerShell 按需採集診斷日誌，如何為基礎設施備份配置存儲目標，以及如何手動下載並導入更新包。
+  #### 課程
+  - 管理系統健康
+  - Azure Stack Hub 上的 Azure Monitor
+  - 規劃並配置業務連續性和災難恢復
+  - 管理容量
+  - 更新基礎設施
+  - 通過使用特權端點來管理 Azure Stack Hub
+  - 模組審核問題
+  
+  #### 實驗室&#58; 通過 PowerShell 連接到 Azure Stack Hub
+  
+  #### 實驗室&#58; 在 Azure Stack Hub 中訪問特權端點
+
+  #### 實驗室&#58; 在 Azure Stack Hub 中管理日誌採集
+
+  #### 實驗室&#58; 配置並管理 Azure Stack Hub 存儲帳戶
+
+  #### 實驗室&#58; 在 Azure Stack Hub 中管理公共 IP 地址
+
+  #### 實驗室&#58; 配置 Azure Stack Hub 基礎設施備份
+
+  
+  完成此模組後，學生們將能夠&#58;
+  - 包括諸如 Event Hubs 之類的資源提供者
+  - 管理現場更換或維修
+  - 為基礎設施備份配置存儲目標
+  - 更新 Azure Stack Hub
+  - 解鎖技術支援會話
+  - 連接到特權端點
+  - 通過使用 Test-AzureStack 進行系統診斷

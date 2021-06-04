@@ -6,16 +6,15 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div><div><strong>該考試的內容將於2021年1月27日進行更新。請下載以下技能測量文檔，來看看會發生哪些變化。</strong><br/><br/></div>
-  </div>
-
-  作為端到端基礎結構的一部分，參加此測驗的應試者應具有主題方面的專業知識，以實施安全控制和威脅防護、管理身份和存取以及保護雲端和混合環境中的資料、應用程式和網路。
+  <div><font color='red'><strong>本次考試的內容將於2021年6月2日進行更新。請下載以下的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
+  
+  參加本次考試的考生應具有實施安全控制和威脅防護、管理身份和訪問以及保護資料、應用程式和網路方面的學科知識專長。
 
   Azure 安全工程師的職責包括維護安全狀況，使用各種安全工具識別和補救漏洞，實作威脅保護以及對安全事件升級做出響應。
 
-  Azure 安全工程師通常是一個較大的團隊的一部分，該團隊致力於基於雲端的管理和安全性，或者作為端到端基礎結構的一部分的混合環境。
-
-  參加該測驗的應試者應該熟悉腳本和自動化，應該對網路和虛擬化有深刻的了解。應試者還應該對雲端功能，Azure產品和服務以及其他Microsoft產品和服務非常熟悉。
+  Azure 安全工程師通常是致力於基於 cloud 的管理和安全的更大規模團隊的一部分，也可作為端到端基礎設施的一部分來保護混合環境。
+  
+  參加本次考試的考生應熟悉腳本和自動化，並對聯網和虛擬化有著深刻的理解。考生還應非常熟悉 cloud 能力、Azure 產品和服務，以及其他 Microsoft 產品和服務。
 subTitle: '此測驗測量您完成以下技術任務的能力：管理身份識別和存取；實作平台防護；管理安全性作業；和保護資料和應用程式。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
@@ -33,7 +32,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 該考試的內容將於2021年1月27日進行更新。請下載以下考試技巧大綱，來看看會發生哪些變化。
+- 本次考試的內容將於2021年6月2日進行更新。請下載下面的考試技巧大綱，看看將有何變化。
 - 實作與管理身份與存取 (30-35%）
 - 實作平台防護 (15-20%)
 - 管理安全操作 (25-30%)
@@ -65,10 +64,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

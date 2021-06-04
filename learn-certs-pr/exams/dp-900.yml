@@ -6,8 +6,7 @@ metadata:
 uid: exam.dp-900
 displayName: DP-900
 summary: |-
-  <div><div><strong>該考試的內容將於2021年1月27日進行更新。請下載以下技能測量文檔，來看看會發生哪些變化。</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>本次考試的內容於2021年4月23日進行了更新。請下載下面的技能測試文檔，看看有何變化。</strong></font><br/><br/></div>
   
   參加該測驗的考生應具有核心資料概念的基本知識，以及如何使用 Microsoft Azure 資料服務實作這些知識。
   
@@ -19,7 +18,7 @@ summary: |-
 subTitle: '證明您可以描述以下內容：核心資料概念；如何在 Azure 上使用關係資料；如何在 Azure 上使用非關係資料以及 Azure 上的分析工作負載。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
-practiceTestUrl: https://in.mindhub.com/dp-900-microsoft-azure-data-fundamentals-microsoft-official-practice-test/p/MU-DP-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/dp-900-microsoft-azure-data-fundamentals-microsoft-official-practice-test/p/MU-DP-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
@@ -38,7 +37,7 @@ locales:
 levels:
 - beginner
 skills:
-- 該考試的內容將於2021年1月27日進行更新。請下載以下考試技巧大綱，來看看會發生哪些變化。
+- 本次考試的內容於2021年4月23日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
 - 描述核心資料概念 (15-20%)
 - 描述如何在 Azure 上使用關係資料 (25-30%)
 - 描述如何在 Azure 上使用非關係資料 (25-30%)
@@ -64,10 +63,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

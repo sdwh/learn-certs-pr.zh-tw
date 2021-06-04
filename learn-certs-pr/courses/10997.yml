@@ -1,0 +1,217 @@
+### YamlMime:Course
+title: Office 365 Administration and Troubleshooting
+metadata:
+  title: 'Course 10997-D: Office 365 Administration and Troubleshooting'
+  description: 'Course 10997-D: Office 365 Administration and Troubleshooting'
+uid: course.10997
+courseNumber: '10997-D'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 Office 365 服務。
+- skill: 通過使用 Microsoft 365 管理中心和 Office 365 服務管理中心來管理 Office 365
+- skill: 管理目錄同步及目錄物件並排除故障。
+- skill: 管理 Exchange Online 並排除故障。
+- skill: 管理 Teams 並排除故障。
+- skill: 管理 SharePoint Online 並排除故障。
+- skill: 計畫和部署面向企業的 Microsoft 365 應用程式。
+- skill: 管理 Office 365 中的合規性和安全性，並排除故障。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  這是一次為期3天的“講師指導的培訓” (ILT) 課程，目標是參與管理、配置、故障排除和操作 Office 365 服務的資訊技術 (IT) 專業人員的需求，其中包括它的標識、相關性、需求和支援技術。本課程側重於管理並解決 Office 365 租戶和 Office 365 關鍵服務所需的技能，比如 Exchange Online, SharePoint Online 和 Teams. 它還涵蓋了 Office 365 的安全及合規特性。
+
+  #### 視聽眾群體
+  本課程針對那些希望學習 Office 365 管理和故障排除技術的 IT 專業人員和系統管理員。這些專業人員應在其各自的領域擁有至少3年的工作經驗&#58; 最好是在系統管理、網路管理和資訊收發領域。
+prerequisitesSection: |-
+  在參加本課程之前，學生必須具備&#58;
+  - 至少2年 Windows Server 作業系統管理經驗，包括 Windows Server 2012 或更新版本。
+  - 至少1年使用Active Directory Domain Services (AD DS) 的經驗
+  - 至少1年的名稱解析工作經驗，包括 DNS。
+  - 證書使用經驗，包括公開金鑰基礎設施 (PKI) 證書。
+  - 使用 Windows PowerShell 的經驗。
+  - 使用 Microsoft Exchange Server 2013 或更新版本、Microsoft Lync 2013 Server 或 Skype for Business 2015 Server，以及 Microsoft SharePoint Server 2013 或更新版本方面的經驗是有益的，但不是必需的。
+outlineSection: |-
+  ### 模組 1&#58; Office 365 服務
+  本模組描述了 Office 365 的特性，並指出了該服務最近的改進。它還確定了許可證選項，描述了 Office 365 租戶配置的過程，並列出了適當的 Office 365 用戶端選項。
+  #### 課程
+  - Office 365 服務概述
+  - Microsoft 365 和 Office 365 許可證概述
+  - Microsoft 365 租戶配置
+  - Office 365 用戶端
+
+  
+  #### 實驗室&#58; 設立並配置 Office 365 服務
+  - 設立 Microsoft 365 實驗室環境
+  - 配置 Office 365 服務
+  
+  完成此模組後，學生們將能夠&#58;
+  - 描述 Microsoft 365 和 Office 365服務。
+  - 說明 Microsoft 365 和 Office 365 許可證選項。
+  - 描述 Microsoft 365 租戶配置。
+  - 描述可用的 Office 365 用戶端。
+  
+  
+  ### 模組 2&#58; Office 365 管理、工具和技術
+  本模組描述了如何通過使用管理門戶和 Windows PowerShell 來管理 Office 365。它還說明了如何在 Microsoft 365 中控制管理許可權並排除管理方面的故障。
+  #### 課程
+  - 使用管理門戶來管理 Office 365
+  - 借助 Windows PowerShell 來管理 Office 365
+  - 在 Microsoft 365 中控制管理許可權
+  - 在 Office 365 中排除管理方面的故障
+  
+  
+  #### 實驗室&#58; 管理 Office 365
+  - 使用 Microsoft 365 管理中心
+  - 借助 Windows PowerShell 來管理 Office 365
+  - 配置基於角色的管理
+  - 解決 Office 365 中的管理問題
+  
+  完成此模組後，學生們將能夠&#58;
+  - 通過使用管理門戶來管理 Office 365。
+  - 通過使用 Windows PowerShell 來管理 Office 365。
+  - 在 Microsoft 365 中控制管理許可權。
+  - 在 Office 365 中排除管理方面的故障
+  
+  
+  ### 模組 3&#58; 管理目錄同步及目錄物件並排除故障
+  本模組描述了目錄同步及聯合。該模組說明了如何管理 Microsoft Azure Active Directory Connect (Azure AD Connect) 以及 Office 365 中的使用者和組物件。此外，它還描述了如何解決 Office 365 中的物件及目錄同步問題。
+  #### 課程
+  - 目錄同步及聯合概述
+  - Azure AD Connect 管理
+  - 管理 Microsoft 365 中的使用者和組物件
+  - 解決 Office 365 中的物件及目錄同步問題
+  
+  
+  #### 實驗室&#58; 管理 Microsoft 365 中的目錄同步、使用者和組
+  - 配置 Azure AD Connect
+  - 通過使用 Microsoft 365 管理中心和 Office 365 服務管理中心來管理 Office 365
+  - 通過使用 Windows PowerShell 來管理 Office 365
+  - 管理 Microsoft 365 中的密碼策略
+  - 解決 Microsoft 365 中使用者物件的同步問題
+  
+  完成此模組後，學生們將能夠&#58;
+  - 描述目錄同步及聯合。
+  - 管理Azure AD Connect.
+  - 管理 Office 365 中的使用者和組物件。
+  - 解決 Office 365 中的物件及目錄同步問題
+  
+  
+  ### 模組 4&#58; 管理 Exchange Online 並排除故障
+  本模組描述了 Exchange Online 中的訂閱選項和角色。它說明了如何管理 Exchange Online 中的 Exchange Online 收件人和用戶端訪問策略，以及如何排除 Exchange Online 的故障。
+  #### 課程
+  - Exchange Online 管理概述
+  - 管理 Exchange Online 收件人
+  - 管理 Exchange Online 中的用戶端訪問策略
+  - 排除 Exchange Online 的故障。
+  
+  
+  #### 實驗室&#58; 管理 Exchange Online 並排除故障
+  - 配置並管理 Exchange Online 收件人
+  - 配置委託管理
+  - 配置用戶端訪問策略
+  - 排除 Exchange Online 的故障
+  
+  完成此模組後，學生們將能夠&#58;
+  - 描述 Exchange Online 中的訂閱選項和角色。
+  - 管理 Exchange Online 收件人。
+  - 管理 Exchange Online 中的用戶端訪問策略。
+  - 排除 Exchange Online 的故障。
+  
+  
+  ### 模組 5&#58; 管理 Teams 並排除故障
+  本模組描述了 Teams，並說明了如何管理、控制 Teams 並排除故障。
+  #### 課程
+  - Teams 概述
+  - 管理並控制 Teams
+  - 在 Teams 中創建並管理團隊
+  - 排除 Teams 的故障
+  
+  
+  #### 實驗室&#58; 管理 Teams
+  - 配置 Teams 組織設置
+  - 配置 Teams 使用者設置
+  - 創建並管理團隊
+  - 解決 Teams 用戶端問題
+  
+  完成此模組後，學生們將能夠&#58;
+  - 描述 Teams。
+  - 管理並控制 Teams。
+  - 創建並管理團隊。
+  - 解決 Teams 的問題。
+  
+  
+  ### 模組 6&#58; 管理 SharePoint Online 並排除故障
+  本模組描述了如何配置 SharePoint Online 設置和網站集以及外部用戶對 SharePoint Online 的訪問。它還說明了如何管理 Microsoft OneDrive for Business 同步以及如何排除 SharePoint Online 的故障。
+  #### 課程
+  - SharePoint Online 管理概述
+  - 管理 SharePoint Online 網站集
+  - 管理 SharePoint Online 中的外部使用者
+  - 配置 OneDrive for Business
+  - 排除 SharePoint Online 和 OneDrive for Business 的故障
+  
+  
+  #### 實驗室&#58; 配置並管理 SharePoint Online
+  - 配置 SharePoint Online 設置
+  - 創建並配置 SharePoint 網站集
+  - 配置並驗證外部使用者共用
+  - 配置 OneDrive for Business
+  - 排除 SharePoint Online 和 OneDrive for Business 的故障
+  
+  完成此模組後，學生們將能夠&#58;
+  - 管理 SharePoint Online。
+  - 配置 SharePoint Online 網站集。
+  - 配置外部使用者對 SharePoint Online 的訪問。
+  - 管理 OneDrive for Business 同步。
+  - 排除 SharePoint Online 和 OneDrive for Business 的故障。
+  
+  
+  ### 模組 7&#58; 計畫並部署面向企業的 Microsoft 365 應用程式
+  本模組描述了面向企業的 Microsoft 365 應用程式。它還說明了如何為企業部署計畫並管理用戶驅動的 Microsoft 365 應用程式，以及如何對這些部署進行故障排除。
+  #### 課程
+  - 面向企業的 Microsoft 365 應用程式概述
+  - 管理面向企業部署的 Microsoft 365 應用程式
+  - 為 Microsoft 365 應用程式部署排除故障
+  
+  
+  #### 實驗室&#58; 管理面向企業安裝的 Microsoft 365 應用程式
+  - 準備面向企業安裝的 Microsoft 365 應用程式
+  - 管理使用者驅動的、面向企業安裝的 Microsoft 365 應用程式
+  - 管理集中的、面向企業安裝的 Microsoft 365 應用程式
+  - 為面向企業部署的 Microsoft 365 應用程式排除故障
+  
+  完成此模組後，學生們將能夠&#58;
+  - 描述面向企業的 Microsoft 365 應用程式。
+  - 計畫並管理用戶驅動的、面向企業部署的 Microsoft 365 應用程式。
+  - 排除面向企業部署的 Microsoft 365 應用程式的故障。
+  
+  
+  ### 模組 8&#58; 管理 Office 365 的合規及安全並排除故障
+  本模組描述了 Office 365 的合規特性。它說明了如何管理 Azure 資訊保護及 Office 365 中的合規特性，如何配置並管理 Office 365 中的電子郵件安全，以及如何解決 Office 365 的合規及保護問題。
+  #### 課程
+  - Office 365 中的合規特性概述
+  - 管理 Office 365 中的資訊保護
+  - 管理 Office 365 中的合規特性
+  - 在 Office 365 中配置並管理電子郵件安全
+  - 解決 Office 365 的合規及保護問題
+  
+  
+  #### 實驗室&#58; 配置合規性和安全性並排除故障
+  - 在 Office 365 中配置並驗證 Azure 資訊保護
+  - 配置合規特性
+  - 配置電子郵件保護
+  - 排除安全及合規故障
+  
+  完成此模組後，學生們將能夠&#58;
+  - 描述 Office 365 中的合規特性。
+  - 在 Office 365 中管理 Azure 資訊保護。
+  - 在 Office 365 中管理合規特性。
+  - 在 Office 365 中配置並管理電子郵件安全
+  - 解決 Office 365 的合規及保護問題

@@ -7,7 +7,7 @@ uid: exam.70-464
 displayName: 70-464
 summary: |-
   <div>
-  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  <div><font color='red'><strong>該考試於2021年1月31日失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/?resource_type=examination'>“流覽認證和考試”頁面</a>.<br/><br/></strong></font></div>
   </div>
 
   本測驗適合跨組織建置及實作資料庫，並確保資料為高度可用的資料庫專業人員。其職責包括建立資料庫檔案、資料類型及資料表；規劃、建立及最佳化索引；確保資料完整；實作檢視畫面、預存程式及函式，和管理交易和鎖定。
@@ -17,7 +17,6 @@ subTitle: 本測驗適合跨組織建置及實作資料庫，並確保資料為�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkI
 practiceTestUrl: https://www.mindhub.com/70-464-developing-microsoft-sql-server-databases/p/MU-70-464?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=464&examname=Developing%20Microsoft%20SQL%20Server%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-464
 locales:
 - en
 - zh-cn
@@ -32,6 +31,7 @@ skills:
 - 實作編程對象 (15-20%)
 - 設計資料庫物件 (25-30%)
 - 最佳化與排除查詢故障 (25-30%)
+retirementDate: 01/31/2021
 roles:
 - data-engineer
 products:

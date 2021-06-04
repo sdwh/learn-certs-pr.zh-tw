@@ -20,6 +20,7 @@ locales:
 - de
 - ja
 - ko
+- zh-cn
 levels:
 - intermediate
 skills:
@@ -38,7 +39,7 @@ relatedCertifications:
 resources:
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證儀錶板
   description: 查看和管理您的預定約會、證書和成績單。
   href: https://www.microsoft.com/learning/dashboard.aspx

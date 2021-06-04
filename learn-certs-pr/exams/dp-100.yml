@@ -6,8 +6,7 @@ metadata:
 uid: exam.dp-100
 displayName: DP-100
 summary: |-
-  <div><div><strong>該考試的內容已於2020年12月8日進行了更新。請下載以下技能測量文檔，來看看會發生哪些變化。</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>本次考試的內容將於2021年5月20日進行更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
 
   Azure 資料科學家套用他們在資料科學和機器學習方面的知識在 Azure 上實作和執行機器學習工作負載；特別是使用 Azure 機器學習服務。這需要為 Azure 上的資料科學工作負載規劃和建立合適的工作環境，執行資料實驗和訓練預測模型，管理和最佳化模型，以及將機器學習模型部署到生產中。
 
@@ -25,7 +24,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 該考試的內容已於2020年12月8日進行了更新。請下載以下考試技巧大綱，來看看發生了哪些變化。
+- 本次考試的內容將於2021年5月20日進行更新。請下載下面的考試技巧大綱，看看將有何變化。
 - 設定 Azure 機器學習工作區（30-35％）
 - 執行實驗和訓練模型（25-30％）
 - 最佳化和管理模型（20-25％）
@@ -52,10 +51,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ABJV
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

@@ -22,6 +22,7 @@ summary: |-
 subTitle: '本次考試將衡量您完成以下技術任務的能力：配置Dynamics 365 Supply Chain Management, Manufacturing；管理製造流程；實施主生產計畫；實現其他製造特徵。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVs
+practiceTestUrl: https://in.mindhub.com/mb-320-microsoft-dynamics-365-supply-chain-management-manufacturing-microsoft-official-practice-test/p/MU-MB-320?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-320&examname=Exam%20MB-320:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Manufacturing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-320
 locales:
 - en
@@ -57,7 +58,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBE
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
