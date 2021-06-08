@@ -6,7 +6,7 @@ metadata:
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  您是一名希望磨練諮詢和配置技能的業務顧問、資料分析師或開發人員，或者是一名想要獲得解決方案架構師證書的解決方案架構師嗎？或者，您也許是一名具有配置Microsoft Power Platform知識和經驗的IT專業人士。如果這描述的是您，並且您熟悉Microsoft Dynamics 365模型驅動的應用程式和資料建模原理，那麼就請探究Microsoft Power Platform Functional Consultant Associate認證能夠如何幫助您提升職業生涯，並使您成為團隊中的關鍵成員。該證書向世界表明，您被認為有資格構建和實施那些使用Power Apps、Power BI和Power Virtual Agents的解決方案。
+  您是一位元功能顧問、資料分析師，或者是希望磨練您的諮詢及配置技能的開發人員嗎？亦或是一位在通往解決方案架構師認證的道路上前進的解決方案架構師？或者也許您是一位元具有配置 Microsoft Power Platform 的知識和經驗的 IT 專業人員。如果這個描述的是您而且您熟悉使用 Power Platform 元件來擴展並定制 Microsoft 應用程式及服務，比如Teams, Dynamics 365, Excel, 以及 Word，請探究 Microsoft Power Platform Functional Consultant Associate 認證如何能夠助您提高職業生涯，並讓您成為您所在團隊的關鍵成員。該認證向全世界表明，您被認為有資格構建並實施那些使用 Power Apps, Power BI, 和 Power Virtual Agents 的解決方案。
   
   作為該證書的候選人，您需要與一個組織的利益相關者和主題內容專家（如解決方案架構師、開發人員和測試人員）一起收集需求，然後實施Microsoft Power Platform解決方案。您可以構建模型驅動的、canvas和門戶應用程式。而且您可以創建Power Automate流程，使用Power Virtual Agents來設計聊天機器人，並借助Power BI視覺化和儀錶板來分析資料。您甚至可以創建應用程式優化處理、自訂使用者體驗、系統集成、資料轉換、自訂流程自動化和自訂視覺化。
   
@@ -20,7 +20,7 @@ subTitle: 作為一名業務顧問，使用該證書可以在專案和其他工�
 levels:
 - intermediate
 skills:
-- 設定公共資料服務
+- 配置 Microsoft Dataverse
 - 使用Power Apps建立應用
 - 建立和管理 Power Automate
 - 實作 Power Virtual Agents 聊天機器人
@@ -67,7 +67,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Gn93
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

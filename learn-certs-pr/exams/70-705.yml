@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-705
 displayName: 70-705
 summary: |-
-  <div>
-  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>該考試於2021年1月31日失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/?resource_type=examination'>“流覽認證和考試”頁面</a>.<br/><br/></strong></font></div>
 
   本考試是為向大型組織銷售授權解決方案的銷售人員設計的。此類別中的組織通常具有 250 個或更多裝置或使用者。應試者應至少有六個月的銷售 Microsoft 授權解決方案的經驗，以及對所有 Microsoft 企業授權解決方案有基本瞭解，包括 Enterprise 合約，Enterprise Subscription 合約，雲端解決方案提供者(CSP)，MPSA, OEM, 以及 Open 和 Open Value。
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: 本考試是為向大型組織銷售授權解決方案的銷售人員設計的。此類別中的組織通常具有 250 個或更多裝置或使用者。應試者應至少有六個月的銷售 Microsoft 授權解決方案的經驗，以及對所有 Microsoft 企業授權解決方案有基本瞭解，包括 Enterprise 合約，Enterprise Subscription 合約，雲端解決方案提供者(CSP)，MPSA, OEM, 以及 Open 和 Open Value。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trl8
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=705&examname=Designing%20and%20Providing%20Microsoft%20Licensing%20Solutions%20to%20Large%20Organizations&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-705
 locales:
 - en
 - zh-cn
@@ -33,6 +30,7 @@ skills:
 - 推薦適當的技術解決方案 (60%〜65%)
 - 推薦適當的軟體保障優勢 (10-15%)
 - 推薦授權解決方案 (20-25%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

@@ -8,8 +8,8 @@ summary: |
   安全工程師實作安全控制和威脅防護、管理身分識別和存取、並保護資料、應用程式和網路。
 subTitle: 安全工程師實作安全控制和威脅防護、管理身分識別和存取、並保護資料、應用程式和網路。
 certificationPaths: 
-- title: Azure 安全工程師
-  linkedInKeywords: Azure 安全工程師
+- title: Azure Security Engineer
+  linkedInKeywords: Azure Security Engineer
   uid: certification-path.azure-security-engineer 
   prerequisites: 
   - uid: certification.azure-fundamentals
@@ -19,18 +19,59 @@ certificationPaths:
   - uid: certification.azure-security-engineer
     levels:
     - intermediate
-   
+- title: Identity and Access Administrator
+  linkedInKeywords: Identity and Access Administrator
+  uid: certification-path.identity-and-access-administrator
+  prerequisites: 
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.identity-and-access-administrator
+    levels:
+    - intermediate
+- title: Information Protection Administrator
+  linkedInKeywords: Information Protection Administrator
+  uid: certification-path.information-protection-administrator
+  prerequisites: 
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.information-protection-administrator
+    levels:
+    - intermediate
+- title: Security Operations Analyst
+  linkedInKeywords: Security Operations Analyst
+  uid: certification-path.security-operations-analyst
+  prerequisites: 
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.security-operations-analyst
+    levels:
+    - intermediate
 certifications:
 - uid: certification.azure-security-engineer
   requiredExams:
   - uid: exam.az-500
+- uid: certification.security-operations-analyst
+  requiredExams:
+  - uid: exam.sc-200
+- uid: certification.identity-and-access-administrator
+  requiredExams:
+  - uid: exam.sc-300
+- uid: certification.information-protection-administrator
+  requiredExams:
+  - uid: exam.sc-400
 resources:
 - title: Microsoft 訓練和認證指南
   description: 在簡明的訓練和認證指南中探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 訓練和認證海報
   description: 透過此訓練和認證海報選取您的成功路徑。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 支持認證
   href: ../help.md
   description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。

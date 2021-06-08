@@ -7,7 +7,7 @@ uid: exam.70-412
 displayName: 70-412
 summary: |-
   <div>
-  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  <div><font color='red'><strong>該考試於2021年1月31日失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/?resource_type=examination'>“流覽認證和考試”頁面</a>.<br/><br/></strong></font></div>
   </div>
 
   此測驗是三個系列測驗的第三部分，該系列測試在企業環境中管理 Windows Server 2012 基礎結構所需的技能和知識。若通過這項測驗，即驗證了此應試者有能力執行部署、管理及維護 Windows Server 2012 基礎結構所需的進階設定工作，例如容錯、憑證服務及識別同盟。通過本測驗與其他兩個測驗證明應試者擁有實作、管理、維護與佈建 Windows Server 2012 環境中的服務與基礎結構的必備技能與知識。
@@ -17,7 +17,6 @@ subTitle: 此測驗是三個系列測驗的第三部分，該系列測試在企�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixW
 practiceTestUrl: https://www.mindhub.com/70-412-Configuring-Advanced-Windows-Server-2012-Se-p/mu-70-412_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=412&examname=Configuring%20Advanced%20Windows%20Server%202012%20Services&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-412
 locales:
 - en
 - zh-cn
@@ -34,6 +33,7 @@ skills:
 - 設定網路服務
 - 設定 Active Directory 基礎結構
 - 設定存取和資訊保護解決方案
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

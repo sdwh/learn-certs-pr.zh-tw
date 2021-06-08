@@ -28,6 +28,12 @@ locales:
 - pl
 - ja
 - tr
+- ar-sa
+- bg-bg
+- id-id
+- hu-hu
+- ro
+- vi-vn
 levels:
 - beginner
 skills:

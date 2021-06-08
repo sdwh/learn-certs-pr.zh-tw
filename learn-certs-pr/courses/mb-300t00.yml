@@ -42,7 +42,20 @@ products:
 exams:
 - uid: exam.mb-300
 summary: |-
-  Dynamics 365 Finance and Operations應用程式包括但不限於Dynamics 365 Finance, Dynamics 365 Supply Chain Management, 以及Dynamics 365 Supply Chain Management, Manufacturing。Dynamics 365 Finance可以幫您&#58;實現全球金融業務的自動化和現代化。即時監控業績，預測未來結果，並做出資料驅動的決策，以推動業務增長。以人工智慧(AI)驅動戰略財務決策，統一和自動化您的財務流程，減少運營費用，並降低全球財務複雜性和風險。Dynamics 365 Supply Chain Management可以幫您&#58; 改變您的製造和供應鏈運營。在規劃、生產、庫存、倉庫和運輸管理中使用來自AI和Internet of Things (IoT)的預測性洞察和智能。實現運營效率、產品品質和盈利能力的最大化。借助智慧製造業務進行創新，實現倉庫管理現代化，優化生產性能，最大化您的資產壽命，以及自動化並精簡您的供應鏈。注意&#58; 欲瞭解更多資訊，請參閱 https://docs.microsoft.com/learn/paths/get-started-finance-operations/ 在本模組中，我們將關注終端使用者和顧問最常用的Dynamics 365 Finance應用程式的核心特性和功能。
+  Dynamics 365 Finance and Operations 應用程式包括，但不限於 Dynamics 365 Finance, Dynamics 365 Supply Chain Management, 以及 Dynamics 365 Supply Chain Management, “製造業”。
+  Dynamics 365 Finance可助您&#58;
+  - 實現全球金融業務的自動化及現代化。
+  - 即時監控性能，預測未來結果，並做出資料驅動的決策，從而推動業務增長。
+  - 借助人工智慧 (AI) 來推動戰略財務決策，統一和自動化您的財務流程，減少運營費用，並降低全球金融的複雜性及風險。
+  
+  Dynamics 365 Supply Chain Management 可助您&#58;
+  - 轉變製造和供應鏈運作。
+  - 在規劃、生產、庫存、倉庫和運輸管理中使用來自 AI 和物聯網 (IoT) 的預測性洞察及智能。
+  - 最大化運營效率、產品品質和盈利能力。
+  - 創新智慧製造業務，現代化倉庫管理，優化生產績效，最大化您的資產壽命，以及自動化並精簡您的供應鏈。
+  
+  注意&#58; 如需更多資料，請參閱 https://docs.microsoft.com/learn/paths/get-started-finance-operations/
+  在本模組中，我們將重點關注 Dynamics 365 Dynamics 365 Finance 應用程式的核心特性及功能，這些應用程式是終端使用者和顧問最常用到的。
 
   #### 對象設定檔
   Dynamics 365 for Finance and Operations Functional Consultant負責執行發現、捕獲需求、吸引主題內容專家和利益相關者、轉換需求，並配置該解決方案和應用程式。“功能顧問”通過使用現成的功能、無代碼可擴展性、應用程式和服務集成來實施解決方案。
@@ -52,16 +65,7 @@ prerequisitesSection: |-
   - 能夠將 Dynamics 365 for Finance and Operations 進行基本處理
   - 基本的行動裝置功能和導覽一般知識
 outlineSection: |-
-  ### 模組 1&#58; 課程概述
-  本課程涵蓋了Dynamics 365 Finance and Operations應用程式的核心功能。在這裡討論的總體主題包括核心公共特性、核心配置、資料移轉和準備工作。本課程是功能顧問和技術顧問的基礎課程。他們應該對Dynamics 365 Finance and Operations應用程式有著基本的瞭解。他們還應瞭解Dynamics 365 Finance and Operations應用程式是如何與包括Power Platform在內的外部系統和工具集成的。通過使用Lifecycle Services及其他Microsoft工具和平臺，顧問積極地管理應用程式的生命週期。
-  #### 課程
-  - 學習目標
-  - 模組概述
-
-  您將學到本課程所涵蓋的模組。
-
-  
-  ### 模組 2&#58; 使用常用的功能和實施工具
+  ### 模組 1&#58; 使用常用的功能和實施工具
   在本模組中，您將學習如何&#58;
   - 使用常用的功能和實施工具。
   - 描述工作區的用例和功能。
@@ -108,7 +112,7 @@ outlineSection: |-
   - 將Power BI與Dynamics 365 Dynamics 365 Finance應用程式集成在一起。
   
   
-  ### 模組 3&#58; 配置安全性、進程和選項
+  ### 模組 2&#58; 配置安全性、進程和選項
   在本模組中，您將學習如何&#58;
   - 區分角色、職責、特權和許可權。
   - 針對用戶運用安全角色。
@@ -175,7 +179,7 @@ outlineSection: |-
   - 設置並監控批量作業和警報。
   
   
-  ### 模組 4&#58; 管理Dynamics 365 Finance and Operation資料
+  ### 模組 3&#58; 管理Dynamics 365 Finance and Operation資料
   在本模組中，您將學習如何&#58;
   - 管理Dynamics 365 Finance and Operations應用程式中的資料。
   - 描述資料管理的概念。
@@ -241,7 +245,7 @@ outlineSection: |-
   - 實現資料任務自動化。
   
   
-  ### 模組 5&#58; 驗證並支援該解決方案
+  ### 模組 4&#58; 驗證並支援該解決方案
   在本模組中，您將學習如何&#58;
   - 描述測試用例和業務需求之間的相關性。
   - 使用最佳實踐來記錄測試用例。

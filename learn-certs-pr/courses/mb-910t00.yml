@@ -1,0 +1,133 @@
+### YamlMime:Course
+title: 'Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
+metadata:
+  title: 'Course MB-910T00--A: Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
+  description: 'Course MB-910T00--A: Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
+uid: course.mb-910t00
+courseNumber: 'MB-910T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 Dynamics 365 Marketing 的能力和功能
+- skill: 描述 Dynamics 365 Sales 的能力和功能
+- skill: 描述 Dynamics 365 Customer Service 的能力和功能
+- skill: 描述 Dynamics 365 Field Service 的能力和功能
+- skill: 描述 Dynamics 365 Project Operations (CRM) 的能力和功能
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-owner
+products:
+- dynamics-365
+summary: |-
+  本課程將為您提供 Dynamics 365 客戶參與能力的廣泛介紹。您將熟悉客戶參與的概念和每個客戶參與的應用程式，這些應用程式包括 Dynamics 365 Marketing, Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service, 以及 Dynamics 365 專案運作的客戶關係管理 (CRM) 能力。本課程將包括講座和操作實驗室。
+
+  #### 視聽眾群體
+  在職業生涯中處於不同角色和不同階段的人們可以從這門基礎課程中受益。這個群體包括 IT 專業人員、業務利益相關者及其他希望接觸 Dynamics 365 客戶參與能力的人、學生、應屆畢業生，以及希望借助 Dynamics 365 提升到下一層次的正在轉行的那些人。
+prerequisitesSection: 學習者應該對客戶參與原則和業務運作有著基本的瞭解。瞭解 cloud 計算是有幫助的，但並不是必需的。
+outlineSection: |-
+  ### 模組 1&#58; 學習 Dynamics 365 Marketing 的基本原理
+  在鑽研 Dynamics 365 Marketing 之前，本模組涵蓋了客戶參與的基本概念以及客戶參與應用程式的共同點。我們從標準的行銷業務流程以及“行銷”如何處理這些流程開始。然後我們檢查產品能力。最後，我們介紹其他市場行銷應用程式，比如 LinkedIn Campaign Manager, Dynamics 365 Customer Voice 以及 Dynamics 365 Customer Insights.
+  #### 課程
+  - 介紹 Dynamics 365 客戶參與應用程式
+  - 檢查 Dynamics 365 Marketing
+  - 描述 Dynamics 365 Marketing 能力
+  - 查看其他行銷應用程式
+
+  #### 實驗室&#58; 使用客戶參與應用程式
+  
+  #### 實驗室&#58; 管理客戶和活動
+  
+  #### 實驗室&#58; 搜索並過濾資料
+  
+  #### 實驗室&#58; Dynamics 365 Marketing Capstone Lab
+  - 創建行銷電子郵件
+  - 在 Dynamics 365 Marketing 中創建細分市場
+  - 創建消費者旅程
+  
+  完成此模組後，學生們將能夠&#58;
+  - 描述客戶參與應用程式及其共同點
+  - 描述標準的行銷流程以及 Dynamics 365 Marketing 如何處理它們
+  - 描述 Dynamics 365 Marketing 的特點和能力
+  - 描述更多的行銷應用程式
+  
+  
+  ### 模組 2&#58; 學習 Dynamics 365 Sales 的基本原理
+  本模組介紹了 Dynamics 365 Sales. 我們從標準的銷售業務流程以及“銷售”如何處理這些流程開始。然後我們檢查產品能力。最後，我們介紹其他銷售應用程式，比如 Sales Insights 和 Sales Navigator。
+  #### 課程
+  - 探索 Dynamics 365 Sales
+  - 借助 Dynamics 365 Sales 來管理銷售生命週期
+  - 查看其他銷售應用程式
+  
+  #### 實驗室&#58; Dynamics 365 Sales Capstone Lab
+  - 創建並限定主管
+  - 管理銷售機會
+  
+  完成此模組後，學生們將能夠&#58;
+  - 描述標準的銷售流程以及 Dynamics 365 Sales 如何處理這些流程
+  - 描述 Dynamics 365 Sales 能力
+  - 描述其他銷售應用程式，比如 Sales Insights 和 Sales Navigator
+  
+  
+  ### 模組 3&#58; 學習 Dynamics 365 Customer Service 的基本原理
+  本模組介紹了 Dynamics 365 Customer Service。我們從標準的客戶服務業務流程以及“客戶服務”如何處理這些流程開始。然後我們檢查產品能力。最後，我們介紹其他的客戶服務應用程式，比如 Omnichannel for Customer Service、Dynamics 365 Customer Service Insights、“客戶服務調度”以及 “聯繫客戶服務”。
+  #### 課程
+  - 檢查 Dynamics 365 Customer Service
+  - 描述 Dynamics Customer Service 能力
+  - 查看其他客戶服務應用程式
+  
+  #### 實驗室&#58; Dynamics 365 Capstone Lab
+  - 創建並發佈一篇知識文章
+  - 管理支持案例的整個生命週期
+  
+  完成此模組後，學生們將能夠&#58;
+  - 描述標準的客戶服務流程以及 Dynamics 365 Customer Service 如何處理這些流程
+  - 描述 Dynamics Customer Service 能力
+  - 描述其他銷售應用程式，比如 Sales Insights 和 Sales Navigator
+  
+  
+  ### 模組 4&#58; 學習 Dynamics 365 Field Service 的基本原理
+  本模組介紹了 Dynamics 365 Field Service。我們從標準的現場服務業務流程以及“現場服務”如何處理這些業務流程開始。然後我們檢查產品能力，包括工作訂單生成、調度、庫存管理和資產管理。
+  #### 課程
+  - 檢查 Dynamics Field Service
+  - 在 Dynamics 365 Field Service 中生成工作訂單
+  - 描述 Dynamics 365 Field Service 的調度能力
+  - 檢查 Dynamics 365 Field Service 的庫存管理能力
+  - 查看 Dynamics 365 Field Service 的資產管理能力
+  
+  #### 實驗室&#58; Dynamics 365 Capstone Lab
+  - 創建一個案例並升級到工作訂單
+  - 借助 Dynamics 365 Field Service 來安排專案
+  
+  完成此模組後，學生們將能夠&#58;
+  - 描述標準的現場服務業務流程以及 Dynamics 365 Field Service 如何處理這些流程
+  - 描述如何生成工作訂單
+  - 描述 Dynamics 365 Field Service 的調度能力
+  - 描述 Dynamics 365 Field Service 的庫存管理能力
+  - 描述 Dynamics 365 Field Service 的資產管理能力
+  
+  
+  ### 模組 5&#58; 學習 Dynamics 365 Project Operations (CRM) 的基本原理
+  本模組介紹了 Dynamics 365 Project Operations 的客戶參與方面。我們從標準的基於專案的業務流程以及“專案運營”如何處理這些業務流程開始。然後我們檢查產品能力，包括銷售、專案管理和資源利用。
+  #### 課程
+  - 檢查 Dynamics 365 Project Operations
+  - 描述 Dynamics 365 Project Operations 的銷售能力
+  - 利用 Dynamics 365 Project Operations 計畫項目
+  - 審查 Dynamics 365 Project Operations 的資源利用能力
+  
+  #### 實驗室&#58; Dynamics 365 Project Operations Capstone Lab
+  - 創建基於專案的主管
+  - 管理基於專案的機會
+  - 創建專案報價和專案估算
+  
+  完成此模組後，學生們將能夠&#58;
+  - 描述 Dynamics 365 Project Operations 所處理的基於專案的客戶參與過程
+  - 描述 Dynamics 365 Project Operations 的銷售能力
+  - 描述 Dynamics 365 Project Operations 的專案管理能力
+  - 描述 Dynamics 365 Project Operations 的資源利用能力
+  
+  #### 課外閱讀
+  請在 Microsoft Learn 上查看與本課程相關的內容。請注意，每個產品都有一個單獨的學習路徑。

@@ -6,8 +6,7 @@ metadata:
 uid: exam.ai-900
 displayName: AI-900
 summary: |-
-  <div><div><strong>該考試的內容將於2021年1月27日進行更新。請下載以下技能測量文檔，來看看會發生哪些變化。</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>本次考試的內容於2021年4月23日進行了更新。請下載下面的技能測試文檔，看看有何變化。</strong></font><br/><br/></div>
   
   參加此測驗的應試者應具有機器學習 (ML) 和人工智慧 (AI) 概念以及相關的 Microsoft Azure 服務的基礎知識。
   
@@ -38,7 +37,7 @@ locales:
 levels:
 - beginner
 skills:
-- 該考試的內容將於2021年1月27日進行更新。請下載以下考試技巧大綱，來看看會發生哪些變化。
+- 本次考試的內容於2021年4月23日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
 - 描述 AI 工作負載和注意事項 (15-20%)
 - 描述 Azure 上機器學習的基本原理 (30-35%)
 - 描述 Azure 上的電腦視覺工作負載的功能 (15-20%)
@@ -82,10 +81,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARlg
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

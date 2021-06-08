@@ -6,6 +6,9 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
+  <div><div><font color='red'><strong>本次考試的內容於2021年3月23日進行了更新。請下載下面的技能測試文檔，看看有何變化。</strong></font><br/><br/></div>
+  </div>
+
   此測驗的應試者設計，開發，保護Power Platform解決方案並對其進行疑難排解。應試者應實作包括應用程式增強功能、自訂使用者體驗、系統整合、資料轉換、自訂流程自動化和自訂視覺效果在內的解決方案組件。
 
   應試者必須對Power Platform服務具有廣泛的應用知識，包括對功能，邊界和約束的深入了解。應試者應對 Power Platform 的 DevOps 實作有基本的理解。
@@ -20,8 +23,9 @@ locales:
 levels:
 - intermediate
 skills:
+- 本次考試的內容於2021年3月23日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
 - 建立一項技術設計 (10-15%)
-- 設定公共資料服務 (15-20%)
+- 配置 Microsoft Dataverse (15-20%)
 - 建立和設定 Power Apps (15-20%)
 - 配置業務流程自動化 (5-10%)
 - 擴展使用者體驗 (10-15%)
@@ -54,7 +58,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GBWZ
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

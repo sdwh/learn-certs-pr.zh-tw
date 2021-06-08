@@ -52,7 +52,16 @@ summary: |-
 
   本課程的學生對Azure開發或通過Microsoft Azure Developer Associate認證考試感興趣。
 prerequisitesSection: |-
-  學生應具有1-2年的專業開發經驗，和使用Microsoft Azure的經驗。他們必須能夠用Azure支援的語言程式設計。
+  要想在這門課程中取得成功，學習者應具備以下幾點&#58;
+  - Azure IaaS 和 PaaS 解決方案以及 Azure 門戶的實際操作經驗。
+  - 使用 Azure 支援語言進行編寫的中級經驗。(C#, JavaScript, Python, 或 Java)
+  - 能夠編寫代碼，從而在一個 SQL 或 NoSQL 資料庫產品上連接並執行操作。(SQL Server, Oracle, MongoDB, Cassandra 或類似資料庫)
+  - 編寫代碼以處理身份驗證、授權及其他安全原則的中級經驗。
+  - 對 HTML、HTTP 協定和 REST API 介面的大致瞭解。
+  
+  如果您是 Azure 和 cloud 計算的新手，可以考慮以下資源&#58;
+  - 線上免費&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+  - 教師引導式線上課程&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
 outlineSection: |-
   ### 模組 1&#58; 創建Azure App Service網路應用程式
   學生將學習如何在Azure應用服務（App Service ）平臺上構建web應用程式。他們將學習這個平臺是如何運作的，以及如何創建、配置、擴展、並安全地部署到應用服務平臺。

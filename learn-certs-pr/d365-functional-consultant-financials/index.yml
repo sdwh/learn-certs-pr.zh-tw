@@ -7,7 +7,18 @@ uid: certification.d365-functional-consultant-financials
 certificationRenewalUid: renewal.d365-functional-consultant-financials
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Dynamics 365 財務功能顧問負責統一全球財務與操作，自動化任務與流程，以及簡明化客戶預定、銷售、開票與報告工作。
+  如果您有分析業務需求並將其轉化為基於行業最佳實踐的成功業務流程和解決方案的功能顧問經驗，那麼請使用此證書來證明您的技能並為您的職業發展提供幫助。您需要具備實施和配置 Dynamics 365 Finance 方面的經驗，以滿足業務需求。
+  
+  該認證非常適合那些在財務部門從事應收賬款、應付帳款、總帳、固定資產、預算、成本核算及成本管理或費用等工作的人員。您必須對企業會計原理和財務運作有著基本的瞭解。
+  
+  如果您在設法獲得該認證之前需要更多的經驗，這裡有一些建議&#58;
+  - 與使用 Dynamics 365 Finance 的功能顧問一起工作。
+  - 在一個或多個專案中擔任功能顧問。
+  - 從事一個財務諮詢專案。
+  - 加入專家和同行社區[community.dynamics.com](https://community.dynamics.com/).
+  - 在 Microsoft Learn 上採取可用的學習路徑。
+  - 報名參加一門由教師指導的培訓課程。
+  - 完成更多的親身實踐。
 subTitle: 'Dynamics 365 財務功能顧問負責統一全球財務與操作，自動化任務與流程，以及簡明化客戶預定、銷售、開票與報告工作。'
 levels:
 - intermediate
@@ -56,7 +67,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRF
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證學習途徑
   description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56Y

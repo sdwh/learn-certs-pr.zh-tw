@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-382
 displayName: 98-382
 summary: |-
+  <div><font color='red'><strong>本次 MTA 考試必須在2021年6月30日前購買。如果您目前正在學習這門考試，那麼您必須在一年內，即2022年6月30日之前參加考試，因為到那時它就會失效。請參閱<a href="/learn/certifications/mta-retirement-faqs">這個 FAQ</a> 以獲取更多詳情。</strong></font></br></br></div>
+  
   本測試的應徵者應能夠識別並書寫語法正確的 JavaScript 代碼，使用 JavaScript 支持的資料類型，而且要能夠識別並書寫能在邏輯上解決一個給定問題的 JavaScript 程式碼。
 
   我們希望應徵者至少要參加過 100 個小時的與 JavaScript 程式語言相關的課程，或者具有類似的實際經驗。應徵者還應熟悉 JavaScript 的特徵和功能，並理解如何書寫、偵錯，以及維護語式正確、記載正確的 JavaScript 程式碼。
@@ -36,6 +38,7 @@ skills:
 - 實作並分析決策和迴圈 (20-25%)
 - 與文件物件模型互動 (15-20%)
 - 與 HTML 表單互動 (5-10%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:

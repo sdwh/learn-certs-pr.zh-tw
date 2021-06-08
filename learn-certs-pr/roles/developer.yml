@@ -19,9 +19,9 @@ certificationPaths:
   - uid: certification.azure-developer
     levels:
     - intermediate 
-- title: Dynamics 365 Finance and Operations Apps Developer [Dynamics 365 財務與營運 APP 開發人員]
-  linkedInKeywords: Dynamics 365 Finance and Operations Apps Developer [Dynamics 365 財務與營運 APP 開發人員]
-  uid: certification.d365-finance-and-operations-apps-developer-associate
+- title: Dynamics 365 Finance and Operations Apps Developer
+  linkedInKeywords: Dynamics 365 Finance and Operations Apps Developer
+  uid: certification-path.d365-finance-and-operations-apps-developer-associate
   prerequisites: 
   - uid: certification.d365-fundamentals
     isOptional: true
@@ -32,7 +32,7 @@ certificationPaths:
     - intermediate 
 - title: Microsoft 365 Developer
   linkedInKeywords: Microsoft 365 Developer
-  uid: certification.m365-developer-associate
+  uid: certification-path.m365-developer-associate
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
     isOptional: true
@@ -41,17 +41,17 @@ certificationPaths:
   - uid: certification.m365-developer-associate
     levels:
     - intermediate 
-- title: Power Apps + Dynamics 365 Developer
-  linkedInKeywords: Power Apps + Dynamics 365 Developer
-  uid: certification.power-apps-and-d365-developer-associate
+- title: Power Platform Developer
+  linkedInKeywords: Power Platform Developer
+  uid: certification-path.power-platform-developer-associate
   prerequisites: 
   - uid: certification.power-platform-fundamentals
     isOptional: true
     levels:
     - beginner 
-  - uid: certification.power-apps-and-d365-developer-associate
+  - uid: certification.power-platform-developer-associate
     levels:
-    - intermediate 
+    - intermediate
 certifications:
 - uid: certification.azure-developer
   requiredExams:
@@ -72,10 +72,10 @@ certifications:
 resources:
 - title: Microsoft 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 訓練和認證海報
   description: 透過此訓練和認證海報選取您的成功路徑。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 支援認證
   href: ../help.md
   description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。

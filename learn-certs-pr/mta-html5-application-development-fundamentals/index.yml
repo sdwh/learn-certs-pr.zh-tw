@@ -6,6 +6,8 @@ metadata:
 uid: certification.mta-html5-application-development-fundamentals
 iconUrl: /media/learn/certification/badges/mta-badge.svg
 summary: |-
+  <div><font color='red'><strong>本次 MTA 認證將於2022年6月30日失效。相關考試必須在2021年6月30日前購買，且必須在一年內即2022年6月30日前完成。請參閱<a href="/learn/certifications/mta-retirement-faqs">這個 FAQ</a> 以獲取更多詳情.</strong></font></br></br></div>
+
   如果您想進入技術領域，MTA認證是一個很好的開始。MTA 認證解決基本技術概念的廣泛範圍，評估和驗證核心技術知識，並增強技術可信度 。Note&#58; 通過 MTA 測驗不代表取得 MCP 認證，也不是取得 MCSA 或 MCSD 認證的必要條件。
 subTitle: '如果您想進入技術領域，MTA認證是一個很好的開始。MTA 認證解決基本技術概念的廣泛範圍，評估和驗證核心技術知識，並增強技術可信度 。Note: 通過 MTA 測驗不代表取得 MCP 認證，也不是取得 MCSA 或 MCSD 認證的必要條件。'
 levels:
@@ -17,18 +19,15 @@ roles:
 type: mta
 products:
 - vs
-courses:
-- uid: course.40375
-- uid: course.40034
 exams:
 - uid: exam.98-375
 resources:
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

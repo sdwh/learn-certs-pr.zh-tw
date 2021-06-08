@@ -6,21 +6,15 @@ metadata:
 uid: exam.mb-500
 displayName: MB-500
 summary: |-
-  <div>
-  <div><strong> 該測驗的內容更新于 2020 年 5 月 22 日.請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
-  </div>
-
-  本測驗的應試者應為處理 Microsoft Dynamics 365 中財務與營運APP 的開發人員，他們透過實作和擴展應用程式來滿足業務需求。應試者透過使用標準應用程式編碼模式、延伸功能以及外部整合來提供完全實作的解決方案。
-
-  應試者透過使用 X++ 負責開發業務邏輯，建立和修改財務與運營報告和工作空間，自定義使用者介面，提供服務端點和 API 以支援 Power Platform 應用程式和外部系統、執行測試、監視效能、分析和操縱資料、建立技術設計和實作細節以及實作權限策略安全性要求。
-
-  應試者應參與&#58;從遺留系統和外部係統移轉資料和對象，將財務與營運APP 與其他系統整合，實作應用程式生命週期管理流程，為解決方案規劃功能設計，以及透過生命週期服務 (LCS) 管理財務與營運環境。
-
-  應試者應具備使用與“財務與營運”解決方案相關的基本架構、資料結構和對象的深度知識和專業技能。
-
-  應試者應具備包括 Visual Studio、Azure DevOps、LCS 工具或 SQL Server Management Studio 等在內的產品經驗。
-
-  應試者還應具備以下方面的經驗&#58;使用物件導向式程式語言開發代碼，使用 Transact-SQL 代碼分析和操縱資料，組建並運行 Windows PowerShell 命令和指令碼。
+  <div><font color='red'><strong>本次考試的內容於2021年4月2日進行了更新。請下載下面的技能測試文檔，看看有何變化。</strong></font><br/><br/></div>
+  
+  參加本次考試的考生是那些使用 Microsoft Dynamics 365 中的“財務和運營”應用程式來實施並擴展用於滿足業務需求的應用程式的開發人員。 考生通過使用標準化的應用程式編碼模式、可擴展的特性及外部集成來提供完全實現的解決方案。
+  
+  考生通過使用 X++ 來開發業務邏輯，創建並修改“財務和運營”報告及工作區，定制使用者介面，提供端點和 APIs 以支援 Power Platform 應用程式及外部系統，執行測試，監控性能，分析並操縱資料，創建技術設計及實施細節，並執行許可權策略及安全需求。
+  
+  考生應在使用與“財務和運營”解決方案相關的底層框架、資料結構及物件方面具備深厚的知識和經驗。
+  
+  考生應具備 Visual Studio、Azure DevOps、Lifecycle Services (LCS) 工具以及 SQL Server Management Studio 等產品的使用經驗。
 subTitle: '本測驗衡量您完成以下技術任務的能力：規劃基礎架構和解決方案設計；應用開發人員工具；設計與開發 AOT 元素；開發及測試代碼；實作報告；整合與管理資料解決方案；以及實作安全性和最佳化效能。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42pBB
@@ -30,7 +24,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容更新于 2020 年 5 月 22 日.請下載下面概述的測驗技能，以了解已發生什麼變化。
+- 本次考試的內容於2021年4月2日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
 - 規劃基礎架構和解決方案設計 (10-15%)
 - 應用開發人員工具 (10-15%)
 - 設計與開發 AOT 元素 (20-25%)
@@ -62,7 +56,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cdas
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

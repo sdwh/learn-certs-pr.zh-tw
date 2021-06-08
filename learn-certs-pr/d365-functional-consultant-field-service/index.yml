@@ -7,7 +7,15 @@ uid: certification.d365-functional-consultant-field-service
 certificationRenewalUid: renewal.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Dynamics 365 現場服務功能顧問負責設定現場服務應用程式，實作管理現場服務週期的解決方案，并部署 Connected Field Service (IoT) 解決方案。
+  如果您是一位元負責為客戶配置並實施 Dynamics 365 解決方案的功能顧問，那麼您很適合此認證，因為它可以突出您的技能並為您的職業發展提供幫助。Dynamics 365 Field Service 功能顧問負責實施解決方案，這些解決方案對用於完成現場服務生命週期的資源進行管理。作為一位功能顧問，您知道如何與專案經理、開發人員及解決方案架構師進行合作。您應該至少擁有1-3年作為功能顧問實施 Dynamics 365 的經驗。
+  
+  如果您在設法獲得該認證之前需要更多的經驗，這裡有一些建議&#58;
+  - 在一些項目中擔任 Dynamics 365 功能顧問。
+  - 從事 Dynamics 365 Field Service 的實施。
+  - 加入社區 [community.dynamics.com](https://community.dynamics.com/)。
+  - 在 [Microsoft Learn] 上採取可用的學習路徑(/learn/browse/?expanded=dynamics-365&roles=functional-consultant&resource_type=learning%20path&products=dynamics-field-service)。
+  - 完成更多的親身實踐。
+  - 報名參加一門由教師指導的培訓課程
 subTitle: Microsoft Dynamics 365 現場服務功能顧問負責設定現場服務應用程式，實作管理現場服務週期的解決方案，并部署 Connected Field Service (IoT) 解決方案。
 levels:
 - intermediate
@@ -61,7 +69,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證學習途徑
   description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X

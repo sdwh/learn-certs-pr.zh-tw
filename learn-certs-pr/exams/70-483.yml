@@ -7,7 +7,7 @@ uid: exam.70-483
 displayName: 70-483
 summary: |+
   <div>
-  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  <div><font color='red'><strong>該考試於2021年1月31日失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/?resource_type=examination'>“流覽認證和考試”頁面</a>.<br/><br/></strong></font></div>
   </div>
 
   此測驗的應試者使用C#編寫各種應用程式型別，硬體和軟體平台的基本商業邏輯程式，至少有一年開發經驗的開發人員。
@@ -27,7 +27,6 @@ subTitle: 此測驗的應試者使用C#編寫各種應用程式型別，硬體�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMh
 practiceTestUrl: https://www.mindhub.com/70-483-Programming-in-C-p/mu-70-483_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=483&examname=Programming%20in%20C%23&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-483
 locales:
 - en
 - zh-cn
@@ -43,6 +42,7 @@ skills:
 - 建立和使用型別 (25-30%)
 - 偵錯應用程式並實作安全性 (25-30%)
 - 實作資料存取 (25-30%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:

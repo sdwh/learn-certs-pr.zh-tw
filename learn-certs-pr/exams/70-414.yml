@@ -7,7 +7,7 @@ uid: exam.70-414
 displayName: 70-414
 summary: |-
   <div>
-  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  <div><font color='red'><strong>該考試於2021年1月31日失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/?resource_type=examination'>“流覽認證和考試”頁面</a>.<br/><br/></strong></font></div>
   </div>
 
   此測驗是一系列測驗的第二部分，此系列包含兩個測驗，會測試在企業規模的高度虛擬化環境中設計、實作與維護 Windows Server 2012 基礎結構所需的技能與知識。通過此測驗驗證應試者是否有能力規劃，設定與管理 Windows Server 2012 服務，例如身分與存取、高可用性以及伺服器基礎結構。若通過這項測驗及另一個測驗，即確定此應試者有必要的技能與知識，能夠設計、部署與維護 Windows Server 2012 環境中的服務與基礎結構。
@@ -17,7 +17,6 @@ subTitle: 此測驗是一系列測驗的第二部分，此系列包含兩個測�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t54V
 practiceTestUrl: https://www.mindhub.com/70-414-Implementing-an-Advanced-Infrastructure-p/mu-70-414_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=414&examname=Implementing%20an%20Advanced%20Server%20Infrastructure&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-414
 locales:
 - en
 - zh-cn
@@ -32,6 +31,7 @@ skills:
 - 規劃和實施高度可用的企業基礎架構 (25-30%)
 - 規劃及實作伺服器虛擬化基礎結構 (25-30%)
 - 設計和實作身份和存取解決方案 (20-25%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

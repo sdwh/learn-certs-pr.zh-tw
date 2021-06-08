@@ -23,7 +23,7 @@ skills:
 - 進行設定
 - 管理核心銷售實體
 - 設定其他工具和服務
-- 配置Common Data Service
+- 配置 Microsoft Dataverse
 - 利用Power Apps來創建應用程式
 - 創建和管理Power Automate
 - 實現Power Virtual Agents聊天機器人
@@ -66,7 +66,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C54X
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證學習途徑
   description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0T

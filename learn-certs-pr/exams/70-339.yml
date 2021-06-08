@@ -7,7 +7,7 @@ uid: exam.70-339
 displayName: 70-339
 summary: |-
   <div>
-  <div><strong>該測驗於美國中部時間2021年1月31日晚上11&#58;59淘汰。在此日期之後，您將無法參加測驗。深入瞭解 <a href='/learn/certifications/retired-certification-exams'>即將停止提供的測驗</a>。<br/><br/></strong></div>
+  <div><font color='red'><strong>該考試於2021年1月31日失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/?resource_type=examination'>“流覽認證和考試”頁面</a>.<br/><br/></strong></font></div>
   </div>
 
   本測驗的目標對象是在資料中心和雲端中負責安裝、設定、部署和管理 SharePoint 2016 安裝且經驗豐富的 IT 專業人員。應試者通常擁有四年以上規劃與維護 SharePoint 與 SharePoint 依賴之其他核心技術的經驗，包含 Windows Server 2008 R2 或更新版本、Internet Information Services (IIS)、SQL Server 2008 R2 或更新版本、Active Directory 及網路功基礎架構服務。
@@ -19,7 +19,6 @@ subTitle: 本測驗的目標對象是在資料中心和雲端中負責安裝、�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBh
 practiceTestUrl: https://www.mindhub.com/70-339-Managing-Microsoft-SharePoint-Server-2016-p/mu-70-339_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F70-339
 locales:
 - en
 - es

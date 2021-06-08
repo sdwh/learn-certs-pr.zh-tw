@@ -6,9 +6,17 @@ metadata:
 uid: certification.d365-business-central-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Dynamics 365 業務中心功能顧問負責為中小型企業實作核心應用程式設定過程。
-
-  <div><br/><strong>附註&#58; 該認證將在 2020 年 10 月 6 日或前後可用。</strong></div>
+  如果您是一位為中小型企業實施核心的 Microsoft Dynamics 365 Business Central 設置流程的功能顧問，那麼該認證就是為您準備的。您需要具備配置 Dynamics 365 Business Central 角色中心的經驗，這些角色中心包括適應性見解、線索、操作塊、報告及圖表。並且您應該能夠通過使用 Microsoft Power Platform 元件來擴展 Business Central。
+  
+  您必須具備 Business Central 的應用知識，並應瞭解行業術語、優先順序、標準、方法論及最佳實踐。如果您具備這方面的知識，並且您正在擔任管理員、品質保證人員、DevOps、開發人員、UX 設計人員或者解決方案架構師，那麼 Dynamics 365 Business Central Functional Consultant Associate 認證有可能是一個很好的選擇。
+  
+  如果您在設法獲得該認證之前需要更多的經驗，這裡有一些建議&#58;
+  - 在一個或多個專案中擔任 Business Central 功能顧問。
+  - 為一個 Business Central 諮詢項目做出貢獻，或者幫助交付一個 Business Central 實施方案。
+  - 找一位導師。
+  - 加入[Dynamics 365 Community](https://community.dynamics.com/)。
+  - 在 Microsoft Learn 上面採取可用到的學習路徑，並完成更多的親身實踐。
+  - 報名參加一門由教師指導的培訓課程。
 subTitle: 該認證將在 2020 年 10 月 6 日或前後可用。Dynamics 365 業務中心功能顧問負責為中小型企業實作核心應用程式設定過程。
 levels:
 - intermediate
@@ -50,7 +58,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md
