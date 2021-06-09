@@ -48,9 +48,7 @@ paths:
 - uid: learn.deploy-a-website-with-azure-virtual-machines
 - uid: learn.manage-resources-in-azure
 - uid: learn.deploy-a-website-with-azure-app-service
-- uid: learn.data-science
 - uid: learn.secure-your-cloud-data
-- uid: learn.modern-data-warehouse
 - uid: learn.work-with-nosql-data-in-azure-cosmos-db
 - uid: learn.data-ai.intro-to-ml-with-python
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUJ
