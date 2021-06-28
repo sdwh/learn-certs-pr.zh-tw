@@ -18,6 +18,9 @@ providers:
     examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-600&examname=Exam%20AZ-600:%20Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-600
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - advanced
 skills:

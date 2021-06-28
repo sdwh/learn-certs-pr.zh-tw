@@ -1,6 +1,6 @@
 ﻿---
-title: Microsoft Retired Courses | Microsoft Docs
-description: Microsoft Retired Courses
+title: 課程的取消 | Microsoft Docs
+description: 課程的取消
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,19 +9,54 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# 停用的課程工具
+# 課程的取消
 
-下表列出已停止提供或即將停止提供的課程工具。在停止提供日期後，將不再銷售課程。
+## 關於課程的取消
 
-如果您正在尋找MOC按需停用課程，請點擊以下連結：[https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+Microsoft 持續監測行業趨勢並修改認證要求，以跟上技術變化的步伐。 為了幫助您處於技術前沿，並為您提供最相關的培訓機會，我們會定期引入新課程並修改或暫停老課程。
 
-## 停用的課程工具：講師指導的訓練
+課程一旦取消，就不再可用。該課程無法再購買，之前購買過該課程之人將無法再訪問該課件。
+
+## 已取消的課程：講師指導培訓
+
+* 課件於 2021 年 5 月 31 日取消
+
+    | 課程編號 | 版本 | 標題 | 語言 | 停用日期 |
+    | --- | --- | --- | --- | --- |
+    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | 英文| 5/31/2021 |
+    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | 英文 | 5/31/2021 |
+    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | 英文 | 5/31/2021 |
+
+* 課件於 2021 年 4 月 30 日取消
+
+    | 課程編號 | 版本 | 標題 | 語言 | 停用日期 |
+    | --- | --- | --- | --- | --- | 
+    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | 英文 | 04/30/2021 |
 
 * 課件於2021年3月31日停用。
 
     | 課程編號 | 版本 | 標題 | 語言 | 停用日期 |
     | --- | --- | --- | --- | --- |
     | 20778 | C | Analyzing Data with Power BI | 英文 | 03/31/2021 |
+    | 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | 日文  | 3/31/2021 |
+    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | 日文 | 3/31/2021 |
+    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | 日文  | 3/31/2021 |
+    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | 日文  | 3/31/2021 |
+    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (日文 ) | 日文  | 3/31/2021 |
+    | 40241 | A | MTA Cloud Fundamentals 98-369 (日文 ) | 日文  | 3/31/2021 |
+	| 40349 | B | Windows OS Fundamentals | 英文 | 03/31/2021 |
+    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | 英文 | 3/31/2021 |
+    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | 英文 | 3/31/2021 |
+    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | 英文 | 3/31/2021 |
+    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | 英文 | 3/31/2021 |
+    | 40366 | B | Networking Fundamentals | 英文 | 03/31/2021 |
+    | 40367 | B | Security Fundamentals | 英文 | 03/31/2021 |
+    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | 英文 | 03/31/2021 |
+    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | 英文 | 03/31/2021 |
+	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | 英文 | 3/31/2021 |
+    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | 英文 | 3/31/2021 |
+    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | 英文 | 3/31/2021 |
+    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | 英文 | 3/31/2021 |
 
 * 課程工具於 2020 年 12 月 31 日停用
 
@@ -1161,51 +1196,47 @@ ms.author: micsullivan
 
   * [下載撤銷線上學習課程的完整列表](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 
-## 課件和MOC按需停用常見問題（FAQ）
- 
-**問: 為何課程會撤銷？**
-  
-Microsoft 會持續監看產業趨勢並修訂認證要求，以與技術變化同步邁進。為確保提供您最能與產業接軌的訓練機會，我們會定期推出新課程，並修訂或停止提供較舊的課程。 
+## 已取消的課程：MOC On-Demand
 
-**問: 決定課程應該撤銷的準則有哪些？**
- 
+所有 Microsoft Official Course (MOC) On-Demand 課程均已於 2020 年 6 月 30 日取消。如需已取消的課程完整列表，請訪問：[MOC On-Demand Courses 已取消](/learn/certifications/retired-on-demand-online-courses)。
+
+## 關於課程和 MOC On-Demand 取消的常見問題
+
+**決定課程應該撤銷的準則有哪些？**
+
 通常情況下，課程將在下列其中一種情況下停止提供：
 
 - 該課程已被取代。發佈一門新的課程，它取代以前的一門或多門課程，並以一種全新的方式來講解課程的內容。
-- 如果 Microsoft 不再支援課程中涵蓋的技術，則該課程工具通常會停用。
+- 如果 Microsoft 不再支持某一課程中所涵蓋的技術，那麼該課程通常會被取消。
 - 課程成功與否、或維持課程為最新狀態的成本等相關商務決策，可能會導致課程撤銷。
-- 認證已撤銷。若課程是為不再提供之認證所設計的，課程工具可能會停止提供。
+- 認證已取消。如果不再提供課程設計時所對應的認證，那麼該程式會被取消。
 - 非 Microsoft 作者透過社群著作計劃所提供的課程，可能因任何原因應作者要求而撤銷。
 - 品質考量可能會導致課程撤銷。若課程被認為有品質上的疑慮，則可能停止提供課程，直到品質提升為止。
   
-**問: 如何得知課程撤銷？**
+**如何得知課程撤銷？**
   
 Microsoft 會每季發佈停止提供，以及排定於未來三至六個月停止提供的課程清單。停止提供的公告會透過與訓練合作夥伴、訓練人員、廠商和其他相關對象的通訊分享。Microsoft 訓練目錄與課程工具庫目錄中的課程說明也會更新並公告停止提供日期。
 
-**問: 如何在撤銷日期過後購買課程？**
+**如何在撤銷日期過後購買課程？**
 
 在停止提供日期後，將不再銷售課程。停止提供日期會經由各課程的目錄網頁和與各對象的一般通訊管道發佈。停止提供日期生效當天，課程工具會標示為不再銷售。為避免混淆，課程在停止提供後會在一段期間內被列為非供銷售，直到封存並完全自目錄撤除為止。
 
-**問: 能否在課程撤銷之前購買數位版本，然後在撤銷日期後下載或使用？**
+**能否在課程撤銷之前購買數位版本，然後在撤銷日期後下載或使用？**
 
 課程停止提供後，您就無法存取下載。若您在停止提供日期之前下載或收到課程工具，則可依照授權條款加以使用。
 
-**問: 如果撤銷課程在其撤銷之前已經在「我的學習計劃」中分配給我，和/或已經新增到「我的課程」部分，會出現什麼情形？**
+**如果撤銷課程在其撤銷之前已經在「我的學習計劃」中分配給我，和/或已經新增到「我的課程」部分，會出現什麼情形？**
 
-在其撤銷後，您將繼續在「我的課程」部分看到這些課程，但嘗試啟用撤銷課程將導致錯誤訊息。
+這些課程取消後，您將繼續能夠在“我的課程”部分中看到這些課程，但在嘗試打開已取消的課程時，會出現錯誤資訊。
 
-**問: 如果撤銷前我沒有完成課程，我可以在撤銷後完成嗎？**
+**如果我在某一課程取消之前未完成該課程，那麼我是否可以在該課程取消後完成該課程？**
 
 不能。課程停止提供後，您將無法再存取。
   
-**問: 進行中的課程撤銷時，在課程活動報表中會如何表示？**
+**進行中的課程撤銷時，在課程活動報表中會如何表示？**
 
 課程活動報表會顯示您在課程停止提供時的課程進度。舉例而言，如果使用者在課程停止提供時完成 60%，那麼課程活動報表會顯示 60% 完成進度。課程停止提供之後，就無法改變課程的完成百分比。
 
-**問: 是否還可以在線上學習網站上找到撤銷的課程？**
+**是否還可以在線上學習網站上找到撤銷的課程？**
 
 不行。搜尋結果或課程目錄中不會再出現停止提供的課程。
-
-**問: 當課程撤銷時，相關的MOC On-Demand（MOD）是否也會退休？**
-
-是。因為 MOD 是與課程工具在一起的，所以當課程停止提供時，MOD 將在同一天停止提供。

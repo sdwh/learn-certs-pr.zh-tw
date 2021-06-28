@@ -15,7 +15,7 @@ skillsGained:
 - skill: 使用資源管理器、Azure入口、Cloud Shell 和 CLI 管理Azure
 - skill: 設定站點間連接解決方案，例如 VNet Peering 和虛擬網路閘道
 - skill: 管理 Azure 應用服務，Azure 容器執行個體和 Kubernetes
-learningPartnersLink: /learn/certifications/partners
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -24,16 +24,16 @@ roles:
 - solution-architect
 products:
 - azure
-exams:
-- uid: exam.az-303
 summary: |-
   本課程教以前為Amazon Web Services設計的解決方案架構師如何將業務需求轉換為Azure的安全、可擴充和可靠的解決方案。課程包括虛擬化、自動化、網路、存儲、身份、安全性、資料平台和應用程式基礎結構。本課程概述了這些領域的決策對整體解決方法的影響。
 
   #### 對象設定檔
   本課程面向具有設計和實作在AWS上運行的解決方案的專業知識的AWS Cloud 架構師，他們現在想為Microsoft Azure設計。
 prerequisitesSection: |-
+  要想在這門課程中取得成功，學習者應具備以下幾點&#58;
+
   - 作為一名AWS架構師（>1年），具有跨存儲結構，計算，網路以及與外部資源/服務的交互設計安全且可擴充的AWS雲端解決方案的經驗。
-  - 了解內部虛擬化技術，包括&#58;VM、虛擬網路和虛擬硬碟。
+  - 了解內部虛擬化技術，包括&#58; VM、虛擬網路和虛擬硬碟。
   - 了解網路設定，包括TCP/IP，網域名稱系統（DNS），虛擬私人網路（VPN），防火牆和加密技術。
   - 了解 Active Directory 概念，包括網域，樹系，網域控制站，複寫，Kerberos 通訊協定和輕量型目錄存取通訊協定（LDAP）。
   - 了解恢復和災害復原，包括備份和還原操作。

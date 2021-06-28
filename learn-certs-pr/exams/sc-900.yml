@@ -14,9 +14,22 @@ summary: |-
 subTitle: '本次考試可衡量您描述以下內容的能力：安全、合規及標識的概念；Microsoft身份和訪問管理解決方案的能力；Microsoft安全解決方案的能力；以及Microsoft合規解決方案的能力。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- nl
+- fr
+- es
+- pt-br
+- ru
+- ar-sa
 levels:
 - beginner
 skills:
@@ -52,6 +65,8 @@ paths:
 - uid: learn.wwl.describe-capabilities-of-microsoft-identity-access-management-solutions
 - uid: learn.wwl.describe-capabilities-of-microsoft-security-solutions
 - uid: learn.wwl.describe-capabilities-of-microsoft-compliance-solutions
+courses:
+- uid: course.sc-900t00
 relatedCertifications:
 - related:
     uid: certification.security-compliance-and-identity-fundamentals

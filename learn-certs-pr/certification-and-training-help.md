@@ -1,6 +1,6 @@
 ---
-title: Microsoft Official Courseware (MOC) 幫助 | Microsoft Docs
-description: Microsoft Official Courseware (MOC)幫助
+title: Microsoft Official Courseware (MOC) 支持 | Microsoft Docs
+description: Microsoft Official Courseware (MOC) 支持
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,11 +9,15 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Microsoft Official Courseware (MOC)幫助
+# Microsoft Official Courseware (MOC) 支持
 
-您需要Microsoft Official Courseware (MOC)的支援嗎？請從以下國家/地區列表與您的區域支援中心聯繫。請注意，這些支援選項僅適用於MOC。有關Microsoft認證或測驗的幫助，請轉到 [Certification Help](/learn/certifications/help)。
+## 關於 MOC 支持
+
+Microsoft Official Courseware (MOC) 是在我們的課程中所使用的材料。在世界各地，對 MOC 的支援按地區進行管理。
 
 ## MOC 地區聯絡資訊
+
+請注意，這些支援選項僅適用於 MOC。有關 Microsoft Certifications 或考試的幫助，請訪問：[認證支持](/learn/certifications/help).
 
 | 國家 | 電話+語言| 電子郵件| 附加資訊| 聯繫方式|
 | ------- | ---------------- | --------- | ------------- | ---------------- |
@@ -118,7 +122,3 @@ ms.author: micsullivan
 | Vietnam | (65) 6622 1237 | [課程工具 Marketplace 查詢](https://support.microsoft.com/en-my/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-my&SC=VN) |  | 9:00 to 18:00 (9:00 A.M. to 6:00 P.M.) 星期一至星期五 新加坡時間 |
 | 英屬維爾京群島 | 英語：+1 305 715-1492<br/>西班牙語: +1 305 715-1490<br/>葡萄牙語: +1 305 715-1491 | [課程工具 Marketplace 查詢](https://support.microsoft.com/en-gb/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-gb&SC=VG) | 請注意，這些是美國號碼。您的電話服務運營商可能會收取長途或國際費率。| 英文上午7點至下午7點(星期一至星期五)哥倫比亞時間<br/>西班牙語: 上午7點至下午7點(星期一至星期五)哥倫比亞時間<br/>葡萄牙語: 上午9點至下午6點(星期一至星期五)BRT巴西時間 |
 | 美屬維爾京群島 | 英語：+1 305 715-1492<br/>西班牙語: +1 305 715-1490<br/>葡萄牙語: +1 305 715-1491 | [課程工具 Marketplace 查詢](https://support.microsoft.com/en-gb/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-gb&SC=VI) | 請注意，這些是美國號碼。您的電話服務運營商可能會收取長途或國際費率。| 英文上午7點至下午7點(星期一至星期五)哥倫比亞時間<br/>西班牙語: 上午7點至下午7點(星期一至星期五)哥倫比亞時間<br/>葡萄牙語: 上午9點至下午6點(星期一至星期五)BRT巴西時間 |
-
-## 認證幫助
-
-有關 Microsoft 認證方面的協助，請[按一下此處](/learn/certifications/help).

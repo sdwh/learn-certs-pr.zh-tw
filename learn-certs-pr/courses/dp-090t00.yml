@@ -1,0 +1,112 @@
+### YamlMime:Course
+title: Implementing a Machine Learning Solution with Microsoft Azure Databricks
+metadata:
+  title: 'Course DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
+  description: 'Course DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
+uid: course.dp-090t00
+courseNumber: 'DP-090T00'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 配置 Azure Databricks 工作區和群集
+- skill: 使用 Azure Databricks 訓練機器學習模型
+- skill: 使用 MLflow 進行實驗跟蹤以及管理機器學習模型
+- skill: 將 Azure Databricks 與 Azure Machine Learning 進行集成
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-scientist
+products:
+- azure
+summary: |-
+  Azure Databricks 是一種 cloud-規模平臺，用於資料分析和機器學習。在本次為期一天的課程中，您將學習如何使用 Azure Databricks 來探索和準備資料以及進行資料建模，並學習將 Databricks 機器學習程式與 Azure Machine Learning進行集成。
+
+  #### 受眾個人資料
+
+  本次課程專為具有 Python 經驗且需要學習如何在 Azure Databricks 中應用其資料科學與機器學習技能的資料科學家設計。
+prerequisitesSection: |-
+  在參加本次課程之前，您應具有使用 Python 處理資料的經驗，以及關於機器學習概念的某些知識。在參加本次課程之前，請在 Microsoft Learn 中完成以下學習路徑：
+
+  *   [創建機器學習模型](https://docs.microsoft.com/learn/paths/create-machine-learn-models/)
+outlineSection: |-
+  ### 模型 1：Azure Databricks 簡介
+
+  在該模型中，您將學習如何配置 Azure Databricks 工作區和群集，以及使用它們處理資料。
+
+  #### 課程
+
+  *   Azure Databricks 入門
+
+  *   在 Azure Databricks 中處理資料
+
+  #### 實驗室：Azure Databricks 入門
+
+  #### 實驗室：在  Azure Databricks 中處理資料
+
+  完成該模型後，您將能夠：
+
+  *   配置 Azure Databricks  工作區和群集
+
+  *   使用 Azure Databricks 處理資料
+
+  ### 模型 2：訓練及評估機器學習模型
+
+  在該模型中，您將學習如何使用 Azure Databricks 準備建模資料，以及訓練和驗證機器學習模型。
+
+  #### 課程
+
+  *   準備機器學習資料
+
+  *   訓練機器學習模型
+
+  #### 實驗室：訓練機器學習模型
+
+  #### 實驗室：準備機器學習資料
+
+  完成該模型後，您將能夠使用 Azure Databricks 進行以下操作：
+
+  *   準備建模資料
+
+  *   訓練和驗證機器學習模型
+
+  ### 模型 3：管理實驗和模型
+
+  在該模型中，您將學習如何使用 MLflow 來對在 Azure Databricks 中運行的實驗進行跟蹤，以及如何管理機器學習模型。
+
+  #### 課程
+
+  *   使用 MLflow 進行實驗跟蹤
+
+  *   管理模型
+
+  #### 實驗室：使用 MLflow 進行實驗跟蹤
+
+  #### 實驗室：管理模型
+
+  完成該模型後，您將能夠：
+
+  *   使用 MLflow 進行實驗跟蹤
+
+  *   管理模型
+
+  ### 模型 4：將 Azure Databricks 與 Azure Machine Learning 進行集成
+
+  在該模型中，您將學習如何將 Azure Databricks 與 Azure Machine Learning 進行集成
+
+  #### 課程
+  *   使用 Azure Machine Learning 進行實驗跟蹤
+
+  *   部署模型
+
+  #### 實驗室：在 Azure Machine Learning 中部署模型
+
+  #### 實驗室：在 Azure Machine Learning 中運行實驗
+
+  完成該模型後，您將能夠：
+
+  *   利用 Azure Databricks 計算運行  Azure Machine Learning 實驗
+
+  *   將在 Azure Databricks 中訓練的模型部署到 Azure Machine Learning 中

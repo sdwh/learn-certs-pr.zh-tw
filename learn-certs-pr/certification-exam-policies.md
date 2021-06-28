@@ -17,6 +17,7 @@ ms.prod: non-product-specific
 - [Exam security policy and exam retake policy](/learn/certifications/exam-security-policy-and-exam-retake-policy)
 - [Exam reschedule and cancellation policy](/learn/certifications/exam-reschedule-and-cancellation-policy)
 - [Microsoft certification program agreement](/learn/certifications/microsoft-certification-program-agreement)
+- [Microsoft certification non-disclosure agreement](/learn/certifications/microsoft-certification-renewal-non-disclosure-agreement)
 - [Microsoft exam non-disclosure agreement](/learn/certifications/microsoft-exam-non-disclosure-agreement)
 - [Request accommodations](/learn/certifications/request-accomodations)
 - [Exam item challenge process](/learn/certifications/exam-item-challenge-process)
