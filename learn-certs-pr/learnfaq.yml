@@ -1,0 +1,72 @@
+### YamlMime:FAQ
+metadata:
+  title: 從 Learning 轉移到 Microsoft Learn | Microsoft Docs
+  description: 從 Learning 轉移到 Microsoft Learn
+  documentationcenter: NA 
+  author: micsullivan
+  ms.topic: article
+  ms.tgt_pltfrm: NA
+  ms.workload: NA
+  ms.date: 06/18/2020
+  ms.author: msulliv
+  ms.prod: non-product-specific
+    
+title: 從 Learning 轉移到 Microsoft Learn
+summary: |
+
+  ## 我們的新學習平臺
+
+  就像大多數技術一樣，我們也在進行更新。這次來到我們的學習平臺。我們正在合併 Microsoft Learning 網站與 Microsoft Learn 網站。 
+      
+  Microsoft Learn 是您探索和學習我們技術之旅的起點。在這裡，您可以發現一個全面的培訓選項集合，讓您能夠以最適合您的方式來學習。 
+      
+  Microsoft Learn 所提供的免費自定進度學習路徑&#58;
+  
+                 
+  - 簡短的、循序漸進的教程。
+  - 基於流覽器的互動式編碼/腳本環境。
+  - 基於任務的業績。
+  - 由教師引導的培訓選項。
+  
+  在 Microsoft Learn 上發現 Microsoft Certifications，同時我們繼續為 Microsoft 學習者提供單一的學習目的地。
+  
+  ## 關於該轉變的常見問題
+
+sections:
+  - name: 關於該轉變的常見問題
+    questions:
+      - question: |
+          內容是何時轉移到 Microsoft Learn 的？
+        answer: |
+          我們於2019年將 Microsoft Learning (https://microsoft.com/learning) 網頁轉移到 Microsoft Learn (https://docs.microsoft.com/learn/)。
+          
+      - question: |
+          Microsoft Learning 還將保留什麼？
+        answer: |
+          以下內容將保留在 Microsoft Learning上，直到2021年以後：
+          - 認證儀表板 ([https://aka.ms/certdashboard](https://aka.ms/certdashboard))
+          
+      - question: |
+          那我的書籤呢？他們會繼續有效嗎？
+        answer: |
+          從 Microsoft Learning 到 Microsoft Learn 的頁面將被重定向到 Microsoft Learn 上的新頁面。這些重定向不會永遠持續下去，因此，當頁面移動時，您應該更新書籤。
+
+      - question: |
+          我還能看到我已完成的認證資訊以及註冊過的考試嗎？
+        answer: |
+          是的，您將繼續在 Certification Dashboard (https://aka.ms/certdashboard) 中完全訪問您的認證設定檔，正如您今天所做的那樣。排定的考試、徽章、證書和成績單將保留。此外，到認證儀錶板的連結已經添加到 Microsoft Learn 設定檔頁面。
+          
+      - question: |
+          在 Microsoft Learn 網站上，我看到了一個名為“登錄”的設定檔。這和 Microsoft Learning 上名為“登錄”的設定檔一樣嗎？我能登錄 Microsoft Learn 網站查看我的認證和考試資訊嗎？
+        answer: |
+          在 Microsoft Learning 認證儀錶板轉移到 Microsoft Learn 之前，您將通過登錄您在 Certification Dashboard (https://aka.ms/certdashboard) 上的設定檔，繼續訪問與您的認證相關的所有內容（考試時間表、歷史和徽章等），該儀錶板將在 Microsoft Learning 上提供，並可從 Microsoft Learn 網站訪問。[Microsoft Learn 設定檔](https://docs.microsoft.com/learn) 將保持獨立直到一個稍後的日期。在接下來的幾個月裡，我們會將 certification dashboard 合併到 Microsoft Learn 設定檔中，從而創建一個統一的設定檔。
+          
+      - question: |
+          如果我在 Microsoft Learning 上已經有了一個設定檔，那麼我是否還需要在 Microsoft Learn 上註冊一個設定檔？
+        answer: |
+          是的。Microsoft Learning (certification) 設定檔不同於 Microsoft Learn 設定檔。您需要在 Microsoft Learn 上創建一個設定檔，以訪問 Microsoft Learn 上的某些特性和功能，除非您登錄，否則無法工作。如果您確實創建了一個設定檔，我們建議您使用與創建您的 Microsoft Learning (certification) 設定檔相同的電子郵件進行註冊。當 Microsoft Learning 認證儀錶板在未來幾個月內合併到 Microsoft Learn Tech Profile 時，我們將提供關於連結設定檔及其他設定檔相關的更改的詳細資訊。
+
+      - question: |
+          如果我有問題或疑問，如何得到幫助？我在哪裡可以找到支援？
+        answer: |
+          關於如何訪問支持的詳細說明，請訪問：[認證支持](/learn/certifications/help).

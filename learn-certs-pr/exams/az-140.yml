@@ -53,6 +53,8 @@ products:
 - azure-monitor
 - azure-advisor
 - windows-virtual-desktop
+courses:
+- uid: course.az-140t00
 relatedCertifications:
 - related:
     uid: certification.windows-virtual-desktop-specialty

@@ -11,40 +11,41 @@ skillsGained:
 - skill: 創建、配置和管理一個Azure IoT中心。
 - skill: 通過IoT中心和DPS來配置設備，包括大規模地配置。
 - skill: 在設備和IoT中心之間建立安全的雙向通信。
-- skill: 通過IoT中心路由和Azure流分析（ Stream Analytics）來實現消息處理。
+- skill: 通過IoT中心路由和Azure流分析（Stream Analytics）來實現消息處理。
 - skill: 配置連接到時序見解（Time Series Insights），並支援業務集成需求。
 - skill: 使用市場（marketplace）模組和各種邊緣（edge ）閘道模式來實現IoT Edge場景。
 - skill: 實現需要開發及部署定制模組和容器的IoT Edge場景。
 - skill: 使用設備孿生（device twins）和直接方法來實現設備管理。
 - skill: 實現含有監視、日誌記錄和診斷測試的解決方案。
 - skill: 識別並解決安全問題，並實現Azure IoT安全中心。
-- skill: 使用Azure IoT Central構建IoT（物聯網）解決方案，並重新認識物聯網上SaaS的機遇。
-learningPartnersLink: /learn/certifications/partners
+- skill: 創建 Azure Digital Twins 解決方案，集成上下游服務
+- skill: 使用 Azure IoT Central 創建 IoT 解決方案， 並識別 IoT 的 SaaS 機會。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
 - intermediate
 roles:
 - developer
-products:
-- azure
-- azure-iot
 exams:
 - uid: exam.az-220
+products:
+- azure
 summary: |+
-  本課程教導學生成功創建和維護Azure IoT解決方案的雲和邊緣部分（edge portions）所需的技能和知識。課程包括全面介紹核心Azure IoT服務，如IoT Hub（物聯網中心）、設備配置服務（Device Provisioning Services）、Azure流分析（Stream Analytics）、時序見解（Time Series Insights）等。除了重點介紹Azure PaaS（平臺即服務）外，課程還包括IoT Edge（物聯網邊緣）、設備管理、監控和故障排除、安全問題和Azure IoT Central（物聯網中心）。
+  本課程教導學生成功創建和維護Azure IoT解決方案的雲和邊緣部分（edge portions）所需的技能和知識。課程包括全面介紹核心Azure IoT服務，如IoT Hub（物聯網中心）、設備配置服務（Device Provisioning Services）、Azure流分析（Stream Analytics）、時序見解（Time Series Insights）等。 除了將重點放在 Azure PaaS 服務以外，該課程還包含有關 IoT Edge、設備管理、監控、故障排除、安全問題、Azure Digital Twins、和 Azure IoT Central 的部分。
 
   #### 觀眾概況
 
-  Azure IoT開發人員負責實現並維護Azure IoT解決方案的雲和邊緣部分。除了使用Azure IoT服務和其他Microsoft工具來配置和維護設備外，IoT開發人員還要設置物理設備，並負責在整個生命週期中維護設備。IoT開發人員要實現IoT解決方案的設計，包括設備拓撲、連接、調試和安全。對於邊緣（Edge）設備場景，IoT開發人員還要部署計算/容器並配置設備網路，其中可能包括各種邊緣閘道的實現。IoT開發人員要實現解決方案的設計，以管理資料管道，包括與IoT相關的監測和資料轉換。IoT開發人員要與資料工程師和其他利益相關者合作，以保證業務集成的成功。IoT開發人員應該對Azure服務有很好的瞭解，包括資料存儲選項、資料分析、資料處理，以及Azure IoT PaaS與SaaS的比較。IoT開發人員至少應具備一種Azure支援的語言的基本程式設計技能，包括C#，Node.js、C、Python或Java。
+  Azure IoT 開發人員負責創建和維護 IoT 解決方案的 cloud 和 edge 部分所需要的實施和編碼工作。除了使用Azure IoT服務和其他Microsoft工具來配置和維護設備外，IoT開發人員還要設置物理設備，並負責在整個生命週期中維護設備。IoT開發人員要實現IoT解決方案的設計，包括設備拓撲、連接、調試和安全。對於邊緣（Edge）設備場景，IoT開發人員還要部署計算/容器並配置設備網路，其中可能包括各種邊緣閘道的實現。IoT開發人員要實現解決方案的設計，以管理資料管道，包括與IoT相關的監測和資料轉換。IoT開發人員要與資料工程師和其他利益相關者合作，以保證業務集成的成功。IoT開發人員應該對Azure服務有很好的瞭解，包括資料存儲選項、資料分析、資料處理，以及Azure IoT PaaS與SaaS的比較。IoT開發人員至少應具備一種Azure支援的語言的基本程式設計技能，包括C#，Node.js、C、Python或Java。
 prerequisitesSection: |-
+  如需在該課程中取得成功，學習者應符合以下條件&#58;
   - 雲解決方案意識&#58; 學生應該有使用Azure Portal（門戶）的經驗，並對PaaS、SaaS和IaaS實現有基本的瞭解。
   - 軟體發展經驗&#58; 軟體發展經驗是本課程的先決條件，但不需要特定的軟體語言，也不需要具有專業水準。
-  - 資料處理經驗&#58; 建議對資料存儲和資料處理有基本的瞭解，但這不是必需的。 
+  - 資料處理經驗&#58; 建議對資料存儲和資料處理有基本的瞭解，但這不是必需的。
 
   如果您才剛接觸Azure和雲計算，請考慮以下資源之一&#58; 
-  - 免費線上&#58; Azure基礎知識 (https&#58;//docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
-  - 講師指導課程&#58; AZ-900&#58; Azure基礎知識 (https&#58;//docs.microsoft.com/en-us/learn/certifications/courses/az-900t01) 
+  - 免費線上&#58; Azure基礎知識 (https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
+  - 講師指導課程&#58; AZ-900&#58; Azure基礎知識 (https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01)
 
 outlineSection: |-
   ### 模組 1&#58; IoT（物聯網）和Azure IoT服務簡介
@@ -87,7 +88,7 @@ outlineSection: |-
 
   ### 模組 3&#58; 大規模配置設備
   在本模組中，學生們將重點學習設備配置以及如何配置和管理Azure Device Provisioning Service（設備配置服務）。學生將學習註冊流程、自動配置和重新配置、取消註冊以及如何實現各種認證機制。
-  #### 課程  
+  #### 課程
   - 設備配置服務術語和概念
   - 配置和管理設備配置服務
   - 設備配置任務
@@ -123,7 +124,7 @@ outlineSection: |-
   - 在消息處理和分析解決方案中使用Azure函數
 
   ### 模組 5&#58; 見解（Insights）與業務（Business）集成
-  在本模組中，學生將學習Azure服務和其他Microsoft工具，這些可用于生成業務見解和實現業務集成。學生們將實現Azure邏輯（Logic）應用程式和事件網格（Event Grid），並為資料視覺化工具配置連接和資料轉換，如時序見解（Time Series Insights ）和Power BI。
+  在本模組中，學生將學習Azure服務和其他Microsoft工具，這些可用于生成業務見解和實現業務集成。學生們將實現Azure邏輯（Logic）應用程式和事件網格（Event Grid），並為資料視覺化工具配置連接和資料轉換，如時序見解（Time Series Insights）和Power BI。
   #### 課程 
   - 物聯網解決方案的業務集成
   - 用時序見解（Time Series Insights）實現資料視覺化
@@ -142,7 +143,7 @@ outlineSection: |-
   ### 模組 6&#58; Azure IoT Edge（物聯網邊緣）部署流程
   在本模組中，學生將學習如何將模組部署到Azure物聯網邊緣設備。學生還將學習如何配置和使用物聯網邊緣設備作為閘道設備。
 
-  #### 課程  
+  #### 課程
   - Azure IoT Edge簡介
   - 邊緣部署過程
   - 邊緣閘道設備
@@ -161,7 +162,7 @@ outlineSection: |-
   ### 模組 7&#58; Azure 物聯網邊緣模組（IoT Edge Modules）和容器（Containers）
   在本模組中，學生將開發和部署自訂邊緣模組，並實現對依賴本機存放區的離線場景的支持。學生將使用Visual Studio Code，通過一個受支援的容器引擎將自訂模組構建為容器。
 
-  #### 課程  
+  #### 課程
   - 開發定制邊緣模組
   - 離線和本機存放區
 
@@ -175,6 +176,7 @@ outlineSection: |-
   - 配置Visual Studio Code以開發容器化模組（containerized modules）
   - 將自訂模組部署到物聯網邊緣設備
   - 在物聯網邊緣設備上實現本機存放區，以支持離線場景
+
 
   ### 模組 8&#58; 設備管理
   在本模組中，學生將學習如何為其物聯網解決方案實現設備管理。學生將開發使用設備孿生（devoice twins）的設備管理解決方案和使用直接方法（direct methods）的解決方案。
@@ -195,13 +197,13 @@ outlineSection: |-
   - 使用設備孿生和直接方法來實現各種模式的設備管理
   - 使用自動設備管理和作業實現大規模的設備管理
 
+
   ### 模組 9&#58; 解決方案測試、診斷和日誌記錄
   在本模組中，學生將配置日誌記錄和診斷工具，以幫助開發人員測試他們的物聯網解決方案。學生將使用IoT Hub和Azure Monitor來配置警報和跟蹤可用於解決問題的設備連接狀態等狀況。
 
   #### 課程 
   - 監視和日誌
   - 故障排除
-
 
   #### 實驗室&#58; 在Azure IoT Hub中配置指標（Metrics）和日誌
 
@@ -214,13 +216,13 @@ outlineSection: |-
   - 實現診斷日誌記錄
   - 解決物聯網設備連接和通信問題
 
+
   ### 模組 10&#58; Azure安全中心和物聯網安全注意事項
   在本模組中，學生將研究適用於物聯網解決方案的安全考慮因素。學生們將首先研究應用於解決方案架構和最佳實踐的安全，然後瞭解Azure Security Center for IoT（物聯網安全中心）如何支援設備部署和IoT Hub集成。最後，學生使用Azure Security Center for IoT Agents來增強他們的解決方案的安全性。
-  #### 課程  
+  #### 課程
   - 物聯網解決方案的安全基礎
   - Azure物聯網安全中心簡介
   - 使用Azure Security Center for IoT Agents來增強保護
-
 
   #### 實驗室&#58; 實現Azure物聯網安全中心
 
@@ -228,28 +230,42 @@ outlineSection: |-
   - 描述物聯網解決方案的安全問題和最佳實踐
   - 描述Azure IoT安全架構（Security Architecture）和威脅建模（Threat Modeling）
   - 描述Azure物聯網安全中心提供的功能和支援
-  - 配置安全代理（Security Agents ）和安全模組孿生（Security Module Twins）
+  - 配置安全代理（Security Agents）和安全模組孿生（Security Module Twins）
   - 聚合Azure物聯網安全中心事件
 
-  ### 模組 11&#58; 使用物聯網中心（IoT Central）構建物聯網解決方案
+
+  ### 模型 11&#58; ADT
+  在該模型中，學生將研究 Azure Digital Twins 解決方案的概念，並邁出實施 ADT 的第一步。學生首先將研究 Azure Digital Twins 服務和 ADT 解決方案的概念，然後再對可用來構建和監控 ADT 解決方案的開發工具進行介紹。然後，學生將利用開發工具來創建自訂模型、構建和查詢 ADT 環境圖、進行 IoT設備遙測、以及實施業務邏輯和資料處理。
+
+  #### 課程
+  - Azure Digital Twins 簡介
+  - ADT 解決方案開發簡介
+  - 監控和排除 ADT 故障
+
+  #### 實驗室&#58; 開發 Azure Digital Twins (ADT) 解決方案
+
+  完成該模型後，學生將能夠&#58;
+  - 描述 Azure Digital Twins (ADT) 解決方案的組成部分
+  - 說明如何創建及配置 ADT 實例
+  - 說明如何創建、查詢及管理 ADT 圖
+  - 說明如何從 IoT 中心獲取 ADT 資料 ，以及為下游服務提供支援
+  - 描述如何監控和排除ADT 故障
+
+
+  ### 模組 12&#58; 使用物聯網中心（IoT Central）構建物聯網解決方案
   在本模組中，學生將學習如何配置和實現Azure物聯網中心（IoT Central） 作為物聯網SaaS解決方案。學生將首先高度調查物聯網中心及其工作原理。在對物聯網中心的建立有基本瞭解之後，學生將繼續創建和管理設備範本，然後在他們的物聯網中心應用程式中管理設備。
 
-  #### 課程  
+  #### 課程
   - 物聯網中心簡介
   - 創建和管理設備範本
   - 在Azure IoT Central中管理設備
 
+  #### 實驗室&#58; 使用 IoT Central創建 IoT 解決方案
 
-  #### 實驗室&#58; Azure IoT Central入門
-
-  #### 實驗室&#58; 使用Azure物聯網中心實現物聯網解決方案
-
-  完成本模組後，學生將能夠&#58; 
+  完成本模組後，學生將能夠&#58;
   - 描述Azure IoT Central和Azure IoT PaaS服務之間的區別
   - 描述Azure IoT Central提供的功能
   - 描述設備範本的用途和元件
   - 創建和發佈設備範本
   - 使用規則和通知管理設備
   - 使用作業大規模管理設備
-
-

@@ -45,6 +45,8 @@ products:
 paths:
 - uid: learn-dynamics.become-solution-architect
 - uid: learn-bizapps.solution-architect-design
+courses:
+- uid: course.pl-600t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56P
 exams:
 - uid: exam.pl-600

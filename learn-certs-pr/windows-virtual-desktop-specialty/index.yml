@@ -48,6 +48,8 @@ products:
 - azure-monitor
 - azure-advisor
 - windows-virtual-desktop
+courses:
+- uid: course.az-140t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFTM
 exams:
 - uid: exam.az-140

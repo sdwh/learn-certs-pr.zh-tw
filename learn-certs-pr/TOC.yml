@@ -1,60 +1,122 @@
-- name: Microsoft Certifications
+
+- name: 認證概述
   href: index.yml
-- name: 優惠
-  href: deals.md
-- name: 大量授權
-  href: volume-licensing-program.md
-- name: Microsoft Learning Partners
-  href: partners.md
-- name: 停止提供的認證，測驗和課程
+- name: 獲得認證
   expanded: false
-  items:
-  - name: 停用的證書
-    href: retired-certifications.md
-  - name: 停止提供的測驗
-    href: retired-certification-exams.md
-  - name: 停用課程
-    href: retired-courses.md
-- name: 成為經 Microsoft 認證的培訓師
-  href: mct-certification.md
-- name: 關於 Microsoft 認證測驗
-  href: certification-exams.md
-- name: Microsoft 測驗與認證徽章
-  href: badges.md
-- name: 關於透過 Pearson VUE 進行的線上測驗
-  href: online-exams.md
-- name: 關於透過 PSI 進行的線上測驗
-  href: online-exams-psi.md
-- name: 測驗政策和常見問題
-  expanded: false
-  items:
-  - name: 常見問題及回答
-    href: frequently-asked-questions.md  
-  - name: 測驗安全策略和測驗重考策略
-    href: exam-security-policy-and-exam-retake-policy.md
-  - name: 測驗改期和取消策略
-    href: exam-reschedule-and-cancellation-policy.md
-  - name: Microsoft Certification 規劃合約
-    href: microsoft-certification-program-agreement.md
-  - name: Microsoft測驗保密協議
-    href: microsoft-exam-non-disclosure-agreement.md
-  - name: 要求住宿
+  items: 
+  - name: 認證流程概述
+    href: certification-process-overview.md
+  - name: 請求便利設施
     href: request-accommodations.md
-  - name: 考試考題挑戰流程
-    href: exam-item-challenge-process.md
+  - name: 報考和安排考試
+    href: register-schedule-exam.md
+  - name: 備考
+    href: prepare-exam.md
+  - name: 考試時長和考題類型
+    href: exam-duration-question-types.md
+  - name: 考分和成績報告
+    href: exam-scoring-reports.md
+  - name: 線上監督考試
+    expanded: false
+    items: 
+    - name: 簡介和 FAQs
+      href: online-exams-intro.md
+    - name: 關於 Pearson VUE 的線上考試
+      href: online-exams.md
+    - name: 關於通過PSI 進行的線上考試
+      href: online-exams-psi.md
+  - name: 更新您的認證
+    href: renew-your-microsoft-certification.md  
+- name: 管理您的認證
+  expanded: false
+  items: 
+  - name: 訪問您的 Certification Dashboard
+    href: access-certification-dashboard.md
+  - name: 管理您的認證個人資料
+    href: manage-certification-profile.md
+  - name: 訪問您的證書、徽章和成績報告單
+    href: access-certificates-badges-transcript.md
+  - name: 使用和分享認證徽章
+    href: badges.md
+- name: 培訓及認證消息
+  expanded: false
+  items: 
+  - name: 社交媒體和博客
+    href: social-media-blog.md
+  - name: 通過媒介進行培訓和認證
+    href: media.md
+  - name: 關於停用的資訊
+    expanded: false
+    items: 
+    - name: 認證的取消
+      href: retired-certifications.md
+    - name: 考試停用
+      href: retired-certification-exams.md 
+    - name: 課程的取消
+      href: retired-courses.md
+  - name: 從 Learning 轉移到 Microsoft Learn
+    href: learnfaq.yml
+- name: Offers
+  href: deals.md
+- name: 專案資訊
+  expanded: false
+  items: 
   - name: Beta exams
     href: beta-exams.md
-  - name: ACE 大學認證考試學分
-    href: ace-credit-for-certification-exams.md
-  - name: NCCRS 大學認證考試學分
-    href: college-credit-for-certification-exams.md
-  - name: 學生折扣
-    href: student-discounts.md
+  - name: 考試的開發
+    href: exam-development.md
+  - name: 學生認證
+    expanded: false
+    items: 
+    - name: 學生折扣
+      href: student-discounts.md
+    - name: College credit for certification exams
+      href: college-credit.md
+  - name: 政策及協議
+    expanded: false
+    items: 
+    - name: Exam item challenge process
+      href: exam-item-challenge-process.md
+    - name: 考試安全政策
+      href: exam-security-policy.md
+    - name: 重考政策
+      href: exam-retake-policy.md
+    - name: 考試重新安排與取消政策
+      href: exam-reschedule-and-cancellation-policy.md
+    - name: Microsoft Certification 規劃合約
+      href: microsoft-certification-program-agreement.md
+    - name: Microsoft Certification Renewal Non-disclosure Agreement
+      href: microsoft-certification-renewal-non-disclosure-agreement.md
+    - name: Microsoft測驗保密協議
+      href: microsoft-exam-non-disclosure-agreement.md
+  - name: Microsoft Learning Partners 
+    expanded: false
+    items: 
+    - name: 查找 Learning Partner
+      href: partners.md
+    - name: Learning Partners 的價值
+      href: partners-value.md
+  - name: Microsoft Certified Trainer
+    href: mct-certification.md
+  - name: Volume licensing
+    href: volume-licensing-program.md
 - name: 認證幫助
-  href: help.md
-- name: Microsoft Official Courseware (MOC)幫助
-  href: certification-and-training-help.md
-- name: Microsoft Certification Program 常見問題
-  href: microsoft-certification-program-faqs.md
-- name: 搜尋 Microsoft 學習 ...
-  href: learnfaq.md
+  expanded: false
+  items: 
+  - name: 認證支持
+    href: help.md
+  - name: 常見問題解答
+    href: frequently-asked-questions.md
+  - name: Microsoft Official Courseware (MOC) 支持
+    href: certification-and-training-help.md
+  - name: 故障排除指南
+    expanded: false
+    items: 
+    - name: 查找您的 MCID
+      href: find-mcid.md
+    - name: 合併與傳輸認證個人資料
+      href: merge-profiles.md
+    - name: 優惠券和兌換折扣
+      href: redeem-discounts.md
+    - name: Aligning accounts between Certification Profile and Learn Profile
+      href: aligning-accounts-between-certification-profile-and-learn-profile.md

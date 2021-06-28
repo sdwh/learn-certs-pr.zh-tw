@@ -23,9 +23,23 @@
 		{
             "source_path": "learn-certs-pr/exam-process-overview.md",
             "redirect_url": "/learn/certifications/frequently-asked-questions",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/certification-exams.md",
+            "redirect_url": "/learn/certifications/certification-process-overview",
             "redirect_document_id": false		
-		}	
-		
+		},
+		{
+            "source_path": "learn-certs-pr/exam-security-policy-and-exam-retake-policy.md",
+            "redirect_url": "/learn/certifications/exam-retake-policy",
+            "redirect_document_id": false		
+		},
+		{
+            "source_path": "learn-certs-pr/microsoft-certification-program-faqs.md",
+            "redirect_url": "/learn/certifications/frequently-asked-questions",
+            "redirect_document_id": false		
+		}
       ]
 
 
