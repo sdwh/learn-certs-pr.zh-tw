@@ -42,7 +42,6 @@ exams:
 courses:
 - uid: course.md-101t00
 paths:
-- uid: learn-wwl.modernize-workplace-with-m365-and-surface-v1-1
 - uid: learn-m365.microsoft-365-get-modern
 - uid: learn-m365.manage-enterprise-deployment-m365
 relatedCertifications:
