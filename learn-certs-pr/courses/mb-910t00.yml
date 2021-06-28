@@ -22,6 +22,8 @@ roles:
 - business-owner
 products:
 - dynamics-365
+exams:
+- uid: exam.mb-910
 summary: |-
   本課程將為您提供 Dynamics 365 客戶參與能力的廣泛介紹。您將熟悉客戶參與的概念和每個客戶參與的應用程式，這些應用程式包括 Dynamics 365 Marketing, Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service, 以及 Dynamics 365 專案運作的客戶關係管理 (CRM) 能力。本課程將包括講座和操作實驗室。
 

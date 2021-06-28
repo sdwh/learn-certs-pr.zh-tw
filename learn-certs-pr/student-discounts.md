@@ -12,31 +12,66 @@ ms.prod: non-product-specific
 ---
 # 學生折扣
 
-## 学生認證
+## 關於學生折扣
 
-大多數國家/地區都有提供 Microsoft Certified Professional 測驗的學術定價(印度和中國除外)。
+我們很高興在大多數國家/地區（印度和中國除外）提供學術價格的 Microsoft Certification 考試。為了有資格享受學生折扣，您必須首先在您的 Microsoft Certification 設定檔中確定自己是一名學生，然後驗證您的學術地位。一旦經過驗證，您將能夠在報名參加考試時獲得學生折扣。
 
-安排測驗時間之前您必須先驗證學生身分，才有資格享有學術定價。
+## <a name="how-to-identify-yourself-as-student-in-profile"></a> 如何在 Microsoft Certification 設定檔中確定自己是一名學生
 
-## 從帳戶個人檔案申請學生身分
+1. 使用您的 Microsoft 帳戶憑證登錄到您的 [Microsoft Certification Dashboard](https://aka.ms/certdashboard)。
+2. 在頁面頂部選擇“編輯您的認證設定檔”。
+<br/>
+<br/>
+![選擇編輯您的認證設定檔](images/student-discounts-1.png)
+<br/>
+<br/>
+3. 要編輯您的設定檔，請選擇“認證設定檔”旁邊的鉛筆圖示。
+<br/>
+<br/>
+![選擇鉛筆圖示來編輯設定檔](images/student-discounts-2.png)
+<br/>
+<br/>
+4. 在 “Job title” 下拉式功能表中，選擇 “Student”。
+<br/>
+<br/>
+![在職稱下拉式功能表中選擇學生](images/student-discounts-3.png)
+<br/>
+<br/>
+5. 查找出現在 “Job title” 下拉式功能表下面的學術定價通知。
+<br/>
+<br/>
+![在職稱下拉式功能表中選擇學生](images/student-discounts-4.png)
+<br/>
+<br/>
 
-1. 用 Microsoft 帳戶認證登入。
-2. 從頁面最上方的 **帳戶** 功能表選取 **設定檔設定** 。
-3. 在 **工作職能** 選單中，選擇或確保您已選擇“學生”。
-4. 留意出現在 **工作職能** 表旁的學術定價通知。如果學生身分尚未驗證，請按一下“取得驗證”驗證身分。
+## <a name="how-to-verify-your-academic-status"></a> 如何驗證您的學術地位
 
-## 在註冊測驗時申請學生身分
+1. 按照說明在 Microsoft Certification 設定檔中確定自己是一名學生。
+2. 查找出現在 “Job title” 下拉式功能表下面的學術定價通知。選擇 “Get verified now”，以重定向到學術驗證系統。
+<br/>
+<br/>
+![選擇“現在開始驗證”](images/student-discounts-5.png)
+<br/>
+<br/>
+3. 您可以通過以下任一方法來驗證您的學術地位。從主功能表中選擇您喜歡的方法。按照螢幕上的說明來選擇驗證方法。
+    - 由學校頒發的電子郵件帳戶。
+    - 學校的網路憑證。
+    - 國際學生證 (ISIC)。
+    - 來自 Microsoft 代表或您所在機構的管理員的驗證碼。
+    - 證明文件（可接受的證明文件是帶有日期的學生 ID、當前的進度報告、當前的課程時間表或高等教育學校的錄取通知書）。
+<br/>
+<br/>
+![驗證學術地位](images/student-discounts-6.png)
+<br/>
+<br/>
 
-1. 用 Microsoft 帳戶認證登入。
-2. 在要註冊的測驗上按一下 **排定測驗**。
-3. 在 **確認測驗註冊詳細資訊** 頁面上，確定 **工作職能** 欄位顯示“學生 – 已驗證”。如果沒有顯示，請按一下“取得驗證”以驗證身分，或是按一下“編輯”變更身分。
+## 在報名參加考試時核對您的學生身份
 
-## 驗證您的學業狀況
+1. 在您想要登記的認證或考試詳情頁面上，按一下“安排考試”。
+2. 請使用與 Microsoft Certification 設定檔相關聯的 Microsoft 帳戶憑證登錄。
+3. 當驗證您的認證設定檔是最新的時，請確保 “Job title” 欄位顯示 “Student—verified”。
+4. 如果您的認證設定檔沒有顯示此狀態，請按照 [如何在您的 Microsoft Certification 設定檔中確定自己是一名學生](#how-to-identify-yourself-as-student-in-profile) 或 [如何驗證您的學術地位](#how-to-verify-your-academic-status) 上面的說明進行操作。
 
-選取驗證身分要用的方式。方式如下：
+## 在學生折扣方面獲得幫助
 
-1. 學校發的電子郵件帳戶
-2. 學校網路認證
-3. 國際學生證 (ISIC)
-4. Microsoft 代表或貴機構系統管理員提供的驗證碼
-5. 文獻資料
+請訪問：[認證支持](/learn/certifications/help)。

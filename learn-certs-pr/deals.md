@@ -11,77 +11,58 @@ ms.author: micsullivan
 ---
 # 優惠
 
-## Exam Replay
+## 專用套裝程式
 
-驗證您的技能，獲得專業優勢，增強您的信心。重測測驗憑券自購買日起一 (12) 年內有效，且無法與其他優惠合併使用。您必須在購買後的六個月內安排並參加測驗(和重考）。有關詳細資訊，請 [參閱常見問題解答](#frequently-asked-questions)。若購買或兌換“Exam Replay”優惠發生問題，請寄送電子郵件給 [支援 小組](mailto:mindhub@pearson.com)
+我們與 Pearson VUE 合作，一起提供用於考試及實踐測試的專用套裝程式。我們明白考試是一件充滿挑戰和壓力的事情，知道您可以在考試前進行練習並且重新考試可以讓您充滿信心。目前這些套裝程式是：
 
-### 選擇兩種不同的重測優惠：
+- Exam Replay.
+- 附帶 Practice Test 的 Exam Replay.
 
-<div>
-    <table border="0">
-        <tr>
-            <td>
-                <img src="images/exam-replay-thumbnail.png">
-            </td>
-            <td>                
-                <p><strong>Microsoft Exam Replay</strong><br/>包括: 一 (1) 個 Microsoft 認證專業人士  認證測驗憑券 + 一 (1) 次重測機會(如果需要)。</p>
-                <p><a href="https://us.mindhub.com/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3"><strong>立即購買</strong></a></p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="images/exam-replay-with-practice-test-thumbnail.png">
-            </td>
-            <td>
-               <p><strong>帶有練習測試的 Microsoft Exam Replay</strong><br/>包括：一 (1) 個 Microsoft 認證專業人士  認證測驗憑券 + 一 (1) 次重測機會(如果需要) 和一 (1) 次 Microsoft 官方練習測驗。</p>
-               <p><a href="https://us.mindhub.com/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink"><strong>立即購買</strong></a></p>
-            </td>
-        </tr>
-    </table>
-</div>
+## 關於這些提供項
 
+### Exam Replay
 
-## <a name="frequently-asked-questions"></a>常見問題集
+Exam Replay 給您第二次通過認證考試的機會。如果您第一次沒有通過考試，不要擔心，只要提高您的技能，如果需要就再考一次。
 
-**問。Q. 什麼是Exam Replay？**
+Exam Replay 包括：
 
-**答案。** 重測是結合一次重考機會的測驗憑券。**帶練習測驗的重測** 是一項測驗憑證，包括同一測驗的一次重考和一項單獨的 Microsoft 官方練習測驗的測驗憑券。
+- Microsoft Certified Professional Certification 考試折扣券一張。
+- 同一考試的一次重考。
 
-**問。我一次可購買多少張重測憑券？**
+  [現在就購買 Exam Replay 吧。](https://www.mindhub.com/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3)
 
-**答案。** 您可依需求購買多張重測憑券。
+### 附帶 Practice Test 的 Exam Replay
 
-**問。我可用重測重考幾次？**
+將 Microsoft Official Practice Test 添加到附帶一次重考的考試折扣券中，以便更好地準備通過您的 Microsoft 認證考試。實踐測試會提升您的準備程度，而重考會增加您的成功機會。
 
-**答案。** 如果您沒有通過您的初始測驗，則重測對於同一次測驗的重考非常有用。
+附帶 Practice Test 的 Exam Replay 包括：
 
-**問。哪些測驗符合重測的資格？**
+- 一份Microsoft Official Practice Test。
+- Microsoft Certified Professional Certification 考試折扣券一張。
+- 同一考試的一次重考。
 
-**答案。** 重測適用於除 Microsoft Technology Associate(MTA）測驗，Microsoft Office Specialist(MOS）測驗，轉換測驗，基礎考試和Beta測驗之外的所有Microsoft認證測驗。此優惠也適用於所有可用的有效測驗的練習測驗。[檢視可用的練習測驗](https://us.mindhub.com/microsoft-practice-tests)。
+  [現在就購買 Exam Replay with practice test 吧。](https://www.mindhub.com/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink)
 
-**問。重測憑券效期有多久？**
+您可以購買您所希望的盡可能多的 Exam Replay 套裝程式。Exam Replay 對所有 Microsoft Certification 考試都是有效的，**以下除外**：
+- Microsoft Technology Associate (MTA)。
+- Microsoft Office Specialist (MOS)。
+- Transition 考試。
+- Fundamentals 考試。
+- Beta 考試。
 
-**答案。** 認證測驗(包括重考）必須在購買後的12個月內安排並進行。
+在購買 Exam Replay with Practice Test 之前, [請確保您的考試有一次實踐測試。](https://www.mindhub.com/shop/microsoft?facetValueFilter=tenant~content-type%3Apractice-tests)
 
-**問。我可以在重測中使用測驗憑券進行線上測驗嗎？**
+## 關於此套裝程式的其他重要說明
 
-**答案。** 可以，有提供線上監考測驗的地區，都可使用 Exam Replay 憑券參加線上監考測驗。[了解有關在線考試的信息](/learn/certifications/online-exams)以獲取Microsoft認證。
+- 該認證考試及重考必須安排在購買後的12個月內進行。
+- 在您參加了初試並且未能通過之前，您不能安排您的重考。
+- 您可以利用這個套裝程式在網上參加考試。
+- Microsoft Official Practice Tests 可在購買後一年內於 [MeasureUp.com](https://www.measureup.com/) 處啟動，並在啟動後30天有效。 [請在這裡獲得啟動實踐測試的更多細節。](https://home.pearsonvue.com/microsoft/practicetests)
+- 您的實踐測試折扣券可用於推廣活動中所包含的任何有效的實踐測試。它並不需要是與您的正式考試或重考相同的測試。
+- 附帶 Practice Test 套裝程式的 Exam Replay 和 Exam Replay 不適用於您可能已經單獨購買的考試或實踐測試。
 
-**問。我可以同時排定第一次測驗和重考測驗的時間嗎？**
+## 如果您在購買或兌換這些套裝程式時需要幫助
+請 [給 Pearson VUE 團隊發電子郵件。](https://mindhub@pearson.com/)
 
-**答案。** 不可以，只有在您進行第一次測驗且未通過時，才能註冊重考測驗。有關詳細信息，請參閱 [Microsoft 認證測驗重考政策](/learn/certifications/certification-exam-policies#exam-retake-policy).
-
-**問。如何啟用練習測驗以及它有效期有多長？**
-
-**答案。** Microsoft 官方練習測驗可在購買後一年內在[MeasureUp.com](https://www.measureup.com/) 上啟用，並在啟用後30天內有效。練習測驗並非專屬於重測和練習測驗的重測優惠而選擇的測驗憑券，並且可用於促銷中包含的任何可用的練習測驗。請參見[如何啟用練習測驗](https://home.pearsonvue.com/microsoft/practicetests)。
-
-**問。如果我之前已經支付過測驗或練習測驗，然後我同時購買了充滿信心地證明套件或充滿信心地證明練習測驗套件，我可以獲得我最初購買的測驗或退款嗎？**
-
-**答案。** 不可以。重測和練習測驗重測優惠不適用於單獨購買的測驗或練習測驗。
-
-**問。如果我在購買或兌換重測或者練習測驗重測優惠時遇到問題，我需要聯絡誰？**
-
-**答案。** 如果您在購買或兌換重測或者練習測驗重測優惠時遇到問題, 請[寄電子郵件給Pearson VUE團隊](mailto:mindhub@pearson.com)。
-
-
-
+## 針對學生的特別優惠
+請訪問：[學生折扣](/learn/certifications/student-discounts).

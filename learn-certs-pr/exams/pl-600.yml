@@ -48,6 +48,8 @@ products:
 paths:
 - uid: learn-dynamics.become-solution-architect
 - uid: learn-bizapps.solution-architect-design
+courses:
+- uid: course.pl-600t00
 relatedCertifications:
 - related:
     uid: certification.power-platform-solution-architect-expert

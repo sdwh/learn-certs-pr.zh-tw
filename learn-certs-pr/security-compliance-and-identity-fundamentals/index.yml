@@ -48,6 +48,8 @@ paths:
 - uid: learn.wwl.describe-capabilities-of-microsoft-identity-access-management-solutions
 - uid: learn.wwl.describe-capabilities-of-microsoft-security-solutions
 - uid: learn.wwl.describe-capabilities-of-microsoft-compliance-solutions
+courses:
+- uid: course.sc-900t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp7
 exams:
 - uid: exam.sc-900

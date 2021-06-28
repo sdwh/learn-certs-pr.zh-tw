@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div><font color='red'><strong>本次考試的內容將於2021年6月2日進行更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>本次考試的內容於2021年6月2日進行了更新。請下載下面的技能測試檔，看看有何變化。</strong></font><br/><br/></div>
   
   此測驗的應試者是參與評估、規劃、移轉、部署與管理 Microsoft 365 服務的 Microsoft 365 企業管理員。他們為企業執行 Microsoft 365 租戶管理任務，包括其身份識別，安全性，合規性與支援的技術。
   
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- 本次考試的內容將於2021年6月2日進行更新。請下載下面的考試技巧大綱，看看將有何變化。
+- 本次考試的內容於2021年6月2日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
 - 設計和實作Microsoft 365服務 (25-30%)
 - 管理用戶身份和角色 (25-30%)
 - 管理存取和身份驗證 (15-20%)

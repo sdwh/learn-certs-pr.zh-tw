@@ -14,7 +14,9 @@ summary: |-
   該認證的考生應有1-2年的專業開發經驗以及使用 Microsoft Azure 的經驗。此外，該認證的考生應該能夠使用 Azure 所支援的語言進行程式設計，並能熟練使用 Azure SDKs, Azure PowerShell, Azure CLI, 資料存儲選項、資料連接、APIs, 應用程式驗證和授權、計算和容器部署、調試、性能調優及監控。
 
   如果你通過本次認證考試，你可能有資格獲得 ACE 大學學分。有關詳細資訊，請參閱 [ACE 大學認證考試學分](/learn/certifications/ace-credit-for-certification-exams)。
-subTitle: '此測驗會評量您達成下方技術性工作的能力：開發 Azure 計算解決方案；開發 Azure 儲存;實作 Azure 安全性;監視，疑難排解和最佳化 Azure 解決方案;並連接以及使用 Azure 服務和第三方服務。'
+subTitle: '此測驗會評量您達成下方技術性工作的能力：開發 Azure 計算解決方案；開發 Azure 儲存;實作 Azure 安全性;監視，疑難排解和最佳化 Azure 解決方案;並連接以及使用 Azure 服務和第三方服務。
+
+  如果考試是通過 Pearson VUE 進行的，那麼考生在考試開始時將能夠選擇包含在問題中的代碼語言（C# 或 Python）。然而，通過 PSI 進行的考試不提供此選項。那些問題將包含 C# 代碼。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
 locales:
