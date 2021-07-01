@@ -18,6 +18,7 @@ summary: |-
 subTitle: '本次考試將衡量您完成以下技術任務的能力：實施產品資訊管理；實施庫存管理；實施和管理供應鏈流程；實施倉庫和運輸管理；實施主計畫。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
+practiceTestUrl: https://in.mindhub.com/mb-330-microsoft-dynamics-365-supply-chain-microsoft-official-practice-test/p/MU-MB-330?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-330&examname=Exam%20MB-330:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Supply%20Chain%20Management&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-330
 locales:
 - en

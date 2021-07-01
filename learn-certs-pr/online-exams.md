@@ -27,7 +27,7 @@ Pearson VUE 是一家提供考試服務的公司，它是微軟的合作夥伴�
 1. 請確保您的電腦滿足或超過最低系統要求（詳細說明如下）。
 2. 在您將要測試的同一台電腦和同一位置上完成所需的 [系統測試](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)。
 3. 查閱下面的系統需求、技術提示及測試環境需求。
-4. 請確認您的 ID 符合 Pearson VUE [ID Policy](https://home.pearsonvue.com/Policies/1S/English) 並且確認您的 Microsoft Certification 設定檔上的名字與您即將在參加考試時出示的由政府頒發的 ID 上的名字完全匹配。 如要閱讀更多關於如何檢查您的認證設定檔上名字的資訊，請訪問：[管理您的認證設定檔](/learn/certifications/manage-certification-profile).
+4. 請確認您的 ID 符合 Pearson VUE [ID Policy](https://home.pearsonvue.com/Clients/Microsoft/Online-proctored.aspx#b4ExamDay) 並且確認您的 Microsoft Certification 設定檔上的名字與您即將在參加考試時出示的由政府頒發的 ID 上的名字完全匹配。 如要閱讀更多關於如何檢查您的認證設定檔上名字的資訊，請訪問：[管理您的認證設定檔](/learn/certifications/manage-certification-profile).
 5. 請用您的手機號碼更新您的 Microsoft Certification 設定檔，其中包括國家代碼，以防 Pearson VUE 需要在考試期間聯繫您。如果您在考試期間失去聯繫，這是 Pearson VUE 可以聯繫您的唯一方式。有關如何更新您的設定檔說明，請訪問：[管理您的認證設定檔](/learn/certifications/manage-certification-profile).
 6. 請閱讀 [Non-Disclosure Agreement (NDA)](/learn/certifications/microsoft-exam-non-disclosure-agreement). 在考試開始時，您必須閱讀並同意 NDA 和 General Terms of Use for Microsoft Certification Exams。一旦考試開始，您只有5分鐘的時間閱讀它。請在您參加考試前閱讀它，以確保您完全理解這些要求，並能在不耗盡時間的情況下同意這些條款。如果您在規定的時間內不同意 NDA，你將不能參加考試。
 7. 如果您想為您的考試請求便利設施，請您在安排您的考試**之前**向 Pearson VUE 提交便利設施請求。有關如何提交申請的詳細資料，請訪問: [請求 Pearson VUE 的便利設施](/learn/certifications/request-accommodations)。
@@ -181,17 +181,10 @@ Pearson VUE 是一家提供考試服務的公司，它是微軟的合作夥伴�
 
 ### 身份驗證
 
-- 你必須出示一份當前政府簽發的 ID 表格，如下列之一：
-  - 駕駛執照。
-  - 軍官 ID。
-  - 護照。
-  - 身份證（國家/州/省身份證）。
-  - 外國人登記卡（綠卡、永久居民、簽證）。
-  - 由政府頒發的當地語言 ID （非羅馬字元）——只有從考生正在測試的國家頒發的才被接受。
-- 手機最適合捕捉所需的頭像和 ID，但如果您沒有手機，也可以使用網路攝像頭。
-- 您所提供的由政府頒發的 ID 上的名字必須與您的 Microsoft Certification 和 Pearson VUE 設定檔上的名字 **完全** 匹配。 
+- 你需要出示一份由當前政府頒發的 ID。  可接受的示例請參考 Pearson VUE [ID 政策](https://home.pearsonvue.com/Clients/Microsoft/Online-proctored.aspx#b4ExamDay)。 
+- 手機最適合捕捉所需的頭像和 ID。 
+- 您所出示的由政府頒發 ID 上的名字必須與您在 Microsoft Certification 和 Pearson VUE 設定檔上的名字 **完全** 匹配。
 - 如果您正在更新或續簽您的身份證明，那麼請注意，線上監考的考試不接受包括 ID 續期表在內的合法姓名更改表。
-- 18歲以下的未成年人可以出示有效的學生 ID 作為身份證明。考生的監護人也必須出示有效的 ID，並且在簽到的過程中給予口頭同意。
 
 ### 考試區域掃描
 

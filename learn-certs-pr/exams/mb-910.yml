@@ -14,7 +14,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIev
 providers:
   - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-910&examname=Exam%20MB-910:%20Microsoft%20Dynamics%20365%20Fundamentals%20Customer%20Engagement%20Apps%20(CRM)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-910
+    examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-910&examname=Exam%20MB-910:%20Microsoft%20Dynamics%20365%20Fundamentals%20(CRM)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-910
   - providerType: certiport
     examUrl: http://www.certiport.com/locator
 locales:

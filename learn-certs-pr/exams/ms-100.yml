@@ -8,9 +8,9 @@ displayName: MS-100
 summary: |-
   <div><font color='red'><strong>本次考試的內容於2021年6月2日進行了更新。請下載下面的技能測試檔，看看有何變化。</strong></font><br/><br/></div>
   
-  此測驗的應試者是參與評估、規劃、移轉、部署與管理 Microsoft 365 服務的 Microsoft 365 企業管理員。他們為企業執行 Microsoft 365 租戶管理任務，包括其身份識別，安全性，合規性與支援的技術。
-  
-  應試者具有 Microsoft 365 工作負載的工作知識，且應該是至少一個 Microsoft 365 工作負載(Exchange、SharePoint、Skype for Business 或 Windows 即服務)的管理員。應試者還具備網路、伺服器管理和 IT 基礎知識(如 DNS，Active Directory 與 PowerShell)的工作知識。
+  參加本次考試的是 Microsoft 365 Enterprise Administrators，他們參與 Microsoft 365 服務的評估、規劃、遷移、部署和管理。他們為企業執行 Microsoft 365 租戶管理任務，其中包括其身份、安全、合規、Power Platform 和配套技術。
+
+  考生應具備 Microsoft 365 工作負載方面的工作知識，並且應是至少一種 Microsoft 365 工作負載 (Exchange, SharePoint, Teams) 以及 Windows 即服務的管理員。考生還具有聯網、伺服器管理以及 IT 基本原理方面的工作知識，比如DNS、Active Directory 和 PowerShell。
 subTitle: '此測驗測量您在完成以下技術任務時的能力：設計與實作 Microsoft 365 服務；管理用戶身份與角色；管理訪問和身份驗證；以及規劃 Office 365 工作負載與應用程式。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE
