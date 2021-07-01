@@ -1,29 +1,28 @@
 ### YamlMime:Certification
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
-  title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
-  description: Microsoft Azure for SAP Workloads 的架構師或工程師對 SAP 系統格局和行業標準具有豐富的經驗和知識，這些知識和知識特定於 SAP 解決方案在 Azure 上的長期運行。
+  title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
+  description: 參加本次考試的考生應該是在 SAP 系統環境和行業標準方面具有豐富經驗和知識的建築師或工程師，這些標準是針對 Microsoft Azure 上 SAP 解決方案的初始遷移或集成以及長期運行而制定的。
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  適用於 SAP Workloads 專業認證的 Azure 的應試者應是具有豐富經驗和知識的架構師或工程師，這些經驗和知識應針對 SAP 解決方案在 Microsoft Azure 上的長期運行。
-
-  擔任此職務的職責包括就服務提出建議並適當調整資源，以實現最佳彈性、性能、比例、供應，規模和監視。
-
-  Azure for SAP Workloads 的架構師或工程師與雲管理員，雲 DBA 和客戶端合作以實作解決方案。
-
-  該證書的應試者應具有豐富的 SAP 應用經驗和知識：SAP HANA、S/4HANA、SAP NetWeaver、SAP BW/4HANA、用於 SAP 應用程式和資料庫的作業系統伺服器、Azure 門戶、ARM 模板、作業系統、虛擬化、雲端基礎架構、存儲結構、高可用性設計、災難恢復設計、資料保護概念和網路。
-
-  對於此角色，除 SAP HANA 和 Linux 認證外，強烈建議您具有 Azure Administrator Associate 或 Azure Solutions Architect Expert 認證。
-subTitle: Microsoft Azure for SAP Workloads 的架構師或工程師對 SAP 系統格局和行業標準具有豐富的經驗和知識，這些知識和知識特定於 SAP 解決方案在 Azure 上的長期運行。
+  參加本次考試的考生應該是在 SAP 系統環境和行業標準方面具有豐富經驗和知識的建築師或工程師，這些標準是針對 Microsoft Azure 上 SAP 解決方案的初始遷移或集成以及長期運行而制定的。
+  
+  Azure for SAP 工作負載的架構師或工程師的職責包括就服務提出建議，並根據最佳彈性、性能、規模、供應、大小和監控適當調整資源。
+  
+  Azure for SAP 工作負載的架構師或工程師與 cloud 管理員、cloud 資料庫管理員和客戶合作實施解決方案。
+  
+  參加本次考試的考生應具有 SAP 應用程式方面的豐富經驗和知識：SAP HANA、S/4HANA、SAP NetWeaver、SAP BW/4HANA、SAP 應用程式和資料庫的 OS 伺服器、Azure 門戶、Azure Marketplace、Azure Resource Manager （ARM 範本）、虛擬化、cloud 基礎設施、存儲結構、高可用性設計、災難恢復設計、資料保護概念和聯網。
+  
+  對於本次考試，我們強烈建議除 SAP 認證外，您還應獲得 Azure Administrator Associate 或 Azure Solutions Architect Expert 認證。
+subTitle: 參加本次考試的考生應該是在 SAP 系統環境和行業標準方面具有豐富經驗和知識的建築師或工程師，這些標準是針對 Microsoft Azure 上 SAP 解決方案的初始遷移或集成以及長期運行而制定的。
 levels:
 - advanced
 skills:
 - 將 SAP 移轉到 Azure
-- 設計 Azure 解決方案以支援 SAP 工作負載
-- 組建和部署 Azure for SAP Workloads
-- 驗證 SAP 工作負載的 Azure 基礎結構
-- 運作 Azure SAP 基礎結構
+- 設計並實施基礎設施以支援 SAP 工作負載
+- 設計並實施 High Availability 和 Disaster Recovery (HA/DR)
+- 在 Azure 上 維護 SAP 工作負載
 roles:
 - administrator
 - solution-architect

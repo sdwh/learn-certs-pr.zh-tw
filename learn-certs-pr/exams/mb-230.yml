@@ -43,9 +43,10 @@ courses:
 - uid: course.mb-230t01
 paths:
 - uid: learn-bizapps.customer-service-hub-cases-slas
-- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-dynamics.create-surveys
+- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
+- uid: learn-dynamics.work-customer-service-omnichannel
+- uid: learn-dynamics.work-customer-service-insights
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-customer-service

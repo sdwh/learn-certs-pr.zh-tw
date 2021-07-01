@@ -7,21 +7,19 @@ uid: exam.az-120
 displayName: AZ-120
 summary: |-
   <div>
-  <div><font color='red'><strong>本次考試內容將於2021年5月28日更新。請下載下面的技能測試文檔，以瞭解有什麼變化。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>本次考試的內容於2021年5月28日進行了更新。請下載下面的技能測試檔，看看有何變化。</strong></font><br/><br/></div>
   </div>
 
-  參加該測驗的應試者應該是具有 SAP 系統環境和行業標準的豐富經驗和知識的架構師或工程師，這些知識特定於 Microsoft Azure 上 SAP 解決方案的長期運行。
-
-  對於 Azure for SAP Workloads 的架構師或工程師的職責包括就服務提出建議並適當調整資源，以實現最佳的彈性、效能、規模、設定，大小和監視。
-
-  Azure for SAP Workloads 的架構師或工程師與雲管理員，雲 DBA 和客戶端合作以實作解決方案。
-
-  參加該測驗的應試者應具有豐富的 SAP 應用程式經驗和知識&#58; SAP HANA、S/4HANA、SAP NetWeaver、SAP BW/4HANA、用於 SAP 應用程式和資料庫的作業系統伺服器、Azure 門戶、ARM 模板、作業系統、虛擬化、雲端基礎架構、存儲結構、高可用性設計、災難恢復設計、資料保護概念和網路。
-
-  對於本測驗，除 SAP HANA 和 Linux 認證外，強烈建議您具有 Azure Administrator Associate 或 Azure Solutions Architect Expert 認證。
-
-  如果你通過本次認證考試，你可能有資格獲得 ACE 大學學分。有關詳細資訊，請參閱 [ACE 大學認證考試學分](/learn/certifications/ace-credit-for-certification-exams)。
-subTitle: '該測驗衡量您完成以下技術任務的能力：將 SAP 工作負載移轉到 Azure；設計 Azure 解決方案以支援 SAP 工作負載；建立和部署 Azure SAP 工作負載；驗證用於 SAP 工作負載的 Azure 基礎結構；並實作 Azure SAP 體系結構。'
+  參加本次考試的考生應該是在 SAP 系統環境和行業標準方面具有豐富經驗和知識的建築師或工程師，這些標準是針對 Microsoft Azure 上 SAP 解決方案的初始遷移或集成以及長期運行而制定的。
+  
+  Azure for SAP 工作負載的架構師或工程師的職責包括就服務提出建議，並根據最佳彈性、性能、規模、供應、大小和監控適當調整資源。
+  
+  Azure for SAP 工作負載的架構師或工程師與 cloud 管理員、cloud 資料庫管理員和客戶合作實施解決方案。
+  
+  參加本次考試的考生應具有 SAP 應用程式方面的豐富經驗和知識：SAP HANA、S/4HANA、SAP NetWeaver、SAP BW/4HANA、SAP 應用程式和資料庫的 OS 伺服器、Azure 門戶、Azure Marketplace、Azure Resource Manager （ARM 範本）、虛擬化、cloud 基礎設施、存儲結構、高可用性設計、災難恢復設計、資料保護概念和聯網。
+  
+  對於本次考試，我們強烈建議除 SAP 認證外，您還應獲得 Azure Administrator Associate 或 Azure Solutions Architect Expert 認證。
+subTitle: '本次考試測試您完成以下技術任務的能力：將 SAP 工作負載遷移到 Azure；設計並實施基礎設施以支援 SAP 工作負載；設計並實施 High Availability 和 Disaster Recovery；以及在 Azure 上 維護 SAP 工作負載。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
@@ -33,12 +31,11 @@ locales:
 levels:
 - advanced
 skills:
-- 本次考試內容將於2021年5月28日更新。請下載下面的考試技巧大綱，以瞭解有什麼變化。
-- 將 SAP 移轉到 Azure (10-15%)
-- 設計 Azure 解決方案以支援 SAP 工作負載 (20-25%)
-- 組建和部署 Azure for SAP Workloads (35-40%)
-- 驗證 SAP 工作負載的 Azure 基礎結構 (10-15%)
-- 運作 Azure SAP 基礎結構 (10-15%)
+- 本次考試的內容於2021年5月28日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
+- 將 SAP 移轉到 Azure (25–30%)
+- 設計並實施基礎設施以支援 SAP 工作負載 (25–30%)
+- 設計並實施 High Availability 和 Disaster Recovery (HA/DR) (20–25%)
+- 在 Azure 上 維護 SAP 工作負載 (15–20%)
 roles:
 - solution-architect
 - devops-engineer

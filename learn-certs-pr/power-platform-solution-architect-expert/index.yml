@@ -45,8 +45,6 @@ products:
 paths:
 - uid: learn-dynamics.become-solution-architect
 - uid: learn-bizapps.solution-architect-design
-courses:
-- uid: course.pl-600t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56P
 exams:
 - uid: exam.pl-600
@@ -59,9 +57,15 @@ resources:
 - title: 認證海報
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認證之旅
+  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEuc3
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://aka.ms/TrainingCertDeck
+- title: 認證學習途徑
+  description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEGLH
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

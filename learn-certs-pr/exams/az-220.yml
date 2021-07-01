@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
-  <div><font color='red'><strong>本次考試的內容將於2021年5月25日進行更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>本次考試的內容於2021年5月25日進行了更新。請下載下面的技能測試檔，看看有何變化。</strong></font><br/><br/></div>
 
   Azure IoT 開發人員實施配置並執行用於創建及維護 IoT 解決方案的 cloud 及邊緣部分所需的編碼任務。除了通過使用 cloud 服務來配置和維護設備，IoT 開發人員還可設置物理設備。IoT 開發人員負責對整個生命週期的設備配置進行維護和故障排除。 
   
@@ -26,7 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考試的內容將於2021年5月25日進行更新。請下載下面的考試技巧大綱，看看將有何變化。。
+- 本次考試的內容於2021年5月25日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
 - 建立 IoT 解決方案基礎設施 (10-15%)
 - 提供和管理設備 (15-20%)
 - 實施 IoT Edge (15-20%)
