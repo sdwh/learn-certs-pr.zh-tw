@@ -54,9 +54,10 @@ paths:
 - uid: learn-bizapps.bring-ai
 - uid: learn-bizapps.improve-business-performance-ai-builder
 - uid: learn-bizapps.customer-service-hub-cases-slas
-- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-dynamics.create-surveys
+- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
+- uid: learn-dynamics.work-customer-service-omnichannel
+- uid: learn-dynamics.work-customer-service-insights
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6G
 exams:
 - uid: exam.pl-200

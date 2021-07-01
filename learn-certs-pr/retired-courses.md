@@ -19,6 +19,19 @@ Microsoft 持續監測行業趨勢並修改認證要求，以跟上技術變化�
 
 ## 已取消的課程：講師指導培訓
 
+* 課件將於2021年6月30日停用
+
+    | 課程編號 | 版本 | 標題 | 語言 | 停用日期 |
+    | --- | --- | --- | --- | --- |
+    | AI-100T01 | A | Designing and Implementing an Azure AI Solution | 英文 | 6/30/2021 |
+    | DP-200T01 | A | Implementing an Azure Data Solution | 英文 | 6/30/2021 |
+    | DP-201T01 | A | Designing an Azure Data Solution | 英文 | 6/30/2021 |
+    | MB-600T00 | A | Microsoft Dynamics 365 + Power Platform Solution Architect | 英文 | 6/30/2021 |
+    | MB-901T00 | A | Microsoft Dynamics 365 Fundamentals | 英文 | 6/30/2021 |
+    | AI-100T01JA | A | Designing and Implementing an Azure AI Solution | 日文 | 6/30/2021 |
+    | AI-100T01KO | A | Designing and Implementing an Azure AI Solution | 韓語 | 6/30/2021 |
+    | AI-100T01ZH | A | Designing and Implementing an Azure AI Solution | 簡體中文 | 6/30/2021 |
+
 * 課件於 2021 年 5 月 31 日取消
 
     | 課程編號 | 版本 | 標題 | 語言 | 停用日期 |

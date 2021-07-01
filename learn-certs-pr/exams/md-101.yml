@@ -6,7 +6,7 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  <div><font color='red'><strong>本次考試的內容將於2021年5月25日進行更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>本次考試的內容於2021年5月25日進行了更新。請下載下面的技能測試檔，看看有何變化。</strong></font><br/><br/></div>
 
   如果您在2019年3月31日到期之前通過了[Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx)，您只需要參加測驗 MD-101 即可獲得現代桌面認證。
 
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考試的內容將於2021年5月25日進行更新。請下載下面的考試技巧大綱，看看將有何變化。
+- 本次考試的內容於2021年5月25日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
 - 部署和升級作業系統（25-30%）
 - 管理策略和檔案 (20-25%)
 - 管理和保護設備 (30-35%)
