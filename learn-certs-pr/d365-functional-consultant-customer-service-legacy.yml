@@ -1,0 +1,86 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate （遺留）'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate （遺留）'
+  description: 'Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用 AI 的 CX 解決方案，以推動可預測客戶需求的可採取動作的見解。'
+uid: certification.d365-functional-consultant-customer-service-legacy
+certificationRenewalUid: renewal.d365-functional-consultant-customer-service
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  此版本的證書不再有效。如果您有此版本的證書，您將自動取得此證書的最新版本。
+  
+  兩個版本的證書都將在您的「證書」列出。您只需更新到新的版本。當先前版本到期時，它將轉到您成績單的證書歷史部分。
+  
+  如果您是一位元負責為客戶配置並實施 Dynamics 365 解決方案的功能顧問，您可以利用此認證來展示您的各項技能，並為您的職業發展提供幫助。Dynamics 365 Customer Service 功能顧問可實施全管道解決方案，這些解決方案專注於服務、品質、可靠性、效率及客戶滿意度。作為一位功能顧問，您知道如何與專案經理、開發人員及解決方案架構師進行合作。在作為功能顧問實施 Dynamics 365 方面，您需要至少1-3年的經驗。
+  
+  如果您在設法獲得該認證之前需要更多的經驗，這裡有一些建議&#58;
+  - 在一個或多個專案中擔任 Dynamics 365 功能顧問。
+  - 從事 Dynamics 365 Customer Service 的實施。
+  - 加入社區 [community.dynamics.com](https://community.dynamics.com/)。
+  - 在 [Microsoft Learn] 上採取可用的學習路徑(/learn/browse/?expanded=dynamics-365&products=dynamics-customer-service&roles=functional-consultant&resource_type=learning%20path).
+  - 完成更多的親身實踐。
+  - 報名參加一門由教師指導的培訓課程。
+subTitle: Microsoft Dynamics 365 Customer Service Functional Consultants 構建了快速，敏捷且利用 AI 的 CX 解決方案，以推動可預測客戶需求的可採取動作的見解。
+hidden: true
+hideFishboneDiagram: true
+levels:
+- intermediate
+skills:
+- 無
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-customer-service
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-230t01
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-bizapps.customer-service-hub-cases-slas
+- uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
+- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
+- uid: learn-dynamics.work-customer-service-omnichannel
+- uid: learn-dynamics.work-customer-service-insights
+exams:
+- uid: exam.mb-200
+- uid: exam.mb-230
+resources:
+- title: 認證海報
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認證之旅
+  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證學習途徑
+  description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87
+- title: 测验重放
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 支援認證
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: help.md
+- title: 分享您的認證徽章
+  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+  href: badges.md
+
