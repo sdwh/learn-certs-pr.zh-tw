@@ -7,9 +7,7 @@ uid: certification.azure-developer-legacy
 certificationRenewalUid: renewal.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  此版本的證書不再有效。如果您有此版本的證書，您將自動取得此證書的最新版本。
-  
-  兩個版本的證書都將在您的「證書」列出。您只需更新到新的版本。當先前版本到期時，它將轉到您成績單的證書歷史部分。
+  <div><font color="#D83B01"><strong>此版本的證書不再有效。如果您有此版本的證書，您將自動取得此證書的最新版本。<br/><br/>  兩個版本的證書都將在您的「證書」列出。您只需更新到新的版本。當先前版本到期時，它將轉到您成績單的證書歷史部分。<br/><br/></strong></font></div>
   
   參加 Azure Developer Associate 認證的考生應具備在 Microsoft Azure 上設計、構建、測試和維護 cloud 應用程式及服務方面的學科知識專長。
   
