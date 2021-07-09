@@ -7,9 +7,7 @@ uid: certification.azure-solutions-architect-legacy
 certificationRenewalUid: renewal.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  此版本的證書不再有效。如果您有此版本的證書，您將自動取得此證書的最新版本。
-  
-  兩個版本的證書都將在您的「證書」列出。您只需更新到新的版本。當先前版本到期時，它將轉到您成績單的證書歷史部分。
+  <div><font color="#D83B01"><strong>此版本的證書不再有效。如果您有此版本的證書，您將自動取得此證書的最新版本。<br/><br/>  兩個版本的證書都將在您的「證書」列出。您只需更新到新的版本。當先前版本到期時，它將轉到您成績單的證書歷史部分。<br/><br/></strong></font></div>
   
   Azure 解決方案架構師專家認證的應試者應具有設計和實作可在 Microsoft Azure 上運行的解決方案的主題專業知識，包括計算、網路、存儲和安全性等方面。候選人應具備管理 Azure 的中級技能。候選人應瞭解 Azure 開發和 DevOps 流程。
 
