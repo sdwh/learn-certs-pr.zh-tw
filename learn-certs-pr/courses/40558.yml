@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Line-of-business application migration'
+metadata:
+  title: 'Course 40558-G: Microsoft Cloud Workshop: Line-of-business application migration'
+  description: 'Course 40558-G: Microsoft Cloud Workshop: Line-of-business application migration'
+uid: course.40558
+courseNumber: '40558-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 對遷移到 Azure 的環境準備情況進行評價。
+- skill: 設計並實施此類環境的發現和評估。
+- skill: 使用 Azure Migrate、Azure Database Migration Service 和 Azure Site Recovery 等服務
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  在本課程中，您將瞭解如何為異構客戶環境設計 Azure 遷移。現有的基礎設施包括運行在 VMWare 及物理機器上的 Windows 和 Linux 伺服器，還包括一些傳統伺服器。在整個白板設計會話的過程中，您將看到各種可用於將異構環境遷移到 Azure 的選項和服務。在本次研討會的最後，您將能夠更好地設計並實施環境的發現和評估，從而使用包括 Azure Migrate、Azure Database Migration Service 和 Azure Site Recovery在內的服務來評價其遷移到 Azure 的準備情況。
+
+  #### 受眾概覽
+  本次研討會針對的是 Cloud Architects 和 IT 專業人士，他們在 cloud 技術的基礎設施和解決方案設計方面有著架構專業知識，並希望瞭解更多關於 Azure 和 Azure 服務的知識，正如“摘要”和“獲得的技能”部分中所描述的那樣。  參加本次研討會的人員還應具有其他非 Microsoft cloud 技術方面的經驗，滿足課程先決條件，並希望在 Azure 上進行交叉培訓。
+outlineSection: |-
+  ### 模組 1&#58; 白板設計會話 —— 業務線應用程式遷移
+  #### 課程
+  - 回顧客戶案例研究
+  - 設計一個概念驗證解決方案
+  - 呈現該解決方案
+
+
+  ### 模組 2&#58; 動手實驗室 —— 業務線應用程式遷移
+  #### 課程
+  - 發現並評估本地環境
+  - 遷移“應用程式資料庫”
+  - 使用 Azure Site Recovery 遷移應用程式和 web 層

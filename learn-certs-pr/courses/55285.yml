@@ -1,0 +1,150 @@
+### YamlMime:Course
+title: Advanced Python
+metadata:
+  title: 'Course 55285-A: Advanced Python'
+  description: 'Course 55285-A: Advanced Python'
+uid: course.55285
+courseNumber: '55285-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用集合模組。
+- skill: 理解映射、過濾和匿名函數。
+- skill: 執行高級排序。
+- skill: 在 Python 中使用規則運算式。
+- skill: 使用資料庫、CSV 檔、JSON 和 XML。
+- skill: 在 Python 中編寫物件導向的代碼。
+- skill: 測試、調試您的 Python 代碼。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+summary: |-
+  在該 Python 培訓課程中，學生已熟悉 Python 程式設計且將學習高級 Python 技術。
+  該高級 Python 課程使用 Python 3 進行教學；但是， Python 2 和 Python 3 之間的不同之處也會被指出。對於 Python 私人班級，我們的講師會具體專注於 Python 2，如學生希望的話。
+
+  #### 受眾概覽
+  無
+prerequisitesSection: |-
+  參加此 Python 課程要求必備如下經驗&#58;
+  - 基礎的 Python 程式設計經驗。尤其是您應該非常適應&#58;
+      1.使用字串。
+      2.使用清單、元組和字典。
+      3.迴圈和條件。
+      4.編寫您自己的函數。
+
+  下面列出的經驗會對該 Python 課程非常有幫助&#58;
+  - 接觸過一些 HTML、XML、JSON 和 SQL。
+outlineSection: |-
+  ### 模組 1&#58; 高級 Python 概念
+  在該課程中，您將瞭解一些經常使用的 Python 功能和技術但要求擁有 Python 扎實的基礎以便於理解。
+
+  #### 課程
+  - 匿名函數
+  - 高級清單生成式
+  - 集合模組
+  - 映射和過濾
+  - 可更改和不可更改內置物件
+  - 排序
+  - 函式呼叫中的分解序列
+
+
+  #### 實驗室 &#58; 本課練習
+  - 擲五個骰子
+  - 創建 defaultdict
+  - 創建 OrderedDict
+  - 創建計數器
+  - 使用雙端佇列
+  - 將 list.sort() 轉換為 sorted(iterable)
+  - 將字串轉換為 datetime.date 物件
+
+  完成此模組後，學生將能夠&#58;
+  - 使用匿名函數。
+  - 編寫更高級的列表生成式。
+  - 使用集合模組創建已命名的元組、defaultdicts、ordereddicts、計數器和雙端佇列
+  - 使用映射和過濾。
+  - 排序佇列。
+  - 在函式呼叫中分解序列。
+  - 創建模組和包。
+
+
+  ### 模組 2&#58; 使用資料
+  資料以很多方式被存儲在很多不同地方。有針對大部分常見的方式 Python 模組。
+
+  #### 課程
+  - 關聯式資料庫
+  - CSV
+  - 從網路獲得資料
+  - JSON
+
+
+  #### 實驗室 &#58; 本課練習
+  - 查詢 SQLite 資料庫
+  - 向資料庫插入檔資料
+  - 在 CSV 檔中比較資料
+  - 網路爬蟲之請求和 Beautiful Soup
+  - 使用 JSON 列印課程資料
+
+  完成此模組後，學生將能夠&#58;
+  - 訪問和使用存儲在關聯式資料庫中的資料。
+  - 訪問和使用存儲在 CSV 檔中的資料。
+  - 獲得網頁上的資料。
+  - 訪問和使用存儲為 HTML 和 XML 的資料。
+  - 訪問 API。
+  - 訪問和使用存儲為 JSON 的資料。
+
+
+  ### 模組 3&#58; 測試和調試
+  該模組解釋了如何使用 Python 進行測試和調試。
+  #### 課程
+  - 性能測試
+  - unittest 單元測試框架模組
+
+
+  #### 實驗室 &#58; 本課練習
+  - 修復函數
+
+  完成此模組後，學生將能夠&#58;
+  - 使用 timeit模組測試計時器的性能。
+  -使用 unittest 單元測試模組編寫單元測試。
+
+
+  ### 模組 4&#58; 類和物件
+  物件是擁有屬性和/或行為的東西，即意味著它是特定的方法且完成特定的任務。在現實生活中，所有東西都可以被認為是物件。一些物件是有形的，如石頭、樹木、網球拍及網球運動員。而另一些是無形的，如言語、顏色、網球的揮拍和網球比賽。
+
+  #### 課程
+  - 屬性
+  - 行為
+  - 類和物件的對比
+  - 屬性和方法
+  - 私有屬性
+  - 特性
+  - 文檔化的類
+  - 繼承
+  - 靜態方法
+  - 類屬性和方法
+  - 抽象類別和方法
+  - 理解裝飾器
+
+
+  #### 實驗室 &#58; 本課練習
+  - 向 Die 添加 roll() 方法
+  - 特性
+  - 文檔化的 Die 類
+  - 擴展至 Die 類
+  - 擴展 roll() 方法
+
+  完成此模組後，學生將能夠&#58;
+  - 在 Python 中創建類和對象。
+  - 編寫實例方法、類方法和靜態昂發。
+  - 定義特性。
+  - 使用繼承創建子類。
+  - 創建抽象類別。
+  - 適當地文檔化 Python 類。
+  - 理解裝飾器是如何運行的。
+
+  #### 補充閱讀
+  無

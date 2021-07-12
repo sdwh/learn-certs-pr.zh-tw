@@ -1,0 +1,80 @@
+### YamlMime:Course
+title: 'Introduction to Microsoft Project 2019: Getting Started'
+metadata:
+  title: 'Course 55288-A: Introduction to Microsoft Project 2019: Getting Started'
+  description: 'Course 55288-A: Introduction to Microsoft Project 2019: Getting Started'
+uid: course.55288
+courseNumber: '55288-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 學習創建和管理簡單專案。
+- skill: 學習輸入和管理任務。
+- skill: 學習使用專案日曆。
+- skill: 學習添加和管理專案資源並使用資源表。
+- skill: 學習為您的專案創建基本報表。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  在該 Introduction to Microsoft Project 2019&#58; Getting Started 課程中，學生將花一些時間適應 Project 2019 或 Project 365 使用者介面，包括專案視圖和功能區。他們也將學習輸入、管理和連結任務，使用資源、創建基礎報表和獨立創建專案。該課程為學生留出時間來實踐對高效使用該軟體程式非常重要的基礎技能。
+
+  #### 受眾概覽
+  該課程旨在針對 Microsoft Project 的新用戶。
+outlineSection: |-
+  ### 模組 1&#58; 項目的組成部分
+  在本課程中，我們將詳細探討本課程所涵蓋的項目組成部分，並展示本課程中將使用的簡單專案。
+
+  #### 課程
+  - 專案組成部分。
+  - 本課程中所使用的演示和練習專案。
+
+  完成此模組後，學生將能夠&#58;
+  - 理解一個項目的組成部分。
+  - 圖解項目。
+  - 該課程中使用的簡單專案。
+
+
+  ### 模組 2&#58; Microsoft Project 瞭解
+  在本課中，您將學習啟動 Project 2019 且您會熟悉功能區包括標籤頁、群組和命令。 對功能區工作原理的扎實理解且能夠在功能區中導航到不同的部分將會讓您輕鬆地開始正確使用Microsoft Project 2019。
+
+  #### 課程
+  - 啟動專案
+  - 功能區
+  - 後臺視圖
+  - 快速訪問工具列指南
+  - 基礎的格式設置
+
+
+  #### 實驗室 &#58; 練習
+  - 理解功能區
+  - 打開和保存專案
+  - 輸入專案資訊
+  - 從快速訪問工具列添加和刪除命令
+
+  完成此模組後，學生將能夠&#58;
+  - 啟動Project 2019。
+  - 使用標籤頁、群組和功能區上的命令。
+  - 隱藏功能區。
+  - 使用後臺視圖。
+  - 輸入專案資訊。
+  - 自訂快捷列。
+  - 使用 Project 2019 中基本的格式設置。
+
+
+  ### 模組 3&#58; 日程
+  該模組解釋了如何使用日程。
+  #### 課程
+  - 專案開始日期
+  - 創建專案日程
+  - 將日程關聯至項目
+  - 設置時間軸以匹配自訂的日程
+
+  #### 補充閱讀
+  無

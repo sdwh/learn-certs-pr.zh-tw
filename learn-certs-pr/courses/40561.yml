@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Machine Learning'
+metadata:
+  title: 'Course 40561-G: Microsoft Cloud Workshop: Machine Learning'
+  description: 'Course 40561-G: Microsoft Cloud Workshop: Machine Learning'
+uid: course.40561
+courseNumber: '40561-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure Machine Learning 和 Azure Databricks 的功能和實施解決方案。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  在本次白板設計會話中，您將與一個團隊一起設計並實施一個結合 Azure Databricks 和 Azure Machine Learning 服務的解決方案，以構建、訓練並部署機器學習和深度學習模型。您將學習如何在批次處理和即時推理場景中使用自動機器學習、從訓練到部署的生命週期管理模型，並在針對時間序列資料的文本分類和預測中構建 Natural Language Processing (NLP) 的深度學習模型。最後，您將學習如何將資料與用於深度學習的 PyTorch 和 Keras 進行比較。
+
+  #### 受眾概覽
+  本次研討會針對的是 Cloud Architects 和 IT 專業人士，他們在 cloud 技術的基礎設施和解決方案設計方面有著架構專業知識，並希望瞭解更多關於 Azure 和 Azure 服務的知識，正如“摘要”和“獲得的技能”部分中所描述的那樣。  參加本次研討會的人員還應具有其他非 Microsoft cloud 技術方面的經驗，滿足課程先決條件，並希望在 Azure 上進行交叉培訓。
+outlineSection: |-
+  ### 模組 1&#58; 白板設計會話 —— 機器學習
+  #### 課程
+  - 回顧客戶案例研究
+  - 設計一個概念驗證解決方案
+  - 呈現該解決方案
+
+
+  ### 模組 2&#58; 動手實驗室 —— 機器學習
+  #### 課程
+  - 使用自動機器學習來創建預測模型
+  - 通過使用模型可解釋性來瞭解自動 ML 生成的預測模型
+  - 為時間序列資料創建一個深度學習模型 (RNN)，並註冊該模型
+  - 使用預測模型對流遙測技術進行評分
+  - 創建一個深度學習文本分類模型

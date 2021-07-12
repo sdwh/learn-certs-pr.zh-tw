@@ -1,0 +1,285 @@
+### YamlMime:Course
+title: Office 365 Administrator
+metadata:
+  title: 'Course MS-030T00-A: Office 365 Administrator'
+  description: 'Course MS-030T00-A: Office 365 Administrator'
+uid: course.ms-030t00
+courseNumber: 'MS-030T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 規劃 Office 365 部署，配置 Office 365 使用者和規劃試驗部署。
+- skill: 管理 Office 365 用戶、群組和許可證以及配置授權管理。
+- skill: 規劃和配置用戶端與 Office 365 的關聯。
+- skill: 規劃和配置 Microsoft Azure AD 和本地部署 AD DS 之間的目錄同步。
+- skill: 規劃和實施 Office 365 ProPlus 部署。
+- skill: 規劃和管理 Microsoft Exchange Online收件人和許可權。
+- skill: 規劃和配置 Exchange Online 服務。
+- skill: 規劃和配置 Microsoft Teams
+- skill: 規劃和配置 Microsoft SharePoint Online。
+- skill: 規劃和配置 Office 365 協作解決方案。
+- skill: 規劃和配置 Office 365 和 Microsoft Azure Information Protection 之間的集成。
+- skill: 管理和檢查 Office 365 服務及 Office 365 問題的解決。
+- skill: 規劃和實施 AD DS 和 Azure AD 之間的聯合身份驗證。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  該培訓是為期五天的引導式(ILT) 課程，目標受眾為參與評估、規劃、部署和操作 Microsoft Office 365 服務，包括其身份、依賴性、要求和支持技術的 IT 專業人士。 該課程重點聚焦於設置 Office 365 用戶所要求的技能，包括現有用戶的聯合身份驗證以及維護 Office 365 用戶和其用戶的技能。
+
+  #### 受眾概覽
+  該課程目標受眾為負責規劃、配置、管理 Office 365 環境的 IT 專業人士。參與本課的學生預期將會擁有對一些本地部署技術如 Domain Name System (DNS) 和 Active Directory Domain Services (AD DS) 的廣泛理解。此外，他們應該具有對 Microsoft Exchange Server、Microsoft Lync Server 或 Skype for Business Server 和 Microsoft SharePoint Server 的整體理解。
+prerequisitesSection: |-
+  參加本課之前，學生必須擁有&#58;
+  - 至少兩年管理 Windows Server 作業系統包括 Windows Server 2012 或較遲版本的經驗。
+  - 最低一年使用 AD DS 的經驗。
+  - 最低一年功能變數名稱解析包括 DNS 的經驗。
+  - 具有認證的工作經驗包括公開金鑰基礎建設 (PKI) 證書。
+  - 使用 Windows PowerShell 的經驗。
+  - 使用 Exchange Server 2013 或較遲版本、Lync Server 2013 或 Skype for Business Server 2015 和 SharePoint Server 2013 或較遲版本的經驗是非常有用的，但不強制要求。
+outlineSection: |-
+  ### 模組 1&#58; 規劃和準備 Office 365
+  該模組溫習了 Office 365 的功能、指出了該服務的最新改進且描述了準備 Office 365 使用者的流程。該模組也支出了部署 Office 365 過程中的挑戰以及 Microsoft FastTrack for Office 365 的嘗試相比于傳統的規劃、準備和遷移部署流程的好處。
+  #### 課程
+  - Office 365 概覽
+  - 準備 Office 365 用戶
+  - 規劃試驗部署
+
+
+  #### 實驗室 &#58; 準備 Office 365
+  - 配置 Office 365 使用者
+  - 配置自訂功能變數名稱
+  - 探索 Office 365 管理員介面
+
+  完成此模組後，學生將能夠&#58;
+  - 描述 Office 365 的功能和好處。
+  - 準備新的用戶帳戶。
+  - 規劃 Office 365 的試驗部署。
+
+
+  ### 模組 2&#58; 管理 Office 365 用戶和群組
+  該模組解釋了如何管理使用者、群組和許可證及使用 Office 365 控制台和 Windows PowerShell 命令列介面來配置管理存取權限。該模組也解釋了如何管理使用者密碼和配置多重身份驗證。
+  #### 課程
+  - 管理使用者帳戶和許可證
+  - 管理密碼和驗證
+  - 在 Office 365 中管理安全群組
+  - 使用 Windows PowerShell 管理 Office 365 使用者和群組
+  - 配置管理存取權限
+
+
+  #### 實驗室 &#58; 管理 Office 365 使用者和密碼
+  - 使用 Microsoft 365 管理中心管理 Office 365 用戶和許可證
+  - 管理 Office 365 密碼政策
+
+
+  #### 實驗室 &#58; 管理 Office 365 勸阻和管理
+  - 管理 Office 365 群組
+  - 使用 Windows PowerShell 管理 Office 365 使用者和群組
+  - 配置服務管理員
+
+  完成此模組後，學生將能夠&#58;
+  - 使用 Microsoft 365 管理中心管理用戶帳戶和許可證。
+  - 管理密碼和驗證。
+  - 使用 Microsoft 365 管理中心管理安全和通訊組。
+  - 使用 Windows PowerShell 管理 Office 365用戶和群組。
+  - 配置管理存取權限。
+
+
+  ### 模組 3&#58; 配置用戶端到 Microsoft Office 365 的關聯
+  本模組涵蓋了您可以用來連接到 Office 365 的很多不同類型的用戶端軟體。本模組也解釋了用戶端連接至 Office 365 的基礎設施要求，以及如何配置不同蕾西的 Office 365 用戶端。
+  #### 課程
+  - 規劃 Office 365 用戶端軟體
+  - 規劃 Office 365 用戶端的連接
+  - 配置 Office 365 用戶端的連接
+
+
+  #### 實驗室 &#58; 配置 Office 365 用戶端的連接
+  - 為 Office 365 用戶端配置 DNS 記錄
+  - 運行 Office 365 連接分析工具
+  - 連接 Office 應用程式
+
+  完成此模組後，學生將能夠&#58;
+  - 規劃 Office 365 用戶端的部署。
+  - 規劃、解決問題即 Office 365 用戶端連接。
+  - 配置 Office 365 用戶端的連接。
+
+
+  ### 模組 4&#58; 規劃和配置目錄同步
+  該模組解釋了如何使用整套方法在 Office 365 的部署中為用戶和群組管理進行規劃、準備和實施目錄同步。 也解釋了如何準備本地部署環境並安裝和配置目錄同步。該模組也解釋了如何在您啟用目錄同步後管理 Office 365 身份。
+  #### 課程
+  - 目錄同步的規劃和準備
+  - 使用 Azure AD Connect 來實施目錄同步
+  - 使用目錄同步來管理 Office 365 身份
+
+
+  #### 實驗室 &#58; 配置目錄同步
+  - 目錄同步準備
+  - 配置目錄同步
+  - 管理 Active Directory 使用者和群組
+
+  完成此模組後，學生將能夠&#58;
+  - 規劃和準備目錄同步。
+  - 使用 Microsoft Azure Active Directory Connect (AD Connect) 來實施目錄同步。
+  - 使用目錄同步管理 Office 365 身份。
+
+
+  ### 模組 5&#58; 規劃和部署 Office 365 ProPlus
+  該模組解釋了如何為用戶端部署進行規劃並確定使用者收到他們需要的工具來與 Office 365 高效互動。該模組也解釋了規劃的流程，如何讓 Office 365 ProPlus 能夠對終端使用者直接可用以及如何作為託管包對其進行部署。最後描述了如何建立 Office 遙測以讓管理員跟蹤用戶如何與 Microsoft Office 進行互動的。
+  #### 課程
+  - Office 365 ProPlus 概覽
+  - 規劃和管理用戶驅動 Office 365 ProPlus 的部署
+  - 規劃和管理 Office 365 ProPlus 的集中部署
+  - Office 遙測和報告
+
+
+  #### 實驗室 &#58; 管理 Office 365 ProPlus 安裝
+  - 準備 Office 365 ProPlus 的託管安裝
+  - 管理用戶驅動 Office 365 ProPlus 安裝
+  - 管理 Office 365 ProPlus 集中安裝
+
+  完成此模組後，學生將能夠&#58;
+  - 描述 Office 365 ProPlus。
+  - 規劃和管理用戶驅動的 Office 365 ProPlus 部署。
+  - 規劃和管理 Office 365 ProPlus 的集中部署。
+  - 描述 Office Telemetry 和報告。
+
+
+  ### 模組 6&#58; 規劃和管理 Exchange Online 接收人和許可權
+  該模組描述了 Exchange Online 並解釋了如何創建和管理接收者物件，如何管理和指定 Exchange 安全性。
+  #### 課程
+  - Exchange Online 概覽
+  - 管理 Exchange Online 接收者
+  - 規劃和配置 Exchange Online 許可權
+
+
+  #### 實驗室 &#58; 管理 Exchange Online 接收者和許可權
+  - 配置 Exchange Online 接收者
+  - 配置基於角色的存取控制
+
+  完成此模組後，學生將能夠&#58;
+  - 描述 Exchange Online。
+  - 管理 Exchange Online 接收者。
+  - 管理和配置授權管理。
+
+
+  ### 模組 7&#58; 規劃和位置 Exchange Online 服務
+  該模組解釋了如何在 Office 365 中除反欺詐郵件和反垃圾郵件設置之外的規劃和配置電子郵件工作流程。也解釋了如何為 Exchange 用戶端規劃和配置政策。此外，也解釋了如何規劃和配置向 Exchange Online 的遷移。
+  #### 課程
+  - 在 Office 365 中規劃和配置電子郵件工作流程
+  - 在 Office 365 中規劃和配置電子郵件保護
+  - 規劃和配置用戶端訪問政策
+  - 向 Exchange Online 遷移
+
+
+  #### 實驗室 &#58; 在 Exchange Online 中資訊傳輸
+  - 配置資訊傳輸配置
+
+
+  #### 實驗室 &#58; 配置電子郵件保護和用戶端政策
+  - 配置電子郵件保護
+  - 配置用戶端訪問政策
+
+  完成此模組後，學生將能夠&#58;
+  - 在 Office 365 中規劃和配置電子郵件工作流程。
+  - 在 Office 365 中規劃和配置反欺詐郵件和反垃圾郵件設置。
+  - Exchange 用戶端的規劃和配置政策
+  - 向 Exchange Online 遷移的規劃和配置。
+
+
+  ### 模組 8&#58; 規劃和配置 Microsoft Teams
+  該模組解釋了如何規劃和配置 Teams。該模組解釋了如何配置 Teams 使用者設置和用戶端並解釋了語音集成。也解釋了如何從 Skype for Business 向 Teams 進行遷移及 Teams 是如何與其他 Office 365服務集成的。
+  #### 課程
+  - Teams 說明
+  - 部署 Teams
+  - 驗證和訪問
+  - 將 Skype For Business 遷移至 Microsoft Teams
+  - 管理和報告
+
+  #### 實驗室 &#58; Teams 概覽
+  - 管理會議設置
+  - 管理資訊傳輸政策
+  - 管理語音設置
+  - 管理組織範圍設置
+
+  完成此模組後，學生將能夠&#58;
+  - 規劃和配置 Teams
+  - 配置 Teams 使用者設置和頻道
+  - 管理語音集成
+  - 在 Teams 中配置組織範圍設置
+
+
+  ### 模組 9&#58; 規劃和配置 SharePoint Online
+  該模組描述了如何配置 SharePoint Online 服務。本模組解釋了如何規劃和配置 SharePoint 網站集和外部用戶共用。也提供了其他門戶如視頻門戶的簡要概覽。
+  #### 課程
+  - 配置 SharePoint Online 服務
+  - 管理和配置 SharePoint Online 網站集
+  - 規劃和配置外部使用者共用
+
+
+  #### 實驗室 &#58; 配置 SharePoint Online
+  - 配置 SharePoint Online 設置
+  - 創建和配置 SharePoint Online 網站集
+  - 配置和驗證外部使用者共用
+
+  完成此模組後，學生將能夠&#58;
+  - 配置 SharePoint Online 服務。
+  - 規劃和配置 SharePoint Online 網站集。
+  - 規劃和配置外部使用者共用。
+
+
+  ### 模組 10&#58; 規劃和配置 Office 365 協作解決方案
+  該模組描述了如何啟用和配置 Yammer Enterprise。也解釋了如何配置 OneDrive for Business 和 Office 365 群組。
+  #### 課程
+  - 規劃和管理 Yammer Enterprise
+  - 規劃和配置 OneDrive for Business
+  - 配置 Office 365 群組
+
+
+  #### 實驗室 &#58; 規劃和配置 Office 365 協作解決方案
+  - 配置 Yammer Enterprise
+  - 配置 OneDrive for Business
+  - 配置Office 365 群組
+
+  完成此模組後，學生將能夠&#58;
+  - 啟用和配置Yammer Enterprise。
+  - 配置 Office 365 群組。
+
+
+  ### 模組 11&#58; 在 Office 365 中規劃和配置安全性和合規性
+  該模組描述了 Office 365 中的合規功能及如何管理它們。也解釋了如何規劃和配置 Azure Information Protection。此外，也解釋了 Office 365 中的安全性功能。
+  #### 課程
+  - Office 365 合規功能概覽
+  - 規劃和配置 Office 365 中的 Azure Information Protection
+  - 管理 Office 365 中的合規功能
+
+
+  #### 實驗室 &#58; 配置許可權管理和合規
+  - 配置 Office 365 中的許可權管理
+  - 配置合規功能
+
+  完成此模組後，學生將能夠&#58;
+  - 描述 Office 365 中的合規功能。
+  - 配置 Office 365 中的 Azure Information Protection。
+  - 管理 Office 365 中的合規功能
+
+
+  ### 模組 12&#58; 監測和解決 Microsoft Office 365 問題
+  該模組解釋了如何解決使用 Office 365 關聯和服務中出現的問題及如何監測 Office 365 服務健康。
+  #### 課程
+  - 解決使用 Office 365 過程中出現的問題
+  - 監測 Office 365 服務健康
+
+
+  #### 實驗室 &#58; 監測和解決使用 Office 365 過程中出現的問題
+  - 監測 Office 365
+  - 監測服務健康和分析報告
+
+  完成此模組後，學生將能夠&#58;
+  - 解決 Office 365 關聯和服務方面的問題。
+  - 監測 Office 365 服務健康。
