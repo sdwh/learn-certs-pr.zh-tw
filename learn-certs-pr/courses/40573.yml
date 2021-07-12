@@ -1,0 +1,48 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Hybrid identity'
+metadata:
+  title: 'Course 40573-G: Microsoft Cloud Workshop: Hybrid identity'
+  description: 'Course 40573-G: Microsoft Cloud Workshop: Hybrid identity'
+uid: course.40573
+courseNumber: '40573-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 在 Azure 中設計多個子網的虛擬網路來過濾並控制網路流量。
+- skill: 創建虛擬網路並提供子網。
+- skill: 創建包含所需路由的路由表。
+- skill: 構建一個管理跳轉盒。
+- skill: 配置防火牆以控制流量。
+- skill: 配置網站到網站連接。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  在本次研討會中，您將學習如何設置並配置一個混合身份解決方案，該解決方案將現有的本地身份解決方案與 Azure 集成。您將學習如何通過部署網路虛擬裝置並配置防火牆規則及路由表來保護虛擬網路。此外，您還將借助一個跳轉盒和一個網站到網站的 VPN 連接來設置對虛擬網路的訪問。
+
+  #### 受眾概覽
+  本次研討會針對的是 Cloud Architects 和 IT 專業人士，他們在 cloud 技術的基礎設施和解決方案設計方面有著架構專業知識，並希望瞭解更多關於 Azure 和 Azure 服務的知識，正如“摘要”和“獲得的技能”部分中所描述的那樣。  參加本次研討會的人員還應具有其他非 Microsoft cloud 技術方面的經驗，滿足課程先決條件，並希望在 Azure 上進行交叉培訓。
+prerequisitesSection: |-
+  研討會內容假定有300級別的基礎設施和解決方案設計方面的架構專業知識。我們建議學生在參加本次研討會之前先接受這一先決條件。
+  - Microsoft Azure Essentials course, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### 範本 1&#58; 白板設計會話 —— 混合身份
+  在本次研討會中，您將學習如何設置並配置一個混合身份解決方案，該解決方案將現有的本地身份解決方案與 Azure 集成。您將學習如何通過部署網路虛擬裝置並配置防火牆規則及路由表來保護虛擬網路。此外，您還將借助一個跳轉盒和一個網站到網站的 VPN 連接來設置對虛擬網路的訪問。
+  #### 課程
+  - 回顧客戶案例研究
+  - 設計一個概念驗證解決方案
+  - 呈現該解決方案
+
+
+  ### 模組 2&#58; 動手實驗室 —— 混合身份
+  在這個動手實驗室中，您將設置並配置許多不同的混合身份場景。這些場景涉及一個名為 contoso.local 的 Active Directory 單域林，在這個實驗室環境中，它由一個名為 DC1 的單網域控制站和一個名為 APP1 的單域成員伺服器組成（為簡單起見）。其目的是探究與 Azure AD 相關的功能，這些功能允許您將 Active Directory 與 Azure Active Directory 集成，優化混合身份驗證和授權，並為組織使用者及合作夥伴組織的成員使用者提供從互聯網到本地資源的安全訪問。
+  #### 課程
+  - 將 Active Directory Forest 與 Azure Active Directory 租戶集成。
+  - 管理混合場景下的身份驗證、授權和存取控制。
+  - 配置混合場景下的應用程式訪問。

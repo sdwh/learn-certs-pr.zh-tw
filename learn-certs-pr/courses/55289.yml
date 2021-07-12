@@ -1,0 +1,163 @@
+### YamlMime:Course
+title: 'Microsoft Project 2019: Digging Deeper'
+metadata:
+  title: 'Course 55289-A: Microsoft Project 2019: Digging Deeper'
+  description: 'Course 55289-A: Microsoft Project 2019: Digging Deeper'
+uid: course.55289
+courseNumber: '55289-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用 Gantt Chart 的高級格式設置功能和網路圖。
+- skill: 在 Project 2019 中創建主項目和子項目。
+- skill: 創建自訂專案報表。
+- skill: 使用資源池。
+- skill: 分析項目成本。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  該 Intermediate Microsoft Project 2019&#58; Digging Deeper 課程深入介紹了 Project 2019 或 Project 365 的主要功能，包括任務輸入和連結、資源和資源管理以及檢查和更新專案。您將學習高效管理專案、創建主專案和子專案，創建和自訂視覺化的報告、使用資源池以及分析專案成本。
+
+  #### 受眾概覽
+  該課程旨在針對擁有 Microsoft Project 基本技能的學生包括非常熟練該程式的各項功能區。
+prerequisitesSection: |-
+  基本 Microsoft Project 技能包括非常熟練該程式的各項功能區。
+outlineSection: |-
+  ### 模組 1&#58; 從現有專案、Excel Workbook 或 SharePoint任務清單啟動專案
+  該模組解釋了如何啟動專案。
+  #### 課程
+  - 啟動專案
+
+  完成此模組後，學生將能夠&#58;
+  - 設置專案選項。
+  - 從現有項目創建一個項目。
+  - 從 Excel 表創建一個項目
+  - 從 SharePoint 列表創建一個項目。
+
+
+  ### 模組 2&#58; 管理任務和資源的高級方法
+  該模組解釋了如何使用高級方法管理任務和資源。
+  #### 課程
+  - 管理任務和資源
+  - 理解執行時間和實際時間設置
+  - 任務日期約束設置
+  - 拆分和延遲任務
+  - 使用任務檢查
+  - 分析關鍵任務和關鍵路徑
+  - 使用滯後時間和提前時間
+  - 分析任務分配
+  - 使用工作組規劃器
+  - 使用資源池和共用資源
+  - 管理資源可用性和資源費率
+
+
+  #### 實驗室 &#58; 練習
+  - 更改任務依賴
+  - 創建任務日期約束
+  - 拆分任務&#58; 使用 Gantt Chart View
+  - 延遲任務&#58; 使用 Gantt Chart View
+  - 查看任務檢查器
+  - 設置滯後和提前時間
+  - 在任務分配資訊對話方塊中添加備註
+  - 顯示工作組規劃器並應用格式設置
+  - 共用資源池
+  - 更改資源費率
+
+  完成此模組後，學生將能夠&#58;
+  - 使用任務依賴。
+  - 理解運行和實際時間設置的不同。
+  - 設置任務日期約束。
+  - 拆分和延遲任務。
+  - 使用任務檢查器。
+  - 分析關鍵任務和關鍵路徑。
+  - 使用滯後時間和提前時間。
+  - 分析任務分配。
+  - 使用工作組規劃器。
+  - 使用資源池和共用資源。
+  - 管理資源可用性和資源費率。
+
+
+  ### 模組 3&#58; 使用高級技術管理專案
+  該模組解釋了如何檢查和修復任務中的任務問題。
+
+  #### 課程
+  - 使用資源平衡解決資源過度分配
+  - 修改任務
+  - 理解基線計畫和中期計畫
+  - 分析專案成本並創建預算
+
+
+  #### 實驗室 &#58; 練習
+  - 使用資源平衡解決資源過度分配&#58; 使用 Gantt
+  - 修改任務
+  - 設置其他基線
+  - 創建預算
+
+  完成此模組後，學生將能夠&#58;
+  - 使用資源平衡解決資源過度分配。
+  - 修改任務。
+  - 理解基線和中期計畫。
+  - 分析專案成本並創建預算。
+
+
+  ### 模組 4&#58; 設置及自訂視圖格式
+  該模組解釋了如何在 Microsoft Project 中設置及自訂視圖格式。
+  #### 課程
+  - 自訂 Gantt Chart
+  - 創建自訂視圖
+  - 應用篩檢程式
+  - 使用 Work Breakdown Structure (WBS) Codes
+
+
+  #### 實驗室 &#58; 練習
+  - 使用 Gantt Chart View 自訂 Gantt Chart 
+  - 創建自訂視圖
+  - 應用篩檢程式
+
+  完成此模組後，學生將能夠&#58;
+  - 自訂 Gantt Chart。
+  - 創建自訂視圖。
+  - 應用篩檢程式。
+  - 使用 Work Breakdown Structure (WBS) Codes。
+
+
+  ### 模組 5&#58; 報表
+  該模組解釋了如何在 Microsoft Project 中使用報表。
+  #### 課程
+  - 創建可視報表
+  - 編輯報表
+
+
+  #### 實驗室 &#58; 練習
+  - 創建可視報表
+  - 編輯報表
+
+  完成此模組後，學生將能夠&#58;
+  - 創建可視報表。
+  - 編輯報表。
+
+
+  ### 模組 6&#58; 處理模版
+  該模組解釋了如何在 Microsoft Project 中使用模版。
+  #### 課程
+  - 在專案中使用子專案。
+  - 使用管理器維護模版。
+
+
+  #### 實驗室 &#58; 練習
+  - 在專案中使用子專案
+  - 使用管理器
+
+  完成此模組後，學生將能夠&#58;
+  - 在專案中使用子專案。
+  - 使用管理器維護模版。
+
+  #### 補充閱讀
+  無

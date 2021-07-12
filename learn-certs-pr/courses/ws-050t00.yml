@@ -1,0 +1,81 @@
+### YamlMime:Course
+title: Migrating Application Workloads to Azure
+metadata:
+  title: 'Course WS-050T00-A: Migrating Application Workloads to Azure'
+  description: 'Course WS-050T00-A: Migrating Application Workloads to Azure'
+uid: course.ws-050t00
+courseNumber: 'WS-050T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 確定遷移中每個階段具體使用的工具和服務
+- skill: 瞭解並評估向 Azure 遷移的本地部署工作量
+- skill: 使用應用程式依賴性映射和評估自訂獲得對環境的更深入分析
+- skill: 使用 Azure Migrate 執行向 Azure 的端到端本地部署工作的遷移
+- skill: 將資料從本地部署的資料中心複製到 Azure 或次要網站
+- skill: 使用 Database Migration Service 從現有資料資源將資料移轉到 Azure 資料平臺
+- skill: 使用 Azure Security Center、Azure Backup 和 Log Analytics 管理並確保所遷移負載的安全
+- skill: 確保包含高可靠性、災難恢復的商業連續性策略
+- skill: 使用 Azure Backup Service 備份和保護任何地理位置的 Azure IaaS 虛擬主機
+- skill: 定義恢復計畫以在運行全面失敗之前確保虛擬主機適當地失敗
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+summary: |-
+  該講習班教授 IT 專業人士如何將現有的本地部署負載和資產遷移至 cloud，尤其是到 Microsoft Azure 平臺。學生將學習在準備 cloud 遷移時如何評估和評價現有的本地部署環境。學生也將學習如何監控和優化他們的基於 Azure 的負載以最大化投資回報 (ROI) 並使用 Azure 服務來保護和管理虛擬主機、應用程式和資料。
+
+  #### 受眾概覽
+  該講習班針對需要管理、實施及管理向 Azure 的本地部署資源的遷移或將 Azure 虛擬主機複製到其他 Azure 位置的 IT 管理人員和員工。 他們接受負載所有者的請求將負載遷移至 cloud 以利用啟用 cloud 策略的優勢，提供超越傳統資料中心的嘗試。該角色要求與組織內 IT 部門和商業群組以及賣方中的不同個人進行溝通和協調。
+prerequisitesSection: |-
+  - 有作業系統、虛擬化、cloud 基礎設施、存儲結構和網路經驗的 IT 管理員可從事此崗位。 此外，IT 管理員應具有管理 IaaS Azure 基礎設施的經驗或同等經驗。
+  - 理解本地部署虛擬技術，包括&#58; VMs、虛擬網路和虛擬硬碟。
+  - 理解網路配置，包括 TCP/IP、Domain Name System (DNS)、virtual private networks (VPNs)、防火牆和加密技術。
+  - 理解 Active Directory 概念，包括功能變數名稱、樹、網域控制站、複製、 Kerberos 協議和 Lightweight Directory Access Protocol (LDAP) 概念。
+  - 理解快速恢復能力和災難恢復包括備份和恢復操作。
+  - 熟練使用 Azure 包括 Azure 埠、Cloud Shell、Azure PowerShell、CLI 和 ARM 模版。
+  - 理解 Azure Active Directory 和 cloud 身份認證管理。
+  - 理解訂閱、用戶、群組、計費和 Azure 政策的管理。
+outlineSection: |-
+  ### 模組  1&#58; 規劃、評估和 Azure Migration
+  在本模組中，您將瞭解通往 cloud 遷移、Azure 遷移階段以及每個階段所使用的工具和服務的關鍵商業和技術性驅動器。您將學習在向 Azure 遷移適當負載準備中發現和評估您的本地部署環境。
+  #### 課程
+  - Cloud 遷移 - 商業動機、目標和結果
+  - 發現和評估
+
+
+  #### 實驗室 &#58; 發現和評估本地部署資源的遷移
+
+  ### 模組 2&#58; 資料移轉介紹
+  在本模組中，您將瞭解在您需要安全地發送百萬位元元組資料至 Azure 時可以使用的解決方案。您將瞭解有線上和離線傳輸選項的 Azure Data Box 系列產品。然後將瞭解使用 Azure Database Migration Service (DMS) 將本地部署的 SQL Server 2008R2 資料庫遷移至 Azure SQL Database Managed Instance (MI)。
+  #### 課程
+  - Azure Data Box
+  - 資料庫遷移
+
+
+  #### 實驗室 &#58; 將本地部署的 SQL Server Database 遷移至 Azure SQL Managed Instance
+
+  ### 模組 3&#58; 使用 Azure Migrate Services 實施遷移
+  在本模組中，您將學習在規劃遷移之前如何準備本地部署的基礎設施和 Azure 元件。您也將學習如何使用 Azure Migrate Services 執行端到端的遷移。
+  #### 課程
+  - Azure Migrate Server Migration 概覽
+  - VMware - Agentless 遷移
+  - VMware - Agent-based 遷移
+  - 確保所遷移負載的安全
+  - 使用 Microsoft Migration Factory 的資料中心遷移
+
+
+  #### 實驗室 &#58; 將虛擬主機複製到 Azure
+
+  ### 模組 4&#58; 在 Azure 中備份和災難恢復
+  在此模組中，您將瞭解商業連續性策略的關鍵組成部分及高度可靠性解決方案所要求的內容。您也將學習如何使用 Azure Backup 服務實施 Azure IaaS 虛擬主機備份。 此外，您也要學習如何使用 Azure Site Recovery 將 Azure VMs 複製到任何其他 Azure 位置。
+  #### 課程
+  - Azure Backup 概覽
+  - 實施 Azure IaaS Backup
+  - Azure 到 Azure Site Recovery
+  - 應用程式災難恢復

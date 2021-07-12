@@ -1,0 +1,146 @@
+### YamlMime:Course
+title: 'Microsoft Security Workshop: Implementing PowerShell Security Best Practices'
+metadata:
+  title: 'Course 40555-A: Microsoft Security Workshop: Implementing PowerShell Security Best Practices'
+  description: 'Course 40555-A: Microsoft Security Workshop: Implementing PowerShell Security Best Practices'
+uid: course.40555
+courseNumber: '40555-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 提供 Windows PowerShell 概述
+- skill: 描述 PowerShell 版本
+- skill: 安裝並使用 Windows PowerShell 和 PowerShell Core
+- skill: 管理本地 PowerShell 腳本的執行
+- skill: 管理 Windows PowerShell 的遠端執行
+- skill: 管理 PowerShell Core 的遠端執行
+- skill: 對使用 Constrained Language Mode 的安全啟示進行描述
+- skill: 描述 Windows PowerShell DSC 的體系結構和元件
+- skill: 推薦 Windows PowerShell 審計和日誌配置
+- skill: 提供基於 Windows PowerShell 的攻擊示例
+- skill: 使用基於 Windows PowerShell 的安全工具
+- skill: 提供基於 Windows PowerShell 的安全相關技術的概述
+- skill: 通過使用 Desired State Configuration (DSC) 來實施 Windows PowerShell 日誌記錄
+- skill: 識別並緩解基於 Windows PowerShell 的漏洞
+- skill: 實施 Just Enough Administration (JEA)
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  於2006年引入的 Windows PowerShell 是一種指令碼語言、命令列介面和構建在 Microsoft .NET Framework 上的腳本平臺。儘管指定了腳本，但 Windows PowerShell 具有一系列程式設計語言的常見特徵，其中包括物件導向的性質、可擴展性、C# 式語法，以及直接與 .NET 類、它們的屬性和方法交互的能力。
+
+  Windows PowerShell 的主要目標是説明 IT 專業人士及高級使用者控制並自動化 Windows 作業系統和在 Windows 上運行的應用程式的管理。
+
+  為充分利用 Windows PowerShell 所提供的優勢，同時最小化與安全相關的風險，瞭解 Windows PowerShell 運行安全的那些主要方面是必要的。在本課程中需要考慮的另一個關鍵方面是 Windows PowerShell 在安全性漏洞中的作用。
+  
+  這次為期1天、講師指導的安全研討會提供了關於 PowerShell 的討論和實際操作培訓。您將瞭解 PowerShell 的基礎知識，其中包括其體系結構設計、版本以及與 PowerShell 進行交互的基礎知識。
+
+  然後，您將探究駭客使用的最常見的基於 Windows PowerShell 的技術，這是為了利用對 Windows 作業系統的現有訪問，從而便於安裝惡意軟體，執行偵察任務，建立其在目的電腦上的持久性，並促進橫向移動。您還將回顧一些基於 Windows PowerShell 的安全工具，它們有助於 Windows PowerShell 漏洞的滲透測試、取證及逆向工程。在結束本課程時，您將提供一篇由 Blue Team 推薦的技術摘要，這些技術旨在針對基於 Windows PowerShell 的攻擊實施全面、深入的安全防範。
+  
+  該研討會是由 Microsoft 提供的關於安全實踐的更大規模系列研討會的一部分。雖然不要求您在參加該研討會之前已經完成 Security Workshop 系列的任何其他課程，但是強烈建議您從該系列的第一門課程開始，即 Microsoft Security Workshop&#58; Enterprise Security Fundamentals。
+  - 40551A&#58; Microsoft Security Workshop&#58; Enterprise Security Fundamentals
+  - 40552A&#58; Microsoft Security Workshop&#58; Managing Identity
+  - 40553A&#58; Microsoft Security Workshop&#58; Planning for a Secure Enterprise - Improving Detection
+  - 40554A&#58; Microsoft Security Workshop&#58; Implementing Windows 10 Security Features
+  - 40555A&#58; Microsoft Security Workshop&#58; Implementing PowerShell Security Best Practices.
+
+  #### 受眾概覽
+  本課程專為 IT 專業人士而設，他們需要更深入地瞭解 Windows PowerShell 安全相關的特性和漏洞，並通過主要實踐經驗來實施 Windows PowerShell 安全特性，以提高他們的知識水準。
+prerequisitesSection: |-
+  除了他們的專業經驗，接受這種培訓的學生應已具備以下技術知識&#58;
+  - 在訪問並使用簡單的 Windows PowerShell 命令方面有著良好的基礎
+  - 當前的網路安全生態系統
+  - Windows Client 和 Server 管理、維護及故障排除方面的經驗。
+  - 具備 Windows 聯網技術的基本經驗和理解，這些技術包括 Windows Firewall 網路設置、DNS、DHCP、WiFi以及 cloud 服務概念。
+  - 具備 Active Directory 的基本經驗和理解，其中包括網域控制站的功能、登錄服務以及對群組原則的理解。
+  - 使用 Windows 10 進行系統管理方面的知識和相關經驗。
+  
+  通過作為“安全管理員”、“系統管理員”或“網路系統管理員”的實際經驗獲得同等的知識和技能，參加本培訓的學習者可以滿足這些先決條件。學習者應在訪問和使用簡單的 Windows PowerShell 命令方面有良好的基礎。這種知識可在 INF210x、Windows PowerShell Basics 中獲得。
+outlineSection: |-
+  ### 模組 1&#58; PowerShell 基本原理
+  於2006年引入的 Windows PowerShell 是一種指令碼語言、命令列介面和構建在 Microsoft .NET Framework 上的腳本平臺。儘管指定了腳本，但 Windows PowerShell 具有一系列程式設計語言的常見特徵，其中包括物件導向的性質、可擴展性、C# 式語法，以及直接與 .NET 類、它們的屬性和方法交互的能力。Windows PowerShell 的主要目標是説明 IT 專業人士及高級使用者控制並自動化 Windows 作業系統和在 Windows 上運行的應用程式的管理。隨著在2016年引入 .NET Core，Microsoft 將 PowerShell 的範圍擴展到了其他作業系統平臺，導致了一個開源的、由 GitHub 託管的項目，名為 PowerShell Core。除 32-bit 和 64-bit Windows 作業系統（包括在 Advanced Reduced Instruction Set Computing Machine (ARM) 設備上運行的 Windows 10）之外，您還可以在 macOS 10.12 （各種 64-bit Linux 發行版本）上使用 PowerShell Core。
+
+  在本模組中，您將學習 PowerShell 的基本原理，其中包括其體系結構設計、版本以及與 PowerShell 交互的基礎知識。
+  #### 課程
+  - Windows PowerShell 概述
+  - PowerShell 版本
+  - 運行 PowerShell
+
+  完成本模組後，您將能夠&#58;
+  - 提供 Windows PowerShell 概述
+  - 描述 PowerShell 版本
+  - 安裝並使用 Windows PowerShell 和 PowerShell Core
+
+
+  ### 模組 2&#58; PowerShell Operational Security
+  為充分利用 Windows PowerShell 所提供的優勢，同時最小化與安全相關的風險，瞭解 Windows PowerShell 運行安全的那些主要方面是必要的。在本模組中，您將學習如何利用 Windows PowerShell 操作環境中的內置 Windows PowerShell 特性及技術來提高作業系統的安全性。在本模組中需要考慮的另一個關鍵方面是 Windows PowerShell 在安全性漏洞中的作用。根據經驗資料，在大多數情況下，Windows PowerShell 是作為後滲透攻擊工具使用的。這意味著，在啟動一次 Windows PowerShell 會話時，攻擊者已經獲得了安全上下文的訪問權，目標系統或目標使用者在其中操作。這是本模組將要關注的場景類型。在這種情況下，Windows PowerShell 是在本地和遠端電腦上執行任意任務的強大且極其靈活的引擎，順便說一句，這也是使得 Windows PowerShell 在系統管理員中極受歡迎的原因。
+
+  顯然還有其他類型的攻擊，這些攻擊靠 Windows PowerShell 獲得對目標系統的未經授權的訪問。在這種場景中，Windows PowerShell 充當一種漏洞利用工具。我們將在本課程的最後一個模組中探討這些類型的攻擊。
+  #### 課程
+  - 管理 Local Script Execution
+  - 管理 Windows PowerShell 的遠端執行能力
+  - 管理 PowerShell Core 的遠端執行能力
+  - Language Mode
+
+  完成本模組後，您將能夠&#58;
+  - 管理本地 PowerShell 腳本的執行
+  - 管理 Windows PowerShell 的遠端執行
+  - 管理 PowerShell Core 的遠端執行
+  - 對使用 Constrained Language Mode 的安全啟示進行描述
+
+
+  ### 模組 3&#58; 實施基於 PowerShell 的安全性
+  在上一模組中，您學習了許多內置在 Windows PowerShell 中與安全相關的特性以及作為 Windows PowerShell 操作環境一部分的技術，這些技術可以幫助您實施這些特性。本模組的目的是介紹通過利用 Windows PowerShell 來提高作業系統安全性的最常見和最有效的方法。這些方法包括&#58; > 通過依賴於 PowerShell Desired State Configuration (DSC) 來防止意外的配置更改 > 通過使用 Just Enough Administration (JEA) 在遠端系統管理場景中實施最小特權原則 > 通過使用 Windows PowerShell 日誌跟蹤並審計可能顯示攻擊企圖的事件
+  #### 課程
+  - Windows PowerShell DSC
+  - Just Enough Administration (JEA)
+  - Windows PowerShell 審計和日誌
+
+  完成本模組後，您將能夠&#58;
+  - 描述 Windows PowerShell DSC 的體系結構和元件
+  - 實施 JEA
+  - 推薦 Windows PowerShell 審計和日誌配置
+
+
+  ### 模組 4&#58; 基於 Windows PowerShell 的漏洞及其緩解
+  通過只關注漏洞預防策略，組織不能全面地識別安全檢測和回應的差距。瞭解如何防護，而且還要瞭解如何檢測並應對漏洞，這與從一開始就採取行動以防止漏洞同樣重要，“如果不是更重要的話”。通過 Red Teaming （真實世界的攻擊和滲透）為最壞的情況做計畫，組織可以開發必要的能力來檢測試圖利用的漏洞，並顯著改善與安全性漏洞相關的各種回應。
+
+  Red Teaming 已經成為開發並保護 Microsoft 的平臺及服務最重要的部分之一。Red Team 承擔了複雜對手的角色，並允許 Microsoft 驗證並提高安全性，加強防禦以及推動整個安全程式的更大有效性。Red Teams 使 Microsoft 能夠測試漏洞檢測和回應，以及準確地衡量現實世界攻擊的準備情況和影響。
+
+  Blue Team 的目的是尋找創造性及可靠的防禦來發現並挫敗由 Red Team 精心策劃的攻擊。Blue Team 由一組專門的安全響應人員或來自安全事件回應、
+
+  “工程和運營”組織的成員組成。不管其構成如何，他們都是獨立的，並且與 Red Team 分開運作。Blue Team 遵循已建立的安全流程，並使用最新的工具和技術來檢測並回應攻擊和滲透。
+
+  在本模組中，我們將首先從 Red Team 的角度探討基於 Windows PowerShell 的安全性。我們將探究駭客使用的最常見的基於 Windows PowerShell 的技術，這是為了利用對 Windows 作業系統的現有訪問，從而便於安裝惡意軟體，執行偵察任務，建立其在目的電腦上的持久性，並促進橫向移動。我們還將回顧一些基於 Windows PowerShell 的安全工具，它們有助於 Windows PowerShell 漏洞的滲透測試、取證及逆向工程。在結束本模組和本課程時，我們將提供一篇由 Blue Team 推薦的技術摘要，這些技術旨在針對基於 Windows PowerShell 的攻擊實施全面、深入的安全防範。
+
+  有許多記錄在案的漏洞，它們利用 Windows PowerShell 功能來執行攻擊，攻擊目標是未修補或老式系統中存在的安全缺陷，或者在單個系統受到損害時橫向擴展此類攻擊的範圍。請注意，本模組中對此類漏洞的概述並非詳盡無遺。我們的目的是闡明此類攻擊所遵循的常見模式，並凸顯全面防禦深入戰略的重要性。
+  #### 課程
+  - 基於 Windows PowerShell 的攻擊
+  - 基於 Windows PowerShell 的安全工具
+  - Windows PowerShell 安全相關技術摘要
+
+
+  #### 實驗室 &#58; 實施 Windows PowerShell Security
+  - 通過使用 DSC 來實施 Windows PowerShell Logging
+  - 執行一次基於 Windows PowerShell 的攻擊
+  - 實施 Just Enough Administration
+
+  完成本模組後，您將能夠&#58;
+  - 提供基於 Windows PowerShell 的攻擊示例
+  - 使用基於 Windows PowerShell 的安全工具
+  - 提供基於 Windows PowerShell 的安全相關技術概述
+  - 通過使用 Desired State Configuration (DSC) 來實施 Windows PowerShell 日誌記錄
+  - 識別並緩解基於 Windows PowerShell 的漏洞
+  - 實施 Just Enough Administration (JEA)
+
+  #### 補充閱讀
+  該研討會是由 Microsoft 提供的關於“安全”實踐的更大規模系列“研討會”的一部分。雖然不要求您在參加該研討會之前已經完成 Security Workshop 系列的任何其他課程，但是強烈建議您從該系列的第一門課程開始，即 Microsoft Security Workshop&#58; Enterprise Security Fundamentals。
+  - 40551A&#58; Microsoft Security Workshop&#58; Enterprise Security Fundamentals
+  - 40552A&#58; Microsoft Security Workshop&#58; Managing Identity
+  - 40553A&#58; Microsoft Security Workshop&#58; Planning for a Secure Enterprise - Improving Detection
+  - 40554A&#58; Microsoft Security Workshop&#58; Implementing Windows 10 Security Features
+  - 40555A&#58; Microsoft Security Workshop&#58; Implementing PowerShell Security Best Practices.

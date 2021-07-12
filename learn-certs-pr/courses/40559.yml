@@ -1,0 +1,44 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: MLOps'
+metadata:
+  title: 'Course 40559-G: Microsoft Cloud Workshop: MLOps'
+  description: 'Course 40559-G: Microsoft Cloud Workshop: MLOps'
+uid: course.40559
+courseNumber: '40559-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 設計並實施充分操作化深度學習模型的端到端解決方案。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  在本次研討會中，您將瞭解 Trey Research 如何利用“深度學習”技術掃描其車輛規範文檔，從而找到新法規的合規問題，並通過其 web 應用程式來管理分類。從模型創建、應用程式打包、模型部署到應用程式部署的整個過程需要作為一個統一的、可重複的管道進行。
+  在本次研討會結束時，您將能夠更好地設計並實施充分操作化深度學習模型的端到端解決方案，其中包括依賴於該模型的所有應用程式元件。
+
+  #### 受眾概覽
+  本次研討會針對的是 Cloud Architects 和 IT 專業人士，他們在 cloud 技術的基礎設施和解決方案設計方面有著架構專業知識，並希望瞭解更多關於 Azure 和 Azure 服務的知識，正如“摘要”和“獲得的技能”部分中所描述的那樣。  參加本次研討會的人員還應具有其他非 Microsoft cloud 技術方面的經驗，滿足課程先決條件，並希望在 Azure 上進行交叉培訓。
+outlineSection: |-
+  ### 模組 1&#58; 白板設計會話 —— MLOps
+  #### 課程
+  - 回顧客戶案例研究
+  - 設計一個概念驗證解決方案
+  - 呈現該解決方案
+
+
+  ### 模組 2&#58; 動手實驗室 —— MLOps
+  #### 課程
+  - 創建並評價合規性分類模型
+  - 註冊該模型
+  - 在 Azure DevOps 中設置新項目
+  - 設置並運行“構建管道”
+  - 設置“發佈管道”
+  - “測試構建”和“發佈管道”
+  - 測試部署的解決方案
+  - 檢查部署的模型性能
