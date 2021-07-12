@@ -1,0 +1,170 @@
+### YamlMime:Course
+title: Introduction to SharePoint 2019
+metadata:
+  title: 'Course 55298-A: Introduction to SharePoint 2019'
+  description: 'Course 55298-A: Introduction to SharePoint 2019'
+uid: course.55298
+courseNumber: '55298-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 學習 SharePoint 2019 小組網站中的各個功能。
+- skill: 學習創建 SharePoint列表。
+- skill: 學習自訂 SharePoint列表。
+- skill: 學習創建 SharePoint 庫。
+- skill: 學習管理庫文件版本。
+- skill: 學習創建 SharePoint 列表和庫視圖。
+- skill: 學習集成 Office Outlook、Excel 應用程式和 SharePoint 2019。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  本 Introduction to SharePoint 2019 課程旨在針對在 SharePoint 2019 環境中工作的終端使用者。 它是我們 SharePoint End User 課程完整版本的簡單版，其針對不負責管理 SharePoint 網站的 SharePoint 新手用戶。
+
+  #### 受眾概覽
+  該課程適用於在 SharePoint 2019 環境中工作的終端使用者。
+prerequisitesSection: |-
+  無基礎要求。
+outlineSection: |-
+  ### 模組 1&#58; SharePoint 2019 介紹
+  SharePoint 的核心是協作。 其主要的目標是讓使用者輕鬆找到並共用資訊，而且還有很多內置在 SharePoint 的功能來促進這一目標的實現。SharePoint 的庫系統功能可以為傳統的檔案伺服器提供高級替代功能。SharePoint 列表可以是一款設計簡單、使用輕鬆的共用工作表檔或更多正式資料庫表的替代產品。列和庫都可以自訂且能擴展以提供改善的外觀和功能，如日曆和博客等很多。所有的這種協作都可以通過流覽器介面完成，在一些情況下可以通過與 Microsoft Office 應用程式的集成來完成。
+  #### 課程
+  - SharePoint 版本
+  - 小組網站佈局和導航
+  - 佈局
+  - 導航
+
+
+  #### 實驗室 &#58; 練習
+  - 小組網站導航
+
+  完成此模組後，學生將能夠&#58;
+  - 理解 SharePoint 的版本。
+  - 理解 SharePoint 的繼承。
+  - 理解小組網站佈局。
+  - 理解小組網站內的導航。
+
+
+  ### 模組 2&#58; SharePoint 列表基礎
+  列表在 SharePoint 中是基礎的構建模組，為使用者提供了存儲和查看資料的方法。SharePoint 和很多預定義的列表模版都是隨時即用的且使用簡單。 可以通過添加欄來進一步自訂清單以存儲任何類型的資訊。此外，列表欄可以進行驗證，也可以與其他清單進行連結。列表是 SharePoint 中非常靈活和強大的工具。
+
+  #### 課程
+  - 使用清單模版創建應用程式
+  - 創建清單
+  - 使用列表模版創建列表
+  - 列表欄
+  - 創建列表欄
+  - 欄驗證
+  - 驗證列表欄
+
+
+  #### 實驗室 &#58; 練習
+  - 使用小組網站列表
+  - 創建自訂列表和欄
+
+  完成此模組後，學生將能夠&#58;
+  - 理解列表模版。
+  - 在小組網站中使用默認的列表。
+  - 從列表模版創建一個新的列表。
+  - 創建自訂列表。
+  - 向列表添加欄。
+  - 控制和驗證到列表欄位的輸入。
+
+
+  ### 模組 3&#58; 庫基礎
+  SharePoint 庫與 SharePoint 使用相同的字元，如欄、視圖和驗證等。SharePoint 庫的不同之處是其中的每一個專案都有一個基本檔。所以，除存儲在庫欄中的資料外，該檔還存儲了其自己的基於檔案類型的資料。因為可以被存儲在欄中的額外資料可以用來按照功能進行過濾和搜索，如版本控制，庫也被認為是更多傳統檔案伺服器系統的非常好的存儲位置。庫和列表一樣，是 SharePoint 網站的基礎構建基塊。
+
+  #### 課程
+  - 庫模版
+  - 創建庫
+  - 創建文件庫和添加欄
+  - 創建資產庫
+  - 管理文件和版本控制
+  - 檢出檔
+  - 刪除和存儲檔
+  - 版本控制
+
+
+  #### 實驗室 &#58; 練習
+  - 使用小組網站庫
+  - 創建庫
+  - 檔版本控制
+
+  完成此模組後，學生將能夠&#58;
+  - 使用庫模版創建新庫
+  - 向庫添加欄
+  - 檢出檔以編輯。
+  - 從文件庫中刪除和恢復檔。
+  - 在庫上啟用版本控制。
+  - 將庫檔案修復為先前的版本。
+
+
+  ### 模組 4&#58; 使用列表和庫視圖
+  視圖提供了靈活的系統以閱讀簡單和使用輕鬆的方式展示 SharePoint 清單和庫檔。每個 SharePoint 清單和庫都可以創建和配置多個視圖，一些清單和庫模版也可以預先配置特殊的視圖。視圖可以定義以用作個人用途或共用用途。
+
+  #### 課程
+  - 默認視圖
+  - 探索默認視圖
+  - 自訂視圖
+  - 如何創建自訂視圖
+
+
+  #### 實驗室 &#58; 練習
+  - 使用視圖
+  - 創建公共和個人視圖
+
+  完成此模組後，學生將能夠&#58;
+  - 使用創建於列表和庫中的默認視圖。
+  - 創建共用視圖。
+  - 配置視圖。
+  - 為列表或庫設置默認視圖。
+
+
+  ### 模組 5&#58; Office 集成
+  SharePoint 的一個出色功能是其與 Microsoft Office 應用程式集成的能力。 幾乎所有的 Office 應用程式在一定程度上都可以與 SharePoint 進行集成，無論其有多簡單， 如使用 Excel 工作表來創建新的列表，或更全面功能的應用，如 Outlook 集成。一些集成功能強化了其通過流覽器可以線上放的內容，而其他一些則允許離線訪問 SharePoint 內容，如移動電腦環境。本課將使用系列的攻略和練習來演示 每個 Office 應用程式可以如何與 SharePoint 進行集成。
+
+  請注意，本章探索了與安裝在本地機器中關聯到 SharePoint 的Office 的應用程式集成。Office Online Server 是基於流覽器的 Office 版本，讓您能夠創建和修改 Office 檔。有了 SharePoint 2019 Office Online Server 可以被集成且可以被視為很多 SharePoint 安裝的重要部分。也就是說，因為它是 SharePoint 獨立產品，所以並未被包含在此課內。
+  #### 課程
+  - Excel 集成
+  - Outlook 集成
+  - Access 集成
+
+  完成此模組後，學生將能夠&#58;
+  - 從 Excel工作表創建列表。
+  - 在 Outlook 中創建通知。
+
+
+  ### 模組 6&#58; 使用網站
+  所有 SharePoint 內容都可通過網站訪問。SharePoint 網站是列表和庫的容器，為基礎的管理提供起點。網站的內容、清單、庫和基本的外感和風格都由用來創建此網站的網站模版預先確定。
+
+  #### 課程
+  - 網站模版
+  - 創建網站
+  - 創建小組網站
+  - 網站導航
+  - 管理網站導航
+
+
+  #### 實驗室 &#58; 練習
+  - 創建小組網站
+  - 創建會議場所
+  - 創建博客網站
+
+  完成此練習後，學生將能夠&#58;
+  - 理解網站模版是什麼。
+  - 理解使用不同版本的立即可用的網站模版的不同類型。
+  - 使用模版創建新的網站。
+  - 創建項目網站。
+  - 創建小組網站。
+  - 創建社區網站。
+  - 創建博客網站。
+  - 在頂部連結列管理列出的網站。
+
+  #### 補充閱讀
+  無

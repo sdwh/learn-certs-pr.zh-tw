@@ -1,0 +1,219 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Customer Engagement for Developers
+metadata:
+  title: 'Course 55259-A: Microsoft Dynamics 365 Customer Engagement for Developers'
+  description: 'Course 55259-A: Microsoft Dynamics 365 Customer Engagement for Developers'
+uid: course.55259
+courseNumber: '55259-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 能夠創建可將代碼實施于開發者可用的各種不同 API 進行互動的應用程式
+- skill: 理解如何在 Visual Studio 中創建專案以準備為 Dynamics 365 撰寫代碼
+- skill: 下載並使用開發者資源和工具
+- skill: 撰寫伺服器及用戶端代碼以向和從 Dynamics 365 執行命令、讀取和些資料
+- skill: 創建與 Dynamics 365 互動的資料和操作的自訂 Web 和 UCI apps
+- skill: 自訂 Microsoft Dynamics 365 導航
+- skill: 在“外掛程式程式”元件中創建、部署自訂商業邏輯並對其除錯
+- skill: 創建自訂工作流活動以擴展 Dynamics 365 Processes
+- skill: 優化 JavaScript 文庫和網路資源以擴展表單和欄位時間驅動模型
+- skill: 使用 Web API 和用戶端代碼創建使用 HTML 網頁的自訂表單語句和控制
+- skill: 使用 App Designer 和 Site Map Designer 創建自訂模型區塊應用程式
+- skill: 在為 Microsoft Dynamics 365 擴展和撰寫代碼時理解最佳的實踐方法論
+- skill: 理解針對設備的 Microsoft Dynamics 365 Customer Engagement 中現有的功能和工具
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  該課程旨在針對 IT 專業人士和開發者，提供了開始在 Microsoft Dynamics 365 中開發代碼所需學習的技能的“快速通道”。學生將學習如何編寫用戶端和伺服器端代碼以優化 Microsoft Dynamics 365 Customer Engagement 框架中各種不同的可用 API，使用 JavaScript 和 HTML 網路資源創建自訂模型驅動應用程式、在外掛程式應用程式和自訂工作流活動元件中創建自訂商業邏輯並擴展 Dynamics 365 活動模型。
+  該課程同時應用 Microsoft Dynamics 365 Customer Engagement (版本 9.*)上夜班和企業版。在該課程中已學習的技術可以應用於 Web、UCI 和 Outlook 應用程式中。
+  請注意&#58; 該課程要求存儲於 Learn on Demand 平臺上的相關實驗室環境才能進行。 要購買實驗室存取權限或獲得關於此課程的進一步資訊，及向 Dynamics 365 致謝，請在 www.ttsolutions.com.au 上聯繫我們。
+
+  #### 受眾概覽
+  該課程的受眾為技術類學生、管理員和開發者。學生應具有 Microsoft .Net 和 Visual Studio 的現有工作知識。  雖然並非強制要求，但建議學生參加“Introduction to Microsoft Dynamics 365”預修課程，其可在 www.ttsolutions.com.au 網站上找到。
+prerequisitesSection: |-
+  - 較理想的是 Microsoft .Net 和 Visual Studio 工作知識
+  - 建議所有學生成功完成“Introduction to Microsoft Dynamics 365”課程
+outlineSection: |-
+  ### 模組 1&#58; Dynamics 365 Development 介紹
+  該模組介紹了開發和擴展 Microsoft Dynamics 365 Framework 的概念。您將學習開發者和管理員可用的工具和資源以及最佳之間方法論和基本原理。
+  #### 課程
+  - Dynamics 365 Development 介紹
+  - Dynamics 365 開發者選項
+  - Dynamics 365 開發工具
+  - 客戶參與工具包 (正式名稱為 SDK)
+  - Dynamics 365 開發環境
+  - 針對 Dynamics 365 Development 的實用技能
+  - 補充閱讀和資源
+
+
+  #### 實驗室 &#58; Dynamics 365 開發者定位
+  - 查看開發者資源
+  - 查看開發者中心和論壇
+  - 從 NuGet 下載包
+  - 查看開發者資源
+  - 查看實驗室檔
+  - 安裝樣本資料
+
+  完成此模組後，學生將能夠&#58;
+  - 熟悉 Customer Engagement Toolkit 及如何創建 Visual Studio
+  - 理解開發和擴展 Dynamics 365 的關鍵技能
+  - 知道在何處找到幫助和補充閱讀資源
+  - 描述在 Microsoft Dynamics 365 CE Version 9 中開發者可用的重要功能和工具
+
+
+  ### 模組 2&#58; Dynamics 365 API
+  該模組介紹了 Microsoft Dynamics 365 中開發者可用的各種不同的開發者資源、網路服務和 API。在該模組中，您將學習如何在 Visual Studio 中使用 Microsoft .Net C# 編寫代碼用於 Web Service API 末端。
+  #### 課程
+  - Dynamics 365 API 介紹
+  - 身份驗證考慮
+  - Web API
+  - Discovery Web Service
+  - Organization Web Service
+  - 核心組件
+  - 早期和後期綁定課程
+  - 代碼生成工具
+  - 服務內容
+  - CRUD 操作
+  - 使用 QueryExpression Class
+  - 使用 LINQ
+  - 使用 FetchXML
+
+
+  #### 實驗室 &#58; 利用伺服器端代碼使用 Dynamics 365 Web API
+  - 創建 Visual Studio 專案
+  - 開發應用程式以使用 Web API 執行操作
+  - 測試您的應用程式
+
+
+  #### 實驗室 &#58; Dynamics 365 中的查詢記錄
+  - 創建 Visual Studio 專案
+  - 使用 QueryExpression Class 查詢 Dynamics 365 
+  - 在外部應用程式中顯示 Dynamics 365 記錄
+
+
+  #### 實驗室 &#58; Dynamics 365 中的 CRUD 操作
+  - 創建 Visual Studio 項目
+  - 創建早期繫結課程
+  - 使用 LINQ 創建、讀取、更新和刪除記錄
+  - 測試您的應用程式
+
+  完成此模組後，學生將能夠&#58;
+  - 理解如何編寫代碼優化 Web API、Discovery 和Organization Services
+  - 能夠創建 Visual Studio 以對照 Dynamics 365 framework 開始進行部署
+  - 理解後期與早期繫結代碼之間的不同
+  - 知道如何從外部應用程式中對照 Dynamics 365 進行身份驗證
+  - 理解如何使用服務內容，編寫 LINQ 和 FetchXML 來執行 CRUD 操作
+  - 熟悉 Microsoft Dynamics 365 CE Version 9 中開發者可用的各種不同 API
+
+
+  ### 模組 3&#58; 為 Dynamics 365 開發外掛程式應用程式
+  在此模組中您將學習如何使用 Visual Studio 中 Microsoft .Net C# 的外掛程式應用程式來開發自訂的商業邏輯。您也將學習如何使用外掛程式應用程式註冊工具向 Microsoft Dynamics 365 部署外掛程式應用程式的元件。
+  #### 課程
+  - 外掛程式應用程式介紹
+  - 編寫外掛程式應用程式碼
+  - 使用外掛程式應用程式註冊工具
+  - 在外掛程式應用程式分析器中對外掛程式應用程式進行除錯
+  - 與解決方案一起部署外掛程式應用程式
+
+
+  #### 實驗室 &#58; 創建和部署外掛程式應用程式
+  - 自訂 Dynamics 365
+  - 創建 Visual Studio 專案
+  - 創建外掛程式應用程式
+  - 登錄和創建彙編
+  - 使用外掛程式應用程式註冊工具部署外掛程式應用程式
+  - 測試您的外掛程式應用程式
+  - 使用外掛程式應用程式分析工具對外掛程式應用程式進行除錯
+
+  完成此模組後，學生將能夠&#58;
+  - 知道如何創建一個 Visual Studio 專案以開始創建一個自訂外掛程式應用程式元件
+  - 熟悉 Visual Studio 中編寫、部署和測試外掛程式應用程式的流程
+  - 使用外掛程式註冊工具向 Dynamics 365 Framework 部署外掛程式應用程式
+  - 使用外掛程式應用程式分析工具對外掛程式應用程式碼進行除錯
+  - 理解如何使用解決方案向產品環境中部署外掛程式應用程式
+  - 理解在 Microsoft Dynamics 365 CE Version 9 中自訂商業邏輯和外掛程式應用程式的需要
+
+
+  ### 模組 4&#58; 部署自訂工作流活動
+  在此模組中，您將學習如何使用 Visual Studio 中的 Microsoft .Net C# 部署自訂工作流活動。您也將學習如何在 Microsoft Dynamics 365 中使用自訂工作流活動作為工作流步驟。
+  #### 課程
+  - 自訂工作流活動介紹
+  - 編寫自訂工作流活動代碼
+  - 部署自訂工作流活動
+
+
+  #### 實驗室 &#58; 創建自訂工作流活動
+  - 創建 Visual Studio 專案
+  - 創建自訂工作流活動
+  - 登錄和創建彙編
+  - 部署創建自訂工作流活動
+  - 創建工作流
+  - 測試您的創建自訂工作流活動
+
+  完成此模組後，學生將能夠&#58;
+  - 知道如何創建 Visual Studio 專案以開始創建一個自訂工作流活動
+  - 熟悉使用外掛程式應用程式註冊表檔創建和部署自訂工作流活動流程
+  - 理解如何在 Dynamics 365 流程中使用自訂工作流活動
+  - 理解在 Microsoft Dynamics 365 CE Version 9 中自訂工作流活動的需要
+
+
+  ### 模組 5&#58; 開發用戶端代碼
+  該模組介紹了在 Microsoft Dynamics 365 中部署與活動驅動模型匹配的用戶端代碼的概念。您也將學習如何使用利用 Web API 的網路資源來創建和部署用戶端元件以使用 Microsoft Dynamics 365 中的資料。
+  #### 課程
+  - 用戶端編碼介紹
+  - Dynamics 365 事件驅動模型
+  - 部署 JavaScript 用戶端代碼
+  - 使用網路資源
+  - 用戶端編碼與 Web API
+
+
+  #### 實驗室 &#58; 編寫 JavaScript 事件處理常式
+  - 編寫 JavaScript 功能
+  - 創建 JavaScript 網路資源
+  - 配置事件處理常式
+  - 測試您的 JavaScript 代碼
+
+  #### 實驗室 &#58; 創建和部署用戶端組件
+  - 為 Web API 編寫用戶端代碼
+  - 創建 HTML 網路資源
+  - 自訂 Dynamics 365
+  - 測試您的用戶端元件
+
+  完成此模組後，學生將能夠&#58;
+  - 知道如何為針對 Web 和 UCI Apps 的 Dynamics 365 事件模型撰寫用戶端代碼
+  - 熟悉網路資源概念及如何創建 HTML 和 JavaScript 元件
+  - 理解如何利用用戶端代碼對照 Web API 使用身份驗證並執行命令
+  - 理解 Microsoft Dynamics 365 CE Version 9 中用戶端編碼的概念
+
+
+  ### 模組 6&#58; 為 United Client Interface 開發
+  該模組著眼於 Dynamics 365 和 PowerApps 之間的關係並考慮了在擴展 Unified Client Interface (UCI) App 時開發者需要知道的內容。
+  #### 課程
+  - Dynamics 365、UCI 和 PowerApps 介紹
+  - App Designer 介紹
+  - Site Map Designer 介紹
+  - 使用代碼擴展 UCI Apps
+  - 啟用安全性的應用程式
+  - 自訂 Dynamics 365 導航
+  - 草稿和已發佈狀態的應用程式
+
+
+  #### 實驗室 &#58; 擴展 Unified Client Interface (UCI) App
+  - 使用代碼擴展 Unified Client Interface (UCI) App
+  - 測試您的代碼
+
+  完成此模組後，學生將能夠&#58;
+  - 知道如何使用 Site Map Designer 來自訂 Dynamics 365 導航
+  - 知道如何使用用戶端代碼擴展 UCI Apps
+  - 知道如何使用 App Designer 來發佈啟用安全性的自訂 UCI App
+  - 熟悉使用 Dynamics 365 CE Version 9 中的 App Designer Tool 工具來創建 UCI Apps
+
+  #### 補充閱讀
+  無

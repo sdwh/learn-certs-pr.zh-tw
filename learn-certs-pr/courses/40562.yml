@@ -1,0 +1,42 @@
+### YamlMime:Course
+title: Migrating SQL databases to Azure
+metadata:
+  title: 'Course 40562-G: Migrating SQL databases to Azure'
+  description: 'Course 40562-G: Migrating SQL databases to Azure'
+uid: course.40562
+courseNumber: '40562-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 為業務關鍵型應用程式和資料庫設計一個 cloud 遷移解決方案。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  在本次研討會中，您將作為一個小組進行工作，使用 Azure Functions、Logic Apps、Event Grid、Cosmos DB 及 Azure Storage的組合在 Azure 中設置並配置無伺服器架構。重點在於將伺服器管理從等式中移除，將解決方案分解成更小的元件，每個元件均可以單獨擴展，並允許客戶只為他們所使用的元件付費。
+
+  #### 受眾概覽
+  本次研討會針對的是 Cloud Architects 和 IT 專業人士，他們在 cloud 技術的基礎設施和解決方案設計方面有著架構專業知識，並希望瞭解更多關於 Azure 和 Azure 服務的知識，正如“摘要”和“獲得的技能”部分中所描述的那樣。  參加本次研討會的人員還應具有其他非 Microsoft cloud 技術方面的經驗，滿足課程先決條件，並希望在 Azure 上進行交叉培訓。
+outlineSection: |-
+  ### 模組 1&#58; 白板設計會話 —— 將 SQL 資料庫遷移到 Azure
+  #### 課程
+  - 回顧客戶案例研究
+  - 設計一個概念驗證解決方案
+  - 呈現該解決方案
+
+
+  ### 模組 2&#58; 動手實驗室 —— 將 SQL 資料庫遷移到 Azure
+  #### 課程
+  - 執行資料庫評估
+  - 將資料庫遷移到 SQL MI
+  - 更新 web 應用程式以使用新的 SQL MI 資料庫
+  - 將 App Service 與虛擬網路進行整合
+  - 借助 Advanced Data Security 改善資料庫安全態勢
+  - 啟用 Dynamic Data Masking
+  - 使用唯讀查詢的線上協助工具

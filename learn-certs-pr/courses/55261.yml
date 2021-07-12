@@ -1,0 +1,124 @@
+### YamlMime:Course
+title: SharePoint for Office 365 Site Owner Training
+metadata:
+  title: 'Course 55261-A: SharePoint for Office 365 Site Owner Training'
+  description: 'Course 55261-A: SharePoint for Office 365 Site Owner Training'
+uid: course.55261
+courseNumber: '55261-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 學習 SharePoint 2016 小組網站中的各個功能。
+- skill: 學習創建和編輯網頁內容。
+- skill: 學習創建網站欄和內容類別型。
+- skill: 學習集成 Office 應用程式和 SharePoint 2016。
+- skill: 學習管理 SharePoint 2016 資源的基礎許可權。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  該為期2天的 SharePoint 2016 Site Owner 課程針對在 SharePoint Office 365 環境中工作的網站所有者/管理員。
+
+  #### 受眾概覽
+  該課程適用於在 SharePoint Office 365 環境中工作的新手網站所有者和管理員。
+prerequisitesSection: |-
+  N/A
+outlineSection: |-
+  ### 模組 1&#58; 使用網站
+  所有 SharePoint 內容都可通過網站訪問。SharePoint 網站是列表和庫的容器，為基礎的管理提供起點。網站的內容、清單、庫和基本的外感和風格都由用來創建此網站的網站模版預先確定。
+
+  #### 課程
+  - 網站模版
+  - 創建網站
+  - 網站導航
+
+
+  #### 實驗室 &#58; 創建小組網站
+
+  #### 實驗室 &#58; 創建博客網站
+  完成此練習後，學生將能夠&#58;
+  - 理解網站模版是什麼。
+  - 理解使用不同 SharePoint 版本的立即可用的網站模版的不同類型。
+  - 使用網站模版創建新的網站。
+  - 創建項目網站。
+  - 創建小組網站。
+  - 創建博客網站。
+  - 在頂部連結列管理列出的網站。
+
+
+  ### 模組 2&#58; 網頁內容
+  SharePoint 提供了很多方法來將內容添加在網頁中。 小組網站模版的最新技術及所實施的一項是通過 Wiki 樣式頁面實現。SharePoint 過去所採用的另一種方法是使用  Web Parts 和 Web Part 頁面。這兩項技術在可創建的輸出方面類似，且 Web Part 頁面和 Wiki 頁面都可以添加 Web Parts。
+
+  #### 課程
+  - Wiki 庫頁面
+  - Web Part 頁面
+  - 使用 Web Parts
+
+
+  #### 實驗室 &#58; 使用 Wiki 頁面
+  完成此模組後，學生將能夠&#58;
+  - 理解 Wiki 頁面是什麼。 
+  - 理解 Web Part頁面和 Web Parts 是什麼。
+  - 向小組網站首頁添加內容。
+  - 更改小組網站首頁的佈局。
+  - 創建 Wiki 頁面。
+  - 創建 Web Part 頁面。
+  - 添加 Web Parts。
+
+
+  ### 模組 3&#58; 網站欄和內容類別型
+  自訂 SharePoint 的方法在某種程度上可以在網站或網站集或甚至整個場中再次使用，即創建網站欄和內容類別型。網站欄是最簡單的元素；除您在網站級別創建它們之外，它們和列表及庫欄基本是一樣的，然後在網站及任何子網站中它們都可以被使用。內容類別型是網站欄和其他設置和資訊如檔模版和工作流的結合。網站類型，一經創建，就可以被連結到清單和庫中。
+  #### 課程
+  - 網站欄圖庫。
+  - 創建網站欄
+  - 網站內容類別型圖庫
+  - 創建內容類別型
+
+
+  #### 實驗室 &#58; 創建並使用內容類別型
+
+  #### 實驗室 &#58; 向庫添加內容類別型
+  完成此模組後，學生將能夠&#58;
+  - 理解網站欄。
+  - 理解內容類別型。
+  - 理解網站欄。
+  - 創建內容類別型。
+  - 為內容類別型創建文件模版。
+  - 向列表或庫分配內容類別型。
+  在自訂內容類別型上創建新的條目。
+
+  ### 模組 4&#58; Office 集成
+  SharePoint 的一個出色功能是其與 Microsoft Office 應用程式集成的能力。 請注意，本章探索了與 Office Online 產品的集成即讓您創建和修改辦公檔的 Office 基於流覽器的版本產品。該版本有限制且沒有如本地安裝對應產品那樣能夠精確地執行。
+  #### 課程
+  - Office 集成
+
+
+  #### 實驗室 &#58; Office 集成
+  完成此模組後，學生將能夠&#58;
+  - 創建通知。
+
+
+  ### 模組 5&#58; 管理 SharePoint 網站許可權
+  SharePoint 網站的許可權在創建網站時就已被分配。預設將分配給網站集根目錄的許可權由子網站繼承。在任何時候，許可權的繼承都可以在網站、列表、庫或甚至在列表或庫的條目級上關閉。許可權本身可以被分配給 SharePoint 群組、個人用戶或在 SharePoint 之外創建的組，如 Windows群組。
+  #### 課程
+  - SharePoint 群組
+  - 分配許可權
+  - 許可權繼承
+
+
+  #### 實驗室 &#58; 使用 SharePoint 許可權練習
+  完成此模組後，學生將能夠&#58;
+  - 理解 SharePoint 群組。
+  - 創建 SharePoint 群組。
+  - 在 SharePoint 中分配許可權。
+  - 在網站級別管理許可權繼承。
+  在列表或庫級別管理許可權繼承。
+
+  #### 補充閱讀
+  無

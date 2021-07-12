@@ -1,0 +1,201 @@
+### YamlMime:Course
+title: Deploying and Managing Office 365 Hybrid Deployments
+metadata:
+  title: 'Course 10984-B: Deploying and Managing Office 365 Hybrid Deployments'
+  description: 'Course 10984-B: Deploying and Managing Office 365 Hybrid Deployments'
+uid: course.10984
+courseNumber: '10984-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 Office 365 管理工具及許可選項。
+- skill: 在 Office 365 部署中部署並配置目錄同步。
+- skill: 計畫 Exchange Server 和 Exchange Online 的混合配置
+- skill: 執行 Exchange Server 混合配置部署。
+- skill: 在混合部署中描述並部署 Skype for Business 和 Teams。
+- skill: 在混合環境中部署 SharePoint 和 OneDrive for Business。
+- skill: 描述並部署混合 Office 365 部署中的各種身份驗證方法。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  這是一次為期3天的 ILT 課程，它針對的是那些在混合環境中參與管理、配置並運行 Office 365 服務的 IT 專業人士的需求，其中部分基礎設施是在本地託管的。本課程還包括 Office 365 身份、身份驗證及支援技術的管理。本課程側重於 Office 365 租戶管理和故障排除所需的技能，以及 Office 365 的關鍵服務，比如 Exchange Online、SharePoint Online 和 Skype for Business 以及諸如 Azure Multi-Factor Authentication (MFA)、Azure Active Directory Identity Protection 和 Azure Active Directory Privileged Identity Management 這些服務。所有這些服務都從混合方面進行了介紹。本課程提供了如何為 cloud 和本地資源使用 Office 365 服務方面的知識。
+
+  #### 受眾概覽
+  本課程的聽眾包括那些希望學習如何在混合場景中實施並維護 Office 365 的 IT 專業人士和系統管理員，在混合場景中，協作基礎設施的一部分位於本地並與 Office 365 服務集成在一起。這些專業人士應在其各自的領域具有至少3年的工作經驗，特別是需要瞭解 Exchange Server、SharePoint Server 和 Skype for Business Server （例如 Lync 伺服器）的相關知識。參加本課程的學生也應對 Office 365 服務管理以及諸如 DNS 和 AD DS的幾種本地技術有相當廣泛的總體瞭解。
+prerequisitesSection: |-
+  除了他們的專業經驗，參加此次培訓的學生應已具備以下技術知識&#58;
+  - 至少2年的 Windows Server 作業系統管理經驗，其中包括 Windows Server 2012 或更高版本。
+  - 至少1年的 Active Directory Domain Services 工作經驗。
+  - 至少1年的功能變數名稱解析工作經驗，其中包括 Domain Name System (DNS)。
+  - 有證書的工作經驗，其中包括公開金鑰基礎設施 (PKI) 證書
+  - 有 Windows PowerShell 工作經驗。
+  - 有使用 Exchange Server 2013 或更高版本、Lync 2013 Server 或 Skype for Business Server2015 以及 SharePoint Server 2013 或更高版本的工作經驗。
+  - 有 Office 365 關鍵服務方面的工作經驗，比如 Exchange Online、Skype for Business 和 SharePoint Online。
+  
+  瞭解以下與 Office 365&#58; 相關的概念
+  - Microsoft cloud 服務
+  - Office 365 平臺
+outlineSection: |-
+  ### 模組 1&#58; Office 365 管理和許可簡介
+  本模組描述了 Office 365 及其管理工具和許可選項。
+  #### 課程
+  - Office 365 概述
+  - Office 365 管理和角色委託
+  - Office 365 租戶配置
+  - 混合部署概述
+
+
+  #### 實驗室 &#58; 預配並配置 Office 365 租戶
+  - 配置本地 DNS
+  - 配置 Office 365 試用租戶
+  - 探索 Microsoft 365 管理員介面
+
+  完成本模組後，您將能夠&#58;
+  - 描述 Microsoft Office 365 元件和訂閱/許可選項。
+  - 描述 Office 365 管理門戶、Windows PowerShell 管理以及管理員角色。
+  - 預配並配置 Office 365 租戶、自訂域以及 DNS 記錄。
+  - 描述混合 Office 365 配置的選項。
+
+
+  ### 模組 2&#58; 部署並配置目錄同步
+  本模組說明了如何描述並配置 Office 365 部署中的目錄同步。
+  #### 課程
+  - 目錄同步和身份驗證概述
+  - Azure AD Connect 部署和配置
+  - 在 Office 365 混合環境中管理使用者和組物件
+
+
+  #### 實驗室 &#58; 在 Office 365 混合環境中管理目錄同步、使用者和組
+  - 準備目錄並配置 Azure AD Connect
+  - 使用 GUI 和 Windows PowerShell 來管理 Office 365 用戶和組
+  - 管理 Office 365 密碼策略和自助密碼重置
+
+  完成本模組後，您將能夠&#58;
+  - 描述目錄同步和身份驗證。
+  - 部署並配置 Azure AD Connect。
+  - 在 Microsoft Office 365 混合環境中管理用戶和群組帳戶。
+
+
+  ### 模組 3&#58; Exchange Server 混合部署規劃
+  本模組說明了如何計畫 Exchange Server 和 Exchange Online 的混合配置。
+  #### 課程
+  - Exchange Online 概述
+  - Exchange Server 混合配置選項和部署特性
+  - 混合部署中的 Exchange Server 服務
+
+
+  #### 實驗室 &#58; 計畫並設計 Exchange Online 和 Exchange Server 2019 之間的集成
+  - 設計 Exchange 混合部署
+  - 討論一個解決方案並檢查 Exchange Online 設置
+
+  完成本模組後，您將能夠&#58;
+  - 描述作為 Microsoft Office 365 一部分的 Microsoft Exchange Online。
+  - 描述 Microsoft Exchange Server 混合配置選項和部署選項。
+  - 描述混合部署中的 Exchange Server 角色。
+
+
+  ### 模組 4&#58; Exchange Server 混合部署
+  本模組說明了如何執行 Exchange Server 混合配置部署。
+  #### 課程
+  - 使用 Hybrid Configuration Wizard
+  - 管理並配置 Exchange 混合部署
+  - 實施混合部署的高級功能
+  - 在混合環境中配置消息的合規性和衛生性
+
+
+  #### 實驗室 &#58; 實施 Exchange Server 混合部署
+  - 使用 Hybrid Configuration Wizard
+  - 在 Exchange 本地 和 Exchange Online 之間移動郵箱
+  - 在混合環境中配置消息的合規性和安全性
+
+  完成本模組後，您將能夠&#58;
+  - 使用 Hybrid Configuration Wizard 建立 Exchange 混合環境。
+  - 配置 Exchange 混合部署。
+  - 實施高級功能混合部署。
+  - 描述 Exchange 混合部署的合規特性。
+
+
+  ### 模組 5&#58; Office 365 混合部署中的 Skype for Business 和 Teams
+  本模組說明了如何在混合部署中部署 Skype for Business 和 Teams。
+  #### 課程
+  - Microsoft Teams 概述
+  - 計畫並準備混合 Skype for Business 部署
+  - 使用帶有“電話”系統的 Skype for Business 混合配置
+  - 配置 Skype for Business 混合環境
+
+
+  #### 實驗室 &#58; 實施 Skype for Business 混合配置
+  - 部署 Skype for Business with Enterprise Voice （實驗考前准備課）
+  - 將用戶轉移到 Skype for Business Online
+  - 啟用 Office 365 Phone System and Audio Conferencing
+  - 設計並實施 Skype for Business 混合配置
+
+  完成本模組後，您將能夠&#58;
+  - 描述作為 Office 365 一部分的 Teams。
+  - 準備 Skype for Business 混合部署。
+  - 配置 Skype for Business 混合環境。
+  - 描述 Office 365 Phone System 的混合部署選項。
+
+
+  ### 模組 6&#58; SharePoint 和 OneDrive for Business 混合部署
+  本模組說明了如何在混合環境中部署 SharePoint 和 OneDrive for Business。
+  #### 課程
+  - SharePoint Online 概述
+  - 計畫 SharePoint 混合部署
+  - 部署 SharePoint 混合配置
+  - 在混合配置中配置 SharePoint 服務
+
+
+  #### 實驗室 &#58; 在混合配置中實施 SharePoint 和 OneDrive for Business
+  - 為混合配置設計並準備 SharePoint Server
+  - 在混合配置中部署 SharePoint 服務
+  - 在混合配置中驗證 SharePoint 服務功能
+
+  完成本模組後，您將能夠&#58;
+  - 描述作為 Office 365 一部分的 SharePoint Online。
+  - 計畫 SharePoint 混合部署。
+  - 在混合配置中部署 SharePoint Server
+  - 在混合配置中配置 SharePoint 服務
+
+  ### 模組 7&#58; 在混合部署中部署附加的 Office 365 服務
+  本模組說明了如何部署 Azure MFA, Identity Protection, 和 Azure Information Protection。
+  #### 課程
+  - 在混合場景中實施 Multi-Factor Authentication
+  - 實施 Azure Information Protection
+  - 實施 Identity Protection 和 Azure AD Privileged Identity Management
+
+
+  #### 實驗室 &#58; 在混合部署中配置附加的 Office 365 服務
+  - 實施 Multi-Factor Authentication
+  - 實施 Azure Information Protection
+  - 實施 Azure AD Privileged Identity Management
+
+  完成本模組後，您將能夠&#58;
+  - 實施 Multi-Factor Authentication。
+  - 實施 Azure Information Protection。
+  - 實施 Identity Protection 和 Azure AD Privileged Identity Management。
+
+
+  ### 模組 8&#58; 混合部署中的身份驗證選項
+  本模組說明了如何在混合式 Office 365 部署中部署各種身份驗證的方法。
+  #### 課程
+  - 在 Office 365 混合環境中部署用於 SSO 的 AD FS
+  - 在 Office 365 中部署 SSO 直通身份驗證
+  - 計畫 Office 365 中的身份驗證選項
+
+
+  #### 實驗室 &#58; 在混合部署中實施身份驗證解決方案
+  - 部署用於 SSO 的 AD FS
+  - 部署 SSO 直通身份驗證
+
+  完成本模組後，您將能夠&#58;
+  - 在 Office 365 混合環境中部署用於 single sign-on (SSO) 的 AD FS。
+  - 部署 SSO 直通身份驗證。
+  - 計畫 Office 365 中的身份驗證選項。
