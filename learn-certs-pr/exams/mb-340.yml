@@ -9,11 +9,10 @@ summary: |-
   參加本考試的考生在 Dynamics 365 Commerce 中設置和使用應用程式功能，並為應用程式提供支援。
   
   考生對於統一的商務運作有著較強的理解。他們可能具備配置、部署和維護 Dynamics 365 Commerce 的經驗。
-  
-  <div><font color='red'><strong>注意：本考試將於2021年6月或7月開始。</strong></font><br/><br/></div>
-subTitle: '本考試將於2021年6月或7月開始。本考試可測試您完成以下技術任務的能力：配置 Dynamics 365 Commerce “指揮部”；配置產品、價格、折扣、忠誠度及附屬機構；在 Dynamics 365 Commerce 中管理“銷售終端”(POS)；配置並管理 Dynamics 365 Commerce 呼叫中心；以及管理電子商務。'
+subTitle: '該考試考核了您完成如下技術任務的能力：配置 Dynamics 365 Commerce Headquarters；配置產品、價格、折扣、忠誠度和聯盟行銷；在 Dynamics 365 Commerce 中管理銷售點 (POS) ；配置和管理 Dynamics 365 Commerce 呼叫中心；和管理電子商務。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKn
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-340&examname=Exam%20MB-340:%20Microsoft%20Dynamics%20365%20Commerce%20Functional%20Consultant%20%28beta%29&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-340
 locales:
 - en
 levels:

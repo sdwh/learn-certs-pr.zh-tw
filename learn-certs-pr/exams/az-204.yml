@@ -70,7 +70,6 @@ products:
 - azure-virtual-machines
 courses:
 - uid: course.az-204t00
-- uid: course.az-020t00
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together

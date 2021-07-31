@@ -75,6 +75,8 @@
   - name: 政策及協議
     expanded: false
     items: 
+    - name: 認證過期政策
+      href: certification-expiration-policy.md
     - name: Exam item challenge process
       href: exam-item-challenge-process.md
     - name: 考試安全政策

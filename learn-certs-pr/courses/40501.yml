@@ -1,0 +1,43 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Cloud-native applications'
+metadata:
+  title: 'Course 40501-G: Microsoft Cloud Workshop: Cloud-native applications'
+  description: 'Course 40501-G: Microsoft Cloud Workshop: Cloud-native applications'
+uid: course.40501
+courseNumber: '40501-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 在此講習班的結尾，您將能夠通過經時間驗證的 DevOps 實踐更好地改善您基於容器的應用程式的可靠性並增強其發佈節奏。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  在此講習班，您將構建把現有 PaaS 應用程式轉變為基於容器的應用程式的概念驗證 (POC) 。 這種 POC 將利用 Azure Kubernetes Service (AKS)、Linux 節點上的 Docker 容器及從 MongoDB 到 CosmosDB 的遷移，交付多使用者的網路應用主機解決方案。
+
+  #### 受眾概覽
+  本次研討會針對的是 Cloud Architects 和 IT 專業人士，他們在 cloud 技術的基礎設施和解決方案設計方面有著架構專業知識，並希望瞭解更多關於 Azure 和 Azure services 的知識，正如“摘要”和“獲得的技能”部分中所描述的那樣。參加此研討會的人士也應該在其他非 Microsoft cloud 技術方面富有經驗，滿足課程的先決條件並希望獲得在 Azure 方面的綜合訓練。
+prerequisitesSection: |-
+  研討會內容假定有300級別的基礎設施和解決方案設計方面的架構專業知識。我們建議學生在參加本次研討會之前先接受這一先決條件。
+  - Microsoft Azure Essentials 課程， http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### 模組 1&#58; 白板設計會話 - Cloud-本地應用程式
+  #### 課程
+  - 回顧客戶案例學習
+  - 喚起行動&#58; 設計概念驗證解決方案
+  - 喚起行動&#58; 提出解決方案
+
+
+  ### 模組 2&#58; 動手實驗室 - Cloud-本地應用程式
+  #### 課程
+  - 創建並運行 Docker 應用程式
+  - 向 Azure Kubernetes Service 部署解決方案
+  - 擴展應用程式並測試 HA
+  - 設置負載均衡和服務發現（基礎設施版本） 
+  - 使用服務和路由應用程式流量（開發人員版本）

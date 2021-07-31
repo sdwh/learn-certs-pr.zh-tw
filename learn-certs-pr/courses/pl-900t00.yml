@@ -8,11 +8,11 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 說明Power Platform元件
+- skill: 描述 Microsoft Power Platform 組件
 - skill: 說明Microsoft Dataverse、連接器和AI builder
 - skill: 描述跨M365、Dynamics 365、Microsoft Azure和協力廠商服務的跨雲場景
-- skill: 識別Power Platform的優勢和能力
-- skill: 識別Power Platform組件的基本功能和業務價值
+- skill: 確認 Microsoft Power Platform 的好處和功能
+- skill: 確認 Microsoft Power Platform 組件的基礎功能和商業價值
 - skill: 使用Power Apps、Power Automate、Power BI和Power Virtual Agents實現簡單的解決方案
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -20,13 +20,13 @@ locales:
 levels:
 - beginner
 roles:
-- developer
+- student
 products:
 - power-platform
 exams:
 - uid: exam.pl-900
 summary: |-
-  瞭解Power Platform的商業價值和產品功能。創建簡單的Power Apps，將資料與Dataverse連接，建立Power BI Dashboard，用 Power Automate, 自動執行流程並用Power Virtual Agents建立聊天機器人。
+  瞭解 Microsoft Power Platform 的商業價值和產品功能。創建簡單的 Power Apps、關聯資料與 Dataverse、創建 Power BI 儀錶盤、使用 Power Automate 自動化流程並構建使用 Power Virtual Agents 的聊天機器人。
 
   #### 觀眾概況
 
@@ -34,20 +34,29 @@ summary: |-
 prerequisitesSection: |-
   本課程無先決條件
 outlineSection: |-
-  ### 模組 1&#58; Power Platform簡介
-  瞭解Power Platform的元件、連接資料的方法，以及機構組織可以如何利用此技術來創建業務解決方案。
+  ### 模組 1: Microsoft Power Platform 介紹
+
+  學習 Microsoft Power Platform 元件、關聯資料的方式以及組織可以如何利用此技術創建商業解決方案。
+
   #### 課程
-  - Power Platform概述
-  - 模組摘要
 
-  完成本模組後，學生將能夠&#58; 
-  - 識別何時使用每個Power Platform元件應用程式來創建業務解決方案
-  - 瞭解使用Power Platform創建業務解決方案的價值
-  - 瞭解Power Platform的組件和功能
+  *   Microsoft Power Platform 概覽
+
+  *   模組摘要
 
 
-  ### 模組 2&#58; Microsoft Dataverse介紹
-  Dataverse使您能深入地研究cloud中的強大的可伸縮資料解決方案。瞭解Dataverse如何運作並配合Power Platform創建獨特有效的商業解決方案。
+  完成此模組後，學生將能夠: 
+
+  *   確認什麼時候使用 Microsoft Power Platform 元件應用程式來創建商業解決方案
+
+  *   學習使用 Microsoft Power Platform 創建商業解決方案的價值
+
+  *   學習 Microsoft Power Platform 的元件和功能
+
+
+  ### 模組 2: Microsoft Dataverse 介紹
+
+  Dataverse 讓您能夠在 cloud 中探究強大、可擴展的資料解決方案。學習什麼可以製作 Dataverse 標記及其可以如何與 Microsoft Power Platform 協作來創建獨特、高效的商業解決方案。
   #### 課程
   - Microsoft Dataverse概述
   - 模組小結

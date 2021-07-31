@@ -3,7 +3,6 @@ title: 在Azure上設計與實作資料科學解決方法
 metadata:
   title: 'Course DP-100T01-A: 在Azure上設計和實作資料科學解決方案'
   description: 'Course DP-100T01-A: 在Azure上設計和實作資料科學解決方案'
-  iltScheduling: true
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
@@ -17,7 +16,6 @@ roles:
 - data-scientist
 products:
 - azure
-- azure-data-science-vm
 exams:
 - uid: exam.dp-100
 summary: |-
@@ -34,10 +32,11 @@ prerequisitesSection: |-
   - 用Scikit-Learn、PyTorch和TensorFlow等常見框架來培訓和校驗機器學習模型。
   
   為了獲取此類必備技能，上課前請完成以下免費線上培訓&#58;
-  - [研究Microsoft雲概念](/learn/paths/explore-microsoft-azure-cloud-concepts/)。
-  - [創建機器學習模型](/learn/paths/create-machine-learn-models/) 
+  - [研究Microsoft雲概念](https://docs.microsoft.com/learn/paths/explore-microsoft-azure-cloud-concepts/)。
+  - [創建機器學習模型](https://docs.microsoft.com/learn/paths/create-machine-learn-models/).
+  - [Azure 中的管理容器](https://docs.microsoft.com/learn/paths/administer-containers-in-azure/)。
   
-  若您之前完全不瞭解資料科學和機器學習，請先完成[Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals)學習。
+  若您之前完全不瞭解資料科學和機器學習，請先完成[Microsoft Azure AI Fundamentals](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals)學習。
 outlineSection: |-
   ### 模組 1&#58; 在Azure上進行資料科學
   學生將學習資料科學過程和資料科學家的角色。  然後將其應用於瞭解Azure服務如何支援和增強資料科學過程。
@@ -47,7 +46,7 @@ outlineSection: |-
   - 介紹Azure筆記本
 
 
-  ### 模組 2&#58; 使用Azure機器學習服務進行資料科學
+  ### 模組 2: 機器學習的視覺工具
   學生將學習如何使用Azure機器學習服務（AML）端到端自動化資料科學過程。
   #### 課程
   - 介紹AML服務

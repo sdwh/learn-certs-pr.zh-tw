@@ -1,0 +1,77 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Virtual Desktop Specialty'
+metadata:
+  title: 'Microsoft Certified: Azure Virtual Desktop Specialty'
+  description: Azure Virtual Desktop Specialty 認證考試的報考者為在規劃、交付和管理虛擬桌面體驗和 Azure 上針對任何設備的遠端應用程式的 Microsoft Azure 管理員。
+uid: certification.azure-virtual-desktop-specialty
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  Azure Virtual Desktop Specialty 考試的報考者為在規劃、交付和管理虛擬桌面體驗和 Azure 上針對任何設備的遠端應用程式的 Microsoft Azure 管理員。
+  
+  該崗位的責任包括部署虛擬桌面體驗和向 Azure 部署應用程式。此崗位的專業人員交付 Windows Virtual Desktop 上的應用程式並對其進行優化以讓其在多會話虛擬環境中運行。要交付這些體驗，他們需要與 Azure 管理員和設計師以及 Microsoft 365 Administrators 密切合作。
+  
+  此認證的報考者應具有在 Azure 技術包括虛擬化、網路、身份驗證、存儲、備份、快速恢復能力和災難恢復方面的經驗。他們應該理解本地部署虛擬桌面基礎設施技術，因為與遷移至 Windows Virtual Desktop 相關。這些專業人士使用 Azure 入口和 Azure Resource Manager(ARM) 模版完成很多工。他們也可以使用 PowerShell 和 Azure Command-Line Interface (CLI) 以獲得更多的高效自動化。
+  
+  此認證的報考者必須精通 Azure 管理技能。
+subTitle: Azure Virtual Desktop Specialty 認證考試的報考者為在規劃、交付和管理虛擬桌面體驗和 Azure 上針對任何設備的遠端應用程式的 Microsoft Azure 管理員。
+levels:
+- intermediate
+skills:
+- 規劃 Azure Virtual Desktop Architecture 
+- 實施 Azure Virtual Desktop Infrastructure 
+- 管理訪問和安全 
+- 管理使用者環境和應用程式 
+- 管理和維護 Azure Virtual Desktop Infrastructure 
+roles:
+- administrator
+type: specialty
+products:
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- azure-virtual-machines
+- azure-virtual-machines-windows
+- azure-netapp-files
+- azure-files
+- azure-bastion
+- azure-portal
+- windows-server
+- azure-clis
+- azure-resource-manager
+- azure-rbac
+- azure-policy
+- azure-security-center
+- m365-security-center
+- mem
+- office-onedrive
+- office-teams
+- azure-monitor
+- azure-advisor
+- windows-virtual-desktop
+courses:
+- uid: course.az-140t00
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFTM
+exams:
+- uid: exam.az-140
+resources:
+- title: Azure 認證海報
+  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證海報
+  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 支持認證
+  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+  href: ../help.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 分享您的認證徽章
+  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+  href: ../badges.md

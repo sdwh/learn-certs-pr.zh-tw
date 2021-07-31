@@ -7,7 +7,7 @@ uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>考試 Dp-203</a> 正在取代DP-200和DP-201考試。DP-200和DP-201將於2021年6月30日失效。</strong></font><br/><br/></div>
+  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>DP-203 考試</a> 將替換 DP-200 和 DP-201 考試。DP-200 和 DP-201 將於2021年8月31日撤銷。</strong></font><br/><br/></div>
   
   Azure Data Engineer Associate認證的考生應具備專業技能，這些技能可將各種結構化及非結構化資料系統中的資料集成、轉換並整合為適於構建分析解決方案的結構。
   
@@ -19,7 +19,7 @@ summary: |-
   
   <div><br/><strong>如果您完成以下選項之一，您將會獲得該證書&#58;</strong><br/>
   <ul>
-  <li>通過 <a href="/learn/certifications/exams/dp-200">Dp-200</a> 和 <a href="/learn/certifications/exams/dp-201">DP-201</a> （2021年6月30日失效） <strong>或者</strong></li>
+  <li>通過<a href="/learn/certifications/exams/dp-200">Dp-200</a> 和 <a href="/learn/certifications/exams/dp-201">DP-201</a> （將於2021年8月31日撤銷） <strong>或</strong></li>
   <li>通過 <a href="/learn/certifications/exams/dp-203">DP-203</a> （測試版於2021年2月23日發佈）</li></ul></div>
 subTitle: Azure 資料工程師將來自各種結構化和非結構化資料系統的資料集成、轉換和整合到適合構建分析解決方案的結構中。
 levels:

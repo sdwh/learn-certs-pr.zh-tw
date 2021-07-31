@@ -6,9 +6,7 @@ metadata:
 uid: exam.ms-700
 displayName: MS-700
 summary: |-
-  <div>
-  <div><font color='red'><strong>本次考試的內容於2021年5月25日進行了更新。請下載下面的技能測試檔，看看有何變化。</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>該考試內容將在2021年7月26日更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
 
   Microsoft Teams 管理員為 Microsoft Teams 設定、部署和管理Office 365 工作負載，著重於在企業環境中進行高效和有效的協作和交流。
 
@@ -29,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考試的內容於2021年5月25日進行了更新。請下載下面的技能測試檔，看看有何變化。
+- 下方的考試指南顯示了將於2021年7月26日實施的改變。
 - 規劃及設定一個 Microsoft Teams 環境 (45-50%)
 - 管理聊天、通話和會議 (30-35%)
 - 管理 Teams 和應用程式策略 (20-25%)

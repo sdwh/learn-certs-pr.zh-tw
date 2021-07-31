@@ -27,13 +27,6 @@ roles:
 - administrator
 products:
 - azure
-- azure-stack
-- azure-stack-edge
-- azure-stack-hci
-- azure-stack-hub
-- azure-app-service
-- azure-event-hubs
-- azure-active-directory
 exams:
 - uid: exam.az-600
 summary: |-
@@ -49,9 +42,9 @@ prerequisitesSection: |-
   - 瞭解“活動目錄”概念，包括域、林及網域控制站
   
   如果您是 Azure 和 cloud 計算的新手，請考慮以下資源之一&#58;
-  - 線上免費&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
-  - 教師引導式線上課程&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
-  - Azure administrators 預備知識 (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
+  - 線上免費&#58; Azure Fundamentals ([http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/](http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/))
+  - 教師引導式線上課程&#58; AZ-900&#58; Azure Fundamentals ([https://docs.microsoft.com/learn/certifications/courses/az-900t01](https://docs.microsoft.com/learn/certifications/courses/az-900t01))
+  - Azure administrators 預備知識 ([https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### 模組 1&#58; Azure Stack Hub 概述
   在本模組中，您將學習 Azure Stack Hub 如何是 Azure 的一個擴展，它提供了一種在本地環境中運行應用程式並在您的資料中心中交付 Azure 服務的方法。
@@ -156,5 +149,5 @@ outlineSection: |-
   - 為基礎設施備份配置存儲目標
   - 更新 Azure Stack Hub
   - 解鎖技術支援會話
-  - 連接到特權端點
+  - 連接至特權端點
   - 通過使用 Test-AzureStack 進行系統診斷
