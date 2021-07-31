@@ -6,6 +6,8 @@ metadata:
 uid: exam.sc-900
 displayName: SC-900
 summary: |-
+  <div><font color='red'><strong>該考試內容將在2021年7月26日更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
+
   本次考試的目標是那些希望熟悉安全、合規及標識 (SCI) 的基本原理的人群，而這些原理貫穿基於cloud的和相關的Microsoft服務。
   
   這是一個廣泛的受眾，其中可能包括業務利益相關者、新的或現有的IT專業人士，或者對Microsoft安全、合規及標識解決方案感興趣的學生。
@@ -14,6 +16,7 @@ summary: |-
 subTitle: '本次考試可衡量您描述以下內容的能力：安全、合規及標識的概念；Microsoft身份和訪問管理解決方案的能力；Microsoft安全解決方案的能力；以及Microsoft合規解決方案的能力。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
+practiceTestUrl: https://in.mindhub.com/sc-900-microsoft-security-compliance-and-identity-fundamentals-microsoft-official-practice-test/p/MU-SC-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
   - providerType: pearson-vue
     examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
@@ -33,6 +36,7 @@ locales:
 levels:
 - beginner
 skills:
+- 該考試內容將在2021年7月26日更新。請在下方下載考試技能大綱以查看將要改變的地方。
 - 描述安全、合規及標識的概念 (5-10%)
 - 描述Microsoft身份和訪問管理解決方案的能力 (25-30%)
 - 描述Microsoft安全解決方案的能力 (30-35%)

@@ -3,7 +3,6 @@ title: Data Engineering on Microsoft Azure
 metadata:
   title: 'Course DP-203T00-A: Data Engineering on Microsoft Azure'
   description: 'Course DP-203T00-A: Data Engineering on Microsoft Azure'
-  iltScheduling: true
 uid: course.dp-203t00
 courseNumber: 'DP-203T00-A'
 hoursToComplete: 96
@@ -34,12 +33,7 @@ levels:
 roles:
 - data-engineer
 products:
-- azure-data-factory
-- azure-synapse-analytics
-- azure-stream-analytics
-- azure-event-hubs
-- azure-data-lake
-- azure-databricks
+- azure
 exams:
 - uid: exam.dp-203
 summary: |-

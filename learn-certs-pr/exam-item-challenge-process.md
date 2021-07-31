@@ -36,7 +36,7 @@ Microsoft Certification 旨在確保通過考試並獲得我們認證的考生�
 ### 考試考題挑戰流程：
 
 1. 請查看我們接受和不接受考試考題挑戰的標準。
-2. 完成並提交[考試考題挑戰表。](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u)
+2. 完成並提交[考試考題挑戰表。](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9SQgdTBB3hHnpJO6XSRH7RURDkwT0FBRjQ5TVpFMjZXMTUzOElISVdTTS4u)
 3. Microsoft Certification 團隊將審查您所提交內容的完整性。如果內容不完整，將要求您提供更多的資訊。如果內容完整，Microsoft Certification 團隊就將進行審查。一次審查大約需要兩周的時間。
 4. 一旦審查完成，將會通知您結果。
 

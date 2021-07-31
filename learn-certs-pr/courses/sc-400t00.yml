@@ -32,14 +32,8 @@ levels:
 - intermediate
 roles:
 - administrator
-- ip-admin
-- risk-practitioner
-- security-engineer
 products:
-- office-teams
-- office-sp
 - m365
-- m365-ems-cloud-app-security
 exams:
 - uid: exam.sc-400
 summary: |-

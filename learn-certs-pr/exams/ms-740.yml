@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: 'Troubleshooting Microsoft Teams (beta)'
+metadata:
+  title: 'Exam MS-740: Troubleshooting Microsoft Teams (beta)'
+  description: 'Exam MS-740: Troubleshooting Microsoft Teams (beta)'
+uid: exam.ms-740
+displayName: MS-740
+summary: |-
+  該考試的報考者是支持工程師，負責支持 Microsoft Teams 環境、解決部署問題、調整性能、收集和分析遙測和日誌資料以及管理 Teams 環境。
+  
+  報考者應擁有 Microsoft Teams 的大量統一通信和實踐經驗。此外，報考者應具備 Azure 原理、電話學、 PowerShell、資料存儲技術、 APIs、應用程式安全、驗證和授權、安全和合規資訊、除錯、性能調整及管理方面的網路知識。
+  
+  <div><br/><br/><font color='red'><strong>注意：該考試的教學通道將於2021年6月30日可用，且考試將於2021年7月8日可用。</strong></font></div>
+subTitle: '該考試將在2021年7月8日可用。該考試考核了您解決如下技術任務問題的能力：Microsoft Teams 語音問題；Microsoft Teams 會議和現場活動；聯合問題； 登入 Microsoft Teams；團隊和管道；及文件。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4O2rS
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 解決 Microsoft Teams 語音問題 (15-20%)
+- 解決 Microsoft Teams 會議和現場活動問題 (20-25%)
+- 解決聯合問題 (10-15%)
+- 解決登入 Microsoft Teams 問題(15-20%)
+- 解決團隊和管道問題 (10-15%)
+- 解決文件問題 (15-20%)
+roles:
+- administrator
+products:
+- office-teams
+- office-onedrive
+- office-365
+- ms-graph
+- azure-active-directory
+paths:
+- uid: learn.wwl.troubleshoot-microsoft-365-teams
+relatedCertifications:
+- related:
+    uid: certification.m365-teams-support-engineer-associate
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證海報
+  description: 查看基本知識、基於角色和專業認證的概述。
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 支援認證考試
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: ../help.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 要求住宿
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: ../request-accommodations.md
+- title: 測驗政策和常見問題
+  description: 查看測驗政策和常見問題。
+  href: ../certification-exam-policies.md

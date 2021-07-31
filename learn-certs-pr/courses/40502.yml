@@ -1,0 +1,43 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Big Data &amp; Visualization'
+metadata:
+  title: 'Course 40502-G: Microsoft Cloud Workshop: Big Data &amp; Visualization'
+  description: 'Course 40502-G: Microsoft Cloud Workshop: Big Data &amp; Visualization'
+uid: course.40502
+courseNumber: '40502-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 在此講習班的結尾，您將能夠在 Azure Databricks 中更好地創建完整的機器學習模型以預測未來行幫是否會經歷延遲。此外，您將學習在 Azure Machine Learning Model Management中存儲經過訓練的模型，然後部署到 Docker 容器以擴展按需的預測；使用 Azure Data Factory (ADF) 來進行資料傳送並實施 ML 評分；使用 Azure Databricks 和 Spark SQL 匯總資料；使用 Power BI 視覺化地圖上的批量預測。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  在此講習班中，您將使用機器學習(ML) 部署網路應用程式來預測旅行的延遲，給定航班延遲資料和天氣情況。計畫大量資料的導入操作，之後是準備，如清理和運算元據以測試，訓練您的機器學習模型。
+
+  #### 受眾概覽
+  本次研討會針對的是 Cloud Architects 和 IT 專業人士，他們在 cloud 技術的基礎設施和解決方案設計方面有著架構專業知識，並希望瞭解更多關於 Azure 和 Azure 服務的知識，正如“摘要”和“獲得的技能”部分中所描述的那樣。參加此研討會的人士也應該在其他非 Microsoft cloud 技術方面富有經驗，滿足課程的先決條件並希望獲得在 Azure 方面的綜合訓練。
+outlineSection: |-
+  ### 模組 1&#58; 白板設計會話 - 大資料和視覺化
+  #### 課程
+  - 回顧客戶案例學習
+  - 設計概念驗證解決方案
+  - 提交解決方案
+
+
+  ### 模組 2&#58; 動手實驗室 - 大資料和視覺化
+  #### 課程
+  - 創建機器學習模型
+  - 設置 Azure Data Factory
+  - 使用 Azure ML 部署您的機器學習模型
+  - 為資料傳送開發資料工廠管道
+  - 使用 Azure Databricks 和 Data Factory 操作 ML 評分
+  - 使用 Azure Databricks 匯總資料
+  - 在 Power BI Desktop 中進行視覺化操作
+  - 部署智慧型網路應用程式

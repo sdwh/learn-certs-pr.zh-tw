@@ -1,0 +1,46 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+metadata:
+  title: 'Course 40511-G: Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+  description: 'Course 40511-G: Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+uid: course.40511
+courseNumber: '40511-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 在此講習班的結尾，您將能夠構建模版來自動化 cloud 基礎設施並減少容易出錯的人工流程。此外，您將創建 Azure Resource Manager (ARM) 模版來準備 Azure 資源，使用 Visual Studio Team Services (VSTS) 配置持續的傳送，將 Application Insights 配置到應用程式中並創建 Visual Studio Team Services 專案和 Git 資源庫。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  在此白板設計會話中，您將學習如何使用 Azure Resource Manager 模版和 Azure DevOps 組合設計解決方案以使用 Azure PaaS 的一些服務啟用持續的傳送。
+
+  在此講習班的結尾，您將能夠更好地構建模版來自動化 cloud 基礎設施並減少容易出錯的人工流程。此外，您將創建 Azure Resource Manager (ARM) 模版來準備 Azure 資源，使用 Azure DevOps 配置持續的傳送，將 Application Insights 配置到應用程式中並創建 Azure DevOps 專案和 Git資源庫。
+
+  #### 受眾概覽
+  本次研討會針對的是 Cloud Architects 和 IT 專業人士，他們在 cloud 技術的基礎設施和解決方案設計方面有著架構專業知識，並希望瞭解更多關於 Azure 和 Azure 服務的知識，正如“摘要”和“獲得的技能”部分中所描述的那樣。參加此研討會的人士也應該在其他非 Microsoft cloud 技術方面富有經驗，滿足課程的先決條件並希望獲得在 Azure 方面的綜合訓練。
+prerequisitesSection: |-
+  研討會內容假定有300級別的基礎設施和解決方案設計方面的架構專業知識。我們建議學生在參加本次研討會之前先接受這一先決條件。
+  - Microsoft Azure Essentials 課程，http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### 模組 1&#58; 白板設計會話 - Azure DevOps 中的持續傳送
+  #### 課程
+  - 回顧客戶案例學習
+  - 設計概念驗證解決方案
+  - 提交解決方案
+
+
+  ### 模組 2&#58; 動手實驗室 - Azure DevOps 中的持續傳送
+  #### 課程
+  - 創建能夠準備網路應用程式、 SQL 資料庫的 Azure Resource Manager (ARM) 模版
+  - 創建 Azure DevOps 專案和 Git 資源庫
+  - 創建 Azure DevOps 構建通道
+  - 創建 Azure DevOps 發佈通道
+  - 觸發構建和發佈
+  - 創建功能分支並提交合併請求

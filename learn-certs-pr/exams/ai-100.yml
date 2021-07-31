@@ -6,9 +6,7 @@ metadata:
 uid: exam.ai-100
 displayName: AI-100
 summary: |-
-  <div>
-  <div><font color='red'><strong>本次考試的新版本，即<a href='/learn/certifications/exams/ai-102'>AI-102</a>，已經生效。您可以在2021年6月30日考試失效前參加該考試。注意：考試將於中央標準時間晚11點59分失效。</strong></font><br/><br/></div>
-  <div style='font-weight&#58; bold;'>該測驗的內容更新於 2020 年 5 月 20 日。請下載下面的技能評估文件，以了解發生了什麼變化。<br/><br/></div>
+  <div><div><font color='red'><strong>該考試將在2021年6月30日撤銷。替代考試 AI-102 可用。要獲得更多資訊，請訪問<a href='/learn/certifications/exams/ai-102'>AI-102</a>考試詳情頁面。</strong></font><br/><br/></div>
   </div>
   
   參加該測驗的應試者應具有使用認知服務、機器學習和知識挖掘的主題專業知識，以架構和實作涉及自然語言處理、語音、電腦視覺和對話式 AI 的 Microsoft AI 解決方案。
@@ -21,7 +19,6 @@ summary: |-
 subTitle: '這項測驗衡量您完成以下技術任務的能力：分析解決方案要求；設計解決方案；將 AI 模型整合到解決方案中；並部署和管理解決方案。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja
@@ -30,10 +27,10 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容更新於 2020 年 5 月 20 日。請下載下面概述的測驗技能，以了解已發生什麼變化。
 - 分析解決方案要求 (25-30%)
 - 設計AI解決方案 (40-45%)
 - 實作和監控 AI 解決方案 (25-30%)
+retirementDate: 06/30/2021
 roles:
 - ai-engineer
 products:
@@ -51,7 +48,7 @@ paths:
 - uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
 relatedCertifications:
 - related:
-    uid: certification.azure-ai-engineer
+    uid: none
 resources:
 - title: 認證之旅
   description: 探索獲得 Azure AI Engineer Associate 認證的步驟以及可用來幫助您進行準備的資源。

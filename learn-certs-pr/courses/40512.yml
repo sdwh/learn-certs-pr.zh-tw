@@ -1,0 +1,52 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: App Modernization'
+metadata:
+  title: 'Course 40512-G: Microsoft Cloud Workshop: App Modernization'
+  description: 'Course 40512-G: Microsoft Cloud Workshop: App Modernization'
+uid: course.40512
+courseNumber: '40512-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 在此講習班的結尾，您將能夠更好地為希望將服務從本地部署的伺服器遷移到 cloud 的組織設計現代化的計畫。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  在此講習班，您將獲得涉及利用 cloud 服務現代化遺留的本地部署的應用程式和基礎設施步驟的理解，同時添加網路和移動服務組合，所有都使用 Azure Active Directory 進行安全保障。
+
+  #### 受眾概覽
+  本次研討會針對的是 Cloud Architects 和 IT 專業人士，他們在 cloud 技術的基礎設施和解決方案設計方面有著架構專業知識，並希望瞭解更多關於 Azure 和 Azure 服務的知識，正如“摘要”和“獲得的技能”部分中所描述的那樣。參加此研討會的人士也應該在其他非 Microsoft cloud 技術方面富有經驗，滿足課程的先決條件並希望獲得在 Azure 方面的綜合訓練。
+prerequisitesSection: |-
+  研討會內容假定有300級別的基礎設施和解決方案設計方面的架構專業知識。我們建議學生在參加本次研討會之前先接受這一先決條件。
+  - Microsoft Azure Essentials 課程，http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### 模組 1&#58; 白板設計會話 - 應用程式現代化
+  #### 課程
+  - 回顧客戶案例學習
+  - 設計概念驗證解決方案
+  - 提交解決方案
+
+
+  ### 模組 2&#58; 動手實驗室 - 應用程式現代化
+  #### 課程
+  - 將資料庫遷移至 Azure SQL Database
+  - 準備應用程式服務
+  - 身份驗證和安全性
+  - 上傳 PDFs 至檔案系統
+  - 創建無伺服器的 API 以訪問 PDFs
+  - 創建 Azure Search 服務
+  - 配置 Key Vault
+  - 配置並部署 Contoso Insurance Web API
+  - 配置並部署 Contoso Insurance 網路應用程式
+  - 配置並運行遺留的桌面 (Windows Forms) 應用程式
+  - 配置並運行移動應用程式
+  - 創建一個 Flow 應用程式以發送推送通知
+  - 再 PowerApps 中創建應用程式
+  - 將 Azure Function 添加至 Azure API Management

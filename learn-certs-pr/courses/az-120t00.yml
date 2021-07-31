@@ -8,10 +8,11 @@ courseNumber: 'AZ-120T00-A'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 移轉SAP HANA，S / 4HANA，SAP NetWeaver到Azure
-- skill: 利用Azure入口，Cloud Shell，Azure PowerShell，CLI和資源管理器
-- skill: 使用網站間連接功能，包括VNet對等和VNet到VNet連接
-- skill: 使用Azure Active Directory（AAD）和Azure AD Connect
+- skill: 將 SAP Workloads 遷移至 Azure
+- skill: 設計 Azure 解決方案以支持 SAP Workloads
+- skill: 為  SAP Workloads 創建和部署 Azure
+- skill: 為 SAP Workloads 驗證 Azure 基礎設施
+- skill: 實施 Azure SAP Architecture
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -19,7 +20,6 @@ levels:
 - advanced
 roles:
 - solution-architect
-- devops-engineer
 products:
 - azure
 exams:
@@ -31,24 +31,32 @@ summary: |-
 
   本課程適用於在Azure上移轉和管理SAP解決方案的Azure管理員。Azure管理員管理跨儲存，網路和計算雲端功能的雲端服務，並對整個IT生命週期中的每項服務都有深刻的瞭解。他們接受終端使用者對新雲端應用程式的請求，並就可使用的服務提出建議，以實作最佳性能和規模，並根據需要提供，調整大小，監控和調整。該角色需要與供應商進行溝通和協調。Azure管理員使用Azure入口，並且隨著他們變得更加熟練，他們使用PowerShell和命令行界面。
 prerequisitesSection: |-
-  學生應在利用以往的Linux作業系統、虛擬化、雲基礎設施、存儲結構和網路經驗來實現、遷移和管理SAP應用程式方面具有扎實的基礎知識。具體而言&#58
+  參加該課之前，學生應擁有：
 
-  必備經驗&#58;
+  *   使用 Azure IaaS 和 PaaS 解決方案包括 VM、VNet、Load Balancers、存儲(二進位大物件、檔、硬碟)的實踐經驗。
 
-  - Azure IaaS和PaaS解決方案的實踐經驗，包括VM、VNet、Load Balancers、Storage（Blob、Files、Disks）。
-  - 瞭解內部部署和雲虛擬化技術，包括：VM、虛擬網路和虛擬硬碟。
-  - 瞭解網路配置，包括TCP/IP、Domain Name System（DNS）、虛擬私人網路絡（VPN）、防火牆和加密技術。 
-  - 瞭解Active Directory的概念
-  - 在Linux/Unix環境下的經驗 
-  - 在SAP應用程式、SAP HANA、S/4HANA、SAP NetWeaver、SAP BW、SAP應用程式和資料庫的OS Server方面有扎實的基礎知識
-  - 瞭解SAP HANA的部署和配置。 
-  - 具有SAP HANA管理預修課程實踐經驗（或具有相當的知識和實踐經驗）&#58
-  - AZ-900 Azure Fundamentals
-  - AZ-104 Azure Administrator
+  *   理解本地部署和 cloud 虛擬技術，包括：VMs、虛擬網路和虛擬硬碟。
+
+  * 理解網路配置，包括 TCP/IP、Domain Name System (DNS)、虛擬私人網路 (VPNs)、防火牆和加密技術。
+
+  *   理解 Active Directory 概念
+
+  *   具有 Linux/Unix環境方面的經驗。
+
+  *   SAP 應用程式、SAP HANA、S/4HANA、SAP NetWeaver、SAP BW、OS&nbsp；SAP應用程式和資料庫的深厚知識。
+
+  *   理解 SAP HANA部署和配置。
+
+  *   SAP HANA 管理的實踐經驗。
+
+  先修課程（或同等知識和實踐經驗）：
+   * AZ-900 Azure Fundamentals
+   * AZ-104 Azure Administrator
+   * AZ-303 Microsoft Azure Architect Technologies（推薦）
 outlineSection: |-
   ### 模組 1&#58；適用於SAP工作負載的Azure簡介
 
-  學生將瞭解Microsoft和SAP的合作關係，研究適用於SAP工作負載的Azure簡介，學習常見術語及其含義。
+  學生將學習 Microsoft 和 SAP 之間的協作，探索針對 SAP workloads 的 Azure，評估 Microsoft 組件及學習常見的術語和意義。
 
   ### 模組 2&#58；創建適用於SAP工作負載的Azure
 
@@ -62,25 +70,26 @@ outlineSection: |-
 
   #### 實驗室 &#58; 線上實驗室 &#58; 在Azure VM上實作Windows叢集
 
-  ###模組4&#58；Azure for SAP workloads參考架構
+  ### 模組 4&#58；Azure for SAP workloads參考架構
 
   包含Azure VM上的SAP NetWeaver和AnyDB以及Azure VM上的SAP S4 HANA課程。
 
-  ### 模組5&#58; 在Azure上實作SAP解決方案的規劃
+  ### 模組 5: 規劃在 Azure 上實施 SAP 解決方案
     
   包含Azure VM計算、網路和存儲考慮事項，Azure VM高可用性和災難恢復考慮事項，Azure VM備份考慮事項，Azure VM監控考慮事項，Azure VM安全考慮事項，Azure VM驗證與存取控制考慮事項，Azure VM許可、定價和支持考慮事項方面的課程。
 
-  ### 模組6&#58; 規劃將SAP工作負載移轉到Azure
+  ### 模組 6: 規劃將 SAP workloads 遷移至 Azure
     
   包含有關將SAP系統移轉到Microsoft Azure和SAP工作負載規劃和部署清單的策略的課程。
 
-  ### 模組7&#58; 實作基於Azure VM的SAP解決方案
+  ### 模組 7: 實施基於 Azure VM 的 SAP 解決方案
     
   包含Azure VM部署方法、單實例實現（2級和3級）、實現Azure VM上的HA SAP NetWeaver和AnyDB、實現Azure VM上的HA SAP HANA、配置適用於SAP的Azure Enhanced Monitoring Extension、實現AD和基於Azure AD的驗證方面的課程。
   
-  #### 實驗室&#58；線上實驗室&#58；運行Linux在Azure VM上實現SAP架構
+  #### 實驗室: 線上實驗室：在運行 Windows 的 Azure VMs 上實施 SAP 架構
 
-  #### 實驗室&#58；線上實驗室&#58；運行Windows在Azure VM上實現SAP架構
+  #### 實驗室: 線上實驗室：在運行 Linux 的 Azure VMs 上實施 SAP 架構
+
 
   ### 模組 8&#58；Azure上的SAP HANA（大型實例） (HLI)
 

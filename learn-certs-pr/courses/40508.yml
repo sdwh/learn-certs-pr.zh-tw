@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Modern Cloud Apps'
+metadata:
+  title: 'Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps'
+  description: 'Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps'
+uid: course.40508
+courseNumber: '40508-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 在此講習班的結尾，您將能夠更好地部署和配置 Azure Web Apps 以及相關服務。此外，您將學會使用 Azure AD 為身份驗證配置網路應用程式，使用 App Insights 對應用程式進行測量和負載測試，使用 Azure Functions 和 Logic Apps 自動化後臺服務。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  在此講習班，您將以小組形式一起工作為基於 Azure App Services、Azure Active Directory 和 Visual Studio Team Services 的電子商務實施端到端的解決方案。您將確保解決方案符合 PCI，且適當的安全措施就位以為本地部署和公開訪問情景做好準備。
+
+  #### 受眾概覽
+  本次研討會針對的是 Cloud Architects 和 IT 專業人士，他們在 cloud 技術的基礎設施和解決方案設計方面有著架構專業知識，並希望瞭解更多關於 Azure 和 Azure 服務的知識，正如“摘要”和“獲得的技能”部分中所描述的那樣。參加此研討會的人士也應該在其他非 Microsoft cloud 技術方面富有經驗，滿足課程的先決條件並希望獲得在 Azure 方面的綜合訓練。
+outlineSection: |-
+  ### 模組 1&#58; 白板設計會話 - 現代 cloud 應用程式
+  #### 課程
+  - 回顧客戶案例學習
+  - 設計概念驗證解決方案
+  - 提交解決方案
+
+
+  ### 模組 2&#58; 動手實驗室 - 現代 cloud 應用程式
+  #### 課程
+  - 概念驗證部署
+  - 身份與安全
+  - 為客戶網站啟用 Azure B2C
+  - 啟用含有 Application Insights 的 Telemetry
+  - 使用 Azure Functions 和 Logic Apps 自動化後端進程

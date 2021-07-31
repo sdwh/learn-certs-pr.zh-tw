@@ -7,8 +7,6 @@ uid: certification.azure-ai-engineer
 certificationRenewalUid: renewal.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong><a href='/learn/certifications/exams/ai-102'>考試 AI-102</a> 正在取代AI-100考試。AI-100將於2021年6月30日失效。</strong></font><br/><br/></div>
-
   Azure AI Engineer Associate認證的考生應具備專業技能，這些技能利用Azure Cognitive Services、Azure Cognitive Search及“Microsoft Bot框架”來構建、管理並部署AI解決方案。
 
   他們的職責包括參與AI解決方案開發的所有階段——從需求定義和設計到開發、部署、維護、性能優化及監控。
@@ -16,11 +14,6 @@ summary: |-
   Azure AI工程師與解決方案架構師合作，轉換他們的願景，並與資料科學家、資料工程師、IoT專家及AI開發人員一起構建完整的端到端AI解決方案。
 
   該認證的考生應精通C#, Python, 或者JavaScript，並應能使用基於REST的API和SDK在Azure上構建電腦視覺、自然語言處理、知識挖掘以及對話式AI解決方案。他們還應瞭解構成Azure AI組合的那些元件以及可用的資料存儲選項。此外，考生還需瞭解並能應用負責任的AI準則。
-
-  <div><br/><strong>如果您通過以下考試之一，您將會獲得該證書&#58;</strong><br/>
-  <ul>
-  <li><a href="/learn/certifications/exams/ai-100">AI-100</a> （2021年6月30日失效） <strong>或者</strong></li>
-  <li><a href="/learn/certifications/exams/ai-102">AI-102</a> （測試版於2021年2月23日發佈）</li></ul></div>
 subTitle: Azure AI 工程師構建、管理和部署利用 Azure Cognitive Services、Azure Cognitive Search 和 Microsoft Bot 框架的 AI 解決方案。
 levels:
 - intermediate
@@ -56,7 +49,7 @@ courses:
 - uid: course.ai-102t00
 paths:
 - uid: learn.data-ai.evaluate-text-with-language-services
-- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services														   
+- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
 - uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
 - uid: learn.wwl.process-natural-language-azure-cognitive-language-services
 - uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search

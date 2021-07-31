@@ -1,0 +1,141 @@
+### YamlMime:Course
+title: Data Analysis Fundamentals using Excel
+metadata:
+  title: 'Course 10994-B: Data Analysis Fundamentals using Excel'
+  description: 'Course 10994-B: Data Analysis Fundamentals using Excel'
+uid: course.10994
+courseNumber: '10994-B'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 創建 Excel 報告
+- skill: 創建 Excel 表格
+- skill: 創建 Pivot table 和 Pivot chart
+- skill: 創建儀錶盤並分析資料
+- skill: 創建層級結構
+- skill: 創建 Excel 資料模型並連接至外部資料
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  該課程的主要目的是讓學生具備向 Excel 工作表添加分析功能的能力，並為學生提供學習利用 Excel 或Power BI 的相關更高級資料分析的基礎。
+
+  #### 受眾概覽
+  該課程旨在針對任何希望利用 Excel 中超越公式和更多高級功能如儀錶盤、層級結構和關係的資料分析技術的人。
+prerequisitesSection: |-
+  參加本課之前，學生必須擁有&#58;
+  - Microsoft Windows作業系統和其核心功能的基礎知識。
+  - Excel 工作表的高級使用知識包括公式。
+outlineSection: |-
+  ### 模組 1&#58; Excel 中的報告
+  本模組解釋了如何在 Excel 中創建報告
+  #### 客戶
+  - 過濾和格式化資料
+  - 圖表
+
+
+  #### 實驗室 &#58; 創建一個 Excel 報告
+  - 過濾 Excel 資料
+  - 格式化 Excel 資料
+  - 創建 Excel 圖表
+
+  完成此模組後，學生將能夠&#58;
+  - 過濾和格式化資料。
+  - 創建圖表。
+
+
+  ### 模組 2&#58; Excel 表格
+  該模組解釋了如何在 Excel 中創建資料表
+  #### 課程
+  - Excel 資料表
+  - 匯總資料
+
+
+  #### 試驗室 &#58; 創建 Excel 表格
+  - 創建 Excel 表格
+  - 匯總 Excel 資料
+
+  完成此模組後，學生將能夠&#58;
+  - 解釋 Excel 資料表是什麼。
+  - 排序、過濾及驗證資料。
+  - 匯總資料。
+  - 格式化已匯總的資料。
+
+
+  ### 模組 3&#58; Pivot Tables 和 Pivot Charts
+  此模組描述了 pivot tables 和 pivot charts 及如何使用它們。
+  #### 課程
+  - Pivot Tables
+  - Pivot Charts
+  - 編輯 Pivot Tables 和 Pivot Charts
+
+
+  #### 實驗室 &#58; 從 CSV 檔導入資料
+  - 創建 Pivot Table
+  - 創建 Pivot Chart
+  - 編輯 Pivot Tables 和 Pivot Charts
+
+  完成此模組後，學生將能夠&#58;
+  - 描述 Pivot tables 及知道如何創建它們。
+  - 描述 Pivot chart 的各種不同元件。
+  - 編輯 Pivot tables 和Pivot charts。
+
+
+  ### 模組 4&#58; 儀錶盤
+  此模組描述了 Excel 儀錶盤、如何創建及其在 Excel pivot tables 中進行資料分析的作用。
+  #### 課程
+  - 創建儀錶盤
+  - Excel Pivot Tables 中的資料分析
+
+
+  #### 實驗室 &#58; 創建儀錶盤
+  - 整理表格和圖表
+  - 層析資料
+  - 資料分析
+
+  完成此模組後，學生將能夠&#58;
+  - 描述儀錶盤。
+  - 使用 slicer 過濾資料。
+  - 向儀錶盤添加計算列。
+  - 查找異常。
+
+  ### 模組 5&#58; 層級結構
+  該模組描述了層級結構和時間資料。
+  #### 課程
+  - 層級結構
+  - 時間資料
+
+
+  #### 實驗室 &#58; 創建層級結構
+  - 創建層級結構
+  - 創建時間資料
+  - 創建動畫時間圖表
+
+  完成此模組後，學生將能夠&#58;
+  - 描述層級結構。
+  - 在層級結構中創建層級。
+  - 解釋為什麼時間資料是不同的及如何使用。
+
+
+  ### 模組 6&#58; Excel 資料模型
+  此模組探索了 Excel 資料模型並瞭解了對其進行擴展的方法。
+  #### 課程
+  - 使用 Excel 資料模型
+  - 外部資料
+
+
+  #### 實驗室 &#58; 探索 Excel 資料模型
+  - 添加多個表格
+  - 創建關係
+  - 添加外部資料
+
+  完成此模組後，學生將能夠&#58;
+  - 解釋 Excel外部資料及其用法。
+  - 導入外部資料並使用。
+  - 連接到外部資料。

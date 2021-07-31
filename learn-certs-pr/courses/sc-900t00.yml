@@ -18,10 +18,9 @@ locales:
 levels:
 - beginner
 roles:
-- business-user
 - student
 products:
-- m365
+- azure
 exams:
 - uid: exam.sc-900
 summary: |-
@@ -36,28 +35,39 @@ prerequisitesSection: |-
   - 大致瞭解Microsoft Azure和Microsoft 365。
 outlineSection: |-
   ### 模組 1&#58; 說明安全性、合規性和身份的基本概念。
-  瞭解安全性，合規性和身份解決方案，基本的核心概念原理和方法，包括零信任、責任分擔、我們的隱私原則等等。
+  學習對安全、合規和身份驗證解決方案非常重要的核心概念和方法論，包括 Zero-Trust、共同責任、身份驗證提供商的角色及更多。
+
   #### 課程
-  - 說明安全性概念和方法。
-  - 說明Microsoft全性和合規性原則。
-  
-  完成本模組學習後，學生將能&#58; 
-  - 說明安全性概念和方法。
-  - 探索服務信任門戶。
-  - 知道去哪裡尋找和查看Azure合規性文檔。
+
+  *   描述安全和合規概念及方法論
+
+  *   描述身份驗證概念
+
+
+  完成此模組後，學生將能夠: 
+
+  *   描述安全和合規概念及方法論
+
+  *   描述身份驗證概念
   
   
   ### 模組 2&#58; 說明Microsoft身份和訪問管理解決方案的概念和功能
   瞭解Azure AD服務和身份主體、安全驗證、訪問管理功能以及身份保護和治理。
   #### 課程
-  - 說明身份概念
   - 說明Azure AD的基本服務和身份類型
   - 說明Azure AD的身份驗證功能
   - 說明Azure AD的訪問管理功能
-  - 說明Azure AD的身份保護和治理功能
+  - 說明Azure AD的身份保護和治理功能\
+
+  #### 實驗室：探索 Azure Active Directory
+
+  #### 實驗室：探索使用自我服務密碼重置的 Azure AD 驗證
+
+  #### 實驗室： 使用條件訪問探索 Azure AD 中的訪問管理
+
+  #### 實驗室：使用特權身份管理探索 Azure AD 中的身份管理
   
   完成本模組學習後，學生將能&#58; 
-  - 說明基本的身份概念。
   - 說明Azure AD的基本服務和身份類型
   - 說明 Azure AD的身份驗證功能。
   - 說明Azure AD的訪問管理功能。
@@ -73,8 +83,19 @@ outlineSection: |-
   - 說明Microsoft 365的威脅防護功能
   - 說明Microsoft 365的安全管理功能
   - 說明使用 Microsoft Intune的端點安全性
-  - 模組小結
   
+  #### 實驗室：探索 Microsoft Cloud App Security
+
+  #### 實驗室：探索 Azure Sentinel
+
+  #### 實驗室：探索 Azure Security Center
+
+  #### 實驗室：探索 Azure Network Security Groups (NSGs)
+
+  #### 實驗室：探索 Microsoft 365 Defender 入口
+
+  #### 實驗室：探索 Microsoft Intune
+
   完成本模組學習後，學生將能&#58; 
   - 說明Azure中的基本安全功能。
   - 說明Azure的安全管理功能。
@@ -90,14 +111,25 @@ outlineSection: |-
   - 說明Microsoft中的合規管理功能
   - 說明Microsoft 365的資訊保護和智力功能
   - 說明Microsoft 365中的內部風險功能
-  - 說明Microsoft 365的eDiscovery功能
-  - 說明Microsoft 365的審計功能
-  - 說明Azure中的資源治理功能
+  - 描述 eDiscovery 和 Microsoft 365 的成熟功能
+  - 描述 Azure 中的資源管理功能
+
+
+  #### 實驗室：探索 Azure 政策
+
+  #### 實驗室: 探索 Microsoft 365 中的內部風險管理
+
+  #### 實驗室: 探索 Service Trust Portal
+
+  #### 實驗室: 探索 Microsoft 365 合規中心 &amp; 合規經理
+
+  #### 實驗室: 探索 Microsoft 365 中的敏感標記
+
+  #### 實驗室: 探索 Microsoft 365 中的內部風險管理
   
   完成本模組學習後，學生將能&#58; 
   - 說明Microsoft中的合規管理功能。
   - 說明Microsoft 365的資訊保護和治理功能。
   - 說明Microsoft 365中的內部風險功能。
-  - 說明Microsoft 365的eDiscovery功能。
-  - 說明Microsoft 365的審計功能。
+  - 描述 eDiscovery 和 Microsoft 365 的成熟功能。
   - 說明Azure中的資源治理功能。

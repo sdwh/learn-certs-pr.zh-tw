@@ -1,0 +1,73 @@
+### YamlMime:Examination
+title: Designing and Implementing Microsoft Azure Networking Solutions (beta)
+metadata:
+  title: 'Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta)'
+  description: 'Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta)'
+uid: exam.az-700
+displayName: AZ-700
+summary: |-
+  該考試的報考者應在規劃、實施和維護 Azure 網路解決方案包括混合網路、關聯、路由、安全和對 Azure服務的私有訪問方面具有主題內容專家的技能。
+  
+  該考試的報考者除豐富的網路、混合關聯及網路安全經驗和知識外，還應擁有專家級 Azure 管理技能。
+  
+  <div><font color='red'><br/><strong>該考試將於2021年7月中旬可用。</strong></font></div>
+subTitle: '該考試將在2021年7月可用。該考試考核了您設計、實施、管理、安全保障和管理如下技術任務的能力：混合昂羅；核心網路基礎設施；路由；網路；和對 Azure 服務的私有訪問。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4PaHw
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 設計、實施和管理混合網路 (10 - 15%)
+- 設計和實施核心網路基礎設施 (20 - 25%)
+- 設計和實施路由 (25 - 30%)
+- 安全保障和管理網路 (15 - 20%)
+- 設計和實施對 Azure Services 的私有訪問(10 - 15%)
+roles:
+- network-engineer
+products:
+- azure-ddos-protection
+- azure-dns
+- azure-application-gateway
+- azure-app-service
+- azure-expressroute
+- azure-firewall
+- azure-firewall-manager
+- azure-front-door
+- azure-kubernetes-service
+- azure-load-balancer
+- azure-monitor
+- azure-network-watcher
+- azure-private-link
+- azure-traffic-manager
+- azure-virtual-network
+- azure-virtual-wan
+- azure-vpn-gateway
+- azure-web-application-firewall
+- azure-virtual-network
+relatedCertifications:
+- related:
+    uid: certification.azure-network-engineer-associate
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證海報
+  description: 查看基本知識、基於角色和專業認證的概述。
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: ../deals.md
+- title: 支援認證考試
+  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  href: ../help.md
+- title: 認證儀錶板
+  description: 查看和管理您的預定約會、證書和成績單。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 要求住宿
+  description: 詳細了解有關為測驗申請調整的資訊。
+  href: ../request-accommodations.md
+- title: 測驗政策和常見問題
+  description: 查看測驗政策和常見問題。
+  href: ../certification-exam-policies.md
