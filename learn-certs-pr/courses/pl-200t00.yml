@@ -8,7 +8,7 @@ courseNumber: 'PL-200T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 與一個組織合作，收集需求並實施Power Platform解決方案
+- skill: 與組織合作收集要求並實施 Microsoft Power Platform 解決方案
 - skill: 建立模型驅動、畫布和門戶應用程式
 - skill: 創建Power Automate流程
 - skill: 用Power Virtual Agents設計簡單的聊天機器人
@@ -19,34 +19,47 @@ locales:
 levels:
 - intermediate
 roles:
-- developer
+- functional-consultant
 products:
 - power-platform
 exams:
 - uid: exam.pl-200
 summary: |-
-  Power Platform將使組織能實現業務流程自動化及自主開發大量的應用程式。在本課程中，學生將學會執行發現、捕獲需求、吸引領域專家和利益相關者、翻譯需求、配置Power Platform解決方案和應用程式。這樣，動手實驗室將補充學生創建應用程式增強、自訂使用者體驗、系統集成、資料轉換、自訂流程自動化和自訂視覺化的知識。Power Platform包括四個關鍵產品&#58; Power Apps、Power Automate、Power BI和Power Virtual Agents。在本課程中，我們將深入討論這四個應用程式，並額外關注Microsoft Dataverse（以前稱為Common Data Service)、AI Builder、連接器以及門戶網站。
+  Microsoft Power Platform 使組織能夠自動化商業流程、開發他們自己豐富的應用程式經驗並與客戶更好、更快地關聯。在本課中，學生將學習執行發現、捕獲要求、吸引主題內容專家和利益相關者、翻譯要求並配置 Microsoft Power Platform 解決方案和應用程式。他們將通過實踐實驗室補充自己的學習來創建應用程式增強、定制使用者體驗、系統集成、資料轉換、定制流程自動化及定制視覺化。Microsoft Power Platform 由4個主要的產品組成：Power Apps、Power Automate、Power BI 和 Power Virtual Agents。在本課中，我們將深入探討這4個應用程式，且額外專注於Microsoft Dataverse、AI Builder、連接器和入口。
 
-  #### 對象設定檔
-  Power Platform功能顧問負責執行發現、捕獲需求、吸引領域專家和利益相關者、翻譯需求、配置Power Platform解決方案和應用程式。功能顧問將實施解決方案的各個部分，包括應用增強、自訂使用者體驗、系統集成、資料轉換、自訂流程自動化和自訂視覺化。
+  #### 受眾概覽
+
+  Microsoft Power Platform Functional Consultant 負責創建和配置應用程式、自動化和解決方案。 他們充當用戶和實施團隊之間的聯絡。功能顧問在組織內推廣解決方案的利用。功能顧問可以執行發現、吸引主題內容專家和利益相關者、捕獲要求並匹配要求和功能。他們實施解決方案的組成部分包括應用程式增強、定制使用者體驗、系統集成、資料轉換、定制流程自動化及定制視覺化。
 prerequisitesSection: |-
-  - 作為IT專業人員或學生的經驗
-  - Power Platform及其關鍵元件的使用知識
-  - 瞭解Microsoft Dataverse（或一般資料建模）和安全概念
+  *   作為 IT 專業人士的經驗或學生
+
+  *   Microsoft Power Platform 和其核心元件的使用經驗
+
+  *   &nbsp;Microsoft&nbsp;Dataverse （或通用資料模型）知識&nbsp;和安全概念
 outlineSection: |-
-  ### 模組 1&#58; Power Platform簡介
-  本模組將為學員提供Power Platform及其4個關鍵元件的背景知識&#58; Power Apps、Power Automate、Power BI和Power Virtual Agents。
-  #### 課程概述
-  - Power Platform概述
-  
-  #### 實驗室&#58; 確認實驗室環境
-  
-  完成本模組學習後，學生將能&#58;
-  - 識別Power Platform的關鍵元件
-  - 描述功能顧問的角色
-  
-  ### 模組 2&#58; “功能顧問”角色
-  在本模組中，學員將更多地瞭解該功能顧問角色，以及為組織成功實施Power Platform 解決方案所需的技能。
+  ### 模組 1: Microsoft Power Platform 介紹
+
+  該模組將為學習者提供關於 Microsoft Power Platform 和其4個關鍵元件的背景知識：Power Apps、Power Automate、Power BI 和 Power Virtual Agents。
+
+  #### 課程
+
+  *   Microsoft Power Platform 概覽
+
+
+  #### 實驗室: 驗證實驗室環境
+
+  ####
+
+  完成此模組後，學生將能夠：
+
+  *   確認 Microsoft Power Platform 的關鍵元件
+
+  *   描述功能顧問的任務
+
+
+  ### 模組 2: 功能顧問任務
+
+  在此模組中，學生將學習更多關於功能顧問角色的任務以及成功為組織實施 Microsoft Power Platform 解決方案所要求的技能。
   #### 課程概述
   - 顧問技能概述
   - 創建並驗證文檔
@@ -83,7 +96,7 @@ outlineSection: |-
   完成本模組學習後，學生將能&#58;
   - 瞭解表、列、行以及它們之間的關係
   - 在Dataverse中配置一個資料模型
-  - 在Power Platform管理中心的環境中工作
+  - 在 Microsoft Power Platform 管理中心的環境中工作
   
   
   ### 模組 4&#58; 製作Power應用程式

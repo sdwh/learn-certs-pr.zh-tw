@@ -47,14 +47,6 @@ products:
 - azure-bot-service
 - azure-functions
 - azure-logic-apps
-courses:
-- uid: course.az-020t00
-- uid: course.az-203t01
-- uid: course.az-203t02
-- uid: course.az-203t03
-- uid: course.az-203t04
-- uid: course.az-203t05
-- uid: course.az-203t06
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together

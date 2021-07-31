@@ -90,9 +90,6 @@ certifications:
 - uid: certification.d365-finance-and-operations-apps-solution-architect-expert
   requiredExams:
   - uid: exam.mb-700
-- uid: certification.power-apps-and-d365-solution-architect-expert
-  requiredExams:
-  - uid: exam.mb-600
 - uid: certification.azure-for-sap-workloads-specialty
   requiredExams:
   - uid: exam.az-120

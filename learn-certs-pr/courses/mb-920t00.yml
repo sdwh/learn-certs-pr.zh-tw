@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
+title: 'Microsoft Dynamics 365 Fundamentals (ERP)'
 metadata:
-  title: 'Course MB-920T00--A: Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
-  description: 'Course MB-920T00--A: Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
+  title: 'Course MB-920T00--A: Microsoft Dynamics 365 Fundamentals (ERP)'
+  description: 'Course MB-920T00--A: Microsoft Dynamics 365 Fundamentals (ERP)'
 uid: course.mb-920t00
 courseNumber: 'MB-920T00'
 hoursToComplete: 48
@@ -13,7 +13,7 @@ skillsGained:
 - skill: 說明Dynamics 365 Supply Chain Management的功能
 - skill: 說明Dynamics 365 Supply Chain Management的功能
 - skill: 說明Dynamics 365 Project Operations (ERP)的功能
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -1,0 +1,41 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Internet of Things'
+metadata:
+  title: 'Course 40505-G: Microsoft Cloud Workshop: Internet of Things'
+  description: 'Course 40505-G: Microsoft Cloud Workshop: Internet of Things'
+uid: course.40505
+courseNumber: '40505-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 在此講習班的結尾，您將能夠更好地構建一個使用 IoT Hub Device Provisioning Service 設備註冊和利用 Power BI 視覺化熱點資料的 IoT 解決方案。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  此講習班將會在實施端到端的 IoT 解決方案中全程為您提供指導，該方案模擬從智慧電錶發出的高速資料傳送並在 Azure 中進行分析。您將設計拉姆達（Lambda）架構，為熱通道的即時視覺化過濾零時資料的子集，為冷通道在長期存儲中排序所有資料。
+
+  #### 受眾概覽
+  本次研討會針對的是 Cloud Architects 和 IT 專業人士，他們在 cloud 技術的基礎設施和解決方案設計方面有著架構專業知識，並希望瞭解更多關於 Azure 和 Azure 服務的知識，正如“摘要”和“獲得的技能”部分中所描述的那樣。參加此研討會的人士也應該在其他非 Microsoft cloud 技術方面富有經驗，滿足課程的先決條件並希望獲得在 Azure 方面的綜合訓練。
+outlineSection: |-
+  ### 模組 1&#58; 白板設計會話 - 物聯網
+  #### 課程
+  - 回顧客戶案例學習
+  - 設計概念驗證解決方案
+  - 提交解決方案
+
+
+  ### 模組 2&#58; 動手實驗室 - 物聯網
+  #### 課程
+  - 環境設置
+  - IoT Hub 準備
+  - 完成 Smart Meter Simulator
+  - 使用 Stream Analytics 的熱通道資料處理
+  - 使用 HDInsight Spark 的冷通道資料處理
+  - 使用 IoT Hub Operations Monitoring 報告設備損耗

@@ -1,0 +1,456 @@
+### YamlMime:Course
+title: 'Automating Administration with PowerShell '
+metadata:
+  title: 'Course AZ-040T00--A: Automating Administration with PowerShell '
+  description: 'Course AZ-040T00--A: Automating Administration with PowerShell '
+uid: course.az-040t00
+courseNumber: 'AZ-040T00'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 Windows PowerShell 的功能性並用其來運行和查找基本命令。
+- skill: 為本地系統管理員確定身份並運行 cmdlets。
+- skill: 使用 Windows PowerShell 通道。
+- skill: 使用 PSProviders 和 PSDrives 來利用其它形式的存儲。
+- skill: 使用 WMI 和 CIM 查詢系統資訊。
+- skill: 使用變數、陣列和雜湊表。
+- skill: 在 Windows PowerShell 中撰寫基礎腳本。
+- skill: 使用 Windows PowerShell 管理遠端電腦。
+- skill: 使用 PowerShell 管理 Azure。
+- skill: 使用 PowerShell 管理 Microsoft 365 服務。
+- skill: 使用後臺作業和已安排作業。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+summary: |-
+  該課程為學生提供了 Windows 伺服器管理和自動化管理而使用 Windows PowerShell 的基礎原理知識和技能。該課程為學生提供了他們執行特定任務所需的識別和創建命令的技能。此外，學生將學習如何創建腳本來完成高級任務如自動化重複任務並生成報告。該課程提供了支援 Microsoft 廣泛產品包括 Windows Server, Windows Client、Microsoft Exchange Server、Microsoft SharePoint Server、Microsoft SQL Server 和 Microsoft System Center 的首要必備技能。與該目標同步，本課程將不會專注於這些產品中的任何一項，雖然 Windows Server 是所有這些產品的通用平臺，但僅作為此課程所教授技術的實例之用。
+
+  #### 受眾概覽
+
+  本課旨在針對已具備 Windows Server 和 Windows 用戶端管理且希望學習更多使用 Windows PowerShell 用於管理的 IT 專業人士。無需任何 Windows PowerShell 經驗或任何指定的腳步語言要求。該課程也適合已具備伺服器管理，包括 Exchange Server、SharePoint Server、SQL Server 系統中心經驗的 IT 專業人士。
+outlineSection: |-
+  ### 模組 1: Windows PowerShell 基礎入門
+
+  此模組將向您介紹 Windows PowerShell 並提供該產品功能性的概覽。 該模組解釋了如何打開和配置 Windows PowerShell。也解釋了如何在 Windows PowerShell 中運行命令並使用內置説明系統。
+
+  #### 課程
+
+  *   Windows PowerShell 概覽
+
+  *   理解 Windows PowerShell 命令語法
+
+  *   在 Windows PowerShell 中查找命令並獲得幫助
+
+
+  #### 實驗室: 配置 Windows PowerShell 控制台應用程式
+
+  ####
+
+  #### 實驗室: 配置 Windows PowerShell ISE 應用程式
+
+  ####
+
+  #### 實驗室: 查找並運行 Windows PowerShell 命令
+
+  ####
+
+  #### 實驗室: 使用説明和關於檔
+
+  ####
+
+  完成此模組後，學生將能夠: 
+
+  *   打開並配置Windows PowerShell。
+
+  *   發現、學習和運行 Windows PowerShell命令。
+
+  *   為執行特定任務查找 Windows PowerShell 命令。
+
+
+  ### 模組 2: 用於本地系統管理的 Windows PowerShell
+
+  該模組為您介紹了通常用於系統管理的不同類型的 cmdlets 。當您每次搜索 cmdlets 時，您需要完成一項任務，這對於擁有對這些 cmdlets 的最低的基礎理解是更高效的。該模組也解釋了如何在 Windows 10 中安裝和開始使用 Windows PowerShell。
+
+  #### 課程
+
+  *   Active Directory Domain Services 管理 cmdlets
+
+  *   網路配置 cmdlets
+
+  *   伺服器管理 cmdlets
+
+  *   Windows 10 中的 Windows PowerShell
+
+
+  #### 實驗室: 創建一個網站
+
+  ####
+
+  #### 實驗室: 在 Windows Server 配置網路設置
+
+  ####
+
+  #### 實驗室: 創建和管理 Active Directory 物件
+
+  ####
+
+  完成此模組後，學生將能夠:
+
+  *   為 AD DS 管理確認和使用 cmdlets。
+
+  *   為網路配置確認和使用 cmdlets。
+
+  *   為伺服器管理任務確認和使用 cmdlets。
+
+  *   在 Windows 10 中安裝和使用 Windows PowerShell。
+
+  ### 模組 3: 使用  Windows PowerShell 通道
+
+  該模組介紹了 Windows PowerShell 的通道功能。通道功能包含在一些命令列介面中，如 Windows 作業系統中的命令提示符。但是，Windows PowerShell 中的通道功能相比其他介面提供了更多複雜、靈活和綜合性的功能。該模組為您提供了將能幫助您更加有效和高效使用 Windows PowerShell 的技能和知識。
+
+  #### 課程
+
+  *   理解通道
+
+  *   選擇、排序和測量物件
+
+  *   利用通道過濾物件
+
+  *   在通道中列舉物件
+
+  *   作為輸出發送和傳遞通道
+
+
+  #### 實驗室: 選擇、分類和顯示資料
+
+  ####
+
+  #### 實驗室: 過濾物件
+
+  ####
+
+  #### 實驗室: 列舉物件
+
+  ####
+
+  #### 實驗室: 轉換物件
+
+  ####
+
+  完成此模組後，學生將能夠：
+
+  *   描述 Windows PowerShell通道的目的。
+
+  *   在通道中選擇、排序和測量物件。
+
+  *   利用通道過濾物件。
+
+  *   在通道中列舉物件。
+
+  *   發送由通道資料組成的輸出。
+
+
+  ### 模組 4: 使用 PSProviders 和 PSDrives
+
+  該模組介紹了 PSProviders 和 PSDrives 適配器。PSProvider 本質上是類似於磁碟機一樣產生一些形式的存儲的 Windows PowerShell 適配器。PSDrive 實際上是到某種形式存儲的關聯。 您可以使用這兩種適配器，通過使用您用來管理檔案系統的相同命令和技術來利用不同形式的存儲。
+
+  #### 課程
+
+  *   使用 PSProviders
+
+  *   使用 PSDrives
+
+
+  #### 實驗室: 創建新的 Active Directory 組
+
+  ####
+
+  #### 實驗室: 為您未來的腳步創建註冊秘鑰
+
+  ####
+
+  #### 實驗室: 在遠端電腦上創建檔和資料夾
+
+  ####
+
+  完成此模組後，學生將能夠: 
+
+  *   使用PSProviders。
+
+  *   使用 PSDrives。
+
+  ### 模組 5: 使用 CIM 和 WMI 查詢管理資訊
+
+  該模組為您介紹了兩種類似的技術：Windows Management Instrumentation (WMI) 和 Common Information Model (CIM)。 兩種技術都提供了對管理資訊資源庫的本地和遠端存取，包括從作業系統、電腦硬體和以安裝的軟體中訪問可用的可靠資訊。
+
+  #### 課程
+
+  *   理解 CIM 和 WMI
+
+  *   使用 CIM 和 WMI 查詢資料
+
+  *   使用 CIM 和 WMI 做出更改
+
+
+  #### 實驗室: 使用 WMI 查詢資訊
+
+  ####
+
+  #### 實驗室: 使用 CIM 查詢資訊
+
+  ####
+
+  #### 實驗室: 調用方法
+
+  ####
+
+  完成此模組後，學生將能夠：
+
+  *   區分常見資訊模型和Windows Management Instrumentation。
+
+  *   使用 CIM 和 WMI 查詢管理資訊。
+
+  *   使用 CIM 和 WMI 調用方法。
+
+
+  ### 模組 6: 使用變數、陣列和雜湊表
+
+  該模組為您提供了使用 Windows PowerShell 中變數、陣列和雜湊表所要求的技能和知識。
+
+  #### 課程
+
+  *   使用變數
+
+  *   操作變數
+
+  *   運算元組和雜湊表
+
+
+  #### 實驗室: 使用雜湊表
+
+  ####
+
+  #### 實驗室: 使用陣列
+
+  ####
+
+  #### 實驗室: 使用變數類型
+
+  ####
+
+  完成此模組後，學生將能夠: 
+
+  *   向變數分配值。
+
+  *   描述如何操作變數。
+
+  *   描述如何運算元組和雜湊表。
+
+  ### 模組 7: Windows PowerShell 腳本處理
+
+  該模組解釋了如何在腳本中打包 Windows PowerShell。 腳本讓您能夠執行不能在單個命令中完成的重複性任務和更多複雜的任務。
+
+  #### 課程
+
+  *   使用 Windows PowerShell 處理腳本介紹
+
+  *   腳本構成
+
+  *   從檔導入資料
+
+  *   接收使用者輸入
+
+  *   解決問題和錯誤處理
+
+  *   功能和模型
+
+
+  #### 實驗室: 簽署腳本
+
+  ####
+
+  #### 實驗室: 處理帶有 ForEach 迴圈的陣列
+
+  ####
+
+  #### 實驗室: 使用 If 運算式處理專案
+
+  ####
+
+  #### 實驗室: 基於 CSV 檔創建用戶
+
+  ####
+
+  #### 實驗室: 從遠端電腦查詢磁片資訊
+
+  ####
+
+  #### 實驗室: 更新腳本以使用其他許可權
+
+  ####
+
+  完成此模組後，學生將能夠: 
+
+  *   運行 Windows PowerShell腳本。
+
+  *   使用 Windows PowerShell腳本構成。
+
+  *   從檔導入資料。
+
+  *   獲得用戶輸入。
+
+  *   解決腳本問題並理解錯誤操作。
+
+  *   創建功能和模型。
+
+
+  ### 模組 8: 使用 Windows PowerShell 管理遠端電腦
+
+  該模組為您介紹了能夠讓您連接至一個或多個遠端電腦並命令它們代表您運行命令的 Windows PowerShell 遠端控制技術。
+
+  #### 課程
+
+  *   使用基礎的 Windows PowerShell 控制
+
+  *   使用高級 Windows PowerShell 遠端控制技術
+
+  *   使用 PSSessions
+
+
+  #### 實驗室: 管理多台電腦
+
+  ####
+
+  #### 實驗室: 使用隱式遠端控制
+
+  ####
+
+  #### 實驗室: 執行一對多遠端控制
+
+  ####
+
+  #### 實驗室: 執行一對一遠端控制
+
+  ####
+
+  #### 實驗室: 在本地電腦上啟用遠端控制
+
+  ####
+
+  完成此模組後，學生將能夠: 
+
+  *   描述遠程控制架構和安全。
+
+  *   使用高級遠端控制技術。
+
+  *   創建和管理連貫的遠端控制會話。
+
+  ### 模組 9: 使用 PowerShell 管理 Azure 資源
+
+  該模組提供了關於 Azure PowerShell 的資訊。同時也介紹了 Azure Cloud Shell。解釋了如何使用 PowerShell 管理 Azure VMs。該模組也描述了你可以如何使用 Azure PowerShell 管理存儲和 Azure 訂閱。
+
+  #### 課程
+
+  *   Azure PowerShell
+
+  *   介紹 Azure Cloud Shell
+
+  *   使用 PowerShell 管理 Azure VMs
+
+  *   管理存儲和訂閱
+
+
+  #### 實驗室: 安裝 Azure PowerShell 模型
+
+  ####
+
+  #### 實驗室: 安裝 Cloud Shell
+
+  ####
+
+  #### 實驗室: 使用 PowerShell 管理 Azure 資源
+
+  ####
+
+  完成此模組後，學生將能夠: 
+
+  *   完成此模組後，學生將能夠: 
+
+  *   使用Azure Cloud Shell.
+
+  *   使用 PowerShell 管理 Azure VMs。
+
+  *   管理存儲和訂閱。
+
+
+  ### 模組 10: 使用 PowerShell 管理 Microsoft 365 服務
+
+  該模組描述了如何使用 PowerShell 來管理 Microsoft 365 用戶帳戶、許可和組、Exchange Online、SharePoint Online及Microsoft Teams。
+
+  #### 課程
+
+  *   使用 PowerShell 來管理 Microsoft 365 用戶帳戶、許可和組
+
+  *   使用 PowerShell 來管理 Exchange Online
+
+  *   使用 PowerShell 來管理 SharePoint Online
+
+  *   使用 PowerShell 來管理 Microsoft Teams
+
+
+  #### 實驗室: 使用 Windows PowerShell 來管理 Exchange Online 資源
+
+  ####
+
+  #### 實驗室: 使用 Windows PowerShell 來管理 SharePoint Online
+
+  ####
+
+  #### 實驗室: 使用 Windows PowerShell 來管理 Microsoft 365 使用者和組物件
+
+  ####
+
+  #### 實驗室: 使用 Windows PowerShell 關聯至 Microsoft 365
+
+  ####
+
+  完成此模組後，學生將能夠: 
+
+  *   使用 PowerShell 來管理 Microsoft 365 用戶帳戶、許可和組。
+
+  *   使用 PowerShell 管理 Exchange Online。
+
+  *   使用 PowerShell 管理 SharePoint Online。
+
+  *   使用 PowerShell 管理 Microsoft Teams。
+
+  ### 模組 11: 使用後臺作業和已安排作業
+
+  該模組描述了如何使用後臺作業和已安排作業。也解釋了如何創建已安排作業並重新得到作業結果。
+
+  #### 課程
+
+  *   使用後臺作業
+
+  *   使用已安排作業
+
+
+  #### 實驗室: 開始並管理作業
+
+  ####
+
+  #### 實驗室: 創建已安排作業
+
+  ####
+
+  完成此模組後，學生將能夠: 
+
+  *   創建並使用後臺作業。
+
+  *   創建並使用安排作業。

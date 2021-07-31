@@ -1,0 +1,160 @@
+### YamlMime:Course
+title: Updating Your Skills to SQL Server 2017
+metadata:
+  title: 'Course 10998-A: Updating Your Skills to SQL Server 2017'
+  description: 'Course 10998-A: Updating Your Skills to SQL Server 2017'
+uid: course.10998
+courseNumber: '10998-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 SQL Server 2017 的主要功能和組成部分。
+- skill: 描述 SQL Server 性能、可用性和可擴展性中的最新及改進功能
+- skill: 描述 SQL Server 資料訪問中的最新及改進功能
+- skill: 描述 SQL Server 報告和 BI 中的最新及改進功能
+- skill: 描述 SQL Server OLAP 中的最新及改進功能
+- skill: 描述最新及改進的資料分析功能
+- skill: 描述 SQL Server Cloud 部署中的最新及改進功能
+- skill: 描述 SQL Server on Linux 功能性
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- sql-server
+summary: |-
+  這是為期兩天的引導式課程，旨在針對希望更新自己技能以涵蓋SQL Server 2017 的資料庫專業人員。
+
+  #### 受眾概覽
+  該課程的主要受眾是擁有 SQL Server 2016 經驗、希望更新自己的技能到 SQL Server 2017 的現有資料庫專業人士。
+
+  次要受眾是希望為 SQL Server 2017 認證做升等考試準備的現有 SQL Server 2016 MCSA 專業人士。
+prerequisitesSection: |-
+  除專業經驗外，參加此培訓的學生應已具備如下技術知識&#58;
+  - 創建和管理資料庫、資料倉儲的經驗和使用 SQL Server 2016 的business intelligence (BI) 解決方案。
+  - 熟練 Windows Server 2016 作業系統和聯網。
+  - 數量 Microsoft Office 2016。
+outlineSection: |-
+  ### 模組 1&#58; SQL Server 2017 介紹
+  模組目標&#58; 描述 SQL Server 2017 的主要功能和組件
+  #### 課程
+  - SQL Server 2017 概覽
+  - 不同版本的功能性
+
+  完成此模組後，學生將能夠&#58;
+  - 版本比例限制
+  - 解釋不同版本中一致的功能性
+
+
+  ### 模組 2&#58; 在 SQL Server 性能、可擴展性和可用性中有什麼新功能。
+  該模組介紹了由自我調整查詢處理和自動調節所提供的性能改善，以及由新的可用性組架構所提供的可擴展性和可用性包括讀取縮放可用性組和在 Linux 上使用 SQL Server 的可用性組。
+  #### 課程
+  - 自我調整查詢處理
+  - 自動調節
+  - 可用性和可擴展性
+
+
+  #### 實驗室 &#58; 性能和可用性 – 自我調整查詢處理
+  - 交錯執行
+  - 批次處理模式記憶體授予回饋
+  - 批次處理模式自我調整聯接
+
+  完成此模組後，學生將能夠&#58;
+  - 描述自我調整查詢處理
+  - 描述自動計畫糾錯
+  - 描述可用性組架構
+  - 描述對 Linux 系統可用性組總是開啟
+  - 描述可讀取次要副本的負載均衡
+  - 描述P級數據倉儲
+
+
+  ### 模組 3&#58; SQL Server 資料訪問的最新功能
+  SQL Server 2017 引入了 SQL Graph，其讓您能夠定義您表格中不同資料項目目之間的關係而不用在查詢中對其進行計算，煎炒了查詢成本並簡化了您的資料結構。
+  #### 課程
+  - SQL Graph
+
+
+  #### 實驗室 &#58; SQL Graph
+  - 創建 Graph 資料庫
+  - 查詢 Graph 資料庫
+
+  完成此模組後，學生將能夠&#58;
+  - 描述 SQL Graph
+
+
+  ### 模組 4&#58; SQL Server 報告和 BI 中的新功能
+  此模組描述了 SQL Server 報告和 BI 中的新功能。
+  #### 課程
+  - Power BI 報告伺服器
+  - 報告服務更新
+
+
+  #### 實驗室 &#58; 報告和 BI
+  - 部署 Power BI 報告伺服器
+  - 向報告添加評論
+
+  完成此模組後，學生將能夠&#58;
+  - 解釋 Power BI 報告伺服器是什麼
+  - 使用 Power BI 報告伺服器
+  - 為 Power BI 報告伺服器創建 Power BI 報告
+  
+  ### 模組 5&#58; SQL Server Analysis Services 中最新和改進的功能
+  此模組介紹了 SQL Server Analysis Services 中的最新和改進的功能，尤其強調了列成表格的資料模型。
+  #### 課程
+  - 列成表格模組更新
+
+
+  #### 實驗室 &#58; 不齊整層級結構
+  - 查看現有報告
+  - 隱藏空白成員
+
+  完成此模組後，學生將能夠&#58;
+  - 描述列成表格資料模型的最新功能
+
+
+  ### 模組 6&#58; 最新、改進的資料分析功能
+  此模組介紹了最新、改進的資料分析功能。
+  #### 課程
+  - 最新、改進的資料分析功能
+
+
+  #### 實驗室 &#58; 使用 Python 的資料分析
+  - 啟用外部腳本執行
+  - 運行 Python 腳本
+
+  完成此模組後，學生將能夠&#58;
+  - 描述最新、改進的資料分析功能。
+
+
+  ### 模組 7&#58; Cloud 中 SQL Server 的最新功能
+  各類組織希望從 cloud 服務的組合中獲得最好的價值且從他們在本地部署的硬體和軟體的現有投資中獲得最好收益。此模組涵蓋了 Microsoft Azure SQL Database 和 Microsoft SQL Server 2017 之間的功能對比，以及讓您更加輕鬆地將資料庫從本地部署的 SQL Server 實例遷移到 Azure SQL Database 的最新功能。
+  #### 課程
+  - Azure SQL 資料庫功能
+  - 託管實例
+
+
+  #### 實驗室 &#58; 託管實例
+  完成此模組後，學生將能夠&#58;
+  - 解釋在 Azure SQL 資料庫和 SQL Server 2017 可用的不同功能
+  - 描述 Azure 託管實例
+
+
+  ### 模組 8&#58; Linux 上的 SQL Server
+  此模組涵蓋了 Linux 上的 SQL Server 以及使用 Docker 在 Linux 上部署 SQL Server 的流程。
+  #### 課程
+  - Linux 上的 SQL Server
+  - 在 Linux 上部署 SQL Server
+
+
+  #### 實驗室 &#58; Docker 容器中的 SQL Server
+  - 部署 SQL Server Docker 圖片
+  - 在 Docker 容器中運行 SQL Server 實例
+  - 連接到在 Docker 容器中運行 SQL Server 實例
+
+  完成此模組後，學生將能夠&#58;
+  - 描述 Linux 上 SQL Server 的功能
+  - 描述 Linux 部署中的 SQL Server
+  - 在Docker 容器中部署 SQL Server

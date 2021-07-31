@@ -16,9 +16,6 @@ roles:
 - developer
 products:
 - azure
-exams:
-- uid: exam.az-203
-- uid: exam.az-204
 summary: |-
   為期三天的課程旨在教授 AWS (Amazon Web Services) 開發人員如何在 Microsoft Azure 中準備端到端解決方案。在本課程中，您將構建 Azure App Service Web App 解決方案和 Azure Function，在解決方案中使用 blob 或 Cosmos DB 存儲，實作包括用戶身份驗證和授權在內的安全雲端解決方案，實作 API 管理，以及開發基於事件和消息的解決方案，並監控、解決和優化您的 Azure 解決方案。您將了解開發人員如何使用 Azure 服務，並將重點關注不同於 AWS 的功能和任務，以及在開發將使用 Azure 服務託管的應用程式時這對您意味著什麼。
 
