@@ -31,12 +31,23 @@ products:
 - dynamics-cust-svc-insights
 - dynamics-retail
 - dynamics-sales
+paths:
+- uid: learn-dynamics.get-started-dynamics-365-commerce
+- uid: learn-dynamics.configure-work-omnichannel-prequisites-commerce
+- uid: learn-dynamics.manage-customer-engagement-shopping-experience-commerce
+- uid: learn-dynamics.manage-order-fulfillment-inventory-commerce
+- uid: learn-dynamics.configure-use-pos-commerce
+- uid: learn-dynamics.configure-work-call-centers-commerce
+- uid: learn-dynamics.configure-work-e-commerce
 exams:
 - uid: exam.mb-300
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-commerce
 resources:
+- title: 認證學習路徑
+  description: 推薦的培訓資源以幫助您準備要求的考試並獲得您的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWH8MJ
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://aka.ms/TrainingCertDeck

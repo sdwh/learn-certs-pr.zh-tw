@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: AI-led business process automation'
+metadata:
+  title: 'Course 40585-G: Microsoft Cloud Workshop: AI-led business process automation'
+  description: 'Course 40585-G: Microsoft Cloud Workshop: AI-led business process automation'
+uid: course.40585
+courseNumber: '40585-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 設計利用 Azure Cognitive Services 的商業流程自動化解決方案
+- skill: 實施利用 Azure Cognitive Services 的商業流程自動化解決方案
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  在此講習班，您將學會使用各種不同的 Azure Cognitive Services 自動化端對端的商業流程。在此講習班的結尾部分，您將能更好地設計和實施利用 Azure Cognitive Services 的商業流程自動化解決方案。
+
+  #### 受眾概覽
+  本次研討會針對的是 Cloud Architects 和 IT 專業人士，他們在 cloud 技術的基礎設施和解決方案設計方面有著架構專業知識，並希望瞭解更多關於 Azure 和 Azure services 的知識，正如“摘要”和“獲得的技能”部分中所描述的那樣。參加本次研討會的人員還應具有其他非 Microsoft cloud 技術方面的經驗，滿足課程先決條件，並希望在 Azure 上進行交叉培訓。
+outlineSection: |-
+  ### 模組 1&#58; 白板設計會話 - AI 主導的商業流程自動化
+  #### 課程
+  - 回顧客戶案例學習
+  - 設計解決方案概念驗證
+  - 提交解決方案
+
+
+  ### 模組 2&#58; 實踐實驗室 - AI 主導的商業流程自動化
+  #### 課程
+  - 使用 Forms Recognizer 從檔中提起文本和結構
+  - 從隨訪音訊記錄中提起健康分析
+  - 使用 Azure Cognitive Search 來索引和提供資料
+  - 在健康護理資料上創建自訂 PowerBI 報告

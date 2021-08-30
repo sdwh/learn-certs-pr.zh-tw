@@ -15,7 +15,7 @@ ms.prod: non-product-specific
 
 <div>以下是 Microsoft 為支援涵蓋 Microsoft 雲端技術的特定課程的實驗室解決方案而提供的 Azure Passes 的信息。 有關由 SLA 支援的替代解決方案的更多資訊，請與當前提供對 Azure 的存取權限的授權實驗室主機 (ALH) 之一聯絡。</div>
 
-最近更新時間：**5/27/2021**
+上次更新於：**2021年7月29日**
 
 當學生使用 Microsoft 官方課程註冊符合條件的 Azure 相關課程時，Microsoft 將提供您的學生 30 天免費 Microsoft Azure Pass 的存取權限。學生的許可證只能由經授權的 Microsoft 學習合作夥伴透過課程工具 Marketplace 取得，並且與 MOC 課程的購買直接相關，每訂購一門 MOC 課程最多可以許可一次。沒有其他為學生取得許可證的機制。如果學習合作夥伴訂購 MOC 課程，但未選擇購買時該課程可用的 Azure Pass，則合作夥伴可以選擇返回課程工具 Marketplace，接下來在需要時訂購該許可證。
 
@@ -47,11 +47,8 @@ ms.prod: non-product-specific
 - 40514 Microsoft Cloud Workshop: Data Platform Upgrade and Migration
 - 40515 Microsoft Cloud Workshop: Enterprise-Class Networking in Azure
 - 40516 Microsoft Cloud Workshop: Intelligent Analytics
-- 40519 Microsoft Cloud Workshop: SAP on Azure
 - 40522 Microsoft Cloud Workshop: Azure Stack
 - 40526 Microsoft Cloud Workshop: SAP HANA on Azure
-- 40527 Microsoft Cloud Workshop: Security baseline on Azure
-- 40529 Microsoft Cloud Workshop: High Performance Computing
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
@@ -63,6 +60,7 @@ ms.prod: non-product-specific
 - 40562 Microsoft Cloud Workshop: Migrating SQL databases to Azure
 - 40564 Microsoft Cloud Workshop: Securing the IoT end-to-end
 - 40573 Microsoft Cloud Workshop: Hybrid identity
+- 40584 Microsoft Cloud Workshop: Leveraging Azure Digital Twins in a supply chain
 - 50331 Windows Client, Enterprise Desktop Support Technician
 - 55093 Windows Azure Data Services (basics)
 - 55188 Lizenzierung und Verwaltung Virtueller Umgebungen und Cloud Services
@@ -70,14 +68,15 @@ ms.prod: non-product-specific
 - 55224-2 Operationalize Cloud Analytics Solutions with Microsoft Azure
 - 55247 Designing and Implementing Cloud Data Platform Solutions
 - 55264 Introduction to Programming Using Python
-- AI-100T01 Designing and Implementing an Azure AI Solution
 - AI-102T00 Designing and Implementing a Microsoft Azure AI Solution
 - AI-900T00 Microsoft Azure AI Fundamentals
 - AZ-010T00 Azure Administration for AWS SysOps
 - AZ-020T00 Microsoft Azure solutions for AWS developers
 - AZ-030T00 Microsoft Azure technologies for AWS architects
+- AZ-040T00 Automating Administration with PowerShell
 - AZ-104T00 Microsoft Azure Administrator
 - AZ-120T00 Planning and Administering Microsoft Azure for SAP Workloads
+- AZ-140T00 Configuring and Operating Microsoft Azure Virtual Desktop
 - AZ-203T0X Developing Solutions for Microsoft Azure courses
 - AZ-204T00 Developing Solutions for Microsoft Azure
 - AZ-220T00 Microsoft Azure IoT Developer
@@ -93,6 +92,7 @@ ms.prod: non-product-specific
 - DP-100T01 Designing and Implementing a Data Science Solution on Azure
 - DP-200T01 Implementing an Azure Data Solution
 - DP-201T01 Designing an Azure Data Solution
+- DP-203T00 Data Engineering on Microsoft Azure
 - DP-300T00 Administering Relational Databases on Microsoft Azure
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
 - MS-600T00 Building applications and solutions with Microsoft 365 core services
@@ -100,6 +100,7 @@ ms.prod: non-product-specific
 - PL-600T00 Power Platform Solution Architect
 - SC-200T00 Microsoft Security Operations Analyst
 - SC-300T00 Microsoft Identity and Access Administrator
+- SC-900T00 Microsoft Security, Compliance, and Identity Fundamentals
 - WS-013T00 Azure Stack HCI
 - WS-050T00 Migrating Application Workloads to Azure
 

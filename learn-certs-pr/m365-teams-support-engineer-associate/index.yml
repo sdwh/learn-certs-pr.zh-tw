@@ -2,16 +2,14 @@
 title: 'Microsoft 365 Certified: Teams Support Engineer Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Support Engineer Associate'
-  description: 該考試將在2021年7月8日可用。該考試的報考者是支持工程師，他們支持 Microsoft Teams 環境、解決部署問題、調整性能、收集和分析遙測和日誌資料以及管理 Teams 環境。
+  description: 該考試的報考者是支持工程師，他們支持 Microsoft Teams 環境、解決部署問題、調整性能、收集和分析遙測和日誌資料以及管理 Teams 環境。
 uid: certification.m365-teams-support-engineer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   該考試的報考者是支持工程師，負責支持 Microsoft Teams 環境、解決部署問題、調整性能、收集和分析遙測和日誌資料以及管理 Teams 環境。
   
   報考者應擁有 Microsoft Teams 的大量統一通信和實踐經驗。此外，報考者應具備 Azure 原理、電話學、 PowerShell、資料存儲技術、 APIs、應用程式安全、驗證和授權、安全和合規資訊、除錯、性能調整及管理方面的網路知識。
-  
-  <div><br/><br/><font color='red'><strong>注意：該考試的教學通道將於2021年6月30日可用，且考試將於2021年7月8日可用。</strong></font></div>
-subTitle: 該考試將在2021年7月8日可用。該考試的報考者是支持工程師，他們支持 Microsoft Teams 環境、解決部署問題、調整性能、收集和分析遙測和日誌資料以及管理 Teams 環境。
+subTitle: 該考試的報考者是支持工程師，他們支持 Microsoft Teams 環境、解決部署問題、調整性能、收集和分析遙測和日誌資料以及管理 Teams 環境。
 levels:
 - intermediate
 skills:

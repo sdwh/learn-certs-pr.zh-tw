@@ -33,6 +33,19 @@ products:
 - dynamics-cust-svc-insights
 - dynamics-retail
 - dynamics-sales
+paths:
+- uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.configure-your-organization-in-finance-and-ops
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.configure-analytics-reporting-finance-operations
+- uid: learn-dynamics.get-started-dynamics-365-commerce
+- uid: learn-dynamics.configure-work-omnichannel-prequisites-commerce
+- uid: learn-dynamics.manage-customer-engagement-shopping-experience-commerce
+- uid: learn-dynamics.manage-order-fulfillment-inventory-commerce
+- uid: learn-dynamics.configure-use-pos-commerce
+- uid: learn-dynamics.configure-work-call-centers-commerce
+- uid: learn-dynamics.configure-work-e-commerce
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKp
 exams:
 - uid: exam.mb-300
@@ -44,6 +57,9 @@ resources:
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://aka.ms/TrainingCertDeck
+- title: 認證學習路徑
+  description: 推薦的培訓資源以幫助您準備要求的考試並獲得您的認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWH8MJ
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

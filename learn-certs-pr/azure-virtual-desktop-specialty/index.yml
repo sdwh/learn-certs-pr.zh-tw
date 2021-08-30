@@ -48,6 +48,8 @@ products:
 - azure-monitor
 - azure-advisor
 - windows-virtual-desktop
+paths:
+- uid: learn-m365.windows-virtual-desktop
 courses:
 - uid: course.az-140t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFTM

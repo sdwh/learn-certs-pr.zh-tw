@@ -13,7 +13,9 @@ summary: |-
   
   Azure AI工程師與解決方案架構師合作，轉換他們的願景，並與資料科學家、資料工程師、IoT專家及AI開發人員一起構建完整的端到端AI解決方案。
 
-  該認證的考生應精通C#, Python, 或者JavaScript，並應能使用基於REST的API和SDK在Azure上構建電腦視覺、自然語言處理、知識挖掘以及對話式AI解決方案。他們還應瞭解構成Azure AI組合的那些元件以及可用的資料存儲選項。此外，考生還需瞭解並能應用負責任的AI準則。
+  此考試的報考者應精通 C# 或 Python 且應能夠使用基於 REST 的 APIs 和 SDKs 來構建電腦版本、自然語言處理、知識挖掘及 Azure 上的對話 AI 解決方案。
+  
+  他們也應該理解構成 Azure AI 組合的元件及可用的資料存儲選項。另外，報考者必須理解且能夠應用可靠的 AI 原理。
 subTitle: Azure AI 工程師構建、管理和部署利用 Azure Cognitive Services、Azure Cognitive Search 和 Microsoft Bot 框架的 AI 解決方案。
 levels:
 - intermediate
@@ -48,12 +50,15 @@ products:
 courses:
 - uid: course.ai-102t00
 paths:
-- uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.wwl.prepare-for-ai-engineering 
+- uid: learn.wwl.provision-manage-azure-cognitive-services
+- uid: learn.wwl.process-translate-text-azure-cognitive-services
 - uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
-- uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
-- uid: learn.wwl.process-natural-language-azure-cognitive-language-services
-- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
+- uid: learn.wwl.create-language-understanding-solution
+- uid: learn.wwl.build-qna-solution
 - uid: learn.wwl.create-conversational-ai-solutions
+- uid: learn.wwl.create-computer-vision-solutions-azure-cognitive-services
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf
 exams:
 - uid: exam.ai-102
