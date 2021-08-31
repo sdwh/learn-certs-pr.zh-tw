@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: '更新您的 Microsoft 365 Certified: Teams Administrator Associate'
+metadata:
+  title: '更新您的 Microsoft 365 Certified: Teams Administrator Associate'
+  description: '如果您已擁有此認證且其將在6個月內過期，則您符合更新的條件。'
+uid: renewal.m365-teams-administrator-associate
+certificationUid: certification.m365-teams-administrator-associate
+assessmentId: 86c62802-2f14-48b7-a59d-bdc184d9cca2 
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您已擁有此認證且其將在6個月內過期，則您符合更新的條件。您可以通過更新評估表明您已保持最新的 Microsoft Teams 更新。 您也可以準備以學習模組精選來更新認證。
+skills:
+- 使用適用於 Teams 的 Microsoft Advisor 開展 Teams 
+- 管理 Microsoft Teams
+- 管理安全和合規
+- 部署和管理 Microsoft Teams 設備
+- 導航 Teams 管理中心
+- 管理會議體驗
+- 實施 Microsoft 呼叫計畫
+- 使用自動話務和呼叫佇列管理 Microsoft Teams 中的呼叫
+- 導航 Teams 管理中心
+examsPassed:
+- ms-700
+studyGuideDescription: '使用此精選學習模組説明您準備 Microsoft 365 Certified：Teams Administrator Associate renewal assessment。'
+resources:
+- title: 關於證書更新
+  summary: 了解線上更新證書的過程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

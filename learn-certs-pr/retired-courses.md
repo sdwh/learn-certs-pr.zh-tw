@@ -19,12 +19,12 @@ Microsoft 持續監測行業趨勢並修改認證要求，以跟上技術變化�
 
 ## 已取消的課程：講師指導培訓
 
-* 課件於2021年7月30日撤銷
+* 課件於2021年8月31日撤銷
 
     | 課程編號 | 版本 | 標題 | 語言 | 撤銷日期 |
     | --- | --- | --- | --- | --- |
-    | DP-200T01 | A | Implementing an Azure Data Solution | 英語 | 7/30/2021 |
-    | DP-201T01 | A | Designing an Azure Data Solution | 英語 | 7/30/2021 |
+    | DP-200T01 | A | Implementing an Azure Data Solution | 英語 | 8/31/2021 |
+    | DP-201T01 | A | Designing an Azure Data Solution | 英語 | 8/31/2021 |
 
 * 課件將於2021年6月30日停用
 
@@ -1052,7 +1052,7 @@ Microsoft 持續監測行業趨勢並修改認證要求，以跟上技術變化�
 
 * 課程工具將於 2016 年 4 月 18 日停用
 
-    | 課程編號 | 標題 | 語言 | 停用日期 |
+    | 課程編號 | 版本 | 標題 | 語言 | 停用日期 |
     | --- | --- | --- | --- | --- |
     | 38 | Office 2013 and Office 365 Demonstration Sessions | 日文 | 2016/4/18
     | 37 | Office 2013 and Office 365 Demonstration Sessions | 西班牙文|2016/4/18

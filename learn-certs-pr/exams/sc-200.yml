@@ -6,7 +6,7 @@ metadata:
 uid: exam.sc-200
 displayName: SC-200
 summary: |-
-  <div><font color='red'><strong>該考試內容將在2021年7月23日更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
+  <div><font color="red"><strong>該考試內容已在2021年7月23日更新。請在下方下載技能考量檔以瞭解變更內容。</strong></font><br/><br/></div>
 
   Microsoft安全操作分析師與組織利益相關方協作，為該組織的資訊技術系統提供安全防護。他們的目標是通過快速修復環境中的主動攻擊，對威脅防護實踐的改進提出建議，並將違反組織策略的行為提交給適當的利益相關者，從而降低組織風險。
   
@@ -20,10 +20,18 @@ locales:
 - ja
 - zh-cn
 - ko
+- fr
+- de
+- es
+- pt-br
+- ru
+- ar-sa
+- zh-tw
+- it
 levels:
 - intermediate
 skills:
-- 該考試內容將在2021年7月23日更新。請在下方下載考試技能大綱以查看將要改變的地方。
+- 該考試內容已在2021年7月23日更新。請下載下面的考試技巧大綱，看看有何變化。
 - 使用Microsoft 365 Defender來降低威脅 (25-30%)
 - 使用Azure Defender來降低威脅 (25-30%)
 - 使用Azure Sentinel來降低威脅 (40-45%)

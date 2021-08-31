@@ -19,6 +19,18 @@ providers:
     examUrl: http://www.certiport.com/locator
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- de
+- fr
+- es
+- pt-br
+- ru
+- id-id
+- ar-sa
+- zh-tw
+- it
 levels:
 - beginner
 skills:

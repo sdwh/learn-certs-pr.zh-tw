@@ -23,6 +23,7 @@ practiceTestUrl: https://www.mindhub.com/p/MU-PL-200?utm_source=microsoft&utm_me
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=PL-200&examname=Exam%20PL-200:%20Microsoft%20Power%20Platform%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-200
 locales:
 - en
+- ja
 levels:
 - intermediate
 skills:

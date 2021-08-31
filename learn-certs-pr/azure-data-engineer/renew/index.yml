@@ -13,6 +13,9 @@ summary: |-
 skills:
 - Azure資料工廠的PB級擷取
 - 使用Azure資料工廠大規模執行無代碼轉換
+- 使用 Azure Data Factory 集成資料
+- 使用 Azure Synapse Analytics 設計資料倉庫
+- 使用 PolyBase 將資料導入 Azure Synapse Analytics
 examsPassed:
 - dp-200, dp-201 或 dp-203
 studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft認證做準備：Azure Data Engineer Associate更新評估'

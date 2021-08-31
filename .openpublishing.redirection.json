@@ -39,6 +39,76 @@
             "source_path": "learn-certs-pr/microsoft-certification-program-faqs.md",
             "redirect_url": "/learn/certifications/frequently-asked-questions",
             "redirect_document_id": false		
+		},
+		{
+            "source_path": "learn-certs-pr/courses/20537.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/20778.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40349.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40361.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40364.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40366.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40367.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40368.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40375.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/windows-virtual-desktop-specialty/index.yml",
+            "redirect_url": "/learn/certifications/azure-virtual-desktop-specialty",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/windows-virtual-desktop-specialty/",
+            "redirect_url": "/learn/certifications/azure-virtual-desktop-specialty",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/ai-100t01.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/mb-600t00.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/mb-901t00.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
 		}
       ]
 

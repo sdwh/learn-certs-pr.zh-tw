@@ -12,7 +12,7 @@ skillsGained:
 - skill: 如何給 Microsoft Teams實作管理，安全和合法
 - skill: 如何給 Microsoft Teams的部署準備好一個企業環境
 - skill: 如何部署和管理Teams
-- skill: Microsoft Teams裡的合作管理方法
+- skill: 如何在 Microsoft Teams 中管理協作和溝通體驗
 - skill: Microsoft Teams裡的管理和解決問題的技巧
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -23,104 +23,128 @@ roles:
 - administrator
 products:
 - m365
-- azure-active-directory
-- office-365
 exams:
 - uid: exam.ms-700
 summary: |-
-  Managing Microsoft Teams課程是專門為那些有志成為Microsoft 365 Teams Admin的人設計的。
-  Microsoft Teams 團隊管理員為 Microsoft 團隊設定、部署和管理 Office 365 工作負載，著重於在企業環境中進行高效和有效的共同作業和交流。
-  本課程包括了6個中心元素 - Microsoft Teams概觀，為Microsoft Teams實作管理，安全和合法，為Microsoft Teams的部署準備環境，部署和管理Teams，在Microsoft Teams裡面管理合作和通信。
-  在Microsoft Teams概觀這部分，您將會學到Microsoft Teams的概觀，包括Teams架構和相關的Office 365的工作量。我們將會向您介紹Microsoft Teams的安全和合法的概觀，最後再向您介紹如何去管理Microsoft Teams的概觀。
-  在為Microsoft Teams實作管理，安全和合法這部分，您將為Office 365群組規劃和設定管理，包括到期時間和命名規則。然後您將為Microsoft Teams實作安全，透過設定接收條件，MFA 或者 Threat Management。最後，您將為Teams實作合法，透過使用DLP policies, eDiscovery cases 或者 supervision policies.
-  在為Microsoft Teams的部署準備環境這部分，您規劃將Skype for Business 升級到 Microsoft Teams，透過評估升級路勁，管理會議遷移和設定共存以及升級設定。隨後，您為Microsoft Teams規劃和設定網路設置。最終您將部署和管理Microsoft Teams的終端。
-  在部署和管理Teams這部分，您將學會如何去建立和管理Teams，管理會員關係以及存取內部和外部用戶。
-  在Microsoft Teams管理合作這部分，您將管理聊天和合作經驗，比如Team設置或者私人渠道的建立政策。最後，您將為Teams的運用程式管理設置，比如運用程式設置政策，APP，Microsoft Teams裡的機器人和連接器，或者在Microsoft Teams裡發佈一款定制的APP。
-  此課程包括了在Microsoft Teams裡管理通信。您將學會如何去管理實時活動和會議，管理電話號碼或者Microsoft Teams的Phone System，並最終學活如何處理音頻，視頻以及客戶端的問題。
+  在此課程中，您將學習各種不同的 Teams 管理工具、適用于 Teams 的安全和合規功能、Teams 部署的網路要求以及不同的 Teams 設置和政策以在 Teams 中管理協作和通訊體驗。您將學習 Teams 架構。尤其是您將會學習 Microsoft Teams 和 Microsoft 365 中各種不同工作和服務之間的集成。您將學習 用於的安全和合規性功能，包括條件訪問、Teams、威脅、警報、MFA、DLP 政策、eDiscovery 和資訊壁壘政策。您也將學習為 Microsoft Teams 的部署準備環境包括從 Skype for Business 更新至 Microsoft Teams、網路設置和管理 Microsoft Teams 端點。 最後，您將學習如何創建和管理團隊、管理會員身份包括外部和內部用戶。您將進一步學習不同的設置和政策以管理 Microsoft Teams 中的協作和通訊體驗。
 
-  #### 對象設定檔
-  學習本課程的學生都對Microsoft Teams感興趣或者正在通過Microsoft Teams Administrator Associate的認證測驗。
+  #### 受眾概覽
+
+  此課程的學生對 Microsoft Teams 會通過 Microsoft Teams Administrator Associate 認證考試感興趣。 Microsoft Teams 管理員規劃、部署、配置和管理 Microsoft Teams 以專注於 Microsoft 365 環境中的高效和有效的協作和通訊。 Microsoft Teams 管理員必須能夠規劃、部署、管理團隊、聊天、應用程式、管道、會議、音訊/視訊會議、現場活動、呼叫和 Teams 認證設備。Microsoft Teams 管理員擁有將 Microsoft Teams 與 SharePoint、OneDrive、Exchange、Microsoft 365 Groups 和其他 Microsoft、協力廠商以及自訂應用程式集成的經驗。Microsoft Teams 管理員需理解和協作其他的工作和角色，如網路、語音、身份、訪問、設備、許可、安全、合規、資訊管理和使用者採用。
 prerequisitesSection: |-
   - 對Microsoft 365服務的基本功能經驗有充分的了解。
   - 對普通IT操作，包括使用PowerShell非常瞭解。
 outlineSection: |-
-  ### 模塊 1&#58; Microsoft Teams概觀
-  在Microsoft Teams概觀這部分，您將會學到Microsoft Teams的概觀，包括Teams架構和相關的Office 365的工作量。我們將會向您介紹Microsoft Teams的安全和合法的概觀，最後再向您介紹如何去管理Microsoft Teams的概觀。
+  ### 模組 1: 開始管理 Microsoft Teams
+
+  在此模組中，您將獲得對 Microsoft Teams 的概覽，包括 Teams 架構和相關的 Microsoft 365 工作。 您也將學習 Teams 的管理工具以及如何治理和管理 Teams 生命週期。
+
   #### 課程
-  - Microsoft Teams概觀
-  - Microsoft Teams裡的安全和合法概觀
-  - 關於管理Microsoft Teams的概觀
+
+  *   探索 Microsoft Teams
+
+  *   部署和管理 Microsoft Teams
+
+  *   為 Microsoft Teams 實施治理和生命週期管理
 
 
-  #### 實驗室 &#58; 角色管理和建立Teams
-  - 準備Team的角色和許可證
-  - 建立一個新的Team
+  #### 實驗室：管理 Microsoft Teams
 
+  ####
+  *   準備團隊角色和許可
+  *   探索 Teams 管理工具
+  *   創建組和團隊
+  *   為 Microsoft Teams 實施治理和生命週期管理
 
-  ### 模塊 2&#58; 實作Microsoft Teams管理，安全和合法
-  在為Microsoft Teams實作管理，安全和合法這部分，您將為Office 365群組規劃和設定管理，包括到期時間和命名規則。然後您將為Microsoft Teams實作安全，透過設定接收條件，MFA 或者 Threat Management。最後，您將為Teams實作合法，透過使用DLP policies, eDiscovery cases 或者 supervision policies.
+  ### 模組 2：為 Microsoft Teams 實施安全和合規
+
+  在此模組中，您將學習如何在 Microsoft 365 的不同管理中心管理外部用戶的存取權限，以及什麼樣的安全和合規功能來保護 Teams 環境，包括條件訪問、MFA、Microsoft Teams 的威脅管理、DLP 政策、eDiscovery 案例和通訊合規。
+
   #### 課程
-  - 為Microsoft Teams實作管理和Lifecycle Management
-  - 為Microsoft Teams實作安全
-  - 為Microsoft Teams實作合法
+
+  *   管理外部用戶的存取權限
+
+  *   為 Microsoft Teams 實施安全
+
+  *   為 Microsoft Teams 實施合規
 
 
-  #### 實驗室 &#58; 為Teams和內容設定安全和合法
-  - 為Microsoft Teams實作管理和Lifecycle Management
-  - 為Microsoft Teams實作安全
-  - 為Microsoft Teams實作合法
+  #### 實驗室：為 Microsoft Teams 配置安全和合規
 
+  ####
+  *   為 Microsoft Teams 管理訪客訪問
+  *   為 Microsoft Teams 實施安全
+  *   為 Microsoft Teams 實施合規
 
-  ### 模塊 3&#58; 為部署Microsoft Teams準備環境
-  在為Microsoft Teams的部署準備環境這部分，您規劃將Skype for Business 升級到 Microsoft Teams，透過評估升級路勁，管理會議遷移和設定共存以及升級設定。隨後，您為Microsoft Teams規劃和設定網路設置。最終您將部署和管理Microsoft Teams的終端。
+  ### 模組 3：為 Microsoft Teams 的部署準備環境
+
+  在此模組中，您將學習共存的不同更新路徑和從 Skype for Business 到 Microsoft Teams 轉移的更新方式。您也將學習為 Microsoft Teams 進行規劃和配置網路設置。
+
   #### 課程
-  - 從Skype for Business升級到Microsoft Teams
-  - 為Microsoft Teams規劃和設定網路設置
-  - 部署和管理Microsoft Teams終端
+
+  *   從 Skype for Business 轉至 Microsoft Teams
+
+  *   為 Microsoft Teams 規劃和配置網路設置
 
 
-  #### 實驗室 &#58; 為Teams準備環境
-  - 計算網路性能
-  - 評估設定文件
-  - 提供Team資源
+  #### 實驗室：為 Microsoft Teams 規劃和配置網路設置
 
+  ####
+  *   計算組網能力
+     
+  ### 模組 4: 管理 Microsoft Teams 中的聊天、團隊、頻道和應用程式
 
-  ### 模塊 4&#58; 部署和管理Teams
-  在部署和管理Teams這部分，您將學會如何去建立和管理Teams，管理會員關係以及存取內部和外部用戶。
+  在此模組中，您將學習如何創建和管理不同來源的團隊和會員身份、管理聊天和頻道的協作體驗以及管理 Microsoft Teams 應用程式。
+
   #### 課程
-  - 建立和管理Teams
-  - 管理會員關係
-  - 管理外部用戶的存取
+
+  *   創建和管理團隊
+
+  *   管理聊天和頻道的協作體驗
+
+  *   管理 Microsoft Teams 應用程式
 
 
-  #### 實驗室 &#58; 管理Teams
-  - 管理Team資源
-  - 管理分享和存取
+  #### 實驗室：管理 Teams 的團隊和協作設置
 
+  ####
+  *   管理團隊資源
+  *   配置管道和消息政策
+  *   管理應用程式設置
+  *   測試已配置的政策設置
 
-  ### 模塊 5&#58; 在Microsoft Teams裡管理合作
-  在Microsoft Teams管理合作這部分，您將管理聊天和合作經驗，比如Team設置或者私人渠道的建立政策。最後，您將為Teams的運用程式管理設置，比如運用程式設置政策，APP，Microsoft Teams裡的機器人和連接器，或者在Microsoft Teams裡發佈一款定制的APP。
+  ### 模組 5：管理 Microsoft Teams 中的會議和虛擬活動
+
+  在此模組中，您將學習如何使用不同的政策和設置管理會議和虛擬活動體驗。您也將學習部署 Teams 設備包括 Teams Room。
+
   #### 課程
-  - 管理會話和合作經驗
-  - 管理Team APP的設置
+
+  *   管理會議和虛擬活動體驗
+
+  *   配置和管理 Microsoft Teams 設備
 
 
-  #### 實驗室 &#58; 為Teams修改合作設置
-  - 設定渠道和簡訊政策
-  - 為Team管理APP設置
+  #### 實驗室： 管理 Teams 會議體驗
 
+  ####
+  *   管理會議和虛擬活動體驗
+  *   部署 Teams 設備檔案
 
-  ### 模塊 6&#58; 在Microsoft Teams裡面管理通信
-  此課程包括了在Microsoft Teams裡管理通信。您將學會如何去管理實時活動和會議，管理電話號碼或者Microsoft Teams的Phone System，並最終學活如何處理音頻，視頻以及客戶端的問題。
+  ### 模組 6：管理 Microsoft Teams 中的呼叫
+
+  在此模組中，您將學習如何管理 Microsoft Teams 中電話號碼和電話系統以獲得呼叫體驗，以及解決音訊、視頻和用戶端出現的問題。
+
   #### 課程
-  - 管理實時活動和會議經驗
-  - 管理電話號碼
-  - 為Microsoft Teams管理Phone System
-  - 處理音頻，視頻和客戶端的問題
+
+  *   管理電話號碼
+
+  *   管理 Microsoft Teams 的電話系統
+
+  *   解決音訊、視頻和用戶端出現的問題
 
 
-  #### 實驗室 s&#58; 為Teams修改通信設置
-  設定符合原則
-  - 為Microsoft Teams管理Phone System
-  - 處理音頻，視頻和客戶端的問題
+  #### 實驗室：管理 Microsoft Teams 中的呼叫
 
+  ####
+  *   設置呼叫計畫（可選）
+  *   管理 Microsoft Teams 的電話系統

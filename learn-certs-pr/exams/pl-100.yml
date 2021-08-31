@@ -6,16 +6,12 @@ metadata:
 uid: exam.pl-100
 displayName: PL-100
 summary: |-
-  <div><font color='red'><strong>該考試內容將在2021年7月23日更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
+  <div><font color="red"><strong>該考試內容已在2021年7月23日更新。請在下方下載技能考量檔以瞭解變更內容。</strong></font><br/><br/></div>
 
-  該應用程式製造商為自己和他們的團隊構建了解決方案，以簡化，自動化和轉換任務和流程，他們在解決方案領域擁有豐富的專業知識。他們精通關鍵的技術業務分析師任務，例如資料建模，基本 UX 設計，需求分析，流程分析等。<br/><br/>
-
-  App Maker建立和執行業務流程，構建資訊的數字收集結構，提高可重複任務的效率，並使業務流程自動化。
-
-  App Maker使用Power Platform的Maker工具解決業務問題。他們可能具有 Visual Basic for Applications、Excel 資料透視表、Team 和其他工具的經驗。他們應該對資料模型、用戶介面和流程有基本的了解。App Maker 知道可用工具的功能和局限性，並了解如何應用它們。
-
-  App Maker 是自我指導的，專注於解決方案。他們可能沒有接受過正式的 IT 培訓，但很樂於以個人成長的心態使用技術來解決業務問題。他們了解操作需求，並對期望的結果有願景。他們採用分階段的迭代策略來解決問題。
-subTitle: '本次考試測試您完成以下技術任務的能力：設計解決方案、創建解決方案、分析資料、實施和管理解決方案。'
+  報考者預想和創建解決方案以為他們自己及其團隊簡化和自動化任務及流程。他們理解他們將要處理的資料、他們需要解決的問題以及所需的流程和應用程式經驗。報考者可能沒有正式的 IT 培訓但適應使用技術來解決商業問題。
+  
+  報考者自主且專注於解決方案。他們可以關聯應用程式且使用其功能包括 Microsoft Teams、Microsoft 365 應用程式及服務以及協力廠商解決方案。報考者有理解可用工具功能及限制的意願且理解如何應用它們。報考者主張 Power Platform 解決方案。
+subTitle: '該考試測試了您完成如下技術任務的能力：設計商業解決方案；創建解決方案；以及分析和視覺化資料。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -26,14 +22,14 @@ providers:
   examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=PL-100&provider=psi&examname=Exam%20PL-100:%20Microsoft%20Power%20Platform%20App%20Maker&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-100
 locales:
 - en
+- ja
 levels:
 - intermediate
 skills:
-- 該考試內容將在2021年7月23日更新。請在下方下載考試技能大綱以查看將要改變的地方。
-- 設計解決方案 (10-15%)
-- 創建解決方案 (50-55%)
-- 分析資料 (5-10%)
-- 實施和管理解決方案 (15-20%)
+- 該考試內容已在2021年7月23日更新。請下載下面的考試技巧大綱，看看有何變化。
+- 設計商業解決方案(35-40%)
+- 創建解決方案(45-50%)
+- 分析和視覺化資料(15-20%)
 roles:
 - business-analyst
 - business-owner
@@ -93,7 +89,7 @@ relatedCertifications:
 resources:
 - title: 認證學習途徑
   description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjG
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBF
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://aka.ms/TrainingCertDeck
