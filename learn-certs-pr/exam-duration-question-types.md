@@ -23,7 +23,7 @@ ms.prod: non-product-specific
 | ------------- |:-------------:| -----:|
 | Fundamentals 考試      | 45 分鐘 | 65 分鐘 |
 | 無實驗室的 Associate and expert role-based exams** | 100 分鐘 | 120 分鐘 |
-| 基於副職和專家角色的考試可能會含有實驗室** | 130 分鐘 | 150 分鐘 |
+| 基於副職和專家角色的考試可能會含有實驗室** | 120 分鐘 | 140 分鐘 |
 | 通過學術管道提供的 Microsoft Technology Associate (MTA) 考試 | 45 分鐘 | 50 分鐘|
 | Microsoft Office Specialist (MOS) 考試 | 50 分鐘 | 60 分鐘 |
 

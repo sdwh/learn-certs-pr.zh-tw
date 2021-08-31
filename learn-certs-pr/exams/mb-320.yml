@@ -7,7 +7,7 @@ uid: exam.mb-320
 displayName: MB-320
 summary: |-
   <div>
-  <div> <strong>本次考試的內容更新於2020年10月16日。請下載以下的技能測試文檔以查看已發生的變化。</strong><br/><br/></div>
+  <div> <font color='red'><strong>本次考試的內容更新於2020年10月16日。請下載以下的技能測試文檔以查看已發生的變化。</strong></font><br/><br/></div>
   </div>
 
   本次考試的報考人是分析業務需求並將此類需求翻譯為完全實現的業務流程和實施最佳行業做法的解決方案的功能顧問。報考人作為實施和配置滿足業務需求的應用的關鍵資源。
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考試的內容更新於2020年10月16日。請下載下述考試技巧以查看已發生的變化。
+- 該考試內容已在2020年10月16日更新。請下載下面的技能測試檔以瞭解變更內容。
 - 配置Dynamics 365 Supply Chain Management, Manufacturing (35-40%)
 - 管理製造流程 (20-25%)
 - 實施主生產計畫 (10-15%)

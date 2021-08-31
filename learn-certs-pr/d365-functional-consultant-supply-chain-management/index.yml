@@ -7,29 +7,20 @@ uid: certification.d365-functional-consultant-supply-chain-management
 certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  如果您是一位功能顧問或對供應鏈管理行業標準有著基本瞭解的商業用戶，那麼該認證可能非常適合您。您還需要擁有配置和實施 Dynamics 365 Supply Chain Management 方面的經驗，以滿足您組織的需求。供應鏈管理功能顧問是核心資源，他們與財務、商業及製造領域的開發人員、解決方案架構師、專案經理和功能顧問一起工作。
+  該考試的報考者需分析商業要求並對這些要求轉換到完全實現的實施行業最佳實踐的商業流程和解決方案中。報考者在實施和配置應用程式以滿足商業要求中起到關鍵的資源作用。
   
-  如果您在設法獲得該認證之前需要更多的經驗，這裡有一些建議&#58;
+  該考試的報考者需擁有商業會計學原理和金融操作、客戶服務、現場服務、製造、零售及供應鏈管理概念的基礎理解。他們通常擅長金融和操作應用程式中的一項或更多功能集，包括金融、製造和供應鏈管理。
   
-  - 在 Microsoft Learn 上學習供應鏈管理模組，並完成更多的親身實踐。
-  - 報名參加一個由教師指導的培訓課程，此課程涵蓋 MB-300 或 MB-330 方向。
-  - 加入社區 [community.dynamics.com](https://community.dynamics.com/)，或加入一個用戶組。
-  - 跟隨一位供應鏈管理功能顧問，並協助實施 Dynamics 365 Supply Chain Management 功能。
-  - 找個導師，參觀倉庫，並學習物體是如何製造的。
-  - 向專家和客戶提問並學習。
+  報考者必須擁有供應鏈管理實踐的一些知識，包括採購、貿易、物流、倉儲管理和運輸管理。
 subTitle: 'Dynamics 365 供應鏈管理功能顧問助理負責為客戶簡明化成本核算、庫存管理、整體規劃，以及倉儲管理。'
 levels:
 - intermediate
 skills:
-- 使用通用功能與實作工具
-- 設定安全性、流程與選項
-- 管理Finance and Operations資料
-- 驗證並支援解決方法
 - 實作產品資訊管理
-- 實作庫存管理
+- 實施庫存管理 
 - 實現和管理Supply Chain流程
 - 實施倉庫管理和運輸管理
-- 實施主計畫
+- 實施規劃優化
 roles:
 - functional-consultant
 type: role-based

@@ -2,20 +2,22 @@
 title: 'Microsoft 365 Certified: Teams Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Administrator Associate'
-  description: Microsoft Teams 團隊管理員為 Microsoft 團隊設定、部署和管理 Office 365 工作負載，著重於在企業環境中進行高效和有效的共同作業和交流。
+  description: 該考試的報考者是管理 Microsoft Teams 以在 Microsoft 365 環境中促進高效和有效合作與交流的 Microsoft Teams 管理員。
 uid: certification.m365-teams-administrator-associate
+certificationRenewalUid: renewal.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Teams 團隊管理員為 Microsoft 團隊設定、部署和管理 Office 365 工作負載，著重於在企業環境中進行高效和有效的共同作業和交流。
-
-  Microsoft Teams 管理員必須能夠規劃、部署和管理團隊聊天、應用程式、頻道、會議、音頻會議，現場活動和通話。
-subTitle: Microsoft Teams 團隊管理員為 Microsoft 團隊設定、部署和管理 Office 365 工作負載，著重於在企業環境中進行高效和有效的共同作業和交流。
+  該考試的報考者是管理 Microsoft Teams 以在 Microsoft 365 環境中促進高效和有效合作與交流的 Microsoft Teams 管理員。
+  
+  該考試的報考者必須能夠規劃、部署、配置和保障 Teams 聊天、管道、會議、音訊/視訊會議、現場活動、呼叫和 Microsoft Teams 認證設備。
+subTitle: 該考試的報考者是管理 Microsoft Teams 以在 Microsoft 365 環境中促進高效和有效合作與交流的 Microsoft Teams 管理員。
 levels:
 - intermediate
 skills:
-- 規劃及設定一個 Microsoft Teams 環境
-- 管理聊天、通話和會議
-- 管理 Teams 和應用程式策略
+- 管理和配置 Microsoft Teams 環境
+- 管理聊天、團隊、頻道和應用程式
+- 管理呼叫和會議
+- 監控和解決 Microsoft Teams 環境問題
 roles:
 - administrator
 type: role-based

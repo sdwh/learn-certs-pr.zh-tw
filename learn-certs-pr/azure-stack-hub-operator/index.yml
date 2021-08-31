@@ -15,7 +15,7 @@ summary: |-
   該認證的候選人應具有管理和操作 Azure Stack Hub 環境的豐富經驗。除了一些虛擬化、網路和身份管理方面的知識外，他們還應該對 Azure 有很強的理解。他們需要瞭解 Azure Stack Hub 是如何啟用 DevOps 進程和混合開發模型的。
 subTitle: Azure Stack Hub Operator Associate 認證的候選人是 Azure 管理員或 Azure Stack Hub 操作員，他們使用 Azure Stack Hub 從自己的資料中心向最終使用者或客戶提供 cloud 服務。
 levels:
-- advanced
+- intermediate
 skills:
 - 提供服務
 - 實施資料中心集成 

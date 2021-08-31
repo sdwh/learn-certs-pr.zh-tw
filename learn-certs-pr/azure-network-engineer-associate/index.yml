@@ -13,9 +13,7 @@ summary: |-
   Azure Network Engineer 與解決方案設計師、cloud 管理員、安全工程師、應用程式開發者和 DevOps 工程師協作交付 Azure 解決方案。
   
   該認證的報考者除豐富的網路、混合關聯及網路安全經驗和知識外，還應擁有專家級 Azure 管理技能。
-  
-  <div><font color='red'><br/><strong>該認證將於2021年7月中旬可用。</strong></font></div>
-subTitle: 該認證將在2021年7月可用。Azure Network Engineer Associate 認證的報考者應在規劃、實施和維護 Azure 網路解決方案包括混合網路、關聯、路由、安全和對 Azure 服務的私有訪問方面具有主題內容專家的技能。
+subTitle: Azure Network Engineer Associate 認證的報考者應在規劃、實施和維護 Azure 網路解決方案包括混合網路、關聯、路由、安全和對 Azure 服務的私有訪問方面具有主題內容專家的技能。
 levels:
 - intermediate
 skills:
@@ -47,6 +45,10 @@ products:
 - azure-vpn-gateway
 - azure-web-application-firewall
 - azure-virtual-network
+paths:
+- uid: learn.wwl.designing-implementing-microsoft-azure-networking-solutions-az-700
+courses:
+- uid: course.az-700t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4OV0k
 exams:
 - uid: exam.az-700

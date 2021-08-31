@@ -6,13 +6,13 @@ metadata:
 uid: exam.mb-210
 displayName: MB-210
 summary: |-
-  <div><font color='red'><strong>該考試內容將在2021年7月23日更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
+  <div><font color="red"><strong>該考試內容已在2021年7月23日更新。請在下方下載技能考量檔以瞭解變更內容。</strong></font><br/><br/></div>
   
-  本次測驗的應試者是 Dynamics 365 專業銷售顧問。應試者負責實施支持銷售生命周期的解決方案，以高效和有效地運行，以滿足收入目標、業務戰略和公司目標。
+  該考試報考者為擁有銷售經驗的 Microsoft Dynamics 365 功能顧問。報考者負責實施支持銷售生命週期的解決方案以讓其高效且有效地運行以滿足收益目標、商業策略和公司目標。
   
-  應試者負責配置和擴展領導、聯絡人、客戶、機會和支持實體的核心功能，以映射到公司現有的銷售流程。他們負責識別可用的機會，從而能夠使用 Power Apps 為多台設備開發統一體驗，使用 Power Automate 整合應用程式、商務流程，以及使用其他自動化工具建構支援與加速“走向現金之旅”的應用程式。
-  
-  應試者必須具有較強的商業知識，最好是銷售領域的一個或多個銷售職位的第一人稱經驗。
+  報考者負責配置和擴展線索、連絡人、會計、機會的核心功能以及支援機構在組織中轉繪銷售流程。他們確認機會以使用 Power Apps 來為所有設備開發統一體驗使用 Power Automate 來進行應用程式集成、商業流程和其他自動化工具來構建支援和加速“線索到現金”流程的應用程式。
+
+  報考者必須具備深厚的商務知識且應具備一個或多個銷售角色的一手實踐經驗。
 subTitle: '本次考試測試您完成以下技術任務的能力：實施配置、管理核心銷售表格、配置其他工具和服務。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
@@ -20,10 +20,11 @@ practiceTestUrl: https://www.mindhub.com/mb-210-microsoft-dynamics-365-sales-mic
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-210&examname=Exam%20MB-210:%20Microsoft%20Dynamics%20365%20for%20Sales&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 locales:
 - en
+- ja
 levels:
 - intermediate
 skills:
-- 該考試內容將在2021年7月23日更新。請在下方下載考試技能大綱以查看將要改變的地方。
+- 該考試內容已在2021年7月23日更新。請下載下面的考試技巧大綱，看看有何變化。
 - 執行配置 (25-30%)
 - 管理核心銷售實體 (50-55%)
 - 設定其他工具和服務 (15-20%)

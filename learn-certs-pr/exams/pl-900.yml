@@ -24,6 +24,11 @@ locales:
 - fr
 - ko
 - ja
+- pt-br
+- ru
+- ar-sa
+- zh-tw
+- it
 providers:
 - providerType: pearson-vue
   examUrl: 'https://examregistration.microsoft.com/?locale=zh-tw&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'

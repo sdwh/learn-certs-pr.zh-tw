@@ -30,10 +30,6 @@ roles:
 - ai-engineer
 products:
 - azure
-- azure-cognitive-services
-- azure-bot-service
-- azure-machine-learning-studio
-- azure-search
 exams:
 - uid: exam.ai-100
 summary: |-
@@ -166,13 +162,15 @@ outlineSection: |-
   - 分析圖像
   - 分析視頻
   
-  #### 實驗室&#58; 用電腦視覺分析圖像
-  
-  #### 實驗室&#58; 用視頻索引子分析視頻
+  #### 實驗室：分析視頻
+
+  ####
+
+  #### 實驗室：使用電腦視覺技術分析圖像
   
   完成此模組後，學生們將能夠&#58;
   - 使用電腦視覺服務來分析圖像
-  - 使用視頻索引子來分析視頻
+  - 使用視頻分析器分析視頻
   
   
   ### 模組 9&#58; 開發定制的視覺解決方案

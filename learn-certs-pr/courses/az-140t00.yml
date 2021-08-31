@@ -47,7 +47,7 @@ products:
 - office-teams
 - azure-monitor
 - azure-advisor
-- windows-virtual-desktop
+- azure-virtual-desktop
 exams:
 - uid: exam.az-140
 summary: |-
