@@ -7,8 +7,6 @@ uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>DP-203 考試</a> 將替換 DP-200 和 DP-201 考試。DP-200 和 DP-201 將於2021年8月31日撤銷。</strong></font><br/><br/></div>
-  
   Azure Data Engineer Associate認證的考生應具備專業技能，這些技能可將各種結構化及非結構化資料系統中的資料集成、轉換並整合為適於構建分析解決方案的結構。
   
   該角色的職責包括幫助利益相關者借助探索瞭解資料，並通過使用不同的工具和技術，構建和維護安全及合規的資料處理管道。該專業人士使用各種Azure資料服務和語言來存儲和生成用於分析的經過清理和增強的資料集。
@@ -16,11 +14,6 @@ summary: |-
   鑒於一組特定的業務需求和約束，“Azure資料工程師”還可説明確保資料管道及資料存儲是高性能、高效、有組織和可靠的。該專業人士可快速處理未預料到的問題，並最大限度地減少資料丟失。“Azure資料工程師”還可設計、實施、監控並優化資料平臺，以滿足資料管道的需求。
   
   該認證的考生必須具備扎實的資料處理語言知識，如SQL, Python, 或Scala, 而且需要瞭解並行處理及資料體系結構模式。
-  
-  <div><br/><strong>如果您完成以下選項之一，您將會獲得該證書&#58;</strong><br/>
-  <ul>
-  <li>通過<a href="/learn/certifications/exams/dp-200">Dp-200</a> 和 <a href="/learn/certifications/exams/dp-201">DP-201</a> （將於2021年8月31日撤銷） <strong>或</strong></li>
-  <li>通過 <a href="/learn/certifications/exams/dp-203">DP-203</a> （測試版於2021年2月23日發佈）</li></ul></div>
 subTitle: Azure 資料工程師將來自各種結構化和非結構化資料系統的資料集成、轉換和整合到適合構建分析解決方案的結構中。
 levels:
 - intermediate

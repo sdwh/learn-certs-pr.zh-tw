@@ -2,20 +2,21 @@
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
   title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
-  description: 參加本次考試的考生應該是在 SAP 系統環境和行業標準方面具有豐富經驗和知識的建築師或工程師，這些標準是針對 Microsoft Azure 上 SAP 解決方案的初始遷移或集成以及長期運行而制定的。
+  description: Azure for SAP Workloads 的設計師或工程師與 cloud 管理員、cloud 資料庫管理員及客戶合作以實施解決方案。
 uid: certification.azure-for-sap-workloads-specialty
+certificationRenewalUid: renewal.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  參加本次考試的考生應該是在 SAP 系統環境和行業標準方面具有豐富經驗和知識的建築師或工程師，這些標準是針對 Microsoft Azure 上 SAP 解決方案的初始遷移或集成以及長期運行而制定的。
+  該認證的報考者應為設計師或工程師，具備 SAP 系統規劃和針對重要資料移轉或集成以及在 Microsoft Azure上長期運營 SAP 解決方案的豐富經驗和深厚知識。
   
   Azure for SAP 工作負載的架構師或工程師的職責包括就服務提出建議，並根據最佳彈性、性能、規模、供應、大小和監控適當調整資源。
   
   Azure for SAP 工作負載的架構師或工程師與 cloud 管理員、cloud 資料庫管理員和客戶合作實施解決方案。
   
-  參加本次考試的考生應具有 SAP 應用程式方面的豐富經驗和知識：SAP HANA、S/4HANA、SAP NetWeaver、SAP BW/4HANA、SAP 應用程式和資料庫的 OS 伺服器、Azure 門戶、Azure Marketplace、Azure Resource Manager （ARM 範本）、虛擬化、cloud 基礎設施、存儲結構、高可用性設計、災難恢復設計、資料保護概念和聯網。
+  該認證的報考者應具備 SAP 應用的豐富經驗和深厚知識：SAP HANA、S/4HANA、SAP NetWeaver、SAP BW/4HANA、SAP 應用和資料庫的 OS 伺服器、Azure portal、Azure 市場、 Azure Resource Manager templates (ARM 模版)、虛擬化, cloud 基礎設施、存儲結構、 高可用性設計、災難恢復、資料保護概念和網路。
   
-  對於本次考試，我們強烈建議除 SAP 認證外，您還應獲得 Azure Administrator Associate 或 Azure Solutions Architect Expert 認證。
-subTitle: 參加本次考試的考生應該是在 SAP 系統環境和行業標準方面具有豐富經驗和知識的建築師或工程師，這些標準是針對 Microsoft Azure 上 SAP 解決方案的初始遷移或集成以及長期運行而制定的。
+  對於 AZ-120 測試，我們強烈建議您除 SAP 認證之外擁有 Azure Administrator Associate 或 Azure Solutions Architect Expert 認證。
+subTitle: Azure for SAP Workloads 的設計師或工程師與 cloud 管理員、cloud 資料庫管理員及客戶合作以實施解決方案。
 levels:
 - advanced
 skills:

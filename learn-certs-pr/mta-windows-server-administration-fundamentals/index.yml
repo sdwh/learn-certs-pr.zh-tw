@@ -13,12 +13,18 @@ subTitle: '如果您想進入技術領域，MTA認證是一個很好的開始。
 levels:
 - beginner
 skills:
-- 無
+- 瞭解伺服器安裝
+- 瞭解伺服器角色 
+- 瞭解 Active Directory 
+- 瞭解儲存區
+- 瞭解伺服器效能管理
+- 瞭解伺服器維護 
 roles:
 - administrator
 type: mta
 products:
 - windows
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIw9X
 exams:
 - uid: exam.98-365
 resources:

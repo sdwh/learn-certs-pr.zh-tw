@@ -13,12 +13,17 @@ subTitle: '如果您想進入技術領域，MTA認證是一個很好的開始。
 levels:
 - beginner
 skills:
-- 無
+- 理解 HTML 基礎 
+- 理解 CSS 基礎 
+- 使用 HTML 建構文件 
+- 展示使用 HTML 的多媒體
+- 使用 CSS 的樣式網頁頁面
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIolW
 exams:
 - uid: exam.98-383
 resources:

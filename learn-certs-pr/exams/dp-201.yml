@@ -7,7 +7,7 @@ uid: exam.dp-201
 displayName: DP-201
 summary: |-
   <div>
-  <div><font color='red'><strong>該考試的新版本，<a href='/learn/certifications/exams/dp-203'>DP-203</a>，現已可用。您將能夠在2021年8月31日該考試撤銷前參加。注意：該考試將於中央標準時間下午11:59撤銷。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>該考試將在2021年8月31日撤銷。替代考試 DP-203 可用。要獲得更多資訊，請訪問 <a href='/learn/certifications/exams/dp-203'>DP-203</a>考試詳情頁面。</strong></font><br/><br/></div>
   <div><strong>該測驗的內容更新于 2020 年 7月 31日.請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
   </div>
   
@@ -20,7 +20,6 @@ subTitle: '此測驗測量您完成以下技術任務的能力：設計 Azure �
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
 practiceTestUrl: https://www.mindhub.com/p/MU-DP-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DP-201&examname=Exam%20DP-201:%20Designing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-201
 locales:
 - en
 - ja
@@ -60,9 +59,6 @@ paths:
 - uid: learn.data-ai.implement-data-streaming-with-asa
 - uid: learn.data-ai.implement-sql-data-warehouse
 - uid: learn.wwl.data-engineer-azure-databricks
-relatedCertifications:
-- related:
-    uid: certification.azure-data-engineer
 resources:
 - title: 認證之旅
   description: 探索獲得 Azure Data Engineer Associate 資格的步驟以及可用來幫助您進行準備的資源。

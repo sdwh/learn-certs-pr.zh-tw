@@ -1,0 +1,28 @@
+### YamlMime:CertificationRenewal
+title: '更新您的 Microsoft Certified: Azure for SAP Workloads Specialty'
+metadata:
+  title: '更新您的 Microsoft Certified: Azure for SAP Workloads Specialty'
+  description: '如果您已擁有此認證且其將在6個月內過期，則您符合更新的條件。'
+uid: renewal.azure-for-sap-workloads-specialty
+certificationUid: certification.azure-for-sap-workloads-specialty
+assessmentId: 42630d0d-7b19-4782-8052-99fe7e540f08
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  如果您已擁有此認證且其將在6個月內過期，則您符合更新的條件。您可以通過更新評估表明您已保持最新的 Azure for SAP 更新。 您也可以準備以學習模組精選來更新認證。
+skills:
+- 在 Azure 上規劃實施 SAP 解決方案
+- 在 Azure 上將 Power Platform 連接至 SAP
+- 實施基於 Azure VM 的 SAP 解決方案
+- 將 SAP workloads 遷移至 Azure
+- Azure 計算、網路和存儲上的 SAP HANA
+- 以 Azure for SAP workloads 的方式使用 IAAS 支援
+- 維護 Azure for SAP workloads
+- 在 Azure Vms 上為 SAP workloads 實施 Azure 監測
+examsPassed:
+- az-120
+studyGuideDescription: '使用此精選學習模組説明您準備 Microsoft 認證：Azure for SAP Workloads Specialty 更新評估。'
+resources:
+- title: 關於證書更新
+  summary: 了解線上更新證書的過程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

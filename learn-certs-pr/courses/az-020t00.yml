@@ -10,6 +10,9 @@ iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - intermediate
 roles:

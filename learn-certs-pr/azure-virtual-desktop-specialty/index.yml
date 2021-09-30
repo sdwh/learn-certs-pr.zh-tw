@@ -47,7 +47,7 @@ products:
 - office-teams
 - azure-monitor
 - azure-advisor
-- windows-virtual-desktop
+- azure-virtual-desktop
 paths:
 - uid: learn-m365.windows-virtual-desktop
 courses:

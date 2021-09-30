@@ -2,15 +2,15 @@
 title: 'Microsoft 365 Certified: Teams Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Administrator Associate'
-  description: 該考試的報考者是管理 Microsoft Teams 以在 Microsoft 365 環境中促進高效和有效合作與交流的 Microsoft Teams 管理員。
+  description: Microsoft Teams 管理員管理 Microsoft Teams 以在 Microsoft 365 環境中促進高效和有效合作與交流。
 uid: certification.m365-teams-administrator-associate
 certificationRenewalUid: renewal.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  該考試的報考者是管理 Microsoft Teams 以在 Microsoft 365 環境中促進高效和有效合作與交流的 Microsoft Teams 管理員。
+  該認證的報考者是管理 Microsoft Teams 以在 Microsoft 365 環境中促進高效和有效合作與交流的 Microsoft Teams 管理員。
   
-  該考試的報考者必須能夠規劃、部署、配置和保障 Teams 聊天、管道、會議、音訊/視訊會議、現場活動、呼叫和 Microsoft Teams 認證設備。
-subTitle: 該考試的報考者是管理 Microsoft Teams 以在 Microsoft 365 環境中促進高效和有效合作與交流的 Microsoft Teams 管理員。
+  該認證的報考者必須能夠規劃、部署、配置和保障 Teams 聊天、管道、會議、音訊/視訊會議、現場活動、呼叫和 Microsoft Teams 認證設備。
+subTitle: Microsoft Teams 管理員管理 Microsoft Teams 以在 Microsoft 365 環境中促進高效和有效合作與交流。
 levels:
 - intermediate
 skills:
@@ -27,8 +27,10 @@ products:
 courses:
 - uid: course.ms-700t00
 paths:
-- uid: learn-m365.m365-manage-team-collaboration
-- uid: learn-m365.m365-teams-upgrade
+- uid: learn.wwl.get-started-managing-microsoft-teams
+- uid: learn.wwl.prepare-environment-for-microsoft-teams-deployment
+- uid: learn.wwl.manage-chat-teams-channels-apps-microsoft-teams
+- uid: learn.wwl.manage-meetings-calling-microsoft-teams
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnv
 exams:
 - uid: exam.ms-700

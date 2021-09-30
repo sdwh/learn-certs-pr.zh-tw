@@ -13,12 +13,17 @@ subTitle: '如果您想進入技術領域，MTA認證是一個很好的開始。
 levels:
 - beginner
 skills:
-- 無
+- 帶有 JavaScript 運算子、方法和關鍵字的程式 
+- 使用變數、資料類型和函式設計程式 
+- 實作並分析決策和迴圈
+- 與文件物件模型互動 
+- 與 HTML 表單互動
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLz
 exams:
 - uid: exam.98-382
 resources:

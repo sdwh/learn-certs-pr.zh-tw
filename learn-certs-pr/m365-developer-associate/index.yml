@@ -4,6 +4,7 @@ metadata:
   title: 'Microsoft 365 Certified: Developer Associate'
   description: Microsoft 365 開發人員針對使用 Microsoft 365 平台的組織的生產力和協作需求，對其設計、構建、測試和維護應用程式和解決方法進行最佳化。
 uid: certification.m365-developer-associate
+certificationRenewalUid: renewal.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   Microsoft 365 開發人員針對使用 Microsoft 365 平台的組織的生產力和協作需求，對其設計、構建、測試和維護應用程式和解決方法進行最佳化。

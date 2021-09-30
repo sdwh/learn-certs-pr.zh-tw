@@ -7,15 +7,19 @@ uid: certification.d365-functional-consultant-supply-chain-management
 certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  該考試的報考者需分析商業要求並對這些要求轉換到完全實現的實施行業最佳實踐的商業流程和解決方案中。報考者在實施和配置應用程式以滿足商業要求中起到關鍵的資源作用。
+  該認證的報考者需分析商業要求並對這些要求轉換到完全實現的實施行業最佳實踐的商業流程和解決方案中。報考者在實施和配置應用程式以滿足商業要求中起到關鍵的資源作用。
   
-  該考試的報考者需擁有商業會計學原理和金融操作、客戶服務、現場服務、製造、零售及供應鏈管理概念的基礎理解。他們通常擅長金融和操作應用程式中的一項或更多功能集，包括金融、製造和供應鏈管理。
-  
+  該認證的報考者需擁有商業會計學原理和金融操作、客戶服務、現場服務、製造、零售及供應鏈管理概念的基礎理解。他們通常擅長金融和操作應用程式中的一項或更多功能集，包括金融、製造和供應鏈管理。
+
   報考者必須擁有供應鏈管理實踐的一些知識，包括採購、貿易、物流、倉儲管理和運輸管理。
 subTitle: 'Dynamics 365 供應鏈管理功能顧問助理負責為客戶簡明化成本核算、庫存管理、整體規劃，以及倉儲管理。'
 levels:
 - intermediate
 skills:
+- 使用 Microsoft Power Platform 技術描述金融和運營應用程式以及擴展應用程式。 
+- 配置管理功能和工作流 
+- 管理金融和運營資料
+- 驗證和支援解決方案
 - 實作產品資訊管理
 - 實施庫存管理 
 - 實現和管理Supply Chain流程

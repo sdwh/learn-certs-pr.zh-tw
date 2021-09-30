@@ -13,7 +13,12 @@ subTitle: 該認證將示範您在同時使用 Power BI 和 Excel 進行資料�
 levels:
 - intermediate
 skills:
-- none
+- 使用 Power BI Desktop 使用和轉化資料
+- 建模及視覺化資料
+- 在 Power BI 服務中設定儀表板，報告和應用程式 
+- 用 Microsoft Excel 使用和轉換資料 
+- 建模資料
+- 視覺化資料 
 roles:
 - data-analyst
 type: mcsa
@@ -22,6 +27,7 @@ products:
 courses:
 - uid: course.20778
 - uid: course.20779
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIwaM
 exams:
 - uid: exam.70-778
 - uid: exam.70-779
