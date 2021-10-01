@@ -20,10 +20,10 @@ subTitle: 處理 Microsoft Dynamics 365 中財務與營運應用程式的開發�
 levels:
 - intermediate
 skills:
-- 使用通用功能與實作工具
-- 設定安全性、流程與選項
-- 管理Finance and Operations資料
-- 驗證並支援解決方法
+- 使用 Microsoft Power Platform 技術描述金融和運營應用程式以及擴展應用程式。 
+- 配置管理功能和工作流 
+- 管理金融和運營資料
+- 驗證和支援解決方案
 - 規劃基礎架構和解決方案設計
 - 應用開發人員工具
 - 設計與開發 AOT 元素

@@ -14,9 +14,10 @@ skills:
 - 使用Windows Autopilot自動化Windows部署
 - 使用Microsoft Endpoint Manager簡化設備管理
 - 使用Windows 10完成更多工作並保持安全
-- 使用Microsoft 365遷移到現代個人電腦
+- 在 cloud 中管理 Windows 更新
+- 使用 Microsoft Endpoint Manager 理解設備管理
 - 使用System Center Configuration Manager透過共同管理來管理Windows 10
-- 使用Microsoft Endpoint Manager簡化設備管理
+- 使用 Microsoft Endpoint Manager 理解有條件的訪問政策
 - 部署，升級和遷移到Windows 10
 - 使用Microsoft Intune管理應用程式
 examsPassed:

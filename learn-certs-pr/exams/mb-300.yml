@@ -6,14 +6,17 @@ metadata:
 uid: exam.mb-300
 displayName: MB-300
 summary: |-
-  <div><font color='red'><strong>該考試內容將在2021年8月09日更新。請下載如下的技能測試檔來查看將要改變的部分。</strong></font><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>該考試內容已在2021年8月9日更新。請下載如下的技能測試檔以瞭解變更內容。</strong></font><br/><br/></div>
+  </div>
   
-  本次考試的報考人將分析業務需求並將此類需求翻譯為完全實現的業務流程和實施最佳行業做法的解決方案。報考人作為實施和配置滿足業務需求的應用的關鍵資源。
-  
-  報考人瞭解Finance and Operations應用的常見特徵和能力，並知道其配置和使用方法。他們還應知道Finance and Operations應用與Power Platform等外部系統和工具集成的方式。報考人使用Lifecycle Services (LCS)和其他Microsoft工具和平臺來主動管理應用生命週期。
-  
-  本次考試的報考人通常專攻Finance and Operations應用的一個或多個特徵集，包括財務、製造和供應鏈管理。
-subTitle: '本次考試將衡量您完成以下技術任務的能力：使用常見的功能和實現工具；配置安全性、流程和選項；管理Finance and Operation資料；確認和支持解決方案。'
+  顧問（功能和技術型）收集和分析商業要求並將這些要求轉化為完全可實現的商業流程及實施行業推薦實務的解決方案。他們在實施和配置應用程式以滿足商業要求中是重要的資源。
+  <br/>
+
+  顧問應能夠實施 Dynamics 365 Finance and Operations 應用程式的核心元件和功能。他們也應知曉 Dynamics 365 Finance and Operations 應用程式如何與包括 Power Platform 在內的外部系統和工具集成。顧問使用 Lifecycle Services (LCS)、Azure DevOps 及其他 Microsoft 工具和平臺來簡化應用程式生命週期管理（ALM）流程。
+
+  顧問通過閱讀產品版本說明、流覽產品路線圖、參加會議來進行繼續教育，或通過使用 Microsoft Learn、Microsoft Docs、引導式培訓、博客和用戶社區繼續學習。他們也應進行基於崗位的認證和評估以確保他們的知識得以驗證。
+subTitle: '該考試考核了您完成如下技術任務的能力：通過使用 Microsoft Power Platform 技術描述金融和運營應用程式即擴展程式；配置管理功能和工作流；管理資料 Finance and Operation 以及驗證和支援解決方案。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -24,11 +27,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 該考試內容將在2021年8月09日更新。請在下方下載考試技能大綱以查看將要改變的地方。
-- 使用常見的功能和實現工具（15-20%）
-- 配置安全性、流程和選項 (30-35%)
-- 管理Finance and Operations資料（25-30%）
-- 驗證並支援解決方法 (15-20%)
+- 該考試內容已在2021年8月9日更新。請下載下面的考試技巧大綱，看看有何變化。
+- 使用 Microsoft Power Platform 技術描述金融和運營應用程式以及擴展應用程式(20–25%)
+- 配置管理功能和工作流 (30–35%)
+- 管理金融和運營資料(25-30%)
+- 驗證和支持解決方案(20-25%)
 roles:
 - functional-consultant
 products:

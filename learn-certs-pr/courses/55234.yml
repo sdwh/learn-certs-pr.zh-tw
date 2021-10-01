@@ -1,0 +1,330 @@
+### YamlMime:Course
+title: SharePoint 2016 Site Collections and Site Owner Administration
+metadata:
+  title: 'Course 55234-A: SharePoint 2016 Site Collections and Site Owner Administration'
+  description: 'Course 55234-A: SharePoint 2016 Site Collections and Site Owner Administration'
+uid: course.55234
+courseNumber: '55234-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用 SharePoint 2016 目標設計並實施公司介面結構包括網站、庫、清單和頁面
+- skill: 解釋 SharePoint 2016 中的安全和許可權角色
+- skill: 在 SharePoint 2016 中實施創建公司介面的一致性指南以輔助每日的內容管理
+- skill: 使用 SharePoint 2016 頁面和 web parts 改善公司介面的設計和內容
+- skill: 解釋規劃和管理公司未來成長治理的重要性 SharePoint 2016 實施
+- skill: 確認從其他系統集成資料的選項，如 Microsoft Office 以及保存現有資料
+- skill: 解釋 SharePoint 2016 中社交網路的作用及其對協作的影響
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  該為期五天的引導式課程旨在強化在 SharePoint 2016 環境中從事工作任務以及執行網站集合和網站管理的使用者和 IT 專業人士。該課程將提供在 Office 365 (SharePoint Online) 或混合部署（連接至 Office 365 的本地部署）環境中，使用 SharePoint 2016 部署的本地部署，從事 SharePoint 網站集合和網站管理所需重要且常用技能方面更加深入、專業化的培訓。
+  
+  該課程旨在補充學生在其他 Microsoft 課程中所學習的技能, 重點聚焦於整體的 SharePoint 2016 伺服器管理和部署以及整體的 Office 365 管理&#58;
+  - MOC 20339-1, Planning and Administering SharePoint 2016 
+  - MOC 20339-2, Advanced Technologies of SharePoint 2016 
+  - MOC 20347, Enabling and Managing Office 365
+
+  #### 受眾概覽
+  該課程旨在針對提供網站集和網站管理的從業人員，以及在 SharePoint 2016 環境本地部署和/或在 Office 365 中從事支持和其他任務的用戶或 IT 專業人士。
+prerequisitesSection: |-
+  參加此課程之前，學生必須擁有&#58;
+  - Windows 用戶端作業系統 - 或 Windows XP、Windows 7、Windows 8 或 Windows 10
+  - Microsoft Office 2007、Office 2010、Office 2013 或 Office 2016
+  - Microsoft Internet Explorer 7 或更高或類似的 web 流覽器
+  - 建議學生已熟悉 SharePoint 的之前版本，雖然這不是要求的先決條件。
+outlineSection: |-
+  ### 模組 1&#58; 開始使用 SharePoint 2016
+  該模組解釋了網站集和網站管理員如何討論基本術語以及如何在 SharePoint 2016 中進行導航。當上述管理員可以解釋基本術語以及知道如何在 SharePoint 中導航後，他們將具備該課程剩餘部分的深厚基礎。
+  #### 課程
+  - 探索 SharePoint 2016 Site Collection 和 Site Administrator Roles
+  - 定義 SharePoint 術語
+  - 在 SharePoint Site 導航
+  - 功能區的互動
+  - 創建和編輯基礎內容
+  - 中繼資料是什麼？
+  - SharePoint 版本
+  - 標準版
+  - 企業版
+  - O365
+
+  完成此模組後，學生將能夠&#58;
+  - 討論基本術語
+  - 在 SharePoint 2016 中導航
+
+
+  ### 模組 2&#58; 使用應用程式創建網站集
+  該模組解釋了對於網站集管理員來說，如何創建網站、檔庫和列表以及管理導航。完成公司埠規劃後，第一個重要的事件是執行和創建網站結構。網站結構包括存儲和展現資訊的元件即網站、清單和庫以及應用程式，這些在 SharePoint 2016 中都是新的。網站結構提供了整個門戶網站的構架。
+  #### 課程
+  - SharePoint 的結構
+  - 創建網站
+  - 網站模版附帶什麼？
+  - 定義 SharePoint 應用程式
+  - 自訂清單和庫
+  - 通過 SharePoint Designer 創建/管理列表和庫
+  - 解釋列表和庫中的視圖
+  - 在列表和庫中創建視圖
+  - 編輯導航
+  - 打開/關閉網站功能
+  - 使用網站內容和結構功能重新組織網站
+
+
+  #### 實驗室&#58; 創建結構化的公司門戶網站
+  - 創建多個網站作為正式網站結構的一部分
+  - 為檔和列表創建新的應用
+  - 在庫或列表上啟用版本控制和內容審批設置
+  - 在庫或清單上自訂視圖
+  - 配置導航以隱藏清單和庫
+
+
+  #### 實驗室 &#58; 使用 SharePoint Designer (可選)創建清單
+  完成此模組後，學生將能夠&#58;
+  - 創建網站
+  - 文件庫和列表
+  - 管理導航
+  
+  ### 模組 3&#58; 在全站創建一致性
+  該模組解釋了網站集管理員如何更加高效地管理他們的網站集以及在全站維護一致性。設置 SharePoint 網站集時，常常涉及重複特定數量的任務。網站集管理員可以通過使用所提供的工具在中心位置創建可重複使用的物件減少複製工作。
+  #### 課程
+  - 定義網站欄
+  - 定義內容類別型
+  - 實施分類系統
+  - 使用模版創建一致性
+
+
+  #### 實驗室&#58; 創建網站欄和內容類別型
+  - 設計和實施內容類別型
+  - 創建新網站欄
+  - 創建庫或列表模版（可選）
+
+
+  #### 實驗室&#58; 實施分類系統
+  - 設計和創建分類系統
+  - 添加託管中繼資料欄
+
+
+  #### 實驗室&#58; 配置內容管理器
+  - 在每個資料夾基礎上自訂默認列值
+  - 為自動化的檔路由規定和配置內容管理器
+
+  完成此模組後，學生將能夠&#58;
+  - 更高效地管理他們的網站集
+  - 在全站維護一致性
+
+
+  ### 模組 4&#58; SharePoint 許可權
+  該模組解釋了網站集中許可權是如何運行的，以及 SharePoint 2016 的工具是如何被用來管理和維護它們的。SharePoint 2016 網站集管理員和網站管理員能夠在 SharePoint 2016 中創建和管理許可權是至關重要的。
+  #### 課程
+  - 解釋 SharePoint 中的許可權和安全
+  - 創建 SharePoint 群組
+  - 在 SharePoint 中管理許可權
+  - 分享與傳統安全對比
+  - 以不同的許可權級別分享
+
+
+  #### 實驗室&#58; 在 SharePoint 中管理許可權
+  - 查看 SharePoint 物件中的許可權
+  - 向 SharePoint 物件添加使用者和群組
+  - 創建擁有自訂許可權的新 SharePoint 管理員
+  - 停止 SharePoint 物件之間的許可權繼承
+
+  完成此模組後，學生將能夠&#58;
+  - 知道網站集中許可權的運行
+  - 知道 SharePoint 2016 中的工具是如何被用來管理以及如何維護它們
+  
+  ### 模組 5&#58; 使用頁面和 Web Parts
+  該模組解釋了如何使用 SharePoint 2016 中即可使用的網頁部件和主題設計公司門戶網站。
+  #### 課程
+  - 修改門戶網站外觀
+  - 編輯頁面
+  - wiki
+  - web part
+  - 使用 Web Parts 應用部件
+  - 應用部件
+  - 內容搜索 Web Part
+  - 相關檔
+  - 內容查詢
+  - 目錄
+  - 圖片
+  - Web Part 連接
+  - 過濾 web parts
+  - 擁有特定受眾的 Web parts
+
+
+  #### 實驗室&#58; 添加和配置 Web Parts
+  - 創建用於發佈的自訂內容類別型
+  - 創建列表模版
+  - 創建託管屬性
+  - 使用內容搜索 Web Part
+
+
+  #### 實驗室&#58; 連接 Web Parts
+  - 在頁面上放置 web parts
+  - 在頁面上連接 web parts 以在它們之間傳輸值
+
+
+  #### 實驗室&#58; 為您的公司門戶網站應用主題
+  - 為您的公司門戶網站自訂並應用主題
+  - 為您的網站添加標示
+
+  完成此模組後，學生將能夠&#58;
+  - 使用即可使用的 web parts 和主題設計公司門戶網站
+
+
+  ### 模組 6&#58; 檔和記錄管理
+  此模組解釋了如何利用 SharePoint 2016 中所包含的文件管理工具。無論是小型公司還是大型企業，該模組探索了任何類型的企業如何利用 SharePoint 來進行版本控制、合規、路由以及 eDiscovery。
+  #### 課程
+  - 基本內容審批
+  - 版本控制
+  - 檢入/檢出
+  - 保存
+  - 保留政策
+  - 檔 ID
+  - 內容管理器
+  - 合規政策中心網站模版
+  - EDiscovery
+  - 記錄中心
+
+
+  #### 實驗室&#58; 使用高級的文件管理功能
+
+  #### 實驗室&#58; 利用記錄管理來保存檔
+  - 配置記錄中心以為要求保存的檔提供空間
+  - 在庫中配置就地記錄
+  - 設置和利用 eDiscovery 中心
+
+  完成此模組後，學生將能夠&#58;
+  - 利用 SharePoint 2016 中包含的文件管理工具
+  
+  ### 模組 7&#58; 工作流
+  該模組解釋了如何在自動化組織內的業務流程。通過使用工作流在 SharePoint 2016 中發起、跟蹤和確定活動的實現是可能的。無論使用預先配置的即時可用的工作流功能或通過 SharePoint Designer 創建自訂工作流，組織都可以受益于遷移現有電子郵件、檔或正式流程到 SharePoint。
+  #### 課程
+  - 通知
+  - 即時可用的工作流
+  - 啟動工作流功能
+  - 審批流程
+  - 在 SharePoint Designer 中創建工作流
+
+
+  #### 實驗室&#58; 從 SharePoint 創建審批工作流
+
+  #### 實驗室&#58; 在 SharePoint Designer (可選)中創建自訂工作流
+  完成此模組後，學生將能夠&#58;
+  - 自動化組織內的業務工作流程
+  - 通過使用工作流在 SharePoint 2016 中發起、跟蹤和確定活動
+
+
+  ### 模組 8&#58; Office 集成
+  該模組解釋了如何將 SharePoint 2016 連接至 Microsoft Office 2016。有很多方法可應用于集成，如將 SharePoint 2016 文件庫關聯至 Microsoft Outlook、將 Access 資料庫或 Excel 工作錶鏈接至 SharePoint 2016，或使用 Microsoft InfoPath 創建 SharePoint 2016 列表。大量集成 Microsoft Office 2016 是使用 SharePoint 2016 的主要好處之一。
+  #### 課程
+  - Outlook
+  - 日曆
+  - 連絡人
+  - Excel
+  - Word
+  - PowerPoint
+  - OneDrive for Business
+  - OneNote
+  - Access
+
+
+  #### 實驗室&#58; 使用 SharePoint 導入和匯出 Excel 資料
+
+  #### 實驗室&#58; 連結 Outlook 和 SharePoint
+
+  完成此模組後，學生將能夠&#58;
+  - 將 SharePoint 2016 關聯至 Microsoft Office 2016
+  
+  ### 模組 9&#58; 創建發佈網站
+  該模組解釋了如何使用 SharePoint 2016 的發佈功能來創建富文本內容頁面，以及使用者可用的限制佈局類型、圖片和模版的功能。雖然一些組織需要 SharePoint 可以提供的檔存儲和儀錶盤功能，一些組織需要中心化的方法來向使用者分佈資訊內容，否則他們將不能以更加穩健的方法與 SharePoint 互動。
+  #### 課程
+  - 誰將使用發佈網站？
+  - 發佈頁面
+  - 啟用 Web Content Management
+  - 管理 Web Content 結構
+  - 使用託管中繼資料導航網站
+
+
+  #### 實驗室&#58; 創建豐富的發佈網站
+  - 為發佈新聞創建 web content management 網站
+  - 設置並使用圖像呈現形式以獲得更快速的圖片管理
+
+
+  #### 實驗室&#58; 配置發佈審批流程
+  - 為您的發佈網站添加審批流程
+
+
+  #### 實驗室&#58; 實施託管的導航網站
+  - 設置並使用託管中繼資料導航
+
+  完成此模組後，學生將能夠&#58;
+  - 使用 SharePoint 2016 的發佈功能創建富文本內容頁面
+  - 使用使用者可用的限制佈局類型、圖片和模版的發佈功能
+
+
+  ### 模組 10&#58; 連接社交空白
+  該模組解釋了如何更好地執行內部人才管理，即知識管理。SharePoint 2016 中的一個重要進步是社會計算功能的擴展。例如，組織可能需要尋找具備特定技能和知識以輔助完成一項任務或項目的個人。SharePoint 2016 提供了可行的平臺説明組織進行人才和知識管理。
+  #### 課程
+  - 我的網站
+  - 在 SharePoint 中配置社會功能
+  - 博客、標籤和提起
+  - 創建社區網站
+
+
+  #### 實驗室&#58; 在 SharePoint 2016 中設計社會體驗
+  - 啟用內容評價
+  - 配置 RSS 通知推送
+  - 管理使用者檔案
+
+
+  #### 實驗室&#58; 創建社區網站
+  - 創建和配置社區網站
+  - 創建和管理討論
+  - 識別對社區做出貢獻的使用者
+
+  完成此模組後，學生將能夠&#58;
+  - 更好地執行內部人才管理
+  
+  ### 模組 11&#58; 使用搜索尋找資訊
+  該模組解釋了如何快速、簡單地尋找資訊。用戶可以使用 SharePoint 2016 內的搜索功能，以很少或無額外配置工作的情況下，在不同的內容源中進行搜索，包括檔、人以及業務範圍。只需很少的工作，組織便可創建與他們業務需求一致的穩健搜索體驗。
+  #### 課程
+  - 探索 SharePoint 中的搜索功能
+  - 配置搜索設置
+  - 搜索分析
+  - 搜索可見性
+
+
+  #### 實驗室&#58; 配置高級搜索中心
+  完成此模組後，學生將能夠&#58;
+  - 快速、簡單地找到資訊
+
+
+  ### 模組 12&#58; 使用 SharePoint 規劃公司門戶網站
+  該模組解釋了如何在 SharePoint 中開發正式的治理計畫和委員會以維持品質和一致性。要實現此目標，該模組會介紹治理的概念以及突出最佳實踐。
+  治理定義了 SharePoint 被管理的政策、流程和指南；它描述了對管理員要求的角色、職責和行為以及支持 SharePoint 環境。
+  #### 課程
+  - 定義 SharePoint 治理
+  - 使用資訊架構
+  - 實施網站層級結構
+  - 討論治理的執行
+
+  完成此模組後，學生將能夠&#58;
+  - 在 SharePoint 中創建正式的治理規劃和委員會以維持品質和一致性。
+
+
+  ### 模組 13&#58; 網站集管理員設置
+  該模組解釋了如何使用 SharePoint 2016 中的其他工具和設置。網站集管理員或網站管理員配置這些作為其每日工作活動的一部分。
+  #### 課程
+  - 探索針對網站集管理員的設置
+  - 探索針對網站管理員的設置
+  - 網站關閉政策
+
+  完成此模組後，學生將能夠&#58;
+  - 使用 SharePoint 2016 中的其他工具和設置

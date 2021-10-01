@@ -13,12 +13,16 @@ subTitle: '如果您想進入技術領域，MTA認證是一個很好的開始。
 levels:
 - beginner
 skills:
-- 無
+- 管理應用程式生命週期 
+- 使用 HTML5 構建使用者界面 (UI) 
+- 使用階層式樣式表 (CSS) 格式化使用者界面 
+- 使用JavaScript編碼 
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIolX
 exams:
 - uid: exam.98-375
 resources:

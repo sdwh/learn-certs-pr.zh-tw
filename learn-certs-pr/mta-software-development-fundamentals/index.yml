@@ -13,12 +13,18 @@ subTitle: '如果您想進入技術領域，MTA認證是一個很好的開始。
 levels:
 - beginner
 skills:
-- 無
+- 了解核心程式設計
+- 了解物件導向的程式設計 
+- 了解一般軟體開發 
+- 瞭解web應用程式器維護 
+- 瞭解桌面應用程式 
+- 瞭解資料庫
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdXK
 exams:
 - uid: exam.98-361
 resources:

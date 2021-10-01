@@ -31,7 +31,7 @@ courses:
 exams:
 - uid: exam.70-764
 - uid: exam.70-765
-- uid: exam.mb-6-894
+- uid: exam.mb6-894
 resources:
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。

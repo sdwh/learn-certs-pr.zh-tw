@@ -7,16 +7,16 @@ uid: course.az-140t00
 courseNumber: 'AZ-140T00-A'
 hoursToComplete: 96
 skillsGained:
-- skill: 選擇Windows Virtual Desktop 相應的許可模式
-- skill: 實現Windows Virtual Desktop 的網路
-- skill: 通過使用Azure Bastion來管理Windows Virtual Desktop 工作階段主機
-- skill: 配置FSLogix元件的存儲 
-- skill: 創建和管理工作階段主機映射 
-- skill: 實現用於Windows Virtual Desktop的Azure角色和基於角色的存取控制（RBAC）
-- skill: 配置使用者Windows Virtual Desktop體驗設置 
+- skill: 為 Azure Virtual Desktop 選擇恰當的許可模式
+- skill: 為 Azure Virtual Desktop 實施網路
+- skill: 使用 Azure Bastion 管理 Azure Virtual Desktop 工作階段主機
+- skill: 為 FSLogix 元件配置存儲
+- skill: 創建並管理工作階段主機圖片
+- skill: 為 Azure Virtual Desktop 實施 Azure 規則和基於規則存取控制 (RBAC)
+- skill: 配置使用者 Azure Virtual Desktop 體驗設置
 - skill: 在工作階段主機上安裝和配置應用程式
 - skill: 實現業務連續性和災難恢復
-- skill: 監控和管理Windows Virtual Desktop性能
+- skill: 監控和管理 Azure Virtual Desktop 性能
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -27,134 +27,188 @@ roles:
 - administrator
 products:
 - azure
-- azure-active-directory
-- azure-active-directory-domain
-- azure-virtual-machines
-- azure-virtual-machines-windows
-- azure-netapp-files
-- azure-files
-- azure-bastion
-- azure-portal
-- windows-server
-- azure-clis
-- azure-resource-manager
-- azure-rbac
-- azure-policy
-- azure-security-center
-- m365-security-center
-- mem
-- office-onedrive
-- office-teams
-- azure-monitor
-- azure-advisor
-- azure-virtual-desktop
 exams:
 - uid: exam.az-140
 summary: |-
-  本課程將教會Azure管理員如何在Azure上規劃、交付和管理虛擬桌面體驗以及用於任何設備的遠端應用程式。學生將學習通過演示和上機實驗的組合體驗在Windows Virtual Desktop上部署虛擬桌面體驗和應用程式以及進行優化以在多會話虛擬環境中運行。
-  
-  #### 受眾人群
-  AZ-140&#58; 的學生 Configuring and Operating Windows Virtual Desktop on Microsoft Azure對交付Windows Virtual Desktop上的應用程式並進行優化以在多會話虛擬環境中運行感興趣。作為一名Windows Virtual Desktop 管理員，您將與Azure管理員和架構師以及Microsoft 365管理員密切合作。
-  Windows Virtual Desktop管理員職責包括規劃、部署、打包、更新和維護Azure Windows Virtual Desktop基礎設施。他們還創建工作階段主機映射，實施和管理FSLogix，監控Windows Virtual Desktop性能，並自動執行Windows Virtual Desktop管理任務。
+  本課程將教會Azure管理員如何在Azure上規劃、交付和管理虛擬桌面體驗以及用於任何設備的遠端應用程式。學生將通過演示和實用的實驗室經驗的綜合學習在 Azure Virtual Desktop 上部署虛擬桌面經驗和應用程式以及對其進行優化以在多會話虛擬環境中運行。
+
+  #### 受眾概覽
+
+  學生 AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop 在 Azure Virtual Desktop 上交付應用程式時很有趣，且會對應用程式進行優化以使其能夠在多會話虛擬環境中運行。作為 Azure Virtual Desktop 管理員，您將與 Azure 管理員及設計師以及 Microsoft 365 Administrators 密切合作。Azure Virtual Desktop 管理員職責包括規劃、部署、程式打包、更新和維護 Azure Virtual Desktop 基礎設施。他們也要創建工作階段主機圖片、實施和管理 FSLogix、管理 Azure Virtual Desktop 性能以及自動化 Azure Virtual Desktop 管理任務。
 outlineSection: |-
-  ### 模組 1&#58; 規劃Windows Virtual Desktop體系結構
-  在本模組中，您將學習如何評估現有的物理和虛擬桌面環境，規劃和配置活動目錄(AD)和Azure Active Directory Domain Services (Azure AD DS)的功能變數名稱解析，以及規劃Windows Virtual Desktop用戶端部署。
+  ### 模組 1: 規劃 Azure Virtual Desktop 實施
+
+  在此模組中，您將學習如何評估現有的物理以及虛擬桌面環境，為 Active Directory (AD) 和 Azure Active Directory Domain Services (Azure AD DS) 規劃和配置命名解決方案，以及為 Azure Virtual Desktop 規劃用戶端部署。僅格式。 無專案符號或清單。
+
+  #### 課程
+
+  *   Azure Virtual Desktop 架構
+
+  *   設計 Azure Virtual Desktop 架構
+
+  *   為使用者身份和檔案進行設計
+
+
+  #### 實驗室: 準備 Azure Virtual Desktop (Azure AD DS)的部署
+
+  ####
+
+  #### 實驗室: 準備 Azure Virtual Desktop (AD DS)的部署
+
+  ####
+
+  完成此模組後，學生將能夠: 
+
+  *   理解 Azure Virtual Desktop 組件
+
+  *   理解個人及共用桌面
+
+  *   為 Azure Virtual Desktop 的實施推薦作業系統
+
+  *   規劃主機池架構
   
-  #### 課程 
-  - Windows Virtual Desktop體系結構
-  - 設計WVD體系結構
-  - 使用者標識和設定檔的設計
+  ### 模組 2: 實施 Azure Virtual Desktop 基礎設施
 
-  #### 實驗室&#58; 準備部署Azure Windows Virtual Desktop (Azure AD DS)
+  在此模組中，您將學習如何管理至網路和本地部署網路的連接，使用 Azure 埠創建主機池，使用 Azure Resource Manager 模版部署主機池，應用 OS 及應用程式更新來運行 Azure Virtual Desktop 主機並創建主圖。
 
-  #### 實驗室&#58; 準備部署Azure Windows Virtual Desktop (AD DS)
+  #### 課程
 
-  完成本模組學習後，學生將能&#58;
-  - 瞭解Windows Virtual Desktop組件
-  - 瞭解個人和共用桌面
-  - 推薦用於 WVD實現的作業系統
-  - 規劃主機池體系結構
+  *   為 Azure Virtual Desktop 實施和管理網路 
+
+  *   為 Azure Virtual Desktop 實施和管理存儲
+
+  *   創建和配置主機池及工作階段主機
+
+  *   創建和管理工作階段主機圖片
+
+
+  #### 實驗室: 使用 Azure portal (AD DS) 部署主機池和工作階段主機
+
+  ####
+
+  #### 實驗室: 為 Azure Virtual Desktop (Azure AD DS) 實施和管理存儲
+
+  ####
+
+  #### 實驗室: 使用 Azure Resource Manager 模版部署主機池和主機
+
+  ####
+
+  #### 實驗室: 使用 PowerShell 部署和管理主機池和主機
+
+  ####
+
+  #### 實驗室: 創建和配置主機池和工作階段主機(Azure AD DS)
+
+  ####
+
+  完成此模組後，學生將能夠: 
+
+  *   實施 Azure virtual network 連接
+
+  *   管理至網路和本地部署網路的連接
+
+  *   理解 Azure Virtual Desktop 網路連接
+
+  *   使用 Azure Bastion 配置 Azure Virtual Desktop 工作階段主機
+
+  *   為 FSLogix 元件配置存儲
+
+  *   配置硬碟和檔共用
+
+  *   修改工作階段主機圖片
+
+  *   創建並使用共用圖庫(SIG)
   
-  ### 模組 2&#58; 實現WVD基礎設施
-  在本模組中，您將學習如何管理與網路和本地網路的連接，使用Azure門戶創建主機池，使用Azure資源管理器範本部署主機池和主機，將OS和應用程式更新應用到正在運行的WVD主機，並創建主映射。
-  #### 課程 
-  - 實現和管理WVD的網路
-  - 實現和管理WVD的存儲
-  - 創建和配置主機池和工作階段主機
-  - 創建和管理工作階段主機映射
+  ### 模組 3: 管理訪問性和安全性
 
-  #### 實驗室&#58; 創建和配置主機池和工作階段主機(Azure AD DS)
+  在此模組中，您將學習如何為 Azure Virtual Desktop 實施 Azure 規則和 RBAC ，為連接實施有條件訪問政策，規劃和實施 MFA，以及使用 Azure Security Center 管理安全性。
 
-  #### 實驗室&#58; 使用Azure 門戶 (AD DS) 部署主機池和工作階段主機
+  #### 課程
 
-  #### 實驗室&#58; 實現和管理WVD (Azure AD DS)的存儲
+  *   管理訪問性
 
-  #### 實驗室&#58; 使用Azure資源管理器範本來部署主機池和主機
+  *   管理安全性
 
-  #### 實驗室&#58; 使用PowerShell部署和管理主機池和主機 
 
-  完成本模組學習後，學生將能&#58; 
-  - 實現Azure 虛擬網路連接
-  - 管理與網路和本地網路的連接
-  - 瞭解Windows Virtual Desktop網路連接
-  - 使用Azure Bastion 配置WVD工作階段主機
-  - 配置FSLogix元件的存儲
-  - 配置磁片和檔共用
-  - 修改工作階段主機映射
-  - 創建和使用Shared Image Gallery (SIG)
+  #### 實驗室: 為至 Azure Virtual Desktop (AD DS) 的連結配置有條件訪問政策
+
+  ####
+
+  完成此模組後，學生將能夠: 
+
+  *   管理 Azure Virtual Desktop 工作階段主機的本地規則、分組和許可權分配
+
+  *   使用 AD 分組政策和 Azure AD 政策配置使用者限制
+
+  *   理解有條件訪問政策元件
+
+  *   為 Azure Virtual Desktop 準備基於 Azure Active Directory (Azure AD) 的有條件訪問
+
+  *   為 Azure Virtual Desktop 實施基於 Azure AD 的有條件訪問 
+
+  ### 模組 4: 管理使用者環境和應用程式
+
+  在此模組中，您將學習如何為 FSLogix 進行規劃、安裝FSLogix、配置 Cloud Cache、部署應用程式作為 RemoteApp 以及為多會話環境實施和管理 OneDrive for Business。
+
+  #### 課程
+
+  *   實施和管理 FSLogix
+
+  *   配置使用者體驗設置
+
+  *   在工作階段主機上安裝和配置應用程式
+
+
+  #### 實驗室: 實施和管理 Azure Virtual Desktop 檔案 (Azure AD DS)
+
+  ####
+
+  #### 實驗室: 對 Windows Azure Desktop 應用程式 (AD DS) 進行打包
+
+  ####
+
+  完成此模組後，學生將能夠: 
+
+  *   配置檔案容器
+
+  *   配置 Azure 檔以為 Azure Virtual Desktop 在 AAD DS 環境中存儲檔案容器
+
+  *   在 Azure AD DS 環境中為 Azure Virtual Desktop 實施基於 FSLogix 的檔案
+
+  *   為 Azure Virtual Desktop 實施基於 FSLogix 的檔案
+
+  *   準備並創建 MSIX 應用套裝程式
+
+  *   在 AD DS 環境中為 Azure Virtual Desktop 實施 MSIX 應用程式附件容器
   
-  ### 模組 3&#58; 管理訪問和安全性 
-  在本模組中，您將學習如何規劃和實現Azure角色和WVD的RBAC，執行連接的條件訪問策略，計畫和執行MFA以及使用Azure安全中心管理安全性。
+  ### 模組 5: 監控和維護 Azure Virtual Desktop 基礎設施
+
+  在此模組中，您將學習如何為 Azure Virtual Desktop 規劃和實施災難恢復計畫，為 Azure Virtual Desktop配置自動化，在主機池中實施自動調整以及優化工作階段主機功能和性能。
+
+  #### 課程
+
+  *   規劃和實施業務連續性以及災難恢復
+
+  *   自動化 Azure Virtual Desktop 管理任務
+
+  *   監控和管理性能和健康
 
 
-  #### 課程 
-  - 管理訪問
-  - 管理安全性
+  #### 實驗室: 在主機池中實施自動調整 (AD DS)
 
-  #### 實驗室&#58; 配置WVD (AD DS)連接的條件訪問策略
-  
-  完成本模組學習後，學生將能&#58; 
-  - 管理WVD工作階段主機上的本地角色、組和許可權分配。
-  - 使用AD群組原則和Azure AD策略來配置使用者限制
-  - 瞭解條件訪問策略元件
-  - 為Windows Virtual Desktop準備基於Azure Active Directory (Azure AD)的條件訪問
-  - 實現用於Windows Virtual Desktop的基於Azure AD的條件訪問
-  
-  ### 模組 4&#58; 管理使用者環境和應用程式 
-  在本模組中，您將學習如何規劃FSLogix，安裝FSLogix， 配置Cloud緩存，將應用程式部署為RemoteApp，實現和管理用於多會話環境的OneDrive for Business。
-  #### 課程 
-  - 實現和管理FSLogix
-  - 配置使用者體驗設置
-  - 在工作階段主機上安裝和配置應用程式
+  ####
 
-  #### 實驗室&#58; Windows Virtual Desktop設定檔管理(Azure AD DS)
+  完成此模組後，學生將能夠: 
 
-  #### 實驗室&#58; Windows Virtual Desktop設定檔管理(AD DS)
+  *   為 Azure Virtual Desktop 規劃和實施災難恢復計畫
 
-  #### 實驗室&#58; Windows Virtual Desktop應用程式打包(AD DS)
+  *   為 Azure Virtual Desktop 配置自動化
 
-  完成本模組學習後，學生將能&#58; 
-  - 配置設定檔容器
-  - 配置Azure檔以將WVD設定檔容器存儲於AAD DS環境
-  - 在Azure AD DS環境中實現用於Windows Virtual Desktop的基於FSLogix的設定檔
-  - 實現用於Windows Virtual Desktop的基於FSLogix的設定檔
-  - 準備和創建MSIX應用套裝程式
-  - 在AD DS環境中，實現用於Windows Virtual Desktop的MSIX應用程式連接容器
-  
+  *   使用 Azure Monitor 監控 Azure Virtual Desktop
 
-  ### 模組 5&#58; 監控和維護WVD基礎設施 
-  在本模組中，您將學習如何規劃和實施WVD的災難恢復計畫， 配置WVD的自動執行，實現主機池的自動伸縮，以及優化工作階段主機容量和性能。 
-  #### 課程 
-  - 規劃和實施業務連續性和災難恢復
-  - 自動執行WVD管理任務
-  - 監控和管理性能和運行狀況
+  *   為 Azure Virtual Desktop 的監控自訂 Azure Workbooks
 
-  #### 實驗室&#58; 實現主機池的自動伸縮(AD DS)
-  
-  完成本模組學習後，學生將能&#58; 
-  - 規劃和實施WVD災難恢復計畫
-  - 配置WVD的自動執行
-  - 使用Azure Monitor監控WVD
-  - 自訂用於WVD監控的Azure Workbooks
-  - 配置Windows Virtual Desktop工作階段主機的自動伸縮
-  - 驗證Windows Virtual Desktop 工作階段主機的自動伸縮
+  *   配置 Azure Virtual Desktop 工作階段主機的自動調整
+
+  *   驗證 Azure Virtual Desktop 工作階段主機的自動調整

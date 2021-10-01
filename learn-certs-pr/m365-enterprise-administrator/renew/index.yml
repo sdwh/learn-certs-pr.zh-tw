@@ -13,9 +13,9 @@ summary: |-
 skills:
 - 使用System Center Configuration Manager透過共同管理來管理Windows 10
 - 使用Microsoft Endpoint Manager簡化設備管理
-- 使用Azure Active Directory簡化存取和身份配置
 - 使用連接器將郵件傳遞到Microsoft 365外部的信箱
-- 透過Microsoft Threat Protection防禦威脅
+- 使用 Microsoft Defender for Identity 保護您的環境
+- 使用 Microsoft Defender for Endpoint 防範風險
 - 在Microsoft 365中遷移使用者檔案和設置
 - 交付Microsoft 365 Apps和業務應用
 - 使用靈敏度標籤保護您的資料

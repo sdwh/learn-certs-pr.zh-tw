@@ -13,12 +13,17 @@ subTitle: '如果您想進入技術領域，MTA認證是一個很好的開始。
 levels:
 - beginner
 skills:
-- 無
+- 了解核心數據庫概念
+- 創建資料庫對象
+- 處理資料 
+- 瞭解資料儲存 
+- 管理資料庫 
 roles:
 - developer
 type: mta
 products:
 - sql-server
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIbrW
 exams:
 - uid: exam.98-364
 resources:

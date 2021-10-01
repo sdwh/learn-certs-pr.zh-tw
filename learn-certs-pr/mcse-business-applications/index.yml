@@ -27,9 +27,9 @@ type: mcse
 products:
 - dynamics
 exams:
-- uid: exam.mb-2-716
-- uid: exam.mb-6-897
-- uid: exam.mb-6-898
+- uid: exam.mb2-716
+- uid: exam.mb6-897
+- uid: exam.mb6-898
 prerequisites:
 - uid: certification.mcsa-microsoft-dynamics-365-for-operations
   isOptional: false

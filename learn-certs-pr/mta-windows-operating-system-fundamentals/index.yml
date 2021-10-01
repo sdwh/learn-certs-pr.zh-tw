@@ -13,12 +13,18 @@ subTitle: '如果您想進入技術領域，MTA認證是一個很好的開始。
 levels:
 - beginner
 skills:
-- 無
+- 了解作業系統設定 
+- 安裝和升級客戶端系統 
+- 管理應用程式 
+- 管理檔案和資料夾 
+- 管理裝置
+- 了解作業系統維護 
 roles:
 - administrator
 type: mta
 products:
 - windows
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLm
 exams:
 - uid: exam.98-349
 resources:

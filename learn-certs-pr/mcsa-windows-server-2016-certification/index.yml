@@ -13,7 +13,22 @@ subTitle: 證明您已精通 Windows Server 2016 主要技能，能降低 IT 成
 levels:
 - intermediate
 skills:
-- none
+- 在主機和計算環境中安裝 Windows 伺服器 
+- 實作儲存解決方案 解決方案 
+- 實作 Hyper-V 
+- 實作Windows 容器 
+- 實作高可用性 
+- 維護和監視伺服器環境
+- 實作網域名稱系統 (DNS) 
+- 實作DHCP和IPAM 
+- 實作網路連線和遠端存取解決方案 
+- 實施核心和分佈式網絡解決方案 
+- 實作先進的網路基礎結構 
+- 安裝和設定Active Directory網域服務 (AD DS) 
+- 管理和維護 AD DS 
+- 建立及管理群組原則
+- 實作 Active Directory 憑證服務 (AD CS) 
+- 實作身份聯合和存取解決方案 
 roles:
 - administrator
 type: mcsa
@@ -23,6 +38,7 @@ courses:
 - uid: course.20740
 - uid: course.20741
 - uid: course.20742
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlMC
 exams:
 - uid: exam.70-740
 - uid: exam.70-741

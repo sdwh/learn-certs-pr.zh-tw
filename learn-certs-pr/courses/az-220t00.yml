@@ -23,6 +23,9 @@ skillsGained:
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - intermediate
 roles:
@@ -45,7 +48,7 @@ prerequisitesSection: |-
 
   如果您才剛接觸Azure和雲計算，請考慮以下資源之一&#58; 
   - 免費線上&#58; Azure基礎知識 (https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
-  - 講師指導課程&#58; AZ-900&#58; Azure基礎知識 (https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01)
+  - 講師指導課程&#58; AZ-900&#58; Azure基礎知識 (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
 
 outlineSection: |-
   ### 模組 1&#58; IoT（物聯網）和Azure IoT服務簡介

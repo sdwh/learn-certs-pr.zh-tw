@@ -25,14 +25,15 @@ subTitle: 'Dynamics 365 財務功能顧問負責統一全球財務與操作，�
 levels:
 - intermediate
 skills:
-- 使用通用功能與實作工具
-- 設定安全性、流程與選項
-- 管理Finance and Operations資料
-- 驗證並支援解決方法
-- 設置與設定財務管理
-- 實現和管理應付帳款及費用
-- 實現應收賬款、貸項、托收和收入確認
-- 管理預算編制和固定資產
+- 使用 Microsoft Power Platform 技術描述金融和運營應用程式以及擴展應用程式。 
+- 配置管理功能和工作流 
+- 管理金融和運營資料
+- 驗證和支援解決方案
+- 設置和配置金融管理 
+- 實施應收賬款、存款、收取和收入確認
+- 實施和管理應付帳款和支出
+- 管理預算
+- 管理固定資產
 roles:
 - functional-consultant
 type: role-based

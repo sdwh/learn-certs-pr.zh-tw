@@ -19,6 +19,10 @@ subTitle: 'Dynamics 365 Commerce “功能顧問”在 Dynamics 365 Commerce 中
 levels:
 - intermediate
 skills:
+- 使用 Microsoft Power Platform 技術描述金融和運營應用程式以及擴展應用程式。 
+- 配置管理功能和工作流 
+- 管理金融和運營資料
+- 驗證和支援解決方案
 - 配置 Dynamics 365 Commerce “指揮部”
 - 配置產品、價格、折扣、忠誠度及附屬機構
 - 在 Dynamics 365 Commerce 中管理“銷售終端”(POS)
@@ -54,6 +58,9 @@ resources:
 - title: 認證海報
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認證之旅
+  description: 探索獲得認證的步驟以及幫您做好準備的可用資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWJJ8C
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://aka.ms/TrainingCertDeck

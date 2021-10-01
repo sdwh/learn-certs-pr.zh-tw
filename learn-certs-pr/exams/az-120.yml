@@ -6,9 +6,7 @@ metadata:
 uid: exam.az-120
 displayName: AZ-120
 summary: |-
-  <div>
-  <div><font color='red'><strong>本次考試的內容於2021年5月28日進行了更新。請下載下面的技能測試檔，看看有何變化。</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>該考試內容將在2021年9月24日更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
 
   參加本次考試的考生應該是在 SAP 系統環境和行業標準方面具有豐富經驗和知識的建築師或工程師，這些標準是針對 Microsoft Azure 上 SAP 解決方案的初始遷移或集成以及長期運行而制定的。
   
@@ -28,10 +26,18 @@ locales:
 - ja
 - zh-cn
 - ko
+- fr
+- de
+- es
+- pt-br
+- ru
+- ar-sa
+- zh-tw
+- it
 levels:
 - advanced
 skills:
-- 本次考試的內容於2021年5月28日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
+- 該考試內容將在2021年9月24日更新。請在下方下載考試技能大綱以查看將要改變的地方。
 - 將 SAP 移轉到 Azure (25–30%)
 - 設計並實施基礎設施以支援 SAP 工作負載 (25–30%)
 - 設計並實施 High Availability 和 Disaster Recovery (HA/DR) (20–25%)

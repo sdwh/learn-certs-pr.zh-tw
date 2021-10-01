@@ -1,0 +1,25 @@
+### YamlMime:CertificationRenewal
+title: '更新您的  Microsoft 365 Certified: Developer Associate'
+metadata:
+  title: '更新您的  Microsoft 365 Certified: Developer Associate'
+  description: '如果您已擁有此認證且其將在6個月內過期，則您符合更新的條件。'
+uid: renewal.m365-developer-associate
+certificationUid: certification.m365-developer-associate
+assessmentId: 9036b9d3-e5e5-4d23-b08f-f8c1694a48da
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您已擁有此認證且其將在6個月內過期，則您符合更新的條件。您可以通過更新評估表明您已保持最新的 Microsoft 365 更新。 您也可以準備以學習模組精選來更新認證。
+skills:
+- 使用任務模組在 Microsoft Teams 中收集輸入
+- 為 Microsoft Teams 創建有標籤的嵌入式網路體驗
+- Microsoft Teams – 使用團隊 Microsoft Graph 端點
+- Microsoft Teams – 驗證和 Single Sign-on
+- 為 Microsoft Teams 創建互動式對話機器人
+examsPassed:
+- ms-600
+studyGuideDescription: '使用此精選學習模組説明您準備 Microsoft 365 Certified： Developer Associate renewal assessment.'
+resources:
+- title: 關於證書更新
+  summary: 了解線上更新證書的過程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

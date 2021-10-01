@@ -19,6 +19,21 @@ Microsoft 持續監測行業趨勢並修改認證要求，以跟上技術變化�
 
 ## 已取消的課程：講師指導培訓
 
+* 課件將於2021年10月29日撤銷
+
+    | 課程編號 | 版本 | 標題 | 語言 | 撤銷日期 |
+    | --- | --- | --- | --- | --- |
+    | 10997 | D | Office 365 Administration and Troubleshooting | 英語 | 10/29/2021 |
+
+* 課件將於2021年9月30日撤銷
+
+    | 課程編號 | 版本 | 標題 | 語言 | 撤銷日期 |
+    | --- | --- | --- | --- | --- |
+    | 40510 | G | Microsoft Cloud Workshop: SQL Server Hybrid Cloud | 英語 | 9/30/2021 |
+    | 40516 | G | Microsoft Cloud Workshop: Intelligent Analytics | 英語 | 9/30/2021 |
+    | 40561 | G | Microsoft Cloud Workshop: Machine Learning | 英語 | 9/30/2021 |
+    | MS-050T00 | A | SharePoint Hybrid Deployment and Migration | 英語 | 9/30/2021 |
+
 * 課件於2021年8月31日撤銷
 
     | 課程編號 | 版本 | 標題 | 語言 | 撤銷日期 |

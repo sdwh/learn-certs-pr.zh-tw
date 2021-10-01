@@ -51,7 +51,7 @@ Associate 和 Expert 考試的費用通常為 US$165，但根據特定國家和�
 
 - 如果您對一個特定項目的技術準確性有疑問，請訪問：[考題挑戰流程](/learn/certifications/exam-item-challenge-process).
 - 如需報告您在考試期間遇到的關於考試中心或技術困難的問題，請聯繫有關的考試交付提供商的客服人員。
-- 如需報告安全問題，請聯繫[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。
+- 要報告安全問題，請完成此[表格](https://aka.ms/wwlcertsecurity)。
 - 如需提供其他類型的回饋，請聯繫 [認證支持。](https://aka.ms/mcpforum)
 
 ## 考試細節

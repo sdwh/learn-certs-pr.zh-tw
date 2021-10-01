@@ -1,0 +1,101 @@
+### YamlMime:Course
+title: Writing Reports with Report Builder and SSRS Level 3
+metadata:
+  title: 'Course 55236-A: Writing Reports with Report Builder and SSRS Level 3'
+  description: 'Course 55236-A: Writing Reports with Report Builder and SSRS Level 3'
+uid: course.55236
+courseNumber: '55236-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用形狀繪圖物件創建增強的自訂報表視覺化。
+- skill: 理解 SSRS 報表中 Visual Basic程式設計的使用。
+- skill: 使用並支援 SSRS 報表工作中的 Visual Basic 代碼。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- sql-server
+summary: |-
+  在此為期一天的課程中，學生將繼續他們使用 Microsoft® SQL Server® Report Builder 和 SSRS 編寫報表的學習。該課程專注于增強自訂報表視覺化和 SSRS 報告中 Visual Basic 程式設計的使用。在報告中支援 Visual Basic 程式設計在當今的報表行業前景中是常見的要求，該課程通過小組討論、工作表、實踐練習、示範和實驗室活動為您介紹了您需要的資訊。報表生成器對於所有辦的 Microsoft SQL Server 都可用。
+
+  #### 受眾概覽
+  該課程的主要受眾是對報表生成器和 SSRS 經驗豐富的人士。此課程的次要受眾是對報表設計器(SSRS) 經驗豐富的報表編撰者。課程參加者可以是商務分析師、程式分析師、資料分析師、資料庫管理員或 IT 專業人士。
+prerequisitesSection: |-
+  參加此課程之前，學生必須&#58;
+  - 熟悉 Windows。
+  - 創建和導航資料夾。
+  - 打開程式。
+  - 操作 Windows。
+  - 複製、粘貼和格式化文字。
+  - 保存檔。
+  - Course 55128&#58; Writing Reports with Report Builder and SSRS Level 2
+  - Microsoft® Office Access 2013&#58; Level 1 或擁有基礎資料庫概念的同等經驗。
+outlineSection: |-
+  ### 模組 1&#58; 創建增強的視覺形象
+  該模組介紹了報表格式化技術，即使用形狀繪圖、矩形、圖片和資料區域創建增強的視覺形象。為支援自訂和增強的報表視覺化，此課程
+  要求支援報表中所展示專案控制的特定屬性的視圖。
+  #### 課程
+  - 報表中形狀繪圖的重要性
+  - 使用矩形增強的視覺化
+  - 控制報表條目的展示
+  - 在 Tablix 中創建塊
+
+
+  #### 實驗室&#58; 創建增強的視覺化形象
+  - 使用矩形繪圖在報表中創建塊
+  - 使用文字方塊在 Tablix 創建塊
+  - 使用文字方塊塊、 Tablix 塊和 Tablixes 創建增強的視覺化
+
+  完成此模組後，學生將能夠&#58;
+  - 描述報表中的關鍵功能、使用和使用形狀繪圖的方法。
+  - 對矩形工具擁有更加全面的理解。
+  - 操作對報表條目展示產生影響的報表條目屬性。
+  - 通過展示塊而不是文字方塊來轉換資料區域。
+
+
+  ### 模組 2&#58; Visual Basic
+  該模組介紹了 Microsoft Visual Basic 程式設計語言。此模組的目的是讓該程式設計語言和其使用對非程式設計者更有意義。該模組使用了課程
+  手冊、小組討論、工作表和視圖以來不僅介紹 Visual Basic 程式設計，也讓學生理解代碼是做什麼的。
+  #### 課程
+  - Visual Basic 程式設計語言
+  - Visual Basic 語言元件
+  - 決策結構和步驟
+
+
+  #### 實驗室&#58; 使用 Visual Basic
+  - 將運算式轉換成 Visual Basic 步驟
+  - 在報表中使用數值型別
+  - 在報表中使用參考類型
+
+  完成此模組後，學生將能夠&#58;
+  - 描述 Visual Basic 主要功能。
+  - 描述 Visual Basic 語言元素。
+  - 認識 Visual Basic 的語句及其用途。
+  - 使用決策結構以應用到工作流邏輯中。
+  - 將業務邏輯轉化成 Visual Basic 代碼。
+  
+  ### 模組 3&#58; 在 SSRS 報表中使用 Visual Basic
+  報表作者可以在報表生成器應用中以三種不同的方式利用 Visual Basic 語言。無論 Visual Basic 程式設計語言是有意集成或通過現有報表得以集成，報表作者都需要瞭解這些功能可以如何應用以實現報表的目標。Visual Basic 是報表生成器要求的語言。
+  #### 課程
+  - SSRS 報表中的 Visual Basic
+  - 從報表中調用 Visual Basic 代碼
+  - 在報表中使用外部 Visual Basic 代碼
+
+
+  #### 實驗室&#58; 在報表中使用 Visual Basic
+  - 利用常量、欄位和報表專案使用條件邏輯
+  - 使用 Visual Basic 創建報表
+  - 更新報表以使用外部代碼
+  - 解決報表中的 Visual Basic 錯誤
+
+  完成此模組後，學生將能夠&#58;
+  - 描述在 SSRS 報表解決方案中 Visual Basic的關鍵功能和使用。
+  - 認識報表中可用的三種 Visual Basic 代碼的實施。
+  - 創建 Visual Basic 變體、常數、運算式和程式。
+  - 在報表中使用自訂代碼連接和消除外部集合。
+  - 解決報表中 Visual Basic 錯誤。
