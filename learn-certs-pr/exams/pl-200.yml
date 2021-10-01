@@ -6,8 +6,7 @@ metadata:
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
-  <div><div><font color='red'><strong>本次考試的內容於2021年3月23日進行了更新。請下載下面的技能測試文檔，看看有何變化。</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>該考試內容將在2021年10月1日更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
 
   參加該測驗的考生將執行發現，捕獲需求，吸引主題專家和利益相關者參與，翻譯需求並設定 Power Platform 解決方案和應用。其中包括應用程式精進、自定義使用者體驗、系統整合、資料轉換、自定義流程自動化以及自定義可視化。
 
@@ -27,7 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考試的內容於2021年3月23日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
+- 該考試內容將在2021年10月1日更新。請在下方下載考試技能大綱以查看將要改變的地方。
 - 配置 Microsoft Dataverse (25-30%)
 - 使用Power Apps建立應用 (20-25%)
 - 建立和管理 Power Automate (15-20%)

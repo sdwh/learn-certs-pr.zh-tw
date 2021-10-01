@@ -6,6 +6,8 @@ metadata:
 uid: exam.az-140
 displayName: AZ-140
 summary: |-
+  <div><font color='red'><strong>該考試內容將在2021年9月24日更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
+
   此考試的報考者為在規劃、交付和管理虛擬桌面體驗和 Azure 上針對任何設備的遠端應用程式的主題內容專家。
   
   該角色的責任包括部署虛擬桌面體驗和向 Azure 部署應用程式。此角色的專業人員交付 Azure Virtual Desktop 上的應用程式並對其進行優化以讓其在多會話虛擬環境中運行。要交付這些體驗，他們需要與 Azure 管理員和設計師以及 Microsoft 365 Administrators 密切合作。
@@ -19,10 +21,21 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFS
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-140&examname=Exam%20AZ-140:%20Configuring%20and%20Operating%20Azure%20Virtual%20Desktop&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-140
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- fr
+- de
+- es
+- pt-br
+- ru
+- ar-sa
+- zh-tw
+- it
 levels:
 - intermediate
 skills:
-- '注意：如下每個出現專案符號的考核技能旨在闡明我們如何評估那項技能。該列表並非明確且詳盡。'
+- 該考試內容將在2021年9月24日更新。請在下方下載考試技能大綱以查看將要改變的地方。
 - 規劃 Azure Virtual Desktop Architecture (10-15%)
 - 實施 Azure Virtual Desktop Infrastructure (25-30%)
 - 管理訪問和安全 (10-15%)

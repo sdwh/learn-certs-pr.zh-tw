@@ -15,6 +15,16 @@ skillsGained:
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- de
+- fr
+- es
+- pt-br
+- ru
+- zh-tw
+- it
 levels:
 - beginner
 roles:

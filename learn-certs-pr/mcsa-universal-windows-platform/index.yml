@@ -13,7 +13,17 @@ subTitle: 本認證展現您具備實作「通用 Windows 平台」應用程式�
 levels:
 - intermediate
 skills:
-- none
+- 管理程式流程
+- 建立和使用型別 
+- 偵錯應用程式並實作安全性 
+- 實作資料存取 
+- 針對調適型 UI 開發 XAML 頁面配置 
+- 實作頁面導覽與生命週期事件 
+- 實作資料存取與資料繫結 
+- 針對調適型編碼實作功能偵測 
+- 管理使用者輸入及自訂使用者互動 
+- 管理驗證和身分識別管理 
+- 實作通知、背景工作與可重複使用的元件 
 roles:
 - administrator
 type: mcsa
@@ -21,6 +31,7 @@ products:
 - vs
 courses:
 - uid: course.20483
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlMD
 exams:
 - uid: exam.70-483
 - uid: exam.70-357

@@ -13,7 +13,13 @@ subTitle: 本認證展現您具有資料庫安裝、維護、設定和調配任�
 levels:
 - intermediate
 skills:
-- none
+- 設定資料存取與稽核 
+- 管理資料庫的備份與還原 
+- 管理與監視 SQL Server 執行個體 
+- 管理高可用性與災害復原
+- 在 Azure 實作 SQL
+- 管理資料庫與實例 
+- 管理儲存 
 roles:
 - database-administrator
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20764
 - uid: course.20765
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlME
 exams:
 - uid: exam.70-764
 - uid: exam.70-765

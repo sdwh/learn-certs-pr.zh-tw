@@ -13,12 +13,16 @@ subTitle: '如果您想進入技術領域，MTA認證是一個很好的開始。
 levels:
 - beginner
 skills:
-- 無
+- 瞭解安全層 
+- 瞭解作業系統安全性 
+- 瞭解網路安全性 
+- 瞭解安全軟體 
 roles:
 - administrator
 type: mta
 products:
 - windows-server
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIolL
 exams:
 - uid: exam.98-367
 resources:

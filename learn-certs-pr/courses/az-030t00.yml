@@ -18,6 +18,9 @@ skillsGained:
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - intermediate
 roles:

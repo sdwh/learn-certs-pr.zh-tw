@@ -23,6 +23,13 @@ locales:
 - ja
 - zh-cn
 - ko
+- de
+- zh-tw
+- fr
+- es
+- pt-br
+- ru
+- ar-sa
 levels:
 - intermediate
 skills:

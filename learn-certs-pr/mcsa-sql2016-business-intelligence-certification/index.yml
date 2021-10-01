@@ -13,7 +13,13 @@ subTitle: 本認證證明您具備擷取、轉換及載入 (ETL) 資料倉儲等
 levels:
 - intermediate
 skills:
-- none
+- 設計、實作和維護資料倉儲 
+- 擷取、轉換和加載資料 
+- 構建資料品質解決方法 
+- 設計多維度商業智慧 (BI) 語意模型 
+- 設計表格式 BI 語意模型
+- 使用多維度運算式 (MDX) 與資料分析運算式 (DAX) 來開發查詢 
+- 設定及維護 SQL Server Analysis Services (SSAS) 
 roles:
 - data-analyst
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20767
 - uid: course.20768
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdYZ
 exams:
 - uid: exam.70-767
 - uid: exam.70-768

@@ -13,12 +13,18 @@ subTitle: '如果您想進入技術領域，MTA認證是一個很好的開始。
 levels:
 - beginner
 skills:
-- 無
+- 使用資料類型和運算子執行操作
+- 控制帶有決策與迴圈的流程 
+- 執行輸入與輸出操作 
+- 文件與結構代碼
+- 執行疑難排解與錯誤處理 
+- 使用模組與工具執行操作 
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLr
 exams:
 - uid: exam.98-381
 resources:

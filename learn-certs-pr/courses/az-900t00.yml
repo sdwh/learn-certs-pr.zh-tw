@@ -10,6 +10,16 @@ iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- de
+- fr
+- es
+- pt-br
+- ru
+- zh-tw
+- it
 levels:
 - beginner
 roles:
@@ -34,7 +44,7 @@ summary: |-
 prerequisitesSection: |-
   參加本課程沒有任何先決條件。但是，學生 掌握的技術知識越多，他們對雲端的了解就越多。
 outlineSection: |-
-  ### 模組 1&#58；描述核心Azure概念
+  ### 模組 1&#58; 描述核心Azure概念
   在本模組中，您將深度學習Azure及其能力的入門知識，這將成為您完成Azure Fundamentals可用模組學習的堅實基礎。
   #### 課程
   - Azure基礎知識簡介
@@ -47,7 +57,7 @@ outlineSection: |-
   - 描述訂閱、管理小組、資源等核心Azure架構元件
   - 總結Azure區域、區域對及可用性區域等地理分佈概念
 
-  ### 模組 2&#58；描述核心Azure服務
+  ### 模組 2&#58; 描述核心Azure服務
   在本模組中，您將瞭解Azure資料庫、Azure計算、Azure存儲及Azure網路等核心Azure服務。
   #### 課程
   - 研究Azure資料庫及分析服務
@@ -62,7 +72,7 @@ outlineSection: |-
   - 檢查Virtual Networks、VPN Gateways、Azure ExpressRoute等Azure網路資源
   - 總結Azure Blob Storage、Azure Disk Storage、Azure File Storage等Azure存儲服務
 
-  ### 模組 3&#58；描述Azure上的核心解決方案和管理工具
+  ### 模組 3&#58; 描述Azure上的核心解決方案和管理工具
   在本模組中，您將瞭解AI機器學習、Azure DevOps、監控基礎知識、管理基礎知識、無伺服器計算基礎知識以及IoT基礎知識。
   #### 課程
   - 選擇您需要的最佳AI服務
@@ -80,7 +90,7 @@ outlineSection: |-
   - 選擇適用於您業務場景的合適的無伺服器計算技術。
   - 選擇適用於特定業務場景的最佳Azure IoT服務。
 
-  ### 模組 4&#58；描述總體安全及網路安全特徵
+  ### 模組 4&#58; 描述總體安全及網路安全特徵
   在本模組中，您將學習如何進行個人安全威脅防護以及如何用Azure保護您的網路安全。
   #### 課程
   - 在Azure上進行安全威脅防護
@@ -95,7 +105,7 @@ outlineSection: |-
   - 配置網路安全小組以在Mic內過濾進出Azure資源的流量
   - 說明Azure DDoS Protection如何保護您的Azure資源不受DDoS攻擊。
 
-  ### 模組 5&#58；描述身份、治理、隱私和合規特徵
+  ### 模組 5&#58; 描述身份、治理、隱私和合規特徵
   在本模組中，您將瞭解Azure身份識別服務、如何創建雲治理策略以及Azure上的隱私、合規、資料保護標準。
   #### 課程
   - 使用Azure身份識別服務保護對您應用程式的訪問
@@ -116,7 +126,7 @@ outlineSection: |-
   - 深入瞭解Azure上的監管標準和合規性。
   - 說明Azure應對特定政府主管部門的能力。
 
-  ### 模組 6&#58；描述Azure成本管理和服務水準協定
+  ### 模組 6&#58; 描述Azure成本管理和服務水準協定
   在本模組中，您將學習如何計畫和管理Azure成本，以及如何通過SLA和服務生命週期來選擇合適的Azure服務。
   #### 課程
   - 計畫和管理您的Azure成本

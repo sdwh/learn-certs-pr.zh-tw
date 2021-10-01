@@ -41,7 +41,7 @@ paths:
 - uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
 - uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
 - uid: learn-dynamics.implement-finance-operations
-- uid: learn-dynamics.use-success-design-unified-operations
+- uid: learn-dynamics.use-success-design
 - uid: learn.wwl.config-d365-finance-operations-apps
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
 exams:

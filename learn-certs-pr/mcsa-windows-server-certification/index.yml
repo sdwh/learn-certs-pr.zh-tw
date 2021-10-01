@@ -13,7 +13,24 @@ subTitle: 證明您已精通 Windows Server 2012 主要技能，能降低 IT 成
 levels:
 - intermediate
 skills:
-- none
+- 安裝和設定伺服器 
+- 設定伺服器角色和功能 
+- 設定Hyper-V 
+- 部署和設定Microsoft 雲端服務
+- 安裝和管理Active Directory
+- 建立及管理群組原則
+- 部署、管理及維護伺服器
+- 設定檔案和列印服務
+- 設定網路服務及存取
+- 設定網路原則伺服器基礎結構
+- 設定及管理 Active Directory
+- 設定及管理群組原則
+- 設定及管理高可用性
+- 設定檔案及存放解決方案
+- 實作商務持續性與嚴重損壞修復
+- 設定網路服務
+- 設定 Active Directory 基礎結構
+- 設定存取和資訊保護解決方案
 roles:
 - administrator
 type: mcsa
@@ -23,6 +40,7 @@ courses:
 - uid: course.20410
 - uid: course.20411
 - uid: course.20412
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIomH
 exams:
 - uid: exam.70-410
 - uid: exam.70-411

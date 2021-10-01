@@ -1,0 +1,173 @@
+### YamlMime:Course
+title: SharePoint 2016 Site Owner Training
+metadata:
+  title: 'Course 55251-A: SharePoint 2016 Site Owner Training'
+  description: 'Course 55251-A: SharePoint 2016 Site Owner Training'
+uid: course.55251
+courseNumber: '55251-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 導航 SharePoint 2016小組網站。
+- skill: 創建和編輯網頁內容。
+- skill: 創建網站欄和內容類別型。
+- skill: 集成 Office 應用程式和 SharePoint 2016。
+- skill: 管理 SharePoint 2016 資源的基礎許可權。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  該為期2天的 SharePoint 2016 網站所有者課程針對在 SharePoint 2016 環境中工作的網站所有者/管理員。
+
+  #### 受眾概覽
+  該課程適用於 SharePoint 2016 的新手用戶。
+outlineSection: |-
+  ### 模組 1&#58; 使用網站
+  所有 SharePoint 內容都可通過網站訪問。SharePoint 網站是列表和庫的容器，為基礎的管理提供起點。網站的內容、清單、庫和基本的外感和風格都由用來創建此網站的網站模版預先確定。
+  #### 課程
+  - 網站模版
+  - 創建網站
+  - 創建小組網站
+  - 網站導航
+  - 管理網站導航
+
+
+  #### 實驗室&#58; 創建小組網站
+
+  #### 實驗室&#58; 創建會議工作區
+
+  #### 實驗室&#58; 創建博客網站
+  完成此模組後，學生將能夠&#58;
+  - 理解網站模版是什麼。
+  - 理解使用不同 SharePoint 版本的立即可用的網站模版的不同類型。
+  - 使用網站模版創建新的網站。
+  - 創建項目網站。
+  - 創建小組網站。
+  - 創建社區網站。
+  - 創建博客網站。
+  - 在頂部連結列管理列出的網站。
+
+
+  ### 模組 2&#58; 網頁內容
+  SharePoint 提供了很多方法來將內容添加在網頁中。小組網站模版的最新技術及所實施的一項是通過 Wiki 樣式頁面實現。SharePoint 開始時所採用的另一種方法是使用  Web Parts 和 Web Part 頁面。這兩項技術在可創建的輸出方面類似，且 Web Part 頁面和 Wiki 頁面都可以添加 Web Parts。
+
+  #### 課程
+  - Wiki 庫頁面
+  - 編輯小組網站首頁
+  - Web Part 頁面
+  - 創建 Web Part 頁面
+  - 使用 Web Parts
+  - 將 Web Parts 添加至頁面
+
+
+  #### 實驗室 &#58; 使用 Wiki 頁面
+
+  #### 實驗室 &#58; 使用 Web Part頁面和 Web Parts
+
+  完成此模組後，學生將能夠&#58;
+  - 理解 Wiki 頁面是什麼。
+  - 理解 Web Part頁面和 Web Parts 是什麼。
+  - 向小組網站首頁添加內容。
+  - 更改小組網站首頁的佈局。
+  - 創建 Web Part 頁面。
+  - 創建 Wiki 頁面庫。
+  - 添加 Web Parts。
+  - 管理 Web Parts。
+  
+  ### 模組 3&#58; 表單庫
+  SharePoint Forms 是設計用來存儲 Microsoft InfoPath 表單檔的特殊庫。Microsoft InfoPath 是使用廣泛的欄位和控制項種類通過圖表方式創建表單的設計工具。InfoPath Designer 然後被用來向 SharePoint 發佈您所設計的表單，將其表現為用於表單庫的 web 頁面模版。撰寫此文時，Microsoft 已正式宣佈 InfoPath 將退出市場。 對於 SharePoint 2016，他們保留了該工具的支持，但用戶端工具中將沒有 2016 版本。這意味著您仍然可以在 SharePoint 2016 中使用，但要創建自訂表單，您需要使用 InfoPath 2013 Designer 工具。SharePoint 的未來版本很可能根本不再支持 InfoPath forms。出於此原因，本課程中的此章節為選修。
+  #### 課程
+  - 創建表單庫
+  - 創建 InfoPath Forms
+  - 使用 Microsoft InfoPath Designer 創建表單
+  - 向 SharePoint 發佈 InfoPath Forms
+  - 發佈自訂 InfoPath Form
+
+
+  #### 實驗室 &#58; 創建和發佈 InfoPath Forms
+
+  完成此模組後，學生將能夠&#58;
+  - 理解表單庫是什麼。
+  - 創建表單庫。
+  - 使用 InfoPath Designer 來設計基礎的表單模版。
+  - 向表單庫發佈 InfoPath Designer 表單模版。
+  - 設計表單模版欄位作為庫列。
+  - 在表單庫中創建檔實例。
+
+
+  ### 模組 4&#58; 網站欄和內容類別型
+  自訂 SharePoint 的方法在某種程度上可以在網站或網站集或甚至整個場中再次使用，即創建網站欄和內容類別型。網站欄是最簡單的元素；除您在網站級別創建它們之外，它們和列表及庫欄基本是一樣的，然後在網站及任何子網站中它們都可以被使用。內容類別型是網站欄和其他設置和資訊如檔模版和工作流的結合。網站類型，一經創建，就可以被連結到清單和庫中。
+
+  #### 課程
+  - 網站欄圖庫
+  - 探索網站欄圖庫
+  - 創建網站欄
+  - 創建已定義網站欄
+  - 向列表添加網站欄
+  - 網站內容類別型圖庫
+  - 探索網站內容類別型圖庫
+  - 創建內容類別型
+  - 如何創建使用內容類別型
+  
+  #### 實驗室 &#58; 創建並使用內容類別型
+
+  #### 實驗室 &#58; 向庫添加內容類別型
+  完成此模組後，學生將能夠&#58;
+  - 理解網站欄。
+  - 理解內容類別型。
+  - 理解網站欄。
+  - 創建內容類別型。
+  - 為內容類別型創建文件模版。
+  - 向列表或庫分配內容類別型。
+  - 在自訂內容類別型上創建新的條目。
+
+
+  ### 模組 5&#58; 管理 SharePoint 網站許可權
+  SharePoint 網站的許可權在創建網站時就已被分配。預設將分配給網站集根目錄的許可權由子網站繼承。在任何時候，許可權的繼承都可以在網站、列表、庫或甚至在列表或庫的條目級上關閉。許可權本身可以被分配給 SharePoint 群組、個人用戶或在 SharePoint 之外創建的組，如 Windows群組。
+
+  #### 課程
+  - SharePoint 群組
+  - 分配許可權
+  - 許可權級別
+  - 許可權繼承，理解 SharePoint 群組
+
+
+  #### 實驗室 &#58; 使用 SharePoint 許可權
+  完成此模組後，學生將能夠&#58;
+  - 理解 SharePoint 群組。
+  - 創建 SharePoint 群組。
+  - 在 SharePoint 中分配許可權。
+  - 查看許可權級別。
+  - 在網站級別管理許可權繼承。
+  - 在列表或庫級別管理許可權繼承。
+  - 在專案級別管理許可權繼承。
+
+
+  ### 模組 6&#58; 參與用戶社區
+  SharePoint 為用戶以個人網站的形式提供了社交協作的交流場所。體驗和功能與流行的社交媒體網站如 Facebook 和 LinkedIn 非常相似。主要的區別是它由 SharePoint Farm 控制且通常僅向內部網路開放。
+
+  #### 課程
+  - 配置使用者檔案和我的網站
+  - 通知推送
+  - 人員通知推送
+  - 文件通知推送
+  - 網站通知推送
+  - 標籤通知推送
+  - 管理個人網站
+
+
+  #### 實驗室 &#58; 管理和查看個人資訊和內容
+  完成此模組後，學生將能夠&#58;
+  - 編輯個人檔案。
+  - 管理通知推送。
+  - 添加人員通知推送。
+  - 添加文件通知推送。
+  - 添加網站通知推送。
+  - 關注標籤。
+  - 存儲個人內容。

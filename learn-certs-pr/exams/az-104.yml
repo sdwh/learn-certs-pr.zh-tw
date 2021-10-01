@@ -6,9 +6,13 @@ metadata:
 uid: exam.az-104
 displayName: AZ-104
 summary: |-
-  <div><font color='red'><strong>本次考試的內容於2021年5月25日進行了更新。請下載下面的技能測試檔，看看有何變化。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>該考試內容將在2021年9月24日更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
 
   參加該測驗的考生應具有主題知識，可以實作、管理和監控組織的 Microsoft Azure 環境。
+
+  該崗位職責包括在 cloud 環境中實施、管理和監控身份、治理、存儲、計算和虛擬網路，以及在需要時規定、排列、監控和調整資源。
+  
+  Azure 管理員通常擔任致力於實施組織 cloud 基礎設施的更大型團隊的成員。
 
   參加該測驗的應試者應至少具有六個月的 Azure 管理實踐經驗，並對核心 Azure 服務、Azure 工作負載、安全性和治理有深刻的了解。此外，該角色應具有使用 PowerShell、Azure CLI、Azure 門戶和 Azure 資源管理員模板的經驗。
 
@@ -29,10 +33,11 @@ locales:
 - ja
 - fr
 - es
+- de
 levels:
 - intermediate
 skills:
-- 本次考試的內容於2021年5月25日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
+- 該考試內容將在2021年9月24日更新。請在下方下載考試技能大綱以查看將要改變的地方。
 - 管理 Azure 身份識別和治理 (15-20%)
 - 實作和管理存儲 (15-20%)
 - 部署和管理 Azure 計算資源 (20-25%)

@@ -13,7 +13,13 @@ subTitle: 本認證展示您身為資料庫 (內部部署資料庫和雲端式�
 levels:
 - advanced
 skills:
-- none
+- 使用 Transact-SQL 來管理資料
+- 使用進階 Transact-SQL 元件來查詢資料 
+- 使用 Transact-SQL 來程式設計資料庫
+- 設計及實作資料庫物件
+- 實作可編程對象 
+- 管理資料庫並行處理
+- 最佳化資料庫物件與 SQL 基礎結構
 roles:
 - developer
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20761
 - uid: course.20762
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIomL
 exams:
 - uid: exam.70-761
 - uid: exam.70-762

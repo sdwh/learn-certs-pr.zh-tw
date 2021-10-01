@@ -6,11 +6,11 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div><strong>該考試內容將在2021年8月5日更新。請下載如下的技能測試檔來查看將要改變的部分。</strong><br/><br/></div>
+  <div><font color='red'><strong>該考試內容將在2021年9月29日更新。請下載如下的技能測試檔來查看將要改變的部分。</strong><br/><br/></div>
   
   參加本次考試的是 Microsoft 365 Enterprise Administrators，他們參與 Microsoft 365 服務的評估、規劃、遷移、部署和管理。他們為企業執行 Microsoft 365 租戶管理任務，其中包括其身份、安全、合規、Power Platform 和配套技術。
 
-  考生應具備 Microsoft 365 工作負載方面的工作知識，並且應是至少一種 Microsoft 365 工作負載 (Exchange, SharePoint, Teams) 以及 Windows 即服務的管理員。考生還具有聯網、伺服器管理以及 IT 基本原理方面的工作知識，比如DNS、Active Directory 和 PowerShell。
+  報考者需擁有 Microsoft 365 workloads 的使用知識且應至少已是 Exchange、SharePoint、Teams 或 Windows 10 部署的管理員。報考者也需擁有網路、伺服器管理和 IT 基礎如 DNS、Active Directory 和 PowerShell 的使用知識。
 subTitle: '此測驗測量您在完成以下技術任務時的能力：設計與實作 Microsoft 365 服務；管理用戶身份與角色；管理訪問和身份驗證；以及規劃 Office 365 工作負載與應用程式。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- 該考試內容將在2021年8月5日更新。請在下方下載考試技能大綱以查看將要改變的地方。
+- 該考試內容將在2021年9月29日更新。請在下方下載考試技能大綱以查看將要改變的地方。
 - 設計和實作Microsoft 365服務 (25-30%)
 - 管理用戶身份和角色 (25-30%)
 - 管理存取和身份驗證 (15-20%)

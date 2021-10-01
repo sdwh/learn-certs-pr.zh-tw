@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-600
 displayName: MS-600
 summary: |-
-  <div><font color='red'><strong>該考試內容已在2021年7月26日更新。請在下方下載考量技能檔以瞭解變更內容。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>該考試內容將在2021年9月24日更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
 
   本測驗的應試者為設計、組建、測試和維護根據使用 Microsoft 365 平台的組織生產力和合作需求進行優化的應用程式和解決方案的 Microsoft 365 開發人員。
 
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 該考試內容已在2021年7月26日更新。請下載下面的考試技巧大綱，看看有何變化。
+- 該考試內容將在2021年9月24日更新。請在下方下載考試技能大綱以查看將要改變的地方。
 - 實作 Microsoft Identity (20-25%)
 - 使用 Microsoft Graph 構建應用程式 (15-20%)
 - 擴展和自訂 SharePoint (15-20%)

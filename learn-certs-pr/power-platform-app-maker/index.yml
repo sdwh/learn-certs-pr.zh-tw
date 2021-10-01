@@ -78,6 +78,7 @@ paths:
 - uid: learn-bizapps.bring-ai
 - uid: learn-bizapps.ui-controls-canvas-app-powerapps
 - uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.work-power-platform-teams
 exams:
 - uid: exam.pl-100
 resources:

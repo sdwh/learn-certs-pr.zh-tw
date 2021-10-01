@@ -16,6 +16,9 @@ skillsGained:
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - advanced
 roles:
@@ -54,15 +57,15 @@ prerequisitesSection: |-
    * AZ-104 Azure Administrator
    * AZ-303 Microsoft Azure Architect Technologies（推薦）
 outlineSection: |-
-  ### 模組 1&#58；適用於SAP工作負載的Azure簡介
+  ### 模組 1&#58; 適用於SAP工作負載的Azure簡介
 
   學生將學習 Microsoft 和 SAP 之間的協作，探索針對 SAP workloads 的 Azure，評估 Microsoft 組件及學習常見的術語和意義。
 
-  ### 模組 2&#58；創建適用於SAP工作負載的Azure
+  ### 模組 2&#58; 創建適用於SAP工作負載的Azure
 
   包含Azure計算、Azure存儲、Azure網路、身份識別服務以及治理和可管理性課程。
 
-  ### 模組 3&#58；Azure上的SAP認證產品
+  ### 模組 3&#58; Azure上的SAP認證產品
 
   包含有關一般先決條件的課程（公共雲端環境中的SAP支援），針對SAP工作負載的Azure部署選項，針對Azure的SAP產品特定支援，針對SAP工作負載的Azure作業系統支援，針對SAP工作負載的Azure儲存支援，針對SAP的網路支援SAP，對SAP的資料庫支援，對SAP的高可用性和災害復原支援以及對SAP的監視要求。
 
@@ -70,7 +73,7 @@ outlineSection: |-
 
   #### 實驗室 &#58; 線上實驗室 &#58; 在Azure VM上實作Windows叢集
 
-  ### 模組 4&#58；Azure for SAP workloads參考架構
+  ### 模組 4&#58; Azure for SAP workloads參考架構
 
   包含Azure VM上的SAP NetWeaver和AnyDB以及Azure VM上的SAP S4 HANA課程。
 
@@ -91,19 +94,19 @@ outlineSection: |-
   #### 實驗室: 線上實驗室：在運行 Linux 的 Azure VMs 上實施 SAP 架構
 
 
-  ### 模組 8&#58；Azure上的SAP HANA（大型實例） (HLI)
+  ### 模組 8&#58; Azure上的SAP HANA（大型實例） (HLI)
 
   包含在Azure創建SAP HANA（大型實例） (HLI)、HLI認證產品、HLI示例架構、HLI計畫考慮事項、HLI高可用性和災難恢復計畫、HLI備份考慮事項、HLI安全考慮事項、HLI許可和支持、實現和部署HLI、管理HLI以及HLI監控和故障處理。
     
-  ### 模組 9&#58；將SAP工作負載遷移至Azure
+  ### 模組 9&#58; 將SAP工作負載遷移至Azure
 
   包含遷移選項、DMO方法、雲遷移選項以及將超大資料庫遷移至Azure方面的課程
 
-  ### 模組 10&#58；維護適用於SAP工作負載的Azure
+  ### 模組 10&#58; 維護適用於SAP工作負載的Azure
 
   包含遠端系統管理、執行備份和恢復、網路變化、OS和工作負載更新、垂直和水準擴展以及災難恢復方面的課程。
     
-  ### 模組 11&#58；適用於SAP工作負載的Azure監控和故障處理 
+  ### 模組 11&#58; 適用於SAP工作負載的Azure監控和故障處理 
 
   包含Azure VM監控和故障處理及提交支援請求方面的課程。
 
