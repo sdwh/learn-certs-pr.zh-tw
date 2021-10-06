@@ -140,7 +140,7 @@ certifications:
 - uid: certification.azure-for-sap-workloads-specialty
   requiredExams:
   - uid: exam.az-120
-- uid: certification.windows-virtual-desktop-specialty
+- uid: certification.azure-virtual-desktop-specialty
   requiredExams:
   - uid: exam.az-140
 - uid: certification.azure-stack-hub-operator
