@@ -1,0 +1,112 @@
+### YamlMime:Course
+title: Designing and Implementing Cloud Data Platform Solutions
+metadata:
+  title: 'Course 55247-A: Designing and Implementing Cloud Data Platform Solutions'
+  description: 'Course 55247-A: Designing and Implementing Cloud Data Platform Solutions'
+uid: course.55247
+courseNumber: '55247-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 創建 SQL Server 和 Microsoft Azure 資料解決方案
+- skill: 為本地部署和 cloud 資料庫創建安全性解決方案
+- skill: 為資料庫配置高可用性、災難恢復以及可擴展性選項
+- skill: 監控、管理和自動化資料庫解決方案
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+summary: |-
+  該為期三天您的引導式課程針對希望在 SQL Server 和 Microsoft Azure 中設計和實施資料庫解決方案的資料專業人士。安全性、可用性、災難恢復、可擴展性、監控和問題解決方案選項也將被說明。
+
+  #### 受眾概覽
+  該課程針對希望設計和實施本地部署和 Microsoft Azure 資料解決方案的有經驗的資料專業人士。
+prerequisitesSection: |-
+  - 使用資料庫的經驗
+  - 使用 SQL 的經驗
+outlineSection: |-
+  ### 模組 1&#58; 為 SQL Server 和 Microsoft Azure 設計和實施資料庫解決方案
+  該模組解釋了如何為 SQL Server 和 Microsoft Azure 資料庫設計資料庫解決方案。
+  
+  #### 課程
+  - 設計和實施混合以 SQL Server 解決方案
+  - 設計和實施 Azure SQL Database 解決方案
+  - 在 Azure 中設計和實施 MySQL 和 PostgreSQL 資料庫解決方案
+  - 回顧
+
+
+  #### 實驗室 &#58; 為 SQL Server 和 Microsoft Azure 設計和實施資料庫解決方案
+  - 實施混合部署 SQL Server 解決方案
+  - 實施 Azure SQL Database 解決方案
+  - 實施 MySQL 資料庫解決方案
+  - 實施 PostgreSQL 資料庫解決方案
+
+  完成此模組後，學生將能夠&#58;
+  - 在 Azure VM 上安裝和配置 SQL Server 
+  - 安裝和配置 Azure 資料庫
+  - 安裝和配置 MySQL 和 PostgreSQL 資料庫
+
+
+  ### 模組 2&#58; 管理、設計和實施資料庫安全性
+  該模組解釋了如何為本地部署或 Azure 資料庫設置安全性。
+  
+  #### 課程
+  - 設計和實施 SQL Server 資料庫安全性
+  - 設計和實施 Azure SQL Database 安全性
+  - 回顧
+
+
+  #### 實驗室 &#58; 管理、設計和實施資料庫安全性
+  - 實施 SQL Server 資料庫安全性
+  - 實施 Azure SQL Database 安全性
+
+  完成此模組後，學生將能夠&#58;
+  - 配置 SQL Server 安全性
+  - 配置 Azure SQL Database 安全性
+
+
+  ### 模組 3&#58; 設計高可用性、災難恢復和可擴展性
+  該模組解釋了如何為高可用性、災難恢復和可擴展性配置資料庫解決方案。
+  
+  #### 課程
+  - 設計和實施高可用性解決方案
+  - 設計和實施災難恢復解決方案
+  - 設計和實施可擴展性解決方案
+  - 回顧
+
+
+  #### 實驗室 &#58; 使用 Python 創建 Microsoft Azure 資料物件 
+  - 實施高可用性解決方案
+  - 實施災難恢復解決方案
+  - 實施可擴展性解決方案
+
+  完成此模組後，學生將能夠&#58;
+  - 配置高可用性解決方案
+  - 配置災難恢復解決方案
+  - 配置可擴展性解決方案
+
+
+  ### 模組 4&#58; 在 Azure 中監控和解決資料庫實施問題
+  此模組解釋了如何監控和解決資料庫實施問題。
+  
+  #### 課程
+  - 在 Azure 上監控和解決 SQL Server VMs 問題
+  - 監控和解決 Azure SQL Databases 問題
+  - 回顧
+
+
+  #### 實驗室 &#58; 使用 Python 創建 Microsoft Azure 資料流程程
+  - 監控和解決 SQL Server 問題
+  - 監控和解決 Azure SQL Databases 問題
+
+  完成此模組後，學生將能夠&#58;
+  - 監控和解決 SQL Server 問題
+  - 監控和解決 Azure SQL Databases 問題
+
+  #### 額外閱讀
+  552241A 和 552242A 課程

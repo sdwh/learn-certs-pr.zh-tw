@@ -7,9 +7,11 @@ uid: certification.m365-developer-associate
 certificationRenewalUid: renewal.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>該認證內容已在2021年9月24日更新。請在 <a href="/learn/certifications/exams/ms-600">MS-600 考試頁面</a>頁面下載技能考核檔以查看更改內容。</strong></font><br/><br/></div>
+
   Microsoft 365 開發人員針對使用 Microsoft 365 平台的組織的生產力和協作需求，對其設計、構建、測試和維護應用程式和解決方法進行最佳化。
 
-  Microsoft 365 開發人員精通 Microsoft identity 和 Microsoft Graph。他們對 UI 元素（包括 Adaptive Cards 和 Office UI Fabric (Fluent UI))、集成點（包括 Microsoft Teams, Office Add-ins, SharePoint Framework, Actionable Messages），以及確定工作量平臺目標方面有著大致的瞭解。
+  Microsoft 365 開發人員精通 Microsoft 身份、Microsoft Graph 以及為 Microsoft Teams 創建應用程式。他們需擁有 UI 元素（包括 Fluent UI (Office UI Fabric）、集成點（包括 Office Add-ins、SharePoint Framework、可操作消息） 及確定工作負載平臺目標的通用知識。
 subTitle: Microsoft 365 開發人員針對使用 Microsoft 365 平台的組織的生產力和協作需求，對其設計、構建、測試和維護應用程式和解決方法進行最佳化。
 levels:
 - intermediate

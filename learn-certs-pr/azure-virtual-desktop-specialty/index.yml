@@ -6,6 +6,8 @@ metadata:
 uid: certification.azure-virtual-desktop-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
+  <div><font color='red'><strong>該認證內容已在2021年9月24日更新。請在 <a href="/learn/certifications/exams/az-140">AZ-140 考試頁面</a>下載技能考核檔以瞭解變更內容。</strong></font><br/><br/></div>
+
   Azure Virtual Desktop Specialty 考試的報考者為在規劃、交付和管理虛擬桌面體驗和 Azure 上針對任何設備的遠端應用程式的 Microsoft Azure 管理員。
   
   該崗位的責任包括部署虛擬桌面體驗和向 Azure 部署應用程式。此崗位的專業人員交付 Windows Virtual Desktop 上的應用程式並對其進行優化以讓其在多會話虛擬環境中運行。要交付這些體驗，他們需要與 Azure 管理員和設計師以及 Microsoft 365 Administrators 密切合作。
@@ -59,6 +61,9 @@ resources:
 - title: Azure 認證海報
   description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 認證之旅
+  description: 探索獲得 Azure 虛擬桌面專業認證的步驟以及幫您做好準備的可用資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKHFH
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://aka.ms/TrainingCertDeck

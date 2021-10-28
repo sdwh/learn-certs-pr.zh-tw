@@ -23,7 +23,7 @@ certificationPaths:
   linkedInKeywords: Dynamics 365 Finance and Operations Apps Developer
   uid: certification-path.d365-finance-and-operations-apps-developer-associate
   prerequisites: 
-  - uid: certification.d365-fundamentals
+  - uid: certification.d365-fundamentals-customer-engagement-apps-crm
     isOptional: true
     levels:
     - beginner 

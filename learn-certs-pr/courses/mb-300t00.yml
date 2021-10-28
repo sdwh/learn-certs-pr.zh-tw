@@ -1,33 +1,36 @@
 ### YamlMime:Course
 title: 'Microsoft Dynamics 365: Core Finance and Operations'
 metadata:
-  title: 'Course MB-300T00: Microsoft Dynamics 365: Core Finance and Operations'
-  description: 'Course MB-300T00: Microsoft Dynamics 365: Core Finance and Operations'
+  title: 'Course MB-300T00--A: Microsoft Dynamics 365: Core Finance and Operations'
+  description: 'Course MB-300T00--A: Microsoft Dynamics 365: Core Finance and Operations'
 uid: course.mb-300t00
 courseNumber: 'MB-300T00'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 如何流覽並有效地使用搜索，過濾和查詢功能
-- skill: 如何使用操作工作區
-- skill: 使用Business Document Management
-- skill: 使用記錄範本
-- skill: 將Power BI與Dynamics 365 Finance and Operations集成在一起
-- skill: 如何實現工作區個性化
-- skill: 確定何時在Dynamics 365 Finance and Operations應用程式中使用Power Platform
-- skill: 如何針對用戶運用安全角色
-- skill: 運行並分析安全報告
-- skill: 創建和使用審批流程
-- skill: 借助“組織層次結構”及其目的進行工作。
-- skill: 如何利用個性化特徵
-- skill: 使用“資料管理”工作區
-- skill: 創建並使用實體範本
-- skill: 在法人實體之間拷貝配置資料
-- skill: 通過使用Office集成導入、匯出資料和管理資料
-- skill: 使用Regression Suite Automation Tool (RSAT)
-- skill: 創建用戶接受度測試(UAT)和測試計畫
-- skill: 創建和使用Business Process Modeler (BPM)
-- skill: 瞭解如何使用Issue search
+- skill: 使用常用功能和實施工具
+- skill: 描述使用案例、功能和工作區
+- skill: 使用並個性化操作工作區
+- skill: 描述案例管理
+- skill: 描述全球位址簿功能和它們的使用案例
+- skill: 確認默認安裝中的可用查詢和報告類型
+- skill: 描述企業檔管理和電子報表功能的使用案例
+- skill: 導航並有效地使用搜索過濾和創建搜索查詢
+- skill: 理解和使用記錄模版
+- skill: 描述 Power Platform 應用程式和服務的使用案例
+- skill: 集成 Power BI 和 Dynamics 365 Finance應用程式。
+- skill: 實施安全和職責劃分
+- skill: 設計和創建工作流
+- skill: 設置和配置法人實體和運營單位
+- skill: 創建批量作業
+- skill: 創建組織層級結構和分配目的
+- skill: 配置使用者選項
+- skill: 使用 Excel 工作簿設計器
+- skill: 在 Dynamics 365 Finance and Operations 中使用 Power Automate 工作流
+- skill: 規劃資料移轉
+- skill: 在財務和運營中管理資料和應用程式
+- skill: 實施 Lifecycle services (LCS) 工具
+- skill: 測試 Dynamics 365 Finance and Operations 應用程式中的解決方案
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -36,238 +39,273 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
-- dynamics-finance
-- dynamics-finance-operations
+- dynamics-365
 exams:
 - uid: exam.mb-300
 summary: |-
-  Dynamics 365 Finance and Operations 應用程式包括，但不限於 Dynamics 365 Finance, Dynamics 365 Supply Chain Management, 以及 Dynamics 365 Supply Chain Management, “製造業”。
-  Dynamics 365 Finance可助您&#58;
-  - 實現全球金融業務的自動化及現代化。
-  - 即時監控性能，預測未來結果，並做出資料驅動的決策，從而推動業務增長。
-  - 借助人工智慧 (AI) 來推動戰略財務決策，統一和自動化您的財務流程，減少運營費用，並降低全球金融的複雜性及風險。
-  
-  Dynamics 365 Supply Chain Management 可助您&#58;
-  - 轉變製造和供應鏈運作。
-  - 在規劃、生產、庫存、倉庫和運輸管理中使用來自 AI 和物聯網 (IoT) 的預測性洞察及智能。
-  - 最大化運營效率、產品品質和盈利能力。
-  - 創新智慧製造業務，現代化倉庫管理，優化生產績效，最大化您的資產壽命，以及自動化並精簡您的供應鏈。
-  
-  注意&#58; 如需更多資料，請參閱 https://docs.microsoft.com/learn/paths/get-started-finance-operations/
-  在本模組中，我們將重點關注 Dynamics 365 Dynamics 365 Finance 應用程式的核心特性及功能，這些應用程式是終端使用者和顧問最常用到的。
-
-  #### 對象設定檔
-  Dynamics 365 for Finance and Operations Functional Consultant負責執行發現、捕獲需求、吸引主題內容專家和利益相關者、轉換需求，並配置該解決方案和應用程式。“功能顧問”通過使用現成的功能、無代碼可擴展性、應用程式和服務集成來實施解決方案。
+  該考試考核了您完成如下技術任務的能力：通過使用 Microsoft Power Platform 技術描述金融和運營應用程式和擴展程式；配置管理功能和工作流；管理財務和運營資料以及驗證和支援解決方案。
+          
+  #### 受眾概覽
+                                                  
+  顧問（功能顧問）收集和分析商業要求並將這些要求轉換到完全實現的實施行業最佳實踐的商業流程和解決方案中。他們在實施和配置應用程式以滿足商業要求中是重要的資源。顧問應能夠實施 Dynamics 365 Finance and Operations 應用程式的核心元件和功能。他們也應知曉 Dynamics 365 Finance and Operations 應用程式如何與包括 Power Platform 在內的外部系統和工具集成。顧問使用 Lifecycle Services (LCS)、Azure DevOps 及其他 Microsoft 工具和平臺來簡化應用程式生命週期管理（ALM）流程。顧問通過閱讀產品版本說明、流覽產品路線圖、參加會議來進行繼續教育，或通過使用 Microsoft Learn、Microsoft Docs、引導式培訓、博客和用戶社區繼續學習。他們也應進行基於崗位的認證和評估以確保他們的知識得以驗證。
 prerequisitesSection: |-
   在參加本課程之前，學生必須具備&#58;
   - Microsoft Windows 的一般知識
-  - 能夠將 Dynamics 365 for Finance and Operations 進行基本處理
+  - 使用 Dynamics 365 for Finance and Operations 進行基礎處理和導航的能力
+  - 作為已使用 Dynamics Finance Apps 收集和分析商業需求的功能或技術顧問的經驗
   - 基本的行動裝置功能和導覽一般知識
+  - 學生應能夠參加同步、虛擬課程並以積極、建設性的態度溝通回饋
 outlineSection: |-
-  ### 模組 1&#58; 使用常用的功能和實施工具
-  在本模組中，您將學習如何&#58;
-  - 使用常用的功能和實施工具。
-  - 描述工作區的用例和功能。
-  - 使用並個性化操作工作區。
-  - 描述案例管理。
-  - 描述全域地址簿功能及其用例。
-  - 識別默認安裝中可用的那些查詢和報告類型
-  - 描述業務文檔管理和電子報告特性的用例。
-  - 使用業務文檔管理。
-  - 流覽並有效地使用搜索過濾和創建搜索查詢。
-  - 瞭解並使用記錄範本。
-  - 描述Power Platform應用程式及服務的用例。
-  - 識別何時在Dynamics 365 Finance應用程式中使用Power Platform。
-  - 將Power BI與Dynamics 365 Finance應用程式集成在一起。
+  ### 模組 1: 使用常用功能和實施工具
+
+  在此模組中，您將學習通過學習基礎的 UI 和導航獲得Dynamics 365 Finance and Operations 介紹。學生也將使用與財務和運營應用程式協作的 Power Platform 工具。
+
   #### 課程
-  - 介紹
-  - 識別和使用常見的Dynamics 365 Finance and Operations應用程式的特性和功能
-  - 描述Power Platform應用程式及服務的用例
-  - 模組概要
-  
-  #### 實驗室&#58; 使用一個操作工作區
-  
-  #### 實驗室&#58; 準備、開啟並使用業務文檔管理
-  
-  #### 實驗室&#58; 執行搜索並使用篩檢程式
-  
-  #### 實驗室&#58; 創建搜索查詢，並保存為未來所用
-  
-  #### 實驗室&#58; 使用記錄範本
-  
-  你已經學會了如何&#58;
-  - 使用常用的功能和實施工具。
-  - 描述工作區的用例和功能。
-  - 使用並個性化操作工作區。
-  - 描述案例管理。
-  - 描述全域地址簿功能及其用例。
-  - 識別默認安裝中可用的那些查詢和報告類型
-  - 描述業務文檔管理和電子報告特性的用例。
-  - 使用業務文檔管理。
-  - 流覽並有效地使用搜索過濾和創建搜索查詢。
-  - 瞭解並使用記錄範本。
-  - 描述Power Platform應用程式及服務的用例。
-  - 識別何時在Dynamics 365 Dynamics 365 Finance應用程式中使用Power Platform。
-  - 將Power BI與Dynamics 365 Dynamics 365 Finance應用程式集成在一起。
-  
-  
-  ### 模組 2&#58; 配置安全性、進程和選項
-  在本模組中，您將學習如何&#58;
-  - 區分角色、職責、特權和許可權。
-  - 針對用戶運用安全角色。
-  - 描述職責劃分。
-  - 運行並分析安全報告。
-  - 創建和使用審批流程。
-  - 配置工作流的屬性和要素。
-  - 建立和配置法人實體和經營單位。
-  - 配置數列並排除故障。
-  - 創建組織層次結構並分配目標。
-  - 描述並應用使用者選項。
-  - 配置附件的文檔處理。
-  - 配置列印管理和表單設置功能。
-  - 描述Microsoft Excel Workbook Designer及Microsoft Dynamics Office外掛程式的用例。
-  - 配置電子郵件(SMTP/Exchange)。
-  - 創建和維護電子郵件範本。
-  - 使用個性化功能。
-  - 設置並監控批量作業和警報。
+
+  *   介紹
+
+  *   Dynamics 365 Finance and Operations 介紹
+
+  *   基礎 UI 和導航
+
+  *   Dynamics 365 Finance &amp; Operations 特色和功能
+
+  *   與財務和運營協作的 Power Platform 工具
+
+  *   模組摘要
+
+
+  #### 實驗室: 使用操作工作區
+
+  ####
+
+  #### 實驗室: 執行搜索並使用篩檢程式
+
+  ####
+
+  #### 實驗室: 為未來的使用創建查詢和保存
+
+  ####
+
+  #### 實驗室: 使用記錄模版
+
+  ####
+
+  #### 實驗室: 準備、啟用和使用商業文件管理
+
+  ####
+
+  #### 實驗室: 使用已保存視圖
+
+  ####
+
+  #### 實驗室: 設置數字序列
+
+  ####
+
+  #### 實驗室: 配置位址簿
+
+  ####
+
+  #### 實驗室: 使用操作工作區
+
+  ####
+
+  您將學習如何：
+
+  *   使用常用功能和實施工具。
+
+  *   描述使用案例、功能和工作區。
+
+  *   使用並個性化操作工作區。
+
+  *   描述案例管理。
+
+  *   描述全球位址簿功能和它們的使用案例。
+
+  *   確認默認安裝中的可用查詢和報告類型。
+
+  *   描述企業檔管理和電子報表功能的使用案例。
+
+  *   導航並有效地使用搜索過濾和創建搜索查詢。
+
+  *   理解和使用記錄模版。
+
+  *   可用於不同商業流程的財務和運營應用程式
+
+  *   描述 Power Platform 應用程式和服務的使用案例。
+
+  *   集成 Power BI 和 Dynamics 365 Finance應用程式。
+
+
+  ### 模組 2: 配置管理功能和工作流
+
+  在此模組中，您將學習如何在財務和運營應用程式中實施安保，同時也實施工作流和商業事件。學生將管理財務和運營應用程式及實施報表。
+
   #### 課程
-  - 介紹
-  - 實現安全
-  - 設計和創建工作流程
-  - 配置組織管理特性
-  - 配置系統管理特性
-  - 模組概要
+
+  *   介紹
+
+  *   在財務和運營應用程式中實施安保
+
+  *   實施 Dynamics 365 Finance and Operations 應用程式工作流和商業事件
+
+  *   在 Dynamics 365 Finance and Operations 中規劃和實施組織
+
+  *   管理財務和運營應用程式
+
+  *   實施 Dynamics 365 Finance and Operations 中的報表
+
+  *   模組摘要
+
+
+  #### 實驗室: 創建批量作業
+
+  ####
+
+  #### 實驗室: 創建組織層級結構
+
+  ####
+
+  #### 實驗室: 創建運營單位
+
+  ####
+
+  #### 實驗室: 創建新的法人實體
+
+  ####
+
+  #### 實驗室: 創建請購單工作流
+
+  ####
+
+  #### 實驗室: 運行安全報告並分析結果
+
+  ####
+
+  #### 實驗室: 設置職責劃分
+
+  ####
+
+  #### 實驗室: 創建用戶和分配安全角色
+
+  ####
+
+  您已學習如何：
+
+  *   實施安全和職責劃分
+
+  *   設計和創建工作流
+
+  *   設置和配置法人實體和運營單位
+
+  *   創建批量作業
+
+  *   創建組織層級結構和分配目的
+
+  *   配置使用者選項
+
+  *   使用 Excel 工作簿設計器
+
+  *   配置電子郵件 (SMTP/Exchange)
+
+  *   創建和維護電子郵件模版
+
+  *   在 Dynamics 365 Finance and Operations 中使用 Power Automate 工作流
   
-  #### 實驗室&#58; 創建用戶並分配安全角色
-  
-  #### 實驗室&#58; 建立職責劃分
-  
-  #### 實驗室&#58; 運行一個安全報告並分析其輸出
-  
-  #### 實驗室&#58; 創建一個請購單流程
-  
-  #### 實驗室&#58; 配置一個新的法人實體
-  
-  #### 實驗室&#58; 創建一個經營單位
-  
-  #### 實驗室&#58; 建立數列
-  
-  #### 實驗室&#58; 創建一個“組織層次結構”並分配目標
-  
-  #### 實驗室&#58; 使用Excel工作簿設計器
-  
-  #### 實驗室&#58; 創建一個批量作業
-  
-  您已經學會了如何&#58;
-  - 區分角色、職責、特權和許可權。
-  - 針對用戶運用安全角色。
-  - 描述職責劃分。
-  - 運行並分析安全報告。
-  - 創建和使用審批流程。
-  - 配置工作流的屬性和要素。
-  - 建立和配置法人實體和經營單位。
-  - 配置數列並排除故障。
-  - 創建組織層次結構並分配目標。
-  - 描述並應用使用者選項。
-  - 配置附件的文檔處理。
-  - 配置列印管理和表單設置功能。
-  - 描述Microsoft Excel Workbook Designer及Microsoft Dynamics Office外掛程式的用例。
-  - 配置電子郵件(SMTP/Exchange)。
-  - 創建和維護電子郵件範本。
-  - 使用個性化功能。
-  - 設置並監控批量作業和警報。
-  
-  
-  ### 模組 3&#58; 管理Dynamics 365 Finance and Operation資料
-  在本模組中，您將學習如何&#58;
-  - 管理Dynamics 365 Finance and Operations應用程式中的資料。
-  - 描述資料管理的概念。
-  - 瞭解資料管理工作區的概觀。
-  - 使用資料管理工作區中的範本。
-  - 準備導入資料或創建所有必要的啟動資料，其中包括郵遞區號資料、客戶、供應商和產品。
-  - 描述資料實體的用例和類型。
-  - 從一個法人實體匯出資料。
-  - 將資料導入一個法人實體。
-  - 通過使用資料管理框架在公司或法人實體之間複製配置資料。
-  - 描述雙寫特性的用例。
-  - 計畫一個遷移策略。
-  - 在Dynamics 365 Finance and Operations應用程式中識別常見的遷移場景和工具。
-  - 確定一次遷移的範圍。
-  - 根據給定的場景識別相關的資料實體和要素。
-  - 建立包括遷移範圍在內的遷移策略流程。
-  - 準備即將遷移的資料並進行遷移。
-  - 在資料移轉之前，創建一個清單，用於對一個給定的場景進行適當的規劃。
-  - 識別並提取來源資料。
-  - 在一個給定的資料移轉場景中，識別用於創建來源資料的可用資料類型。
-  - 在來源資料和目標資料結構之間生成欄位映射。
-  - 通過使用資料管理框架導入或匯出資料。
-  - 支援現有系統和遷移系統之間的轉換。
-  - 執行一次測試遷移並驗證流程的輸出。
-  - 實現資料任務自動化。
+  ### 模組 3: 管理 Dynamics 365 Finance and Operation資料
+
+  在此模組中，您將學習如何通過規劃資料移轉和使用與管理財務和運營應用程式集成的應用程式來管理財務和運營資料。
+
   #### 課程
-  - 介紹
-  - 管理Dynamics 365 Finance and Operations應用程式中的資料
-  - 計畫一個遷移策略
-  - 準備即將遷移的資料並進行遷移
-  - 模組概要
-  
-  #### 實驗室&#58; 使用資料管理工作區中的範本
-  
-  #### 實驗室&#58; 匯出和導入資料
-  
-  #### 實驗室&#58; 在法人實體之間拷貝配置資料
-  
-  在本模組中，您已經學會了如何&#58;
-  - 管理Dynamics 365 Finance and Operations應用程式中的資料。
-  - 描述資料管理的概念。
-  - 瞭解資料管理工作區的概觀。
-  - 使用資料管理工作區中的範本。
-  - 準備導入資料或創建所有必要的啟動資料，其中包括郵遞區號資料及客戶。
-  - 描述資料實體的用例和類型。
-  - 從一個法人實體匯出資料。
-  - 將資料導入一個法人實體。
-  - 通過使用資料管理框架在公司或法人實體之間複製配置資料。
-  - 描述dual-write特性的用例。
-  - 計畫一個遷移策略。
-  - 在Finance and Operations應用程式中識別常見的遷移場景和工具。
-  - 確定一次遷移的範圍。
-  - 根據給定的場景識別相關的資料實體和要素。
-  - 建立包括遷移範圍在內的遷移策略流程。
-  - 準備即將遷移的資料並進行遷移。
-  - 在資料移轉之前，創建一個清單，用於對一個給定的場景進行適當的規劃。
-  - 識別並提取來源資料。
-  - 在一個給定的資料移轉場景中，識別用於創建來源資料的可用資料類型。
-  - 在來源資料和目標資料結構之間生成欄位映射。
-  - 通過使用資料管理框架導入或匯出資料。
-  - 支援現有系統和遷移系統之間的轉換。
-  - 執行一次測試遷移並驗證流程的輸出。
-  - 實現資料任務自動化。
-  
-  
-  ### 模組 4&#58; 驗證並支援該解決方案
-  在本模組中，您將學習如何&#58;
-  - 描述測試用例和業務需求之間的相關性。
-  - 使用最佳實踐來記錄測試用例。
-  - 使用任務記錄器。
-  - 創建一個用於接受度測試的場景，並將其保存在一個Business process modeler (BPM)庫中。
-  - 在Azure DevOps中同步並配置您的測試計畫。
-  - 執行您的測試。
-  - 使用回歸套件自動化工具(RSAT)。
-  - 創建用戶接受度測試(UAT)和測試計畫。
-  - 創建並使用BPM。
-  - 使用“問題”搜索。
+
+  *   介紹
+
+  *   管理 Dynamics 365 Finance and Operations 應用程式中的資料
+
+  *   規劃資料移轉
+
+  *   AppSource 和 ISV 解決方案介紹
+
+  *   Dynamics 365 Finance and Operations 集成
+
+  *   模組摘要
+
+
+  #### 實驗室: 使用資料管理工作區的模版
+
+  ####
+
+  #### 實驗室: 匯出和導入資料
+
+  ####
+
+  #### 實驗室: 在法人實體間複製配置資料
+
+  ####
+
+  #### 實驗室: 使用 Excel 工作簿設計器
+
+  ####
+
+  在此模組中，您已學習如何：
+
+  *   描述資料管理概念。
+
+  *   配置資料模版
+
+  *   確認基於給定場景的相關資料結構和元素。
+
+  *   描述使用案例和資料結構類型。
+
+  *   使用 Excel 工作簿設計器創建模版。
+
+  *   描述雙寫功能的使用案例。
+
+  *   探討如何準備導入資料或創建所有必要啟動資料包括郵遞區號資料
+
+  *   使用資料管理框架導入或匯出資料。
+
+  *   使用資料管理框架在公司之間或法人實體之間複製配置資料。
+
+  *   Dynamics 365 Finance and Operations 集成
+
+
+  ### 模組 4: 驗證和支援解決方案
+
+  在此模組中，您將學習如何在 Dynamics 365 Finance and Operations 中管理應用程式及測試解決方案並實施 Lifecycle services (LCS) 工具。
+
   #### 課程
-  - 介紹
-  - 在Dynamics 365 Finance and Operations應用程式中測試解決方案
-  - 實施Lifecycle Services工具
-  - 模組概要
-  
-  在本模組中，您學習了如何&#58;
-  - 瞭解測試用例和業務需求之間的相關性
-  - 構建測試用例來測試業務功能，而無需成為一名開發人員
-  - 使用任務記錄器功能從而在Lifecycle Services中創建一個業務流程模型
-  - 通過使用BPM，識別並分析差異，以確定任何缺失的功能
-  - 使用Regression suite automation tool (RSAT)
-  - 瞭解何為FastTrack Go-live評估
-  - 如何協助客戶對生產環境提出要求
+
+  *   介紹
+
+  *   在 Dynamics 365 Finance and Operations 中管理應用程式
+
+  *   實施 Lifecycle Services (LCS) 工具
+
+  *   在 Dynamics 365 Finance and Operations 應用程式中測試解決方案
+
+  *   模組摘要
+
+
+  在此模組中，您將學習如何：
+
+  *   現有和希望功能之間的檔缺口
+
+  *   確定創建還是購買
+
+  *   啟動流程和 Fast-Track 啟動流程
+
+  *   LCS 工具和方法學
+
+  *   LCS 中的商務流程建模器
+
+  *   LCS 搜索和服務請求
+
+  *   對話和環境監控工具
+
+  *   BPM 文庫概覽
+
+  *   使用 Regression Suite Automation Tool (RSAT) 和 Azure DevOps 測試案例。
+
+  *   使用跟蹤解析器分析性能

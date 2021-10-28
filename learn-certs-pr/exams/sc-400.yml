@@ -16,12 +16,21 @@ summary: |-
 subTitle: '本次考試可衡量您完成以下技術任務的能力：實施資訊保護；實施資料丟失防護；並實施資訊治理。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr80
+practiceTestUrl: https://in.mindhub.com/sc-400-microsoft-information-protection-administrator-microsoft-official-practice-test/p/MU-SC-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=SC-400&examname=Exam%20SC-400:%20Microsoft%20Information%20Protection%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-400
 locales:
 - en
 - zh-cn
 - ja
 - ko
+- de
+- fr
+- es
+- pt-br
+- ru
+- ar-sa
+- zh-tw
+- it
 levels:
 - intermediate
 skills:

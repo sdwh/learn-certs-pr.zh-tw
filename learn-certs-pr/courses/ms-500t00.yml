@@ -30,6 +30,9 @@ skillsGained:
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
+- ja
+- ko
+- zh-cn
 levels:
 - intermediate
 roles:

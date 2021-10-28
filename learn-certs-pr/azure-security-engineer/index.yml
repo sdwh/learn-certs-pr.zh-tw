@@ -2,19 +2,21 @@
 title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Security Engineer Associate'
-  description: 'Azure 安全工程師實作安全控制和威脅防護，管理身分識別和存取，並保護雲端和混合環境中作為端到端基礎架構一部分的資料、應用程式和網路。'
+  description: 'Azure Security Engineers 實施能夠在 cloud 和作為端到端基礎設施一部分的混合部署環境中保護身份、訪問、資料、應用和網路的 Azure 安全控制項。'
 uid: certification.azure-security-engineer
 certificationRenewalUid: renewal.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Azure 安全工程師證書的應試者應具有實作安全控制和威脅防護、管理身份和訪問以及保護雲端和混合環境中的資料、應用程式和網路（作為端到端基礎結構的一部分）等方面的主題知識。
+  <div><font color='red'><strong>該認證內容已在2021年9月29日更新。請在 <a href="/learn/certifications/exams/az-500">AZ-500 考試頁面</a>下載技能考核檔以瞭解變更內容。</strong></font><br/><br/></div>
 
-  擔任此角色的職責包括維護安全狀況、使用各種安全工具識別和補救漏洞、實作威脅防護以及對安全事件升級做出響應。
-
-  Azure 安全工程師通常是致力於基於cloud的管理和安全的更大規模團隊的一部分，也可作為端到端基礎設施的一部分來保護混合環境。
-
-  參加此認證的應試者應具有較強的腳本編寫和自動化技能；對網路、視覺效果和雲端 N 層架構的深入了解；對 Azure 的雲端功能、產品和服務以及其他 Microsoft 產品和服務非常熟悉。
-subTitle: Azure 安全工程師實作安全控制和威脅防護，管理身分識別和存取，並保護雲端和混合環境中作為端到端基礎架構一部分的資料、應用程式和網路。
+  Azure Security Engineers 的報考者應擁有實施能夠在 cloud 和作為端到端基礎設施一部分的混合部署環境中保護身份、訪問、資料、應用和網路的 Azure 安全控制項的學科知識專長。
+  
+  Azure Security Engineer 的職責包括管理安全態勢、確定並補救漏洞、執行威脅模型分析、實施威脅保護並對安全事件的升級做出回應。
+  
+  Azure Security Engineers 通常擔任大型團隊的成員以規劃和實施基於 cloud 的管理和安保。
+  
+  該認證的報考者應擁有 Azure 和混合部署環境管理的實踐經驗。報考者應擁有作為代碼的基礎設施、安全運營流程、cloud 能力以及 Azure 服務方面的經驗。
+subTitle: Azure Security Engineers 實施能夠在 cloud 和作為端到端基礎設施一部分的混合部署環境中保護身份、訪問、資料、應用和網路的 Azure 安全控制項。
 levels:
 - intermediate
 skills:

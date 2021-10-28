@@ -6,15 +6,15 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div><font color='red'><strong>該考試內容將在2021年9月29日更新。請下載如下的技能測試檔來查看將要改變的部分。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>該考試內容已在2021年9月29日更新。請下載如下的技能測試檔以瞭解變更內容。</strong></font><br/><br/></div><div><font color='red'>請注意：通過分數：700。瞭解更多關於考試分數，請點擊<a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">這裡</a>。</font><br/><br/></div></div>
   
-  參加本次考試的考生應具有實施安全控制和威脅防護、管理身份和訪問以及保護資料、應用程式和網路方面的學科知識專長。
-
-  Azure 安全工程師的職責包括維護安全狀況，使用各種安全工具識別和補救漏洞，實作威脅保護以及對安全事件升級做出響應。
-
-  Azure 安全工程師通常是致力於基於 cloud 的管理和安全的更大規模團隊的一部分，也可作為端到端基礎設施的一部分來保護混合環境。
+  該考試報考者應具備實施保護身份、訪問、資料、應用程式以及 cloud 中的網路以及作為部分端到端基礎設施一部分的混合部署環境的 Azure安全控制項。
   
-  參加本次考試的考生應熟悉腳本和自動化，並對聯網和虛擬化有著深刻的理解。考生還應非常熟悉 cloud 能力、Azure 產品和服務，以及其他 Microsoft 產品和服務。
+  Azure Security Engineer 的職責包括管理安全態勢、確定並補救漏洞、執行威脅模型分析、實施威脅保護並對安全事件的升級做出回應。
+  
+  Azure Security Engineers 通常擔任大型團隊的成員以規劃和實施基於 cloud 的管理和安保。
+  
+  該考試的報考者應擁有 Azure 和混合部署環境管理的實踐經驗。報考者應擁有作為代碼的基礎設施、安全運營流程、cloud 能力以及 Azure 服務方面的經驗。
 subTitle: '此測驗測量您完成以下技術任務的能力：管理身份識別和存取；實作平台防護；管理安全性作業；和保護資料和應用程式。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
@@ -32,11 +32,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 該考試內容將在2021年9月29日更新。請在下方下載考試技能大綱以查看將要改變的地方。
+- 該考試內容已在2021年9月29日更新。請下載下面的考試技巧大綱，看看有何變化。
 - 實作與管理身份與存取 (30-35%）
 - 實作平台防護 (15-20%)
 - 管理安全操作 (25-30%)
-- 保護資料和應用程式 (20-25%)
+- 保護資料和應用程式  (25-30%)
 roles:
 - security-engineer
 products:

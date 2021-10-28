@@ -17,6 +17,9 @@ locales:
 - fr
 - zh-cn
 - zh-tw
+- de
+- ko
+- es
 levels:
 - advanced
 skills:

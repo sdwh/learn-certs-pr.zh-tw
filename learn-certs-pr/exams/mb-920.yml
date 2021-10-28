@@ -12,6 +12,7 @@ summary: |-
 subTitle: '本次考試測試您描述以下內容的能力：Dynamics 365 Supply Chain Management; Dynamics Finance; Dynamics 365 Commerce; Dynamics 365 Human Resources; 專案運營；以及共用的特性。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JFBT
+practiceTestUrl: https://www.mindhub.com/mb-920-microsoft-dynamics-365-fundamentals-erp-/p/MU-MB-920?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
   - providerType: pearson-vue
     examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-920&examname=Exam%20MB-920:%20Microsoft%20Dynamics%20365%20Fundamentals%20(ERP)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-920
@@ -27,7 +28,6 @@ locales:
 - es
 - pt-br
 - ru
-- id-id
 - ar-sa
 - zh-tw
 - it

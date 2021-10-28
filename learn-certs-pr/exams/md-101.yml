@@ -6,9 +6,7 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  <div><font color='red'><strong>該考試內容將在2021年9月24日更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
-
-  如果您在2019年3月31日到期之前通過了[Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx)，您只需要參加測驗 MD-101 即可獲得現代桌面認證。
+  <div><div><font color='red'><strong>該考試內容已在2021年9月24日更新。請下載如下的技能測試檔以瞭解變更內容。</strong></font><br/><br/></div><div><font color='red'>請注意：通過分數：700。瞭解更多關於考試分數的內容，請點擊<a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">這裡</a>。</font><br/><br/></div></div>
 
   參加此測驗的應試者在企業環境中部署、配置、保護、管理和監視設備和客戶端應用程式的管理員。應試者管理身份、存取、策略、更新與應用程式。
 
@@ -17,7 +15,7 @@ summary: |-
   應試必須熟悉 Microsoft 365 工作負載，並且必須在部署，設定與維護 Windows 10 與非 Windows 裝置與技術方面具有豐富的經驗與經驗。
 
   如果你通過本次認證考試，你可能有資格獲得 ACE 大學學分。有關詳細資訊，請參閱 [ACE 大學認證考試學分](/learn/certifications/ace-credit-for-certification-exams)。
-subTitle: '該考試可測試您完成以下技術任務的能力：部署和升級作業系統；管理策略和設定檔；管理和保護設備；以及管理應用程式和資料。如果您在2019年3月31日考試到期之前通過了 Exam 70-698，那麼您只需參加 MD-101 考試就可獲得 Modern Desktop 認證。'
+subTitle: '該考試可測試您完成以下技術任務的能力：部署和升級作業系統；管理策略和設定檔；管理和保護設備；以及管理應用程式和資料。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
 practiceTestUrl: https://www.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -27,7 +25,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 該考試內容將在2021年9月24日更新。請在下方下載考試技能大綱以查看將要改變的地方。
+- 該考試內容已在2021年9月24日更新。請下載下面的考試技巧大綱，看看有何變化。
 - 部署和升級作業系統（25-30%）
 - 管理策略和檔案 (20-25%)
 - 管理和保護設備 (30-35%)

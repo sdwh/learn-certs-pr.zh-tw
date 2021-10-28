@@ -6,7 +6,9 @@ metadata:
 uid: certification.identity-and-access-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  通過使用Azure Active Directory (Azure AD)，“Microsoft身份和訪問管理員”設計、實施並操作一個組織的身份和訪問管理系統。他們管理一些任務，例如為企業應用程式提供安全的身份驗證及授權訪問。該管理員為所有用戶提供無縫體驗及自助服務管理能力。適應性訪問和治理是該角色的核心元素。該角色還負責標識和訪問環境的故障排除、監控及報告。
+  <div><font color='red'><strong>該認證內容已在2021年9月24日更新。請在 <a href="/learn/certifications/exams/SC-300">sc-300 考試頁面</a>頁面下載技能考核檔以查看更改內容。</strong></font><br/><br/></div>
+  
+  Microsoft Identity 和 Access Administrator 使用 Azure Active Directory (Azure AD) 設計、實施和運營組織的身份和訪問管理系統。他們管理一些任務，例如為企業應用程式提供安全的身份驗證及授權訪問。該管理員為所有用戶提供無縫體驗及自助服務管理能力。適應性訪問和治理是該角色的核心元素。該角色還負責標識和訪問環境的故障排除、監控及報告。
 
   身份和訪問管理員可以是單獨的個體，或是較大團隊的成員。該角色與組織中的許多其他角色協作，以推動戰略身份項目，從而實現身份解決方案的現代化，實施混合標識解決方案，並實施身份治理。
 subTitle: 通過使用Azure AD，Microsoft身份和訪問管理員設計、實施並操作一個組織的身份和訪問管理系統。他們管理一些任務，例如為企業應用程式提供安全的身份驗證及授權訪問。

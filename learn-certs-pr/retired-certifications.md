@@ -2,12 +2,12 @@
 title: 認證的取消 | Microsoft Docs
 description: 認證的取消
 documentationcenter: NA
-author: bipach
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 07/30/2019
-ms.author: micsullivan
+ms.author: venkato
 ---
 # 認證的取消
 
@@ -45,7 +45,6 @@ ms.author: micsullivan
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 2021年6月30日 |
 | [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | 2021年6月30日 |
 | [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 2020 年 12 月 31 日 |
-| [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator) | 2020 年 8 月 31 日 |
 
 | Microsoft Certified Solutions Developer                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
@@ -54,7 +53,6 @@ ms.author: micsullivan
 | Microsoft Certified Solutions Associate                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
 | [MCSA: BI Reporting](/learn/certifications/mcsa-bi-reporting)                      | 2021 年 1 月 31 日 |
-| MCSA: CRM Dynamics Technical                                                       | 於 2019 年 12 月 31 日 |
 | [MCSA: Dynamics 365 for Operations](/learn/certifications/mcsa-microsoft-dynamics-365-for-operations) | 2021 年 1 月 31 日 |
 | [MCSA: SQL 2016 Database Admin](/learn/certifications/mcsa-sql2016-database-administration-certification) | 2021 年 1 月 31 日 |
 | [MCSA: SQL 2016 BI Development](/learn/certifications/mcsa-sql2016-business-intelligence-certification) | 2021 年 1 月 31 日 |
@@ -74,7 +72,5 @@ ms.author: micsullivan
 
 | Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| MTA: 98-369: Cloud Fundamentals                                                    | 2019 年9月30日 |
-| MTA: 98-380: Introduction to Programming Using Block-Based Languages (Touch Develop) | 2019年8月7日 |
 ___
 

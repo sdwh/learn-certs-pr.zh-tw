@@ -18,10 +18,10 @@ levels:
 - intermediate
 skills:
 - 設計、實施和管理混合網路
-- 設計和實施核心網路基礎設施 
-- 設計和實施路由
-- 安全保障和管理網路 
-- 設計和實施對 Azure Services 的私有訪問
+- 設計和實施核心網路基礎設施
+- 設計和實施核心網路路由
+- 安全保障和監控網路
+- 設計和實施對 Azure 服務的私密訪問
 roles:
 - network-engineer
 type: role-based

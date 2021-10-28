@@ -2,12 +2,12 @@
 title: 關於透過 Pearson VUE 進行的線上測驗|Microsoft Docs
 description: 關於 Pearson VUE 的線上考試
 documentationcenter: NA 
-author: bipach
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 02/29/2020
-ms.author: micsullivan
+ms.author: venkato
 ---
 # 關於透過 Pearson VUE 進行的線上測驗
 
@@ -80,7 +80,6 @@ Pearson VUE 是一家提供考試服務的公司，它是微軟的合作夥伴�
             <td>
                 <p>穩定的 1 Mbps下載/上傳的上網連接速度是必要的。</p>
                 <p>我們建議在有線網路而不是無線網路上進行測試。</p>
-                <p>明確禁止與行動熱點共用網路。</p>
             </td>
         </tr>
         <tr>
@@ -159,7 +158,6 @@ Pearson VUE 是一家提供考試服務的公司，它是微軟的合作夥伴�
 
 - 線上監考考試可能會被代理伺服器、網路資料包檢測/過濾或嚴格的網路安全配置所中斷。
 - 在參加線上監考考試時，如有可能，請使用硬線的互聯網連接。
-- 不要綁定移動熱點；這是明確禁止的。
 
 ## 測試環境要求
 

@@ -2,19 +2,19 @@
 title: '訪問您的 Certification Dashboard | Microsoft Docs'
 description: '訪問您的 Certification Dashboard' 
 documentationcenter: NA 
-author: micsullivan
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 03/31/2021
-ms.author: msulliv
+ms.author: venkato
 ms.prod: non-product-specific
 ---
 # 訪問您的 Certification Dashboard
 
 ## 什麼是 Certification Dashboard？
 
-您的 [Microsoft Certification Dashboard](https://aka.ms/certdashboard) 是您的所有個人認證相關資訊的主頁。您將需要在此更新您的個人資料、查找您的 Microsoft Certification identification number (MCID)、以及獲取您的 Microsoft Certification 成績報告單。這是查找您的認證相關內容的位置。
+您的 [Microsoft Certification Dashboard](https://www.microsoft.com/learning/dashboard.aspx) 是您的所有個人認證相關資訊的主頁。您將需要在此更新您的個人資料、查找您的 Microsoft Certification identification number (MCID)、以及獲取您的 Microsoft Certification 成績報告單。這是查找您的認證相關內容的位置。
 
 ## 如何訪問您的 Certification Dashboard
 

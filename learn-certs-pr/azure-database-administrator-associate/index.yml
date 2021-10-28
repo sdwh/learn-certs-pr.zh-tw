@@ -6,6 +6,8 @@ metadata:
 uid: certification.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>該認證內容已在2021年9月24日更新。請在 <a href="/learn/certifications/exams/dp-300">DP-300 考試頁面</a>下載技能考核檔以瞭解變更內容。</strong></font><br/><br/></div>
+  
   Azure 資料庫管理員實作和管理建立在 Microsoft Azure 資料服務和 Microsoft SQL Server 的雲原生和混合式資料平台解決方案的可作業層面。Azure 資料庫管理員使用各種方法和工具來執行日常操作，包括套用有關使用行政管理目的的 T-SQL 知識。
 
   <div></br>
