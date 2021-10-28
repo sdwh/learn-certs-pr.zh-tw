@@ -6,6 +6,8 @@ metadata:
 uid: certification.azure-stack-hub-operator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>該認證內容已在2021年9月24日更新。請在 <a href="/learn/certifications/exams/az-600">AZ-600 考試頁面</a>下載技能考核檔以瞭解變更內容。</strong></font><br/><br/></div>
+
   Azure Stack Hub Operator Associate 認證的候選人是 Azure 管理員或 Azure Stack Hub 操作員，他們使用 Azure Stack Hub 從自己的資料中心向最終使用者或客戶提供 cloud 服務。
   
   他們的職責是計畫、部署、包裝、更新和維護 Azure Stack Hub 基礎設施。 他們還提供混合 cloud 資源和請求的服務，並管理基礎設施即服務 (PaaS) 和平臺即服務 (IaaS)。
@@ -42,12 +44,15 @@ resources:
 - title: Azure 認證海報
   description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 認證之旅
+  description: 探索獲得 Azure Stack Hub Operator Associate 認證的步驟以及幫您做好準備的可用資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKD9e
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

@@ -1,17 +1,16 @@
 ### YamlMime:Course
 title: Microsoft Power Platform App Maker
 metadata:
-  title: 'Course PL-100T00-A: Microsoft Power Platform App Maker'
-  description: 'Course PL-100T00-A: Microsoft Power Platform App Maker'
+  title: 'Course PL-100T00--A: Microsoft Power Platform App Maker'
+  description: 'Course PL-100T00--A: Microsoft Power Platform App Maker'
 uid: course.pl-100t00
-courseNumber: 'PL-100T00-A'
+courseNumber: 'PL-100T00'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 設計應用程式並自動化工作流程
 - skill: 創建應用程式並自動化工作流程
 - skill: 在應用程式或自動化工作流的上下文中分析和可視化資料
-- skill: 實作和管理應用程式和自動化的工作流程
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -33,21 +32,26 @@ prerequisitesSection: |-
   - 個人成長心態，並樂於使用技術解決業務問題。
   - 瞭解運營需求，並對預期成果有一個願景。他們採用分階段的迭代策略來解決問題。
 outlineSection: |-
-  ### 模組 1&#58; 在Power Apps中創建模型驅動的應用程式
-  本模塊介紹如何在使用通用資料服務的Power Apps中創建模型驅動的應用程式。
+  ### 模組 1: Microsoft Power Platform 介紹
 
-  ### 模組 2&#58; 在Power Apps中創建畫布應用
-  本模塊向您介紹Power Apps，可幫助您創建和自定義應用程式，然後進行管理和分發。
+  該模組為您介紹了 Microsoft Power Platform。 學習 Power Platform 的組成部分以及用其創建商務解決方案的價值。
 
-  ### 模組 3&#58; 在Power Apps的畫布應用程式中使用UI和控件
-  本模塊將重點介紹如何提供最佳的應用程式導航，以及如何使用主題，圖標，圖像，個性化設置，不同的外形尺寸和控件來構建最佳的UI。
+  ### 模組 2: 在 Power Apps 中創建模型驅動的應用程式
 
-  ### 模組 4&#58; 使用Power Automate自動化業務流程
-  本模塊向您介紹Power Automate，教您如何構建工作流以及如何管理流。
+  該模組向您介紹了在 Power Apps 創建使用 Microsoft Dataverse 的模型驅動型應用程式。
 
-  ### 模組 5&#58; 透過Power BI創建和使用分析報告
-  瞭解什麼是Power BI，包括其構建模塊以及它們如何協同工作。
+  ### 模組 3: 在 Power Apps 中創建畫布應用程式
 
-  ### 模組 6&#58; 開始使用AI Builder
-  該模塊可幫助您從一開始就構建AI模型，並展示如何在無需編寫任何代碼的情況下在業務中使用它。
+  該模組向您介紹了畫布 Power Apps，幫助您創建和自訂應用程式，然後對其進行管理和分配。該模組也將專注於如何提供最好的應用導航，使用主題、圖示、圖片、個性化、不同的 因素和空間構建最好的 UI。
 
+  ### 模組 4: 使用 Power Automate 自動化商業流程
+
+  該模組向您介紹了 Power Automate，教您如何創建工作流以及如何管理工作流。
+
+  ### 模組 5: 使用 Power BI 創建和使用分析報告
+
+  學習 Power BI是什麼，包括其構件及它們如何一起協作。
+
+  ### 模組 6: 以 AI 創建器和 Power Virtual Agents 開始
+
+  該模組從起點説明您構建 AI 模型，及向您演示如何在您的商業中使用而不需撰寫代碼。 該模組也將説明您使用 Power Virtual Agents 为了 Teams 創建聊天機器人。

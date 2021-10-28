@@ -7,6 +7,8 @@ uid: certification.azure-administrator
 certificationRenewalUid: renewal.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>該認證內容已在2021年9月24日更新。請在 <a href="/learn/certifications/exams/az-104">AZ-104 考試頁面</a>下載技能考核檔以瞭解變更內容。</strong></font><br/><br/></div>
+  
   Azure Administrator Associate 認證的應試者應具有在實作、管理和監控組織的 Microsoft Azure 環境方面的主題專業知識。
 
   擔任此角色的職責包括在雲端環境中實作、管理和監控身份、治理、存儲、計算和虛擬網路，以及在需要時提供、調整大小、監控和調整資源。

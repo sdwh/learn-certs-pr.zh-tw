@@ -1,0 +1,128 @@
+### YamlMime:Course
+title: Microsoft Teams Voice Engineer
+metadata:
+  title: 'Course MS-720T00--A: Microsoft Teams Voice Engineer'
+  description: 'Course MS-720T00--A: Microsoft Teams Voice Engineer'
+uid: course.ms-720t00
+courseNumber: 'MS-720T00'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 規劃和配置 Microsoft Teams Phone
+- skill: 為 Teams Phone 劃和優化網路性能
+- skill: 配置和部署直接路由
+- skill: 配置、部署和管理 Teams 設備
+- skill: 管理和解決 Teams Phone 問題
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+summary: |-
+  在該課程中，您將學習使用 Microsoft Teams 在組織內規劃、設計、配置、維護和解決集成通訊解決方案的問題。該課程將涵蓋擁有通話規劃、直接路由和接線員連接的 Teams Phone，此外還有 Teams 設備、音訊/視訊會議和語音轉移。學生將學習解決問題的方法學以及如何解決常見技術和語音問題。
+
+  #### 受眾概覽
+
+  Microsoft Teams 語音工程師在組織內規劃、設計、配置、維護和解決集成通訊解決方案中的問題。Microsoft Teams 語音工程師必須能夠將商業需求轉化為技術架構並設計通訊解決方案。Microsoft Teams 語音工程師需熟悉遠端通訊技術且擁有Microsoft Teams、Microsoft 365 和 PowerShell 經驗。他們必須能夠通過直接路由、接線員連接和 Teams 呼叫計畫 使用 PSTN 接入部署和配置 Microsoft Teams Phone。Microsoft Teams 語音工程師管理 Teams 認證的設備、 音訊/視訊會議和語音轉移。Microsoft Teams 語音工程師與電話提供商及協力廠商賣家合作以在 Microsoft Teams 中啟用高級語音功能。Microsoft Teams 語音工程師也與其他部門的管理員合作，包括網路、身份、許可、安全保障和合規。要獲得 Microsoft Teams 語音工程師認證，報考者必須通過 MS-700 考試。除 MS-720 考試外，還需通過 Managing Microsoft Teams。
+prerequisitesSection: |-
+   參加該課之前，學生必須擁有：
+
+   *   通過 MS-700 考試: Managing Microsoft Teams。
+outlineSection: |-
+  ### 模組 1: 規劃和配置 Teams Phone
+
+  完成此模組後，學生將學習如何規劃和配置 Teams Phone，包括呼叫計畫、直接路由、電腦話務員、呼叫佇列、接線員連接以及如何使用其他服務擴展 Teams Phone。
+
+  #### 課程
+
+  *   規劃 Teams Phone
+
+  *   為 Teams Phone 規劃和優化網路性能
+
+  *   將語音服務從 Skype for Business Server 遷移至 Teams
+
+  *   配置 Teams Phone
+
+  *   配置電腦話務員和呼叫佇列
+
+  *   配置和部署直接路由
+
+  *   使用其他服務口占 Teams Phone
+
+
+  #### 實驗室: 準備實驗室環境
+
+  ####
+   *   配置您的實驗室環境
+   *   分配許可權
+
+  #### 實驗室: 規劃 Teams 語音
+
+  ####
+   *   驗證許可和設備
+
+  #### 實驗室: 為 Teams 語音使用配置您的環境
+
+  ####
+   *   使用網路規劃器評估您的網路
+   *   使用網路 Testing 工具
+   *   配置基礎網路拓撲結構
+   *   配置語音政策
+   *   配置緊急呼叫
+   *   配置音訊會議設置
+   *   為使用者準備呼叫
+   *   配置呼叫佇列和電腦話務員
+
+  #### 實驗室: 擴展您的 Teams 語音環境以使用直接路由
+
+  ####
+   *   配置會談邊界控制器
+   *   配置直接路由設置
+   *   測試直接路由配置
+
+  完成此模組後，學生將能夠: 
+
+  *   規劃和配置 Microsoft Teams Phone
+
+  *   為 Teams Phone 規劃和優化網路性能
+
+  *   配置和部署直接路由
+
+
+  ### 模組 2: 管理 Teams Phone
+
+  在此模組中，學生將學習如何配置 Teams Phone 使用者、設備並解決 Teams Phone 語音問題。
+
+  #### 課程
+
+  *   配置並管理語音使用者
+
+  *   配置、部署和管理 Teams 設備
+
+  *   監控並解決 Teams Phone 問題
+
+
+  #### 實驗室: 將語音服務從 Skype for Business 遷移至 Teams
+
+  ####
+   *   配置混合部署環境
+   *   將用戶遷移至 Teams
+
+  #### 實驗室: 管理您的 Teams 語音環境
+
+  ####
+   *   管理語音使用者
+   *   管理 Teams 設備
+   *   監控並解決 Teams Phone 問題
+
+  完成此模組後，學生將能夠: 
+
+  *   管理語音使用者
+
+  *   配置、部署並管理 Teams 設備
+
+  *   監控並解決 Teams Phone 問題

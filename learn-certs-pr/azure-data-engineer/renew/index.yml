@@ -11,11 +11,12 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   如果您擁有此證書，並且該證書將在六個月內過期，則您有資格更新。通過更新評估，表明您已了解最新的Azure資料工廠更新。您還可以為精選的學習模組更新做準備。
 skills:
-- Azure資料工廠的PB級擷取
-- 使用Azure資料工廠大規模執行無代碼轉換
-- 使用 Azure Data Factory 集成資料
-- 使用 Azure Synapse Analytics 設計資料倉庫
-- 使用 PolyBase 將資料導入 Azure Synapse Analytics
+- 在 Azure Data Factory 或 Azure Synapse Pipeline 中編排資料移轉和轉換
+- 在 Azure Synapse Analytics 中使用 Apache Spark 筆記本攝取資料
+- 為 Azure Synapse Analytics 使用 SQL 無服務器運算查詢 Azure Cosmos DB
+- 在 Azure Synapse Analytics 中使用資料載入最佳實踐
+- 在 Azure Synapse Analytics 中管理和監控資料倉庫活動
+- 在 Azure Synapse Analytics 保障資料倉庫的安全
 examsPassed:
 - dp-200, dp-201 或 dp-203
 studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft認證做準備：Azure Data Engineer Associate更新評估'

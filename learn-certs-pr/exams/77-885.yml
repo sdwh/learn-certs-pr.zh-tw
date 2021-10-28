@@ -6,14 +6,14 @@ metadata:
 uid: exam.77-885
 displayName: 77-885
 summary: |-
+  <div><font color="red"><strong>該考試已被撤銷。要瞭解目前的可用選項，請參閱<a href="/learn/certifications/browse/">流覽認證和考試頁面</a>。</strong></font><br/><br/></div>
+
   此測驗的典型應試者是需要建立或維護基本 Access 資料庫的用戶支持專業人員、培訓師、教師、教授、資料庫用戶或資料庫建立者。用戶可以建立，修改與擴展基本資料庫對象的功能，包括表格、查詢、表單與報告。用戶還可以構建與修改資料庫實體之間的基本關係，並可以指導他人基本的 Access 功能與用法。Access 2010 用戶通常能夠有效地建立，修改與個性化對象。應試者應能夠獨立地開展資料庫項目工作作，並且可以經常回答其他人關於資料庫的問題。應試者應該瞭解並能演示如何建立或修改簡單的 Access 資料庫以及使用範本來建立基本對象。
 subTitle: 此測驗的典型應試者是需要建立或維護基本 Access 資料庫的用戶支持專業人員、培訓師、教師、教授、資料庫用戶或資料庫建立者。用戶可以建立，修改與擴展基本資料庫對象的功能，包括表格、查詢、表單與報告。用戶還可以構建與修改資料庫實體之間的基本關係，並可以指導他人基本的 Access 功能與用法。Access 2010 用戶通常能夠有效地建立，修改與個性化對象。應試者應能夠獨立地開展資料庫項目工作作，並且可以經常回答其他人關於資料庫的問題。應試者應該瞭解並能演示如何建立或修改簡單的 Access 資料庫以及使用範本來建立基本對象。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiDl
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-tw&examcode=77-885&examname=Access%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-885
 locales:
-- zh-tw
-- ja
+- en
 levels:
 - beginner
 skills:
@@ -27,9 +27,6 @@ roles:
 - business-user
 products:
 - office-access
-relatedCertifications:
-- related:
-    uid: none
 resources:
 - title: Exam Replay
   description: 查看兩份可幫助您提高成功幾率的好提議。

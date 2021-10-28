@@ -6,6 +6,8 @@ metadata:
 uid: certification.azure-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
+  <div><font color='red'><strong>該認證內容將在2021年10月25日更新。請在 <a href="/learn/certifications/exams/az-900">AZ-900 考試頁面</a>下載技能考核檔以瞭解將要變更的內容。</strong></font><br/><br/></div>
+  
   Azure 基礎知識認證的應試者應具有雲端服務以及 Microsoft Azure 如何提供這些服務的基礎知識。該證書適用於剛開始使用基於雲的解決方案和服務或對 Azure 尚不熟悉的考生。
 
   Azure 基礎知識認證為證明了解雲概念、Azure 服務、Azure 工作負載、Azure 中的安全性和隱私以及 Azure 定價和支援提供了機會。考生應熟悉一般的技術概念，包括網路、存儲、計算、應用程式支援和開發方面的概念。

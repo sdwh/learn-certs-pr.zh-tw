@@ -1,0 +1,23 @@
+### YamlMime:CertificationRenewal
+title: '更新您的 Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate'
+metadata:
+  title: '更新您的 Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate'
+  description: '如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。'
+uid: renewal.d365-finance-and-operations-apps-developer-associate
+certificationUid: certification.d365-finance-and-operations-apps-developer-associate
+assessmentId: 158e8c4e-48f5-40d9-8d09-911f7f2787e8
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您已擁有此認證且其將在6個月內過期，則您符合更新的條件。您可以通過更新評估表明您已保持 Dynamics 365 中最新的 財務和運營應用程式更新。您也可以準備以學習模組精選來更新認證。
+skills:
+- 以財務和運營應用程式中的可擴展性框架開始
+- 個性化財務和運營應用程式
+- 使用財務和運營應用程式中的分析和報表
+examsPassed:
+- mb-300 或 mb-500
+studyGuideDescription: '使用此精選學習模組説明您準備 Microsoft Certified：Dynamics 365: Finance and Operations Apps Developer Associate 更新評估。'
+resources:
+- title: 關於證書更新
+  summary: 了解線上更新證書的過程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

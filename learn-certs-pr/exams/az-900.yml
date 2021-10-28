@@ -6,9 +6,7 @@ metadata:
 uid: exam.az-900
 displayName: AZ-900
 summary: |-
-  <div>
-  <div> <strong>本次考試的內容於2020年11月9日更新。請下載下面的技能衡量文檔，以瞭解有何變化。</strong><br/><br/></div> 
-  </div>
+  <div><div><font color='red'><strong>該考試內容將在2021年10月25日更新。請下載如下的技能測試檔以瞭解變更內容。</strong></font><br/><br/></div><div><font color='red'>請注意：通過分數：700。瞭解更多關於考試分數的內容，請點擊<a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">這裡</a>。</font><br/><br/></div></div>
   
   參加該測驗的應試者應具有有關雲端服務以及 Microsoft Azure 如何提供這些服務的基礎知識。該測驗適用於剛開始使用基於雲的解決方案和服務或對 Azure 尚不熟悉的考生。
   
@@ -45,12 +43,12 @@ locales:
 levels:
 - beginner
 skills:
-- 本次考試的內容於2020年11月9日更新。請下載以下考試技能大綱，以瞭解有何變化。
+- 該考試內容將在2021年10月25日更新。請在下方下載考試技能大綱以查看將要改變的地方。
 - 描述 cloud 概念（20-25%）
 - 描述核心 Azure 服務（15-20%）
 - 描述 Azure 的核心解決方案和管理工具（10-15%）
 - 描述一般安全和網路安全特性（10-15%）
-- 描述身份、治理、隱私和合規性特徵（20-25%）
+- 描述身份、治理、隱私和合規性特徵 (15-20%)
 - 描述 Azure 成本管理和 Service Level Agreements（10-15%）
 roles:
 - administrator

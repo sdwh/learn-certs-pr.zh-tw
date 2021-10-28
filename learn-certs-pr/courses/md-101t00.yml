@@ -1,10 +1,10 @@
 ### YamlMime:Course
 title: Managing Modern Desktops
 metadata:
-  title: 'Course MD-101T00-A: Managing Modern Desktops'
-  description: 'Course MD-101T00-A: Managing Modern Desktops'
+  title: 'Course MD-101T00--A: Managing Modern Desktops'
+  description: 'Course MD-101T00--A: Managing Modern Desktops'
 uid: course.md-101t00
-courseNumber: 'MD-101T00-A'
+courseNumber: 'MD-101T00'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -23,168 +23,325 @@ roles:
 - administrator
 products:
 - m365
-- windows
 exams:
 - uid: exam.md-101
 summary: |-
   在此課程裡，您將學到如何利用現代化的部署方案去規劃和實作一個操作系統的部署策略，以及如何實作策略更新。我們將會向您介紹現代管理和合作管理策略裡面的關鍵元件。此課程同樣也會涵蓋到把Microsoft Intune整合到企業需要的資料。您還將學到應用程式和基於瀏覽器的應用程式的部署和管理方法。我們還將向您介紹現代管理的關鍵安全理念，包括證明，身份，存取和合法政策。同時我們還會向您介紹技術，比如Azure Active Directory, Azure Information Protection 和 Windows Defender Advanced Threat Protection。當然也包括如何利用這些技術來保護設備和資料。
 
   #### 對象設定檔
-  Modern Desktop Administrator能夠在企業環境下部署，設定，保護，管理和監控設備及其應用程式。責任包括管理身分識別，存取，原則，更新和應用程式。MDA 與 M365 企業管理員共同作業以設計和實作可滿足現代組織商務需求的裝置策略。 
   
-  Modern Desktop Administrator必須對M365的工作量非常熟悉，以及在部署，設定和維護Windows 10或者非Windows設備方面擁有豐富的經驗和技巧。MDA 角色著重於雲端服務，而不是內部部署管理技術。
+  Modern Desktop Administrator能夠在企業環境下部署，設定，保護，管理和監控設備及其應用程式。責任包括管理身分識別，存取，原則，更新和應用程式。MDA 與 M365 企業管理員共同作業以設計和實作可滿足現代組織商務需求的裝置策略。Modern Desktop Administrator必須對M365的工作量非常熟悉，以及在部署，設定和維護Windows 10或者非Windows設備方面擁有豐富的經驗和技巧。MDA 角色著重於雲端服務，而不是內部部署管理技術。
 prerequisitesSection: |-
   Modern Desktop Administrator必須對M365的工作量非常熟悉，以及在部署，設定和維護Windows 10或者非Windows設備方面擁有豐富的經驗和技巧。MDA 角色著重於雲端服務，而不是內部部署管理技術。在完成此教程之前，我們強烈建議您先完成MD-100，Windows 10課程。
 outlineSection: |-
-  ### 模組 1&#58; 計劃作業系統部署策略
-  本模組說明如何計劃和實作部署策略。您將學到關於支撐平台生命週期內的概念。此模塊同樣也涵蓋了使用已經存在的環境和工具去準備部署策略的評估。最後，我們將會向您介紹平台部署的工具和策略。
+  ### 模組 1: 現代化管理
+
+  該模組解釋了在整個周免生命週期中支援桌面的概念。最後，將向學生介紹用於桌面部署的工具和策略。將使用 Azure AD 向學生介紹 cloud 中目錄的概念。學生將學習 Azure AD 和 Active Directory DS 之間的相同點和不同點以及如何在兩者之間進行同步。學生將探索 Azure AD 中的身份管理並學習使用 Windows Hello for Business 以及 Azure AD Identity Protection 和多步驗證進行身份保護。
+
   #### 課程
-  - The Enterprise Desktop
-  - Assessing Deployment Readiness
-  - Deployment Tools & Strategies
+
+  *   企業級桌面
+
+  *   Azure AD 概覽
+
+  *   在 Azure AD 中管理身份
 
 
-  #### 實驗室 &#58; 練習實驗室 - 計劃 Windows 10 部署
-  完成本單元後，學生將能夠&#58;
-  - 描繪企業平台的生命週期
-  - 描繪如何評估現有的環境
-  - 描繪減輕部署困難的方法
-  - 描繪不同的部署工具和方法
+  #### 實驗室: 在 Azure AD 中管理身份
+
+  ####
+
+  #### 實驗室: 使用 Azure AD Connect 連接 Active Directories
+
+  ####
+
+  完成此模組後，學生將能夠:&nbsp;
+
+  *   描述企業級桌面生命週期。
+
+  *   描述 Azure AD 的功能。
+
+  *   使用 有 Active Directory DS 的 Azure AD 管理用戶。
+
+  *   實施Windows Hello for Business。
+
+  *   將設備加入到Azure AD。
 
 
-  ### 模組 2&#58; 實作 Windows 10
-  此模塊涵蓋了在普通場景下部署Windows的現代方法，包括升級和遷移Windows 10，以及部署新設備和刷新已有設備。  您還將學到OS部署的其他方法以及選擇部署方法需要考慮的因素。
+  ### 模組 2: 設備註冊
+
+  該模組也將涵蓋介紹給 Microsoft Endpoint Manager 的 Azure AD 加入，學生也將學習如何為將要註冊到終端管理器和 Intune 的設備配置政策。
+
   #### 課程
-  - 升級裝置到Windows 10
-  - Deploying New Devices and Refreshing
-  - Migrating Devices to Windows 10
-  - Alternate Deployment Methods
-  - Imaging Considerations
+
+  *   管理設備授權
+
+  *   使用 Microsoft Endpoint Configuration Manager 註冊設備
+
+  *   使用 Microsoft Intune 註冊設備
 
 
-  #### 實驗室 &#58; 練習實驗室 - 實作 Windows 10
-  - 創建和部署佈建套件
-  - 移轉使用者設定
-  - 使用 AutoPilot 部署 Windows 10
+  #### 實驗室: 管理註冊到 Intune 中的設備
 
-  完成本模組後，學習者將能夠&#58;
-  - 開發作業系統部署和升級策略
-  - 理解部署的不同方法。
-  - 理解哪些方案可以使用本地部署和雲端型解決方案。
-  - 部署桌面並將其移轉到 Windows 10。
+  ####
 
+  #### 實驗室: 配置和管理 Azure AD 加入
 
-  ### 模組 3&#58; 在 Windows 10中更新應用程式
-  本模組介紹如何管理 Windows 更新。本模組介紹 Windows 10 的服務選項。學生將學習部署更新的不同方法以及如何配置 Windows 更新策略。最後，您將學到利用Windows Analytics如何保證和監控更新。
+  ####
+
+  #### 實驗室: 將設備註冊到 Microsoft Intune
+
+  ####
+
+  完成此模組後，學生將能夠: 
+
+  *   配置並將設備加入 Azure AD
+
+  *   在 Microsoft Endpoint Manager 中配置設備註冊
+
+  *   在 Endpoint Configuration Manager 和 Intune 中註冊設備
+
+  ### 模組 3: 配置描述
+
+  該模組深入探索了 Intune 設備描述，包括設備描述類型以及內置和自訂描述之間的不同。 學生將學習分配描述至 Azure AD 群組及在 Intune 中管理設備和描述。將向您介紹存在於本地部署設備 Windows 中的各種不同使用者檔案類型。您將學習不同檔案的好處以及如何在不同檔案類型之間切換。您將檢查資料夾限制的工作方式以及如何進行設置。該課程然後將以 Enterprise State roaming 概覽和如何為 Azure AD 設備對其進行配置而結束。
+
   #### 課程
-  - 更新 Windows10
-  - Windows Update for Business
-  - Windows Analytics 簡介
+
+  *   配置設備描述
+
+  *   管理使用者檔案
 
 
-  #### 實驗室 &#58; 練習實驗室-管理 Windows 10 的更新
-  - 手動配置 Windows Update 設定 。
-  - 使用GPO配置 Windows Update
+  #### 實驗室: 配置 Enterprise State Roaming
 
-  完成本單元後，學生將能夠&#58;
-  - 描述 Windows 10 服務管道。
-  - 使用群組原則設定配置 Windows 更新。
-  - 將 Windows Update for Business 配置為部署作業系統更新。
-  - 使用 Windows Analytics 評估升級整備程度和更新合規性。
+  ####
+
+  #### 實驗室: 創建和部署配置描述
+
+  ####
+
+  #### 實驗室: 在 Intune 中監控設備和使用者活動
+
+  ####
+
+  完成此模組後，您將能夠：:&nbsp;
+
+  *   描述 Intune 中各種不同類型設備的資訊
+
+  *   創建、管理和監控檔案&nbsp;
+
+  *   在 Intune 中管理 PowerShell 腳本
+
+  *   解釋存在於 Windows 中的不同使用者檔案類型。
+
+  *   解釋如何部署和設定檔夾重定向。
+
+  *   為 Azure AD 設備配置 Enterprise State Roaming。
 
 
-  ### 模組 4&#58; 裝置註冊
-  在此模塊，您將檢測合作管理的好處及其先決條件，並學會如何規劃它。此模塊同樣也涵蓋了Azure AD和Microsoft Intune，以及學會如何設定設備註冊的政策。該模組將總結概述 Intune 中的裝置庫存，並使用 Intune 主控台，Power BI 和 Microsoft Graph 進行報告。
+  ### 模組 4: 應用程式管理
+
+  在此模組中，學生將學習應用程式管理本地部署和基於 cloud 的解決方案。該模組將涵蓋如何在終端管理器中管理 Office 365 ProPlus 部署以及如何在非註冊設備上管理應用程式。該模組也將包括管理 Win32 應用程式以及使用 Microsoft Store for Business 的部署。該模組將以 Microsoft Edge 和 Enterprise Mode 的概覽而結束。
+
   #### 課程
-  - 裝置管理選項
-  - Microsoft Intune 概述
-  - 管理 Intune 裝置註冊和庫存
-  - 使用 Intune 管理裝置
+
+  *   實施移動應用管理 (MAM)
+
+  *   部署和更新應用
+
+  *   管理應用
 
 
-  #### 實驗室 &#58; 練習實驗室- 裝置註冊和管理
-  完成本單元後，學生將能夠&#58;
-  - 描述移轉到共同管理的好處和方法
-  - 使用 Microsoft Intune 部署 MDM
-  - 配置裝置註冊
-  - 在 Windows Intune 中註冊桌上型電腦和行動裝置
-  - 配置和下載清查報表
+  #### 實驗室: 為移動設備配置應用保護政策
+
+  ####
+
+  #### 實驗室: 使用 Intune 部署 cloud 應用
+
+  ####
+
+  #### 實驗室: 使用終端配置管理器部署應用
+
+  ####
+
+  #### 實驗室: 使用 Microsoft Store for Business 部署應用
+
+  ####
+
+  完成此模組後，學生將能夠:&nbsp;
+
+  *   描述應用管理的方法。
+
+  *   使用終端管理器和群組政策部署應用。
+
+  *   配置Microsoft Store for Business。
+
+  *   使用 Intune 部署 Office365 ProPlus。
+
+  *   管理和報告應用目錄和許可。
 
 
-  ### 模組 5&#58; 配置設定檔
-  該模組更深入探討 Intune 裝置設定檔，包括裝置設定檔的類型以及內建和自訂設定檔之間的差異。學生將學習關於如何將設定檔指派給 Azure AD 群組以及在 Intune 中監視裝置和設定檔。本模組總結概述使用 Windows Analytics 進行健康和合規性報告。
+  ### 模組 5: 在 Azure AD 中管理授權
+
+  該模組涵蓋了管理授權的各種不同解決方案。學生也將學習不同類型的 VPN。該模組也涵蓋了合規政策以及如何創建有條件訪問政策。
+
   #### 課程
-  - 配置裝置設定檔
-  - 管理使用者設定檔
-  - 監視裝置
+
+  *   在 Azure AD 中保護身份
+
+  *   啟用組織訪問
+
+  *   實施設備合規政策
+
+  *   使用報告
 
 
-  #### 實驗室 &#58; 練習實驗室-管理設定檔
-  完成本單元後，學生將能夠&#58;
-  - 描述裝置設定檔的類型
-  - 創建和指派裝置設定檔
-  - 配置使用者設定檔和資料夾重新導向
-  - 使用 Intune 和 Windows Analytics 監視並報告裝置
+  #### 實驗室: 創建設備詳細目錄報告
+
+  ####
+
+  #### 實驗室: 配置和驗證設備合規
+
+  ####
+
+  #### 實驗室: 配置多重身份驗證
+
+  ####
+
+  #### 實驗室: 在 Azure AD 為使用者帳戶中配置自助密碼重置
+
+  ####
+
+  完成此模組後，學生將能夠::&nbsp;
+
+  *   描述 Windows Hello for Business
+
+  *   描述 Azure AD Identity Protection
+
+  *   描述和管理多重身份驗證&nbsp;
+
+  *   描述 VPN 類型及配置&nbsp;
+
+  *   部署設備合規和有條件訪問政策nbsp;
+
+  *   使用終端管理器生成詳細目錄報告和合規報告
 
 
-  ### 模組 6&#58; 應用程式管理
-  在本模組中，學生將學習內部部署的應用程式管理和雲端型解決方案。本模組將涵蓋如何在 Intune 中管理 Office 365 ProPlus 部署以及如何在未註冊的裝置上管理應用程式。該模組將總結概述 Internet Explorer 和 Microsoft Edge 的企業模式並使用 Intune 追蹤已安裝的應用程式、授權和指派的應用程式。
+  ### 模組 6: 管理安全性
+
+  在此模組中，學生將學習資料保護。話題將包括 Windows &amp; Azure Information Protection 和Windows 10 中所支援的各種不同加密技術。該模組也涵蓋了 Windows Defender Advanced Threat Protection 的重要功能以及如何在您組織中的設備上實施這些功能。該模組將以使用 Windows Defender 和使用功能如殺毒軟體、防火牆和機密防護而結束。
+
   #### 課程
-  - 實作行動應用程式管理(MAM)
-  - 部署和更新應用程式
-  - 管理應用程式
+
+  *   實施設備資料保護
+
+  *   管理 Windows Defender ATP
+
+  *   在 Windows 10 中管理 Windows Defender
 
 
-  #### 實驗室 &#58; 練習實驗室-管理應用程式
-  完成本單元後，學生將能夠&#58;
-  - 描述應用程式管理的方法
-  - 使用 Intune 和群組原則部署應用程式
-  - 配置商務用 Microsoft Store
-  - 使用 Intune 部署 Office365 ProPlus
-  - 管理和報告應用程式清查和授權
+  #### 實驗室: 使用 Intune 配置終端安全
+
+  ####
+
+  #### 實驗室: 使用 Intune 配置和部署 Windows 資訊保護政策
+
+  ####
+
+  #### 實驗室: 使用 Intune 配置磁片加密
+
+  ####
+
+  完成此模組後，學生將能夠:&nbsp;
+
+  *   描述保護設備資料的方法。
+
+  *   描述 Windows ATP 的功能和好處。
+
+  *   為 Windows Defender 用戶端部署和管理設置。
 
 
-  ### 模組 7&#58; 在 Azure AD 中管理驗證
-  在此模塊，我們會向您介紹Azure AD雲端目錄的概念。學生將學習 Azure AD 和 Active Directory DS 之間的相似性和差異以及如何在兩者之間進行同步。學生將探索 Azure AD 中的身分識別管理，並學習使用 Windows Hello 企業版的身分識別保護以及 Azure AD 身分識別保護和多重要素驗證。
+  ### 模組 7: 使用 Microsoft Endpoint Manager 進行部署- 第1部分
+
+  在此分為2部分的模組中，將向學生介紹使用 Microsoft Endpoint Manager 進行部署。第1部分將涵蓋評估基礎設施和規劃部署的工具，隨後將介紹使用 Microsoft 部署工具包和終端配置管理器進行部署。
+
   #### 課程
-  - Azure AD 概述
-  - 在 Azure AD 中管理身份識別
-  - 在 Azure AD 中保護身份識別
-  - 管理裝置驗證
+
+  *   評估部署準備
+
+  *   本地以工具和策略
 
 
-  #### 實驗室 &#58; 練習實驗室- 在 Azure AD 中管理物件和驗證
-  完成本單元後，學生將能夠&#58;
-  - 描述 Azure AD 的功能。
-  - 使用 Azure AD 和 Active Directory DS 管理使用者。
-  - 實作 Windows Hello 企業版。
-  - 將裝置加入 Azure AD
+  #### 實驗室: 使用 Microsoft 部署工具包部署 Windows 10
+
+  ####
+
+  #### 實驗室: 使用 Endpoint Configuration Manager 部署 Windows 10 
+
+  ####
+
+  完成此模組後，學生將能夠:&nbsp;
+
+  *   描述規劃部署的工具
+
+  *   使用 Microsoft 部署工具包部署 Windows 10
+
+  *   使用 Endpoint Configuration Manager 部署 Windows 10
 
 
-  ### 模塊 8&#58; Managing Device Access and Compliance
-  在這個模塊我們將會向您介紹設備安全管理。此模塊將會涵蓋如何安全地存取企業資源以及介紹一些概念，比如在Windows 10系統下Always On VPN和遠端連接。學生將學習如何創建和部署合規性原則以及如何使用合規性原則進行條件式存取。該模組總結 Intune 中註冊的監視裝置。
+  ### 模組 8: 使用 Microsoft Endpoint Manager 進行部署- 第2部分
+
+  該模組繼續介紹使用 Microsoft Endpoint Manager 進行部署。在第2部分中，學生將學習使用 Windows Autopilot 使用 Microsoft Intune 進行部署。此模組也將包括動態 OS 部署方法，如訂閱啟動。此模組將以學習“共同管理”可以如何被轉化為現代管理而結束。
+
   #### 課程
-  - Microsoft Intune 概述
-  - 實作裝置合規性原則
+
+  *   部署新設備
+
+  *   Dynamic 部署方法
+
+  *   規劃至現代管理的轉變
 
 
-  #### 實驗室&#58; Practice Lab - Managing Access and Compliance
-  完成本單元後，學生將能夠&#58;
-  - 描述啟用來自外部網路存取的方法。
-  - 部署合規性和條件式存取原則。
-  - 使用 Intune 監視裝置合規性。
+  #### 實驗室: 使用配置管理器配置共同管理
+
+  ####
+
+  #### 實驗室: 使用 Autopilot 部署 Windows 10
+
+  ####
+
+  完成此模組後，學生將能夠:&nbsp;
+
+  *   使用 Autopilot 部署 Windows 10
+
+  *   使用訂閱啟動和配置包配置 OS 部署
+
+  *   使用現代管理方法升級、遷移和管理設備
 
 
-  ### 模組 9&#58; 管理安全性
-  在本模組中，學生將資料保護。主題將包括 Windows 和 Azure 資訊保護以及 Windows 10 支援的各種加密技術。此模塊也會涵蓋到Windows Defender Advanced Threat Protection的關鍵能力以及如何樣將這些能力運用到您的企業。該模組結束時將使用 Windows Defender 並使用防毒、防火牆和 Credential Guard 等功能。
+  ### 模組 9: 為 Windows 10 管理更新
+
+  該模組涵蓋管理 Windows 的更新。該模組介紹了針對 Windows 10 的服務選項。學生將學習部署更新的不同方法以及如何配置 Windows 更新策略。最後，學生將學習如何使用桌面分析確保和監控更新。
+
   #### 課程
-  - 實作裝置資料保護
-  - 管理 Windows Defender ATP
-  - 在 Windows 10 中管理 Windows Defender
+
+  *   更新 Windows 10
+
+  *   Windows 企業版更新
+
+  *   桌面分析
 
 
-  #### 實驗室 &#58; 練習實驗室-管理 Windows 10 的安全性
-  完成本單元後，學生將能夠&#58;
-  - 描述保護裝置資料的方法。
-  - 描繪Windows ATP的能力和好處。
-  - 部署和管理 Windows Defender 用戶端的設定。
+  #### 實驗室: 管理 Windows 10 安全和功能更新
+
+  ####
+
+  完成此模組後，學生將能夠: 
+
+  *   描述 Windows 10服務管道。
+
+  *   使用群組原則設置配置 Windows 更新策略。
+
+  *   配置 Windows 企業版更新以部署 OS更新。
+
+  *   使用桌面分析評估更新準備。

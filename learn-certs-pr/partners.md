@@ -165,7 +165,7 @@ ms.prod: non-product-specific
 
 | <a name="brazil"></a>巴西 |
 |-----------|
-| [Fast Lane LATAM](https://www.flane.com.pa/pt/microsoft)</br>[Green Treinamento](https://www.green.com.br/infogreen/Campanha_Microsoft/OFERTAS.htm)</br>[InforMaker Treinamentos](https://www.informaker.com.br/Microsoft.asp?Numero=126)<br/>[Ka Solution](https://www.kasolution.com.br/Microsoft)</br>[Mindworks Informatica](https://www.mindworks.com.br/treinamentos)</br>[Sisnema Informatica Ltda](https://sisnema.com.br/microsoft-cursos-oficiais)</br>[Tech Data Academy](https://academy.techdata.com/br/vendor/microsoft/training/) |
+| [Fast Lane LATAM](https://www.flane.com.pa/pt/microsoft)</br>[Green Treinamento](https://www.green.com.br/infogreen/Campanha_Microsoft/OFERTAS.htm)</br>[InforMaker Treinamentos](https://www.informaker.com.br/Microsoft.asp?Numero=126)<br/>[Ka Solution](https://www.kasolution.com.br/Microsoft)</br>[Mindworks Informatica](https://www.mindworks.com.br/treinamentos)</br>[NSI Training Tecnologia SC Ltda](https://nsi.com.br/treinamentos-oficiais-microsoft-2/)</br>[Sisnema Informatica Ltda](https://sisnema.com.br/microsoft-cursos-oficiais)</br>[Tech Data Academy](https://academy.techdata.com/br/vendor/microsoft/training/) |
 
 | <a name="bulgaria"></a>保加利亞 |
 |-----------|
@@ -309,7 +309,7 @@ ms.prod: non-product-specific
 
 | <a name="lebanon"></a>黎巴嫩 |
 |-----------|
-| [Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses)</br>[New Horizons Computer Learning Center](https://www.newhorizons.com/mspartner) |
+| [Formatech](https://www.formatechedu.com/courses?provider=15)</br>[Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses)</br>[New Horizons Computer Learning Center](https://www.newhorizons.com/mspartner) |
 
 | <a name="luxembourg"></a>盧森堡 |
 |-----------|
@@ -405,7 +405,7 @@ ms.prod: non-product-specific
 
 | <a name="russia"></a>俄羅斯 |
 |-----------|
-| [Centre of Computer Training Specialist](https://www.specialist.ru/vendor/microsoft)   </br>[Eureca](https://www.eureca.ru/edu/study/course/microsoft/)   </br>[Fast Lane Russia](https://www.flane.ru/microsoft)   </br>[Softline](https://edu.softline.ru/vendors/microsoft)</br>[Stars and S](https://stars-s.ru/microsoft.html) |
+| [Centre of Computer Training Specialist](https://www.specialist.ru/vendor/microsoft)   </br>[Eureca](https://www.eureca.ru/edu/study/course/microsoft/)   </br>[Fast Lane Russia](https://www.flane.ru/microsoft)   </br>[Softline](https://edu.softline.com/vendors/microsoft/)</br>[Stars and S](https://stars-s.ru/microsoft.html) |
 
 | <a name="saudi-arabia"></a>沙特阿拉伯 |
 |-----------|

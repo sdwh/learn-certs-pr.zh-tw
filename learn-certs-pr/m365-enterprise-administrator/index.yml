@@ -7,8 +7,9 @@ uid: certification.m365-enterprise-administrator
 certificationRenewalUid: renewal.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  Microsoft 365 企業管理員評估，規劃，移轉，部署和管理 Microsoft 365 服務。
+  <div><font color='red'><strong>該認證內容將已于最近被更新。<a href="/learn/certifications/exams/ms-100">Ms-100</a> 已於2021年9月29日更新，<a href="/learn/certifications/exams/ms-101">MS-101</a> 已於2021年9月24日更新。請在相關考試頁面下載技能測試檔來查看改變的部分。</strong><br/><br/></div>
 
+  Microsoft 365 企業管理員評估，規劃，移轉，部署和管理 Microsoft 365 服務。
 subTitle: Microsoft 365 企業管理員評估，規劃，移轉，部署和管理 Microsoft 365 服務。
 levels:
 - advanced
@@ -29,19 +30,22 @@ courses:
 - uid: course.ms-100t00
 - uid: course.ms-101t00
 paths:
-- uid: learn-m365.identity-and-access
-- uid: learn.security.manage-identity-and-access
-- uid: learn-m365.microsoft-365-get-modern
-- uid: learn-m365.m365-stay-current
-- uid: learn-m365.manage-enterprise-deployment-m365
-- uid: learn-m365.m365-cloud-security
-- uid: learn-m365.m365-security-threat-protection
-- uid: learn-m365.m365-security-management
-- uid: learn.security.manage-security-operations
-- uid: learn-m365.m365-messaging-secure-environment
-- uid: learn-m365.m365-compliance-information
-- uid: learn-m365.audit-safeguard-customer-data
-- uid: learn-m365.compliance-discover
+- uid: learn.wwl.design-your-microsoft-365-tenant
+- uid: learn.wwl.configure-your-microsoft-365-tenant
+- uid: learn.wwl.manage-your-microsoft-365-tenant
+- uid: learn.wwl.explore-microsoft-365-platform-services
+- uid: learn.wwl.plan-implement-identity-synchronization
+- uid: learn.wwl.implement-applications-external-access-azure-ad
+- uid: learn.wwl.introduction-to-microsoft-365-security-metrics
+- uid: learn.wwl.manage-your-microsoft-365-security-services
+- uid: learn.wwl.implement-microsoft-365-threat-intelligence
+- uid: learn.wwl.introduction-to-data-governance-microsoft-365
+- uid: learn.wwl.implement-data-governance-microsoft-365-intelligence
+- uid: learn.wwl.manage-data-governance-microsoft-365
+- uid: learn.wwl.manage-content-search-investigations-microsoft-365
+- uid: learn.wwl.prepare-for-device-management-microsoft-365
+- uid: learn.wwl.plan-your-windows-10-deployment-strategy
+- uid: learn.wwl.implement-mobile-device-management-microsoft-365
 prerequisites:
 - uid: certification.modern-desktop
   isOptional: false

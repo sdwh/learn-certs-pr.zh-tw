@@ -2,12 +2,12 @@
 title: '測驗改期和取消策略 | Microsoft Docs'
 description: '測驗改期和取消策略' 
 documentationcenter: NA 
-author: micsullivan
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 08/11/2020
-ms.author: msulliv
+ms.author: venkato
 ms.prod: non-product-specific
 ---
 # 測驗改期和取消策略

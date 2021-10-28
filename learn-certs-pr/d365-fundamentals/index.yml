@@ -29,8 +29,6 @@ roles:
 type: fundamentals
 products:
 - dynamics-365
-courses:
-- uid: course.mb-901t00
 paths:
 - uid: learn-dynamics.wwl.dynamics-365-fundamentals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj0

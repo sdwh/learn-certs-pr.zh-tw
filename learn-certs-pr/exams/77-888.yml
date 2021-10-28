@@ -6,13 +6,14 @@ metadata:
 uid: exam.77-888
 displayName: 77-888
 summary: |-
+  <div><font color="red"><strong>該考試已被撤銷。要瞭解目前的可用選項，請參閱<a href="/learn/certifications/browse/">流覽認證和考試頁面</a>。</strong></font><br/><br/></div>
+
   專家級 Microsoft Office Excel 2010 用戶能夠在特性與功能級別高效且自信地使用 Excel 2010 軟體。專家用戶精通高階公式、函數與資料分析工具。專家用戶可操縱用於分析、演示與協作的資料。此外，專家用戶還可以操縱 Excel 選項來自訂他們的環境，以滿足不同的需求與提高他們的工作效率。
 subTitle: 專家級 Microsoft Office Excel 2010 用戶能夠在特性與功能級別高效且自信地使用 Excel 2010 軟體。專家用戶精通高階公式、函數與資料分析工具。專家用戶可操縱用於分析、演示與協作的資料。此外，專家用戶還可以操縱 Excel 選項來自訂他們的環境，以滿足不同的需求與提高他們的工作效率。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k0
-scheduleExamUrl: https://www.certiport.com/locator
 locales:
-- zh-tw
+- en
 levels:
 - beginner
 skills:
@@ -25,9 +26,6 @@ roles:
 - business-user
 products:
 - office-excel
-relatedCertifications:
-- related:
-    uid: none
 resources:
 - title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
