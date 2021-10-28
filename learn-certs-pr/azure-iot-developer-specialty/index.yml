@@ -6,15 +6,17 @@ metadata:
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
+  <div><font color='red'><strong>該認證內容已在2021年9月24日更新。請在 <a href="/learn/certifications/exams/az-220">AZ-220 考試頁面</a>下載技能考核檔以瞭解變更內容。</strong></font><br/><br/></div>
+
   此認證的考生應具備創建和維護 IoT 解決方案的 cloud 和 edge 部分所需的實施配置和編碼任務所需的學科知識專長。
   
   此崗位職責包括部署物理設備、使用 cloud 服務對其進行配置和維護以及在設備的整個生命週期中維護和解決配置問題。
   
   Azure IoT 也要負責實施 IoT 解決方案的設計規範，包括設備拓撲、連通性、診斷和監控以及安全。這些專業人士為解決方案的 Azure IoT Edge 部分開發和部署模型並配置設備網路。除此之外，他們為解決方案實施設計以管理資料管道，包括監控和資料在與 IoT 相關時的轉換。
   
-  Azure IoT 開發者與設計師、資料工程師和其他相關者合作共事以確保成功的業務集成，包括 Azure Digital Twins 服務的實施。
+  Azure IoT 開發人員與設計師、資料工程師和其他相關者合作共事以確保成功的業務集成，包括 Azure Digital Twins 服務的實施。
   
-  該認證的報考者應具有對設備類型和 Azure services 的整體理解，包括資料存儲選項、資料分析、資料處理、AI 和其他平臺作為服務(PaaS)選項。他們必須能夠在至少一種 Azure IoT 軟體發展工具支持的（支援 SDK）語言中進行程式設計。
+  該認證的報考者應具有對設備類型和 Azure 服務的整體理解，包括資料存儲選項、資料分析、資料處理、AI 和其他平臺作為服務(PaaS)選項。他們必須能夠在至少一種 Azure IoT 軟體發展工具支持的（支援 SDK）語言中進行程式設計。
 subTitle: Azure IoT 開發人員開發 Azure IoT 解決方案的雲端和邊緣元件。
 levels:
 - intermediate

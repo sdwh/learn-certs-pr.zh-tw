@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-600
 displayName: AZ-600
 summary: |-
-  <div><font color='red'><strong>該考試內容將在2021年9月24日更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>該考試內容已在2021年9月24日更新。請下載如下的技能測試檔以瞭解變更內容。</strong></font><br/><br/></div><div><font color='red'>請注意：通過分數：700。瞭解更多關於考試分數的內容，請點擊<a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">這裡</a>。</font><br/><br/></div></div>
 
   考試 AZ-600 的候選人是 Azure administrators 或 Azure Stack Hub 操作員，他們使用 Azure Stack Hub 從自己的資料中心向最終使用者或客戶提供 cloud 服務。
   
@@ -34,7 +34,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 該考試內容將在2021年9月24日更新。請在下方下載考試技能大綱以查看將要改變的地方。
+- 該考試內容已在2021年9月24日更新。請下載下面的考試技巧大綱，看看有何變化。
 - 提供服務 (30-35%)
 - 實施資料中心集成 (15-20%)
 - 管理身份和訪問 (10-15%)
@@ -56,12 +56,15 @@ relatedCertifications:
 - related:
     uid: certification.azure-stack-hub-operator
 resources:
+- title: 認證之旅
+  description: 探索獲得 Azure Stack Hub Operator Associate 認證的步驟以及幫您做好準備的可用資源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKD9e
 - title: 訓練和認證指南
   description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
   description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 测验重放
   description: 查看兩份可幫助您提高成功幾率的好提議。
   href: ../deals.md

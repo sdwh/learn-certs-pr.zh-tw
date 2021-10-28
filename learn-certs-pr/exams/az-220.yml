@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
-  <div><font color='red'><strong>該考試內容將在2021年9月24日更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>該考試內容已在2021年9月24日更新。請下載如下的技能測試檔以瞭解變更內容。</strong></font><br/><br/></div><div><font color='red'>請注意：通過分數：700。瞭解更多關於考試分數的內容，請點擊<a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">這裡</a>。</font><br/><br/></div></div>
   
   該考試報考者應擁有創建和維護 IoT 解決方案的 cloud 和 edge部分所要求的實施配置和程式設計任務的主題專業技能。
   
@@ -32,7 +32,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 該考試內容將在2021年9月24日更新。請在下方下載考試技能大綱以查看將要改變的地方。
+- 該考試內容已在2021年9月24日更新。請下載下面的考試技巧大綱，看看有何變化。
 - 建立 IoT 解決方案基礎設施 (10-15%)
 - 提供和管理設備 (15-20%)
 - 實施 IoT Edge (15-20%)

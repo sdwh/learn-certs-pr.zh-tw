@@ -8,9 +8,9 @@ displayName: DP-100
 summary: |-
   <div><font color='red'><strong>本次考試的內容於2021年5月20日進行了更新。請下載下面的技能測試檔，看看有何變化。</strong></font><br/><br/></div>
   
-  Azure Data Scientist Associate 認證的考生應具有應用資料科學和機器學習在 Azure 上實施並運行機器學習工作負載的專業技能。
+  該考試的報考者應具備應用資料科學和機器學習以在 Microsoft Azure 上實施和運行機器學習負載的學科知識專長。
   
-  該角色的職責包括為 Azure 上的資料科學工作負載規劃並創建一個合適的工作環境。你可以進行資料實驗並訓練預測模型。此外，您還可以管理、優化並將機器學習模型部署到生產中。
+  該崗位的職責包括為在 Azure 上的資料科學負載規劃和創建合適的工作環境。他們運行資料試驗並準備預測模型。此外，他們管理、優化並將機器學習模型部署到生產中。
   
   該認證的考生應具有資料科學知識和使用 Azure Machine Learning 及 Azure Databricks 方面的經驗。
 subTitle: '該考試可以測試您完成以下技術任務的能力：管理用於機器學習的 Azure 資源；進行實驗並訓練模型；部署並操作化機器學習解決方案；以及實施負責任的機器學習。'
@@ -52,7 +52,7 @@ paths:
 - uid: learn.wwl.create-machine-learn-models
 - uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
-- uid: learn.wwl.perform-data-science-azure-databricks
+- uid: learn.wwl.build-operate-machine-learning-solutions-azure-databricks
 relatedCertifications:
 - related:
     uid: certification.azure-data-scientist

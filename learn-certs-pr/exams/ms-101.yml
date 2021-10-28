@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div><font color='red'><strong>該考試內容將在2021年9月24日更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>該考試內容已在2021年9月24日更新。請下載如下的技能測試檔以瞭解變更內容。</strong></font><br/><br/></div><div><font color='red'>請注意：通過分數：700。瞭解更多關於考試分數的內容，請點擊<a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">這裡</a>。</font><br/><br/></div></div>
   
   此測驗的應試者是參與評估、規劃、移轉、部署與管理 Microsoft 365 服務的 Microsoft 365 企業管理員。他們為企業執行 Microsoft 365 租戶管理任務，包括其身份識別，安全性，合規性與支援的技術。
   
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- 該考試內容將在2021年9月24日更新。請在下方下載考試技能大綱以查看將要改變的地方。
+- 該考試內容已在2021年9月24日更新。請下載下面的考試技巧大綱，看看有何變化。
 - 實作現代裝置服務 (40-45%)
 - 實作 Microsoft 365 安全與威脅管理 (20-25%)
 - 管理 Microsoft 365 治理和合規性 (35-40%)
@@ -37,16 +37,16 @@ exams:
 courses:
 - uid: course.ms-101t00
 paths:
-- uid: learn-m365.manage-enterprise-deployment-m365
-- uid: learn-m365.identity-and-access
-- uid: learn-m365.m365-cloud-security
-- uid: learn-m365.m365-security-threat-protection
-- uid: learn-m365.m365-security-management
-- uid: learn.security.manage-security-operations
-- uid: learn-m365.m365-messaging-secure-environment
-- uid: learn-m365.m365-compliance-information
-- uid: learn-m365.audit-safeguard-customer-data
-- uid: learn-m365.compliance-discover
+- uid: learn.wwl.introduction-to-microsoft-365-security-metrics
+- uid: learn.wwl.manage-your-microsoft-365-security-services
+- uid: learn.wwl.implement-microsoft-365-threat-intelligence
+- uid: learn.wwl.introduction-to-data-governance-microsoft-365
+- uid: learn.wwl.implement-data-governance-microsoft-365-intelligence
+- uid: learn.wwl.manage-data-governance-microsoft-365
+- uid: learn.wwl.manage-content-search-investigations-microsoft-365
+- uid: learn.wwl.prepare-for-device-management-microsoft-365
+- uid: learn.wwl.plan-your-windows-10-deployment-strategy
+- uid: learn.wwl.implement-mobile-device-management-microsoft-365
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator

@@ -43,8 +43,6 @@ roles:
 - student
 products:
 - dynamics-365
-courses:
-- uid: course.mb-901t00
 paths:
 - uid: learn-dynamics.wwl.dynamics-365-fundamentals
 relatedCertifications:

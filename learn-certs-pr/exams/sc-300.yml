@@ -6,7 +6,7 @@ metadata:
 uid: exam.sc-300
 displayName: SC-300
 summary: |-
-  <div><font color='red'><strong>該考試內容將在2021年9月24日更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>該考試內容已在2021年9月24日更新。請下載如下的技能測試檔以瞭解變更內容。</strong></font><br/><br/></div><div><font color='red'>請注意：通過分數：700。瞭解更多關於考試分數的內容，請點擊<a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">這裡</a>。</font><br/><br/></div></div>
 
   通過使用Azure Active Directory (Azure AD)，“Microsoft身份和訪問管理員”設計、實施並操作一個組織的身份和訪問管理系統。他們管理一些任務，例如為企業應用程式提供安全的身份驗證及授權訪問。該管理員為所有用戶提供無縫體驗及自助服務管理能力。適應性訪問和治理是該角色的核心元素。該角色還負責標識和訪問環境的故障排除、監控及報告。
 
@@ -32,7 +32,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 該考試內容將在2021年9月24日更新。請在下方下載考試技能大綱以查看將要改變的地方。
+- 該考試內容已在2021年9月24日更新。請下載下面的考試技巧大綱，看看有何變化。
 - 實施身份管理解決方案 (25-30%)
 - 實施身份驗證及訪問管理解決方案 (25-30%)
 - 實施應用程式訪問管理 (10-15%)

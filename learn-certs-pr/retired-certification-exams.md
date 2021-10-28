@@ -2,12 +2,12 @@
 title: 考試停用 | Microsoft Docs
 description: 考試停用
 documentationcenter: NA
-author: micsullivan
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 07/30/2019
-ms.author: msulliv
+ms.author: venkato
 ms.prod: non-product-specific
 ---
 # 排定要撤銷(到期)的測驗
@@ -42,20 +42,12 @@ ms.prod: non-product-specific
 |基於角色| | |
 | --- | --- | --- |
 | [AI-100](/learn/certifications/exams/ai-100) | Designing and Implementing an Azure AI Solution | 2021年6月30日
-| [AZ-103](/learn/certifications/exams/AZ-103) | Microsoft Azure Administrator | 2020 年 8 月 31
-| [AZ-203](/learn/certifications/exams/AZ-203) | Developing Solutions for Microsoft Azure | 2020 年 8 月 31
-| [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | 2020 年 9 月 30
-| [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect Design | 2020 年 9 月 30
 | [DP-200](/learn/certifications/exams/dp-200) | Implementing an Azure Data Solution | 2021年8月31日
 | [DP-201](/learn/certifications/exams/dp-201) | Designing an Azure Data Solution | 2021年8月31日
 | [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | December 31, 2020
 | [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | December 31, 2020
 | [MB-600](/learn/certifications/exams/mb-600) | Microsoft Dynamics 365 + Power Platform Solution Architect | June 30, 2021
 | [MB-901](/learn/certifications/exams/mb-901) | Microsoft Dynamics 365 Fundamentals | June 30, 2021
-| [MS-200](/learn/certifications/exams/ms-200) | Planning and Configuring a Messaging Platform | 2020 年 8 月 31
-| [MS-201](/learn/certifications/exams/ms-201) | Implementing a Hybrid and Secure Messaging Platform | 2020 年 8 月 31
-| [MS-300](/learn/certifications/exams/ms-300) | Deploying Microsoft 365 Teamwork | 2020 年 8 月 31
-| [MS-301](/learn/certifications/exams/ms-301) | Deploying SharePoint Server Hybrid | 2020 年 8 月 31
 
 <br/>
 
@@ -117,12 +109,20 @@ ms.prod: non-product-specific
 | AZ-100 | Microsoft Azure Infrastructure and Deployment | 2019年5月1日
 | AZ-101 | Microsoft Azure Integration and Security | 2019年5月1日
 | AZ-102 | Microsoft Azure Administrator Certification Transition | 2019年6月30
+| AZ-103 | Microsoft Azure Administrator | 2020年8月31日
 | AZ-200 | Microsoft Azure Developer Core Solutions | 2019年1月3日
 | AZ-201 | Microsoft Azure Developer Advanced Solutions | 2019年1月3日
 | AZ-202 | Microsoft Azure Developer Certification Transition | 2019年3月31
+| AZ-203 | Developing Solutions for Microsoft Azure | 2020年8月31日
+| AZ-300 | Microsoft Azure Architect Technologies | 2020年9月30日
+| AZ-301 | Microsoft Azure Architect Design | 2020年9月30日
 | AZ-302 | Microsoft Azure Solutions Architect Certification Transition | 2019年6月30日
 | MB-900 | Microsoft Dynamics 365 Fundamentals | 2019年12月31日
+| MS-200 | Planning and Configuring a Messaging Platform | 2020年8月31日
+| MS-201 | Implementing a Hybrid and Secure Messaging Platform | 2020年8月31日
 | MS-202 | Microsoft 365 Messaging Administrator Certification Transition | 2019年9月30日
+| MS-300 | Deploying Microsoft 365 Teamwork | 2020年8月31日
+| MS-301 | Deploying SharePoint Server Hybrid | 2020年8月31日
 | MS-302 | Microsoft 365 Teamwork Administrator Certification Transition | 2019年9月30日
 
 | ITPro/Developer | | |

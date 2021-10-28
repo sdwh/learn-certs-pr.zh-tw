@@ -15,12 +15,13 @@ providers:
   examUrl: http://www.certiport.com/locator
 locales:
 - en
-- es-mx
+- es
 - fr
 - de
 - ja
 - ko
 - zh-cn
+- zh-tw
 levels:
 - intermediate
 skills:

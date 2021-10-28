@@ -1,13 +1,13 @@
 ---
-title: 'certification-exam-policies | Microsoft Docs'
-description: 'certification-exam-policies' 
+title: '測驗政策和常見問題 | Microsoft Docs'
+description: '測驗政策和常見問題' 
 documentationcenter: NA 
-author: micsullivan
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 10/14/2019
-ms.author: msulliv
+ms.author: venkato
 ms.prod: non-product-specific
 ---
 # 測驗政策和常見問題

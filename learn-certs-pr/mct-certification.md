@@ -2,12 +2,12 @@
 title: 'Microsoft Certified Trainer | Microsoft Docs'
 description: 'Microsoft Certified Trainer'
 documentationcenter: NA 
-author: micsullivan
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 11/26/2019
-ms.author: msulliv
+ms.author: venkato
 ms.prod: non-product-specific
 ---
 # Microsoft Certified Trainer
@@ -89,6 +89,7 @@ MCT 計劃是專為全球各地積極提供 Microsoft 技術訓練工作的教�
 - [Microsoft Certified: Azure Data Engineer Associate](/learn/certifications/azure-data-engineer)
 - [Microsoft Certified: Azure Database Administrator Associate](/learn/certifications/azure-database-administrator-associate)
 - [Microsoft Certified: Azure Stack Hub Operator Associate](/learn/certifications/azure-stack-hub-operator/)
+- [Microsoft Certified: Azure Network Engineer Associate](/learn/certifications/azure-network-engineer-associate/)
 - [Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](/learn/certifications/m365-enterprise-administrator)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](/learn/certifications/modern-desktop)
@@ -109,9 +110,9 @@ MCT 計劃是專為全球各地積極提供 Microsoft 技術訓練工作的教�
 - [Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate](/learn/certifications/d365-functional-consultant-financials)
 - [Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate](/learn/certifications/d365-functional-consultant-manufacturing)
 - [Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate](/learn/certifications/d365-functional-consultant-supply-chain-management)
+- [Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate](/learn/certifications/d365-functional-consultant-commerce/)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
-- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) (於2020年12月31日停用)
 - [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) (於2021年6月30日撤銷)
 - [Microsoft Certified: Security Operations Analyst Associate](/learn/certifications/security-operations-analyst/)
 - [Microsoft Certified: Identity and Access Administrator Associate](/learn/certifications/identity-and-access-administrator/)

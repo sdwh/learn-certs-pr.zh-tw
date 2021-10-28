@@ -10,7 +10,7 @@ summary: |-
   
   本測驗會驗證應試者具備基礎安全性方面的識與技能。這可作為參加 Microsoft Certified Solutions Associate (MCSA) 測驗的暖身練習。建議應試者修習相關訓練課程，以熟悉這裡所描述的概念和技術。應試者應在 Windows Server、Windows 基礎網路、Active Directory、反惡意程式碼產品、防火牆、網路拓撲與裝置和網路連接埠方面具備實際操作體驗。
 
-  <div style='font-weight&#58; bold;'><br/>自 2016 年 6 月 23 日起，本測驗除了安全性與威脅條款的更新之外，還包括 Windows 10 的更新。要了解有關這些變更以及它們如何影響所測技能的更多資訊，請下載並檢閱 98-367 測驗變更文件。</div>
+  <div><strong><br/>自 2016 年 6 月 23 日起，本測驗除了安全性與威脅條款的更新之外，還包括 Windows 10 的更新。要了解有關這些變更以及它們如何影響所測技能的更多資訊，請下載並檢閱 98-367 測驗變更文件。</strong></div>
 subTitle: 本測驗會驗證應試者具備基礎安全性方面的識與技能。這可作為參加 Microsoft Certified Solutions Associate (MCSA) 測驗的暖身練習。建議應試者修習相關訓練課程，以熟悉這裡所描述的概念和技術。應試者應在 Windows Server、Windows 基礎網路、Active Directory、反惡意程式碼產品、防火牆、網路拓撲與裝置和網路連接埠方面具備實際操作體驗。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k1
@@ -37,7 +37,7 @@ levels:
 - beginner
 skills:
 - 瞭解安全層 (25-30%)
-- 瞭解作業系統安全性 (35-40%)
+- 瞭解作業系統安全性 (30-35%)
 - 瞭解網路安全性 (20-25%)
 - 瞭解安全軟體 (15-20%)
 retirementDate: 06/30/2022

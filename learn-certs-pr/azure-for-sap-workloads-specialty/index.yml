@@ -7,6 +7,8 @@ uid: certification.azure-for-sap-workloads-specialty
 certificationRenewalUid: renewal.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
+  <div><font color='red'><strong>該認證內容已在2021年9月24日更新。請在 <a href="/learn/certifications/exams/az-120">AZ-120 考試頁面</a>下載技能考核檔以瞭解變更內容。</strong></font><br/><br/></div>
+  
   該認證的報考者應為設計師或工程師，具備 SAP 系統規劃和針對重要資料移轉或集成以及在 Microsoft Azure上長期運營 SAP 解決方案的豐富經驗和深厚知識。
   
   Azure for SAP 工作負載的架構師或工程師的職責包括就服務提出建議，並根據最佳彈性、性能、規模、供應、大小和監控適當調整資源。
