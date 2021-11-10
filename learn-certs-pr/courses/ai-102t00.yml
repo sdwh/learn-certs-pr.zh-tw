@@ -6,7 +6,7 @@ metadata:
   iltScheduling: false
 uid: course.ai-102t00
 courseNumber: 'AI-102T00-A'
-hoursToComplete: 120
+hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 對 AI 啟動的應用程式開發的注意事項進行描述
