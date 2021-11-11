@@ -23,11 +23,21 @@
 		{
             "source_path": "learn-certs-pr/exam-process-overview.md",
             "redirect_url": "/learn/certifications/frequently-asked-questions",
-            "redirect_document_id": false
+            "redirect_document_id": false		
 		},
 		{
             "source_path": "learn-certs-pr/certification-exams.md",
             "redirect_url": "/learn/certifications/certification-process-overview",
+            "redirect_document_id": false		
+		},
+		{
+            "source_path": "learn-certs-pr/ace-credit-for-certification-exams.md",
+            "redirect_url": "/learn/certifications/college-credit",
+            "redirect_document_id": false		
+		},
+		{
+            "source_path": "learn-certs-pr/college-credit-for-certification-exams.md",
+            "redirect_url": "/learn/certifications/college-credit",
             "redirect_document_id": false		
 		},
 		{
@@ -51,12 +61,52 @@
             "redirect_document_id": false
 		},
 		{
+            "source_path": "learn-certs-pr/courses/40037.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40038.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40039.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40040.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40240.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40241.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
             "source_path": "learn-certs-pr/courses/40349.yml",
             "redirect_url": "/learn/certifications/courses/browse/",
             "redirect_document_id": false
 		},
 		{
             "source_path": "learn-certs-pr/courses/40361.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40362.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40363.yml",
             "redirect_url": "/learn/certifications/courses/browse/",
             "redirect_document_id": false
 		},
@@ -81,7 +131,62 @@
             "redirect_document_id": false
 		},
 		{
+            "source_path": "learn-certs-pr/courses/40369.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40372.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40373.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40374.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
             "source_path": "learn-certs-pr/courses/40375.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},		
+		{
+            "source_path": "learn-certs-pr/courses/40510.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40516.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40561.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40519.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40527.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40529.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/40531.yml",
             "redirect_url": "/learn/certifications/courses/browse/",
             "redirect_document_id": false
 		},
@@ -107,6 +212,381 @@
 		},
 		{
             "source_path": "learn-certs-pr/courses/mb-901t00.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/ai-100t01ja.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/ai-100t01ko.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/ai-100t01zh.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/dp-200t01.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/dp-201t01.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/ms-050T00.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/m365-teams-support-engineer-associate/index.yml",
+            "redirect_url": "/learn/certifications/m365-teams-support-engineer-specialty",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-010t00ja.yml",
+            "redirect_url": "/ja-jp/learn/certifications/courses/az-010t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-010t00ko.yml",
+            "redirect_url": "/ko-kr/learn/certifications/courses/az-010t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-010t00zh.yml",
+            "redirect_url": "/zh-cn/learn/certifications/courses/az-010t00",
+            "redirect_document_id": false
+		},
+                                                                                                                       
+		{
+            "source_path": "learn-certs-pr/courses/az-020t00ja.yml",
+            "redirect_url": "/ja-jp/learn/certifications/courses/az-020t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-020t00ko.yml",
+            "redirect_url": "/ko-kr/learn/certifications/courses/az-020t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-020t00zh.yml",
+            "redirect_url": "/zh-cn/learn/certifications/courses/az-020t00",
+            "redirect_document_id": false
+		},
+                                                                                                                       
+		{
+            "source_path": "learn-certs-pr/courses/az-104t00ja.yml",
+            "redirect_url": "/ja-jp/learn/certifications/courses/az-104t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-104t00ko.yml",
+            "redirect_url": "/ko-kr/learn/certifications/courses/az-104t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-104t00zh.yml",
+            "redirect_url": "/zh-cn/learn/certifications/courses/az-104t00",
+            "redirect_document_id": false
+		},
+                                                                                                                       
+		{
+            "source_path": "learn-certs-pr/courses/az-120t00ja.yml",
+            "redirect_url": "/ja-jp/learn/certifications/courses/az-120t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-120t00ko.yml",
+            "redirect_url": "/ko-kr/learn/certifications/courses/az-120t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-120t00zh.yml",
+            "redirect_url": "/zh-cn/learn/certifications/courses/az-120t00",
+            "redirect_document_id": false
+		},
+                                                                                                                       
+		{
+            "source_path": "learn-certs-pr/courses/az-204t00ja.yml",
+            "redirect_url": "/ja-jp/learn/certifications/courses/az-204t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-204t00ko.yml",
+            "redirect_url": "/ko-kr/learn/certifications/courses/az-204t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-204t00zh.yml",
+            "redirect_url": "/zh-cn/learn/certifications/courses/az-204t00",
+            "redirect_document_id": false
+		},
+                                                                                                                       
+		{
+            "source_path": "learn-certs-pr/courses/az-400t07ja.yml",
+            "redirect_url": "/ja-jp/learn/certifications/courses/az-400t07",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-400t07ko.yml",
+            "redirect_url": "/ko-kr/learn/certifications/courses/az-400t07",
+            "redirect_document_id": false
+		},
+                                                                                                                       
+		{
+            "source_path": "learn-certs-pr/courses/az-500t00ja.yml",
+            "redirect_url": "/ja-jp/learn/certifications/courses/az-500t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-500t00ko.yml",
+            "redirect_url": "/ko-kr/learn/certifications/courses/az-500t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-500t00zh.yml",
+            "redirect_url": "/zh-cn/learn/certifications/courses/az-500t00",
+            "redirect_document_id": false
+		},
+                                                                                                                       
+		{
+            "source_path": "learn-certs-pr/courses/az-900t00ja.yml",
+            "redirect_url": "/ja-jp/learn/certifications/courses/az-900t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-900t00ko.yml",
+            "redirect_url": "/ko-kr/learn/certifications/courses/az-900t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-900t00zh.yml",
+            "redirect_url": "/zh-cn/learn/certifications/courses/az-900t00",
+            "redirect_document_id": false
+		},
+                                                                                                                       
+		{
+            "source_path": "learn-certs-pr/courses/az-900t01ja.yml",
+            "redirect_url": "/ja-jp/learn/certifications/courses/az-900t01",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-900t01ko.yml",
+            "redirect_url": "/ko-kr/learn/certifications/courses/az-900t01",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/az-900t01zh.yml",
+            "redirect_url": "/zh-cn/learn/certifications/courses/az-900t01",
+            "redirect_document_id": false
+		},
+                                                                                                                       
+		{
+            "source_path": "learn-certs-pr/courses/dp-050t00ja.yml",
+            "redirect_url": "/ja-jp/learn/certifications/courses/dp-050t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/dp-050t00ko.yml",
+            "redirect_url": "/ko-kr/learn/certifications/courses/dp-050t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/dp-050t00zh.yml",
+            "redirect_url": "/zh-cn/learn/certifications/courses/dp-050t00",
+            "redirect_document_id": false
+		},
+                                                                                                                       
+		{
+            "source_path": "learn-certs-pr/courses/dp-060t00ja.yml",
+            "redirect_url": "/ja-jp/learn/certifications/courses/dp-060t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/dp-060t00ko.yml",
+            "redirect_url": "/ko-kr/learn/certifications/courses/dp-060t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/dp-060t00zh.yml",
+            "redirect_url": "/zh-cn/learn/certifications/courses/dp-060t00",
+            "redirect_document_id": false
+		},
+                                                                                                                       
+		{
+            "source_path": "learn-certs-pr/courses/dp-070t00ja.yml",
+            "redirect_url": "/ja-jp/learn/certifications/courses/dp-070t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/dp-070t00ko.yml",
+            "redirect_url": "/ko-kr/learn/certifications/courses/dp-070t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/dp-070t00zh.yml",
+            "redirect_url": "/zh-cn/learn/certifications/courses/dp-070t00",
+            "redirect_document_id": false
+		},
+                                                                                                                       
+		{
+            "source_path": "learn-certs-pr/courses/dp-100t01ja.yml",
+            "redirect_url": "/ja-jp/learn/certifications/courses/dp-100t01",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/dp-100t01ko.yml",
+            "redirect_url": "/ko-kr/learn/certifications/courses/dp-100t01",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/dp-100t01zh.yml",
+            "redirect_url": "/zh-cn/learn/certifications/courses/dp-100t01",
+            "redirect_document_id": false
+		},
+                                                                                                                       
+		{
+            "source_path": "learn-certs-pr/courses/dp-200t01ja.yml",
+            "redirect_url": "/ja-jp/learn/certifications/courses/dp-200t01",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/dp-200t01ko.yml",
+            "redirect_url": "/ko-kr/learn/certifications/courses/dp-200t01",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/dp-200t01zh.yml",
+            "redirect_url": "/zh-cn/learn/certifications/courses/dp-200t01",
+            "redirect_document_id": false
+		},
+                                                                                                                       
+		{
+            "source_path": "learn-certs-pr/courses/dp-201t01ja.yml",
+            "redirect_url": "/ja-jp/learn/certifications/courses/dp-201t01",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/dp-201t01ko.yml",
+            "redirect_url": "/ko-kr/learn/certifications/courses/dp-201t01",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/dp-201t01zh.yml",
+            "redirect_url": "/zh-cn/learn/certifications/courses/dp-201t01",
+            "redirect_document_id": false
+		},
+                                                                                                                       
+		{
+            "source_path": "learn-certs-pr/courses/ws-050t00ja.yml",
+            "redirect_url": "/ja-jp/learn/certifications/courses/ws-050t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/ws-050t00ko.yml",
+            "redirect_url": "/ko-kr/learn/certifications/courses/ws-050t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/ws-050t00zh.yml",
+            "redirect_url": "/zh-cn/learn/certifications/courses/ws-050t00",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-220T01.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-220T02.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-240T01.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-240T02.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-240T03.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-300T01.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-300T02.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-300T03.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/10997.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-310T01.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-310T02.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-310T03.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-320T01.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-320T02.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-320T03.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-330T01.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-330T02.yml",
+            "redirect_url": "/learn/certifications/courses/browse/",
+            "redirect_document_id": false
+		},
+		{
+            "source_path": "learn-certs-pr/courses/MB-330T03.yml",
             "redirect_url": "/learn/certifications/courses/browse/",
             "redirect_document_id": false
 		}
