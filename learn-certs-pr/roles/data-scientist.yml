@@ -1,35 +1,41 @@
-### YamlMime:Role 
-title: 資料科學家 
-metadata: 
-  title: 資料科學家 
-  description: 資料科學家應用機器學習技術來訓練、評估和部署解決業務問題的模型。 
-uid: role.data-scientist 
-summary: | 
-  資料科學家應用機器學習技術來訓練、評估和部署解決業務問題的模型。
-subTitle: 資料科學家應用機器學習技術來訓練、評估和部署解決業務問題的模型。
-certificationPaths: 
-- title: Azure 資料科學家
-  linkedInKeywords: Azure 資料科學家
-  uid: certification-path.azure-data-scientist 
-  prerequisites: 
+### YamlMime:Role
+title: 資料科學家
+metadata:
+  title: 資料科學家
+  description: 資料科學家應用機器學習技術來訓練，評估和部署解決業務問題的模型。
+  ms.openlocfilehash: acce0563f14601d3dcdd5424da729fbff3a8be91
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104823"
+uid: role.data-scientist
+summary: >
+  資料科學家應用機器學習技術來訓練，評估和部署解決業務問題的模型。
+subTitle: 資料科學家應用機器學習技術來訓練，評估和部署解決業務問題的模型。
+certificationPaths:
+- title: Azure Data Scientist
+  linkedInKeywords: Azure Data Scientist
+  uid: certification-path.azure-data-scientist
+  prerequisites:
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-data-scientist
     levels:
-    - intermediate  
+    - intermediate
 certifications:
 - uid: certification.azure-data-scientist
   requiredExams:
-    - uid: exam.dp-100
+  - uid: exam.dp-100
 resources:
 - title: Microsoft 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 訓練和認證海報
   description: 透過此訓練和認證海報選取您的成功路徑。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 支持認證
+  href: https://aka.ms/traincertposter
+- title: 支援認證
   href: ../help.md
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 透過 Microsoft Certification 支援論壇取得幫助。 論壇主持人將在週一至週五的一個工作日內做出回應。

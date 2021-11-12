@@ -1,35 +1,41 @@
-### YamlMime:Role 
-title: AI Engineer 
-metadata: 
-  title: AI Engineer 
-  description: AI Engineer使用認知服務、機器學習和知識探勘來構建和實作 Microsoft AI 解決方案。 
-uid: role.ai-engineer 
-summary: | 
-  AI Engineer使用認知服務、機器學習和知識探勘來構建和實作 Microsoft AI 解決方案。
-subTitle: AI Engineer使用認知服務、機器學習和知識探勘來構建和實作 Microsoft AI 解決方案。
-certificationPaths: 
+### YamlMime:Role
+title: AI 工程師
+metadata:
+  title: AI 工程師
+  description: AI Engineer 使用認知服務、機器學習和知識探勘來構建和實作 Microsoft AI 解決方案。
+  ms.openlocfilehash: 2ba8117ba7e64fd54cb6d9876872dd7aaf176461
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104444"
+uid: role.ai-engineer
+summary: >
+  AI Engineer 使用認知服務、機器學習和知識探勘來構建和實作 Microsoft AI 解決方案。
+subTitle: AI Engineer 使用認知服務、機器學習和知識探勘來構建和實作 Microsoft AI 解決方案。
+certificationPaths:
 - title: Azure AI Engineer
   linkedInKeywords: Azure AI Engineer
-  uid: certification-path.azure-ai-engineer 
-  prerequisites: 
+  uid: certification-path.azure-ai-engineer
+  prerequisites:
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-ai-engineer
     levels:
-    - intermediate  
+    - intermediate
 certifications:
 - uid: certification.azure-ai-engineer
   requiredExams:
   - uid: exam.ai-102
 resources:
 - title: Microsoft 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 訓練和認證海報
   description: 透過此訓練和認證海報選取您的成功路徑。
   href: https://aka.ms/traincertposter
-- title: 支持認證
+- title: 支援認證
   href: ../help.md
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 透過 Microsoft Certification 支援論壇取得幫助。 論壇主持人將在週一至週五的一個工作日內做出回應。
