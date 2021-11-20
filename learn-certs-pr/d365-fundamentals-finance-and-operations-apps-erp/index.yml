@@ -1,38 +1,51 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
+title: 'Microsoft 認證： Dynamics 365 基本概念 (ERP) '
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
-  description: '如果您對Dynamics 365的企業資源規劃(ERP)能力有廣泛的瞭解，並且瞭解財務和運營應用程式如何在Microsoft整體生態系統中發揮作用的基本原理，那麼該證書就是為您而量身定制的。'
+  title: 'Microsoft 認證： Dynamics 365 基本概念 (ERP) '
+  description: 如果您對企業資源規劃有廣泛的風險， (ERP) Dynamics 365 的功能，並瞭解財務與營運應用程式在整體 Microsoft 生態系統內的適用程度，這是為您提供的認證。
+  ms.openlocfilehash: d86b1094c55e010d60f13e0efed6fd15bb567240
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101962"
 uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  如果您對Dynamics 365的企業資源規劃(ERP)能力有廣泛的瞭解，並且瞭解財務和運營應用程式如何在Microsoft整體生態系統中發揮作用的基本原理，那麼該證書就是為您而量身定制的。
-  
-  那些熟悉業務運營，對金融原理有基本瞭解，並且精通資訊技術的人——無論是一般的還是通過工作經驗——都可以使用該證書來驗證這些技能，並幫助打開其職業之門。
-  
-  處於不同職業生涯階段的人們均可以各種方式使用該基礎認證。以下是一些例子&#58;
-  - 想要強調他們對所使用的應用程式具有廣泛瞭解的IT專業人員
-  - 技術專業人士和商業決策者，他們正在探索如何將Dynamics 365的功能性與他們正在使用的應用程式集成在一起
-  - 業務涉眾和其他使用Dynamics 365並想要證明他們理解該平臺的基本原理的人
-  - 想要對業務運營、財務和ERP有更加深入瞭解的開發人員
-  - 學生、應屆畢業生及轉行人士，他們想要充分利用 Dynamics 365 的財務和運營應用程式，以達到更高水準
-subTitle: '如果您對Dynamics 365的企業資源規劃(ERP)能力有廣泛的瞭解，並且瞭解財務和運營應用程式如何在Microsoft整體生態系統中發揮作用的基本原理，那麼該證書就是為您而量身定制的。'
+summary: >-
+  如果您對企業資源規劃有廣泛的風險， (ERP) Dynamics 365 的功能，並瞭解財務與營運應用程式在整體 Microsoft 生態系統內的適用程度，這是為您提供的認證。
+
+
+  熟悉商務營運的人對於財務原則有基本的瞭解，而且是資訊技術（通常是透過工作經驗），也可以使用此認證來驗證這些技能，並協助開啟職業大門。
+
+
+  這項基礎認證可透過各種不同的方式，在其事業的不同階段使用。 以下是一些範例&#58;
+
+  - 想要強調他們對他們所使用之應用程式的廣泛瞭解的 IT 專業人員
+
+  - 探索 Dynamics 365 功能如何與他們所使用之應用程式整合的技術專業人員和業務決策者
+
+  - 商務專案關係人和其他使用 Dynamics 365 的人，並想要示範他們瞭解平臺的基本概念
+
+  - 想要更深入瞭解商務營運、財務和 ERP 的開發人員
+
+  - 學生、最近的員工，以及想要充分利用 Dynamics 365 財務和營運應用程式，以移至下一層的員工
+subTitle: 如果您對企業資源規劃有廣泛的風險， (ERP) Dynamics 365 的功能，並瞭解財務與營運應用程式在整體 Microsoft 生態系統內的適用程度，這是為您提供的認證。
 levels:
 - beginner
 skills:
-- 描述Dynamics 365 Supply Chain Management
-- 描述Dynamics Finance
-- 描述Dynamics 365 Commerce
-- 描述Dynamics 365 Human Resources
-- 描述Project Operations
-- 描述共用的特性
+- Describe Dynamics 365 Supply Chain Management
+- Describe Dynamics Finance
+- Describe Dynamics 365 Commerce
+- Describe Dynamics 365 Human Resources
+- Describe Project Operations
+- Describe shared features
 roles:
 - business-owner
 - business-user
 - functional-consultant
 - student
 type: fundamentals
-products: 
+products:
 - dynamics-365
 - dynamics-finance-operations
 courses:
@@ -48,26 +61,26 @@ exams:
 - uid: exam.mb-920
 resources:
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 認證之旅
-  description: 探索獲得認證的步驟以及説明您進行準備的可用資源。
+- title: 認證旅程
+  description: 探索取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAWQX
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證學習路徑
-  description: 推薦的培訓資源可助您準備必需的考試並獲得認證。
+  description: 建議的訓練資源，以協助您準備進行必要的測驗並獲得您的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md

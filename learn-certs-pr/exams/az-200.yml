@@ -1,25 +1,45 @@
 ### YamlMime:Examination
-title: Microsoft Azure Developer Core Solutions
+title: Microsoft Azure開發人員核心解決方案
 metadata:
-  title: '測驗 AZ-200: Microsoft Azure Developer Core Solutions'
-  description: '測驗 AZ-200: Microsoft Azure Developer Core Solutions'
+  title: 測驗 AZ-200： Microsoft Azure 開發人員核心解決方案
+  description: 測驗 AZ-200： Microsoft Azure 開發人員核心解決方案
+  ms.openlocfilehash: f86d4793da2bc497d0d82de0ba06c297f5dfd5b8
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101574"
 uid: exam.az-200
 displayName: AZ-200
-summary: "<div><strong>該測驗已於 2019年1月03日到期。測驗將在中部標準時間晚間11點59分到期</strong></div>\n<br/>   \n此測驗的應試者是負責設計與構建雲端解決方法（如應用程式與服務等）的 Azure 開發人員。他們參與了開發過程的全部階段，包括從解決方法設計到開發與部署，再到測試與維護。他們與雲端解決方法架構師、雲端 DBA、雲端管理員以及實作解決方法的客戶進行過合作。\n\n應試者應精通使用 Azure 工具與技術（包括儲存、安全、計算與通信）開發應用與服務。\n\n應試者必須在軟體開發的全部階段擁有至少一年的可擴展解決方法開發經驗，而且需要精通至少一種雲端支援程式設計語言。"
-subTitle: 此測驗的應試者是負責設計與構建雲端解決方法（如應用程式與服務等）的 Azure 開發人員。他們參與了開發過程的全部階段，包括從解決方法設計到開發與部署，再到測試與維護。他們與雲端解決方法架構師、雲端 DBA、雲端管理員以及實作解決方法的客戶進行過合作。
+summary: >-
+  <div>
+
+  <div><strong>此測驗已于2019年1月3日淘汰。注意&#58; 測驗于 11:59 PM 中部標準時間淘汰</strong><br/><br/></div>
+
+  </div>
+
+
+  這項測驗的候選人是設計和建立雲端解決方案（例如應用程式和服務）的 Azure 開發人員。 他們參與了開發的所有階段，從解決方案設計到開發和部署，到測試和維護。 它們與雲端解決方案架構設計人員、雲端 Dba、雲端系統管理員和用戶端合作，以實行解決方案。
+
+
+  在使用 Azure 工具和技術（包括儲存體、安全性、計算和通訊）來開發應用程式和服務時，候選人應該要熟練。
+
+
+  候選人必須至少有一年的經驗，可以透過軟體發展的所有階段開發可擴充的解決方案，並具備至少一個雲端支援的程式設計語言。
+subTitle: 這項測驗的候選人是設計和建立雲端解決方案（例如應用程式和服務）的 Azure 開發人員。 他們參與了開發的所有階段，從解決方案設計到開發和部署，到測試和維護。 它們與雲端解決方案架構設計人員、雲端 Dba、雲端系統管理員和用戶端合作，以實行解決方案。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHB
+scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/
-retirementDate: 01/03/2019
 levels:
 - beginner
 skills:
-- 選取合適的雲端技術解決方案 (15-20%)
-- 為雲端存儲進行開發 (30-35%)
-- 創建平台即服務 (PaaS) 解決方案 (35-40%)
-- 保護雲端解決方案 (15–20%)
+- Select the appropriate cloud technology solution (15-20%)
+- Develop for cloud storage (30-35%)
+- Create Platform as a Service (PaaS) Solutions (35-40%)
+- Secure cloud solutions (15-20%)
+retirementDate: 01/03/2019
 roles:
 - developer
 products:
@@ -28,15 +48,18 @@ relatedCertifications:
 - related:
     uid: certification.azure-fundamentals
 resources:
-- title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證海報
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
-  description: 詳細了解有關為測驗申請調整的資訊。
+- title: 要求住宿
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md

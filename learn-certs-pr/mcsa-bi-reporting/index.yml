@@ -1,24 +1,32 @@
 ### YamlMime:Certification
-title: 'MCSA: BI Reporting'
+title: MCSA： BI 報表
 metadata:
-  title: 'MCSA: BI Reporting'
-  description: 'MCSA: BI Reporting'
+  title: MCSA： BI 報表
+  description: MCSA： BI 報表
+  ms.openlocfilehash: 42be0797be73226eca8f4da62990dc5d6ede0ba4
+  ms.sourcegitcommit: 35b014146be2d7badafdb39548c387b2af6c0314
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/15/2021
+  ms.locfileid: "132105123"
 uid: certification.mcsa-bi-reporting
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>該認證已失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/'>“流覽認證和考試”頁面</a>。您在失效日之前所獲得的任何認證都將繼續出現在您的成績單上，位於<a href='https://aka.ms/certdashboard'>“認證儀錶板”中</a>.</strong></font><br/><br/></div>
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
+summary: >-
+  <div><font color='red'><strong>此認證已淘汰。如需目前可用的選項，請參閱 [<a href='/learn/certifications/browse/'>流覽認證和測驗] 頁面</a>。您在淘汰日期之前所獲得的任何認證，將會繼續出現在<a href='https://aka.ms/certdashboard'>認證儀表板</a>的文字記錄中。</strong></font><br/><br/></div>
 
-  該認證將示範您在同時使用 Power BI 和 Excel 進行資料分析時的專業技能。
-subTitle: 該認證將示範您在同時使用 Power BI 和 Excel 進行資料分析時的專業技能。
+
+  此認證會示範您使用 Power BI 和 Excel 分析資料的專業知識。
+subTitle: 此認證會示範您使用 Power BI 和 Excel 分析資料的專業知識。
+hideFishboneDiagram: true
 levels:
 - intermediate
 skills:
-- 使用 Power BI Desktop 使用和轉化資料
-- 建模及視覺化資料
-- 在 Power BI 服務中設定儀表板，報告和應用程式 
-- 用 Microsoft Excel 使用和轉換資料 
-- 建模資料
-- 視覺化資料 
+- Consuming and Transforming Data By Using Power BI Desktop
+- Modeling and Visualizing Data
+- Configure Dashboards, Reports and Apps in the Power BI Service
+- Consume and Transform Data by Using Microsoft Excel
+- Model Data
+- Visualize Data
 roles:
 - data-analyst
 type: mcsa
@@ -32,22 +40,21 @@ exams:
 - uid: exam.70-778
 - uid: exam.70-779
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

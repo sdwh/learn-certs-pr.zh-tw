@@ -1,24 +1,32 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Identity and Access Administrator Associate'
+title: Microsoft 認證：身分識別與存取系統管理員關聯
 metadata:
-  title: 'Microsoft Certified: Identity and Access Administrator Associate'
-  description: 通過使用Azure AD，Microsoft身份和訪問管理員設計、實施並操作一個組織的身份和訪問管理系統。他們管理一些任務，例如為企業應用程式提供安全的身份驗證及授權訪問。
+  title: Microsoft 認證：身分識別與存取系統管理員關聯
+  description: Microsoft 身分識別與存取系統管理員會使用 Azure AD，來設計、實行和操作組織的身分識別與存取管理系統。 他們會管理工作，例如為企業應用程式提供安全的驗證和授權存取權。
+  ms.openlocfilehash: 42573d66d1002e1dcb1b66f1698e858b2a034074
+  ms.sourcegitcommit: 468e49f99bce29f3130cccd97af130459746d6c5
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "132105007"
 uid: certification.identity-and-access-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>該認證內容已在2021年9月24日更新。請在 <a href="/learn/certifications/exams/SC-300">sc-300 考試頁面</a>頁面下載技能考核檔以查看更改內容。</strong></font><br/><br/></div>
-  
-  Microsoft Identity 和 Access Administrator 使用 Azure Active Directory (Azure AD) 設計、實施和運營組織的身份和訪問管理系統。他們管理一些任務，例如為企業應用程式提供安全的身份驗證及授權訪問。該管理員為所有用戶提供無縫體驗及自助服務管理能力。適應性訪問和治理是該角色的核心元素。該角色還負責標識和訪問環境的故障排除、監控及報告。
+summary: >-
+  <div><font color='red'><strong>此認證的內容已于2021年9月24日更新。請下載 <a href="/learn/certifications/exams/sc-300">測驗 SC-300 頁面</a> 上的技能測量檔，以查看變更了哪些內容。</strong></font><br/><br/></div>
 
-  身份和訪問管理員可以是單獨的個體，或是較大團隊的成員。該角色與組織中的許多其他角色協作，以推動戰略身份項目，從而實現身份解決方案的現代化，實施混合標識解決方案，並實施身份治理。
-subTitle: 通過使用Azure AD，Microsoft身份和訪問管理員設計、實施並操作一個組織的身份和訪問管理系統。他們管理一些任務，例如為企業應用程式提供安全的身份驗證及授權訪問。
+
+  Microsoft 身分識別與存取系統管理員會使用 Azure Active Directory (Azure AD) ，來設計、實行和操作組織的身分識別與存取管理系統。 他們會管理工作，例如為企業應用程式提供安全的驗證和授權存取權。 系統管理員為所有使用者提供順暢的體驗和自助式管理功能。 彈性存取和治理是角色的核心元素。 此角色也負責針對身分識別和存取環境進行疑難排解、監視和報告。
+
+
+  身分識別和存取系統管理員可以是單一個人或較大小組的成員。 此角色會與組織中的許多其他角色共同合作，以推動策略性的身分識別專案以現代化身分識別解決方案、實行混合式身分識別解決方案，以及執行身分識別管理。
+subTitle: Microsoft 身分識別與存取系統管理員會使用 Azure AD，來設計、實行和操作組織的身分識別與存取管理系統。 他們會管理工作，例如為企業應用程式提供安全的驗證和授權存取權。
 levels:
 - intermediate
 skills:
-- 實施身份管理解決方案 
-- 實施身份驗證及訪問管理解決方案 
-- 實施應用程式訪問管理 
-- 計畫並實施身份治理戰略
+- Implement an identity management solution
+- Implement an authentication and access management solution
+- Implement access management for apps
+- Plan and implement an identity governance strategy
 roles:
 - administrator
 - identity-access-admin
@@ -41,20 +49,20 @@ exams:
 - uid: exam.sc-300
 resources:
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
+  href: https://aka.ms/traincertposter
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md

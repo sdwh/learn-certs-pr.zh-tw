@@ -1,13 +1,18 @@
 ### YamlMime:Examination
-title: Microsoft Word (Word and Word 2019)
+title: 'Microsoft Word (word 和 word 2019) '
 metadata:
-  title: 'MO-100: Microsoft Word (Word and Word 2019)'
-  description: 'MO-100: Microsoft Word (Word and Word 2019)'
+  title: '每月-100： Microsoft Word (word 和 word 2019) '
+  description: '每月-100： Microsoft Word (word 和 word 2019) '
+  ms.openlocfilehash: 3cff8a6c3560dcba1320ed17919e5e441c7bf554
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101483"
 uid: exam.mo-100
 displayName: MO-100
-summary: |-
-  該測驗涵蓋建立和維護專業外觀報告，多欄電子報，簡歷和商務信函的能力。應試者應演示 Word 的主要功能的正確應用並獨立完成任務。
-subTitle: 該測驗透過各種用途與狀況建立及編輯文件，來衡量Word 主要功能的正確應用的能力。該測驗涵蓋建立和維護專業外觀報告，多欄電子報，簡歷和商務信函的能力。
+summary: 本測驗涵蓋建立和維護專業型式報表、多行電子報、簡歷和商務對應的能力。 候選人預期會示範如何正確地應用 Word 的主要功能，以及獨立完成工作。
+subTitle: 這項測驗針對各種用途和情況，藉由建立和編輯檔，來測量 Word 主要功能的正確應用專長認證。 本測驗涵蓋了建立和維護專業型式報表、多行電子報、簡歷和商務對應的能力。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
 providers:
@@ -34,12 +39,12 @@ locales:
 levels:
 - intermediate
 skills:
-- 管理多個文件 (20-25%)
-- 插入和格式化文字、段落及章節 (20-25%)
-- 管理表格與清單 (15-20%)
-- 建立及管理參考 (5-10%)
-- 插入並設定圖形元素格式 (15-20%)
-- 管理文件共同作業 (5-10%)
+- Manage documents (20-25%)
+- Insert and format text, paragraphs, and sections (20-25%)
+- Manage tables and lists (15-20%)
+- Create and manage references (5-10%)
+- Insert and format graphic elements (15-20%)
+- Manage document collaboration (5-10%)
 roles:
 - business-user
 products:
@@ -49,16 +54,15 @@ relatedCertifications:
 - related:
     uid: certification.mos-word-2019
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md
-

@@ -1,21 +1,32 @@
 ### YamlMime:Certification
-title: 'MCSA: Microsoft Dynamics 365 for Operations'
+title: MCSA：適用于作業的 Microsoft Dynamics 365
 metadata:
-  title: 'MCSA: Microsoft Dynamics 365 for Operations'
-  description: 'MCSA: Microsoft Dynamics 365 for Operations'
+  title: MCSA：適用于作業的 Microsoft Dynamics 365
+  description: MCSA：適用于作業的 Microsoft Dynamics 365
+  ms.openlocfilehash: 91465a418e72248a9ef0dd79ae0863205d889884
+  ms.sourcegitcommit: 35b014146be2d7badafdb39548c387b2af6c0314
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/15/2021
+  ms.locfileid: "132105115"
 uid: certification.mcsa-microsoft-dynamics-365-for-operations
 iconUrl: /media/learn/certification/badges/mcsa-badge.svg
-summary: |-
-  <div><font color='red'><strong>該認證已失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/'>“流覽認證和考試”頁面</a>。您在失效日之前所獲得的任何認證都將繼續出現在您的成績單上，位於<a href='https://aka.ms/certdashboard'>“認證儀錶板”中</a>.</strong></font><br/><br/></div>
+summary: >-
+  <div><font color='red'><strong>此認證已淘汰。如需目前可用的選項，請參閱 [<a href='/learn/certifications/browse/'>流覽認證和測驗] 頁面</a>。您在淘汰日期之前所獲得的任何認證，將會繼續出現在<a href='https://aka.ms/certdashboard'>認證儀表板</a>的文字記錄中。</strong></font><br/><br/></div>
 
-  此認證證明您在 Microsoft Dynamics 365 技術方面的專業知識，以實現自定義 Microsoft Dynamics 365 for Operations 所需的基本技術和開發任務。其對象通常包括技術顧問，程式設計師 和IT人員
 
-  要獲得MCSA&#58;Microsoft Dynamics 365 for Operations認證，請完成以下要求&#58;
-  - 通過測驗 [MB6-894&#58; Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance](/learn/certifications/exams/mb6-894)
-  - 通過以下其中一項測驗&#58;
-    - [70-764&#58; Administering a SQL Database Infrastructure](/learn/certifications/exams/70-764)
-    - [70-765&#58; Provisioning SQL Databases](/learn/certifications/exams/70-765)
-subTitle: 此認證證明您在 Microsoft Dynamics 365 技術方面的專業知識，以實現自定義 Microsoft Dynamics 365 for Operations 所需的基本技術和開發任務。其對象通常包括技術顧問，程式設計師 和IT人員
+  此認證示範您的 Microsoft Dynamics 365 技術專長，以實行自訂 Microsoft Dynamics 365 for Operations 所需的基本技術和開發工作。 此物件通常包括技術顧問、程式設計人員和 IT 人員。
+
+
+  若要獲得 MCSA&#58; Microsoft Dynamics 365 for Operations 認證，請完成下列需求&#58;
+
+  - Pass 測驗 [MB6-894：適用于 Microsoft Dynamics 365 財務的開發、延伸和部署](/learn/certifications/exams/mb6-894)
+
+  - 並傳遞下列其中一項測驗&#58;
+    - [70-764：管理 SQL Database 基礎結構](/learn/certifications/exams/70-764)
+    - [70-765：布建 SQL 資料庫](/learn/certifications/exams/70-765)
+subTitle: 此認證示範您的 Microsoft Dynamics 365 技術專長，以實行自訂 Microsoft Dynamics 365 for Operations 所需的基本技術和開發工作。 此物件通常包括技術顧問、程式設計人員和 IT 人員。
+hideFishboneDiagram: true
 levels:
 - intermediate
 skills:
@@ -33,22 +44,21 @@ exams:
 - uid: exam.70-765
 - uid: exam.mb6-894
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

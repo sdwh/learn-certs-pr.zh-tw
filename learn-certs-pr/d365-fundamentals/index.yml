@@ -1,26 +1,36 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Fundamentals'
+title: Microsoft 認證： Dynamics 365 基本概念
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Fundamentals'
-  description: '證明您了解 Microsoft Dynamics 365； 人工智慧(AI)；混合實境(MR)； Power Platform； 雲端概念； 雲端安全； Dynamics 365 安全性； Common Data Service； Dynamics 365 報告； Dynamics 365 整合； 和雲端部署。'
+  title: Microsoft 認證： Dynamics 365 基本概念
+  description: 證明您瞭解 Microsoft Dynamics 365;人工智慧 (AI) ;混合現實 (MR) ;Power Platform;雲端概念;雲端安全性;Dynamics 365 安全性;Common Data Service;Dynamics 365 報告;Dynamics 365 整合;和雲端部署。
+  ms.openlocfilehash: 0edb49ac92e60e6f1c783250b14b37f138dbc8d5
+  ms.sourcegitcommit: 2ab0583efc592a5dfb36f426738f85de35ffbcf6
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/01/2021
+  ms.locfileid: "132104984"
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
+summary: >-
   <div>
-  <div><font color="red"><strong>該認證已被撤銷。要瞭解更多目前可用的選項，請參閱 <a href="/learn/certifications/browse/">流覽認證和考試頁面</a>。任何您在它們撤銷日期獲得認證都將繼續出現在您的 <a href="https://aka.ms/certdashboard">認證儀錶盤中的成績單中。</a></strong></font><br/><br/></div>
+
+  <div><font color="red"><strong>此認證已淘汰。如需目前可用的選項，請參閱 [<a href="/learn/certifications/browse/">流覽認證和測驗] 頁面</a>。您在淘汰日期之前所獲得的任何認證，將會繼續出現在<a href="https://aka.ms/certdashboard">認證儀表板</a>的文字記錄中。</strong></font><br/><br/></div>
+
   </div>
 
-  證明您了解 Microsoft Dynamics 365； 人工智慧；混合實境； Power Platform； 雲端概念； 雲端安全； Dynamics 365 安全性； Common Data Service； Dynamics 365 報告； Dynamics 365 整合； 和雲端部署。
 
-  <div><br/><strong>由於該證書將於2021年6月30日失效，Microsoft不會將“Common Data Service”的引用更新為“Microsoft Dataverse”。</strong></div>
-subTitle: '證明您了解 Microsoft Dynamics 365； 人工智慧(AI)；混合實境(MR)； Power Platform； 雲端概念； 雲端安全； Dynamics 365 安全性； Common Data Service； Dynamics 365 報告； Dynamics 365 整合； 和雲端部署。'
+  證明您瞭解 Microsoft Dynamics 365;人工智慧;mixed reality;Power Platform;雲端概念;雲端安全性;Dynamics 365 安全性;Common Data Service;Dynamics 365 報告;Dynamics 365 整合;和雲端部署。
+
+
+  <div><br/><strong>因為此認證即將于2021年6月30日淘汰，所以 Microsoft 不會將 "Common Data Service" 的參考更新為 "Microsoft Dataverse"。</strong></div>
+subTitle: 證明您瞭解 Microsoft Dynamics 365;人工智慧 (AI) ;混合現實 (MR) ;Power Platform;雲端概念;雲端安全性;Dynamics 365 安全性;Common Data Service;Dynamics 365 報告;Dynamics 365 整合;和雲端部署。
 levels:
 - beginner
 skills:
-- 識別 Dynamics 365 的Microsoft 平台元件
-- 描述 Dynamics 365 的人工智慧和混合實境
-- 描述模型驅動式應用程式
-- 描述財務和營運應用程式
+- Identify Microsoft platform components for Dynamics 365
+- Describe artificial intelligence and mixed reality in Dynamics 365
+- Describe model-driven apps
+- Describe Finance and Operations apps
 roles:
 - business-owner
 - business-user
@@ -36,27 +46,26 @@ exams:
 - uid: exam.mb-901
 resources:
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 認證之旅
-  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRV
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證學習路徑
+  description: 建議的訓練資源，以協助您準備進行必要的測驗並獲得您的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

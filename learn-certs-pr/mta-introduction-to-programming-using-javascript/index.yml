@@ -1,23 +1,30 @@
 ### YamlMime:Certification
-title: 'MTA: Introduction to Programming Using JavaScript'
+title: MTA：使用 JavaScript 進行程式設計的簡介
 metadata:
-  title: 'MTA: Introduction to Programming Using JavaScript'
-  description: 'MTA: Introduction to Programming Using JavaScript'
+  title: MTA：使用 JavaScript 進行程式設計的簡介
+  description: MTA：使用 JavaScript 進行程式設計的簡介
+  ms.openlocfilehash: 21ff84c0c4fc7bc47425b1330a86087ed1dd9f07
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104809"
 uid: certification.mta-introduction-to-programming-using-javascript
 iconUrl: /media/learn/certification/badges/mta-badge.svg
-summary: |-
-  <div><font color='red'><strong>該 MTA 認證將在2022年6月30日撤銷。 考試相關聯的代金券銷售在2021年6月30日結束。使用下面的“使用 Pearson VUE 安排” 或“使用 Certiport安排”按鈕來兌換已購買的代金券並安排您的考試。請參閱 <a href="/learn/certifications/mta-retirement-faqs">FAQ</a>獲得更多詳細資訊。</strong></font></br></br></div>
-  
-  如果您想進入技術領域，MTA認證是一個很好的開始。MTA 認證解決基本技術概念的廣泛範圍，評估和驗證核心技術知識，並增強技術可信度 。Note&#58; 通過 MTA 測驗不代表取得 MCP 認證，也不是取得 MCSA 或 MCSD 認證的必要條件。
-subTitle: '如果您想進入技術領域，MTA認證是一個很好的開始。MTA 認證解決基本技術概念的廣泛範圍，評估和驗證核心技術知識，並增強技術可信度 。Note: 通過 MTA 測驗不代表取得 MCP 認證，也不是取得 MCSA 或 MCSD 認證的必要條件。'
+summary: >-
+  <div><font color='red'><strong>此 MTA 憑證將于2022年6月30日淘汰。相關測驗的券銷售額已于2021年6月30日結束。使用下方的 "Schedule with 皮耳森 VUE" 或 "Schedule with Certiport" 按鈕來兌換購買的憑證，並排程您的測驗。如需詳細資訊，請參閱 <a href="/learn/certifications/mta-retirement-faqs">常見問題</a> 。</strong></font></br></br></div>
+
+
+  如果您想要進入技術領域，MTA 認證是很好的起點。 MTA 認證能滿足各式各樣的基本技術概念、評估及驗證核心技術知識，以及強化技術的信賴。 注意&#58; MTA 測驗不符合 MCP 認證資格，也不是 MCSA 或 MCSD 認證的先決條件。
+subTitle: 如果您想要進入技術領域，MTA 認證是很好的起點。 MTA 認證能滿足各式各樣的基本技術概念、評估及驗證核心技術知識，以及強化技術的信賴。 注意： MTA 測驗不符合 MCP 認證資格，也不是 MCSA 或 MCSD 認證的先決條件。
 levels:
 - beginner
 skills:
-- 帶有 JavaScript 運算子、方法和關鍵字的程式 
-- 使用變數、資料類型和函式設計程式 
-- 實作並分析決策和迴圈
-- 與文件物件模型互動 
-- 與 HTML 表單互動
+- Program with JavaScript Operators, Methods, and Keywords
+- Program with Variables, Data Types, and Functions
+- Implement and Analyze Decisions and Loops
+- Interact with the Document Object Model
+- Interact with HTML Forms
 roles:
 - developer
 type: mta
@@ -27,21 +34,21 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLz
 exams:
 - uid: exam.98-382
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md

@@ -1,21 +1,26 @@
 ### YamlMime:Certification
-title: 'Microsoft Office Specialist: Word 2013'
+title: Microsoft Office專家： Word 2013
 metadata:
-  title: 'Microsoft Office Specialist: Word 2013'
-  description: 'Microsoft Office Specialist: Word 2013'
+  title: Microsoft Office專家： Word 2013
+  description: Microsoft Office專家： Word 2013
+  ms.openlocfilehash: ad995caa03285fd4262f75420ef5371824461c04
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104842"
 uid: certification.mos-word-2013
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  本認證證明您對Microsoft Word 2013 環境有基本了解並能獨立完成工作。應試者應了解及示範 Word 2013 主要功能的正確應用。
-subTitle: 該認證展現您取得特定 Office 程式的 Microsoft Office Specialist (MOS) 認證，具備充分運用 Office 所需的技能。
+summary: 此認證示範您對 Microsoft Word 2013 環境有基本的瞭解，以及獨立完成工作的能力。 候選人應該知道並示範 Word 2013 的主要功能的正確應用。
+subTitle: 此認證會向 Microsoft Office 專家 (MOS 特定 Office 計畫中的) 認證，藉此證明您擁有充分利用 Office 所需的技能。
 levels:
 - intermediate
 skills:
-- 建立和管理文件
-- 格式化文字、段落和章節
-- 建立表格和清單
-- 套用參照
-- 插入和格式化物件
+- Create and manage documents
+- Format text, paragraphs, and sections
+- Create tables and lists
+- Apply references
+- Insert and format objects
 roles:
 - business-user
 type: mos
@@ -26,19 +31,18 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJ
 exams:
 - uid: exam.77-418
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

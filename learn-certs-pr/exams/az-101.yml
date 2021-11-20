@@ -1,15 +1,26 @@
 ### YamlMime:Examination
-title: Microsoft Azure Integration and Security
+title: Microsoft Azure整合與安全性
 metadata:
-  title: 'Exam AZ-101: Microsoft Azure Integration and Security'
-  description: 'Exam AZ-101: Microsoft Azure Integration and Security'
+  title: 測驗 AZ-101： Microsoft Azure 整合與安全性
+  description: 測驗 AZ-101： Microsoft Azure 整合與安全性
+  ms.openlocfilehash: d0dfcef37affaddabe9da2705df1d1b2f1f5c81c
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101587"
 uid: exam.az-101
 displayName: AZ-101
-summary: |-
-  <div><strong>該測驗已於 2019年5月1日到期。注意&#58; 測驗將在中部標準時間晚間11點59分到期<br/><br/></strong></div>
-  
-  此測驗的應試者是 Azure 管理員，他們管理跨越儲存、安全性、網路與計算雲端功能的雲端服務。應試者對整個 IT 生命週期中的每項服務都有深入的瞭解，並接受雲端基礎結構服務、應用程式與環境的請求。他們針對最佳性能與規模使用服務提出建議，並適當地佈建、規模、監控與調整資源。測驗的應試者應該熟練使用 PowerShell 與命令列界面、Azure Portal、ARM 範本、操作系統、虛擬化、雲端基礎結構、儲存結構和網路。
-subTitle: '此測驗會評量您達成下方技術性工作的能力：管理 Azure 身份識別和治理； 實作和管理儲存； 部署和管理 Azure 計算資源； 設定和管理虛擬網路； 並監視和備份Azure資源。'
+summary: >-
+  <div>
+
+  <div><strong>此測驗已于2019月1日淘汰。注意&#58; 測驗于 11:59 PM 中部標準時間淘汰</strong><br/></div>
+
+  </div>
+
+
+  這項測驗的候選項目是 Azure 系統管理員，負責管理跨儲存體、安全性、網路和計算雲端功能的雲端服務。 候選人對整個 IT 生命週期的每個服務都有深入的瞭解，並取得基礎結構服務、應用程式和環境的要求。 他們會對要使用的服務提出建議，以達到最佳效能和規模，以及視需要布建、調整規模、監視和調整資源。 這項測驗的候選項目應能熟練使用 PowerShell、命令列介面、Azure 入口網站、ARM 範本、作業系統、虛擬化、雲端基礎結構、儲存結構和網路功能。
+subTitle: 這項測驗會測量您完成下列技術工作的能力：安全身分識別、評估和執行伺服器遷移至 Azure、執行和管理應用程式服務，以及實行先進的虛擬網路。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6M
 practiceTestUrl: https://www.mindhub.com/shop/microsoft?facetValueFilter=tenant~publisher:measureup&?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -19,10 +30,10 @@ locales:
 levels:
 - intermediate
 skills:
-- 評估並執行伺服器移轉到Azure(15-20%)
-- 實作與管理威脅防護 (20-25%)
-- 實作高階虛擬網路 (30-35%)
-- 安全身份(25-30%)
+- Evaluate and perform server migration to Azure (15-20%)
+- Implement and manage application services (20-25%)
+- Implement advanced virtual networking (30-35%)
+- Secure identities (25-30%)
 retirementDate: 05/01/2019
 roles:
 - administrator
@@ -37,24 +48,24 @@ relatedCertifications:
 - related:
     uid: certification.azure-administrator
 resources:
-- title: 認證學習路徑
-  description: '發現訓練資源，以成為經 Microsoft Certified: Azure Administrator Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
-- title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證 Learning 路徑
+  description: 探索要成為 Microsoft 認證的訓練資源： Azure 系統管理員相關聯。
+  href: https://aka.ms/AzureAdminInfographic
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 支持認證考試
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
-  description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
+- title: 要求住宿
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md

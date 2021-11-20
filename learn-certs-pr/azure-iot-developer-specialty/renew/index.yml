@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: Microsoft 認證更新： Azure IoT 開發人員專業版
+metadata:
+  title: Microsoft 認證更新： Azure IoT 開發人員專業版
+  description: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。
+  ms.openlocfilehash: b78d487623c4060a8fdcc7ee7219b44e0f6755fb
+  ms.sourcegitcommit: 7fb7ff3277da53b991ef33830365929f7c487a07
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "132105059"
+uid: renewal.azure-iot-developer-specialty
+certificationUid: certification.azure-iot-developer-specialty
+assessmentId: 9188d713-95f5-4433-991a-fc40bbf4ce4f
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。 藉由傳遞續約評估，顯示您已將最新的 Azure IoT 更新保持在最新狀態。 您也可以使用學習課程模組的策劃集合來準備續約。
+skills:
+- Introduction to Azure Digital Twins
+- Build an Azure Digital Twins graph for a chocolate factory production line
+- Ingest Data into Azure Digital Twins
+- Output from Azure Digital Twins to downstream services
+examsPassed:
+- az-220
+studyGuideDescription: 您可以使用此學習課程模組集合，協助您準備 Microsoft 認證： Azure IoT 開發人員專業版更新評估。
+resources:
+- title: 關於認證續約
+  summary: 瞭解在線上續訂認證的流程和需求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

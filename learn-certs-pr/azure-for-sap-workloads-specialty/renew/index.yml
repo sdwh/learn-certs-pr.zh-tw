@@ -1,28 +1,33 @@
 ### YamlMime:CertificationRenewal
-title: '更新您的 Microsoft Certified: Azure for SAP Workloads Specialty'
+title: Microsoft 認證的續約：適用于 SAP 工作負載的 Azure 工作負載專業
 metadata:
-  title: '更新您的 Microsoft Certified: Azure for SAP Workloads Specialty'
-  description: '如果您已擁有此認證且其將在6個月內過期，則您符合更新的條件。'
+  title: Microsoft 認證的續約：適用于 SAP 工作負載的 Azure 工作負載專業
+  description: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。
+  ms.openlocfilehash: ed68f98cee95880bd6e3d2b58df960d0018aec37
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104124"
 uid: renewal.azure-for-sap-workloads-specialty
 certificationUid: certification.azure-for-sap-workloads-specialty
 assessmentId: 42630d0d-7b19-4782-8052-99fe7e540f08
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
-summary: |-
-  如果您已擁有此認證且其將在6個月內過期，則您符合更新的條件。您可以通過更新評估表明您已保持最新的 Azure for SAP 更新。 您也可以準備以學習模組精選來更新認證。
+summary: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。 藉由傳遞續約評估，顯示您已透過最新的 Azure for SAP 更新保持最新狀態。 您也可以使用學習課程模組的策劃集合來準備續約。
 skills:
-- 在 Azure 上規劃實施 SAP 解決方案
-- 在 Azure 上將 Power Platform 連接至 SAP
-- 實施基於 Azure VM 的 SAP 解決方案
-- 將 SAP workloads 遷移至 Azure
-- Azure 計算、網路和存儲上的 SAP HANA
-- 以 Azure for SAP workloads 的方式使用 IAAS 支援
-- 維護 Azure for SAP workloads
-- 在 Azure Vms 上為 SAP workloads 實施 Azure 監測
+- Planning for implementing SAP solutions on Azure
+- Connect Power Platform to SAP on Azure
+- Implement Azure VM-based SAP solutions
+- Migrate SAP workloads to Azure
+- SAP HANA on Azure Compute, Network, and Storage
+- Using IAAS support with Azure for SAP workloads
+- Maintain Azure for SAP workloads
+- Implement Azure Monitoring for SAP workloads on Azure VMs
 examsPassed:
 - az-120
-studyGuideDescription: '使用此精選學習模組説明您準備 Microsoft 認證：Azure for SAP Workloads Specialty 更新評估。'
+studyGuideDescription: 您可以使用此學習課程模組集合，協助您準備 Microsoft 認證： Azure for SAP 工作負載專長更新評估。
 resources:
-- title: 關於證書更新
-  summary: 了解線上更新證書的過程和要求
+- title: 關於認證續約
+  summary: 瞭解在線上續訂認證的流程和需求
   url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

@@ -1,20 +1,29 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certified: Fundamentals'
+title: Microsoft 365認證：基本概念
 metadata:
-  title: 'Microsoft 365 Certified: Fundamentals'
-  description: '證明您了解 Microsoft 365 中可用的選項以及採用雲端服務，軟體即服務 (SaaS)雲端模型和實作 Microsoft 365 雲端服務的好處。'
+  title: Microsoft 365認證：基本概念
+  description: 證明您瞭解 Microsoft 365 中的可用選項，以及採用雲端服務、軟體即服務 (SaaS) 雲端模型，以及實施 Microsoft 365 雲端服務的優點。
+  ms.openlocfilehash: 252dee2886a534c7cc66a22139e1072e36108637
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132105159"
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  證明您了解 Microsoft 365 中可用的選項以及採用雲端服務，軟體即服務 (SaaS)雲端模型和實作 Microsoft 365 雲端服務的好處。
-subTitle: 證明您了解 Microsoft 365 中可用的選項以及採用雲端服務，軟體即服務 (SaaS)雲端模型和實作 Microsoft 365 雲端服務的好處。
+summary: >-
+  <div><font color='red'><strong>此認證的內容已于2021年10月25日更新。請下載 <a href="/learn/certifications/exams/ms-900">測驗900頁面</a> 上的技能測量檔，以查看變更了哪些內容。</strong></font><br/><br/></div>
+
+
+  證明您瞭解 Microsoft 365 中的可用選項，以及採用雲端服務、軟體即服務 (SaaS) 雲端模型，以及實施 Microsoft 365 雲端服務的優點。
+subTitle: 證明您瞭解 Microsoft 365 中的可用選項，以及採用雲端服務、軟體即服務 (SaaS) 雲端模型，以及實施 Microsoft 365 雲端服務的優點。
 levels:
 - beginner
 skills:
-- 描述雲端概念
-- 描述核心 Microsoft 365 服務與概念
-- 說明 Microsoft 365 中的安全性、合規性、隱私與信任
-- 描述 Microsoft 365 定價和支援
+- Describe cloud concepts
+- Describe core Microsoft 365 services and concepts
+- Explain security, compliance, privacy, and trust in Microsoft 365
+- Describe Microsoft 365 pricing and support
 roles:
 - business-user
 - administrator
@@ -34,25 +43,24 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRK
 exams:
 - uid: exam.ms-900
 resources:
-- title: 認證學習途徑
-  description: '發現訓練資源，以成為經 Microsoft Certified: Fundamentals.'
+- title: 認證學習路徑
+  description: 探索訓練資源以成為 Microsoft 認證：基本概念。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

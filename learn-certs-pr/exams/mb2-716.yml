@@ -1,18 +1,28 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Customization and Configuration
+title: Microsoft Dynamics 365 自訂和設定
 metadata:
-  title: 'Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration'
-  description: 'Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration'
+  title: 測驗 >\MB2\INSTANCE1-716： Microsoft Dynamics 365 自訂和設定
+  description: 測驗 >\MB2\INSTANCE1-716： Microsoft Dynamics 365 自訂和設定
+  ms.openlocfilehash: 17eaec2be4bc1bd530b162fb2bd6b2f9a766daa5
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101498"
 uid: exam.mb2-716
 displayName: MB2-716
-summary: |-
+summary: >-
   <div>
-  <div><font color='red'><strong>該考試於2021年1月31日失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/?resource_type=examination'>“流覽認證和考試”頁面</a>.<br/><br/></strong></font></div>
-  <div><strong> 該測驗的內容更新于 2020 年 2月 4 日。請下載下面的技能評估文件，以了解發生了什麼變化。</strong></div><br/>
+
+  <div><strong>此測驗已于2021年1月31日淘汰。 如需目前可用的選項，請參閱 [ <a href='/learn/certifications/browse/?resource_type=examination'>流覽認證和測驗] 頁面</a>。<br/><br/></strong></div>
+
+  <div><strong>本測驗的內容已于2020年2月4日更新。請下載下列技能測量檔，以查看變更了哪些內容。</strong></div><br/>
+
   </div>
 
-  本測驗適合希望取得 Microsoft Dynamics 365 Customization and Configuration 認證的人員。這類對象通常包括開發員、實作顧問、技術支援技術人員和系統管理員。他們會評估客戶的商務需求，然後設定及自訂應用程式。
-subTitle: 本測驗適合希望取得 Microsoft Dynamics 365 Customization and Configuration 認證的人員。這類對象通常包括開發員、實作顧問、技術支援技術人員和系統管理員。他們會評估客戶的商務需求，然後設定及自訂應用程式。
+
+  希望在 Microsoft Dynamics 365 自訂和設定上取得認證的個人，應該進行這項測驗。 物件通常包括開發人員、執行顧問、技術支援人員和系統管理員。 他們會評估客戶的商務需求，並設定及自訂應用程式。
+subTitle: 希望在 Microsoft Dynamics 365 自訂和設定上取得認證的個人，應該進行這項測驗。 物件通常包括開發人員、執行顧問、技術支援人員和系統管理員。 他們會評估客戶的商務需求，並設定及自訂應用程式。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o2AP
 locales:
@@ -21,10 +31,10 @@ locales:
 levels:
 - beginner
 skills:
-- 設定 Microsoft Dynamics 365 (20-25%)
-- 實作 Microsoft Dynamics 365 實體、實體關聯與欄位 (20-25%)
-- 建立及管理 Microsoft Dynamics 365 解決方案、表單、檢視與視覺效果 (25-30%)
-- 實作商務規則、工作流程與商務程序流程 (20-25%)
+- Configure Microsoft Dynamics 365 (20-25%)
+- Implement Microsoft Dynamics 365 entities, entity relationships, and fields (20-25%)
+- Create and manage Microsoft Dynamics 365 solutions, forms, views, and visualizations (25-30%)
+- Implement business rules, workflows, and business process flows (20-25%)
 retirementDate: 01/31/2021
 roles:
 - business-analyst
@@ -34,16 +44,15 @@ relatedCertifications:
 - related:
     uid: certification.mcse-business-applications
 resources:
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 測驗原則及常見問題集
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: ../certification-exam-policies.md
-

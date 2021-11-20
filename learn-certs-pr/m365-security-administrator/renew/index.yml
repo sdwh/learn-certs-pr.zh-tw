@@ -1,28 +1,33 @@
 ### YamlMime:CertificationRenewal
-title: '更新您的 Microsoft 365 Certified: Security Administrator Associate'
+title: Microsoft 365 認證的更新：安全性系統管理員關聯
 metadata:
-  title: '更新您的 Microsoft 365 Certified: Security Administrator Associate'
-  description: '如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。'
+  title: Microsoft 365 認證的更新：安全性系統管理員關聯
+  description: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。
+  ms.openlocfilehash: 926f6b238a694e7500940519c09d928bb815057e
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101375"
 uid: renewal.m365-security-administrator
 certificationUid: certification.m365-security-administrator
 assessmentId: a5e8873e-f61e-4c5b-8f88-845a09bbd070
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。通過更新評估，表明您已保持最新的Microsoft 365更新。您還可以準備精選的學習模組更新。
+summary: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。 藉由傳遞續約評估，顯示您已將最新的 Microsoft 365 更新保持在最新狀態。 您也可以使用學習課程模組的策劃集合來準備續約。
 skills:
-- 透過Azure Advanced Threat Protection保護您的環境
-- 從Azure nformation Protection到Microsoft information Protection的轉換
-- 描述Microsoft 365的合規性管理功能
-- 使用Azure Active Directory加強身份驗證（條件存取）
-- 使用Azure Active Directory擁抱Zero Trust
-- 使用靈敏度標籤保護您的資料
-- 透過Microsoft Defender Advanced Threat Protection來防禦威脅
-- 在Microsoft 365中準備通訊合規性
+- Safeguard your environment with Azure Advanced Threat Protection
+- Transition from Azure Information Protection to Microsoft Information Protection
+- Describe the compliance management capabilities of Microsoft 365
+- Strengthen authentication (conditional access) with Azure Active Directory
+- Embrace Zero Trust with Azure Active Directory
+- Protect your data with sensitivity labels
+- Protect against threats with Microsoft Defender Advanced Threat Protection
+- Prepare communication compliance in Microsoft 365
 examsPassed:
 - ms-500
-studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft 365認證做準備：安全管理員助理更新評估。'
+studyGuideDescription: 您可以使用此學習課程模組集合，協助您準備 Microsoft 365 認證：安全性系統管理員將更新評估相關聯。
 resources:
-- title: 關於證書更新
-  summary: 了解線上更新證書的過程和要求
+- title: 關於認證續約
+  summary: 瞭解在線上續訂認證的流程和需求
   url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

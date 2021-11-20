@@ -1,55 +1,61 @@
-﻿### YamlMime:Role 
-title: Solutions Architect [解決方案架構師] 
-metadata: 
-  title: Solutions Architect [解決方案架構師]
-  description: 解決方案架構師擁有計算、網路、儲存和安全性方面的專業知識。 
-uid: role.solution-architect  
-summary: | 
-  解決方案架構師擁有計算、網路、儲存和安全性方面的專業知識。
-subTitle: 解決方案架構師擁有計算、網路、儲存和安全性方面的專業知識。
-certificationPaths: 
-- title: Azure Solutions Architect
+### YamlMime:Role
+title: 解決方案架構設計師
+metadata:
+  title: 解決方案架構設計師
+  description: 解決方案架構設計人員有計算、網路、儲存體、安全性等方面的專業知識。
+  ms.openlocfilehash: 243a932c9851ea1979962b5d66a9e6e9e2cfa4cd
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104817"
+uid: role.solution-architect
+summary: >
+  解決方案架構設計人員有計算、網路、儲存體、安全性等方面的專業知識。
+subTitle: 解決方案架構設計人員有計算、網路、儲存體、安全性等方面的專業知識。
+certificationPaths:
+- title: Azure 解決方案架構師
   linkedInKeywords: Azure Solutions Architect
-  uid: certification-path.azure-solutions-architect 
-  prerequisites: 
+  uid: certification-path.azure-solutions-architect
+  prerequisites:
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-solutions-architect
     levels:
-    - advanced    
-- title: Dynamics 365 Finance and Operations Apps Solution Architect
+    - advanced
+- title: Dynamics 365 財務和營運應用程式解決方案架構設計人員
   linkedInKeywords: Dynamics 365 Finance and Operations Apps Solution Architect
   uid: certification-path.d365-finance-and-operations-apps-solution-architect-expert
-  prerequisites: 
-  - uid: certification.d365-fundamentals
+  prerequisites:
+  - uid: certification.d365-fundamentals-customer-engagement-apps-crm
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.d365-functional-consultant-financials
     levels:
-    - intermediate  
+    - intermediate
   - uid: certification.d365-functional-consultant-manufacturing
     levels:
-    - intermediate 
+    - intermediate
   - uid: certification.d365-functional-consultant-supply-chain-management
     levels:
-    - intermediate 
+    - intermediate
   - uid: certification.d365-finance-and-operations-apps-developer-associate
     levels:
-    - intermediate 
+    - intermediate
   - uid: certification.d365-finance-and-operations-apps-solution-architect-expert
     levels:
-    - advanced  
-- title: Dynamics 365 + Power Platform Solution Architect
-  linkedInKeywords: Dynamics 365 + Power Platform Solution Architect
-  uid: certification-path.power-apps-and-d365-solution-architect-expert
-  prerequisites: 
+    - advanced
+- title: Power Platform 解決方案架構設計人員
+  linkedInKeywords: Power Platform Solution Architect
+  uid: certification-path.power-platform-solution-architect-expert
+  prerequisites:
   - uid: certification.power-platform-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.d365-functional-consultant-sales
     levels:
     - intermediate
@@ -62,17 +68,6 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-field-service
     levels:
     - intermediate
-  - uid: certification.power-apps-and-d365-solution-architect-expert
-    levels:
-    - advanced
-- title: Power Platform Solution Architect
-  linkedInKeywords: Power Platform Solution Architect
-  uid: certification-path.power-platform-solution-architect-expert
-  prerequisites: 
-  - uid: certification.power-platform-fundamentals
-    isOptional: true
-    levels:
-    - beginner 
   - uid: certification.power-platform-functional-consultant-associate
     levels:
     - intermediate
@@ -97,12 +92,12 @@ certifications:
   requiredExams:
   - uid: exam.pl-600
 resources:
-- title: Microsoft 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: Microsoft 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 訓練和認證海報
-  description: 透過此訓練和認證海報選取您的成功路徑。
+  description: 使用這個訓練和認證海報，選擇成功的途徑。
   href: https://aka.ms/traincertposter
-- title: 支援認證
+- title: 認證的支援
   href: ../help.md
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。

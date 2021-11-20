@@ -1,17 +1,23 @@
 ### YamlMime:Course
-title: Building applications and solutions with Microsoft 365 core services
+title: '使用 Microsoft 365 的核心服務建立應用程式和解決方案  '
 metadata:
-  title: 'Course MS-600T00-A: Building applications and solutions with Microsoft 365 core services'
-  description: 'Course MS-600T00-A: Building applications and solutions with Microsoft 365 core services'
+  title: '課程 600T00--A：利用 Microsoft 365 的核心服務建立應用程式和解決方案  '
+  description: '課程 600T00--A：利用 Microsoft 365 的核心服務建立應用程式和解決方案  '
+  ms.openlocfilehash: 1161f95a21de917f0ecb4163e1e59be60f0916c6
+  ms.sourcegitcommit: 073cf120a67a147b75e4524603169d2aa2a0bd56
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "132105050"
 uid: course.ms-600t00
-courseNumber: 'MS-600T00-A'
+courseNumber: MS-600T00
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 實作Microsoft Identity
-- skill: 使用Microsoft Graph
-- skill: 決定工作量平台的目標
-- skill: Integration Points包括Microsoft Teams，Office Add -ins，和SharePoint Framework
+- skill: 執行 Microsoft 身分識別
+- skill: 使用 Microsoft Graph
+- skill: 判斷工作負載平臺目標
+- skill: 整合點，包括 Microsoft Teams、Office 增益集和 SharePoint 架構
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -21,150 +27,260 @@ roles:
 - administrator
 products:
 - m365
-- azure-active-directory
-- office-365
 exams:
 - uid: exam.ms-600
-summary: |-
-  本課程包含Microsoft 365平台的5個中心要素&#58; 實作Microsoft Identity，使用Microsoft Graph，延伸和自定義SharePoint，延伸Teams以及延伸Office。
-  在本課程，您將學到如何實作Microsoft Identity和使用Microsoft Graph。您同時還將瞭解到 UI原理(包括Adaptive Cards 和 UI Fabric)，Integration Points (包括 Microsoft Teams, Office Add -ins, SharePoint Framework, Actionable Messages)，和決定工作量平台的目標。
-  在實作Microsoft Identity這塊，您將學會實作Microsoft Identity，包括給應用程式註冊，移植認證，設定權限去消耗一個API和建立能夠使用Microsoft Graph的服務。
-  對於使用Microsoft Graph，您將學到如何存取用戶資料，探索查詢參數，管理一群生命週期，存取文檔，以及使用Microsoft Graph優化網路流量。
-  在延伸和自定義SharePoint這一塊，您將學會SharePoint Framework 網路部分，擴展，以及如何包裝和部署一個 SPFx方案。
-  對於擴展Teams，您將著眼於Teams 應用程式的元件，使用webhook，標籤和會話機器人。
-  對於擴展Office，您將使用Office Add -ins, task pane add -ins, JavaScript APIs, Office UI Fabric, 和actionable messages with adaptive cards。
-
-  #### 對象設定檔
-  學習此課程的學生都會對Microsoft 365開發平台感興趣或者正在透過Microsoft 365 Developer Associate的認證測驗。您還必須具備1-2年的開發者經驗。本課程默認了學生知道如何編寫代碼，並對以下內容有基礎的瞭解&#58; REST APIs, JSON, OAuth2, OData, OpenID Connect, Microsoft identities包括Azure AD 和Microsoft 賬戶, Azure AD B2C, 以及許可觀念。
-prerequisitesSection: |-
-  - 學生應具有1-2年的開發經驗。本課程默認了學生知道如何編寫代碼，並對以下內容有基礎的瞭解&#58; REST APIs, JSON, OAuth2, OData, OpenID Connect, Microsoft identities包括Azure AD 和Microsoft 賬戶, Azure AD B2C, 以及許可觀念。
-  - 我們建議學生在以下各階段的軟體開發過程中有一定的經驗&#58; Microsoft Teams, Office Add -ins,或者SharePoint Framework。
-outlineSection: |-
-  ### 模塊 1&#58; 實作 Microsoft Identity
-  在此模塊，您將學會實作Microsoft Identity，包括給應用程式註冊，移植認證，設定權限去消耗一個API和建立能夠使用Microsoft Graph的服務。
-  #### 課程
-  - Microsoft身份識別平台
-  - 註冊一個應用程式
-  - 移植認證
-  - 設定權限去消耗一個API
-  - 實作授權去消耗一個API
-  - 在API上實作授權
-  - 建立能夠使用Microsoft Graph的服務
+summary: >-
+  本課程涵蓋 Microsoft 365 平臺的五個核心元素：實行 Microsoft 身分識別、使用 Microsoft Graph、擴充和自訂 SharePoint、擴充 Teams，以及擴充 Office。 在此課程中，學生將學習如何實行 Microsoft 身分識別，並使用 Microsoft Graph。 學生也將瞭解 UI 元素 (包括調適型卡片和 UI Fabric) 、整合點 (包括 Microsoft Teams、Office 增益集、SharePoint 架構、可採取動作的訊息) ，以及判斷工作負載平臺目標。 在實施 Microsoft 身分識別時，學生將學習如何實行 Microsoft 身分識別，包括註冊應用程式、implanting 驗證、設定使用 API 的許可權，以及建立服務以存取 Microsoft Graph。 在使用 Microsoft Graph 時，學生將學習如何存取使用者資料、探索查詢參數、管理群組生命週期、存取檔案，以及使用 Microsoft Graph 將網路流量優化。 在擴充和自訂 SharePoint 中，學生將瞭解 SharePoint 架構的網頁元件、延伸模組，以及如何封裝及部署 SPFx 解決方案。 在擴充 Teams 中，學生將查看 Teams 應用程式的元件、使用 webhook、索引標籤和對話式 bot。 在擴充 Office 中，學生可透過調適型卡片來使用 Office 的增益集、工作窗格增益集、JavaScript api、Office UI Fabric 以及可採取動作的訊息。
 
 
-  #### 實驗室&#58; 實作Microsoft Identity
-  - 在Azure的活動目錄上註冊一個應用程式
-  - 實作授權
-  - 設定權限去消耗一個API
-  - 實作授權去消耗一個API
-  - 在API上實作授權
-  - 建立能夠使用Microsoft Graph的服務
-
-  完成本單元後，學生將能夠&#58;
-  - 在Azure AD上註冊一個應用程式
-  - 移植認證
-  - 設定權限去消耗一個API
-  - 建立能夠使用Microsoft Graph的服務
+  #### <a name="audience-profile"></a>聽眾設定檔
 
 
-  ### 模塊 2&#58; 使用Microsoft Graph
-  在此模塊您將學到如何存取用戶資料，探索查詢參數，管理一群生命週期，存取文檔，以及使用Microsoft Graph優化網路流量。
-  #### 課程
-  - 什麼是Microsoft Graph
-  - 透過Microsoft Graph存取用戶資料
-  - 查詢參數的資料使用
-  - 透過Microsoft Graph管理一群生命週期
-  - 透過Microsoft Graph存取文檔
-  - 優化網路流量
+  本課程的學生對 Microsoft 365 開發平臺或通過 Microsoft 365 開發人員相關認證測驗有興趣。 學生也應該以開發人員的身分使用1-2 年的經驗。 本課程假設學生知道如何撰寫程式碼，並對 REST api、JSON、OAuth2、OData OpenID Connect、microsoft 身分識別（包括 Azure AD 和 microsoft 帳戶、Azure AD B2C 和許可權/同意概念）有基本的瞭解。
+prerequisitesSection: >-
+  參與此課程之前，學生應具備：
+   * 開發人員以1-2 年的經驗。 本課程假設學生知道如何撰寫程式碼，並對 REST api、JSON、OAuth2、OData OpenID Connect、microsoft 身分識別（包括 Azure AD 和 microsoft 帳戶、Azure AD B2C 和許可權/同意概念）有基本的瞭解。
+   * 建議學生在 Microsoft Teams、Office 增益集，SharePoint 架構或透過軟體發展的所有階段，在開發解決方案方面有一些經驗。
+outlineSection: >-
+  ### <a name="module-1-implement-microsoft-identity"></a>模組1：實行 Microsoft 身分識別
 
 
-  #### 實驗室&#58; 使用Microsoft Graph
-  - 從Microsoft Graph查詢用戶資料
-  - 當透過HTTP查詢Microsoft Graph時使用查詢參數
-  - 找回和控制咨詢從Microsoft Graph退回
-  - 建立一個Office 365 Group and Team
-  - 上傳文檔到OneDrive 和 SharePoint
-  - 在Microsoft Graph上使用Change Notifications 和 Track Changes
-  - 使用批量請求降低流量
-  - 瞭解Microsoft Graph的節流
-
-  完成本單元後，學生將能夠&#58;
-  - 透過Microsoft Graph存取用戶資料
-  - 查詢Microsoft Graph上的資料
-  - 透過Microsoft Graph管理一群生命週期
-  - 使用Microsoft Graph優化網路流量
+  在本課程模組中，您將學習如何執行 Microsoft 身分識別，包括註冊應用程式、implanting 驗證、設定使用 API 的許可權，以及建立服務以存取 Microsoft Graph。
 
 
-  ### 模塊 3&#58; 延伸和自定義SharePoint
-  在此模塊您將學會SharePoint Framework web parts，擴展，以及如何包裝和部署一個 SPFx方案。
-  #### 課程
-  - SharePoint Framework 網路部分
-  - SharePoint Framework 擴展
-  - 包裝和部署一個 SPFx方案。
-  - Microsoft Graph的消耗
-  - 被SPFx裡面的Azure AD保護的第三方API的消耗
-  - Web Parts as Teams Tabs
-  - 在SharePoint品牌化和主題化
+  #### <a name="lessons"></a>課程
 
 
-  #### 實驗室&#58; 延伸和自定義SharePoint
-  - 介紹SharePoint Framework (SPFx)
-  - 使用web part property pane
-  - 建立SharePoint Framework Extensions
-  - 建立Command Set Extension
-  - 建立Field Customizer Extension
-  - 部署SharePoint Framework Solution
-  - Calling Azure AD Protected 3rd Party REST APIs
-  - 部署SPFx Solutions 到 Microsoft Teams
-
-  完成本單元後，學生將能夠&#58;
-  - 包裝和部署SharePoint Framework solution
-  - 利用Microsoft Graph
-  - 使用web parts as Team Tabs
+  *   使用 Microsoft 身分識別的開始使用
 
 
-  ### 模塊 4&#58; Extend Teams
-  在本模塊，您將著眼於Teams App的元件，使用webhook，標籤和會話機器人
-  #### 課程
-  - Microsoft Teams App
-  - Webhooks in Microsoft Teams
-  - Tabs in Microsoft Teams
-  - Messaging extensions in Microsoft Teams
-  - Microsoft Teams裡的會話機器人
+  *   Microsoft 身分識別中的應用程式類型
 
 
-  #### 實驗室&#58; Extend Teams
-  - 瞭解Teams App的元件
-  - 在 Microsoft Teams使用webhook
-  - 在Microsoft Teams建立標籤
-  - 瞭解messaging extensions
-  - 瞭解會話機器人
-
-  完成本單元後，學生將能夠&#58;
-  - 認識一個Teams App的元件
-  - 在 Microsoft Teams使用webhook
-  - 在Microsoft Teams建立標籤
-  - 建立和註冊對外的 webhooks
+  *   許可權和同意架構
 
 
-  ### 模塊 5&#58; Extend Office
-  在此模塊，您將使用Office Add -ins, task pane add -ins, JavaScript APIs, Office UI Fabric, 和actionable messages with adaptive cards。
-  #### 課程
-  - Office Add -ins
-  - Office JS APIs
-  - 定制Add -ins
-  - 測試，做預算和部署方案
-  - Actionable message
+  *   使用 Microsoft 身分識別保護自訂 Api
 
 
-  #### 實驗室&#58; Extend Office
-  - 瞭解Office Add -ins的基礎元件和種類
-  - 瞭解Office JavaScript APIs
-  - 瞭解定制Add -ins
-  - 瞭解actionable messages
+  *   在自訂應用程式和 Api 中使用使用者、群組和角色
 
-  完成本單元後，學生將能夠&#58;
-  - 瞭解Office Add -ins的基礎元件和種類
-  - 瞭解Office JavaScript APIs
-  - 瞭解定制Add -ins
-  - 瞭解actionable messages
+
+
+  #### <a name="lab--implement-microsoft-identity"></a>實驗室：實行 Microsoft 身分識別
+
+
+  ####
+     *   練習-在 Microsoft 身分識別中使用不同類型的權杖
+     *   練習-單一頁面應用程式
+     *   練習-登入使用者及呼叫 Api 的 Web 應用程式
+     *   練習-Daemon 和非互動式應用程式
+     *   練習-瞭解 Microsoft 身分識別平臺中的許可權和同意架構
+     *   練習-委派的許可權和同意
+     *   練習-應用程式許可權和同意
+     *   練習-使用 Microsoft 身分識別建立和保護 web API
+     *   練習-從 web 應用程式呼叫受保護的 Api
+     *   練習-從 daemon 應用程式呼叫受保護的 Api
+     *   練習-使用 Microsoft 身分識別建立並保護 web 應用程式
+     *   練習-在使用 Microsoft 身分識別保護的自訂應用程式和 Api 中使用安全性群組
+     *   練習-在自訂應用程式中運用應用程式角色
+
+  完成本課程模組之後，學生將能夠：
+
+
+  *   在 Azure AD 中註冊應用程式
+
+
+  *   執行驗證
+
+
+  *   設定使用 API 的許可權
+
+
+  *   建立服務以存取 Microsoft Graph
+
+
+
+  ### <a name="module-2-build-apps-with-microsoft-graph"></a>模組2：使用 Microsoft Graph 建立應用程式
+
+
+  在本課程模組中，您將瞭解如何使用 Microsoft Graph 來存取使用者資料、探索查詢參數、管理群組生命週期、存取檔案，以及將網路流量優化。
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   使用查詢參數優化資料使用量
+
+
+  *   使用 Microsoft Graph 將網路流量優化
+
+
+  *   從 Microsoft Graph 存取使用者資料
+
+
+  *   使用 Microsoft Graph 管理群組生命週期
+
+
+  *   使用 Microsoft Graph 存取檔案
+
+
+  *   使用 Microsoft Graph 的變更通知和追蹤變更
+
+
+
+  #### <a name="lab--build-apps-with-microsoft-graph"></a>實驗室：使用 Microsoft Graph 建立應用程式
+
+
+  ####
+     *   練習-取得並控制從 Microsoft Graph 傳回的資訊
+     *   練習-展開相關實體並搜尋 Microsoft Graph 中的內容
+     *   練習-使用批次要求減少流量
+     *   練習-瞭解 Microsoft Graph 中的節流
+     *   練習-避免節流並執行節流策略
+     *   練習-使用 delta 查詢來消除輪詢 Microsoft Graph
+     *   練習-與組織中的使用者合作
+     *   練習-使用者設定檔和相關使用者
+     *   練習-修改使用者
+     *   練習-在組織中使用群組
+     *   練習-使用者及其群組
+     *   練習-管理群組生命週期
+     *   練習-從 OneDrive 存取及下載檔案
+     *   練習-將檔案上傳至 OneDrive
+     *   練習-使用 OneDrive 中的檔案關聯性和趨勢
+     *   練習-Azure AD apps .net core web api
+     *   練習-Microsoft Graph 變更通知
+     *   練習-使用 Microsoft Graph 追蹤變更
+
+  完成本課程模組之後，學生將能夠：
+
+
+  *   使用 Microsoft Graph 存取使用者資料
+
+
+  *   在 Microsoft Graph 上使用查詢來處理資料
+
+
+  *   在 Microsoft Graph 上管理群組生命週期
+
+
+  *   使用 Microsoft Graph 將網路流量優化
+
+
+
+  ### <a name="module-3-extend-microsoft-365"></a>模組3：延伸 Microsoft 365
+
+
+  在本課程模組中，您將瞭解 SharePoint 架構 web 元件、延伸模組，以及如何封裝及部署 SPFx 解決方案。 您也可以使用調適型卡片的 Office 增益集、工作窗格增益集、JavaScript api、Office UI Fabric 和可採取動作的訊息。
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   自訂和擴充 SharePoint 的簡介
+
+
+  *   使用增益集進行 Office 用戶端自訂的簡介
+
+
+
+  #### <a name="lab--extend-microsoft-365"></a>實驗室：延伸 Microsoft 365
+
+
+  ####
+     *   練習-建立及設定您的 SharePoint 線上開發人員租使用者
+     *   練習-在新式網站中與 SPFx 用戶端 web 元件互動
+
+  完成本課程模組之後，學生將能夠：
+
+
+  *   封裝和部署 SharePoint 架構解決方案
+
+
+  *   使用 Microsoft Graph 的耗用量
+
+
+  *   使用 web 元件做為小組索引標籤
+
+
+  *   瞭解 Office 增益集的基本元件和類型
+
+
+  *   瞭解 Office JavaScript api
+
+
+  *   瞭解 Office 增益集的測試、偵錯工具和部署選項
+
+
+
+  ### <a name="module-4-develop-apps-for-microsoft-teams"></a>模組4：針對 Microsoft Teams 開發應用程式
+
+
+  在本課程模組中，您將查看 Teams 應用程式的元件、使用 webhook、索引標籤和對話式 bot。
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   針對 Microsoft Teams 建立應用程式的總覽
+
+
+  *   使用訊息延伸模組的工作導向互動
+
+
+  *   Microsoft Teams 中的索引標籤
+
+
+  *   建立互動式對話式 bot
+
+
+  *   使用工作模組收集輸入
+
+
+  *   Microsoft Teams 中的 webhook
+
+
+  *   Microsoft Graph 團隊合作端點
+
+
+  *   Microsoft Teams 中的驗證和單一登入
+
+
+
+  #### <a name="lab--develop-apps-for-microsoft-teams"></a>實驗室：開發適用于 Microsoft Teams 的應用程式
+
+
+  ####
+     *   練習-建立動作命令訊息延伸模組
+     *   練習-建立搜尋命令訊息延伸模組
+     *   練習-執行連結 unfurling 訊息延伸模組
+     *   練習-建立自訂的 Microsoft Teams 個人] 索引標籤
+     *   練習-建立自訂 Microsoft Teams 通道索引標籤
+     *   練習-建立對話式 bot
+     *   練習-頻道和群組聊天中的 Bot
+     *   練習-從 bot 傳送主動式訊息
+     *   練習-使用工作模組收集使用者輸入
+     *   練習-在工作模組中使用調適型卡片和深層連結
+     *   練習-搭配使用工作模組與 bot
+     *   練習-建立傳出 webhook
+     *   練習-建立傳入 webhook
+     *   練習-開始使用小組合作端點
+     *   練習-使用 Microsoft Graph 設定內建索引標籤
+     *   練習-使用 Microsoft Graph 張貼至活動摘要
+     *   練習-為 Microsoft Teams 應用程式執行單一登入
+     *   練習-使用 Microsoft Teams] 索引標籤來執行單一登入
+     *   練習-使用 Microsoft Teams bot 來執行單一登入
+
+  完成本課程模組之後，學生將能夠：
+
+
+  *   辨識 Teams 應用程式的元件
+
+
+  *   在 Microsoft Teams 中使用 webhook
+
+
+  *   在 Microsoft Teams 中建立索引標籤
+
+
+  *   建立和註冊傳出 webhook

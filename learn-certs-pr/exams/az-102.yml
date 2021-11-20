@@ -1,73 +1,86 @@
 ### YamlMime:Examination
-title: Microsoft Azure Administrator Certification Transition
+title: Microsoft Azure系統管理員認證轉換
 metadata:
-  title: '測驗 AZ-102: Microsoft Azure Administrator Certification Transition'
-  description: '測驗 AZ-102: Microsoft Azure Administrator Certification Transition'
+  title: 測驗 AZ-102： Microsoft Azure 系統管理員認證轉換
+  description: 測驗 AZ-102： Microsoft Azure 系統管理員認證轉換
+  ms.openlocfilehash: 5fb23df34c0e88767e8b0d94bd294e585f329bb1
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101586"
 uid: exam.az-102
 displayName: AZ-102
 summary: >-
-  <div><strong>該測驗已於 2019年6月30日到期。測驗將在中部標準時間晚間11點59分到期<br/> <br/> </strong></div>
+  <div>
+
+  <div><strong>此測驗已于2019年6月30日淘汰。注意&#58; 測驗于 11:59 PM 中部標準時間淘汰</strong><br/><br/></div>
+
+  </div>
 
 
-  此項測驗僅適用於已參加 [測驗 70-533](https://www.microsoft.com/learning/exam-70-533.aspx) 的應試者&#58; Implementing Microsoft Azure Infrastructure Solutions 如果你仍未參加測驗 533，你將無法通過參加 本測驗 獲得認證。
+  這項測驗僅適用于已採用[測驗 70-533](https://www.microsoft.com/learning/exam-70-533.aspx)&#58; 實行 Microsoft Azure 基礎結構解決方案的候選人。 如果您尚未參加測驗533，您將不會獲得這項測驗來取得認證。
 
 
-  此轉換測驗針對的是已經通過即將被新的角色導向的認證測驗替代的現有測驗，從而在內容領域中展示了其技能的人。他們除了已通過當前的認證之外，而且還具有我們認為獲取這項新認證所應具有的能力。那些已經通過現有測驗的人已經展示了他們的勝任能力，我們不想再次針對相同內容對他們展開又一次測試。
+  轉換測驗適用于已經在內容領域中展示技能的人，方法是將新的「以角色為基礎的認證測驗」取代) ，藉由將現有的測驗 (的。 其中涵蓋目前憑證之間的差異，以及我們希望贏得新認證的人員能夠進行的差異。 我們不想要在已通過現有測驗的相同內容上重新測試人們的表現。
 
 
-  轉換測驗包含了全新的內容，包括對之前內容的深入，以及自應試者參加測驗之後可能已經出現變化的技術方面的內容。因此，轉換測驗不會比典型的測驗更短，而是更多地關注於我們在現有的、即將被替代的測驗或認證中並未評估的關鍵任務與技能。
+  轉換測驗涵蓋了新的內容、未涵蓋的內容，涵蓋的深度更多，以及因某人進行測驗而可能有所變更之技術方面的內容。 如此一來，轉換測驗不會比一般測驗還短，而是著重于未在即將取代的現有測驗或認證中評估的主要工作和技能。
 
 
-  此測驗的應試者是 Azure 管理員，他們管理跨越儲存、安全性、網路與計算雲端功能的雲端服務。應試者對整個 IT 生命週期中的每項服務都有深入的瞭解，並接受雲端基礎結構服務、應用程式與環境的請求。他們針對最佳性能與規模使用服務提出建議，並適當地佈建、規模、監控與調整資源。
+  這項測驗的候選項目是 Azure 系統管理員，負責管理跨儲存體、安全性、網路和計算雲端功能的雲端服務。 候選人對整個 IT 生命週期的每個服務都有深入的瞭解，並取得基礎結構服務、應用程式和環境的要求。 他們會對要使用的服務提出建議，以達到最佳效能和規模，以及視需要布建、調整規模、監視和調整資源。
 
 
-  測驗的應試者應該熟練使用 PowerShell 與命令列界面。應試者應具備 Azure 門戶、ARM 範本、作業系統、虛擬化、雲端基礎結構、儲存結構與網路的基本瞭解或知識。
-subTitle: 此項測驗僅適用於已參加 測驗 70-533 的應試者：Implementing Microsoft Azure Infrastructure Solutions 若您沒有參加測驗 533，那麼您將無法透過此測驗獲得認證。
+  這項測驗的候選項目應能熟練使用 PowerShell 和命令列介面。 候選人應具備 Azure 入口網站、ARM 範本、作業系統、虛擬化、雲端基礎結構、儲存結構和網路功能的基本熟悉度或知識。
+subTitle: 本測驗僅適用于已進行測驗70-533 的候選人：實施 Microsoft Azure 基礎結構解決方案。 如果您尚未參加測驗533，您將不會獲得這項測驗來取得認證。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwA
 practiceTestUrl: https://www.mindhub.com/product-p/mu-az-102_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/
-retirementDate: 06/30/2019
 levels:
 - intermediate
 skills:
-- 管理 Azure 訂閱和資源 (5-10%)
-- 實作和管理存儲 (5-10%)
-- 設定和管理虛擬網路 (15-20%)
-- 管理身份 (15-20%)
-- 評估並執行遷移伺服器到 Azure (15-20%)
-- 實作和管理應用服務 (5-10%)
-- 實作高階虛擬網路 (5-10%)
-- 安全身份 (5-10%)
+- Manage Azure subscriptions and resources (5-10%)
+- Implement and manage storage (5-10%)
+- Configure and manage virtual networks (15-20%)
+- Manage identities (15-20%)
+- Evaluate and perform server migration to Azure (15-20%)
+- Implement and manage application services (5-10%)
+- Implement advanced virtual networking (5-10%)
+- Secure identities (5-10%)
+retirementDate: 06/30/2019
 roles:
 - administrator
+products:
+- azure
 exams:
 - uid: exam.az-100
 - uid: exam.az-101
-products:
-- azure
 relatedCertifications:
 - related:
     uid: certification.azure-administrator
 resources:
-- title: 認證學習途徑
-  description: '發現訓練資源,以成為經 Microsoft Certified: Azure Administrator Associate。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
-- title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 支持認證考試
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 認證 Learning 路徑
+  description: 探索要成為 Microsoft 認證的訓練資源： Azure 系統管理員相關聯。
+  href: https://aka.ms/AzureAdminInfographic
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證海報
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
-  description: 詳細了解有關為測驗申請調整的資訊。
+- title: 要求住宿
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md

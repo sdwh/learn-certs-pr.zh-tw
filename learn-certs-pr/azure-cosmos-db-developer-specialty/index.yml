@@ -1,0 +1,66 @@
+### YamlMime:Certification
+title: Microsoft 認證： Azure Cosmos DB 開發人員專業版
+metadata:
+  title: Microsoft 認證： Azure Cosmos DB 開發人員專業版
+  description: 此認證將于2021年11月推出。 Azure Cosmos DB 開發人員設計和執行資料模型和資料散發、將資料載入 Azure Cosmos DB 資料庫，以及優化和維護方案。
+  ms.openlocfilehash: 1e3a90ffc67626372ee2c1afe07850f858b4c611
+  ms.sourcegitcommit: 35b014146be2d7badafdb39548c387b2af6c0314
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/15/2021
+  ms.locfileid: "132105087"
+uid: certification.azure-cosmos-db-developer-specialty
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: >-
+  Azure Cosmos DB 開發人員專業版認證的候選項目，應具備設計、實行和監視儲存和管理資料的雲端原生應用程式的主題專業知識。
+
+
+  此角色的責任包括設計和執行資料模型和資料散發、將資料載入 Azure Cosmos DB 資料庫，以及優化和維護方案。 這些專業人員會將解決方案與其他 Azure 服務整合。 他們也會設計、實行和監視考慮安全性、可用性、彈性和效能需求的解決方案。
+
+
+  此認證的候選項目必須具備開發適用于 Azure 的應用程式，以及使用 Azure Cosmos DB 資料庫技術的相關知識和經驗。 他們應該精通開發應用程式的功能，方法是使用核心 (SQL) API 和 sdk、撰寫有效率的查詢，以及建立適當的索引原則、布建和管理 Azure 中的資源，以及使用 JavaScript 建立伺服器端物件。 它們應該能夠解讀 JSON、讀取 c # 或 JAVA 程式碼，以及使用 PowerShell。
+
+
+  <div></br><font color='red'><strong>注意：此認證將于2021年11月提供。</strong></font></div>
+subTitle: 此認證將于2021年11月推出。 Azure Cosmos DB 開發人員設計和執行資料模型和資料散發、將資料載入 Azure Cosmos DB 資料庫，以及優化和維護方案。
+levels:
+- intermediate
+skills:
+- Design and implement data models
+- Design and implement data distribution
+- Integrate an Azure Cosmos DB solution
+- Optimize an Azure Cosmos DB solution
+- Maintain an Azure Cosmos DB solution
+roles:
+- developer
+- data-engineer
+- solution-architect
+type: specialty
+products:
+- azure
+- azure-cosmos-db
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWN6ga
+exams:
+- uid: exam.dp-420
+resources:
+- title: Azure 認證海報
+  description: 查看 Azure 的基本概念、角色型和專長認證等總覽。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證海報
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
+  href: ../deals.md
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
+  href: ../help.md
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
+  href: ../badges.md

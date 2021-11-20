@@ -1,27 +1,36 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure Data Engineer Associate'
+title: Microsoft 認證： Azure 資料工程師相關聯
 metadata:
-  title: 'Microsoft Certified: Azure Data Engineer Associate'
-  description: 'Azure 資料工程師將來自各種結構化和非結構化資料系統的資料集成、轉換和整合到適合構建分析解決方案的結構中。'
+  title: Microsoft 認證： Azure 資料工程師相關聯
+  description: Azure 資料工程師會將各種結構化和非結構化資料系統中的資料整合、轉換及合併，成為適合用來建立分析解決方案的結構。
+  ms.openlocfilehash: 6c5abf2ecb3efc01b05936bbea8895bd81b20eaf
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104160"
 uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Azure Data Engineer Associate認證的考生應具備專業技能，這些技能可將各種結構化及非結構化資料系統中的資料集成、轉換並整合為適於構建分析解決方案的結構。
-  
-  該角色的職責包括幫助利益相關者借助探索瞭解資料，並通過使用不同的工具和技術，構建和維護安全及合規的資料處理管道。該專業人士使用各種Azure資料服務和語言來存儲和生成用於分析的經過清理和增強的資料集。
-  
-  鑒於一組特定的業務需求和約束，“Azure資料工程師”還可説明確保資料管道及資料存儲是高性能、高效、有組織和可靠的。該專業人士可快速處理未預料到的問題，並最大限度地減少資料丟失。“Azure資料工程師”還可設計、實施、監控並優化資料平臺，以滿足資料管道的需求。
-  
-  該認證的考生必須具備扎實的資料處理語言知識，如SQL, Python, 或Scala, 而且需要瞭解並行處理及資料體系結構模式。
-subTitle: Azure 資料工程師將來自各種結構化和非結構化資料系統的資料集成、轉換和整合到適合構建分析解決方案的結構中。
+summary: >-
+  適用于 Azure 資料工程師的一項候選認證應該有主題專業知識，將各種結構化和非結構化資料系統中的資料整合、轉換及合併到適合用來建立分析解決方案的結構中。
+
+
+  此角色的責任包括協助專案關係人透過探索、建立及維護安全且符合規範的資料處理管線，使用不同的工具和技術來瞭解資料。 此專業人員使用各種 Azure 資料服務和語言來儲存和產生清理和增強的資料集，以進行分析。
+
+
+  如果有一組特定的商務需求和條件約束，Azure 資料工程師也有助於確保資料管線和資料存放區都能以高效能、有效率、組織且可靠的方式執行。 此專業人員會迅速處理非預期的問題，並將資料遺失降到最低。 Azure 資料工程師也會設計、實行、監視及優化資料平臺，以符合資料管線的需求。
+
+
+  此認證的候選項必須具備資料處理語言的知識，例如 SQL、Python 或 Scala，而且需要瞭解平行處理和資料架構模式。
+subTitle: Azure 資料工程師會將各種結構化和非結構化資料系統中的資料整合、轉換及合併，成為適合用來建立分析解決方案的結構。
 levels:
 - intermediate
 skills:
-- 設計並實施資料存儲
-- 設計並開發資料處理
-- 設計並實施資料安全
-- 監控並優化資料存儲及資料處理
+- Design and implement data storage
+- Design and develop data processing
+- Design and implement data security
+- Monitor and optimize data storage and data processing
 roles:
 - data-engineer
 type: role-based
@@ -49,27 +58,27 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwU
 exams:
 - uid: exam.dp-203
 resources:
-- title: 認證之旅
-  description: 探索獲得 Azure Data Engineer Associate 資格的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索可作為 Azure 資料工程師取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ
 - title: Azure 認證海報
-  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  description: 查看 Azure 的基本概念、角色型和專長認證等總覽。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md

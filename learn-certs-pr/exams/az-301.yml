@@ -1,23 +1,35 @@
 ### YamlMime:Examination
-title: Microsoft Azure Architect Design
+title: Microsoft Azure架構設計
 metadata:
-  title: 'Exam AZ-301: Microsoft Azure Architect Design'
-  description: 'Exam AZ-301: Microsoft Azure Architect Design'
+  title: 測驗 AZ-301： Microsoft Azure 架構設計
+  description: 測驗 AZ-301： Microsoft Azure 架構設計
+  ms.openlocfilehash: 6f981a9ef30219ac86d189b198f56479cdb3513b
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101558"
 uid: exam.az-301
 displayName: AZ-301
-summary: |-
+summary: >-
   <div>
-  <div><strong>本考試已停用。替代考試AZ-304可用。如需更多詳情，請訪問網址<a href="/learn/certifications/exams/az-304">的AZ-304考試詳情頁</a>。</strong><br/><br/></div>
+
+  <div><strong>這項測驗已淘汰。有一項替換測驗（AZ-304）可供使用。如需詳細資訊，請造訪 <a href="/learn/certifications/exams/az-304">AZ-304 測驗詳細資料網頁</a>。</strong><br/><br/></div>
+
   </div>
 
-  參加該測驗的應試者應具有設計和實作可在 Microsoft Azure 上運行的解決方案的主題專業知識，包括計算、網路、存儲和安全性等方面。
 
-  Azure 解決方案架構師的職責包括為利益相關者提供建議，並將業務需求轉換為安全、可擴充且可靠的雲端解決方案。
+  這項測驗的候選項目在設計和實行在 Microsoft Azure 上執行的解決方案時，必須具備專業知識，包括計算、網路、儲存體和安全性等層面。
 
-  Azure 解決方案架構師與雲端管理員，雲端 DBA 和客戶端合作以實作解決方案。
 
-  參加該測驗的考生應具有 IT 運營各個方面的高階經驗和知識，包括網路、視覺效果、身份、安全性、業務連續性、災難恢復、資料管理、預算和治理——該角色應管理各個領域的決策如何影響整體解決方案。此外，該角色應精通以下 Azure 知識領域中的至少一個&#58; 管理、開發或 DevOps。
-subTitle: '這項測驗衡量您完成以下技術任務的能力：確定工作量要求；身份和安全性設計； 設計資料平台解決方案；設計業務連續性策略；用於部署、移轉和集成的設計；並設計基礎設施策略。'
+  Azure 解決方案架構設計人員的責任包括為專案關係人提供意見，並將商務需求轉換成安全、可擴充且可靠的雲端解決方案。
+
+
+  Azure 解決方案架構設計人員會與雲端系統管理員、雲端 Dba 和用戶端合作來實行解決方案。
+
+
+  這項測驗的候選版應該具有橫跨 IT 營運各方面的 advanced 體驗和知識，包括網路、虛擬化、身分識別、安全性、商務持續性、嚴重損壞修復、資料管理、預算和治理，此角色應管理每個區域中的決策如何影響整體解決方案。 此外，此角色至少應該在其中一個 Azure 知識網域中熟練&#58; 系統管理、開發或 DevOps。
+subTitle: 這項測驗會測量您完成下列技術工作的能力：判斷工作負載需求;身分識別和安全性設計;設計資料平臺解決方案;設計商務持續性策略;部署、遷移和整合的設計;並設計基礎結構策略。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -28,12 +40,12 @@ locales:
 levels:
 - advanced
 skills:
-- 確定工作量要求 (10-15%)
-- 身份和安全性設計 (20-25%)
-- 設計資料平台解決方案 (15-20%)
-- 設計業務連續性策略 (15-20%)
-- 設計部署、移轉與整合 (10-15%)
-- 設計基礎設施策略 (15-20%)
+- Determine workload requirements (10-15%)
+- Design for identity and security (20-25%)
+- Design a data platform solution (15-20%)
+- Design a business continuity strategy (15-20%)
+- Design for deployment, migration, and integration (10-15%)
+- Design an infrastructure strategy (15-20%)
 retirementDate: 09/30/2020
 roles:
 - solution-architect
@@ -75,25 +87,24 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md
-

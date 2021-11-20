@@ -1,22 +1,34 @@
 ### YamlMime:Examination
-title: Deploying SharePoint Server Hybrid
+title: 部署 SharePoint Server 混合式
 metadata:
-  title: 'Exam MS-301: Deploying SharePoint Server Hybrid'
-  description: 'Exam MS-301: Deploying SharePoint Server Hybrid'
+  title: 測驗 MS-301：部署 SharePoint Server 混合式
+  description: 測驗 MS-301：部署 SharePoint Server 混合式
+  ms.openlocfilehash: 6f45317de25ce61d033bd51a94e321cab9e39515
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101458"
 uid: exam.ms-301
 displayName: MS-301
-summary: |-
+summary: >-
   <div>
-  <div><strong>此測驗於 2020 年 8 月 31 日淘汰。有關當前可用的選項，請參考<a href='/learn/certifications/browse/'strong>瀏覽認證和考試頁面</a>。</strong><br/><br/></div>
+
+  <div><strong>此測驗已于2020年8月31日淘汰。如需目前可用的選項，請參閱 [ <a href="/learn/certifications/browse/">流覽認證和測驗] 頁面</a>。</strong><br/><br/></div>
+
   </div>
 
-  此測驗的應試者是團隊管理員，他們負責設定、部署與管理專注於高效率，有效的共同作業與採用的 Office 365 與 Azure 工作負載。團隊工作管理員可管理應用程式，服務與支援基礎架構，以滿足業務需求。Teamwork 管理員必須能夠部署，管理，轉移與保護 SharePoint(線上，本地與混合)，OneDrive 與團隊。
+
+  這項測驗的候選項目是負責設定、部署和管理 Office 365 和 Azure 工作負載的小組合作系統管理員，其著重于有效率且有效的共同作業和採用。 團隊合作的系統管理員可以管理應用程式、服務和支援的基礎結構，以符合商務需求。 團隊合作的系統管理員必須能夠部署、管理、遷移和保護 SharePoint (online、內部部署和混合式) 、OneDrive 和 Teams。
+
   <br/>
 
-  團隊工作管理員參與有關治理的決策，並與其他管理員合作實施治理機構做出的許多決策。團隊工作管理員與 Messaging Administrator 共同作業設定與電子郵件任務相關的選項與安全性，語音管理員在組織中整合語音功能，以及安全管理員以確保端到端的安全性。
 
-  測驗的應試者使用以下應用程式與服務對整合點有基本的了解：Office, Power Apps, Flow, Yammer, Microsoft Graph, Stream, Planner, 與 Project。管理員了解如何整合協力廠商應用程式與服務，包括商務營運應用程式。應試者還了解 SQL Server 管理概念、Azure Active Directory、PowerShell、網路、Windows伺服器管理、網域名稱系統(DNS)、Active Directory 行動裝置管理與替代作業系統。
-subTitle: '此測驗測量您在完成以下技術任務時的能力：設定與管理 SharePoint 內部部署；設定與管理混合場景；以及移轉到 SharePoint Online。'
+  團隊合作的系統管理員牽涉到關於治理的決策，並與其他系統管理員合作，以實行治理主體所做的許多決策。 小組合作系統管理員會與訊息管理員共同作業，以設定與電子郵件工作相關的選項和安全性、使用語音系統管理員來整合組織中的語音功能，以及使用安全性系統管理員來確保端對端安全性。
+
+
+  這項測驗的候選項目對整合點具有下列應用程式和服務的基本瞭解&#58; Office、Power Apps、Flow、Yammer、Microsoft Graph、串流、Planner 和 Project。 系統管理員瞭解如何整合協力廠商應用程式和服務，包括企業營運應用程式。 候選人也瞭解 SQL Server 管理概念、Azure Active Directory、PowerShell、網路、Windows 伺服器管理、網域名稱系統 (DNS) 、Active Directory 行動裝置管理，以及替代的作業系統。
+subTitle: 這項測驗會測量您完成下列技術工作的能力：設定和管理內部部署 SharePoint;設定和管理混合式案例;並遷移至 SharePoint Online。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8S
 locales:
@@ -25,9 +37,9 @@ locales:
 levels:
 - intermediate
 skills:
-- 設定與管理 SharePoint 內部部署 (55-60%)
-- 設定及管理混合方案 (30-35%)
-- 移轉到 SharePoint Online (5-10%)
+- Configure and manage SharePoint on-premises (55-60%)
+- Configure and manage hybrid scenarios (30-35%)
+- Migrate to SharePoint Online (5-10%)
 retirementDate: 08/31/2020
 roles:
 - administrator
@@ -39,37 +51,31 @@ products:
 - office-yammer
 exams:
 - uid: exam.ms-300
-courses:
-- uid: course.ms-301t01
-- uid: course.ms-301t02
-- uid: course.ms-301t03
-- uid: course.ms-301t04
 relatedCertifications:
 - related:
     uid: certification.m365-teamwork-administrator
 resources:
-- title: 認證學習途徑
-  description: '發現訓練資源，以成為經 Microsoft Certified: Teamwork Administrator Associate.'
+- title: 認證 Learning 路徑
+  description: 探索訓練資源以成為 Microsoft 認證：團隊合作的系統管理員相關聯。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md
-

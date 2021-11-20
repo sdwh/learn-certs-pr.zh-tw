@@ -1,28 +1,37 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure Administrator Associate （遺留）'
+title: 'Microsoft 認證： Azure 系統管理員將 (舊版) '
 metadata:
-  title: 'Microsoft Certified: Azure Administrator Associate （遺留）'
-  description: 'Azure 管理員實作、管理和監控組織的 Microsoft Azure 環境。'
+  title: 'Microsoft 認證： Azure 系統管理員將 (舊版) '
+  description: Azure 系統管理員會執行、管理及監視組織的 Microsoft Azure 環境。
+  ms.openlocfilehash: 2804af48e44a777ccd54506f0e763302d1a0d1ac
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101351"
 uid: certification.azure-administrator-erlr
-certificationRenewalUid: renewal.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color="#D83B01"><strong>此版本的證書不再有效。如果您有此版本的證書，您將自動取得此證書的最新版本。<br/><br/>  兩個版本的證書都將在您的「證書」列出。您只需更新到新的版本。當先前版本到期時，它將轉到您成績單的證書歷史部分。<br/><br/></strong></font></div>
-  
-  Azure Administrator Associate 認證的應試者應具有在實作、管理和監控組織的 Microsoft Azure 環境方面的主題專業知識。
+summary: >-
+  <div><font color="#D83B01"><strong>此版本的認證已無法再使用。 如果您有此版本的認證，系統會自動將最新版本的認證授與您。<br/><br/>  這兩種版本的認證都會列在您的認證中。 您只需要更新較新的版本。 當先前的版本過期時，它會移至文字記錄的 [認證歷程記錄] 區段。<br/><br/></strong></font></div>
 
-  擔任此角色的職責包括在雲端環境中實作、管理和監控身份、治理、存儲、計算和虛擬網路，以及在需要時提供、調整大小、監控和調整資源。
 
-  Azure 管理員通常是專門用於實作組織的雲端基礎結構的較大團隊的一部分。
+  適用于 Azure 系統管理員的認證，應具備執行、管理和監視組織 Microsoft Azure 環境的主題專業知識。
 
-  參加此認證的應試者應至少具有六個月的 Azure 管理實踐經驗，並對核心 Azure 服務、Azure 工作負載、安全性和治理有深入的了解。此外，該角色應具有使用 PowerShell、Azure CLI、Azure 門戶和 Azure 資源管理員模板的經驗。
-subTitle: Azure 管理員實作、管理和監控組織的 Microsoft Azure 環境。
+
+  此角色的責任包括在雲端環境中實施、管理及監視身分識別、治理、儲存體、計算和虛擬網路，以及在需要時布建、調整規模、監視和調整資源。
+
+
+  Azure 系統管理員通常會成為更大型團隊的一部分，專門用來執行組織的雲端基礎結構。
+
+
+  這項認證的候選版應該至少有六個月的 Azure 管理經驗，以及對核心 Azure 服務、Azure 工作負載、安全性和治理的強大瞭解。 此外，此角色應該有使用 PowerShell、Azure CLI、Azure 入口網站和 Azure Resource Manager 範本的體驗。
+subTitle: Azure 系統管理員會執行、管理及監視組織的 Microsoft Azure 環境。
 hidden: true
 hideFishboneDiagram: true
 levels:
-- intermediate 
+- intermediate
 skills:
-- 無 
+- None
 roles:
 - administrator
 type: role-based
@@ -49,27 +58,26 @@ exams:
 - uid: exam.az-101
 resources:
 - title: Azure 認證海報
-  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  description: 查看 Azure 的基本概念、角色型和專長認證等總覽。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 認證之旅
-  description: 探索獲得 Azure administrator Associate 資格的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索可作為 Azure 系統管理員取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: badges.md
-

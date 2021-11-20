@@ -1,26 +1,31 @@
 ### YamlMime:CertificationRenewal
-title: '更新您的 Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
+title: Microsoft 認證的續約： Dynamics 365 銷售功能顧問相關聯
 metadata:
-  title: '更新您的 Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
-  description: '如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。'
+  title: Microsoft 認證的續約： Dynamics 365 銷售功能顧問相關聯
+  description: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。
+  ms.openlocfilehash: b6252ebb1ff87f9adca586f11a3eda220d651634
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101978"
 uid: renewal.d365-functional-consultant-sales
 certificationUid: certification.d365-functional-consultant-sales
 assessmentId: 77790b05-d9dc-40d9-a754-61322b6ab014
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。通過更新評估，表明您保持最新的Dynamics 365 Customer Insights和Sales Insights更新。您還可以準備精選的學習模組更新。
+summary: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。 藉由傳遞續約評估，顯示您已將最新的 Dynamics 365 Customer Insights 和 Sales Insights 更新保持在最新狀態。 您也可以使用學習課程模組的策劃集合來準備續約。
 skills:
-- 使用 Dynamics 365 Sales 處理銷售訂單
-- 使用 Dynamics 365 Sales 管理和組織您的產品目錄
-- 在Dynamics 365 Customer Insights中創建統一的客戶資料
-- 使用Dynamics 365 Customer Insights
-- 設定銷售見解
-- 使用Dynamics 365 Sales Insights
+- Process sales orders with Dynamics 365 Sales
+- Manage and organize your product catalog with Dynamics 365 Sales
+- Create a unified customer profile in Dynamics 365 Customer Insights
+- Work with Dynamics 365 Customer Insights
+- Configure Sales Insights
+- Working with Dynamics 365 Sales Insights
 examsPassed:
 - pl-200, mb-210
-studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft認證做準備：Dynamics 365銷售職能顧問助理更新評估。'
+studyGuideDescription: 您可以使用此學習課程模組集合，協助您準備 Microsoft 認證： Dynamics 365 銷售功能顧問將續約評估相關聯。
 resources:
-- title: 關於證書更新
-  summary: 了解線上更新證書的過程和要求
+- title: 關於認證續約
+  summary: 瞭解在線上續訂認證的流程和需求
   url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

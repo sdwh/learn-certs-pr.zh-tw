@@ -1,29 +1,36 @@
 ### YamlMime:CertificationRenewal
-title: '更新您的 Microsoft 365 Certified: Enterprise Administrator Expert'
+title: Microsoft 365 認證的更新： Enterprise 系統管理員專家
 metadata:
-  title: '更新您的 Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: '如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。'
+  title: Microsoft 365 認證的更新： Enterprise 系統管理員專家
+  description: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。
+  ms.openlocfilehash: dd7b1466ceda6ba0a7485a4c6f57410162524007
+  ms.sourcegitcommit: 468e49f99bce29f3130cccd97af130459746d6c5
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "132105022"
 uid: renewal.m365-enterprise-administrator
 certificationUid: certification.m365-enterprise-administrator
 assessmentId: f28a7832-30d9-4fe7-afea-e88ec7ab4e5a
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。通過更新評估，表明您已保持最新的Microsoft 365更新。您還可以準備精選的學習模組更新。
+summary: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。 藉由傳遞續約評估，顯示您已將最新的 Microsoft 365 更新保持在最新狀態。 您也可以使用學習課程模組的策劃集合來準備續約。
 skills:
-- 使用System Center Configuration Manager透過共同管理來管理Windows 10
-- 使用Microsoft Endpoint Manager簡化設備管理
-- 使用連接器將郵件傳遞到Microsoft 365外部的信箱
-- 使用 Microsoft Defender for Identity 保護您的環境
-- 使用 Microsoft Defender for Endpoint 防範風險
-- 在Microsoft 365中遷移使用者檔案和設置
-- 交付Microsoft 365 Apps和業務應用
-- 使用靈敏度標籤保護您的資料
-- 在Microsoft 365中管理內部風險
+- Manage Windows 10 through co-management by using System Center Configuration Manager
+- Simplify device management with Microsoft Endpoint Manager
+- Deliver mail to mailboxes outside Microsoft 365 by using connectors
+- Introduction to threat protection with Microsoft 365
+- Protect against threats with Microsoft Defender for Endpoint
+- Remediate risks with Microsoft Defender for Office 365
+- Safeguard your environment with Microsoft Defender for Identity
+- Migrate user files and settings in Microsoft 365
+- Deliver Microsoft 365 Apps and business apps
+- Protect your data with sensitivity labels
+- Manage insider risk in Microsoft 365
 examsPassed:
 - ms-100, ms-101
-studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft 365認證做準備：企業管理員專家更新評估。'
+studyGuideDescription: 您可以使用此學習課程模組集合，協助您準備 Microsoft 365 認證： Enterprise 的系統管理員專家更新評量。
 resources:
-- title: 關於證書更新
-  summary: 了解線上更新證書的過程和要求
+- title: 關於認證續約
+  summary: 瞭解在線上續訂認證的流程和需求
   url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

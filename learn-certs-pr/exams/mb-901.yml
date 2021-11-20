@@ -1,23 +1,35 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Fundamentals
+title: Microsoft Dynamics 365 基本概念
 metadata:
-  title: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals'
-  description: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals'
+  title: 測驗 MB-901： Microsoft Dynamics 365 基礎
+  description: 測驗 MB-901： Microsoft Dynamics 365 基礎
+  ms.openlocfilehash: 2f15dd98ac37d11950cf0b9381283ef0edd19e70
+  ms.sourcegitcommit: 2ab0583efc592a5dfb36f426738f85de35ffbcf6
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/01/2021
+  ms.locfileid: "132104982"
 uid: exam.mb-901
 displayName: MB-901
-summary: |-
+summary: >-
   <div>
-  <div><font color="red"><strong>該考試將在2021年6月30日撤銷。兩個替代考試 MB-910 和 MB-920 現在可用。要獲得更多資訊，請訪問<a href="/learn/certifications/exams/mb-910">Mb-910</a> 和 <a href="/learn/certifications/exams/mb-920">Mb-920</a> 考試詳情頁面。</strong></font><br/><br/></div>
+
+  <div><font color="red"><strong>本測驗于2021年6月30日淘汰。有兩個替代測驗（MB-910 和 MB-920）可供使用。如需詳細資訊，請造訪 <a href="/learn/certifications/exams/mb-910">mb-910</a> 和 <a href="/learn/certifications/exams/mb-920">mb-920</a> 測驗詳細資料頁面。</strong></font><br/><br/></div>
+
   </div>
 
-  此測驗將涵蓋採用 Dynamics 365 的定位和好處。
 
-  應試者應該對 Dynamics 365 功能和 Microsoft 雲端計算有功能上的了解。
+  本測驗涵蓋採用 Dynamics 365 的定位和優點。
 
-  測驗的應試者應具備資訊科技(IT)環境方面的一般知識或相關工作經驗。應試者還應對商務場景和解決 IT 專案的業務，法律和安全要求的經驗有基本的了解。
 
-  如果你通過本次認證考試，你可能有資格獲得 ACE 大學學分。有關詳細資訊，請參閱 [ACE 大學認證考試學分](/learn/certifications/ace-credit-for-certification-exams)。
-subTitle: 此測驗評量您了解 Microsoft Dynamics 365； 人工智慧(AI)；混合實境(MR)； Power Platform； 雲端概念； 雲端安全； Dynamics 365 中角色型安全性； Common Data Service； Dynamics 365 報告； Dynamics 365 整合； 和雲端部署的能力。
+  候選人應具備 Dynamics 365 功能和 Microsoft 雲端運算的功能性理解。
+
+
+  這項測驗的候選人應該在資訊技術 (IT) 環境中擁有一般知識或相關的工作經驗。 候選人也應對 IT 專案的商務、法律和安全性需求有基本的瞭解，以及滿足商務案例和經驗。
+
+
+  如果您通過此認證測驗，您可能會享有 ACE 大學點數的資格。 如需詳細資訊，請參閱 [ACE 大學點數以取得認證測驗](/learn/certifications/ace-credit-for-certification-exams) 。
+subTitle: 本測驗會測量您瞭解 Microsoft Dynamics 365 的能力;人工智慧;mixed reality;Power Platform;雲端概念;雲端安全性;Dynamics 365 中以角色為基礎的安全性;Common Data Service;資料管理架構;Dynamics 365 報告;Dynamics 365 整合;和雲端部署。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
 locales:
@@ -31,10 +43,10 @@ locales:
 levels:
 - beginner
 skills:
-- 識別 Dynamics 365 的 Microsoft 平台元件 (30-35%)
-- 描述 Dynamics 365 的人工智慧和混合實境 (10-15%)
-- 描述模型驅動式應用程式 (25-30%)
-- 描述財務和營運應用程式 (25-30%)
+- Identify Microsoft platform components for Dynamics 365 (30-35%)
+- Describe artificial intelligence and mixed reality in Dynamics 365 (10-15%)
+- Describe model-driven apps (25-30%)
+- Describe Finance and Operations apps (25-30%)
 retirementDate: 06/30/2021
 roles:
 - business-owner
@@ -49,25 +61,24 @@ relatedCertifications:
 - related:
     uid: certification.d365-fundamentals
 resources:
-- title: 認證學習途徑
-  description: '發現訓練資源，以成為經 Microsoft Certified: Dynamics 365 Fundamentals.'
+- title: 認證學習路徑
+  description: 探索訓練資源以成為 Microsoft 認證： Dynamics 365 的基本概念。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md
-

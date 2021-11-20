@@ -1,53 +1,85 @@
 ### YamlMime:Examination
-title: Microsoft Azure Solutions Architect Certification Transition
+title: Microsoft Azure解決方案架構設計師認證轉換
 metadata:
-  title: '測驗 AZ-302: Microsoft Azure Solutions Architect Certification Transition'
-  description: '測驗 AZ-302: Microsoft Azure Solutions Architect Certification Transition'
+  title: 測驗 AZ-302： Microsoft Azure 解決方案架構設計師認證轉換
+  description: 測驗 AZ-302： Microsoft Azure 解決方案架構設計師認證轉換
+  ms.openlocfilehash: 85db61e81c2766d0a13dc790b72ebd245602fe4b
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101555"
 uid: exam.az-302
 displayName: AZ-302
-summary: "<div><strong>該測驗已於 2019年6月30日到期。測驗將在中部標準時間晚間11點59分到期</strong></div>\n<br/> \n\n此項測驗僅適用於已參加 [測驗 70-535](https://www.microsoft.com/learning/exam-70-535.aspx) 的應試者&#58; Architecting Microsoft Azure Solutions.若您沒有參加測驗 535，那麼您將無法透過此測驗獲得認證。\n\n此轉換測驗針對的是已經通過即將被新的角色導向的認證測驗替代的現有測驗，從而在內容領域中展示了其技能的人。他們除了已通過當前的認證之外，而且還具有我們認為獲取這項新認證所應具有的能力。那些已經通過現有測驗的人已經展示了他們的勝任能力，我們不想再次針對相同內容對他們展開又一次測試。\n\n轉換測驗包含了全新的內容，包括對之前內容的深入，以及自應試者參加測驗之後可能已經出現變化的技術方面的內容。因此，轉換測驗不會比典型的測驗更短，而是更多地關注於我們在現有的、即將被替代的測驗或認證中並未評估的關鍵任務與技能。\n\n此測驗的應試者是為關係人提供建議，並將業務要求轉化至安全、可擴展與可靠的解決方法中的 Azure 解決方法架構師。\n\n應試者應具備跨 IT 運營各個方面的高級經驗和知識，包括網路，虛擬化，身份，安全性，業務連續性，災難恢復，數據管理，預算和治理。該角色要求管理每個領域的決策對整體解決方法的影響方式。\n\n應試者必須精通 Azure 管理、Azure 開發 與 DevOps，而且至少要在這些領域中的一個領域中擁有專家水平的技能。"
-subTitle: 此項測驗僅適用於已參加 [測驗 70-535](https://www.microsoft.com/learning/exam-70-535.aspx) 的應試者：Architecting Microsoft Azure Solutions.若您沒有參加測驗 535，那麼您將無法透過此測驗獲得認證。
+summary: >-
+  <div>
+
+  <div><strong>此測驗已于2019年6月30日淘汰。注意&#58; 測驗于 11:59 PM 中部標準時間淘汰</strong><br/> <br/></div>
+
+  </div>
+
+
+  本測驗僅適用于已進行[測驗 70-535](https://www.microsoft.com/learning/exam-70-535.aspx)&#58; 架構 Microsoft Azure 解決方案的候選人。 如果您尚未參加測驗535，您將不會獲得這項測驗來取得認證。
+
+
+  轉換測驗適用于已經在內容領域中展示技能的人，方法是將新的「以角色為基礎的認證測驗」取代) ，藉由將現有的測驗 (的。 其中涵蓋目前憑證之間的差異，以及我們希望贏得新認證的人員能夠進行的差異。 我們不想要在已通過現有測驗的相同內容上重新測試人們的表現。
+
+
+  轉換測驗涵蓋了新的內容、未涵蓋的內容，涵蓋的深度更多，以及因某人進行測驗而可能有所變更之技術方面的內容。 如此一來，轉換測驗不會比一般測驗還短，而是著重于未在即將取代的現有測驗或認證中評估的主要工作和技能。
+
+
+  這項測驗的候選項目是 Azure 解決方案架構設計人員，可將商務需求轉譯為安全、可調整且可靠的解決方案。
+
+
+  候選項目應該具有橫跨 IT 營運各方面的先進體驗和知識，包括網路、虛擬化、身分識別、安全性、商務持續性、嚴重損壞修復、資料管理、預算和治理。 此角色需要管理每個區域中的決策對整體解決方案的影響。
+
+
+  候選人必須精通 azure 系統管理、azure 開發和 DevOps，並且在至少一個網域中具有專家層級的技能。
+subTitle: 本測驗僅適用于已採用測驗70-535 架構 Microsoft Azure 解決方案的候選人。 如果您尚未參加測驗535，您將不會獲得這項測驗來取得認證。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwC
+scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/
-retirementDate: 06/30/2019
 levels:
 - advanced
 skills:
-- 定義工作負載要求 (15-20%)
-- 設計身份和安全性 (5-10%)
-- 設計一個業務連續性策略 (15-20%)
-- 實作工作負載和安全 (5-10%)
-- 為雲端進行開發 (45-50%)
-- 實作身份驗證和保護資料 (5-10%)
+- Determine workload requirements (15-20%)
+- Design for identity and security (5-10%)
+- Design a business continuity strategy (15-20%)
+- Implement workloads and security (5-10%)
+- Develop for the cloud (45-50%)
+- Implement authentication and secure data (5-10%)
+retirementDate: 06/30/2019
 roles:
 - solution-architect
+products:
+- azure
 exams:
 - uid: exam.az-300
 - uid: exam.az-301
-products:
-- azure
 relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
-- title: 認證學習途徑
-  description: '發現訓練資源,以成為經 Microsoft Certified: Azure Solutions Architect Expert。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
-- title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 支持認證考試
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 認證 Learning 路徑
+  description: 探索訓練資源以成為 Microsoft 認證： Azure 解決方案架構設計師專家。
+  href: https://aka.ms/AzureArchitectInfographic
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證海報
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
-  description: 詳細了解有關為測驗申請調整的資訊。
+- title: 要求住宿
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md

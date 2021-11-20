@@ -1,23 +1,31 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Information Protection Administrator Associate'
+title: Microsoft 認證：資訊保護系統管理員關聯
 metadata:
-  title: 'Microsoft Certified: Information Protection Administrator Associate'
-  description: 資訊保護管理員計畫並實施用於滿足組織合規需求的那些控制。該人員負責將需求及合規控制轉化為技術實施。他們協助組織控制所有者成為並保持合規。
-uid: certification.information-protection-administrator 
+  title: Microsoft 認證：資訊保護系統管理員關聯
+  description: 資訊保護系統管理員會規劃和實行符合組織合規性需求的控制項。 這位人員負責將需求和合規性控制轉譯為技術實行。 它們可協助組織控制項擁有者成為並保持符合規範。
+  ms.openlocfilehash: 9363c694dbc4f02864dae0954bcd9a2152375543
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101414"
+uid: certification.information-protection-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  資訊保護管理員計畫並實施用於滿足組織合規需求的那些控制。該人員負責將需求及合規控制轉化為技術實施。他們協助組織控制所有者成為並保持合規。
+summary: >-
+  資訊保護系統管理員會規劃和實行符合組織合規性需求的控制項。 這位人員負責將需求和合規性控制轉譯為技術實行。 它們可協助組織控制項擁有者成為並保持符合規範。
 
-  他們與資訊技術 (IT) 人員、業務應用程式所有者、人力資源及合法的利益相關者合作，以實施支持政策和控制的技術，而這些政策和控制是充分滿足其組織的法規要求所必需的。他們還與合規和安全領導（如首席合規官和安全官）合作，評估相關企業風險的全部範圍，並合作制定這些策略。
 
-  該人員可定義適用要求，並根據這些策略和控制來測試IT流程及操作。他們負責創建用於內容分類、資料丟失防護、治理及保護的策略和規則。
-subTitle: 資訊保護管理員計畫並實施用於滿足組織合規需求的那些控制。該人員負責將需求及合規控制轉化為技術實施。他們協助組織控制所有者成為並保持合規。
+  他們使用資訊技術 (IT) 人員、商務應用程式擁有者、人力資源和法律專案關係人來實行技術，以支援足夠滿足其組織法規需求所需的原則和控制項。 他們也會與合規性和安全性領導階層合作，例如首席合規性和安全性長，以評估相關企業風險的完整廣度，以及開發這些原則的合作夥伴。
+
+
+  此人員會針對這些原則和控制項，定義其處理和作業的適用需求和測試。 他們負責建立內容分類、資料遺失預防、治理和保護的原則和規則。
+subTitle: 資訊保護系統管理員會規劃和實行符合組織合規性需求的控制項。 這位人員負責將需求和合規性控制轉譯為技術實行。 它們可協助組織控制項擁有者成為並保持符合規範。
 levels:
 - intermediate
 skills:
-- 實施資訊保護
-- 實施資料丟失防護 
-- 實施資訊治理
+- Implement information protection
+- Implement data loss prevention
+- Implement information governance
 roles:
 - administrator
 - ip-admin
@@ -40,20 +48,20 @@ exams:
 - uid: exam.sc-400
 resources:
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
+  href: https://aka.ms/traincertposter
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md

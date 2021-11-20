@@ -1,31 +1,42 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
+title: Microsoft 認證：適用于 SAP 工作負載的 Azure 專業工作負載
 metadata:
-  title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
-  description: Azure for SAP Workloads 的設計師或工程師與 cloud 管理員、cloud 資料庫管理員及客戶合作以實施解決方案。
+  title: Microsoft 認證：適用于 SAP 工作負載的 Azure 專業工作負載
+  description: 適用于 SAP 工作負載的 Azure 架構設計人員或工程師與雲端系統管理員、雲端資料庫管理員和用戶端合作，以執行解決方案。
+  ms.openlocfilehash: 164356dec40e561c66bca1969d529825ea059838
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132105202"
 uid: certification.azure-for-sap-workloads-specialty
 certificationRenewalUid: renewal.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
-summary: |-
-  <div><font color='red'><strong>該認證內容已在2021年9月24日更新。請在 <a href="/learn/certifications/exams/az-120">AZ-120 考試頁面</a>下載技能考核檔以瞭解變更內容。</strong></font><br/><br/></div>
-  
-  該認證的報考者應為設計師或工程師，具備 SAP 系統規劃和針對重要資料移轉或集成以及在 Microsoft Azure上長期運營 SAP 解決方案的豐富經驗和深厚知識。
-  
-  Azure for SAP 工作負載的架構師或工程師的職責包括就服務提出建議，並根據最佳彈性、性能、規模、供應、大小和監控適當調整資源。
-  
-  Azure for SAP 工作負載的架構師或工程師與 cloud 管理員、cloud 資料庫管理員和客戶合作實施解決方案。
-  
-  該認證的報考者應具備 SAP 應用的豐富經驗和深厚知識：SAP HANA、S/4HANA、SAP NetWeaver、SAP BW/4HANA、SAP 應用和資料庫的 OS 伺服器、Azure portal、Azure 市場、 Azure Resource Manager templates (ARM 模版)、虛擬化, cloud 基礎設施、存儲結構、 高可用性設計、災難恢復、資料保護概念和網路。
-  
-  對於 AZ-120 測試，我們強烈建議您除 SAP 認證之外擁有 Azure Administrator Associate 或 Azure Solutions Architect Expert 認證。
-subTitle: Azure for SAP Workloads 的設計師或工程師與 cloud 管理員、cloud 資料庫管理員及客戶合作以實施解決方案。
+summary: >-
+  <div><font color='red'><strong>此認證的內容將于2021年11月22日更新。請下載 <a href="/learn/certifications/exams/az-120">測驗 AZ-120 頁面</a> 上的技能測量檔，以查看有哪些變更。</strong></font><br/><br/></div>
+
+
+  這項認證的候選項目應該是架構設計人員或工程師，擁有豐富的 SAP 系統內容和產業標準經驗，以及 SAP 解決方案在 Microsoft Azure 上的初步遷移或整合和長期操作的相關知識。
+
+
+  適用于 SAP 工作負載的 Azure 架構設計師或工程師的責任包括對服務提出建議，以及調整適當的資源，以獲得最佳的復原、效能、規模、布建、大小和監視。
+
+
+  適用于 SAP 工作負載的 Azure 架構設計人員或工程師與雲端系統管理員、雲端資料庫管理員和用戶端合作，以執行解決方案。
+
+
+  此認證的候選項應該具有 SAP 應用程式的廣泛體驗和知識： SAP Hana、S/4HANA、SAP NetWeaver、SAP BW/4HANA、適用于 SAP 應用程式和資料庫的 OS 伺服器、Azure 入口網站、Azure Marketplace、Azure Resource Manager ARM 範本 (、虛擬化、雲端基礎結構、儲存體結構、高可用性設計、災難復原設計、資料保護概念、 和網路功能。
+
+
+  針對 AZ-120 測驗，強烈建議您讓 Azure 系統管理員建立關聯或 Azure 解決方案架構設計人員認證，以及 SAP 認證。
+subTitle: 適用于 SAP 工作負載的 Azure 架構設計人員或工程師與雲端系統管理員、雲端資料庫管理員和用戶端合作，以執行解決方案。
 levels:
 - advanced
 skills:
-- 將 SAP 移轉到 Azure
-- 設計並實施基礎設施以支援 SAP 工作負載
-- 設計並實施 High Availability 和 Disaster Recovery (HA/DR)
-- 在 Azure 上 維護 SAP 工作負載
+- Migrate SAP Workloads to Azure
+- Design and Implement an Infrastructure to Support SAP Workloads
+- Design and Implement High Availability and Disaster Recovery (HA/DR)
+- Maintain SAP Workloads on Azure
 roles:
 - administrator
 - solution-architect
@@ -44,27 +55,26 @@ exams:
 - uid: exam.az-120
 resources:
 - title: Azure 認證海報
-  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  description: 查看 Azure 的基本概念、角色型和專長認證等總覽。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 認證之旅
-  description: 探索 Azure for SAP Workloads Specialty 認證的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索在 Azure 中為 SAP 工作負載進行認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

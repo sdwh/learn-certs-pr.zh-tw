@@ -1,24 +1,31 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certified: Teams Support Engineer Associate'
+title: Microsoft 365認證： Teams 支援工程師相關聯
 metadata:
-  title: 'Microsoft 365 Certified: Teams Support Engineer Associate'
-  description: 該考試的報考者是支持工程師，他們支持 Microsoft Teams 環境、解決部署問題、調整性能、收集和分析遙測和日誌資料以及管理 Teams 環境。
+  title: Microsoft 365認證： Teams 支援工程師相關聯
+  description: 這項測驗的候選項目是支援 Microsoft Teams 環境、疑難排解部署、微調效能、收集和分析遙測和記錄資料，以及管理 Teams 環境的支援工程師。
+  ms.openlocfilehash: de67cdeb2155ff3d3ec72ad7c429cfdc6e330368
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101363"
 uid: certification.m365-teams-support-engineer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  該認證的報考者是支持工程師，負責支持 Microsoft Teams 環境、解決部署問題、調整性能、收集和分析遙測和日誌資料以及管理 Teams 環境。
-  
-  報考者應擁有 Microsoft Teams 的大量統一通信和實踐經驗。此外，報考者應具備 Azure 原理、電話學、 PowerShell、資料存儲技術、 APIs、應用程式安全、驗證和授權、安全和合規資訊、除錯、性能調整及管理方面的網路知識。
-subTitle: 該認證的報考者是支持工程師，負責支持 Microsoft Teams 環境、解決部署問題、調整性能、收集和分析遙測和日誌資料以及管理 Teams 環境。
+summary: >-
+  這項認證的候選項目是支援 Microsoft Teams 環境、疑難排解部署、微調效能、收集和分析遙測和記錄資料，以及管理 Teams 環境的支援工程師。
+
+
+  候選人應該有大量的整合通訊，以及 Microsoft Teams 的實際操作經驗。 此外，候選人應具備 Azure 基本概念、電話語音、PowerShell、資料儲存技術、Api、應用程式安全性、驗證和授權、安全性和合規性資訊、偵測、效能微調和監視的網路知識。
+subTitle: 這項認證的候選項目是支援 Microsoft Teams 環境、疑難排解部署、微調效能、收集和分析遙測和記錄資料，以及管理 Teams 環境的支援工程師。
 levels:
 - intermediate
 skills:
-- 解決 Microsoft Teams 語音問題 
-- 解決 Microsoft Teams 會議和現場活動問題 
-- 解決聯合問題 
-- 解決登入 Microsoft Teams 問題
-- 解決團隊和管道問題 
-- 解決文件問題 
+- Troubleshoot Microsoft Teams voice issues
+- Troubleshoot issues with Microsoft Teams meetings and live events
+- Troubleshoot federation issues
+- Troubleshoot issues signing into Microsoft Teams
+- Troubleshoot teams and channels
+- Troubleshoot issues with files
 roles:
 - administrator
 - support-engineer
@@ -35,21 +42,21 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4O2r
 exams:
 - uid: exam.ms-740
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md

@@ -1,38 +1,54 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Customer Service
+title: Microsoft Dynamics 365 Customer Service 功能顧問
 metadata:
-  title: 'Exam MB-230: Microsoft Dynamics 365 Customer Service'
-  description: 'Exam MB-230: Microsoft Dynamics 365 Customer Service'
+  title: 測驗 MB-230： Microsoft Dynamics 365 Customer Service 功能顧問
+  description: 測驗 MB-230： Microsoft Dynamics 365 Customer Service 功能顧問
+  ms.openlocfilehash: a554a90f56ca9153b93d4f09d4d92b0269ab17cc
+  ms.sourcegitcommit: 323a3a87c21cb338e05d34ca80341cb6b2e84520
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/15/2021
+  ms.locfileid: "132105139"
 uid: exam.mb-230
 displayName: MB-230
-summary: |-
+summary: >-
   <div>
-  <div><font color='red'><strong>該考試內容將在2021年10月15日更新。請下載如下的技能測試檔以瞭解變更內容。</strong></font><br/><br/></div>
-  <div><font color='red'>請注意：通過分數：700。瞭解更多關於考試分數的內容，請點擊<a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">這裡</a>。</font><br/><br/></div>
+
+  <div><font color='red'><strong>本測驗的內容已于2021年10月15日更新。請下載下列技能測量檔，以查看變更了哪些內容。</strong></font><br/><br/></div>
+
+  <div><font color='red'>注意：傳遞分數：700。 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">在此</a>深入瞭解測驗分數。</font><br/><br/></div>
+
   </div>
-  
-  Dynamics 365客戶服務職能顧問負責實施全渠道解決方案，該解決方案側重於服務，質量，可靠性，效率和客戶滿意度。
+
+
+  Microsoft Dynamics 365 Customer Service 功能顧問負責實施 omnichannel contact 解決方案，以專注于服務、品質、可靠性、效率和客戶滿意度。
+
   <br/>
-  
-  Dynamics 365客戶服務功能顧問可實作和設計由解決方案架構師提供的協作服務可視化和報告。功能顧問與客戶參與管理員合作，以實作和升級Power Platform組件，包括知識管理，客戶反饋和連接的服務。
-  
-  Dynamics 365客戶服務職能顧問必須具有豐富的客戶服務應用知識，包括&#58; 了解行業術語、優先級、標準、方法，客戶服務運營和最佳實踐。具有客戶服務專業知識的功能顧問必須具有透過Dynamics 365客戶服務滿足用戶需求的強大應用知識，包括對案例、知識管理、隊列、權利、資源調度、服務水平協議(SLA)、可視化、已連接服務、客戶服務見解，Power Virtual Agents 和用於客戶服務的 Omnichannel。應試者應該包括對客戶服務應用程式在 Dynamics 365 應用程式套件中的角色的全面理解，以及對解決方案體系結構和品質保證的基本理解
-subTitle: '該測驗衡量您完成以下技術任務的能力：管理案例和知識管理；管理隊列，權利和服務級別協議；執行調度；實作全渠道客戶服務；和管理分析。'
+
+
+  此專業人員會執行和設計服務管理的視覺效果，以及與解決方案架構設計人員共同作業所提供的報表。 他們會與客戶參與管理員共同作業，以執行 Microsoft Power Platform 的元件，包括知識管理、客戶意見反應和已連結的服務。
+
+
+  Dynamics 365 Customer Service 功能顧問必須有強大的客戶服務知識，包括瞭解產業術語、優先順序、標準、方法、客戶服務作業和最佳作法。 具備客戶服務專業知識的功能顧問也需要深入、實用的經驗，以及如何透過 Dynamics 365 客戶服務來滿足使用者需求的知識，包括對案例、知識管理、佇列、權利、資源排程、服務等級協定 (sla) 、視覺效果、已聯機服務、適用于 Microsoft Dynamics 365 客戶服務之客戶服務 Insights 增益集的深入瞭解。 Power Virtual Agents，以及客戶服務的 omnichannel contact。 功能顧問的知識應該全面瞭解客戶服務應用程式的角色與 Dynamics 365 應用程式套件之間的關係，同時也對解決方案架構和品質保證有基本的瞭解。
+subTitle: 這項測驗會測量您完成下列技術工作的能力：管理案例和知識管理;管理佇列、權利和服務等級協定;執行排程;為 Customer Service 實行 Omnichannel contact;管理分析和見解;執行客戶服務工作區;執行 Microsoft Power Platform;並執行連線的客戶服務。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
 practiceTestUrl: https://www.mindhub.com/mb-230-microsoft-dynamics-365-customer-service-microsoft-official-practice-test/p/MU-MB-230?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 該考試內容將在2021年10月15日更新。請在下方下載考試技能大綱以查看將要改變的地方。
-- 管理案例和知識管理 (20-25%)
-- 管理隊列，權利和服務級別協議(SLA) (15-20%)
-- 實作計劃 (10-15%)
-- 實作客戶服務全渠道 (30-35%)
-- 管理分析 (10-15%)
+- The content of this exam was updated on October 15, 2021. Please download the exam skills outline below to see what changed.
+- Manage cases and knowledge management (20-25%)
+- Manage queues, entitlements, and service-level agreements (15-20%)
+- Implement scheduling (5-10%)
+- Implement Omnichannel for Customer Service (10-15%)
+- Manage analytics and insights (5-10%)
+- Implement Customer Service workspaces (5-10%)
+- Implement Microsoft Power Platform (5-10%)
+- Implement Connected Customer Service (5–10%)
 roles:
 - functional-consultant
 products:
@@ -52,28 +68,27 @@ relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-customer-service
 resources:
-- title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
+- title: 認證學習路徑
+  description: 建議的訓練資源，以協助您準備進行必要的測驗並獲得您的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md
-

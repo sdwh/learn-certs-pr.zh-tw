@@ -1,27 +1,32 @@
 ### YamlMime:CertificationRenewal
-title: '更新您的 Microsoft 365 Certified: Messaging Administrator Associate'
+title: Microsoft 365 認證的更新：訊息系統管理員關聯
 metadata:
-  title: '更新您的 Microsoft 365 Certified: Messaging Administrator Associate'
-  description: '如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。'
+  title: Microsoft 365 認證的更新：訊息系統管理員關聯
+  description: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。
+  ms.openlocfilehash: a908548afa5ae16f34262a5af2622bfeec9ccdd3
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101383"
 uid: renewal.m365-messaging-administrator
 certificationUid: certification.m365-messaging-administrator
 assessmentId: d87d7bd1-2890-481f-9ec4-9ba03d75719a
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。通過更新評估，表明您已瞭解最新的Exchange和Microsoft 365更新。您還可以準備精選的學習模組更新。
+summary: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。 顯示您已使用最新的 Exchange 保持最新狀態，並藉由傳遞續約評估來 Microsoft 365 更新。 您也可以使用學習課程模組的策劃集合來準備續約。
 skills:
-- 使用Exchange Online規劃和管理組織設置
-- 使用Exchange規劃和管理客戶端存取
-- 在Microsoft 365郵件中管理角色型的權限
-- 使用連接器將郵件傳遞到Microsoft 365外部的信箱
-- 使用Exchange Online和Microsoft 365 Advanced Threat Protection管理郵件健康
-- 管理Microsoft 365和Exchange Online中的合規性
-- 使用Exchange對郵件流程進行疑難排解
+- Plan and manage organizational settings with Exchange Online
+- Plan and manage client access with Exchange
+- Manage role-based-permissions in Microsoft 365 Messaging
+- Deliver mail to mailboxes outside Microsoft 365 by using connectors
+- Manage message hygiene using Exchange Online and Microsoft 365 Advanced Threat Protection
+- Manage compliance in Microsoft 365 and Exchange Online
+- Troubleshoot mail flow with Exchange
 examsPassed:
 - ms-203
-studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft 365認證做準備：訊息傳送管理員助理更新評估。'
+studyGuideDescription: 您可以使用此學習課程模組集合，協助您準備 Microsoft 365 認證：訊息管理員將更新評估相關聯。
 resources:
-- title: 關於證書更新
-  summary: 了解線上更新證書的過程和要求
+- title: 關於認證續約
+  summary: 瞭解在線上續訂認證的流程和需求
   url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

@@ -1,23 +1,31 @@
 ### YamlMime:Examination
-title: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance
+title: 適用于 Microsoft Dynamics 365 財務的開發、延伸和部署
 metadata:
-  title: 'Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
-  description: 'Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
+  title: 測驗 MB6-894：適用于 Microsoft Dynamics 365 財務的開發、延伸和部署
+  description: 測驗 MB6-894：適用于 Microsoft Dynamics 365 財務的開發、延伸和部署
+  ms.openlocfilehash: db3591629d6dec527cd778cc885e984369f3e41c
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101494"
 uid: exam.mb6-894
 displayName: MB6-894
-summary: |-
-  <div>
-  <div><font color='red'><strong>該考試於2021年1月31日失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/?resource_type=examination'>“流覽認證和考試”頁面</a>.<br/><br/></strong></font></div>
-  </div>
+summary: >-
+  <div><strong>此測驗已于2021年1月31日淘汰。 如需目前可用的選項，請參閱 [ <a href='/learn/certifications/browse/?resource_type=examination'>流覽認證和測驗] 頁面</a>。<br/><br/></strong></div>
 
-  此測驗的的應試者是技術顧問，程式設計師或IT人員，實作需要自訂 Microsoft Dynamics 365 Finance 以及 Microsoft Dynamics 365 Commerce 的基本技術與開發任務。
 
-  應試者應具有 Microsoft Dynamics 365 Finance 以及 Microsoft Dynamics 365 for Commerce基本知識。另外，必需具有 Visual Studio 與物件導向程式設計的經驗。
+  這項測驗的候選人是技術顧問、程式設計人員或 IT 人員，負責執行自訂 Microsoft Dynamics 365 財務和 Microsoft Dynamics 365 Commerce 所需的基本技術和開發工作。
 
-  參加此開發測驗的候選人對於程式設計概念和流程應有適度的瞭解，並且應了解適用於不同商務流程案例的 Finance and Commerce 修改，增強功能以及新的開發專案 。
 
-  <div><strong><br/>2020年2月4日，更新此測驗內容。要了解有關這些變更以及它們如何影響所測技能的更多資訊，請下載並檢閱 MB6-894 測驗變更文件。</strong></div>
-subTitle: 此測驗的的應試者是技術顧問，程式設計師或IT人員，實作需要自訂 Microsoft Dynamics 365 Finance 以及 Microsoft Dynamics 365 Commerce 的基本技術與開發任務。
+  候選人應具備 Microsoft Dynamics 365 財務和 Microsoft Dynamics 365 Commerce 的基本知識。 此外，也需要使用 Visual Studio 和麵向物件程式設計的經驗。
+
+
+  這項開發測驗的候選項目應該對程式設計概念和流程有大致的瞭解，以及瞭解財務和商務修改、增強功能，以及適用于不同商務程式案例的新開發專案。
+
+
+  <div><strong><br/>在2020年2月4日，此測驗的內容已更新。 若要深入瞭解這些變更，以及它們如何影響所測量的技能，請下載並參閱測驗 MB6-894 變更檔。</strong></div>
+subTitle: 這項測驗的候選人是技術顧問、程式設計人員或 IT 人員，負責執行自訂 Microsoft Dynamics 365 財務和 Microsoft Dynamics 365 Commerce 所需的基本技術和開發工作。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oaj7
 locales:
@@ -25,11 +33,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 瞭解架構與開發環境 (20-25%)
-- 使用 Application Explorer 開發新元素 (20-25%)
-- 讀寫基本X ++ (20-25%)
-- 管理開發者的使用者界面與安全 (20-25%)
-- 開發與擴充零售元件 (15-20%)
+- Understand the architecture and development environment (20-25%)
+- Develop new elements by using Application Explorer (20-25%)
+- Read and Write Basic X++ (20-25%)
+- Manage the User Interface and Security for Developers (20-25%)
+- Develop and extend retail components (15-20%)
 retirementDate: 01/31/2021
 roles:
 - business-analyst
@@ -39,16 +47,15 @@ relatedCertifications:
 - related:
     uid: certification.mcsa-microsoft-dynamics-365-for-operations
 resources:
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
-  description: 詳細了解有關為測驗申請調整的資訊。
+- title: 要求住宿
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 測驗原則及常見問題集
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: ../certification-exam-policies.md
-

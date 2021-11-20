@@ -1,21 +1,28 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 for Talent
+title: 適用于人才的 Microsoft Dynamics 365
 metadata:
-  title: 'Exam MB6-898: Microsoft Dynamics 365 for Talent'
-  description: 'Exam MB6-898: Microsoft Dynamics 365 for Talent'
+  title: 測驗 MB6-898：適用于人才的 Microsoft Dynamics 365
+  description: 測驗 MB6-898：適用于人才的 Microsoft Dynamics 365
+  ms.openlocfilehash: 1cd205447bfdc8d2df7b47017466f1053bf3f696
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101490"
 uid: exam.mb6-898
 displayName: MB6-898
-summary: |-
-  <div>
-  <div><font color='red'><strong>該考試於2021年1月31日失效。有關目前可用的選項，請參閱<a href='/learn/certifications/browse/?resource_type=examination'>“流覽認證和考試”頁面</a>.<br/><br/></strong></font></div>
-  </div>
+summary: >-
+  <div><strong>此測驗已于2021年1月31日淘汰。 如需目前可用的選項，請參閱 [ <a href='/learn/certifications/browse/?resource_type=examination'>流覽認證和測驗] 頁面</a>。<br/><br/></strong></div>
 
-  此測驗的應試者是 Microsoft Dynamics 365 合作夥伴，他們在 Microsoft Dynamics 365 for Talent 中設定和使用應用程式功能，並為應用程式提供支援。此測驗也適用於具有業務解決方案背景並希望展示對 Microsoft Dynamics 365 for Talent 應用程式的功能理解的銷售人員。
 
-  應試者通常應該對人力資本管理，可作業的人力資源流程以及部署，維護和使用 Microsoft Dynamics 365 for Talent 的經驗有深刻的理解。
+  這項測驗的候選項目為 Microsoft Dynamics 365 合作夥伴，其設定和使用 Microsoft Dynamics 365 中的應用程式功能，並提供應用程式的支援。 這項測驗也適用于擁有商務解決方案背景的銷售人員，並想要示範對 Microsoft Dynamics 365 for 配音應用程式的功能瞭解。
 
-  <div><strong><br/>Exam MB6-898適用於Dynamics 365 for Talent的2018年4月版。有關該產品的最新信息，請參閱&#58; <a href="https://aka.ms/talentdocs">https://aka.ms/talentdocs</a>。</strong></div>
-subTitle: 此測驗的應試者是 Microsoft Dynamics 365 合作夥伴，他們在 Microsoft Dynamics 365 for Talent 中設定和使用應用程式功能，並為應用程式提供支援。此測驗也適用於具有業務解決方案背景並希望展示對 Microsoft Dynamics 365 for Talent 應用程式的功能理解的銷售人員。
+
+  候選人通常應該對人類的資本管理、營運人力資源流程，以及體驗部署、維護和使用 Microsoft Dynamics 365 的人員有充分的瞭解。
+
+
+  <div><strong><br/>測驗 MB6-898 適用于2018年4月的 Dynamics 365 版本。 如需產品的最新資訊，請參閱&#58; <a href="https://aka.ms/talentdocs">https://aka.ms/talentdocs</a> 。</strong></div>
+subTitle: 這項測驗的候選項目為 Microsoft Dynamics 365 合作夥伴，其設定和使用 Microsoft Dynamics 365 中的應用程式功能，並提供應用程式的支援。 這項測驗也適用于擁有商務解決方案背景的銷售人員，並想要示範對 Microsoft Dynamics 365 for 配音應用程式的功能瞭解。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kd
 locales:
@@ -23,27 +30,26 @@ locales:
 levels:
 - beginner
 skills:
-- 了解 Dynamics 365 for Talent 的環境 (45-50%)
-- 設定和使用人才申請 (50-55%)
+- Understand the Dynamics 365 for Talent Environment (45-50%)
+- Set Up and Use the Talent Application (50-55%)
 retirementDate: 01/31/2021
 roles:
 - business-analyst
 products:
-- dynamics
+- dynamics-365
 relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
-  description: 詳細了解有關為測驗申請調整的資訊。
+- title: 要求住宿
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 測驗原則及常見問題集
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: ../certification-exam-policies.md
-

@@ -1,28 +1,37 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
+title: Microsoft 認證： Dynamics 365 + Power Platform 解決方案架構設計師專家
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
-  description: Microsoft Dynamics 365 + Power Platform 的解決方案架構師領導成功的實作，並專注於解決方案如何滿足組織更廣泛的業務和技術需求。
+  title: Microsoft 認證： Dynamics 365 + Power Platform 解決方案架構設計師專家
+  description: 適用于 Microsoft Dynamics 365 + 的解決方案架構設計人員 Power Platform 潛在客戶成功完成，並著重于解決方案如何解決組織的更廣泛商務和技術需求。
+  ms.openlocfilehash: 240d3609731f823cc6fa0573a6478d6ca0e2205c
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104760"
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  <div>
-  <div><font color="red"><strong>該認證已被撤銷。要瞭解更多目前可用的選項，請參閱 <a href="/learn/certifications/browse/">流覽認證和考試頁面</a>。任何您在它們撤銷日期獲得認證都將繼續出現在您的 <a href="https://aka.ms/certdashboard">認證儀錶盤中的成績單中。</a></strong></font><br/><br/></div>
-  </div>
-  
-  Microsoft Dynamics 365 + Power Platform 的解決方案架構師領導成功的實作，並專注於解決方案如何滿足組織更廣泛的業務和技術需求。
-  
-  <div><br/><strong>注釋&#58; 獲得以下兩項認證是獲得該認證的先決條件。由於網站限制，以下未列出此先決條件。</strong><ul>
-  <li><a href="/learn/certifications/power-platform-functional-consultant-associate">Microsoft Certified&#58; Power Platform Functional Consultant Associate</a></li>
-  <li><a href="/learn/certifications/power-platform-developer-associate">Microsoft Certified&#58; Power Platform Developer Associate</a></li>
+summary: >-
+  <div><font color="red"><strong>此認證已淘汰。如需目前可用的選項，請參閱 [<a href="/learn/certifications/browse/">流覽認證和測驗] 頁面</a>。您在淘汰日期之前所獲得的任何認證，將會繼續出現在<a href="https://aka.ms/certdashboard">認證儀表板</a>的文字記錄中。</strong></font><br/><br/></div>
+
+
+  適用于 Microsoft Dynamics 365 + 的解決方案架構設計人員 Power Platform 潛在客戶成功完成，並著重于解決方案如何解決組織的更廣泛商務和技術需求。
+
+
+  <div><br/><strong>注意：獲得下列兩個認證可作為此認證的先決條件。因為網站限制，以下未列出此先決條件。</strong><ul>
+
+  <li><a href="/learn/certifications/power-platform-functional-consultant-associate">Microsoft 認證： Power Platform 功能顧問關聯</a></li>
+
+  <li><a href="/learn/certifications/power-platform-developer-associate">Microsoft 認證： Power Platform 開發人員相關聯</a></li>
+
   </ul></div>
-subTitle: Microsoft Dynamics 365 + Power Platform 的解決方案架構師領導成功的實作，並專注於解決方案如何滿足組織更廣泛的業務和技術需求。
+subTitle: 適用于 Microsoft Dynamics 365 + 的解決方案架構設計人員 Power Platform 潛在客戶成功完成，並著重于解決方案如何解決組織的更廣泛商務和技術需求。
 levels:
 - advanced
 skills:
-- 執行解決方案設想和需求分析
-- 構建一項解決方案
-- 實作該解決方案
+- Perform solution envisioning and requirement analysis
+- Architect a solution
+- Implement the solution
 roles:
 - solution-architect
 type: role-based
@@ -47,27 +56,26 @@ prerequisites:
   isOptional: false
 resources:
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 認證之旅
-  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7FB
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證學習路徑
+  description: 建議的訓練資源，以協助您準備進行必要的測驗並獲得您的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9W
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

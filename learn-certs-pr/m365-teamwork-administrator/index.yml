@@ -1,27 +1,36 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
+title: Microsoft 365認證：團隊合作管理員關聯
 metadata:
-  title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
-  description: 'Microsoft 365 Teamwork 管理員設定、部署和管理著重於高效率且有效共同合作的 Office 365 工作負載，例如 SharePoint（線上、內部部署和混合），OneDrive 和 Teams。'
+  title: Microsoft 365認證：團隊合作管理員關聯
+  description: Microsoft 365小組合作系統管理員會設定、部署和管理 Office 365 工作負載，這些工作負載著重于有效率且有效率的共同作業，例如 SharePoint (online、內部部署和混合式) 、OneDrive 和 Teams。
+  ms.openlocfilehash: d58e64f1bc97c3c9dbc4fec2f3d2388489681ab8
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101358"
 uid: certification.m365-teamwork-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
+summary: >-
   <div>
-  <div><strong>此認證於 2020 年 8 月 31日 淘汰。在淘汰日期之前獲得的任何認證將繼續出現在您的成績單中 <a href="https://www.microsoft.com/learning/dashboard.aspx">認證儀表板</a>.</strong><br/><br/></div>
+
+  <div><strong>此認證已于2020年8月31日淘汰。您在淘汰日期之前所獲得的任何認證，將會繼續出現在 <a href="https://www.microsoft.com/learning/dashboard.aspx">認證儀表板</a>的文字記錄中。</strong><br/><br/></div>
+
   </div>
 
-  Microsoft 365 Teamwork 管理員設定、部署和管理著重於高效率且有效共同合作的 Office 365 工作負載，例如 SharePoint（線上、內部部署和混合），OneDrive 和 Teams。
-subTitle: Microsoft 365 Teamwork 管理員設定、部署和管理著重於高效率且有效共同合作的 Office 365 工作負載，例如 SharePoint（線上、內部部署和混合），OneDrive 和 Teams。
+
+  Microsoft 365小組合作系統管理員會設定、部署和管理 Office 365 工作負載，這些工作負載著重于有效率且有效率的共同作業，例如 SharePoint (online、內部部署和混合式) 、OneDrive 和 Teams。
+subTitle: Microsoft 365小組合作系統管理員會設定、部署和管理 Office 365 工作負載，這些工作負載著重于有效率且有效率的共同作業，例如 SharePoint (online、內部部署和混合式) 、OneDrive 和 Teams。
 levels:
 - intermediate
 skills:
-- 設定與管理 SharePoint Online
-- 設定與管理 OneDrive for Business
-- 設定與管理團隊
-- 設定及管理工作負載整合
-- 設定與管理 SharePoint 內部部署
-- 設定及管理混合方案
-- 移轉到 SharePoint Online
+- Configure and manage SharePoint Online
+- Configure and manage OneDrive for Business
+- Configure and manage Teams
+- Configure and manage workload integrations
+- Configure and manage SharePoint On-Premises
+- Configure and manage hybrid scenarios
+- Migrate to SharePoint Online
 roles:
 - administrator
 type: role-based
@@ -31,15 +40,6 @@ products:
 - office-onedrive
 - office-teams
 - office-yammer
-courses:
-- uid: course.ms-300t01
-- uid: course.ms-300t02
-- uid: course.ms-300t03
-- uid: course.ms-300t04
-- uid: course.ms-301t01
-- uid: course.ms-301t02
-- uid: course.ms-301t03
-- uid: course.ms-301t04
 paths:
 - uid: learn-m365.m365-teams-sharepoint
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUE
@@ -47,25 +47,24 @@ exams:
 - uid: exam.ms-300
 - uid: exam.ms-301
 resources:
-- title: 認證學習途徑
-  description: '發現訓練資源，以成為經 Microsoft Certified: Teamwork Administrator Associate.'
+- title: 認證學習路徑
+  description: 探索訓練資源以成為 Microsoft 認證：團隊合作的系統管理員相關聯。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

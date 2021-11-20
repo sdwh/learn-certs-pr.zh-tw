@@ -1,34 +1,49 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Power Platform Developer Associate'
+title: Microsoft 認證： Power Platform 開發人員相關聯
 metadata:
-  title: 'Microsoft Certified: Power Platform Developer Associate'
-  description: Microsoft Power Platform Developer Associate 認證的應試者，設計、開發、保護 Power Platform 解決方案並進行疑難排解。
+  title: Microsoft 認證： Power Platform 開發人員相關聯
+  description: Microsoft Power Platform 開發人員的候選人將認證設計、開發、保護和疑難排解 Power Platform 解決方案。
+  ms.openlocfilehash: 50567f544a3415967facb31b5b5daf9d5815ef09
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104756"
 uid: certification.power-platform-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  如果您熱衷於設計、開發、保護和擴展 Microsoft Power Platform 解決方案，該認證將非常適合您。要獲得該認證，您必須能夠創建解決方案元件，包括應用程式增強功能、自訂使用者體驗、系統集成、資料轉換、自訂過程自動化和自訂視覺化。您需要對 Microsoft Power Platform 服務有較強的應用知識，並對 Microsoft Power Platform 的 DevOps 實踐有基本瞭解。此外，您的背景應包括使用 JavaScript、JSON、TypeScript、C#、HTML、.NET、Azure、Microsoft 365、RESTful web 服務、ASP.NET 和 Power BI 的開發經驗。
-  
-  該認證的候選人通常與應用製作者、功能顧問、解決方案架構師和 IT 管理員一起工作。您有各種各樣的責任，包括&#58;
-  - 創建技術設計和 Power Apps。
-  - 配置 Dataverse、Power Apps 和 business process automation。
-  - 擴展平臺和用戶體驗。
-  - 開發集成。
-  
-  要瞭解更多資訊，請流覽我們的博客帖子&#58; [新認證&#58; Microsoft Power Platform Developer Associate](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/new-certification-microsoft-power-platform-developer-associate/ba-p/1469335)。如果您在嘗試該認證之前需要更多經驗，您可以&#58;
-  - 自願參與 Microsoft Power Platform 開發專案以獲得實際操作經驗。
-  - 在 Microsoft Learn 上進行學習。
-  - 報名參加講師指導的培訓課程。
-subTitle: Microsoft Power Platform Developer Associate 認證的應試者，設計、開發、保護 Power Platform 解決方案並進行疑難排解。
+summary: >-
+  如果您有熱情地設計、開發、保護及擴充 Microsoft Power Platform 的解決方案，則這種認證可能適用于您。 若要獲得此認證，您必須能夠建立解決方案元件，包括應用程式增強功能、自訂使用者體驗、系統整合、資料轉換、自訂程式自動化和自訂視覺效果。 您需要充分運用 Microsoft Power Platform 服務的知識，以及對 Microsoft Power Platform DevOps 實務的基本瞭解。 此外，您的背景應該包含使用 JavaScript、JSON、TypeScript、c #、HTML、.net、Azure、Microsoft 365、RESTful web 服務、ASP.NET 和 Power BI 的開發體驗。
+
+
+  這項認證的候選項目通常適用于應用程式製作者、功能顧問、解決方案架構設計人員和 IT 系統管理員。 您有各種職責，包括&#58;
+
+  - 建立技術設計與 Power Apps。
+
+  - 設定 Dataverse、Power Apps 和商務程式自動化。
+
+  - 擴充平臺和使用者體驗。
+
+  - 開發整合。
+
+
+  若要深入瞭解，請參閱我們的&#58; [新認證的 blog 文章： Microsoft Power Platform 開發人員相關聯](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/new-certification-microsoft-power-platform-developer-associate/ba-p/1469335)。 如果您需要更多的經驗，才能嘗試進行此認證，您可以&#58;
+
+  - 自願參與 Microsoft Power Platform 的開發專案，以取得實際操作經驗。
+
+  - 取得 Microsoft Learn 的學習路徑。
+
+  - 報名講師主導的訓練課程。
+subTitle: Microsoft Power Platform 開發人員的候選人將認證設計、開發、保護和疑難排解 Power Platform 解決方案。
 levels:
 - intermediate
 skills:
-- 建立一項技術設計
-- 配置 Microsoft Dataverse 
-- 建立和設定 Power Apps
-- 配置業務流程自動化
-- 擴展使用者體驗
-- 擴展平台
-- 開發整合
+- Create a technical design
+- Configure Microsoft Dataverse
+- Create and configure Power Apps
+- Configure business process automation
+- Extend the user experience
+- Extend the platform
+- Develop integrations
 roles:
 - developer
 type: role-based
@@ -53,24 +68,23 @@ exams:
 - uid: exam.pl-400
 resources:
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 認證之旅
-  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

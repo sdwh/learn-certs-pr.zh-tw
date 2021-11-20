@@ -1,0 +1,188 @@
+### YamlMime:Course
+title: 設計 Microsoft Azure 基礎結構解決方案
+metadata:
+  title: 課程 AZ-305T00--A：設計 Microsoft Azure 基礎結構解決方案
+  description: 課程 AZ-305T00--A：設計 Microsoft Azure 基礎結構解決方案
+  ms.openlocfilehash: b0cfba4845efa0f81d316ff01dfc26a8f75718f5
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132105175"
+uid: course.az-305t00
+courseNumber: AZ-305T00
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 設計治理解決方案。
+- skill: 設計計算解決方案。
+- skill: 設計應用程式架構。
+- skill: 設計儲存體、非關聯式和關聯式。
+- skill: 設計資料整合解決方案。
+- skill: 設計驗證、授權和身分識別解決方案。
+- skill: 設計網路解決方案。
+- skill: 設計高可用性解決方案。
+- skill: 設計備份和嚴重損壞修復解決方案。
+- skill: 設計監視解決方案。
+- skill: 設計遷移解決方案。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+exams:
+- uid: exam.az-305
+summary: >-
+  本課程會教 Azure 解決方案架構設計人員如何設計基礎結構解決方案。 課程主題涵蓋治理、計算、應用程式架構、儲存體、資料整合、驗證、網路、商務持續性和遷移。 此課程結合了課程與個案研究，以示範基本架構設計原則。
+
+
+  #### <a name="audience-profile"></a>聽眾設定檔
+
+
+  成功的學生擁有 IT 營運的經驗與知識，包括網路、虛擬化、身分識別、安全性、商務持續性、嚴重損壞修復、資料平臺和治理。 學生也有設計和設計解決方案的經驗。
+prerequisitesSection: "參與此課程之前，學生必須先有部署或管理 Azure 資源的經驗，以及下列各項的概念知識：\n * Azure Active Directory\n * Azure 計算技術，例如 Vm、容器和無伺服器解決方案\n * 包含負載平衡器的 Azure 虛擬網路\n * Azure 儲存體技術 (非結構化和資料庫) \n * 一般應用程式設計概念，例如訊息和高可用性"
+outlineSection: >-
+  ### <a name="module-1-design-compute-and-application-solutions"></a>模組1：設計計算和應用程式解決方案
+
+
+  在本課程模組中，您將瞭解治理、計算和應用程式架構。
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   治理設計
+
+
+  *   計算解決方案的設計
+
+
+  *   設計應用程式架構
+
+
+
+  #### <a name="lab--case-studies"></a>實驗室：個案研究
+
+
+  ####
+
+
+  完成本課程模組之後，學生將能夠：
+
+
+  *   設計治理解決方案。
+
+
+  *   設計計算解決方案。
+
+
+  *   設計應用程式架構。
+
+
+
+  ### <a name="module-2-design-storage-solutions"></a>模組2：設計儲存體解決方案
+
+
+  在本課程模組中，您將瞭解非關聯式儲存體、關聯式儲存體和資料整合解決方案。
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   設計非關聯式儲存體解決方案。
+
+
+  *   設計關聯式儲存體解決方案。
+
+
+  *   設計資料整合解決方案。
+
+
+
+  #### <a name="lab--case-studies"></a>實驗室：個案研究
+
+
+  ####
+
+
+  完成本課程模組之後，學生將能夠：
+
+
+  *   設計非關聯式儲存體解決方案。
+
+
+  *   設計關聯式儲存體解決方案。
+
+
+  *   設計資料整合解決方案。
+
+
+
+  ### <a name="module-3-design-networking-and-access-solutions"></a>模組3：設計網路和存取解決方案
+
+
+  在本課程模組中，您將瞭解驗證與授權、應用程式的身分識別和存取，以及網路解決方案。
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   設計驗證與授權方案
+
+
+  *   設計網路解決方案
+
+
+
+  #### <a name="lab--case-studies"></a>實驗室：個案研究
+
+
+  ####
+
+
+  完成本課程模組之後，學生將能夠：
+
+
+  *   設計驗證和授權解決方案。
+
+
+  *   設計網路解決方案。
+
+
+
+  ### <a name="module-4-design-business-continuity-solutions"></a>模組4：設計商務持續性解決方案
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   備份和嚴重損壞修復的設計
+
+
+  *   設計監視解決方案
+
+
+  *   適用于遷移的設計
+
+
+
+  #### <a name="lab--case-studies"></a>實驗室：個案研究
+
+
+  ####
+
+
+  完成本課程模組之後，學生將能夠：
+
+
+  *   設計備份和嚴重損壞修復。
+
+
+  *   設計監視解決方案。
+
+
+  *   適用于遷移的設計。

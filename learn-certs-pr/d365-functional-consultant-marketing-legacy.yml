@@ -1,30 +1,42 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate （遺留）'
+title: 'Microsoft 認證： Dynamics 365 行銷功能顧問將 (舊版) '
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate （遺留）'
-  description: 'Microsoft Dynamics 365 行銷功能顧問實作吸引並轉化潛在客戶的解決方案，建構品牌知名度，標準化全渠道訊息傳送，以及提供行銷見解。'
+  title: 'Microsoft 認證： Dynamics 365 行銷功能顧問將 (舊版) '
+  description: Microsoft Dynamics 365 行銷功能顧問會實行解決方案，以吸引和轉換潛在客戶、建立品牌感知、標準化 omnichannel contact 訊息，以及提供行銷見解。
+  ms.openlocfilehash: 8033941c795594b5968feb1066729f012cb91097
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132102006"
 uid: certification.d365-functional-consultant-marketing-erlr
-certificationRenewalUid: renewal.d365-functional-consultant-marketing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color="#D83B01"><strong>此版本的證書不再有效。如果您有此版本的證書，您將自動取得此證書的最新版本。<br/><br/>  兩個版本的證書都將在您的「證書」列出。您只需更新到新的版本。當先前版本到期時，它將轉到您成績單的證書歷史部分。<br/><br/></strong></font></div>
-  
-  如果你是職能顧問、在組織的日常業務運營中使用 Microsoft Dynamics 365 Marketing 的專業人士，或者是希望磨練諮詢技巧的開發人員，此認證將有助於提升你的職業生涯，並使你能夠更有效地為專案和促銷活動做好準備。
-  
-  作為此認證的候選人，你瞭解 Dynamics 365 模型驅動的應用程式和資料建模原則，並且可以配置 Microsoft Power Platform。你實施行銷計畫，例如活動、電子郵件和客戶旅程。你有與組織的利益相關者合作收集需求和實施 Dynamics 365 Marketing 解決方案的經驗。此外，你還配置 Dynamics 365 Marketing 並設置 Dynamics 365 組織安全性。你甚至使用 Power Platform 元件(如 Power Automate 和 Power Apps)擴展 Dynamics 365 解決方案。
-  
-  如果你在嘗試獲得此認證之前需要更多經驗，以下是一些建議&#58;
-  - 從事 Dynamics 365 模型驅動的應用程式實施專案。
-  - 跟隨使用 Dynamics 365 Marketing 的職能顧問或解決方案架構師。
-  - 在 Microsoft Learn 上採取可用的學習路徑。
-  - 報名參加講師指導的培訓課程。
-subTitle: Microsoft Dynamics 365 行銷功能顧問實作吸引並轉化潛在客戶的解決方案，建構品牌知名度，標準化全渠道訊息傳送，以及提供行銷見解。
+summary: >-
+  <div><font color="#D83B01"><strong>此版本的認證已無法再使用。 如果您有此版本的認證，系統會自動將最新版本的認證授與您。<br/><br/>  這兩種版本的認證都會列在您的認證中。 您只需要更新較新的版本。 當先前的版本過期時，它會移至文字記錄的 [認證歷程記錄] 區段。<br/><br/></strong></font></div>
+
+
+  如果您是功能顧問、在您組織的日常商務營運中使用 Microsoft Dynamics 365 行銷的專業人員，或是想要充分發揮您的諮詢技能的開發人員，此認證可協助讓您的事業獲得提升，並可讓您更有效率地為專案和促銷部門定位。
+
+
+  作為此認證的候選項，您知道 Dynamics 365 模型驅動應用程式和資料模型準則，還可以設定 Microsoft Power Platform。 您可以實行行銷計畫，例如行銷活動、電子郵件和客戶旅程。 您與組織的專案關係人合作，以收集需求和實行 Dynamics 365 行銷解決方案。 此外，您可以設定 Dynamics 365 行銷，並設定 Dynamics 365 組織安全性。 您甚至可以使用 Power Platform 的元件（例如 Power Automate 和 Power Apps）擴充 Dynamics 365 解決方案。
+
+
+  如果您需要更多的經驗，才能嘗試獲得此認證，以下是一些建議&#58;
+
+  - 在 Dynamics 365 模型驅動的應用程式執行專案上工作。
+
+  - 為使用 Dynamics 365 行銷的功能顧問或解決方案架構設計人員建立陰影。
+
+  - 在 Microsoft Learn 上取得可用的學習路徑。
+
+  - 報名講師主導的訓練課程。
+subTitle: Microsoft Dynamics 365 行銷功能顧問會實行解決方案，以吸引和轉換潛在客戶、建立品牌感知、標準化 omnichannel contact 訊息，以及提供行銷見解。
 hidden: true
 hideFishboneDiagram: true
 levels:
 - intermediate
 skills:
-- 無
+- None
 roles:
 - functional-consultant
 type: role-based
@@ -57,26 +69,26 @@ exams:
 - uid: exam.mb-220
 resources:
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 認證之旅
-  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C55m
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
-- title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+- title: 認證學習路徑
+  description: 建議的訓練資源，以協助您準備進行必要的測驗並獲得您的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjW
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: deals.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: help.md
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: badges.md

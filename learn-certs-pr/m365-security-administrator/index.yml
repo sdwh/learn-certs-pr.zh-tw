@@ -1,23 +1,30 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certified: Security Administrator Associate'
+title: Microsoft 365認證：安全性系統管理員關聯
 metadata:
-  title: 'Microsoft 365 Certified: Security Administrator Associate'
-  description: 'Microsoft 365 安全管理員主動保護 Microsoft 365企業和混合環境，實作和管理安全和合規性解決方案，對威脅作反應並實作資料治理。'
+  title: Microsoft 365認證：安全性系統管理員關聯
+  description: Microsoft 365安全性系統管理員可主動保護 Microsoft 365 企業和混合式環境的安全、實行和管理安全性與合規性解決方案、回應威脅，以及強制執行資料管理。
+  ms.openlocfilehash: cea06d4ed585691798d4cec52de5eca233328b48
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132105163"
 uid: certification.m365-security-administrator
 certificationRenewalUid: renewal.m365-security-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>該認證內容已在2021年9月24日更新。請在 <a href="/learn/certifications/exams/ms-500">MS-500 考試頁面</a>下載技能考核檔以瞭解變更內容。</strong></font><br/><br/></div>
-  
-  Microsoft 365 安全管理員主動保護 Microsoft 365企業和混合環境，實作和管理安全和合規性解決方案，對威脅作反應並實作資料治理。
-subTitle: Microsoft 365 安全管理員主動保護 Microsoft 365企業和混合環境，實作和管理安全和合規性解決方案，對威脅作反應並實作資料治理。
+summary: >-
+  <div><font color='red'><strong>此認證的內容將于2021年11月24日更新。請下載 <a href="/learn/certifications/exams/ms-500">測驗500頁面</a> 上的技能測量檔，以瞭解有哪些變更。</strong></font><br/><br/></div>
+
+
+  Microsoft 365安全性系統管理員可主動保護 Microsoft 365 企業和混合式環境的安全、實行和管理安全性與合規性解決方案、回應威脅，以及強制執行資料管理。
+subTitle: Microsoft 365安全性系統管理員可主動保護 Microsoft 365 企業和混合式環境的安全、實行和管理安全性與合規性解決方案、回應威脅，以及強制執行資料管理。
 levels:
 - intermediate
 skills:
-- 實作與管理身份與存取
-- 實作與管理威脅防護
-- 實作與管理資訊防護
-- 管理 Microsoft 365 中的控管與合規性功能
+- Implement and manage identity and access
+- Implement and manage threat protection
+- Implement and manage information protection
+- Manage governance and compliance features in Microsoft 365
 roles:
 - administrator
 type: role-based
@@ -34,25 +41,24 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUi
 exams:
 - uid: exam.ms-500
 resources:
-- title: 認證學習途徑
-  description: '發現訓練資源，以成為經 Microsoft Certified: Security Administrator Associate。'
+- title: 認證學習路徑
+  description: 探索要成為 Microsoft 認證的訓練資源：安全性系統管理員相關聯。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

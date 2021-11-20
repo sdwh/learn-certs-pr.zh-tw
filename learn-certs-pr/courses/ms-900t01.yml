@@ -1,99 +1,145 @@
 ### YamlMime:Course
-title: Microsoft 365 Fundamentals
+title: Microsoft 365基礎
 metadata:
-  title: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
-  description: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
+  title: 課程 900T01--A： Microsoft 365 基礎
+  description: 課程 900T01--A： Microsoft 365 基礎
+  ms.openlocfilehash: f1447c156d30550bc09ec29faab6789ac7d81de9
+  ms.sourcegitcommit: 11cc92e852ff53aaf3dac9aea7f9a86d9796ee2b
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/18/2021
+  ms.locfileid: "132105155"
 uid: course.ms-900t01
-courseNumber: 'MS-900T01-A'
+courseNumber: MS-900T01
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 區分各種雲端服務模型。
-- skill: 確定Microsoft 365訂閱之間的主要區別。
-- skill: 計劃遷移到Microsoft 365服務。
-- skill: 確定Microsoft內部服務和Microsoft 365雲端服務之間的主要區別。
-- skill: 確定Microsoft 365服務如何支援團隊合作。
-- skill: 描述身份，包括雲端、內部身份和混合身份。
-- skill: 描述雲端設備的管理和保護，包括Intune的使用。
-- skill: 描述資料保護，包括使用Azure資訊保護。
-- skill: 描述常規合規性以及Microsoft 365中的合規性功能。
-- skill: 描述Microsoft 365訂閱，許可證、賬單和支援
+- skill: 區分不同的雲端服務模型。
+- skill: 找出 Microsoft 365 訂閱之間的主要差異。
+- skill: 規劃遷移至 Microsoft 365 服務。
+- skill: 識別 Microsoft 內部部署服務與 Microsoft 365 雲端服務之間的主要差異。
+- skill: 識別 Microsoft 365 服務如何支援小組合作。
+- skill: 描述身分識別，包括雲端、內部部署和混合式身分識別。
+- skill: 描述雲端裝置管理和保護，包括使用 Intune。
+- skill: 描述資料保護，包括使用 Azure 資訊保護。
+- skill: 描述一般相容性以及 Microsoft 365 中的相容性功能。
+- skill: 描述 Microsoft 365 訂閱、授權、帳單和支援
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
-- ja
-- zh-cn
-- ko
-- de
-- fr
-- es
-- pt-br
-- ru
-- zh-tw
-- it
 levels:
 - beginner
 roles:
-- business-user
 - administrator
-- maker
 products:
 - m365
-- windows
-- office-365
 exams:
 - uid: exam.ms-900
-summary: |-
-  本課程提供有關採用雲端服務和軟體即服務（SaaS）雲端模型的注意事項和好處的基礎知識，尤其側重於Microsoft 365雲端服務產品。您將從學習雲端基礎知識開始，包括雲端計算概述，尤其是Microsoft雲端服務。將向您介紹Microsoft Azure，並將檢查Microsoft 365和Office 365之間的區別。然後，您將對Microsoft 365進行深入審查，包括對Microsoft內部服務與Microsoft 365雲端服務的比較，對Microsoft 365中企業移動性的審查，以及對Microsoft 365服務如何提供協作的分析。然後，本課程分析Microsoft 365中如何處理安全性，合規性，隱私和信任，並以對Microsoft 365訂閱，許可證，計費和支援的回顧作為結束。
-
-  #### 對象設定檔
-  本課程是為渴望在組織中部署雲端服務或僅希望獲得有關雲端基礎知識的商業決策者和IT專業人員而設計的。這包括總體上採用雲端服務，特別是採用軟體即服務（SaaS）雲端模型的注意事項和好處，並且通常側重於Microsoft 365雲端服務產品。
-prerequisitesSection: |-
-  本課程是為渴望在組織中部署雲端服務的業務決策者和IT專業人員設計的。學生應具有以下背景&#58;
-  - 網路、計算和雲端概念的常識
-outlineSection: |-
-  ### 模組 1&#58; 雲端概念
-  探索雲端計算的核心概念以及它如何幫助您的業務。
-  #### 課程 
-  - 雲端計算原理
-  - 什麼是Microsoft 365？
-  - 選擇雲端部署
+summary: >-
+  本課程提供採用雲端服務和軟體即服務 (SaaS) 雲端模型之考慮和優點的基本知識，特別著重于 Microsoft 365 雲端服務供應專案。 首先，您將瞭解雲端基礎，包括雲端運算的總覽，以及特別的 Microsoft 雲端服務。 您將會 Microsoft Azure 導入，而您將檢查 Microsoft 365 和 Office 365 之間的差異。 接著，您將會深入探討 Microsoft 365，包括 Microsoft 內部部署服務與 Microsoft 365 雲端服務的比較、Microsoft 365 中企業行動力的評論，以及 Microsoft 365 服務如何提供共同作業的分析。 然後，此課程會分析安全性、合規性、隱私權和信任在 Microsoft 365 中的處理方式，並在 Microsoft 365 訂用帳戶、授權、帳單和支援等方面的評論結束。
 
 
-  ### 模組 2&#58;Microsoft 365生產力和團隊合作能力
-  瞭解Microsoft 365中的生產力和團隊合作解決方案，以及使用Microsoft 365（World's Productivity Cloud）幫助人們提高生產力的功能。
-  #### 課程 
-  - Microsoft 365生產力和團隊合作解決方案
-  - 使員工參與Microsoft Stream，Team和Yammer
-  - 在所有設備上使用Office完成更多工作
-  - 檔案存儲以及與OneDrive和SharePoint共享
+  #### <a name="audience-profile"></a>聽眾設定檔
 
 
-  ### 模組 3&#58; Microsoft 365業務管理功能
-  瞭解Microsoft 365中的業務管理解決方案以及使用Microsoft 365（World's Productivity Cloud）幫助組織提高生產力的功能。
-  #### 課程 
-  - 使用Microsoft 365管理您的業務
-  - 使用Microsoft Endpoint Manager簡化設備管理
-  - 使用Windows 10完成更多工作並保持安全
-  - 利用Microsoft 365分析和報告利用商業智能
+  本課程是針對追求在組織中部署雲端服務的商務決策者和 IT 專業人員所設計，或只想要取得雲端基礎知識的基本知識。 這包括在一般情況下採用雲端服務的考慮和優點，以及軟體即服務 (SaaS) 雲端模型，其一般重點在於 Microsoft 365 雲端服務供應專案。
+prerequisitesSection: >-
+  本課程是針對追求在組織中部署雲端服務的商務決策者和 IT 專業人員所設計。 學生應該會有下列背景：
 
 
-  ### 模組 4&#58; Microsoft 365安全性和合規性
-  瞭解Microsoft 365安全和合規性解決方案領域以及可用於幫助企業保護其企業並滿足法規要求的功能。
-  #### 課程 
-  - 安全原則和解決方案領域
-  - 身份和存取管理
-  - 威脅防護
-  - 雲端安全
-  - 資訊保護與治理
-  - 合規管理
-  - 管理風險，發現和審計
+  ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 網路、計算和雲端概念的一般知識
+outlineSection: >-
+  ### <a name="module-1-microsoft-365-productivity-and-teamwork-capabilities"></a>課程模組1： Microsoft 365 生產力和團隊合作功能
 
 
-  ### 模組 5&#58; Microsoft 365許可和支援
-  瞭解有關Microsoft 365許可、服務和支援選項的更多資訊。
-  #### 課程 
-  - 確定Microsoft 365中可用的許可選項
-  - 描述Microsoft 365服務中的支援產品
-  - 描述Microsoft 365中的服務生命週期
+  瞭解 Microsoft 365 中的生產力和團隊工作解決方案，以及使用 Microsoft 365 世界的生產力雲端來協助人員提高生產力的功能。
 
+
+  #### <a name="lessons"></a>課程
+
+
+  *   Microsoft 365 生產力和團隊合作解決方案
+
+
+  *   利用 Microsoft Stream、Teams 和 Yammer 參與員工
+
+
+  *   跨所有裝置的 Office 獲得更多目的
+
+
+  *   檔案儲存和與 OneDrive 和 SharePoint 共用
+
+
+
+  ### <a name="module-2-microsoft-365-business-management-capabilities"></a>課程模組2： Microsoft 365 商務管理功能
+
+
+  瞭解 Microsoft 365 中的商務管理解決方案，以及使用 Microsoft 365 世界的生產力雲端協助組織提高生產力的功能。
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   使用 Microsoft 365 管理您的業務
+
+
+  *   使用 Microsoft 端點管理員簡化裝置管理
+
+
+  *   使用 Windows 10 完成更多工作並確保安全
+
+
+  *   利用 Microsoft 365 分析和報告功能來控管商業智慧
+
+
+
+  ### <a name="module-3-microsoft-365-licensing-and-support"></a>模組3： Microsoft 365 的授權和支援
+
+
+  深入瞭解 Microsoft 365 授權、服務和支援選項。
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   識別 Microsoft 365 中的可用授權選項
+
+
+  *   描述 Microsoft 365 服務中的支援供應專案
+
+
+  *   描述 Microsoft 365 中的服務生命週期
+
+
+  *   選取雲端部署
+
+
+
+  ### <a name="module-4-microsoft-365-security-and-compliance"></a>模組4： Microsoft 365 的安全性與合規性
+
+
+  瞭解 Microsoft 365 的安全性與合規性解決方案領域，以及可用來協助企業保護其企業並符合法規需求的功能。
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   安全性原則和解決方案區域
+
+
+  *   身分識別和存取管理
+
+
+  *   威脅保護
+
+
+  *   雲端安全性
+
+
+  *   資訊保護和治理
+
+
+  *   合規性管理
+
+
+  *   管理風險、探索和審核

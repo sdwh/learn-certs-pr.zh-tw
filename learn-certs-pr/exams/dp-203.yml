@@ -1,35 +1,53 @@
 ### YamlMime:Examination
-title: Data Engineering on Microsoft Azure
+title: Microsoft Azure 上的資料工程
 metadata:
-  title: 'Exam DP-203: Data Engineering on Microsoft Azure'
-  description: 'Exam DP-203: Data Engineering on Microsoft Azure'
+  title: 測驗 DP-203： Microsoft Azure 上的資料工程
+  description: 測驗 DP-203： Microsoft Azure 上的資料工程
+  ms.openlocfilehash: fc0bf6a81528739f22121a2edc7addc1ac7dce8e
+  ms.sourcegitcommit: 468e49f99bce29f3130cccd97af130459746d6c5
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "132105035"
 uid: exam.dp-203
 displayName: DP-203
-summary: |-
-  該考試的報考者應具備將資料從各種不同結構化的和非結構化的系統中集成、轉化和合併到適合構建分析解決方案的結構中。
-  
-  Azure Data Engineers 説明各利益相關者理解整個探索中的資料，他們使用不同的工具和技術創建和維護安全且合規的資料處理通道。這些專業人士使用各種不同的 Azure data services 和語言來存儲和生成簡介和改善的資料集用於分析。
-  
-  Azure Data Engineers 也幫助確保在給定的商業要求和規定下，資料通道和資料存儲是高性能、高效、組織良好且可靠。他們處理快速處理意外問題且最小化資料的丟失。他們也設計、實施、監控和優化資料平臺以滿足資料通道的要求。
-  
-  該考試的報考者必須擁有深厚的資料處理語言知識，如 SQL、Python 或 Scala, 且他們必須理解並行處理和資料架構模式。
-subTitle: '本考試將衡量你完成以下技術任務的能力：設計和實施資料存儲；設計和開發資料處理；設計和實施資料安全；以及監控和優化資料存儲和資料處理。'
+summary: >-
+  這項測驗的候選項目應具有將各種結構化和非結構化資料系統中的資料整合、轉換及合併到適合用來建立分析解決方案的結構中的主題。
+
+
+  Azure 資料工程師可協助專案關係人透過探索來瞭解資料，並使用不同的工具和技術來建立和維護安全且符合規範的資料處理管線。 這些專業人員使用各種 Azure 資料服務和語言來儲存和產生清理和增強的資料集，以進行分析。
+
+
+  Azure 資料工程師也會提供一組商務需求和條件約束，協助確保資料管線和資料存放區都能以高效能、有效率、組織且可靠的方式執行。 他們會迅速處理非預期的問題，並將資料遺失降到最低。 它們也會設計、執行、監視及優化資料平臺，以符合資料管線的需求。
+
+
+  這項測驗的候選項必須具備資料處理語言（例如 SQL、Python 或 Scala）的強大知識，而且需要瞭解平行處理和資料架構模式。
+subTitle: 這項測驗會測量您完成下列技術工作的能力：設計和實行資料儲存;設計和開發資料處理;設計和實行資料安全性;以及監視和優化資料儲存和資料處理。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT
 practiceTestUrl: https://in.mindhub.com/dp-203-data-engineering-on-microsoft-azure-microsoft-official-practice-test/p/MU-DP-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=DP-203&examname=Exam%20DP-203:%20Data%20Engineering%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-203
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-203&examname=Exam%20DP-203:%20Data%20Engineering%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-203
 locales:
 - en
 - zh-cn
 - ja
 - ko
+- de
+- fr
+- es
+- pt-br
+- ar-sa
+- ru
+- zh-tw
+- it
+- id-id
 levels:
 - intermediate
 skills:
-- 設計和實施資料存儲(40-45%)
-- 設計和開發資料處理(25-30%)
-- 設計和實現資料安全性(10-15%)
-- 監控和優化資料存儲和資料處理(10-15%)
+- Design and implement data storage (40-45%)
+- Design and develop data processing (25-30%)
+- Design and implement data security (10-15%)
+- Monitor and optimize data storage and data processing (10-15%)
 roles:
 - data-engineer
 products:
@@ -56,27 +74,27 @@ relatedCertifications:
 - related:
     uid: certification.azure-data-engineer
 resources:
-- title: 認證之旅
-  description: 探索獲得Azure Data Engineer Associate認證的步驟以及説明您進行準備的可用資源。
+- title: 認證旅程
+  description: 探索可作為 Azure 資料工程師取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證考試
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
-  description: 詳細了解有關為測驗申請調整的資訊。
+- title: 要求住宿
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md

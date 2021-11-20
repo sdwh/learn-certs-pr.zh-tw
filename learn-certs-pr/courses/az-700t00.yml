@@ -1,21 +1,30 @@
 ### YamlMime:Course
-title: Designing and Implementing Microsoft Azure Networking Solutions
+title: 設計和實施 Microsoft Azure 的網路解決方案
 metadata:
-  title: 'Course AZ-700T00--A: Designing and Implementing Microsoft Azure Networking Solutions'
-  description: 'Course AZ-700T00--A: Designing and Implementing Microsoft Azure Networking Solutions'
+  title: 課程 AZ-700T00--A：設計和實施 Microsoft Azure 網路解決方案
+  description: 課程 AZ-700T00--A：設計和實施 Microsoft Azure 網路解決方案
+  ms.openlocfilehash: d4863b6f4bcc1c782c743d678d155a1fd382a213
+  ms.sourcegitcommit: eba09b8bf394ea53e3ab26f8632bac83f01c0637
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/03/2021
+  ms.locfileid: "132104990"
 uid: course.az-700t00
-courseNumber: 'AZ-700T00'
+courseNumber: AZ-700T00
 hoursToComplete: 72
-skillsGained:
-- skill: 設計、實施和管理混合網路連接
-- skill: 設計和實施核心 Azure 網路基礎設施
-- skill: 在 Azure 中設計和實施路由和負載均衡
-- skill: 安全保障和監控網路
-- skill: 設計和實施私密訪問 Azure Services
 iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 設計、執行和管理混合式網路連線
+- skill: 設計和實行核心 Azure 網路基礎結構
+- skill: 在 Azure 中設計和執行路由及負載平衡
+- skill: 保護和監視網路
+- skill: 設計和實作 Azure 服務的私人存取
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
+- zh-cn
+- ko
+- ja
 levels:
 - intermediate
 roles:
@@ -24,312 +33,466 @@ products:
 - azure
 exams:
 - uid: exam.az-700
-summary: |-
-  該課程教導了網路工程師如何設計、實施及維護 Azure 網路解決方案。該課程涵蓋了設計、實施和管理核心 Azure 網路基礎設施、混合網路連接、負載均衡流量、網路路由、Azure 服務的私人訪問、網路安全和管理的流程。學習如何在 Azure 中設計和實施安全、可靠的網路基礎設施以及如何建立混合連接、路由、對 Azure 服務的私人訪問和在 Azure 中管理。
-
-  #### 受眾概覽
-
-  該課程針對希望專門研究 Azure 網路解決方案的網路工程師。 Azure 工程師設計、實施核心 Azure 網路基礎設施、混合網路連接、負載均衡流量、網路路由、Azure 服務的私人訪問、網路安全和管理。Azure 網路工程師將管理網路解決方案以獲得最佳的性能、快速恢復能力、擴展和安全。
-prerequisitesSection: |-
-  成功的 Azure 網路工程師需擁有企業網路、本地部署或 cloud 基礎設施和網路安全方面的經驗才能勝任此崗位。
-
-  *   理解&nbsp;本地部署虛擬技術，包括：VMs、虛擬網路和虛擬硬碟。
-
-  *   理解&nbsp;網路配置，包括 TCP/IP、Domain Name System (DNS)、虛擬私人網路 (VPNs)、防火牆和加密技術。
-
-  *   理解軟體定義的網路。
-
-  *   理解混合網路連接方法如VPN。
-
-  *   理解快速恢復能力和災難恢復包括高可用性和恢復操作。
-
-  **先修課程（或同等知識和實踐經驗）：**
+summary: >-
+  本課程會教網路工程師如何設計、實施和維護 Azure 網路解決方案。 本課程涵蓋設計、實施和管理核心 Azure 網路基礎結構、混合式網路連線、負載平衡流量、網路路由、Azure 服務的私用存取、網路安全性和監視的程式。 瞭解如何在 Azure 中設計和實行安全、可靠的網路基礎結構，以及如何建立混合式連線、路由、私人存取 Azure 服務，以及在 Azure 中進行監視。
 
 
-  該線上培訓課程將為您提供您在此課程中取得成功所需的經驗。
-
-  *   [Azure Fundamentals 第1部分：描述核心 Azure 概念 - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
-
-  *   [Azure Fundamentals 第2部分：描述核心 Azure services - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
-
-  *   [Azure Fundamentals 第3部分：描述 Azure - Learn 上的核心解決方案和管理工具| Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
-
-  *   [Azure 基礎理論第4部分：描述通用安全和網路安全功能 - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
-
-  *   [AZ-104: 為 Azure 管理員配置和管理虛擬網路 - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/)
-outlineSection: |-
-  ### 模組 1: Azure Virtual Networks 介紹
-
-  在此模組中您將學習如何設計和實施 Azure 網路資源如虛擬網路、公共和私有 IPs、DNS、虛擬網路對等互連、路由和 Azure Virtual NAT。
-
-  #### 課程
-  *   探索 Azure Virtual Networks
-
-  *   配置公共 IP 服務
-
-  *   為您的虛擬網路設計名稱解決方案
-
-  *   啟用跨 VNet 互等連接
-
-  *   實施虛擬網路流量路由
-
-  *   使用 Azure Virtual NAT 配置網路訪問
+  #### <a name="audience-profile"></a>聽眾設定檔
 
 
-  #### 實驗室 : 練習：在 Azure 中設計和實施虛擬網路
+  此課程適用于想要在 Azure 網路解決方案中特殊化的網路工程師。 Azure 網路工程師設計和實行核心的 Azure 網路基礎結構、混合式網路連線、負載平衡流量、網路路由、Azure 服務的私用存取、網路安全性和監視。 Azure 網路工程師會管理網路解決方案，以獲得最佳效能、復原能力、規模和安全性。
+prerequisitesSection: >-
+  成功的 Azure 網路工程師會在商業網路、內部部署或雲端基礎結構和網路安全性的體驗下啟動此角色。
+
+
+  *   瞭解 &nbsp; 內部部署虛擬化技術，包括： vm、虛擬網路和虛擬硬碟。
+
+
+  *   瞭解 &nbsp; 網路設定，包括 tcp/ip、網域名稱系統 (DNS) 、虛擬私人網路 (vpn) 、防火牆和加密技術。
+
+
+  *   瞭解軟體定義的網路功能。
+
+
+  *   瞭解混合式網路連線方法，例如 VPN。
+
+
+  *   瞭解復原能力和嚴重損壞修復，包括高可用性和還原作業。
+
+
+  **必要的課程 (或對等的知識與實際操作體驗) ：**
+
+
+
+  這項免費的線上訓練可提供您在此課程中成功所需的體驗。
+
+
+  *   [Azure 基礎概念第1部分：描述核心 Azure 概念-學習 |Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+
+
+  *   [Azure 基礎概念第2部分：描述核心 Azure 服務-學習 |Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
+
+
+  *   [Azure 基礎概念第3部分：說明 Azure 上的核心解決方案和管理工具-學習 |Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
+
+
+  *   [Azure 基礎概念第4部分：描述一般安全性和網路安全性功能-學習 |Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
+
+
+  *   [AZ-104：設定和管理 Azure 系統管理員的虛擬網路-學習 |Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/)
+outlineSection: >-
+  ### <a name="module-1-introduction-to-azure-virtual-networks"></a>課程模組1： Azure 虛擬網路簡介
+
+
+  在本課程模組中，您將瞭解如何設計及執行基本 Azure 網路資源，例如虛擬網路、公用和私人 Ip、DNS、虛擬網路對等互連、路由和 Azure 虛擬 NAT。
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   探索 Azure 虛擬網路
+
+
+  *   設定公用 IP 服務
+
+
+  *   設計虛擬網路的名稱解析
+
+
+  *   啟用對等互連的跨 VNet 連線能力
+
+
+  *   實作虛擬網路流量路由
+
+
+  *   使用 Azure 虛擬 NAT 設定網際網路存取
+
+
+
+  #### <a name="lab--exercise-design-and-implement-a-virtual-network-in-azure"></a>實驗室：練習：在 Azure 中設計和執行虛擬網路輸入
+
 
   ####
 
-  #### 實驗室: 練習：在 Azure 中配置 DNS 設置
+
+  #### <a name="lab--exercise-configure-dns-settings-in-azure"></a>實驗室：練習：在 Azure 中設定 DNS 設定
+
 
   ####
 
-  #### 實驗室: 練習：使用全球虛擬網路對等互聯連接兩個 Azure Virtual Networks
 
-  完成此模組後，學生將能夠: 
+  #### <a name="lab--exercise-connect-two-azure-virtual-networks-using-global-virtual-network-peering"></a>實驗室：練習：使用全域虛擬網路對等互連來連接兩個 Azure 虛擬網路
 
-  *   實施虛擬網路
-
-  *   配置公共 IP 服務
-
-  *   配置私有和共 DNS 區域
-
-  *   設計和實施跨 VNET 互聯
-
-  *   實施虛擬網路路由
-
-  *   設計和實施 Azure 虛擬網路 NAT
-
-
-  ### 模組 2: 設計和實施混合網路
-
-  在此模組中，您將學習如何設計和實施混合網路解決方案如 VPN 連接、點到網站的 VPN 連接、Azure Virtual WAN 和虛擬 WAN 中心。
-
-  #### 課程
-  *   設計和實施 Azure VPN Gateway
-
-  *   使用網站到網站 VPN 連接來關聯網路
-
-  *   使用點到網站 VPN 連接來關聯設備到網路
-
-  *   使用 Azure Virtual WANs 連接遠端資源
-
-  *   在虛擬中心創建網路虛擬裝置(NVA)
-
-
-  #### 實驗室：練習：使用 Azure Portal 創建虛擬 WAN
 
   ####
 
-  #### 實驗室：練習： 創建和配置虛擬網路閘道
+
+  完成本課程模組之後，學生將能夠：
+
+
+  *   實作虛擬網路
+
+
+  *   設定公用 IP 服務
+
+
+  *   設定私人和公用 DNS 區域
+
+
+  *   設計和實作跨 VNET 連線能力
+
+
+  *   實作虛擬網路路由
+
+
+  *   設計和實作 Azure 虛擬網路 NAT
+
+
+
+  ### <a name="module-2-design-and-implement-hybrid-networking"></a>模組2：設計和執行混合式網路功能
+
+
+  在本課程模組中，您將瞭解如何設計和執行混合式網路解決方案，例如站對站 VPN 連線、點對站 VPN 連線、Azure 虛擬 WAN 和虛擬 WAN 中樞。
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   設計和實作 Azure VPN 閘道
+
+
+  *   使用站對站 VPN 連線來連線網路
+
+
+  *   使用點對站 VPN 連線將裝置連線到網路
+
+
+  *   使用 Azure 虛擬 WAN 連線遠端資源
+
+
+  *   在虛擬中樞內建立網路虛擬設備 (NVA)
+
+
+
+  #### <a name="lab--exercise-create-a-virtual-wan-by-using-azure-portal"></a>實驗室：練習：使用 Azure 入口網站建立虛擬 WAN
+
 
   ####
 
-  完成此模組後，學生將能夠:
 
-  *   設計和實施網站到網站 VPN 連接
+  #### <a name="lab--exercise-create-and-configure-a-virtual-network-gateway"></a>實驗室：練習：建立和設定虛擬網路閘道
 
-  *   設計和實施點到網站 VPN 連接
 
-  *   設計和實施 Azure Virtual WAN 資源
+  ####
 
-  ### 模組 3: 設計和實施 Azure ExpressRoute
 
-  在此模組中您將學習如何設計和實施 Azure ExpressRoute、 ExpressRoute Global Reach、ExpressRoute FastPath 和 ExpressRoute Peering選項。
+  完成本課程模組之後，學生將能夠：
 
-  #### 課程
+
+  *   設計和實作站對站 VPN 連線
+
+
+  *   設計和實作點對站 VPN 連線
+
+
+  *   設計和執行 Azure 虛擬 WAN 資源
+
+
+
+  ### <a name="module-3-design-and-implement-azure-expressroute"></a>模組3：設計和執行 Azure ExpressRoute
+
+
+  在本課程模組中，您將瞭解如何設計和執行 Azure ExpressRoute、ExpressRoute Global 觸及、ExpressRoute FastPath 和 ExpressRoute 對等互連選項。
+
+
+  #### <a name="lessons"></a>課程
+
 
   *   探索 Azure ExpressRoute
 
+
   *   設計 ExpressRoute 部署
 
-  *   為 ExpressRoute 部署配置對等互聯
 
-  *   關聯到 Vnet 的 ExpressRoute 回路
+  *   設定 ExpressRoute 部署的對等互連
 
-  *   使用 ExpressRoute 全球到達關聯地理上分散的網路
 
-  *   使用 ExpressRoute FastPath 提升網路間資料路徑性能關聯問題
+  *   連線 ExpressRoute 線路至 VNet
 
-  *   解決 ExpressRoute 連接問題
 
-  #### 實驗室：練習：配置 ExpressRoute 閘道
+  *   使用 ExpressRoute 全球觸達連接地理位置分散的網路
+
+
+  *   使用 ExpressRoute FastPath 改善網路之間的資料路徑效能
+
+
+  *   針對 ExpressRoute 連線問題進行疑難排解
+
+
+
+  #### <a name="lab--exercise-configure-an-expressroute-gateway"></a>實驗室：練習：設定 ExpressRoute 閘道
+
 
   ####
 
-  #### 實驗室：練習：提供 ExpressRoute 回路
+
+  #### <a name="lab--exercise-provision-an-expressroute-circuit"></a>實驗室：練習：布建 ExpressRoute 線路
+
 
   ####
 
-  完成此模組後，學生將能夠: 
 
-  *   設計和實施 Expressroute
-
-  *   設計和實施 Expressroute Direct
-
-  *   設計和實施 Expressroute FastPath
+  完成本課程模組之後，學生將能夠：
 
 
-  ### 模組 4: 在 Azure 負載均衡非 HTTP(S) 流量
-
-  在此模組中您將學習如何在 Azure 中使用 Azure Load balancer 和 Traffic Manager 為非 HTTP(S) 流量設計和實施負載均衡解決方案。
-
-  #### 課程
-
-  *   探索負載均衡
-
-  *   使用 Azure portal 設計和實施 Azure load balancer
-
-  *   探索 Azure Traffic Manager
+  *   設計和實行 Expressroute
 
 
-  #### 實驗室：練習：使用 Azure portal 創建 Traffic Manager 檔案
+  *   設計和實行 Expressroute Direct
+
+
+  *   設計和實行 Expressroute FastPath
+
+
+
+  ### <a name="module-4-load-balancing-non-https-traffic-in-azure"></a>模組4：在 Azure 中對非 HTTP (S) 流量進行負載平衡
+
+
+  在本課程模組中，您將瞭解如何在 azure 中使用 azure 負載平衡器和流量管理員來設計和執行非 HTTP (S) 流量的負載平衡解決方案。
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   探索負載平衡
+
+
+  *   使用 Azure 入口網站來設計和實作 Azure 負載平衡器
+
+
+  *   探索 Azure 流量管理員
+
+
+
+  #### <a name="lab--exercise-create-a-traffic-manager-profile-using-the-azure-portal"></a>實驗室：練習：使用 Azure 入口網站建立流量管理員設定檔
+
 
   ####
 
-  #### 實驗室: 練習： 創建和配置 Azure load balancer
+
+  #### <a name="lab--exercise-create-and-configure-an-azure-load-balancer"></a>實驗室：練習：建立和設定 Azure 負載平衡器
+
 
   ####
 
-  完成此模組後，學生將能夠:
 
-  *   設計和實施 Azure Load Balancers
-
-  *   設計和實施 Azure Traffic Manager
+  完成本課程模組之後，學生將能夠：
 
 
-  ### 模組 5: Azure 中的 Load balancing HTTP(S)
-
-  在此模組中您將學習如何在 Azure 中使用 Azure Application gateway 和 Azure Front Door 為 HTTP(S) 流量設計和實施負載均衡解決方案。
-
-  #### 課程
-
-  *   設計 Azure application gateway
-
-  *   配置 Azure application gateway
-
-  *   設計和配置 Azure front door
+  *   設計和執行 Azure 將平衡器
 
 
-  #### 實驗室：練習：部署 Azure application gateway
+  *   設計和實行 Azure 流量管理員
+
+
+
+  ### <a name="module-5-load-balancing-https-traffic-in-azure"></a>模組5：在 Azure 中對 HTTP (S) 流量進行負載平衡
+
+
+  在本課程模組中，您將瞭解如何使用 Azure 應用程式閘道和 Azure Front Door 來設計和執行 HTTP (S 的負載平衡解決方案，以) Azure 中的流量。
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   設計 Azure 應用程式閘道
+
+
+  *   設定 Azure 應用程式閘道
+
+
+  *   設計及設定 Azure front 大門
+
+
+
+  #### <a name="lab--exercise-deploy-azure-application-gateway"></a>實驗室：練習：部署 Azure 應用程式閘道
+
 
   ####
 
-  #### 實驗室：練習：為高度可用的網頁應用程式創建前門
+
+  #### <a name="lab--exercise-create-a-front-door-for-a-highly-available-web-application"></a>實驗室：練習：建立高可用性 web 應用程式的前門
+
 
   ####
 
-  完成此模組後，學生將能夠：
 
-  *   設計和實施 Azure Application Gateway
-
-  *   實施 Azure Front Door
+  完成本課程模組之後，學生將能夠：
 
 
-  ### 模組 6: 設計和實施網路安全
-
-  在此模組中您將學習設計和實施 Azure DDoS、Azure Firewalls、網路安全性群組和網路應用程式防火牆。
-
-  #### 課程
-
-  *   在 Azure portal 中保護您的虛擬網路
-
-  *   使用 Azure portal 部署 Azure DDoS Protection
-
-  *   使用 Azure portal 部署 Network Security Groups
-
-  *   設計和實施 Azure Firewall
-
-  *   使用 Azure Firewall Manager
-
-  *   在 Azure Front Door 上實施 Web Application Firewall
+  *   設計和實作 Azure 應用程式閘道
 
 
-  #### 實驗室：練習：使用 Azure portal 部署和配置 Azure Firewall
+  *   實作 Azure Front Door
+
+
+
+  ### <a name="module-6-design-and-implement-network-security"></a>課程模組6：設計和實行網路安全性
+
+
+  在本課程模組中，您將瞭解如何設計及 imponent 網路安全性解決方案，例如 Azure DDoS、Azure 防火牆、網路安全性群組和 Web 應用程式防火牆。
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   在 Azure 入口網站中保護您的虛擬網路
+
+
+  *   使用 Azure 入口網站部署 Azure DDoS 保護
+
+
+  *   使用 Azure 入口網站部署網路安全性群組
+
+
+  *   設計和實作 Azure 防火牆
+
+
+  *   使用 Azure 防火牆管理員
+
+
+  *   在 Azure Front Door 上實作 Web 應用程式防火牆
+
+
+
+  #### <a name="lab--exercise-deploy-and-configure-azure-firewall-using-the-azure-portal"></a>實驗室：練習：使用 Azure 入口網站部署和設定 Azure 防火牆
+
 
   ####
 
-  #### 實驗室：練習：使用 Azure Firewall Manager 保護您的虛擬中心
+
+  #### <a name="lab--exercise-secure-your-virtual-hub-using-azure-firewall-manager"></a>實驗室：練習：使用 Azure 防火牆管理員保護您的虛擬中樞
+
 
   ####
 
-  #### 實驗室：練習：使用 Azure portal 在虛擬網路上配置 DDoS Protection
+
+  #### <a name="lab--exercise-configure-ddos-protection-on-a-virtual-network-using-the-azure-portal"></a>實驗室：練習：使用 Azure 入口網站設定虛擬網路上的 DDoS 保護
+
 
   ####
 
-  完成此模組後，學生將能夠：
 
-  *   配置和監控 Azure DDoS Protection 計畫
-
-  *   實施和管理 Azure Firewall
-
-  *   實施網路安全性群組
-
-  *   在 Azure Front Door 上實施網路應用程式防火牆 (WAF)
+  完成本課程模組之後，學生將能夠：
 
 
-  ### 模組 7: 設計和實施對 Azure Services 的私有訪問
-
-  在此模組中您將學習使用 Azure Private Link 和虛擬網路服務端點設計和實施對 Azure Services 的私人訪問。
-
-  #### 課程
-
-  *   定義 Private Link Service 和私有端點
-
-  *   解釋虛擬網路服務端點
-
-  *   集成 Private Link 和 DNS
-
-  *   集成您的 App Service 和 Azure virtual networks
+  *   設定及監視 Azure DDoS 保護計劃
 
 
-  #### 實驗室：練習：使用 Azure PowerShell 創建 Azure 私有端點
+  *   執行和管理 Azure 防火牆
+
+
+  *   實作網路安全性群組
+
+
+  *   在 Azure Front Door 上實作 Web 應用程式防火牆 (WAF)
+
+
+
+  ### <a name="module-7-design-and-implement-private-access-to-azure-services"></a>模組7：設計和執行 Azure 服務的私用存取
+
+
+  在本課程模組中，您將瞭解如何使用 Azure Private Link 和虛擬網路服務端點，來設計和執行 Azure 服務的私用存取。
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   定義 Private Link 服務和私人端點
+
+
+  *   說明虛擬網路服務端點
+
+
+  *   將 Private Link 與 DNS 整合
+
+
+  *   將 App Service 與 Azure 虛擬網路整合
+
+
+
+  #### <a name="lab--exercise-create-an-azure-private-endpoint-using-azure-powershell"></a>實驗室：練習：使用 Azure PowerShell 建立 Azure 私人端點
+
 
   ####
 
-  #### 實驗室： 練習：使用虛擬網路服務端點限制到 PaaS 的網路訪問
+
+  #### <a name="lab--exercise-restrict-network-access-to-paas-resources-with-virtual-network-service-endpoints"></a>實驗室：練習：使用虛擬網路服務端點來限制對 PaaS 資源的網路存取
+
 
   ####
 
-  完成此模組後，學生將能夠：
 
-  *   定義 Private Link Service 和私有端點之間的不同
-
-  *   設計和實施私有端點
-
-  *   解釋虛擬網路服務端點
-
-  *   設計和配置到服務端點的訪問
-
-  *   集成 Private Link 和 DNS
-
-  *   集成您的 App Service 和 Azure virtual networks
-  
-  ### 模組 8：設計和實施網路監管
-
-  在此模組中，您將學習設計和實施網路監管解決方案如 Azure Monitor 和 Network watcher。
-
-  #### 課程
-
-  *   使用 Azure Monitor 監管您的網路
-
-  *   使用 Azure Network Watcher 監管您的網路
+  完成本課程模組之後，學生將能夠：
 
 
-  #### 實驗室：練習：使用 Azure Monitor 監管負載均衡資源
+  *   定義 Private Link 服務與私人端點之間的差異
+
+
+  *   設計和設定私人端點
+
+
+  *   說明虛擬網路服務端點
+
+
+  *   設計和設定服務端點的存取
+
+
+  *   將 Private Link 與 DNS 整合
+
+
+  *   將 App Service 與 Azure 虛擬網路整合
+
+
+
+  ### <a name="module-8-design-and-implement-network-monitoring"></a>模組8：設計和執行網路監視
+
+
+  在本課程模組中，您將瞭解如何設計和實行網路監視解決方案，例如 Azure 監視器和網路監看員。
+
+
+  #### <a name="lessons"></a>課程
+
+
+  *   使用 Azure 監視器監視您的網路
+
+
+  *   使用 Azure 網路監看員監視您的網路
+
+
+
+  #### <a name="lab--exercise-monitor-a-load-balancer-resource-by-using-azure-monitor"></a>實驗室：練習：使用 Azure 監視器監視負載平衡器資源
+
 
   ####
 
-  完成此模組後，學生將能夠：
 
-  *   使用 Azure Monitor 配置網路健康通知和登錄
+  完成本課程模組之後，學生將能夠：
 
-  *   創建和配置 Connection Monitor 實例
 
-  *   配置和使用 Traffic Analytics
+  *   使用 Azure 監視器設定網路健康情況警示和記錄
 
-  *   配置 NSG 流日誌
 
-  *   啟用和配置診斷日誌
+  *   建立和設定連線監視執行個體
 
-  *   配置 Azure Network Watcher
+
+  *   設定及使用流量分析
+
+
+  *   設定 NSG 流量記錄
+
+
+  *   啟用及設定診斷記錄
+
+
+  *   設定 Azure 網路監看員

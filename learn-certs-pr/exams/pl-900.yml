@@ -1,18 +1,27 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Fundamentals'
+title: Microsoft Power Platform 基本概念
 metadata:
-  title: 'Exam PL-900: Microsoft Power Platform Fundamentals'
-  description: 'Exam PL-900: Microsoft Power Platform Fundamentals'
+  title: 測驗 PL-900： Microsoft Power Platform 基礎
+  description: 測驗 PL-900： Microsoft Power Platform 基礎
+  ms.openlocfilehash: aeef942e84af968e4ab47bce0fd823d80a206110
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101438"
 uid: exam.pl-900
 displayName: PL-900
-summary: |-
-  <div><div><font color='red'><strong>本次考試的內容於2021年3月10日進行了更新。請下載下面的技能測試文檔，看看有何變化。</strong></font><br/><br/></div>
+summary: >-
+  <div><div><font color='red'><strong>本測驗的內容已于2021年3月10日更新。請下載下列技能測量檔，以查看變更了哪些內容。</strong></font><br/><br/></div>
+
   </div>
 
-  這項測驗的應試者希望透過了解 Power Platform 的功能，使用 Power Automate 自動化基本業務流程，使用 Power BI 執行基本資料分析，透過建立簡單的 Power 應用程式體驗來更有效地行動來提高生產力，無需使用代碼即可建立功能強大的聊天機器人。
 
-  如果你通過本次認證考試，你可能有資格獲得 ACE 大學學分。有關詳細資訊，請參閱 [ACE 大學認證考試學分](/learn/certifications/ace-credit-for-certification-exams)。
-subTitle: 該測驗衡量您描述 Power Platform 商業價值的能力；確定 Power Platform 的核心元件；演示 Power BI 的功能；描述 Power Apps 的功能；演示 Power Automate 的功能；並展示 Power Virtual Agents 的商業價值。
+  這項測驗的候選人追求藉由瞭解 Power Platform 的功能來提升生產力、使用 Power Automate 自動化基本商務程式、利用 Power BI 來執行基本的資料分析、透過建立簡單的 Power Apps 體驗，以及使用 Power Virtual Agents 建立強大的聊天機器人，以更有效率的方式運作。
+
+
+  如果您通過此認證測驗，您可能會享有 ACE 大學點數的資格。 如需詳細資訊，請參閱 [ACE 大學點數以取得認證測驗](/learn/certifications/ace-credit-for-certification-exams) 。
+subTitle: 這項測驗會測量您描述 Power Platform 商業價值的能力;識別 Power Platform 的核心元件;示範 Power BI 的功能;描述 Power Apps 的功能;示範 Power Automate 的功能;並示範 Power Virtual Agents 的商業價值。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -31,21 +40,21 @@ locales:
 - it
 providers:
 - providerType: pearson-vue
-  examUrl: 'https://examregistration.microsoft.com/?locale=zh-tw&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 - providerType: gsi
-  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=PL-900&provider=psi&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-900&provider=psi&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900
 levels:
 - beginner
 skills:
-- 本次考試的內容於2021年3月10日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
-- 描述 Power Platform 的商業價值 (15-20%)
-- 確定 Power Platform 的核心組件 (15-20%)
-- 演示 Power BI 的功能 (15-20%)
-- 描述 Power Apps 的功能 (15-20%)
-- 演示Power Automate的功能 (15-20%)
-- 展示 Power Virtual Agents 的商業價值 (10-15%)
+- The content of this exam was updated on March 10, 2021. Please download the exam skills outline below to see what changed.
+- Describe the business value of Power Platform (15-20%)
+- Identify the core components of Power Platform (15-20%)
+- Demonstrate the capabilities of Power BI (15-20%)
+- Describe the capabilities of Power Apps (15-20%)
+- Demonstrate the capabilities of Power Automate (15-20%)
+- Demonstrate the business value of Power Virtual Agents (10-15%)
 roles:
 - business-user
 - functional-consultant
@@ -60,28 +69,27 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-fundamentals
 resources:
-- title: 認證學習途徑
-  description: '推薦的培訓資源可幫助您準備所需的測驗並獲得認證。'
+- title: 認證學習路徑
+  description: 建議的訓練資源，以協助您準備進行必要的測驗並獲得您的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gn
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md
-

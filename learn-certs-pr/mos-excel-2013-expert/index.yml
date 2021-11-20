@@ -1,20 +1,25 @@
 ### YamlMime:Certification
-title: 'Microsoft Office Specialist: Excel 2013 Expert'
+title: Microsoft Office專家： Excel 2013 專家
 metadata:
-  title: 'Microsoft Office Specialist: Excel 2013 Expert'
-  description: 'Microsoft Office Specialist: Excel 2013 Expert'
+  title: Microsoft Office專家： Excel 2013 專家
+  description: Microsoft Office專家： Excel 2013 專家
+  ms.openlocfilehash: 4ea0ff95adbd134c7fa8fdd28841d354acb3502c
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101338"
 uid: certification.mos-excel-2013-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  本認證展現您取得 Microsoft Office Specialist Expert 認證，在 Microsoft Excel 方面具備進階技能。應試者應具備對 Excel 環境的進階專業知識，並具備指導其他人正確使用 Office Professional Plus Excel 2013 的能力。應試者應了解及能夠示範使用應用程式內的進階與專門功能。
-subTitle: 本認證展現您取得 Microsoft Office Specialist Expert 認證，在 Microsoft Excel 方面具備進階技能。
+summary: 此認證會向您贏得 Microsoft Office 專家專家認證，藉此證明您在 Microsoft Excel 獲得先進的技能。 候選項目應該對 Excel 環境有事先的瞭解，以及引導其他人在 Excel 2013 的 Office 專業增強版中適當使用功能的能力。 他們應該知道，而且能夠示範如何使用應用程式內的先進和特殊功能。
+subTitle: 此認證會向您贏得 Microsoft Office 專家專家認證，藉此證明您在 Microsoft Excel 獲得先進的技能。
 levels:
 - intermediate
 skills:
-- 管理及共用活頁簿
-- 套用自訂格式和版面配置
-- 建立進階公式
-- 建立進階圖表和資料表
+- Manage and share workbooks
+- Apply custom formats and layouts
+- Create advanced formulas
+- Create advanced charts and tables
 roles:
 - business-user
 type: mos
@@ -25,19 +30,18 @@ exams:
 - uid: exam.77-427
 - uid: exam.77-428
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

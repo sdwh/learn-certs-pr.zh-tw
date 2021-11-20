@@ -1,16 +1,22 @@
 ### YamlMime:Course
-title: Microsoft Power Platform App Maker
+title: Microsoft Power Platform 應用程式製作者
 metadata:
-  title: 'Course PL-100T00--A: Microsoft Power Platform App Maker'
-  description: 'Course PL-100T00--A: Microsoft Power Platform App Maker'
+  title: 課程 PL-100T00--A： Microsoft Power Platform 應用程式製作者
+  description: 課程 PL-100T00--A： Microsoft Power Platform 應用程式製作者
+  ms.openlocfilehash: 078ac94d2af1b8d91f6b49f38f5f9397b5c09308
+  ms.sourcegitcommit: 9a81498f9b29329ca0e82995f9fba3a2b21e48cb
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/23/2021
+  ms.locfileid: "132104963"
 uid: course.pl-100t00
-courseNumber: 'PL-100T00'
+courseNumber: PL-100T00
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 設計應用程式並自動化工作流程
-- skill: 創建應用程式並自動化工作流程
-- skill: 在應用程式或自動化工作流的上下文中分析和可視化資料
+- skill: 建立應用程式並自動化工作流程
+- skill: 在應用程式或自動化工作流程的內容中分析和視覺化資料
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -22,36 +28,62 @@ products:
 - power-platform
 exams:
 - uid: exam.pl-100
-summary: |-
-  本課程將教您如何使用低代碼技術構建應用程式，以使用Microsoft Power Platform簡化、自動化和轉換業務任務和流程。
+summary: >-
+  本課程將指導您如何使用低程式碼技術來建立應用程式，以使用 Microsoft Power Platform 簡化、自動化和轉換商務工作和程式。
 
-  #### 對象設定檔
-  App Maker為自己和他們的團隊構建解決方案，以簡化，自動化和轉換任務和流程，他們在解決方案業務領域擁有豐富的專業知識。他們具有基本的資料建模，使用者體驗設計，需求分析和過程分析技能。App Maker創建和執行業務流程，構建資訊的數字收集結構，提高可重複任務的效率，並使業務流程自動化。App Maker使用Power Platform的Maker工具解決業務問題。他們可能會使用Microsoft應用程式的高階功能和第三方生產力工具。App Maker知道可用工具的功能和局限性，並瞭解如何應用它們。App Maker是自我指導的，專注於解決方案。他們可能沒有接受過正式的 IT 培訓，但很樂於以個人成長的心態使用技術來解決業務問題。他們了解操作需求，並對期望的結果有願景。他們採用分階段的迭代策略來解決問題。
-prerequisitesSection: |-
-  - 基本資料建模，使用者體驗設計，需求分析和流程分析技能。
-  - 個人成長心態，並樂於使用技術解決業務問題。
-  - 瞭解運營需求，並對預期成果有一個願景。他們採用分階段的迭代策略來解決問題。
-outlineSection: |-
-  ### 模組 1: Microsoft Power Platform 介紹
 
-  該模組為您介紹了 Microsoft Power Platform。 學習 Power Platform 的組成部分以及用其創建商務解決方案的價值。
+  #### <a name="audience-profile"></a>聽眾設定檔
 
-  ### 模組 2: 在 Power Apps 中創建模型驅動的應用程式
 
-  該模組向您介紹了在 Power Apps 創建使用 Microsoft Dataverse 的模型驅動型應用程式。
+  應用程式製作者會建立解決方案，以簡化、自動化和轉換自己及其小組的工作和程式，並在其中具有解決方案商務領域的深度專業知識。 他們有基本的資料模型、使用者經驗設計、需求分析和流程分析技巧。 應用程式製作者會建立並強制執行商務程式、結構數位收集資訊、改善可重複工作的效率，以及將商務程式自動化。 應用程式製作者會使用 Power Platform 的 Maker 工具來解決商務問題。 他們可能會使用 Microsoft 應用程式的先進功能和協力廠商的生產力工具。 應用程式製作者知道可用工具的功能和限制，並瞭解如何套用它們。 應用程式製作者會自我導向，並以解決方案為焦點。 他們可能沒有正式的 IT 訓練，但習慣使用技術來解決個人成長思維的商務問題。 他們瞭解營運需求，並瞭解所需的結果。 它們會使用階段式和反復的策略來解決問題。
+prerequisitesSection: >-
+  *   基本資料模型、使用者體驗設計、需求分析和流程
 
-  ### 模組 3: 在 Power Apps 中創建畫布應用程式
 
-  該模組向您介紹了畫布 Power Apps，幫助您創建和自訂應用程式，然後對其進行管理和分配。該模組也將專注於如何提供最好的應用導航，使用主題、圖示、圖片、個性化、不同的 因素和空間構建最好的 UI。
 
-  ### 模組 4: 使用 Power Automate 自動化商業流程
+  分析技能。
 
-  該模組向您介紹了 Power Automate，教您如何創建工作流以及如何管理工作流。
 
-  ### 模組 5: 使用 Power BI 創建和使用分析報告
+  *   個人成長思維，並熟悉使用技術來解決商務問題。
 
-  學習 Power BI是什麼，包括其構件及它們如何一起協作。
 
-  ### 模組 6: 以 AI 創建器和 Power Virtual Agents 開始
+  *   瞭解 &nbsp; 營運需求，並取得所需結果的願景。 他們的方法
 
-  該模組從起點説明您構建 AI 模型，及向您演示如何在您的商業中使用而不需撰寫代碼。 該模組也將説明您使用 Power Virtual Agents 为了 Teams 創建聊天機器人。
+
+
+  階段式和反復策略的問題。
+outlineSection: >-
+  ### <a name="module-1-introduction-to-microsoft-power-platform"></a>課程模組1： Microsoft Power Platform 簡介
+
+
+  此課程模組會為您介紹 Microsoft Power Platform。 瞭解 Power Platform 的元件，以及使用它來建立商務解決方案的價值。
+
+
+  ### <a name="module-2-create-a-model-driven-app-in-power-apps"></a>模組2：在 Power Apps 中建立模型驅動應用程式
+
+
+  此課程模組會介紹如何在使用 Microsoft Dataverse 的 Power Apps 中建立模型驅動應用程式。
+
+
+  ### <a name="module-3-create-a-canvas-app-in-power-apps"></a>模組3：在 Power Apps 中建立畫布應用程式
+
+
+  此課程模組會為您介紹 canvas Power Apps、協助您建立和自訂應用程式，然後加以管理及散發。 此課程模組也將著重于如何提供最佳的應用程式導覽，以及如何使用主題、圖示、影像、個人化、不同的外型規格和控制項來建立最佳的 UI。
+
+
+  ### <a name="module-4-automate-a-business-process-using-power-automate"></a>模組4：使用 Power Automate 將商務程式自動化
+
+
+  此課程模組會為您介紹 Power Automate、教您如何建立工作流程，以及如何管理流程。
+
+
+  ### <a name="module-5-create-and-use-analytics-reports-with-power-bi"></a>模組5：使用 Power BI 建立和流量分析報表
+
+
+  了解 Power BI 是什麼，包括其建置組塊以及如何搭配運作。
+
+
+  ### <a name="module-6-get-started-with-ai-builder-and-power-virtual-agents"></a>模組6：開始使用 AI Builder 和 Power Virtual Agents
+
+
+  此課程模組可協助您從頭開始建立 AI 模型，並示範如何在您的企業中使用它，而不需要撰寫任何一行程式碼。 此課程模組也可協助您建立具有 Teams Power Virtual Agents 的聊天機器人。

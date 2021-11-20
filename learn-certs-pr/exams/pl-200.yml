@@ -1,37 +1,48 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Functional Consultant'
+title: Microsoft Power Platform 的功能顧問
 metadata:
-  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant'
-  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant'
+  title: 測驗 PL-200： Microsoft Power Platform 的功能顧問
+  description: 測驗 PL-200： Microsoft Power Platform 的功能顧問
+  ms.openlocfilehash: af4f7a627f744dc991a6e451b11264ba705a883e
+  ms.sourcegitcommit: eba09b8bf394ea53e3ab26f8632bac83f01c0637
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/03/2021
+  ms.locfileid: "132104989"
 uid: exam.pl-200
 displayName: PL-200
-summary: |-
-  <div><font color='red'><strong>該考試內容將在2021年10月1日更新。請下載下面的技能測試文檔，看看將有何變化。</strong></font><br/><br/></div>
+summary: >-
+  <div><div><font color='red'><strong>本測驗的內容已于2021年10月1日更新。請下載下列技能測量檔，以查看變更了哪些內容。</strong></font><br/><br/></div><div><font color='red'>注意：傳遞分數：700。 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">在此</a>深入瞭解測驗分數。</font><br/><br/></div></div>
 
-  參加該測驗的考生將執行發現，捕獲需求，吸引主題專家和利益相關者參與，翻譯需求並設定 Power Platform 解決方案和應用。其中包括應用程式精進、自定義使用者體驗、系統整合、資料轉換、自定義流程自動化以及自定義可視化。
 
-  考生們實施由解決方案架構師所提供並合作的設計，以及由“用戶體驗設計師”所建立的標準、品牌和工件。他們設計各項集成，用以提供與協力廠商應用程式及服務的無縫整合。
+  這項測驗的候選人會執行探索、捕捉需求、與主題專家和專案關係人互動、翻譯需求，以及設定 Microsoft Power Platform 的解決方案和應用程式。 它們會建立應用程式增強功能、自訂使用者體驗、系統整合、資料轉換、自訂程式自動化和自訂視覺效果。
 
-  應試者與質量保證團隊成員積極合作，以確保解決方案滿足功能和非功能要求。他們確定，生成並交付用於打包和部署的工件，提供給 DevOps 工程師，並為 Power Platform 管理員提供操作和維護培訓。
 
-  Power Platform 功能顧問應熟悉使用 Power Platform 元件來擴展和定制 Microsoft 應用程式及服務，比如 Teams, Dynamics 365, Excel, 和 Word.
-subTitle: '該考試可測試您完成以下任務的能力：配置 Microsoft Dataverse；通過使用 Power Apps 來創建應用程式；創建和管理 Power Automate；實施 Power Virtual Agents 聊天機器人；並將 Power Apps 與其他應用及服務整合在一起。'
+  候選人採用由使用者經驗設計人員所建立的解決方案架構設計人員和標準、商標和構件，來實行與共同作業所提供的設計。 他們會設計整合，以提供與協力廠商應用程式和服務的緊密整合。
+
+
+  候選人會主動與品質保證小組成員共同作業，以確保解決方案符合功能性和非功能性需求。 他們會識別、產生和提供封裝和部署到 DevOps 工程師的構件，並為 Microsoft Power Platform 系統管理員提供作業和維護訓練。
+
+
+  Microsoft Power Platform 的功能性顧問應該熟悉如何使用 Microsoft Power Platform 元件來延伸和自訂 Microsoft 應用程式和服務，例如 Teams、Dynamics 365、Excel 和 Word。
+subTitle: 這項測驗會測量您完成下列工作的能力：設定 Microsoft Dataverse;使用 Microsoft Power Apps 建立應用程式;建立及管理 Microsoft Power Automate;實行 Microsoft Power Virtual Agents 聊天機器人;並將 Microsoft Power Apps 與其他應用程式和服務整合。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=PL-200&examname=Exam%20PL-200:%20Microsoft%20Power%20Platform%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-200&examname=Exam%20PL-200:%20Microsoft%20Power%20Platform%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-200
 locales:
 - en
 - ja
 levels:
 - intermediate
 skills:
-- 該考試內容將在2021年10月1日更新。請在下方下載考試技能大綱以查看將要改變的地方。
-- 配置 Microsoft Dataverse (25-30%)
-- 使用Power Apps建立應用 (20-25%)
-- 建立和管理 Power Automate (15-20%)
-- 實作 Power Virtual Agents 聊天機器人 (10-15%)
-- 將 Power Apps 與其他應用程式和服務整合 (15-20%)
+- The content of this exam was updated on October 1, 2021. Please download the exam skills outline below to see what changed.
+- Configure Microsoft Dataverse (20-25%)
+- Create apps by using Microsoft Power Apps (15-20%)
+- Create and manage Microsoft Power Automate (15-20%)
+- Implement Microsoft Power Virtual Agents chatbots (10-15%)
+- Integrate Microsoft Power Apps with other apps and services (10-15%)
+- Manage solutions (15-20%)
 roles:
 - business-analyst
 - developer
@@ -45,6 +56,11 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+exams:
+- uid: exam.mb-210
+- uid: exam.mb-220
+- uid: exam.mb-230
+- uid: exam.mb-240
 courses:
 - uid: course.pl-200t00
 paths:
@@ -65,28 +81,27 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-functional-consultant-associate
 resources:
-- title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
+- title: 認證學習路徑
+  description: 建議的訓練資源，以協助您準備進行必要的測驗並獲得您的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GP08
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md
-

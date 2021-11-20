@@ -1,29 +1,39 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure Virtual Desktop Specialty'
+title: Microsoft 認證： Azure 虛擬桌面專用
 metadata:
-  title: 'Microsoft Certified: Azure Virtual Desktop Specialty'
-  description: Azure Virtual Desktop Specialty 認證考試的報考者為在規劃、交付和管理虛擬桌面體驗和 Azure 上針對任何設備的遠端應用程式的 Microsoft Azure 管理員。
+  title: Microsoft 認證： Azure 虛擬桌面專用
+  description: azure 虛擬桌面特殊認證的候選項目是 Microsoft Azure 系統管理員，在 azure 上有針對任何裝置規劃、提供和管理虛擬桌面體驗和遠端應用程式的主題專業知識。
+  ms.openlocfilehash: 3434aa4565ab4dcce93434184fe5ac17e5c1c770
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132105170"
 uid: certification.azure-virtual-desktop-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
-summary: |-
-  <div><font color='red'><strong>該認證內容已在2021年9月24日更新。請在 <a href="/learn/certifications/exams/az-140">AZ-140 考試頁面</a>下載技能考核檔以瞭解變更內容。</strong></font><br/><br/></div>
+summary: >-
+  <div><font color='red'><strong>此認證的內容將于2021年11月22日更新。請下載 <a href="/learn/certifications/exams/az-140">測驗 AZ-140 頁面</a> 上的技能測量檔，以查看有哪些變更。</strong></font><br/><br/></div>
 
-  Azure Virtual Desktop Specialty 考試的報考者為在規劃、交付和管理虛擬桌面體驗和 Azure 上針對任何設備的遠端應用程式的 Microsoft Azure 管理員。
-  
-  該崗位的責任包括部署虛擬桌面體驗和向 Azure 部署應用程式。此崗位的專業人員交付 Windows Virtual Desktop 上的應用程式並對其進行優化以讓其在多會話虛擬環境中運行。要交付這些體驗，他們需要與 Azure 管理員和設計師以及 Microsoft 365 Administrators 密切合作。
-  
-  此認證的報考者應具有在 Azure 技術包括虛擬化、網路、身份驗證、存儲、備份、快速恢復能力和災難恢復方面的經驗。他們應該理解本地部署虛擬桌面基礎設施技術，因為與遷移至 Windows Virtual Desktop 相關。這些專業人士使用 Azure 入口和 Azure Resource Manager(ARM) 模版完成很多工。他們也可以使用 PowerShell 和 Azure Command-Line Interface (CLI) 以獲得更多的高效自動化。
-  
-  此認證的報考者必須精通 Azure 管理技能。
-subTitle: Azure Virtual Desktop Specialty 認證考試的報考者為在規劃、交付和管理虛擬桌面體驗和 Azure 上針對任何設備的遠端應用程式的 Microsoft Azure 管理員。
+
+  azure 虛擬桌面特殊認證的候選項目是 Microsoft Azure 系統管理員，在 azure 上有針對任何裝置規劃、提供和管理虛擬桌面體驗和遠端應用程式的主題專業知識。
+
+
+  此角色的責任包括將虛擬桌面體驗和應用程式部署到 Azure。 此角色中的專業人員會在 Azure 虛擬桌面上提供應用程式，並將其優化以在多會話虛擬環境中執行。 為了提供這些經驗，他們與 Azure 系統管理員和架構設計人員密切合作，以及 Microsoft 365 系統管理員。
+
+
+  此認證的候選項目應具備 Azure 技術的經驗，包括虛擬化、網路、身分識別、儲存體、備份、復原能力和嚴重損壞修復。 他們應該瞭解與遷移至 Azure 虛擬桌面相關的內部部署虛擬桌面基礎結構技術。 這些專業人員使用 Azure 入口網站，並 Azure Resource Manager (ARM) 範本來完成許多工。 它們可能會使用 PowerShell 和 Azure Command-Line 介面 (CLI) 以提供更有效率的自動化。
+
+
+  這項認證的候選人必須有專家的 Azure 系統管理技能。
+subTitle: azure 虛擬桌面特殊認證的候選項目是 Microsoft Azure 系統管理員，在 azure 上有針對任何裝置規劃、提供和管理虛擬桌面體驗和遠端應用程式的主題專業知識。
 levels:
 - intermediate
 skills:
-- 規劃 Azure Virtual Desktop Architecture 
-- 實施 Azure Virtual Desktop Infrastructure 
-- 管理訪問和安全 
-- 管理使用者環境和應用程式 
-- 管理和維護 Azure Virtual Desktop Infrastructure 
+- Plan an Azure Virtual Desktop architecture
+- Implement an Azure Virtual Desktop infrastructure
+- Manage access and security
+- Manage user environments and apps
+- Monitor and maintain an Azure Virtual Desktop infrastructure
 roles:
 - administrator
 type: specialty
@@ -59,26 +69,26 @@ exams:
 - uid: exam.az-140
 resources:
 - title: Azure 認證海報
-  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  description: 查看 Azure 的基本概念、角色型和專長認證等總覽。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 認證之旅
-  description: 探索獲得 Azure 虛擬桌面專業認證的步驟以及幫您做好準備的可用資源。
+- title: 認證旅程
+  description: 探索在 Azure 中取得虛擬桌面專長認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKHFH
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md

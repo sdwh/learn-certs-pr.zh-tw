@@ -1,21 +1,29 @@
 ### YamlMime:Examination
-title: Microsoft Azure IoT Developer
+title: Microsoft AzureIoT 開發人員
 metadata:
-  title: 'Exam AZ-220: Microsoft Azure IoT Developer'
-  description: 'Exam AZ-220: Microsoft Azure IoT Developer'
+  title: 測驗 AZ-220： Microsoft Azure IoT 開發人員
+  description: 測驗 AZ-220： Microsoft Azure IoT 開發人員
+  ms.openlocfilehash: 92d0e78131d0b400b5a07ea4c7e7bd116f611965
+  ms.sourcegitcommit: 8cad4571f4ed5db8e51cccdc1cf6355526195802
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/26/2021
+  ms.locfileid: "132104973"
 uid: exam.az-220
 displayName: AZ-220
-summary: |-
-  <div><div><font color='red'><strong>該考試內容已在2021年9月24日更新。請下載如下的技能測試檔以瞭解變更內容。</strong></font><br/><br/></div><div><font color='red'>請注意：通過分數：700。瞭解更多關於考試分數的內容，請點擊<a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">這裡</a>。</font><br/><br/></div></div>
-  
-  該考試報考者應擁有創建和維護 IoT 解決方案的 cloud 和 edge部分所要求的實施配置和程式設計任務的主題專業技能。
-  
-  該考試的報考者應具有對設備類型和 Azure services 的整體理解，包括資料存儲選項、資料分析、資料處理、AI 和其他平臺作為服務(PaaS)選項。他們必須能夠在至少一種 Azure IoT 軟體發展工具支持的（支援 SDK）語言中進行程式設計。
-subTitle: '本次考試可測試您建立 IoT 解決方案基礎設施的能力；提供和管理設備的能力；實施 IoT Edge 的能力；處理和管理資料的能力；監控、故障排除和優化 IoT 解決方案的能力；以及實施安全的能力。'
+summary: >-
+  <div><div><font color='red'><strong>本測驗的內容已于2021年9月24日更新。請下載下列技能測量檔，以查看變更了哪些內容。</strong></font><br/><br/></div><div><font color='red'>注意：傳遞分數：700。 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">在此</a>深入瞭解測驗分數。</font><br/><br/></div></div>
+
+
+  這項測驗的候選項目應該具有執行設定和編碼工作所需的主題專業知識，以建立和維護 IoT 解決方案的雲端和邊緣部分。
+
+
+  這項測驗的候選人應大致瞭解裝置類型和 Azure 服務，包括資料儲存體選項、資料分析、資料處理、AI 和其他平臺即服務 (PaaS) 選項。 他們必須能夠以至少一個 Azure IoT 軟體發展工具組（支援的 (SDK）進行程式設計，支援的) 語言。
+subTitle: 這場測驗會測量您設定 IoT 解決方案基礎結構的能力;布建和管理裝置;執行 IoT Edge;處理和管理資料;監視、疑難排解和優化 IoT 解決方案;並實行安全性。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-220&examname=Exam%20AZ-220:%20Microsoft%20Azure%20IoT%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-220
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-220&examname=Exam%20AZ-220:%20Microsoft%20Azure%20IoT%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-220
 locales:
 - en
 - ja
@@ -32,14 +40,14 @@ locales:
 levels:
 - intermediate
 skills:
-- 該考試內容已在2021年9月24日更新。請下載下面的考試技巧大綱，看看有何變化。
-- 建立 IoT 解決方案基礎設施 (10-15%)
-- 提供和管理設備 (15-20%)
-- 實施 IoT Edge (15-20%)
-- 實施業務整合 (5-10%)
-- 處理和管理數據（ 15-20％）
-- 監視，疑難排解和最佳化 IoT 解決方案 （15-20％）
-- 實作安全 (10-15%)
+- The content of this exam was updated on September 24, 2021. Please download the exam skills outline below to see what changed.
+- Set up the IoT solution infrastructure (10-15%)
+- Provision and manage devices (15-20%)
+- Implement IoT Edge (15-20%)
+- Implement business integration (5-10%)
+- Process and manage data (15-20%)
+- Monitor, troubleshoot, and optimize IoT solutions (15-20%)
+- Implement security (10-15%)
 roles:
 - developer
 products:
@@ -58,28 +66,27 @@ relatedCertifications:
 - related:
     uid: certification.azure-iot-developer-specialty
 resources:
-- title: 認證之旅
-  description: 探索 Azure IoT Developer Specialty 的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索取得 Azure IoT 開發人員專長認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md
-

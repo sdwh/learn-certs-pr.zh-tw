@@ -1,0 +1,61 @@
+### YamlMime:Certification
+title: Microsoft 365認證： Teams 支援工程師專業
+metadata:
+  title: Microsoft 365認證： Teams 支援工程師專業
+  description: 這項測驗的候選項目是支援 Microsoft Teams 環境、疑難排解部署、微調效能、收集和分析遙測和記錄資料，以及管理 Teams 環境的支援工程師。
+  ms.openlocfilehash: 77ba712219bb46434445d3a7d7fef45e6d4a29d2
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132105166"
+uid: certification.m365-teams-support-engineer-specialty
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: >-
+  這項認證的候選項目，是使用 advanced 疑難排解方法來支援 Microsoft Teams 環境、分析遙測和記錄資料、針對部署進行疑難排解，以及調整效能的支援工程師。 預期的候選項目是檢查記錄和其他資料、推斷問題的根本原因，並提供修正。
+
+
+  候選人對於疑難排解整合通訊解決方案有很大的經驗，以及針對 Microsoft Teams 進行疑難排解的實際操作專長。 此外，候選人應具備 Azure 基本概念、電話語音、PowerShell、資料儲存技術、Api、應用程式安全性、驗證和授權、安全性和合規性資訊、偵測、效能微調和監視的網路知識。
+subTitle: 這項認證的候選項目是支援 Microsoft Teams 環境、疑難排解部署、微調效能、收集和分析遙測和記錄資料，以及管理 Teams 環境的支援工程師。
+levels:
+- intermediate
+skills:
+- Troubleshoot Microsoft Teams voice issues
+- Troubleshoot issues with Microsoft Teams meetings and live events
+- Troubleshoot federation issues
+- Troubleshoot issues signing into Microsoft Teams
+- Troubleshoot teams and channels
+- Troubleshoot issues with files
+roles:
+- support-engineer
+type: specialty
+products:
+- office-teams
+- office-onedrive
+- office-365
+- ms-graph
+- azure-active-directory
+paths:
+- uid: learn.wwl.troubleshoot-microsoft-365-teams
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4O2rW
+exams:
+- uid: exam.ms-740
+resources:
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證海報
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
+  href: ../deals.md
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
+  href: ../help.md
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
+  href: ../badges.md

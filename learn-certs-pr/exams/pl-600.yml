@@ -1,28 +1,36 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Solution Architect'
+title: Microsoft Power Platform 解決方案架構設計人員
 metadata:
-  title: 'Exam PL-600: Microsoft Power Platform Solution Architect'
-  description: 'Exam PL-600: Microsoft Power Platform Solution Architect'
+  title: 測驗 PL-600： Microsoft Power Platform 解決方案架構設計人員
+  description: 測驗 PL-600： Microsoft Power Platform 解決方案架構設計人員
+  ms.openlocfilehash: 75896c3cf88efdb735a2fa10cb258faabf5bd615
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101439"
 uid: exam.pl-600
 displayName: PL-600
-summary: |-
-  Microsoft Power Platform 解決方案架構師領導成功的實施，並專注於解決方案如何滿足組織更廣泛的業務和技術需求。
-  
-  解決方案架構師擁有 Power Platform、Dynamics 365 客戶參與應用、相關 Microsoft cloud 解決方案和其他協力廠商技術的功能和技術知識。解決方案架構師在整個參與過程中應用知識和經驗。解決方案架構師執行主動和預防性工作，以增加客戶投資的價值並促進組織健康。該角色需要能夠識別解決業務問題的機會。
-  
-  解決方案架構師擁有 Power Platform 的功能和技術學科方面的經驗。解決方案架構師應該能夠促進跨開發、配置、集成、基礎設施、安全性、可用性、存儲和變更管理的設計決策。該角色平衡專案的業務需求，並同時滿足功能性和非功能性需求。
-subTitle: '本考試將衡量你完成以下技術任務的能力：執行解決方案設想和需求分析；設計解決方案；以及實施解決方案。'
+summary: >-
+  Microsoft Power Platform 解決方案架構設計人員會領導成功的執行，並將焦點放在解決方案如何滿足組織更廣泛的商務和技術需求。
+
+
+  解決方案架構師具有 Power Platform、Dynamics 365 customer engagement 應用程式、相關 Microsoft 雲端解決方案和其他協力廠商技術的功能和技術知識。 解決方案架構設計人員會在整個參與中套用知識和體驗。 解決方案架構師會執行主動式和預防性工作來提高客戶投資的價值，並提升組織的健康情況。 此角色需要能夠找出機會來解決商務問題。
+
+
+  解決方案架構設計人員在 Power Platform 的功能性和技術專業領域方面都有經驗。 解決方案架構設計人員應該能夠在開發、設定、整合、基礎結構、安全性、可用性、儲存體及變更管理方面，加速設計決策。 此角色會平衡專案的商務需求，同時滿足功能性和非功能性需求。
+subTitle: 這項測驗會測量您完成下列技術工作的能力：執行解決方案構想和需求分析;架構解決方案;並執行解決方案。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600
 locales:
 - en
 levels:
 - advanced
 skills:
-- 執行解決方案設想和需求分析(35-40%)
-- 設計解決方案(40-45%)
-- 實施解決方案(15-20%)
+- Perform solution envisioning and requirement analyses (35-40%)
+- Architect a solution (40-45%)
+- Implement the solution (15-20%)
 roles:
 - developer
 - functional-consultant
@@ -52,27 +60,27 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-solution-architect-expert
 resources:
-- title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並取得認證。
+- title: 認證學習路徑
+  description: 建議的訓練資源，以協助您準備進行必要的測驗並獲得您的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEGLH
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md

@@ -1,22 +1,34 @@
 ### YamlMime:Examination
-title: Designing an Azure Data Solution
+title: 設計 Azure 資料解決方案
 metadata:
-  title: 'Exam DP-201: Designing an Azure Data Solution'
-  description: 'Exam DP-201: Designing an Azure Data Solution'
+  title: 測驗 DP-201：設計 Azure 資料解決方案
+  description: 測驗 DP-201：設計 Azure 資料解決方案
+  ms.openlocfilehash: eed1e22d62b2cb498255548417e025788bf7d90f
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101543"
 uid: exam.dp-201
 displayName: DP-201
-summary: |-
+summary: >-
   <div>
-  <div><font color='red'><strong>該考試將在2021年8月31日撤銷。替代考試 DP-203 可用。要獲得更多資訊，請訪問 <a href='/learn/certifications/exams/dp-203'>DP-203</a>考試詳情頁面。</strong></font><br/><br/></div>
-  <div><strong>該測驗的內容更新于 2020 年 7月 31日.請下載下面的技能評估文件，以了解發生了什麼變化。</strong><br/><br/></div>
+
+  <div><font color='red'><strong>此測驗已于2021年8月31日淘汰。有替代測驗（DP-203）可供使用。如需詳細資訊，請造訪 <a href='/learn/certifications/exams/dp-203'>DP-203</a>、測驗詳細資料網頁。</strong></font><br/><br/></div>
+
+  <div><strong>本測驗的內容已于2020年7月31日更新。請下載下列技能測量檔，以查看變更了哪些內容。</strong><br/><br/></div>
+
   </div>
-  
-  此考試的應試者是Microsoft Azure資料工程師，他們與企業利害關係人合作，識別和滿足資料要求，設計使用Azure資料服務的資料解決方案。
-  
-  Azure資料工程師負責與資料相關的任務，包括設計使用關聯式和非關聯式資料儲存，批次和即時資料處理解決方案以及資料安全性和合規性解決方案的Azure資料儲存解決方案。
-  
-  參加此考試的考生必須設計使用以下Azure服務的數據解決方案&#58; Azure Cosmos DB，Azure Synapse Analytics，Azure Data Lake存儲，Azure Data Factory，Azure流分析，Azure Databricks和Azure Blob存儲。
-subTitle: '此測驗測量您完成以下技術任務的能力：設計 Azure 資料儲存解決方案；設計資料處理解決方案；以及為資料安全性和合規性進行設計。'
+
+
+  這項測驗的候選項目是與商務專案關係人共同作業的 Microsoft Azure 資料工程師，以找出並符合資料需求，以設計使用 Azure 資料服務的資料解決方案。
+
+
+  Azure 資料工程師會負責資料相關的設計工作，包括設計使用關聯式和非關聯式資料存放區的 Azure 資料儲存體解決方案、批次和即時資料處理解決方案，以及資料安全性與合規性解決方案。
+
+
+  這項測驗的候選人必須設計使用下列 Azure 服務的資料解決方案&#58; Azure Cosmos DB、Azure Synapse Analytics、Azure Data Lake Storage、Azure Data Factory、azure 串流分析、Azure Databricks 和 azure Blob 儲存體。
+subTitle: 這項測驗會測量您完成下列技術工作的能力：設計 Azure 資料儲存體解決方案;設計資料處理解決方案;以及設計資料安全性和合規性。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
 practiceTestUrl: https://www.mindhub.com/p/MU-DP-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -28,10 +40,10 @@ locales:
 levels:
 - intermediate
 skills:
-- 該測驗的內容更新于 2020 年 7月 31日.請下載下面概述的測驗技能，以了解已發生什麼變化。
-- 設計一個Azure資料儲存解決方案 (40-45%)
-- 設計資料處理解決方案 (25-30%)
-- 資料安全和遵從性設計 (25-30%)
+- The content of this exam was updated on July 31, 2020. Please download the exam skills outline below to see what changed.
+- Design Azure data storage solutions (40-45%)
+- Design data processing solutions (25-30%)
+- Design for data security and compliance (25-30%)
 retirementDate: 08/31/2021
 roles:
 - data-engineer
@@ -49,28 +61,27 @@ products:
 exams:
 - uid: exam.dp-200
 resources:
-- title: 認證之旅
-  description: 探索獲得 Azure Data Engineer Associate 資格的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索可作為 Azure 資料工程師取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md
-

@@ -1,30 +1,43 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure Fundamentals'
+title: Microsoft 認證： Azure 基礎
 metadata:
-  title: 'Microsoft Certified: Azure Fundamentals'
-  description: 'Azure 基礎知識驗證了雲端服務的基礎知識以及 Microsoft Azure 如何提供這些服務。'
+  title: Microsoft 認證： Azure 基礎
+  description: Azure 基礎概念會驗證雲端服務的基本知識，以及這些服務如何隨 Microsoft Azure 提供。
+  ms.openlocfilehash: cd7b88a6d6748dd39d05d86a591701f5aecd516f
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132105199"
 uid: certification.azure-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  <div><font color='red'><strong>該認證內容將在2021年10月25日更新。請在 <a href="/learn/certifications/exams/az-900">AZ-900 考試頁面</a>下載技能考核檔以瞭解將要變更的內容。</strong></font><br/><br/></div>
-  
-  Azure 基礎知識認證的應試者應具有雲端服務以及 Microsoft Azure 如何提供這些服務的基礎知識。該證書適用於剛開始使用基於雲的解決方案和服務或對 Azure 尚不熟悉的考生。
+summary: >-
+  <div><font color='red'><strong>此認證的內容已于2021年10月25日更新。請下載 <a href="/learn/certifications/exams/az-900">測驗 AZ-900 頁面</a> 上的技能測量檔，以查看變更了哪些內容。</strong></font><br/><br/></div>
 
-  Azure 基礎知識認證為證明了解雲概念、Azure 服務、Azure 工作負載、Azure 中的安全性和隱私以及 Azure 定價和支援提供了機會。考生應熟悉一般的技術概念，包括網路、存儲、計算、應用程式支援和開發方面的概念。
 
-  Azure 基礎知識可用於準備其他基於 Azure 角色或專業的認證，但這不是其中任何一項的先決條件。
-subTitle: Azure 基礎知識驗證了雲端服務的基礎知識以及 Microsoft Azure 如何提供這些服務。
+  Azure 基礎認證的候選項目應具備雲端服務的基本知識，以及這些服務如何隨 Microsoft Azure 提供。 這項認證適用于剛開始使用雲端式解決方案和服務，或不熟悉 Azure 的候選項目。
+
+
+  Azure 基礎認證是一個機會，可證明雲端概念、Azure 服務、Azure 工作負載、Azure 中的安全性和隱私權，以及 Azure 定價和支援的知識。 候選項目應熟悉一般技術概念，包括網路功能、儲存體、計算、應用程式支援和應用程式開發的概念。
+
+
+  Azure 基本概念可以用來準備其他以 Azure 角色為基礎或專業的憑證，但這並不是其中任何一項的先決條件。
+subTitle: Azure 基礎概念會驗證雲端服務的基本知識，以及這些服務如何隨 Microsoft Azure 提供。
 levels:
 - beginner
 skills:
-- 描述雲端概念
-- 描述核心 Azure 服務
-- 描述 Azure 的核心解決方案和管理工具
-- 描述一般安全和網路安全特性
-- 描述身份、治理、隱私和合規性特徵
-- 描述 Azure 成本管理和 Service Level Agreements
+- Describe cloud concepts
+- Describe core Azure services
+- Describe core solutions and management tools on Azure
+- Describe general security and network security features
+- Describe identity, governance, privacy, and compliance features
+- Describe Azure cost management and Service Level Agreements
 roles:
+- administrator
+- business-user
 - developer
+- student
+- technology-manager
 type: fundamentals
 products:
 - azure
@@ -43,27 +56,26 @@ exams:
 - uid: exam.az-900
 resources:
 - title: Azure 認證海報
-  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  description: 查看 Azure 的基本概念、角色型和專長認證等總覽。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 認證之旅
-  description: 探索 Azure Fundamentals 的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索在 Azure 基本概念中取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElB
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

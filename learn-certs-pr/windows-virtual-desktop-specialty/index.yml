@@ -1,27 +1,36 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Windows Virtual Desktop Specialty'
+title: Microsoft 認證： Windows 的虛擬桌面專業
 metadata:
-  title: 'Microsoft Certified: Windows Virtual Desktop Specialty'
-  description: Windows Virtual Desktop Specialty認證的考生是Microsoft Azure管理員，他們具備規劃、交付及管理Azure上任何設備的虛擬桌面體驗及遠端應用的專業技能。
+  title: Microsoft 認證： Windows 的虛擬桌面專業
+  description: Windows 虛擬桌面特殊認證的候選項目是 Microsoft Azure 系統管理員，在 Azure 上有針對任何裝置規劃、提供及管理虛擬桌面體驗和遠端應用程式的主題專業知識。
+  ms.openlocfilehash: 365dc3f76275e92d5e5c532b8e723de1d314d2b7
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104273"
 uid: certification.windows-virtual-desktop-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
-summary: |-
-  Windows Virtual Desktop Specialty認證的考生是Microsoft Azure管理員，他們具備規劃、交付及管理Azure上任何設備的虛擬桌面體驗及遠端應用的專業技能。
-  
-  該角色的職責包括在Azure上部署虛擬桌面體驗和應用程式。擔任該角色的專業人士在Windows Virtual Desktop上交付應用程式，並將其優化從而在多會話虛擬環境中運行。為了交付這些體驗，他們與Azure管理員和架構師以及Microsoft 365管理員密切合作。
-  
-  參加本次認證的考生應有Azure技術方面的經驗，這些技術包括虛擬化、聯網、身份、存儲、備份、彈性以及災難恢復。他們應瞭解本地虛擬桌面基礎設施技術，這是因為他們與遷移到Windows Virtual Desktop有關。這些專業人士使用Azure門戶和Azure Resource Manager (ARM)範本來完成其諸多工。他們可能使用PowerShell和Azure Command-Line Interface (CLI)以實現更加高效的自動化。
-  
-  參加本次認證的考生必須具備專家級Azure管理技能。
-subTitle: Windows Virtual Desktop Specialty認證的考生是Microsoft Azure管理員，他們具備規劃、交付及管理Azure上任何設備的虛擬桌面體驗及遠端應用的專業技能。
+summary: >-
+  Windows 虛擬桌面特殊認證的候選項目是 Microsoft Azure 系統管理員，在 Azure 上有針對任何裝置規劃、提供及管理虛擬桌面體驗和遠端應用程式的主題專業知識。
+
+
+  此角色的責任包括將虛擬桌面體驗和應用程式部署到 Azure。 此角色的專業人員會在 Windows 的虛擬桌面電腦上提供應用程式，並將其優化以在多會話虛擬環境中執行。 為了提供這些經驗，他們與 Azure 系統管理員和架構設計人員密切合作，以及 Microsoft 365 系統管理員。
+
+
+  此認證的候選項目應具備 Azure 技術的經驗，包括虛擬化、網路、身分識別、儲存體、備份、復原能力和嚴重損壞修復。 他們應該瞭解內部部署虛擬桌面基礎結構技術，因為它們與遷移至 Windows 的虛擬桌面有關。 這些專業人員使用 Azure 入口網站，並 Azure Resource Manager (ARM) 範本來完成許多工。 它們可能會使用 PowerShell 和 Azure Command-Line 介面 (CLI) 以提供更有效率的自動化。
+
+
+  這項認證的候選人必須有專家的 Azure 系統管理技能。
+subTitle: Windows 虛擬桌面特殊認證的候選項目是 Microsoft Azure 系統管理員，在 Azure 上有針對任何裝置規劃、提供及管理虛擬桌面體驗和遠端應用程式的主題專業知識。
 levels:
 - intermediate
 skills:
-- 規劃Windows Virtual Desktop架構
-- 實施Windows Virtual Desktop基礎架構
-- 管理訪問和安全
-- 管理使用者環境和應用程式
-- 監控和維護Windows Virtual Desktop基礎架構
+- Plan a Windows Virtual Desktop architecture
+- Implement a Windows Virtual Desktop infrastructure
+- Manage access and security
+- Manage user environments and apps
+- Monitor and maintain a Windows Virtual Desktop infrastructure
 roles:
 - administrator
 type: specialty
@@ -55,23 +64,23 @@ exams:
 - uid: exam.az-140
 resources:
 - title: Azure 認證海報
-  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  description: 查看 Azure 的基本概念、角色型和專長認證等總覽。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md

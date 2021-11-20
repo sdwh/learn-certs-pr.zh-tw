@@ -1,7 +1,7 @@
 ---
-title: 更新您的Microsoft認證 | Microsoft Docs
-description: 更新您的Microsoft認證 
-documentationcenter: NA 
+title: 續訂您的 Microsoft 認證 |Microsoft Docs
+description: 續訂您的 Microsoft 認證
+documentationcenter: NA
 author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -9,89 +9,95 @@ ms.workload: NA
 ms.date: 12/15/2020
 ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: f433460936531892aaa7f43073c097a5b23712bf
+ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 09/14/2021
+ms.locfileid: "132101330"
 ---
-# 更新您的Microsoft認證
+# <a name="renew-your-microsoft-certification"></a>續訂您的 Microsoft 認證
 
-Microsoft Certifications 驗證您擁有成功執行當代數位商業工作崗位所必需的相關技能和知識。認證可以創造職業機會並證明您能夠支援您組織的數位轉型的能力。假設 cloud 技術以特定速度發展，保持您的技能和認證的活躍是非常重要的。
+Microsoft 認證可驗證您是否有相關的技能和知識，可讓您在新式數位企業中順利執行工作角色。 認證可以開立事業商機，並示範您支援組織數位轉型的能力。 由於雲端技術的發展速度，請務必讓您的技能保持在最新狀態，並讓您的認證保持在作用中。
 
-在2020年12月15日，Microsoft [引入了新的嘗試](https://aka.ms/CertRenewalBlog) 幫助學習者與時俱進。已有活躍認證且在未來6個月內將要過期的人，可以每年更新他們的認證 — 無任何費用 - 即通過 Microsoft Learn 上的更新評估。
+在2020年12月15日，Microsoft [引進了新的方法](https://aka.ms/CertRenewalBlog) 來協助學習人員保持最新。 在六個月內到期的有效認證的使用者，每年可以更新其認證，而不需要支付 Microsoft Learn 的續約評量。
 
-## 更新認證的好處
+## <a name="benefits-of-renewing-your-certification"></a>更新認證的優點
 
-- 以持續學習的心態維護您的Microsoft認證，並免費保持技能最新狀態。
-- 透過影響工作職責的最新技術更新來驗證您的技能。
-- 無需支付費用或通過任何考試即可更新您的認證。
+- 透過持續學習的思維來維護您的 Microsoft 認證，讓您的技能維持最新的成本。
+- 使用影響工作角色的最新技術更新來驗證您的技能。
+- 更新您的認證，而不需要支付及通過任何測驗 (的) 。
 
-## 認證更新要求
+## <a name="certification-renewal-requirements"></a>認證續約需求
 
-- 如果您持有有效的 Microsoft角色型或專業認證，並且該認證在大約六個月內到期，則可對其更新。
-- 要更新您的認證，請在其到期*前*於Microsoft Learn上通過相關評估。
-- 通過 Microsoft Learn 上的更新評估是更新認證的唯一方法。您不能通過某項考試來更新您的認證，即使它是您最初通過而獲得認證的最新或更新的考試版本。如，如果您參加 AZ-103 獲得了您的 Microsoft Azure Administrator 認證，您不能參加和通過新的 AZ-104 考試來更新您的認證。您必須通過 Microsoft Learn 上的更新評估來更新您的認證。該政策沒有例外。
+- 如果您持有在大約六個月內到期的有效 Microsoft 角色型或特殊認證，您可以續訂。
+- 若要更新您的認證，請在您的憑證到期 _之前_ ，在 Microsoft Learn 上傳遞相關評量。
+- 在 Microsoft Learn 上傳遞更新評量是更新認證的唯一方法。 您無法藉由通過測驗來更新您的認證，即使它是您最初通過以獲得認證的新考試或更新版本。 例如，如果您採用 AZ-103 來獲得您的 Microsoft Azure 系統管理員認證，您就無法取得並通過新的測驗 AZ-104 以更新您的認證。 您必須通過 Microsoft Learn 的續約評估，才能更新您的認證。 這項原則不會有任何例外狀況。
 
-## 如何更新您的認證
+## <a name="how-to-renew-your-certification"></a>如何更新您的認證
 
-- 要確定哪些認證可供更新，請瀏覽[認證儀表板。](https://aka.ms/CertDashboard)
-- 確保您的認證資料已連接到Microsoft Learn的檔案資料文件。
-- 在有資格更新時，您將收到一封電子郵件通知，指導您進行評估，該評估將在Microsoft Learn上進行。
-- 通過線上評估後，您的認證將從當前有效日期起再延長一年。
-- 為幫助您準備評估，請使用一系列免費的自訂進度的學習模組來提高您的技能。探索與認證更新頁面相關的可用模組。
+- 若要識別哪些認證可供您續約，請造訪您的 [認證儀表板。](https://aka.ms/CertDashboard)
+- 確定您的憑證設定檔已連線到 Microsoft Learn 上的檔設定檔。
+- 一旦您有資格續約，您將會收到一封電子郵件通知，將您導向可在 Microsoft Learn 上取得的評定。
+- 當您通過線上評量時，您的認證將會從目前的到期日延長一年。
+- 為了協助進行評量，您可以使用一系列免費的自自學學習課程模組來提升您的技能。 探索憑證續約頁面上相關的可用模組。
 
-## 常見問題集
+## <a name="frequently-asked-questions"></a>常見問題集
 
-有關更多資訊，請查看有關更新Microsoft認證的常見問題集。
+如需詳細資訊，請參閱關於更新 Microsoft 認證的常見問題。
 
-1. **我可以在收到有資格這樣做的通知之前更新認證嗎？**
+1. **我可以在收到我有資格這麼做的通知之前，先續訂我的認證嗎？**
 
-    不可以，只有在您符合資格後才能在Microsoft Learn進行更新評估 - 認證到期之前大約六個月。您將收到來自Microsoft的通知電子郵件，在您可以進行更新評估時提醒您。
+    否，Microsoft Learn 的續約評量只有在您合格之後才可供使用，您的認證到期前大約需要六個月。 您會收到來自 Microsoft 的通知電子郵件，當有可用的續約評估時，就會向您發出警示。
 
-2. **我必須將認證資料連接到Microsoft Learn上的檔案資料文件嗎？**
+2. **我是否需要將我的認證設定檔連接到 Microsoft Learn 上的檔設定檔？**
 
-    是的，透過連接認證資料，您可以在資格視窗內透過Microsoft Learn進行更新評估。您還將獲得更加個性化的體驗。
+    是，連接您的憑證設定檔可讓您在符合資格的時間範圍內 Microsoft Learn 進行更新評估。 您也會有更個人化的體驗。
 
-    作為續期流程的一部分，您將被要求在 Microsoft Learn 上為您的認證設定檔和 Doc 設定檔使用相同的個人 Microsoft 帳戶憑據。請注意，只有一個認證設定檔可以連接到一個 Docs 設定檔。如果您有多個認證設定檔，請 [聯繫我們的認證支持團隊](https://aka.ms/mcpforum)，從而在連接到您的 Docs 設定檔之前，合併您的 Microsoft Certification 設定檔。
+    在續約程式中，您必須在 Microsoft Learn 上針對您的憑證設定檔和 Doc 設定檔使用相同的個人 Microsoft 帳戶認證。 請注意，只有一個憑證設定檔可以連接到一個檔設定檔。 如果您有多個憑證設定檔，請在連接到您的檔設定檔之前，先 [洽詢我們的認證支援小組](https://aka.ms/mcpforum) 以合併您的 Microsoft 認證設定檔。
 
-3. **我的Microsoft認證資料和Microsoft Learn上的檔案資料有什麼區別？**
+3. **我的 Microsoft 認證設定檔與 Microsoft Learn 上的檔設定檔有何差異？**
 
-    您的Microsoft認證資料保留了您在Microsoft的認證歷史記錄，您可以使用個人Microsoft帳戶存取。如果您已註冊參加Microsoft認證考試或存取了認證儀表板，則您將擁有Microsoft認證資料。
+    您的 Microsoft 認證設定檔會保存您與 Microsoft 之間的認證歷程記錄，並以個人 Microsoft 帳戶存取。 如果您已註冊 Microsoft 認證測驗或存取認證儀表板，則會有 Microsoft 認證設定檔。
 
-    您在Microsoft Learn的檔案資料包括Microsoft Learn、檔案、問答和代碼 樣本中的活動歷史記錄。您可以使用個人Microsoft帳戶或工作或學校帳戶。
+    您在 Microsoft Learn 上的檔設定檔包含 Microsoft Learn、檔、Q&A 和程式碼範例之間的活動歷程記錄。 您可以使用個人 Microsoft 帳戶或公司或學校帳戶來存取它。
 
-4. **我在 Learn 上有一個 Microsoft Certification 設定檔和一個 Docs 設定檔，每個檔都與不同的個人帳戶相關聯。我如何連接這兩個設定檔？**
+4. **我在學習時有 Microsoft 認證設定檔和檔設定檔，每個都與不同的個人帳戶相關聯。如何? 連接這兩個設定檔？**
 
-    在您可以連接使用不同個人帳戶的 Microsoft Certification 設定檔和 Docs on Learn 設定檔之前，您需要為兩者選擇一個單獨的個人帳戶。要查看連接這些帳戶的選項，請參閱文檔 “[Aligning accounts between Certification Profile and Learn Profile](/learn/certifications/aligning-accounts-between-certification-profile-and-learn-profile)”.
+    在您可以將 Microsoft 認證設定檔和檔連接到每個使用不同個人帳戶的學習設定檔之前，您必須選擇要用於這兩者的單一個人帳戶。 若要檢查連接這些帳戶的選項，請參閱檔「在[認證設定檔與學習設定檔之間調整帳戶](/learn/certifications/aligning-accounts-between-certification-profile-and-learn-profile)」。
 
-5. **我的認證已過期。現在該做什麼？**
+5. **我的認證已過期。現在會發生什麼事？**
 
-    如果您的認證已過期，則您必須通過要求的考試再次獲得認證。要獲得更多資訊， 請訪問：[認證過期政策。](/learn/certifications/certification-expiration-policy)
+    如果您的憑證過期，您必須將必要的測驗 () ，再次獲得認證。 如需詳細資訊，請造訪： [認證到期原則。](/learn/certifications/certification-expiration-policy)
 
-6. **我可以在認證過期之前通過Beta考試或重新考試來更新認證嗎？**
+6. **我可以藉由通過 Beta 測驗或在認證到期前 retaking 測驗來續訂我的認證嗎？**
 
-    不。要更新您的認證，您需要在您的認證過期前通過更新評估。該政策沒有例外。
+    不會。 若要更新您的認證，您必須在憑證到期之前通過續約評估。 這項原則不會有任何例外狀況。
 
-7. **所有Microsoft認證都可以選擇更新嗎？**
+7. **所有 Microsoft 認證都可以選擇續訂嗎？**
 
-    取得六個月以上的Microsoft 角色型和專業認證將具備更新選項。
+    使用超過六個月的 Microsoft 角色型和專長認證，將會有續約選項。
 
-8. **我需要更新我的Microsoft基礎認證嗎？**
+8. **我是否需要續訂我的 Microsoft 基礎認證？**
 
-    不用。認證更新過程不適用於基礎認證，因為它們不會過期。
+    不會。 憑證續約程式不適用於基礎認證，因為它們不會過期。
 
-9. **更新評估是否與一般考試更新節奏一致？**
+9. **續約評量是否與一般測驗更新步調一致？**
 
-    是的，評估更新與認證測驗的更新保持一致。
+    是，評量的更新會與認證測驗更新一致。
 
-9. **評估提供哪些語言？**
+10. **有哪些語言可用於評量？**
 
-    Microsoft Learn的更新評估將以與其相應的認證考試相同的語言提供。
+    Microsoft Learn 的續約評量將以與其對應的認證測驗相同的語言 () 提供。
 
-10. **我可以重新參加幾次評估？**
+11. **我可以重新參加評量多少次？**
 
-    您可以根據需要多次參加以通過評估，並且必須在認證過期之前通過評估。如果您第一次沒有通過，可以立即再次嘗試。但是，在第二次嘗試之後，您必須等待至少24小時，然後再進行另一次嘗試。
+    您可以在需要時多次重做評定，而您必須在認證到期之前傳遞。 如果您第一次未通過，您可能會立即重新嘗試評量。 不過，在第二次嘗試之後，您必須等候至少24小時，再進行任何額外的嘗試。
 
-11. **如果我更新了我的專家等級 角色型的認證，並且其中包括助理級的先決條件認證，我的助理級認證還會自動更新嗎？**
+12. **如果我更新專家層級的角色型認證，而且其中包含了關聯層級的先決條件憑證，我的關聯層級認證也會自動續約嗎？**
 
-    不可以。每個認證必須通過相關評估，才能分別進行更新。
+    不會。 每個認證都必須藉由傳遞相關聯的評定來個別更新。
 
-12. **我的專家級別的認證要求先取得助理等及的認證。如果助理級別的認證過期，我的專家等級認證也會自動過期嗎？**
+13. **我的專業等級認證需要將關聯層級的認證作為必要條件。如果關聯層級憑證過期，我的專家等級是否也會自動過期？**
 
-    不會，如果您的助理等級先決條件認證過期，您的專家等級證書也不會自動過期。必須通過相關評估，分別更新每個認證。
+    否，如果您的關聯層級的必要條件憑證過期，您的專業等級憑證將不會自動到期。 每個認證都必須藉由傳遞相關聯的評定來個別更新。

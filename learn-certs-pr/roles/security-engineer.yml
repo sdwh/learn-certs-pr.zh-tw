@@ -1,54 +1,60 @@
-### YamlMime:Role 
-title: 安全工程師
-metadata: 
-  title: 安全工程師 
-  description: 安全工程師實作安全控制和威脅防護、管理身分識別和存取、並保護資料、應用程式和網路。
-uid: role.security-engineer 
-summary: | 
-  安全工程師實作安全控制和威脅防護、管理身分識別和存取、並保護資料、應用程式和網路。
-subTitle: 安全工程師實作安全控制和威脅防護、管理身分識別和存取、並保護資料、應用程式和網路。
-certificationPaths: 
-- title: Azure Security Engineer
+### YamlMime:Role
+title: 安全性工程師
+metadata:
+  title: 安全性工程師
+  description: 安全性工程師會實行安全性控制和威脅防護、管理身分識別和存取，以及保護資料、應用程式和網路。
+  ms.openlocfilehash: 820c370a8568d5b058439c695fbd4a33841ceaa9
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104819"
+uid: role.security-engineer
+summary: >
+  安全性工程師會實行安全性控制和威脅防護、管理身分識別和存取，以及保護資料、應用程式和網路。
+subTitle: 安全性工程師會實行安全性控制和威脅防護、管理身分識別和存取，以及保護資料、應用程式和網路。
+certificationPaths:
+- title: Azure 安全性工程師
   linkedInKeywords: Azure Security Engineer
-  uid: certification-path.azure-security-engineer 
-  prerequisites: 
+  uid: certification-path.azure-security-engineer
+  prerequisites:
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-security-engineer
     levels:
     - intermediate
-- title: Identity and Access Administrator
+- title: 身分識別和存取系統管理員
   linkedInKeywords: Identity and Access Administrator
   uid: certification-path.identity-and-access-administrator
-  prerequisites: 
+  prerequisites:
   - uid: certification.security-compliance-and-identity-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.identity-and-access-administrator
     levels:
     - intermediate
-- title: Information Protection Administrator
+- title: 資訊保護管理員
   linkedInKeywords: Information Protection Administrator
   uid: certification-path.information-protection-administrator
-  prerequisites: 
+  prerequisites:
   - uid: certification.security-compliance-and-identity-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.information-protection-administrator
     levels:
     - intermediate
-- title: Security Operations Analyst
+- title: 安全性作業分析師
   linkedInKeywords: Security Operations Analyst
   uid: certification-path.security-operations-analyst
-  prerequisites: 
+  prerequisites:
   - uid: certification.security-compliance-and-identity-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.security-operations-analyst
     levels:
     - intermediate
@@ -66,12 +72,12 @@ certifications:
   requiredExams:
   - uid: exam.sc-400
 resources:
-- title: Microsoft 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
+- title: Microsoft 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 訓練和認證海報
-  description: 透過此訓練和認證海報選取您的成功路徑。
+  description: 使用這個訓練和認證海報，選擇成功的途徑。
   href: https://aka.ms/traincertposter
-- title: 支持認證
+- title: 認證的支援
   href: ../help.md
-  description: 通過Microsoft認證支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。

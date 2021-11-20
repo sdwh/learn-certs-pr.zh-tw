@@ -1,50 +1,59 @@
 ### YamlMime:Examination
-title: Microsoft 365 Teamwork Administrator Certification Transition
+title: Microsoft 365團隊合作系統管理員認證轉換
 metadata:
-  title: '測驗 MS-302：Microsoft 365 Teamwork Administrator Certification Transition'
-  description: '測驗 MS-302：Microsoft 365 Teamwork Administrator Certification Transition'
+  title: 測驗 MS-302： Microsoft 365 團隊合作系統管理員認證轉換
+  description: 測驗 MS-302： Microsoft 365 團隊合作系統管理員認證轉換
+  ms.openlocfilehash: d6f1fc0a3cfd75f239778c41909c5ddc1cfc0c12
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101455"
 uid: exam.ms-302
 displayName: MS-302
-summary: "<div style='color&#58; red; font-weight&#58; bold;'>該測驗已於 2019年9月30日到期。測驗將在中部標準時間晚間11點59分到期\n<br/>   \n該測驗僅適用於已參加 [測驗 70-339&#58;](https://www.microsoft.com/learning/exam-70-339.aspx) Managing Microsoft SharePoint Server 2016. 的應試者。若您沒有參加測驗 339，那麼您將無法透過此測驗獲得認證。\n\n此測驗的應試者是團隊管理員，他們負責設定、部署與管理專注於高效率，有效的共同作業與採用的 Office 365 與 Azure 工作負載。團隊工作管理員可管理應用程式，服務與支援基礎架構，以滿足業務需求。Teamwork 管理員必須能夠部署，管理，轉移與保護 SharePoint（線上，本地與混合），OneDrive 與團隊。\n\n團隊工作管理員參與有關治理的決策，並與其他管理員合作實施治理機構做出的許多決策。團隊工作管理員與 Messaging Administrator 共同作業設定與電子郵件任務相關的選項與安全性，語音管理員在組織中整合語音功能，以及安全管理員以確保端到端的安全性。\n\n測驗的應試者使用以下應用程式與服務對整合點有基本的了解：Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner, 與 Project。管理員了解如何整合協力廠商應用程式與服務，包括商務營運應用程式。應試者還瞭解 SQL Server 管理概念、Azure Active Directory、PowerShell、網路、Windows 伺服器管理、網域名稱系統（DNS）、Active Directory 行動裝置管理與替代作業系統。"
-subTitle: 此項測驗僅適用於已參加 測驗 70-339 的應試者：Managing Microsoft SharePoint Server 2016。若您沒有參加測驗 339，那麼您將無法透過此測驗獲得認證。
+summary: "<div>\n<div><strong>此測驗已于2019年9月30日淘汰。注意&#58; 測驗于 11:59 PM 中部標準時間淘汰</strong><br/><br/></div>\n</div>\n    \n本測驗僅適用于已在 Microsoft SharePoint Server 2016&#58; 管理[測驗 70-339](https://www.microsoft.com/learning/exam-70-339.aspx)的候選人。 如果您尚未參加測驗339，您將不會獲得這項測驗來取得認證。\n\n這項測驗的候選項目是負責設定、部署和管理 Office 365 和 Azure 工作負載的小組合作系統管理員，其著重于有效率且有效的共同作業和採用。 團隊合作的系統管理員可以管理應用程式、服務和支援的基礎結構，以符合商務需求。 團隊合作的系統管理員必須能夠部署、管理、遷移和保護 SharePoint (online、內部部署和混合式) 、OneDrive 和 Teams。\n\n團隊合作的系統管理員牽涉到關於治理的決策，並與其他系統管理員合作，以實行治理主體所做的許多決策。 小組合作系統管理員會與訊息管理員共同作業，以設定與電子郵件工作相關的選項和安全性、使用語音系統管理員來整合組織中的語音功能，以及使用安全性系統管理員來確保端對端安全性。\n\n這項測驗的候選項目對整合點具有下列應用程式和服務的基本瞭解&#58; Office、PowerApps、Flow、Yammer、Microsoft Graph、串流、Planner 和 Project。 系統管理員瞭解如何整合協力廠商應用程式和服務，包括企業營運應用程式。 候選人也瞭解 SQL Server 管理概念、Azure Active Directory、PowerShell、網路、Windows 伺服器管理、網域名稱系統 (DNS) 、Active Directory 行動裝置管理，以及替代的作業系統。"
+subTitle: 本測驗僅適用于已測驗70-339 的候選人：管理 Microsoft SharePoint Server 2016。 如果您尚未參加測驗339，您將不會獲得這項測驗來取得認證。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC7x
+scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/
-retirementDate: 09/30/2019
 levels:
 - intermediate
 skills:
-- 設定與管理 SharePoint Online(20-25%)
-- 設定與管理 OneDrive for Business(25-30%)
-- 設定與管理團隊 (20-25%)
-- 設定及管理工作負載整合 (15-20%)
-- 設定及管理混合式情境 (5-10%)
-- 移轉到 SharePoint Online(5-10%)
+- Configure and manage SharePoint Online (20-25%)
+- Configure and manage OneDrive for Business (20-25%)
+- Configure and manage Teams (20-25%)
+- Configure and manage workload integrations (15-20%)
+- Configure and manage hybrid scenarios (5-10%)
+- Migrate to SharePoint Online (5-10%)
+retirementDate: 09/30/2019
 roles:
 - administrator
+products:
+- m365
 exams:
 - uid: exam.ms-300
 - uid: exam.ms-301
-products:
-- m365
 relatedCertifications:
 - related:
     uid: certification.m365-teamwork-administrator
 resources:
-- title: 訓練和認證指南
-  description: 透過-份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 支持認證考試
-  description: 透過Microsoft認證支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證海報
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
-  description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
+- title: 要求住宿
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗規則和常見問題解答
-  description: 檢閱測驗規定和常見問題解答。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md

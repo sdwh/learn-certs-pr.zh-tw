@@ -1,17 +1,23 @@
-﻿### YamlMime:Role 
-title: Functional Consultant [功能顧問] 
-metadata: 
-  title: Functional Consultant [功能顧問] 
-  description: 功能顧問利用Microsoft Dynamics 365和Microsoft Power Platform來預測和計劃客戶需求。 
-uid: role.functional-consultant 
-summary: | 
-  功能顧問利用Microsoft Dynamics 365和Microsoft Power Platform來預測和計劃客戶需求。
-subTitle: 功能顧問利用Microsoft Dynamics 365和Microsoft Power Platform來預測和計劃客戶需求。
-certificationPaths: 
-- title: Dynamics 365 Customer Service Functional Consultant
+### YamlMime:Role
+title: 功能顧問
+metadata:
+  title: 功能顧問
+  description: 功能顧問會利用 Microsoft Dynamics 365 和 Microsoft Power Platform 來預測和規劃客戶的需求。
+  ms.openlocfilehash: f227110263bb37e4001b7e625e7f2434f8f89994
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104644"
+uid: role.functional-consultant
+summary: >
+  功能顧問會利用 Microsoft Dynamics 365 和 Microsoft Power Platform 來預測和規劃客戶的需求。
+subTitle: 功能顧問會利用 Microsoft Dynamics 365 和 Microsoft Power Platform 來預測和規劃客戶的需求。
+certificationPaths:
+- title: Dynamics 365 Customer Service 功能顧問
   linkedInKeywords: Dynamics 365 Customer Service Functional Consultant
-  uid: certification-path.d365-functional-consultant-customer-service 
-  prerequisites: 
+  uid: certification-path.d365-functional-consultant-customer-service
+  prerequisites:
   - uid: certification.d365-fundamentals-customer-engagement-apps-crm
     isOptional: true
     levels:
@@ -19,23 +25,21 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-customer-service
     levels:
     - intermediate
-    
-- title: Dynamics 365 Field Service Functional Consultant
+- title: Dynamics 365 Field Service 功能顧問
   linkedInKeywords: Dynamics 365 Field Service Functional Consultant
-  uid: certification-path.d365-functional-consultant-field-service 
-  prerequisites: 
+  uid: certification-path.d365-functional-consultant-field-service
+  prerequisites:
   - uid: certification.d365-fundamentals-customer-engagement-apps-crm
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.d365-functional-consultant-field-service
     levels:
     - intermediate
-
-- title: Dynamics 365 Finance Functional Consultant
+- title: Dynamics 365 財務功能顧問
   linkedInKeywords: Dynamics 365 Finance Functional Consultant
-  uid: certification-path.d365-functional-consultant-financials 
-  prerequisites: 
+  uid: certification-path.d365-functional-consultant-financials
+  prerequisites:
   - uid: certification.d365-fundamentals-finance-and-operations-apps-erp
     isOptional: true
     levels:
@@ -43,12 +47,10 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-financials
     levels:
     - intermediate
-
-
-- title: Dynamics 365 Manufacturing Functional Consultant
+- title: Dynamics 365 製造功能顧問
   linkedInKeywords: Dynamics 365 Manufacturing Functional Consultant
   uid: certification-path.d365-functional-consultant-manufacturing
-  prerequisites: 
+  prerequisites:
   - uid: certification.d365-fundamentals-finance-and-operations-apps-erp
     isOptional: true
     levels:
@@ -56,35 +58,32 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-manufacturing
     levels:
     - intermediate
-
-- title: Dynamics 365 Marketing Functional Consultant
+- title: Dynamics 365 行銷功能顧問
   linkedInKeywords: Dynamics 365 Marketing Functional Consultant
-  uid: certification-path.d365-functional-consultant-marketing 
-  prerequisites: 
+  uid: certification-path.d365-functional-consultant-marketing
+  prerequisites:
   - uid: certification.d365-fundamentals-customer-engagement-apps-crm
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.d365-functional-consultant-marketing
     levels:
     - intermediate
-
-- title: Dynamics 365 Sales Functional Consultant
+- title: Dynamics 365 銷售功能顧問
   linkedInKeywords: Dynamics 365 Sales Functional Consultant
-  uid: certification-path.d365-functional-consultant-sales 
-  prerequisites: 
+  uid: certification-path.d365-functional-consultant-sales
+  prerequisites:
   - uid: certification.d365-fundamentals-customer-engagement-apps-crm
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.d365-functional-consultant-sales
     levels:
     - intermediate
-
-- title: Dynamics 365 Supply Chain Management Functional Consultant
+- title: Dynamics 365 供應鏈管理功能顧問
   linkedInKeywords: Dynamics 365 Supply Chain Management Functional Consultant
   uid: certification-path.d365-functional-consultant-supply-chain-management
-  prerequisites: 
+  prerequisites:
   - uid: certification.d365-fundamentals-finance-and-operations-apps-erp
     isOptional: true
     levels:
@@ -92,11 +91,10 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-supply-chain-management
     levels:
     - intermediate
-
-- title: Power Platform Functional Consultant
+- title: Power Platform 的功能顧問
   linkedInKeywords: Power Platform Functional Consultant
   uid: certification-path.power-platform-functional-consultant-associate
-  prerequisites: 
+  prerequisites:
   - uid: certification.d365-fundamentals-finance-and-operations-apps-erp
     isOptional: true
     levels:
@@ -104,15 +102,14 @@ certificationPaths:
   - uid: certification.d365-fundamentals-customer-engagement-apps-crm
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.power-platform-functional-consultant-associate
     levels:
     - intermediate
-
-- title: Dynamics 365 Business Central Functional Consultant
+- title: Dynamics 365 Business Central 功能顧問
   linkedInKeywords: Dynamics 365 Business Central Functional Consultant
   uid: certification-path.d365-business-central-functional-consultant-associate
-  prerequisites: 
+  prerequisites:
   - uid: certification.d365-fundamentals-finance-and-operations-apps-erp
     isOptional: true
     levels:
@@ -120,59 +117,52 @@ certificationPaths:
   - uid: certification.d365-fundamentals-customer-engagement-apps-crm
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.d365-business-central-functional-consultant-associate
     levels:
     - intermediate
-
 certifications:
 - uid: certification.d365-functional-consultant-customer-service
   requiredExams:
   - uid: exam.pl-200
-  - uid: exam.mb-230  
-
+  - uid: exam.mb-230
 - uid: certification.d365-functional-consultant-field-service
   requiredExams:
   - uid: exam.pl-200
   - uid: exam.mb-240
-
 - uid: certification.d365-functional-consultant-financials
   requiredExams:
   - uid: exam.mb-300
-  - uid: exam.mb-310  
-
+  - uid: exam.mb-310
 - uid: certification.d365-functional-consultant-manufacturing
   requiredExams:
   - uid: exam.mb-300
-  - uid: exam.mb-320  
-
+  - uid: exam.mb-320
 - uid: certification.d365-functional-consultant-marketing
   requiredExams:
   - uid: exam.pl-200
-  - uid: exam.mb-220  
-
+  - uid: exam.mb-220
 - uid: certification.d365-functional-consultant-sales
   requiredExams:
   - uid: exam.pl-200
-  - uid: exam.mb-210  
-
+  - uid: exam.mb-210
 - uid: certification.d365-functional-consultant-supply-chain-management
   requiredExams:
   - uid: exam.mb-300
-  - uid: exam.mb-330  
+  - uid: exam.mb-330
 - uid: certification.power-platform-functional-consultant-associate
   requiredExams:
-  - uid: exam.pl-200  
+  - uid: exam.pl-200
 - uid: certification.d365-business-central-functional-consultant-associate
   requiredExams:
   - uid: exam.mb-800
 resources:
-- title: Microsoft 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: Microsoft 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 訓練和認證海報
-  description: 透過此訓練和認證海報選取您的成功路徑。
+  description: 使用這個訓練和認證海報，選擇成功的途徑。
   href: https://aka.ms/traincertposter
-- title: 支援認證
+- title: 認證的支援
   href: ../help.md
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。

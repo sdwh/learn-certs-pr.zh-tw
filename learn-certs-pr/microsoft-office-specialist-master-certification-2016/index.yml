@@ -1,40 +1,48 @@
 ### YamlMime:Certification
-title: 'Microsoft Office Specialist 2016 Master'
+title: Microsoft Office專家2016主機
 metadata:
-  title: 'Microsoft Office Specialist 2016 Master'
-  description: 'Microsoft Office Specialist 2016 Master'
+  title: Microsoft Office專家2016主機
+  description: Microsoft Office專家2016主機
+  ms.openlocfilehash: 83bbb8ef788bc39a380d80a6e1d7e301e07ffda4
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104333"
 uid: certification.microsoft-office-specialist-master-certification-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  該認證展現您取得 Microsoft Office Specialist Master 認證，具備嫻熟使用 Office 程式所需之程度最高深技能。
+summary: >-
+  此認證示範您有最深的技能，可透過獲得 Microsoft Office 的專家主要認證來 proficiently 使用 Office 程式。
 
-  要取得 Microsoft Office Specialist Master 認證，請完成以下要求&#58;
 
-  - 通過三門必要測驗&#58;
-    - [77-726&#58; Word 2016 Expert&#58; Creating Documents for Effective Communication](/learn/certifications/exams/77-726)
-    - [77-728&#58; Excel 2016 Expert&#58; Interpreting Data for Insights](/learn/certifications/exams/77-728)
-    - [77-729&#58; PowerPoint 2016&#58; Core Presentation Design and Delivery Skills](/learn/certifications/exams/77-729)
-  - Pass one of the elective exams&#58;
-    - [77-730&#58; Access 2016&#58; Core Database Management, Manipulation, and Query Skills](/learn/certifications/exams/77-730)
-    - [77-731&#58; Outlook 2016&#58; Core Communication, Collaboration, and Email Skills](/learn/certifications/exams/77-731)
-subTitle: 該認證展現您取得 Microsoft Office Specialist Master 認證，具備嫻熟使用 Office 程式所需之程度最高深技能。
+  若要獲得 Microsoft Office 的專家2016主要認證，請完成下列需求&#58;
+
+
+  - 將三個必要的測驗都傳遞&#58;
+    - [77-726&#58; Word 2016 專家&#58; 建立有效通訊的檔](/learn/certifications/exams/77-726)
+    - [77-728&#58; Excel 2016 專家&#58; 解讀 Insights 的資料](/learn/certifications/exams/77-728)
+    - [77-729&#58; PowerPoint 2016&#58; 核心簡報設計和傳遞技巧](/learn/certifications/exams/77-729)
+  - 傳遞其中一個選用測驗&#58;
+    - [77-730&#58; Access 2016&#58; 核心資料庫管理、操作和查詢技巧](/learn/certifications/exams/77-730)
+    - [77-731&#58; Outlook 2016&#58; 核心通訊、共同作業與電子郵件技術](/learn/certifications/exams/77-731)
+subTitle: 此認證示範您有最深的技能，可透過獲得 Microsoft Office 的專家主要認證來 proficiently 使用 Office 程式。
 levels:
 - advanced
 skills:
-- 管理文檔選項和設定
-- 設計高階文檔
-- 建立高階參考
-- 建立自定義Word元素
-- 管理工作簿選項和設定
-- 應用自定義資料格式和佈局
-- 建立高階公式
-- 建立高階圖表和表格
-- 建立和管理演示文稿
-- 插入和設定文本，形狀和圖像的格式
-- 插入表格，圖表，SmartArt和媒體
-- 應用過渡和動畫
-- 管理多個演示文稿
-- 其他由所選選修測驗確定
+- Manage document options and settings
+- Design advanced documents
+- Create advanced references
+- Create custom Word elements
+- Manage workbook options and settings
+- Apply custom data formats and layouts
+- Create advanced formulas
+- Create advanced charts and tables
+- Create and manage presentations
+- Insert and format text, shapes, and images
+- Insert tables, charts, SmartArt, and media
+- Apply transitions and animations
+- Manage multiple presentations
+- Others to be determined by the chosen elective exam
 roles:
 - business-user
 type: mos
@@ -45,19 +53,18 @@ exams:
 - uid: exam.77-728
 - uid: exam.77-729
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

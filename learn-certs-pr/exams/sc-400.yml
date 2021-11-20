@@ -1,23 +1,32 @@
 ### YamlMime:Examination
-title: 'Microsoft Information Protection Administrator'
+title: Microsoft 資訊保護管理員
 metadata:
-  title: 'Exam SC-400: Microsoft Information Protection Administrator'
-  description: 'Exam SC-400: Microsoft Information Protection Administrator'
+  title: 測驗 SC-400： Microsoft 資訊保護系統管理員
+  description: 測驗 SC-400： Microsoft 資訊保護系統管理員
+  ms.openlocfilehash: 09c90abfada4013eceb5a42c37def6e4803fa03f
+  ms.sourcegitcommit: 2ab0583efc592a5dfb36f426738f85de35ffbcf6
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/01/2021
+  ms.locfileid: "132104981"
 uid: exam.sc-400
 displayName: SC-400
-summary: |-
-  <div><font color="red"><strong>該考試內容已在2021年7月23日更新。請在下方下載技能考量檔以瞭解變更內容。</strong></font><br/><br/></div>
+summary: >-
+  <div><font color="red"><strong>本測驗的內容已于2021年7月23日更新。請下載下列技能測量檔，以查看變更了哪些內容。</strong></font><br/><br/></div>
 
-  資訊保護管理員計畫並實施用於滿足組織合規需求的那些控制。該人員負責將需求及合規控制轉化為技術實施。他們協助組織控制所有者成為並保持合規。
-  
-  他們與資訊技術 (IT) 人員、業務應用程式所有者、人力資源及合法的利益相關者合作，以實施支持政策和控制的技術，而這些政策和控制是充分滿足其組織的法規要求所必需的。他們還與合規和安全領導（如首席合規官和安全官）合作，評估相關企業風險的全部範圍，並合作制定這些策略。
-  
-  該人員可定義適用要求，並根據這些策略和控制來測試IT流程及操作。他們負責創建用於內容分類、資料丟失防護、治理及保護的策略和規則。
-subTitle: '本次考試可衡量您完成以下技術任務的能力：實施資訊保護；實施資料丟失防護；並實施資訊治理。'
+
+  資訊保護系統管理員會規劃和實行符合組織合規性需求的控制項。 這位人員負責將需求和合規性控制轉譯為技術實行。 它們可協助組織控制項擁有者成為並保持符合規範。
+
+
+  他們使用資訊技術 (IT) 人員、商務應用程式擁有者、人力資源和法律專案關係人來實行技術，以支援足夠滿足其組織法規需求所需的原則和控制項。 他們也會與合規性和安全性領導階層合作，例如首席合規性和安全性長，以評估相關企業風險的完整廣度，以及開發這些原則的合作夥伴。
+
+
+  此人員會針對這些原則和控制項，定義其處理和作業的適用需求和測試。 他們負責建立內容分類、資料遺失預防、治理和保護的原則和規則。
+subTitle: 這項測驗會測量您完成下列技術工作的能力：執行資訊保護;實行資料遺失預防措施;並實施資訊治理。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr80
 practiceTestUrl: https://in.mindhub.com/sc-400-microsoft-information-protection-administrator-microsoft-official-practice-test/p/MU-SC-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=SC-400&examname=Exam%20SC-400:%20Microsoft%20Information%20Protection%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=SC-400&examname=Exam%20SC-400:%20Microsoft%20Information%20Protection%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-400
 locales:
 - en
 - zh-cn
@@ -34,10 +43,10 @@ locales:
 levels:
 - intermediate
 skills:
-- 該考試內容已在2021年7月23日更新。請下載下面的考試技巧大綱，看看有何變化。
-- 實施資訊保護 (35-40%)
-- 實施資料丟失防護 (30-35%)
-- 實施資訊治理 (25-30%)
+- The content of this exam was updated on July 23, 2021. Please download the exam skills outline below to see what changed.
+- Implement information protection (35-40%)
+- Implement data loss prevention (30-35%)
+- Implement information governance (25-30%)
 roles:
 - administrator
 - ip-admin
@@ -58,24 +67,24 @@ relatedCertifications:
 - related:
     uid: certification.information-protection-administrator
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://aka.ms/traincertposter
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md

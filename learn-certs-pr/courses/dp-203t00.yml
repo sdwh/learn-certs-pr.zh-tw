@@ -1,27 +1,36 @@
 ### YamlMime:Course
-title: Data Engineering on Microsoft Azure
+title: Microsoft Azure 上的資料工程
 metadata:
-  title: 'Course DP-203T00-A: Data Engineering on Microsoft Azure'
-  description: 'Course DP-203T00-A: Data Engineering on Microsoft Azure'
+  title: 課程 DP-203T00--A： Microsoft Azure 上的資料工程
+  description: 課程 DP-203T00--A： Microsoft Azure 上的資料工程
+  ms.openlocfilehash: f7881c24507499d88c68687f4552e5ce67832919
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132105211"
 uid: course.dp-203t00
-courseNumber: 'DP-203T00-A'
+courseNumber: DP-203T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 探索Azure中資料工程工作負載的計算和存儲選項
-- skill: 使用無伺服器SQL池運行互動式查詢
-- skill: 在Azure Databricks中進行資料探索和轉換
-- skill: 使用 Apache Spark 探索、轉化和載入資料到資料倉庫
-- skill: 攝取數據並將其載入到資料倉庫中
-- skill: 使用Azure Data Factory或 Azure Synapse Pipelines轉換資料
-- skill: 使用Azure Data Factory 或Azure Synapse Pipelines集成筆記本的資料
-- skill: 使用Azure Synapse Link支援混合事務分析處理（HTAP）
-- skill: 使用Azure Synapse Analytics實現端到端安全性
-- skill: 使用Stream Analytics執行即時流處理
-- skill: 使用Event Hubs和Azure Databricks創建流處理解決方案
+- skill: 探索 Azure 中資料工程工作負載的計算和儲存體選項
+- skill: 使用無伺服器 SQL 集區執行互動式查詢
+- skill: 在 Azure Databricks 中執行資料探索和轉換
+- skill: 使用 Apache Spark 探索、轉換和載入資料至資料倉儲
+- skill: 將資料內嵌並載入資料倉儲
+- skill: 使用 Azure Data Factory 或 Azure Synapse Pipelines 來轉換資料
+- skill: 使用 Azure Data Factory 或 Azure Synapse Pipelines 將筆記本的資料整合
+- skill: '使用 Azure Synapse 連結支援混合式交易分析處理 (HTAP) '
+- skill: 使用 Azure Synapse Analytics 執行端對端安全性
+- skill: 使用串流分析執行即時串流處理
+- skill: 使用事件中樞和 Azure Databricks 建立串流處理解決方案
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
+- zh-cn
+- ja
+- ko
 levels:
 - intermediate
 roles:
@@ -30,308 +39,23 @@ products:
 - azure
 exams:
 - uid: exam.dp-203
-summary: |-
-  在此課程中，學生將學習資料工程因為其與使用 Azure 資料平臺技術進行批量和即時分析解決方案相關。學生將從瞭解用於構建分析性解決方案的核心計算和存儲技術開始。學生將學習如何互動式地探索資料湖檔中存儲的資料。他們將學習各種不同的可用來通過使用在 Azure Synapse Analytics 或 Azure Databricks  中發現的 Apache Spark 功能載入資料的攝取技術，或如何使用 Azure Data Factory 或 Azure Synapse 通道進行攝取的技術。學生還將學習使用與攝取資料相同的技術來轉換資料的各種方法。他們將瞭解實現安全性以確保靜止狀態或傳輸中的資料受到保護的重要性。學生然後演示如何創建即時分析系統來創建即時的分析解決方案。
+summary: >-
+  在此課程中，學生將瞭解使用 Azure 資料平臺技術來處理 batch 和即時分析解決方案時的資料工程。 學生一開始會先瞭解用來建立分析解決方案的核心計算和儲存技術。 學生將學習如何以互動方式流覽 data lake 中的檔案所儲存的資料。 他們將學習各種可用於使用 Azure Synapse Analytics 或 Azure Databricks 中找到的 Apache Spark 功能來載入資料的內嵌技術，或是如何使用 Azure Data Factory 或 Azure Synapse 管線來內嵌。 學生也將學習使用用來內嵌資料的相同技術來轉換資料的各種方式。 他們將瞭解實施安全性的重要性，以確保資料在待用或傳輸時受到保護。 然後，學生將示範如何建立即時分析系統，以建立即時分析解決方案。
 
-  #### 受眾人群
-  本課程的主要受眾是希望瞭解資料工程和使用Microsoft Azure上現有的資料平臺技術構建分析解決方案的資料專業人員、資料架構師和商業情報專業人員。本課程的次要受眾是使用基於Microsoft Azure構見的分析解決方案的資料分析師和資料科學家。
-prerequisitesSection: |-
-  成功完成課程學習的學生在開始學習時已具備cloud計算和核心資料概念以及資料解決方案的工作經驗。 
-  
-  具體完成&#58; 
-  
-  - AZ-900 - Azure Fundamentals
-  - DP-900 - Microsoft Azure Data Fundamentals
-outlineSection: |-
-  ### 模組 1&#58; 探索資料工程工作負載的計算和存儲選項
-  本模組概述了構建分析工作負載的資料工程師可用的Azure計算和存儲技術選項。本模組介紹了構建資料湖的方法以及用於探索、流處理和批次處理工作負載的檔優化方法。學生將學習如何將資料湖組織為各級資料細化，因為他們將通過批次處理和流處理轉換檔。然後，他們將學習如何在資料集上創建指標，如CSV、JSON,和Parquet檔，以及如何將指標用於潛在的查詢和工作負載加速。
-  #### 課程
-  - Azure Synapse Analytics簡介
-  - 說明Azure Databricks
-  - Azure Data Lake存儲介紹
-  - 說明Delta Lake體系結構
-  - 使用Azure Stream Analytics處理資料流程
 
-  #### 實驗室 &#58; 探索用於資料工程工作負載的計算和存儲選項
-  *   結合使用流媒體與批次處理和單通道
-  *   將資料湖組織到檔轉化的層級中
-  *   為查詢和負載加速索引資料湖存儲
-  
-  完成本模組學習後，學生將能&#58; 
-  - 說明Azure Synapse Analytics
-  - 說明Azure Databricks
-  - 說明Azure Data Lake存儲
-  - 說明Delta Lake體系結構
-  - 說明Azure Stream Analytics
-  
-  ### 模組 2&#58; 使用Azure Synapse Analytics無伺服器SQL池來運行互動式查詢
-  在本模組中，學生將學習如何通過由Azure Synapse Analytics中的無伺服器SQL池執行的 T-SQL語句來使用資料湖中存儲的檔和外部檔源。
+  #### <a name="audience-profile"></a>聽眾設定檔
 
-  學生將查詢存儲於資料糊中的Parquet檔以及存儲於外部資料存儲區的CSV檔。接下來，他們將創建Azure Active Directory 安全性群組，並通過基於角色的存取控制（RBAC）和存取控制清單（ACL）來強制訪問資料湖裡的檔。
-  #### 課程
-  - 探索Azure Synapse無伺服器SQL池功能
-  - 使用Azure Synapse無伺服器SQL池來查詢資料湖裡的資料
-  - 在Azure Synapse無伺服器SQL池中創建中繼資料物件
-  - 保護Azure Synapse無伺服器SQL池中的資料並管理其使用者
-  
-  #### 實驗室 &#58; 使用無伺服器SQL池來運行互動式查詢
-  - 使用無伺服器SQL池來查詢Parquet資料
-  - 創建用於Parquet和CSV檔的外部表格
-  - 使用無伺服器SQL池來創建視圖
-  - 使用無伺服器SQL池時，保護對資料湖中資料的訪問
-  - 使用基於角色的存取控制（RBAC）和存取控制清單來配置資料湖安全性
-  
-  完成本模組學習後，學生將能&#58; 
-  - 瞭解Azure Synapse無伺服器SQL池功能
-  - 使用Azure Synapse無伺服器SQL池查詢資料湖中的資料
-  - 在Azure Synapse無伺服器SQL池中創建中繼資料物件
-  - 保護Azure Synapse無伺服器SQL池中的資料並管理其使用者
-  
-  ### 模組 3: Azure Databricks 中的資料探索和轉換
 
-  此模組教授學生如何使用各種不同 Apache Spark DataFrame 方法在 Azure Databricks 中探索和轉換資料。學生將學習如何執行標準的 DataFrame 方法來探索和轉換資料。他們還將學習如何執行更高級的任務，如刪除重復資料、操作日期/時間值、重命名列及聚合資料。
+  本課程的主要物件是資料專業人員、資料架構設計人員和商業智慧專業人員，想要瞭解資料工程，並使用存在於 Microsoft Azure 的資料平臺技術來建立分析解決方案。 本課程資料分析師和資料科學家的第二個物件，這些物件會處理以 Microsoft Azure 為基礎的分析解決方案。
+prerequisitesSection: >-
+  成功的學生開始本課程，瞭解雲端運算和核心資料概念，以及資料解決方案的專業經驗。&nbsp;
 
-  #### 課程
 
-  *   描述 Azure Databricks
+  尤其是完成：
 
-  *   在中 Azure Databricks 讀取和編寫資料
 
-  *   在 Azure Databricks 使用 DataFrames
+  *   AZ-900-Azure 基本概念
 
-  *   在中 Azure Databricks 使用 DataFrames 高級方法
 
-
-  #### 實驗室: Azure Databricks 中的資料探索和轉換
-
-  ####
-  *   在 Azure Databricks 中使用 DataFrames 以探索和過濾資料
-  *   緩存 DataFrame 以獲得後續更快的查詢
-  *   刪除重復資料
-  *   複製日期/時間值
-  *   刪除和重命名 DataFrame 列
-  *   聚合 DataFrame 中存儲的資料
-
-  完成此模組後，學生將能夠: 
-
-  *   描述 Azure Databricks
-
-  *   在 Azure Databricks 中讀取和編寫資料
-
-  *   在 Azure Databricks 中使用 DataFrame
-
-  *   在 Azure Databricks 中使用 DataFrames 高級方法
-
-
-  ### 模組 4: 使用 Apache Spark 探索、轉化和載入資料到資料倉庫
-
-  此模組教授學生如何探索存儲在資料湖中的資料並將資料轉換、載入熬相關的資料倉庫中。學生探索 Parquet 和 JSON 檔利用技術使用層級結構查詢和轉換 JSON 檔。然後，學生將使用 Apache Spark 把資料載入到資料倉庫並在專用的 SQL 池中將 Parquet 資料加入到資料湖中。
-
-  #### 課程
-
-  *   理解 Azure Synapse Analytics 的 Apache Spark 中大型的資料工程
-
-  *   在 Azure Synapse Analytics 中使用 Apache Spark 筆記簿攝取資料
-
-  *   在 Azure Synapse Analytics 中使用 Apache Spark 的 DataFrame 轉換資料
-
-  *   在 Azure Synapse Analytics 中整合 SQL 和 Apache Spark 池
-
-
-  #### 實驗室: 使用 Apache Spark 探索、轉化和載入資料到資料倉庫
-
-  ####
-  *   在 Synapse Studio 中執行資料探索
-  *   在 Azure Synapse Analytics 中使用 Spark 記事薄攝取資料
-  *   在 Azure Synapse Analytics 中使用 Spark 池轉換資料
-  *   在 Azure Synapse Analytics 中整合 SQL 和 Spark 池
-
-  完成此模組後，學生將能夠: 
-
-  *   描述 Azure Synapse Analytics 的 Apache Spark 中大型的資料工程
-
-  *   在 Azure Synapse Analytics 中使用 Apache Spark 筆記簿攝取資料
-
-  *   在 Azure Synapse Analytics 中使用 Apache Spark 的 DataFrame 轉換資料
-
-  *   在 Azure Synapse Analytics 中整合 SQL 和 Apache Spark 池
-  
-  ### 模組 5: 攝取並載入資料至資料倉庫
-
-  該模組教授學生如何通過 T-SQL 腳本和 Synapse Analytics 集成通道將資料攝入到資料倉庫中。學生將學習如何使用T-SQL通過PolyBase和COPY將資料載入Synapse專用SQL池。學生也將學習如何在 Azure Synapse通道中使用負載管理以及 Copy 活動拍位元組級的資料攝取。
-
-  #### 課程
-
-  *   在 Azure Synapse Analytics 中使用資料載入最佳實踐
-
-  *   使用 Azure Data Factory 的拍位元組級的資料攝取
-
-
-  #### 實驗室: 攝取並將資料載入到資料倉庫
-
-  ####
-  *   使用 Azure Synapse Pipelines 執行拍位元組級的資料攝取
-  *   使用 T-SQL 導入含 PolyBase 和 COPY 的資料 
-  *   在 Azure Synapse Analytics 中使用資料載入最佳實踐
-
-  完成此模組後，學生將能夠: 
-
-  *   在 Azure Synapse Analytics 中使用資料載入最佳實踐
-
-  *   使用 Azure Data Factory 的拍位元組級的資料攝取
-
-
-  ### 模組6: 使用 Azure Data Factory 或 Azure Synapse Pipelines 轉換資料
-
-  該模組教授學生如何創建資料集成通道以從多個資料來源攝取資料，使用映射資料流程轉換資料以及執行資料到一個或多個資料池的移動。
-
-  #### 課程
-
-  *   使用 Azure Data Factory 或 Azure Synapse Pipelines 集成資料
-
-  *   使用 Azure Data Factory 或 Azure Synapse Pipelines 大規模無代碼轉換
-
-
-  #### 實驗室: 使用 Azure Data Factory 或 Azure Synapse Pipelines 轉換資料
-
-  ####
-  *   使用 Azure Synapse Pipelines 執行無代碼轉換
-  *   創建資料通道以導入格式不整齊的 CSV 檔
-  *   創建映射資料流程
-
-  完成此模組後，學生將能夠: 
-
-  *   使用 Azure Data Factory 執行資料集成
-
-  *   使用 Azure Data Factory 執行大規模無代碼轉換
-  
-  ### 模組 7: 在 Azure Synapse Pipelines 中協調資料移動和轉換
-
-  在此模組中，您將學習如何創建關聯服務以及在 Azure Synapse Pipelines 中使用記事薄協調資料移動和轉換。
-
-  #### 課程
-
-  *   在 Azure Data Factory 中協調資料移動和轉換
-
-
-  #### 實驗室: 在 Azure Synapse Pipelines 中協調資料移動和轉換
-
-  ####
-  *   使用 Azure Data Factory 或 Azure Synapse Pipelines 從記事薄集成資料
-
-  完成此模組後，學生將能夠: 
-
-  *   在 Azure Data Pipelines 中協調資料移動和轉換
-
-
-  ### 模組 8: 使用 Azure Synapse Analytics 獲得端到端安全
-
-  在此模組中，學生將學習如何保障 Synapse Analytics 工作區和其支援基礎設施的安全。學生將研究 SQL Active Directory Admin、管理 IP 防火牆規則、管理 Azure Key Vault 隱私及通過 Key Vault 關聯的服務和通道活動訪問這些隱私。學生將理解使用專用 SQL 池時如何實施列級安全、行級安全以及 dynamic 資料遮罩。
-
-  #### 課程
-
-  *   在 Azure Synapse Analytics 中確保資料倉庫的安全
-
-  *   在 Azure Key Vault 中配置和管理隱私
-
-  *   為敏感性資料實施合規控制
-
-
-  #### 實驗室: 使用 Azure Synapse Analytics 的端到端安全
-
-  ####
-  *   確保 Azure Synapse Analytics 基礎設施的安全
-  *   確保 Azure Synapse Analytics 工作區及管理服務的安全
-  *   確保 Azure Synapse Analytics 工作區資料的安全
-
-  完成此模組後，學生將能夠: 
-
-  *   在 Azure Synapse Analytics 中確保資料倉庫的安全
-
-  *   在 Azure Key Vault 中配置和管理隱私
-
-  *   為敏感性資料實施合規控制
-  
-  ### 模組 9: 使用 Azure Synapse Link 支援 Hybrid Transactional Analytical Processing (HTAP)
-
-  在此模組中，學生將學習 Azure Synapse Link 如何啟用 Azure Cosmos DB 帳戶到 Synapse 工作區的無縫連接。學生將瞭解如何啟用和配置Synapse連結，然後瞭解如何使用Apache Spark和無伺服器SQL來查詢Azure Cosmos DB分析存儲。
-
-  #### 課程
-
-  *   使用 Azure Synapse Analytics 設計混合事務和分析處理
-
-  *   使用 Azure Cosmos DB 配置 Azure Synapse Link 
-
-  *   使用 Apache Spark 池查詢 Azure Cosmos DB
-
-  *   使用無伺服器架構的 SQL 池查詢 Azure Cosmos DB
-
-
-  #### 實驗室: 使用 Azure Synapse Link 支援 Hybrid Transactional Analytical Processing (HTAP)
-
-  ####
-  *   使用 Azure Cosmos DB 配置 Azure Synapse Link 
-  *   使用 Apache Spark for Synapse Analytics 查詢 Azure Cosmos DB
-  *   使用 Azure Synapse Analytics 的無伺服器架構 SQL 池查詢 Azure Cosmos DB
-
-  完成此模組後，學生將能夠: 
-
-  *   使用 Azure Synapse Analytics 設計混合事務和分析處理
-
-  *   使用 Azure Cosmos DB 配置 Azure Synapse Link
-
-  *   使用 Apache Spark for Synapse Analytics 查詢 Azure Cosmos DB
-
-  *   使用 Azure Synapse Analytics 的無伺服器架構 SQL 池查詢 Azure Cosmos DB
-
-
-  ### 模組 10: 使用 Stream Analytics 的即時流處理
-
-  在此模組中，學生將學習如何使用 Azure Stream Analytics 處理流資料。學生將把車輛遙測資料設取至Event Hubs，然後使用Azure Stream Analytics中的各種視窗函數即時處理這些資料。他們將把資料輸出至 Azure Synapse Analytics。最後，學生將學習如何規模化 Stream Analytics 工作以增加生產量。
-
-  #### 課程
-
-  *   使用 Azure Event Hubs 為 Big Data 應用程式啟用可靠消息傳輸
-
-  *   使用 Azure Stream Analytics 處理資料流程
-
-  *   使用 Azure Stream Analytics 攝取資料流程
-
-
-  #### 實驗室: 使用 Stream Analytics 的即時流處理
-
-  ####
-  *   使用 Stream Analytics 處理來自 Event Hubs 的即時資料
-  *   使用 Stream Analytics 視窗函數創建聚合並將其輸出至 Synapse Analytics
-  *   規模化 Azure Stream Analytics 工作以通過分配增加生產量
-  *   重新分配流輸入以優化並行
-
-  完成此模組後，學生將能夠:
-
-  *   使用 Azure Event Hubs 為 Big Data 應用程式啟用可靠消息傳輸
-
-  *   使用 Azure Stream Analytics 處理資料流程
-
-  *   使用 Azure Stream Analytics 攝取資料流程
-
-  ### 模組 11: 使用 Event Hubs 和 Azure Databricks 創建流處理解決方案
-
-  在此模組中，學生將學習如何在 Azure Databricks 中使用 Event Hubs 和 Spark Structured Streaming 規模化攝取和處理流資料。 學生將學習 Structured Streaming 的關鍵功能和使用。學生將實現滑動視窗以聚合資料塊並應用浮水印以刪除過期資料。最後，學生將連接至 Event Hubs 以讀取和寫入流。
-
-  #### 課程
-
-  *   使用 Azure Databricks structured streaming 處理流資料
-
-
-  #### 實驗室: 使用 Event Hubs 和 Azure Databricks 創建流處理解決方案
-
-  ####
-  *   探索 Structured Streaming 的關鍵功能和使用
-  *   從檔流出資料並將其寫出到分散式檔案系統
-  *   使用滑動視窗聚集資料塊而非所有資料
-  *   應用浮水印以刪除過期資料
-  *   連接至 Event Hubs 讀取和寫入流
-
-  完成此模組後，學生將能夠: 
-
-  *   使用 Azure Databricks structured streaming 處理流資料
+  *   DP-900-Microsoft Azure 資料基礎
+outlineSection: "### <a name=\"module-1-explore-compute-and-storage-options-for-data-engineering-workloads\"></a>模組1：探索資料工程工作負載的計算和儲存體選項\n\n此課程模組概要說明可供資料工程師建立分析工作負載的 Azure 計算和儲存體技術選項。 此課程模組會教您如何結構化 data lake，以及將探索、串流和批次工作負載的檔案優化。 學生將學習如何將 data lake 組織成透過批次和串流處理來轉換檔案時的資料精簡層級。 然後，他們將學習如何在其資料集上建立索引，例如 CSV、JSON 和 Parquet 檔案，並將它們用於潛在的查詢和工作負載加速。\n\n#### <a name=\"lessons\"></a>課程\n\n*   Azure Synapse Analytics 簡介\n\n*   描述 Azure Databricks\n\n*   Azure Data Lake Storage 簡介\n\n*   描述 Delta Lake 架構\n\n*   使用 Azure 串流分析來處理資料流\n\n\n#### <a name=\"lab--explore-compute-and-storage-options-for-data-engineering-workloads\"></a>實驗室：探索資料工程工作負載的計算和儲存體選項\n\n####\n   *   使用單一管線結合串流和批次處理\n   *   將 data lake 整理成檔案轉換的層級\n   *   針對查詢和工作負載加速編制 data lake storage 索引\n\n完成本課程模組之後，學生將能夠：\n\n*   描述 Azure Synapse Analytics\n\n*   描述 Azure Databricks\n\n*   描述 Azure Data Lake 儲存體\n\n*   描述 Delta Lake 架構\n\n*   描述 Azure 串流分析\n\n\n### <a name=\"module-2-run-interactive-queries-using-azure-synapse-analytics-serverless-sql-pools\"></a>模組2：使用 Azure Synapse Analytics 無伺服器 SQL 集區來執行互動式查詢\n\n在本課程模組中，學生將瞭解如何透過 Azure Synapse Analytics 中無伺服器 SQL 集區所執行的 T SQL 語句，來使用儲存在 data lake 和外部檔案來源中的檔案。 學生將查詢儲存在 data lake 中的 Parquet 檔案，以及儲存在外部資料存放區中的 CSV 檔案。 接著，他們會建立 Azure Active Directory 的安全性群組，並透過 Role-Based 存取控制 (RBAC) 和存取控制清單 (acl) ，來強制存取 data lake 中的檔案。\n\n#### <a name=\"lessons\"></a>課程\n\n*   探索 Azure Synapse 無伺服器 SQL 集區功能\n\n*   使用 Azure Synapse 無伺服器 SQL 集區查詢資料湖中的資料\n\n*   在 Azure Synapse 無伺服器 SQL 集區中建立中繼資料物件\n\n*   在 Azure Synapse 無伺服器 SQL 集區中保護資料和管理使用者\n\n\n#### <a name=\"lab--run-interactive-queries-using-serverless-sql-pools\"></a>實驗室：使用無伺服器 SQL 集區執行互動式查詢\n\n####\n   *   使用無伺服器 SQL 集區來查詢 Parquet 資料\n   *   建立 Parquet 和 CSV 檔案的外部資料表\n   *   建立具有無伺服器 SQL 集區的視圖\n   *   使用無伺服器 SQL 集區時，安全地存取 data lake 中的資料\n   *   使用 Role-Based 存取控制設定 data lake 安全性 (RBAC) 和存取控制清單\n\n完成本課程模組之後，學生將能夠：\n\n*   瞭解 Azure Synapse 無伺服器 SQL 集區功能\n\n*   使用 Azure Synapse 無伺服器 SQL 集區查詢資料湖中的資料\n\n*   在 Azure Synapse 無伺服器 SQL 集區中建立中繼資料物件\n\n*   在 Azure Synapse 無伺服器 SQL 集區中保護資料和管理使用者\n\n\n### <a name=\"module-3-data-exploration-and-transformation-in-azure-databricks\"></a>模組3： Azure Databricks 中的資料探索和轉換\n\n此課程模組會教您如何使用各種 Apache Spark 資料框架方法來探索和轉換 Azure Databricks 中的資料。 學生將學習如何執行標準資料框架方法來探索和轉換資料。 它們也將學習如何執行更多的工作，例如移除重複的資料、操作日期/時間值、重新命名資料行，以及匯總資料。\n\n#### <a name=\"lessons\"></a>課程\n\n*   描述 Azure Databricks\n\n*   在 Azure Databricks 中讀取及寫入資料\n\n*   在 Azure Databricks 中使用 DataFrames\n\n*   在 Azure Databricks 中使用 DataFrames 進階方法\n\n\n#### <a name=\"lab--data-exploration-and-transformation-in-azure-databricks\"></a>實驗室： Azure Databricks 中的資料探索和轉換\n\n####\n   *   在 Azure Databricks 中使用資料框架來探索和篩選資料\n   *   快取資料框架以加快後續查詢的速度\n   *   移除重複的資料\n   *   操作日期/時間值\n   *   移除和重新命名資料框架資料行\n   *   匯總儲存在資料框架中的資料\n\n完成本課程模組之後，學生將能夠：\n\n*   描述 Azure Databricks\n\n*   在 Azure Databricks 中讀取及寫入資料\n\n*   在 Azure Databricks 中使用 DataFrames\n\n*   在 Azure Databricks 中使用 DataFrames 進階方法\n\n\n### <a name=\"module-4-explore-transform-and-load-data-into-the-data-warehouse-using-apache-spark\"></a>模組4：使用 Apache Spark 探索、轉換和載入資料至資料倉儲\n\n此課程模組會教您如何探索儲存在 data lake 中的資料、轉換資料，以及將資料載入至關聯式資料存放區。 學生將探索 Parquet 和 JSON 檔案，並使用技術來查詢及轉換具有階層結構的 JSON 檔案。 然後，學生將使用 Apache Spark 將資料載入資料倉儲，並將 data lake 中的 Parquet 資料與專用 SQL 集區中的資料聯結。\n\n#### <a name=\"lessons\"></a>課程\n\n*   了解在 Azure Synapse Analytics 中透過 Apache Spark 進行資料工程的使用案例\n\n*   使用 Azure Synapse Analytics 中的 Apache Spark 筆記本內嵌資料\n\n*   在 Azure Synapse Analytics 的 Apache Spark 集區中使用 DataFrames 轉換資料\n\n*   整合 Azure Synapse Analytics 中的 SQL 與 Apache Spark 集區\n\n\n#### <a name=\"lab--explore-transform-and-load-data-into-the-data-warehouse-using-apache-spark\"></a>實驗室：使用 Apache Spark 探索、轉換和載入資料至資料倉儲\n\n####\n   *   在 Synapse Studio 中執行資料探索\n   *   在 Azure Synapse Analytics 中使用 Spark 筆記本內嵌資料\n   *   在 Azure Synapse Analytics 中使用 Spark 集區中的資料框架來轉換資料\n   *   整合 Azure Synapse Analytics 中的 SQL 和 Spark 集區\n\n完成本課程模組之後，學生將能夠：\n\n*   使用 Azure Synapse Analytics 描述 Apache Spark 的大型資料工程\n\n*   使用 Azure Synapse Analytics 中的 Apache Spark 筆記本內嵌資料\n\n*   在 Azure Synapse Analytics 的 Apache Spark 集區中使用 DataFrames 轉換資料\n\n*   整合 Azure Synapse Analytics 中的 SQL 與 Apache Spark 集區\n\n\n### <a name=\"module-5-ingest-and-load-data-into-the-data-warehouse\"></a>模組5：將資料內嵌和載入至資料倉儲\n\n此課程模組會教學生如何透過 T SQL 腳本和 Synapse Analytics 整合管線，將資料內嵌至資料倉儲。 學生將瞭解如何使用 PolyBase 將資料載入 Synapse 專用 SQL 集區，並使用 T SQL 進行複製。 學生也將瞭解如何在 Azure Synapse 管線中搭配使用工作負載管理與複製活動，以進行 pb 規模的資料內嵌。\n\n#### <a name=\"lessons\"></a>課程\n\n*   使用 Azure Synapse Analytics 中的資料載入最佳作法\n\n*   使用 Azure Data Factory 進行 PB 規模的內嵌\n\n\n#### <a name=\"lab--ingest-and-load-data-into-the-data-warehouse\"></a>實驗室：將資料內嵌並載入資料倉儲中\n\n####\n   *   使用 Azure Synapse Pipelines 執行 pb 規模的內嵌\n   *   使用 PolyBase 匯入資料，並使用 T SQL 進行複製\n   *   使用 Azure Synapse Analytics 中的資料載入最佳作法\n\n完成本課程模組之後，學生將能夠：\n\n*   使用 Azure Synapse Analytics 中的資料載入最佳作法\n\n*   使用 Azure Data Factory 進行 PB 規模的內嵌\n\n\n### <a name=\"module-6-transform-data-with-azure-data-factory-or-azure-synapse-pipelines\"></a>模組6：使用 Azure Data Factory 或 Azure Synapse Pipelines 轉換資料\n\n此課程模組會教學生如何建立資料整合管線，以從多個資料來源內嵌、使用對應資料 flowss 來轉換資料，以及執行資料移動到一或多個資料接收器。\n\n#### <a name=\"lessons\"></a>課程\n\n*   Azure Data Factory 或 Azure Synapse Pipelines 的資料整合\n\n*   使用 Azure Data Factory 或 Azure Synapse Pipelines 大規模進行無程式碼轉換\n\n\n#### <a name=\"lab--transform-data-with-azure-data-factory-or-azure-synapse-pipelines\"></a>實驗室：使用 Azure Data Factory 或 Azure Synapse Pipelines 轉換資料\n\n####\n   *   使用 Azure Synapse 來大規模執行無程式碼的轉換 Pipelines\n   *   建立資料管線以匯入格式不佳的 CSV 檔案\n   *   建立對應資料流程\n\n完成本課程模組之後，學生將能夠：\n\n*   使用 Azure Data Factory 執行資料整合\n\n*   使用 Azure Data Factory 執行大規模的無程式碼轉換\n\n\n### <a name=\"module-7-orchestrate-data-movement-and-transformation-in-azure-synapse-pipelines\"></a>模組7：在 Azure Synapse Pipelines 中協調資料移動和轉換\n\n在本課程模組中，您將瞭解如何建立連結服務，並使用 Azure Synapse Pipelines 中的筆記本來協調資料移動和轉換。\n\n#### <a name=\"lessons\"></a>課程\n\n*   在 Azure Data Factory 中協調資料移動和轉換\n\n\n#### <a name=\"lab--orchestrate-data-movement-and-transformation-in-azure-synapse-pipelines\"></a>實驗室：在 Azure Synapse Pipelines 中協調資料移動和轉換\n\n####\n   *   使用 Azure Data Factory 或 Azure Synapse Pipelines 將筆記本的資料整合\n\n完成本課程模組之後，學生將能夠：\n\n*   在 Azure Synapse Pipelines 中協調資料移動和轉換\n\n\n### <a name=\"module-8-end-to-end-security-with-azure-synapse-analytics\"></a>模組8：使用 Azure Synapse Analytics 的端對端安全性\n\n在本課程模組中，學生將瞭解如何保護 Synapse Analytics 工作區及其支援的基礎結構。 學生會觀察 SQL Active Directory 系統管理員、管理 IP 防火牆規則、使用 Azure Key Vault 管理秘密，以及透過 Key Vault 連結服務和管線活動存取這些秘密。 當您使用專用的 SQL 集區時，學生將瞭解如何執行資料行層級安全性、資料列層級安全性和動態資料遮罩。\n\n#### <a name=\"lessons\"></a>課程\n\n*   在 Azure Synapse Analytics 中保護資料倉儲\n\n*   設定和管理 Azure Key Vault 中的祕密\n\n*   實施敏感性資料的合規性控制\n\n\n#### <a name=\"lab--end-to-end-security-with-azure-synapse-analytics\"></a>實驗室：使用 Azure Synapse Analytics 的端對端安全性\n\n####\n   *   Azure Synapse Analytics 支援基礎結構的安全\n   *   保護 Azure Synapse Analytics 工作區和受控服務\n   *   保護 Azure Synapse Analytics 工作區資料\n\n完成本課程模組之後，學生將能夠：\n\n*   在 Azure Synapse Analytics 中保護資料倉儲\n\n*   設定和管理 Azure Key Vault 中的祕密\n\n*   實施敏感性資料的合規性控制\n\n\n### <a name=\"module-9-support-hybrid-transactional-analytical-processing-htap-with-azure-synapse-link\"></a>模組9：使用 Azure Synapse 連結支援混合式交易分析處理 (HTAP) \n\n在本課程模組中，學生將瞭解 Azure Synapse 連結如何啟用 Azure Cosmos DB 帳戶到 Synapse 工作區的無縫連接。 學生將瞭解如何啟用和設定 Synapse 連結，接著如何使用 Apache Spark 和 SQL 無伺服器來查詢 Azure Cosmos DB 分析存放區。\n\n#### <a name=\"lessons\"></a>課程\n\n*   使用 Azure Synapse Analytics 設計混合式交易和分析處理\n\n*   透過 Azure Cosmos DB 設定 Azure Synapse Link\n\n*   具有 Apache Spark 集區的查詢 Azure Cosmos DB\n\n*   具有無伺服器 SQL 集區的查詢 Azure Cosmos DB\n\n\n#### <a name=\"lab--support-hybrid-transactional-analytical-processing-htap-with-azure-synapse-link\"></a>實驗室：使用 Azure Synapse 連結支援混合式交易分析處理 (HTAP) \n\n####\n   *   透過 Azure Cosmos DB 設定 Azure Synapse Link\n   *   使用適用于 Synapse 分析的 Apache Spark 查詢 Azure Cosmos DB\n   *   使用 Azure Synapse Analytics 的無伺服器 SQL 集區查詢 Azure Cosmos DB\n\n完成本課程模組之後，學生將能夠：\n\n*   使用 Azure Synapse Analytics 設計混合式交易和分析處理\n\n*   透過 Azure Cosmos DB 設定 Azure Synapse Link\n\n*   使用適用於 Azure Synapse Analytics 的 Apache Spark 查詢 Azure Cosmos DB\n\n*   Azure Synapse Analytics 的 SQL 無伺服器查詢 Azure Cosmos DB\n\n\n### <a name=\"module-10-real-time-stream-processing-with-stream-analytics\"></a>模組10：使用串流分析進行即時串流處理\n\n在本課程模組中，學生將學習如何使用 Azure 串流分析來處理串流資料。 學生會將車輛遙測資料內嵌到事件中樞，然後使用 Azure 串流分析中的各種視窗化函數，即時處理該資料。 它們會將資料輸出至 Azure Synapse Analytics。 最後，學員將瞭解如何調整串流分析作業以增加輸送量。\n\n#### <a name=\"lessons\"></a>課程\n\n*   使用 Azure 事件中樞啟用可靠的巨量資料應用程式傳訊功能\n\n*   使用 Azure 串流分析來處理資料流\n\n*   使用 Azure 串流分析內嵌資料串流\n\n\n#### <a name=\"lab--real-time-stream-processing-with-stream-analytics\"></a>實驗室：使用串流分析進行即時串流處理\n\n####\n   *   使用串流分析來處理事件中樞的即時資料\n   *   使用串流分析視窗化函數來建立匯總並輸出至 Synapse 分析\n   *   調整 Azure 串流分析作業，以透過資料分割提高輸送量\n   *   重新分割資料流程輸入以優化平行處理\n\n完成本課程模組之後，學生將能夠：\n\n*   使用 Azure 事件中樞啟用可靠的巨量資料應用程式傳訊功能\n\n*   使用 Azure 串流分析來處理資料流\n\n*   使用 Azure 串流分析內嵌資料串流\n\n\n### <a name=\"module-11-create-a-stream-processing-solution-with-event-hubs-and-azure-databricks\"></a>模組11：使用事件中樞和 Azure Databricks 建立串流處理解決方案\n\n在本課程模組中，學生將學習如何使用 Azure Databricks 中的事件中樞和 Spark 結構化串流來大規模內嵌和處理串流資料。 學生將學習結構化串流的主要功能和使用。 學生將會執行滑動視窗來匯總資料區塊，並套用浮水印以移除過時的資料。 最後，學生將連接到事件中樞，以讀取和寫入串流。\n\n#### <a name=\"lessons\"></a>課程\n\n*   使用 Azure Databricks 結構化串流處理串流資料\n\n\n#### <a name=\"lab--create-a-stream-processing-solution-with-event-hubs-and-azure-databricks\"></a>實驗室：使用事件中樞和 Azure Databricks 建立串流處理解決方案\n\n####\n   *   探索結構化串流的主要功能和使用方式\n   *   從檔案串流資料，並將它寫出至分散式檔案系統\n   *   使用滑動視窗來一份份地彙總資料，而不是一次彙總所有資料\n   *   套用浮水印以移除過時的資料\n   *   連線至事件中樞讀取和寫入串流\n\n完成本課程模組之後，學生將能夠：\n\n*   使用 Azure Databricks 結構化串流處理串流資料"

@@ -1,27 +1,39 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure Network Engineer Associate'
+title: Microsoft 認證： Azure 網路工程師相關
 metadata:
-  title: 'Microsoft Certified: Azure Network Engineer Associate'
-  description: '該認證將在2021年7月可用。Azure Network Engineer Associate 認證的報考者應在規劃、實施和維護 Azure 網路解決方案包括混合網路、關聯、路由、安全和對 Azure 服務的私有訪問方面具有主題內容專家的技能。'
+  title: Microsoft 認證： Azure 網路工程師相關
+  description: 此認證將于2021年7月推出。 Azure 網路工程師的候選人讓認證在規劃、執行及維護 Azure 網路解決方案時，必須具備專業知識，包括混合式網路功能、連線能力、路由、安全性和 Azure 服務的私用存取。
+  ms.openlocfilehash: 176e1753a09c00260714a37ec9c59233ac801dcb
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132105198"
 uid: certification.azure-network-engineer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Azure Network Engineer Associate 認證的報考者應在規劃、實施和維護 Azure 網路解決方案包括混合網路、關聯、路由、安全和對 Azure服務的私有訪問方面具有主題內容專家的技能。
-  
-  該崗位的責任包括推薦、規劃和實施 Azure 網路解決方案。該崗位的專業人士管理執行、快速恢復能力、擴展和安全方面的解決方案。他們使用 Azure 埠和其他方式包括： PowerShell、Azure Command-Line Interface (CLI) 和 Azure Resource Manager 模版 (ARM 模版)來部署網路解決方案。
-  
-  Azure Network Engineer 與解決方案設計師、cloud 管理員、安全工程師、應用程式開發者和 DevOps 工程師協作交付 Azure 解決方案。
-  
-  該認證的報考者除豐富的網路、混合關聯及網路安全經驗和知識外，還應擁有專家級 Azure 管理技能。
-subTitle: Azure Network Engineer Associate 認證的報考者應在規劃、實施和維護 Azure 網路解決方案包括混合網路、關聯、路由、安全和對 Azure 服務的私有訪問方面具有主題內容專家的技能。
+summary: >-
+  <div><font color='red'><strong>此認證的內容將于2021年11月23日更新。請下載 <a href="/learn/certifications/exams/az-700">測驗 AZ-700 頁面</a> 上的技能測量檔，以瞭解有哪些變更。</strong></font><br/><br/></div>
+
+
+  Azure 網路工程師的候選人讓認證在規劃、執行及維護 Azure 網路解決方案時，必須具備專業知識，包括混合式網路功能、連線能力、路由、安全性和 Azure 服務的私用存取。
+
+
+  此角色的責任包括建議、規劃和執行 Azure 網路解決方案。 此角色中的專業人員會管理效能、復原、規模和安全性的解決方案。 他們使用 Azure 入口網站和其他方法來部署網路解決方案，包括 PowerShell、Azure Command-Line 介面 (CLI) ，以及 (ARM 範本) 的 Azure Resource Manager 範本。
+
+
+  azure 網路工程師與解決方案架構設計人員、雲端系統管理員、安全性工程師、應用程式開發人員和 DevOps 工程師合作，以提供 Azure 解決方案。
+
+
+  除了廣泛的網路功能、混合式連線和網路安全性知識之外，此認證的候選項目也應具有專家的 Azure 系統管理技能。
+subTitle: Azure 網路工程師的候選人讓認證在規劃、執行及維護 Azure 網路解決方案時，必須具備專業知識，包括混合式網路功能、連線能力、路由、安全性和 Azure 服務的私用存取。
 levels:
 - intermediate
 skills:
-- 設計、實施和管理混合網路
-- 設計和實施核心網路基礎設施
-- 設計和實施核心網路路由
-- 安全保障和監控網路
-- 設計和實施對 Azure 服務的私密訪問
+- Design, implement, and manage hybrid networking
+- Design and implement core networking infrastructure
+- Design and implement routing
+- Secure and monitor networks
+- Design and implement Private access to Azure Services
 roles:
 - network-engineer
 type: role-based
@@ -54,23 +66,23 @@ exams:
 - uid: exam.az-700
 resources:
 - title: Azure 認證海報
-  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  description: 查看 Azure 的基本概念、角色型和專長認證等總覽。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md

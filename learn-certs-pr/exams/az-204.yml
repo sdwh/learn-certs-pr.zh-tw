@@ -1,22 +1,33 @@
 ### YamlMime:Examination
-title: Developing Solutions for Microsoft Azure
+title: 開發 Microsoft Azure 的解決方案
 metadata:
-  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
-  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
+  title: 測驗 AZ-204：開發 Microsoft Azure 的解決方案
+  description: 測驗 AZ-204：開發 Microsoft Azure 的解決方案
+  ms.openlocfilehash: dfca7279c079548a8b13526e323960d24188a2aa
+  ms.sourcegitcommit: d940ddf94922437bad16e8470a2764aa88e35289
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/15/2021
+  ms.locfileid: "132105151"
 uid: exam.az-204
 displayName: AZ-204
-summary: |-
-  <div><div><font color='red'><strong>本次考試的內容於2021年3月26日進行了更新。請下載下面的技能測試文檔，看看有何變化。</strong></font><br/><br/></div>
+summary: >-
+  <div><div><strong>本測驗的內容已于2021年3月26日更新。請下載下列技能測量檔，以查看變更了哪些內容。</strong><br/><br/></div>
+
   </div>
 
-  參加該測驗的應試者應具有主題知識，可以在 Microsoft Azure 上設計、構建、測試和維護雲端應用程式和服務。
 
-  該認證的考生應有1-2年的專業開發經驗以及使用 Microsoft Azure 的經驗。此外，該認證的考生應該能夠使用 Azure 所支援的語言進行程式設計，並能熟練使用 Azure SDKs, Azure PowerShell, Azure CLI, 資料存儲選項、資料連接、APIs, 應用程式驗證和授權、計算和容器部署、調試、性能調優及監控。
+  這項測驗的候選項目應具備在 Microsoft Azure 上設計、建立、測試及維護雲端應用程式和服務的主題專業知識。
 
-  如果你通過本次認證考試，你可能有資格獲得 ACE 大學學分。有關詳細資訊，請參閱 [ACE 大學認證考試學分](/learn/certifications/ace-credit-for-certification-exams)。
-subTitle: '此測驗會評量您達成下方技術性工作的能力：開發 Azure 計算解決方案；開發 Azure 儲存;實作 Azure 安全性;監視，疑難排解和最佳化 Azure 解決方案;並連接以及使用 Azure 服務和第三方服務。
 
-  如果考試是通過 Pearson VUE 進行的，那麼考生在考試開始時將能夠選擇包含在問題中的代碼語言（C# 或 Python）。然而，通過 PSI 進行的考試不提供此選項。那些問題將包含 C# 代碼。'
+  這項認證的候選版應該有1-2 年的專業開發經驗和 Microsoft Azure 體驗。 此外，此角色的候選項目應該能夠以 azure 所支援的語言進行程式設計，並在 azure sdk、Azure PowerShell、Azure CLI、資料儲存選項、資料連線、api、應用程式驗證和授權、計算和容器部署、偵錯工具、效能微調和監視方面獲得更高的能力。
+
+
+  如果您通過此認證測驗，您可能會享有 ACE 大學點數的資格。 如需詳細資訊，請參閱 [ACE 大學點數以取得認證測驗](/learn/certifications/ace-credit-for-certification-exams) 。
+subTitle: >-
+  這項測驗會測量您完成下列技術工作的能力：開發 Azure 計算解決方案;針對 Azure 儲存體進行開發;實行 Azure 安全性;監視、疑難排解和優化 Azure 解決方案;並連接並使用 Azure 服務和協力廠商服務。
+
+  測試受測者將能夠選取程式碼語言 (c # 或 Python) 在其啟動測驗時包含在問題中的程式碼，如果測驗是透過 Person VUE 取得的。 不過，此選項不適用於透過 PSI 所進行的測驗。 這些問題將包含 c # 程式碼。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
 locales:
@@ -27,20 +38,26 @@ locales:
 - fr
 - de
 - es
+- pt-br
+- ru
+- zh-tw
+- it
+- id-id
+- ar-sa
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-204&examname=Exam%20AZ-204:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-204
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-204&examname=Exam%20AZ-204:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-204
 - providerType: gsi
-  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-204&provider=psi&examname=Exam%20AZ-204:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-204
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-204&provider=psi&examname=Exam%20AZ-204:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-204
 levels:
 - intermediate
 skills:
-- 本次考試的內容於2021年3月26日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
-- 開發 Azure 計算解決方案 (25-30%)
-- 開發 Azure 存儲 (15-20%)
-- 實作 Azure 安全 (20-25%)
-- 監視，疑難排解和最佳化 Azure 解決方案 (15-20%)
-- 連接並使用 Azure 服務和第三方服務 (15-20%)
+- The content of this exam was updated on March 26, 2021. Please download the exam skills outline below to see what changed.
+- Develop Azure compute solutions (25-30%)
+- Develop for Azure storage (15-20%)
+- Implement Azure security (20-25%)
+- Monitor, troubleshoot, and optimize Azure solutions (15-20%)
+- Connect to and consume Azure services and third-party services (15-20%)
 roles:
 - developer
 products:
@@ -85,28 +102,27 @@ relatedCertifications:
 - related:
     uid: certification.azure-developer
 resources:
-- title: 認證之旅
-  description: 探索獲得 Azure Developer Associate 資格的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索可作為 Azure 開發人員相關聯的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md
-

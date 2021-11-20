@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: 使用 Microsoft Azure Cosmos DB (Beta) 設計和執行 Cloud-Native 應用程式
+metadata:
+  title: DP-420：使用 Microsoft Azure Cosmos DB (Beta) 設計和執行 Cloud-Native 應用程式
+  description: DP-420：使用 Microsoft Azure Cosmos DB (Beta) 設計和執行 Cloud-Native 應用程式
+  ms.openlocfilehash: 61ec89437c9c1b97887a867187ff79b7df615671
+  ms.sourcegitcommit: 35b014146be2d7badafdb39548c387b2af6c0314
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/15/2021
+  ms.locfileid: "132105111"
+uid: exam.dp-420
+displayName: DP-420
+summary: >-
+  這項測驗的候選人必須具備開發適用于 Azure 的應用程式，以及使用 Azure Cosmos DB 資料庫技術的豐富知識和經驗。 他們應該精通開發應用程式的功能，方法是使用核心 (SQL) API 和 sdk、撰寫有效率的查詢，以及建立適當的索引原則、布建和管理 Azure 中的資源，以及使用 JavaScript 建立伺服器端物件。 它們應該能夠解讀 JSON、讀取 c # 或 JAVA 程式碼，以及使用 PowerShell。
+
+
+  <div></br><font color='red'><strong>注意：此測驗將于2021年11月提供。</strong></font></div>
+subTitle: 本測驗將于2021年11月提供。 這項測驗會測量您完成下列技術工作的能力：設計和實行資料模型;設計和實行資料散發;整合 Azure Cosmos DB 的解決方案;優化 Azure Cosmos DB 的解決方案;並維護 Azure Cosmos DB 的解決方案。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMvIJ
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Design and implement data models (35–40%)
+- Design and implement data distribution (5–10%)
+- Integrate an Azure Cosmos DB solution (5–10%)
+- Optimize an Azure Cosmos DB solution (15–20%)
+- Maintain an Azure Cosmos DB solution (25–30%)
+roles:
+- developer
+- data-engineer
+- solution-architect
+products:
+- azure
+- azure-cosmos-db
+relatedCertifications:
+- related:
+    uid: certification.azure-cosmos-db-developer-specialty
+resources:
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證海報
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
+  href: ../deals.md
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
+  href: ../help.md
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 要求住宿
+  description: 深入瞭解如何申請您測驗的住宿。
+  href: ../request-accommodations.md
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
+  href: ../certification-exam-policies.md

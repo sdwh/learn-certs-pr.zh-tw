@@ -1,93 +1,100 @@
 ---
-title: Microsoft 隨選課程已淘汰 | Microsoft Docs
-description: 微軟隨選課程已淘汰 
-documentationcenter: NA 
-author: bipach
+title: MOC 隨選課程已淘汰 |Microsoft Docs
+description: MOC 隨選課程已淘汰
+documentationcenter: NA
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 06/30/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
+ms.openlocfilehash: 1ac7b6c16a1670d5daba7e78c38fb7ba45dfee3c
+ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 09/14/2021
+ms.locfileid: "132104825"
 ---
-# 微軟隨選課程已淘汰
+# <a name="moc-on-demand-courses-are-retired"></a>MOC 隨選課程已淘汰
 
-截至2020年6月30日，所有Microsoft官方課程(MOC)按需課程(包括以下所列課程)均已停用。  對於在停用日期之前購買或獲得MOC按需課程代碼的客戶，您有90天的時間激活課程，然後在激活後的90天以完成課程，此後將不再提供課程。
+所有 Microsoft 官方課程 (MOC) 隨選課程（包括以下所列的課程）已于2020年6月30日淘汰。  針對在淘汰日期之前購買或取得 MOC 隨選課程程式碼的客戶，您有90天的時間可以啟用課程，然後在啟用後90天完成課程，之後將無法再使用課程。
 
-請在以下站點上參考免費的在線課程和學習資源：[https://aka.ms/learn](https://aka.ms/learn)
+請參閱下列網站的免費線上課程和學習資源： [https://aka.ms/learn](https://aka.ms/learn)
 
-## 停用的MOC按需課程包括：
+## <a name="retired-moc-on-demand-courses-include"></a>已淘汰的 MOC 隨選課程包括：
 
-- OD10748: Planning and Deploying System Center 2012 Configuration Manager (90天)
-- OD10961: Automating Administration with Windows PowerShell® (90天)
-- OD10962: Advanced Automated Administration with Windows PowerShell® (90天)  
-- OD10964: Cloud & Datacenter Monitoring with System Center Operations Manager (90天)  
-- OD10965: IT Service Management with System Center Service Manager (90天)  
-- OD10967: Fundamentals of a Windows Server® Infrastructure (90天)  
-- OD10969: Active Directory® Services with Windows Server® (90天)  
-- OD10972: Administering the Web Server (IIS) Role of Windows Server (90天)  
-- OD10979: Introduction to Microsoft Azure for IT Professionals (90天)  
-- OD10982: Supporting and Troubleshooting Windows 10 (90天)  
-- OD10984: Deploying and Managing Office 365 Hybrid Deployments (90天)  
-- OD10985: Introduction to SQL Databases (90天)  
-- OD10986: Updating Your Skills to SQL Server 2016 (90天)  
-- OD10987: Performance Tuning and Optimizing SQL Databases (90天)  
-- OD10988: Managing SQL Business Intelligence Operations (90天)  
-- OD10990: Analyzing Data with SQL Server Reporting Services (90天)  
-- OD10991: Troubleshooting Windows Server 2016 Core Technologies (90天)  
-- OD10992: Integrating On-Premises Core Infrastructure with Microsoft Azure (90天)  
-- OD10993: Integrating On-Premises Identity Infrastructure with Microsoft Azure (90天)  
-- OD10994: Data Analysis Fundamentals using Excel (90天)  
-- OD10997: Office 365 Administration and Troubleshooting (90天)  
-- OD10998: Updating Your Skills to SQL Server 2017 (90天)  
-- OD10999: SQL Server on Linux (90天)  
-- OD13961: Automating Administration with Windows PowerShell® (90天)  
-- OD13969: Active Directory® Services with Windows Server® (90天)  
-- OD20331: Core Solutions of Microsoft® SharePoint® Server 2013 (90天)  
-- OD20332: Advanced Solutions of Microsoft® SharePoint® Server 2013 (90天)  
-- OD20334: Core Solutions of Skype for Business 2015 (90天)  
-- OD20339-1: Planning and Administering SharePoint 2016 (90天)  
-- OD20339-2: Advanced Technologies of SharePoint 2016 (90天)  
-- OD20341: Core Solutions of Microsoft® Exchange Server 2013 (90天)  
-- OD20342: Advanced Solutions of Microsoft Exchange Server 2013 (90天)  
-- OD20345-1: Administering Microsoft Exchange Server 2016 (90天)  
-- OD20345-2: Designing and Deploying Microsoft Exchange Server 2016 (90天)  
-- OD20347: Enabling and Managing Office 365 (90天)  
-- OD20410: Installing and Configuring Windows Server® 2012 (90天)  
-- OD20411: Administering Windows Server® 2012 (90天)  
-- OD20412: Configuring Advanced Windows Server® 2012 Services (90天)  
-- OD20413: Designing and Implementing a Server Infrastructure (90天)  
-- OD20417: Upgrading Your Skills to MCSA Windows Server® 2012 (90天)  
-- OD20461: Querying Microsoft SQL Server® 2014 (90天)  
-- OD20462: Administering Microsoft® SQL Server® 2014 Databases (90天)  
-- OD20463: Implementing a Data Warehouse with Microsoft® SQL Server® 2014 (90天)  
-- OD20480: Programming in HTML5 with JavaScript and CSS3 (90天)  
-- OD20483: Programming in C# (90天)  
-- OD20486: Developing ASP.NET Core MVC Web Applications (90天)  
-- OD20487: Developing Microsoft Azure and Web Services (90天)  
-- OD20488: Developing Microsoft SharePoint® Server 2013 Core Solutions (90天)  
-- OD20535: Architecting Microsoft Azure Solutions (90天)  
-- OD20537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack (90天)  
-- OD20695: Deploying Windows Desktops and Enterprise Applications (90天)  
-- OD20697-1: Implementing and Managing Windows 10 (90天)  
-- OD20697-2: Deploying and Managing Windows 10 Using Enterprise Services (90天)  
-- OD20703-1: Administering System Center Configuration Manager (90天)  
-- OD20703-2: Integrating Cloud Services with System Center Configuration Manager (90天)  
-- OD20740: Installation, Storage, and Compute with Windows Server 2016 (90天)  
-- OD20741: Networking with Windows Server 2016 (90天)  
-- OD20742: Identity with Windows Server 2016 (90天)  
-- OD20743: Upgrading Your Skills to MCSA: Windows Server 2016 (90天)  
-- OD20744: Securing Windows Server 2016 (90天)  
-- OD20745: Implementing a Software-Defined DataCenter (90天)  
-- OD20761: Querying Data with Transact-SQL (90天)  
-- OD20762: Developing SQL Databases (90天)  
-- OD20764: Administering a SQL Database Infrastructure (90天)  
-- OD20765: Provisioning SQL Databases (90天)  
-- OD20767: Implementing a SQL Data Warehouse (90天)  
-- OD20768: Developing SQL Data Models (90天)  
-- OD20777: Implementing Microsoft Azure Cosmos DB Solutions (90天)  
-- OD20778: Analyzing Data with Power BI (90天)  
-- OD20779: Analyzing Data with Excel (90天)  
-- OD23410: Installing and Configuring Windows Server® 2012 (90天)  
-- OD40389: Windows Server® 2016 First Look Clinic (90天)  
-- OD40390: Microsoft Azure for AWS Experts (90天)  
-- OD41389: Windows Server® 2016 First Look Clinic (90天)  
+- OD10748：規劃與部署 System Center 2012 設定管理員 (90 天) 
+- OD10961： Windows PowerShell® (90 天自動進行管理) 
+- OD10962： Windows PowerShell® (90 天的 Advanced 自動化管理)   
+- OD10964：使用 System Center Operations Manager (90 天的雲端 & 資料中心監視)   
+- OD10965： System Center Service Manager (90 天的 IT 服務管理)   
+- OD10967： Windows Server®基礎結構 (90 天的基本概念)   
+- OD10969： Active Directory® Services Windows Server® (90 天)   
+- OD10972： Windows Server (90 天 (IIS) 角色管理 Web 服務器)   
+- OD10979：適用于 IT 專業人員的 Microsoft Azure 簡介 (90 天)   
+- OD10982： Windows 10 (90 天) 支援和疑難排解  
+- OD10984： (90 天部署和管理 Office 365 混合部署)   
+- OD10985： SQL 資料庫 (90 天的簡介)   
+- OD10986：將您的技能更新為 SQL Server 2016 (90 天)   
+- OD10987：效能微調和優化 SQL 資料庫 (90 天)   
+- OD10988：管理 SQL 商務智慧作業 (90 天)   
+- OD10990：使用 SQL Server Reporting Services (90 天來分析資料)   
+- OD10991： (90 天 Windows Server 2016 核心技術進行疑難排解)   
+- OD10992：整合內部部署核心基礎結構與 Microsoft Azure (90 天)   
+- OD10993：整合內部部署身分識別基礎結構與 Microsoft Azure (90 天)   
+- OD10994：使用 Excel (90 天的資料分析基礎)   
+- OD10997： (90 天 Office 365 系統管理和疑難排解)   
+- OD10998：將您的技能更新為 SQL Server 2017 (90 天)   
+- OD10999： Linux 上的 SQL Server (90 天)   
+- OD13961： Windows PowerShell® (90 天自動進行管理)   
+- OD13969： Active Directory® Services Windows Server® (90 天)   
+- OD20331： Microsoft® SharePoint® Server 2013 (90 天的核心解決方案)   
+- OD20332： Microsoft® SharePoint® Server 2013 (90 天的 Advanced 解決方案)   
+- OD20334：商務用 Skype 2015 (90 天的核心解決方案)   
+- OD20339-1：規劃和管理 SharePoint 2016 (90 天)   
+- OD20339-2： SharePoint 2016 (90 天的先進技術)   
+- OD20341： Microsoft® Exchange Server 2013 (90 天的核心解決方案)   
+- OD20342： Microsoft Exchange Server 2013 (90 天的 Advanced 解決方案)   
+- OD20345-1：管理 Microsoft Exchange Server 2016 (90 天)   
+- OD20345-2：設計和部署 Microsoft Exchange Server 2016 (90 天)   
+- OD20347：啟用和管理 Office 365 (90 天)   
+- OD20410：安裝和設定 Windows Server® 2012 (90 天)   
+- OD20411：管理 Windows Server® 2012 (90 天)   
+- OD20412：設定 Advanced Windows Server®2012服務 (90 天)   
+- OD20413：設計和執行伺服器基礎結構 (90 天)   
+- OD20417：將您的技能升級至 MCSA Windows Server® 2012 (90 天)   
+- OD20461：查詢 Microsoft SQL Server® 2014 (90 天)   
+- OD20462：管理 Microsoft® SQL Server®2014資料庫 (90 天)   
+- OD20463：使用 Microsoft® SQL Server® 2014 (90 天) 執行資料倉儲  
+- OD20480：使用 JavaScript 和 CSS3 (90 天的 HTML5 進行程式設計)   
+- OD20483： c # 中的程式設計 (90 天)   
+- OD20486： (90 天開發 ASP.NET Core MVC Web 應用程式)   
+- OD20487： (90 天開發 Microsoft Azure 和 Web 服務)   
+- OD20488：開發 Microsoft SharePoint® Server 2013 核心解決方案 (90 天)   
+- OD20535：架構 (90 天的 Microsoft Azure 解決方案)   
+- OD20537：設定和操作 Microsoft Azure Stack (90 天的混合式雲端)   
+- OD20695： (90 天部署 Windows 桌上型電腦和 Enterprise 應用程式)   
+- OD20697-1：在90天內執行和管理 Windows 10 ()   
+- OD20697-2：使用 Enterprise Services (90 天部署和管理 Windows 10)   
+- OD20703-1：管理 System Center Configuration Manager (90 天)   
+- OD20703-2：將雲端服務與 System Center Configuration Manager (90 天的整合)   
+- OD20740： Windows Server 2016 (90 天的安裝、儲存體和計算)   
+- OD20741： Windows Server 2016 (90 天的網路功能)   
+- OD20742： Windows Server 2016 (90 天的身分識別)   
+- OD20743：將您的技能升級至 MCSA： Windows Server 2016 (90 天)   
+- OD20744： Windows Server 2016 (90 天的安全)   
+- OD20745：在90天內執行 Software-Defined DataCenter ()   
+- OD20761：使用 SQL transact-SQL 查詢資料 (90 天)   
+- OD20762： (90 天開發 SQL 資料庫)   
+- OD20764： (90 天管理 SQL Database 基礎結構)   
+- OD20765： (90 天布建 SQL 資料庫)   
+- OD20767： (90 天執行 SQL 資料倉儲)   
+- OD20768： (90 天開發 SQL 資料模型)   
+- OD20777： (90 天 Microsoft Azure Cosmos DB 的解決方案)   
+- OD20778：使用 Power BI (90 天來分析資料)   
+- OD20779：使用 Excel (90 天來分析資料)   
+- OD23410：安裝和設定 Windows Server® 2012 (90 天)   
+- OD40389： Windows Server®2016第一次觀看 (90 天的課程)   
+- OD40390：適用于 AWS 專家的 Microsoft Azure (90 天)   
+- OD41389： Windows Server®2016第一次觀看 (90 天的課程)   

@@ -1,22 +1,27 @@
 ### YamlMime:CertificationRenewal
-title: '更新您的 Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
+title: Microsoft 認證的續約： Dynamics 365 供應鏈管理、製造功能顧問關聯
 metadata:
-  title: '更新您的 Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
-  description: '如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。'
+  title: Microsoft 認證的續約： Dynamics 365 供應鏈管理、製造功能顧問關聯
+  description: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。
+  ms.openlocfilehash: fb5d764d76944ccb1597e115e05d44b4fc3ef881
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132102011"
 uid: renewal.d365-functional-consultant-manufacturing
 certificationUid: certification.d365-functional-consultant-manufacturing
 assessmentId: 866dad6c-195f-4a36-8672-87ae84681f5e
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  如果您擁有此證書，並且該證書將在六個月內過期，則您有資格更新。通過更新評估，表明您保持最新的Dynamics 365供應鏈管理更新。您還可以為精選的學習模組更新做準備。
+summary: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。 藉由傳遞續約評估，顯示您已將最新的 Dynamics 365 供應鏈管理更新保持在最新狀態。 您也可以使用學習課程模組的策劃集合來準備續約。
 skills:
-- 在Dynamics 365供應鏈管理中配置精益生產
-- 在Dynamics 365供應鏈管理中使用規劃優化
+- Configure lean manufacturing in Dynamics 365 Supply Chain Management
+- Use Planning Optimization in Dynamics 365 Supply Chain Management
 examsPassed:
 - mb-300, mb-320
-studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft認證做準備：Dynamics 365供應鏈管理、製造功能顧問助理更新評估。'
+studyGuideDescription: 您可以使用此學習課程模組集合，協助您準備 Microsoft 認證： Dynamics 365 供應鏈管理、製造功能顧問與續約評估相關聯。
 resources:
-- title: 關於證書更新
-  summary: 了解線上更新證書的過程和要求
+- title: 關於認證續約
+  summary: 瞭解在線上續訂認證的流程和需求
   url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

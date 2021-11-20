@@ -1,25 +1,33 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certified: Teams Administrator Associate'
+title: Microsoft 365認證： Teams 系統管理員關聯
 metadata:
-  title: 'Microsoft 365 Certified: Teams Administrator Associate'
-  description: Microsoft Teams 管理員管理 Microsoft Teams 以在 Microsoft 365 環境中促進高效和有效合作與交流。
+  title: Microsoft 365認證： Teams 系統管理員關聯
+  description: Microsoft Teams 系統管理員管理 Microsoft Teams，以促進 Microsoft 365 環境中有效率、有效率的共同作業與通訊。
+  ms.openlocfilehash: 4e784b20f745eec032e93c61f5795d870a6bdb31
+  ms.sourcegitcommit: 468e49f99bce29f3130cccd97af130459746d6c5
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "132105010"
 uid: certification.m365-teams-administrator-associate
 certificationRenewalUid: renewal.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>該認證內容已在2021年9月24日更新。請在 <a href="/learn/certifications/exams/ms-700">MS-700 考試頁面</a>下載技能考核檔以瞭解變更內容。</strong></font><br/><br/></div>
-  
-  該認證的報考者是管理 Microsoft Teams 以在 Microsoft 365 環境中促進高效和有效合作與交流的 Microsoft Teams 管理員。
-  
-  該認證的報考者必須能夠規劃、部署、配置和保障 Teams 聊天、管道、會議、音訊/視訊會議、現場活動、呼叫和 Microsoft Teams 認證設備。
-subTitle: Microsoft Teams 管理員管理 Microsoft Teams 以在 Microsoft 365 環境中促進高效和有效合作與交流。
+summary: >-
+  <div><font color='red'><strong>此認證的內容已于2021年9月24日更新。請下載 <a href="/learn/certifications/exams/ms-700">測驗700頁面</a> 上的技能測量檔，以查看變更了哪些內容。</strong></font><br/><br/></div>
+
+
+  這項認證的候選項目是管理 Microsoft Teams 的 Microsoft Teams 系統管理員，可在 Microsoft 365 環境中加速有效率且有效率的共同作業與通訊。
+
+
+  這項認證的候選人必須能夠規劃、部署、設定和保護 Teams 的聊天、應用程式、頻道、會議、音訊/視訊會議、實況活動、電話和 Microsoft Teams 認證的裝置。
+subTitle: Microsoft Teams 系統管理員管理 Microsoft Teams，以促進 Microsoft 365 環境中有效率、有效率的共同作業與通訊。
 levels:
 - intermediate
 skills:
-- 管理和配置 Microsoft Teams 環境
-- 管理聊天、團隊、頻道和應用程式
-- 管理呼叫和會議
-- 監控和解決 Microsoft Teams 環境問題
+- Plan and configure a Microsoft Teams environment
+- Manage chat, teams, channels, and apps
+- Manage calling and meetings
+- Monitor and troubleshoot a Microsoft Teams environment
 roles:
 - administrator
 type: role-based
@@ -37,25 +45,24 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nn
 exams:
 - uid: exam.ms-700
 resources:
-- title: 認證學習途徑
-  description: '發現訓練資源，以成為經 Microsoft Certified: Teams Administrator Associate.'
+- title: 認證學習路徑
+  description: 探索訓練資源以成為 Microsoft 認證： Teams 系統管理員建立關聯。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

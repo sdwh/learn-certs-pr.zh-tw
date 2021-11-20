@@ -1,26 +1,31 @@
 ### YamlMime:CertificationRenewal
-title: '更新您的 Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+title: Microsoft 認證的續約： Dynamics 365 Customer Service 功能顧問關聯
 metadata:
-  title: '更新您的 Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
-  description: '如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。'
+  title: Microsoft 認證的續約： Dynamics 365 Customer Service 功能顧問關聯
+  description: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。
+  ms.openlocfilehash: 929981c10030ec1c03a5719801595607ccc468df
+  ms.sourcegitcommit: 6a68287748568f3e44bbf5064f3b2ecfb73db636
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/24/2021
+  ms.locfileid: "132104966"
 uid: renewal.d365-functional-consultant-customer-service
 certificationUid: certification.d365-functional-consultant-customer-service
 assessmentId: ff363f9d-4af6-4e37-9a0d-f6cfe4d45293
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。通過更新評估，表明您保持最新的Dynamics 365 Customer Service更新。您還可以準備精選的學習模組更新。
+summary: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。 藉由傳遞續約評估，顯示您已將最新的 Dynamics 365 客戶服務更新保持在最新狀態。 您也可以使用學習課程模組的策劃集合來準備續約。
 skills:
-- 使用微軟Dynamics 365客戶服務隊列來管理案例工作負載
-- 開始使用全渠道客戶服務
-- 將Power Virtual Agents 機器人與全渠道集成以提供客戶服務
-- 使用全渠道為Dynamics 365客戶服務部署聊天小部件
-- 全渠道中用於Dynamics 365客戶服務的路由和工作分配
-- 使用 Dynamics 365 Customer Voice 創建調查
+- Use Microsoft Dynamics 365 Customer Service queues to manage case workloads
+- Get started with Omnichannel for Customer Service
+- Integrate a Power Virtual Agents bot with Omnichannel for Customer Service
+- Deploy chat widgets with Omnichannel for Dynamics 365 Customer Service
+- Routing and work distribution in Omnichannel for Dynamics 365 Customer Service
+- Create surveys with Dynamics 365 Customer Voice
 examsPassed:
 - pl-200, mb-230
-studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft認證做準備：Dynamics 365客戶服務職能顧問助理更新評估。'
+studyGuideDescription: 您可以使用此學習課程模組集合，協助您準備 Microsoft 認證： Dynamics 365 Customer Service 功能顧問將續約評估相關聯。
 resources:
-- title: 關於證書更新
-  summary: 了解線上更新證書的過程和要求
+- title: 關於認證續約
+  summary: 瞭解在線上續訂認證的流程和需求
   url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

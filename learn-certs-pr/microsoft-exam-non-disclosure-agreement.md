@@ -1,7 +1,7 @@
 ---
-title: 'Microsoft測驗保密協議 | Microsoft Docs'
-description: 'Microsoft測驗保密協議' 
-documentationcenter: NA 
+title: Microsoft 測驗未洩漏的合約 |Microsoft Docs
+description: Microsoft 測驗未洩漏的合約
+documentationcenter: NA
 author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -9,79 +9,89 @@ ms.workload: NA
 ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: bc0020c22be9df1f3bc22d0af637281f60992c14
+ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 09/14/2021
+ms.locfileid: "132104389"
 ---
-# Microsoft測驗保密協議
+# <a name="microsoft-exam-non-disclosure-agreement"></a>Microsoft 測驗未洩漏的合約
 
-### Microsoft Certification 測驗協定
+### <a name="microsoft-certification-exam-agreement"></a>MICROSOFT 認證測驗合約
 
-**請仔細閱讀本MICROSOFT認證測驗協定(“協定”)。按下“是”按鈕，即表示您認可您有權簽署本協定，並且您同意本協定中的所有條款和條件。如果您不同意，请选择“否”。您必须選擇“是”才能参加 Microsoft Certification 測驗。**
+**請仔細閱讀這份 MICROSOFT 認證測驗合約 ( 「合約」 ) 。按一下 [是] 按鈕，即表示您確認您有權進入此合約，且您同意本合約中的所有條款及條件。如果您不同意，請選取 [否]。您必須選取 [是] 以進行 MICROSOFT 認證測驗。**
 
-您(“**您**” 或 “**您的**”)与 Microsoft Corporation(“***Microsoft***”) 之間的本協議在您接受之日签订。
+這份合約會在您接受 ( 「**您**」或「**您** 的」 ) 和 Microsoft Corporation ( 「**_Microsoft_**」 ) 的日期內輸入。
 
 1. **保密**
 
-    維持 Microsoft Certification 測驗的機密性有助於保持 Microsoft Certification 的價值，並有助於確保只有合格的個人才能取得認證。
+    將 Microsoft 認證考試保持機密可協助維護 Microsoft 認證的價值，並協助確保只有合格的個人通過認證。
 
-    此測驗試是Microsoft保密和機密資訊，受智慧產權法保護。它僅供您測試您在測驗主題方面的知識和能力。
+    這項測驗是 Microsoft 的機密和專屬資訊，並且受到智慧財產權法律的保護。 您只需在測驗主題中測試您的知識和專長認證，即可取得此功能。
 
-    嚴格禁止披露考試或與考試相關的資訊，包括考試题目、答案、内容、計算、图表、圖纸或工作表 (“***考試相關資訊***”)。您不得以任何形式或透過現在已知或以後設計的任何方式全部或部分揭，分發，複製，展示，出版，概述，拍攝，記錄，下載，傳播或張貼測驗或任何測驗相關資訊。
+    任何與測驗相關的測驗或資訊的洩漏，包括測驗問題、解答、內容、計算、圖表、繪圖或工作表 ( 「***測驗相關資訊***」 ) 都是完全禁止的。 您將不會公開、散佈、複製、顯示、發佈、摘要、相片、錄製、下載、傳輸或張貼測驗，或任何形式的測驗相關資訊或任何形式的測驗相關資訊，或是任何形式或現在所設計的任何方式。
 
-2. **參選政策**
+2. **候選的執行原則**
 
-    您不會參與任何可能危及任何Microsoft Certification 測驗的機密性或結果的行為。監考官有權對違反測驗規則的個人採取即時和適當的措施。您可能被禁止參加任何 Microsoft Certification 測驗，如果Microsoft認為您違反本協定或從事任何不當行為並且不會提供測驗退費，則您的測驗成績可能會無效。不當行為的範例包括：
+    您將不會參與任何可能危及任何 Microsoft 認證測驗機密性或結果的行為。 Proctors 已獲授權，可針對違反測試規則的個人進行立即和適當的措施。 如果 Microsoft 認為您違反本合約或參與任何不法，而且不會提供測驗退款，您可能會被禁止您進行任何 Microsoft 認證測驗，且您的測驗結果可能會失效。 不法的範例包括：
 
-    - 以任何形式或任何方式提供存取，揭露，分發，複製，拍攝，記錄，下載，張貼，顯示，發布或傳輸任何測驗或測驗相關資訊。
-    - 歪曲您的身份或冒充他人。
-    - 歪曲您的居住國家或將提供線上督導測驗的國家。
-	- 修改或更改測驗，測驗成績或任何測驗記錄。
-    - 提交任何不完全屬於您自己的作業或答案。
-    - 在測驗期間提供或接受不正當的幫助。
-    - 尋求或獲取未經授權存取Microsoft Certification 測驗或測驗相關資訊(包括使用回憶試題題目資料或未經授權公布測驗問題，無論是否有答案)。
-    - 在參加測驗時擁有未經授權的物品，包括手機，電子設備，筆記本電腦，手錶，筆記，文件或內容。
-    - 根據統計分析判定為不當的行為。
-    - 試圖對任何測驗進行還原工程，反編譯或分解。
-    - 從事可能損害測驗機密性，完整性或安全性的任何其他不當行為。
-    - 違反任何 Microsoft 或測驗辦理單位的政策，要求或規則。
+    - 提供存取、洩漏、散佈、複製、拍攝、錄製、下載、張貼、顯示、發佈或傳輸任何表單或任何方式的任何測驗或測驗相關資訊。
+    - 詐稱您的身分識別或模擬另一個個人。
+    - 詐稱您居住的國家/地區或將提供線上 proctored 測驗的國家/地區。
+    - 修改或改變測驗、測驗分數或測驗記錄。
+    - 提交任何不是您自己的工作或解答。
+    - 在測驗期間提供或接收不當的協助。
+    - 尋求或取得 Microsoft 認證測驗或測驗相關資訊的未經授權存取 (這包括使用大腦傾印材質或未經授權的測驗問題，以及) 的解答。
+    - 進行測驗時擁有未經授權的專案，包括行動電話、電子裝置、膝上型電腦、監看式、附注、檔或內容。
+    - 由統計分析決定的不法。
+    - 嘗試對任何測驗進行反向工程、反組譯或拆解。
+    - 參與任何可能危及測驗機密性、完整性或安全性的其他不法。
+    - 違反任何 Microsoft 或測驗傳遞提供者的原則、需求或規則。
 
-    如果 Microsoft 確定您不符合本節的規定，Microsoft 保留使您的測驗分數無效的權利。
+    如果 Microsoft 判斷您不符合本章節的規範，microsoft 會保留讓測驗分數失效的權利。
 
-3. **考試政策**
+3. **測驗原則**
 
-    您自行負責了解並遵守位於 [https://docs.microsoft.com/learn/certifications/certification-exam-policies](https://docs.microsoft.com/learn/certifications/certification-exam-policies), 的Microsoft Certification 規定和程式，以及測驗辦理單位的規定和程式。
+    您必須自行負責瞭解並遵守位於的 Microsoft 認證測驗原則和程式，以及 [https://docs.microsoft.com/learn/certifications/certification-exam-policies](https://docs.microsoft.com/learn/certifications/certification-exam-policies) 測驗傳遞提供者的原則和程式。
 
-    您可以在以下位置查看 Microsoft 重考政策及其他 Microsoft 考试和测试过程 [https://docs.microsoft.com/learn/certifications/certification-exam-policies](https://docs.microsoft.com/learn/certifications/certification-exam-policies).您可以在測驗辦理單位的網站上了解有關測驗辦理單位規定和程式的更多資訊。
+    您可以複習 Microsoft 測驗重修原則，以及其他 Microsoft 測驗和測試程式 [https://docs.microsoft.com/learn/certifications/certification-exam-policies](https://docs.microsoft.com/learn/certifications/certification-exam-policies) 。 您可以在測驗提供者的網站上，深入瞭解測驗提供者的原則和程式。
 
-    您参加考試後有三十(30)天的時間質疑该考試的考試成績。
+    參加測驗之後，您有 30 (30) 天的時間來挑戰測驗分數。
 
-4. **學術考試**
+4. **學術測驗**
 
-    如果您註冊參加學術測驗，您必須向測驗辦理單位提供證明您目前為學生的文件或認可的學術機構的教職員，然後才能參加測驗。
+    如果您已註冊進行學術測驗，則必須向測驗提供者提供檔，以確認您目前已在認可的學術機構中註冊為學生或教職員，然後才能進行測驗。
 
-    透過參加學術測驗，您確知您是認可學術機構的學生或教職員。如果確定您在參加學術測驗時不是學生或教職員，Microsoft 保留使您的測驗成績無效的權利，並且不會提供測驗退費。
+    進行學術測驗之後，您即表示您同意您是合格學術機構的學生或教職員成員。 如果您在進行學術測驗時，認為您不是學生或教職員成員，Microsoft 會保留讓測驗結果失效的權利，且不會提供測驗退款。
 
-5. **重要隱私聲明和同意**
+5. **重要的隱私權注意事項與同意**
 
-    透過參加此測驗，您同意 Microsoft，其關係企業和測驗辦理單位可以：
+    進行這項測驗即表示您同意 Microsoft、其關係企業和測驗提供者可能：
 
-    - 彼此分享您的個人資訊和測驗資料，以便管理測驗，改進測驗計畫和測驗體驗，促進統計分析，並確定您是否通過了測驗；
-    - 有關證明您通過測驗的證書或有關 Microsoft Certification 規劃的資訊，請與您聯絡；
-    - 與其他 Microsoft 計畫(例如 Microsoft 合作夥伴網路規劃)分享您的個人資訊和測驗結果，以驗證您或您的雇主是否符合規劃要求；
-    - 與向您提供測驗憑券的學術機構，公司或政府機構附屬的標準和認證委員會分享您的資訊； 和
-    - 如果透過以下方法之一向您提供測驗，則可以與頒發憑券的實體或購買了站台授權的實體分享您的測驗結果和您的個人資訊：
-        - 公司或政府機構購買憑券，然後向其員工或承包商發放憑券，
-        - 學術機構購買了憑券，然後向學生或員工發放憑券，或者
-        - 學術機構或政府組織營運測驗考試中心，並沒有向您收取獨立的測驗費用。
-        - 一個政府機構，根據完成條件提供訓練津贴，並遵循 Microsoft 確定的驗證流程。
-    - 如果资金是通过政府機構提供的，則可以與資助您的考試的實體分享您的考試成績和您的個人資訊，該政府機構根據完成條件提供訓練津貼，並遵守 Microsoft 確定的驗證流程。
+    -  將您的個人資訊和測驗資料彼此分享以管理測驗、改善測試計劃和測試體驗、促進統計分析，以及判斷您是否通過測驗;
+    - 請洽詢您有關憑證的資訊，顯示您通過測驗或 Microsoft 認證計畫的相關資訊;
+    - 與其他 Microsoft 計畫分享您的個人資訊及測驗結果，例如 Microsoft 合作夥伴網路計畫，以驗證您或您的雇主是否符合計畫需求;
+    - 將您的資訊與與學術機構、公司或政府組織相關聯的標準和認證面板分享給您，以提供測驗證明;和
+    - 如果您有下列其中一種方法，請將您的測驗結果和您的個人資訊與簽發憑證的實體分享，或購買網站授權給您。
+        - 公司或政府組織購買了券，然後將這些券發給其員工或承包商
+        - 學術機構購買了券，然後將這些券發給學生或員工，或
+        - 學術機構或政府組織經營測驗測試中心，而且不會向您收取參與測驗的獨立費用。
+        - 一家政府機關，提供根據完成條件套用的訓練 stipends，並受限於 Microsoft 識別的驗證流程。
+    - 如果您的政府機關提供了訓練 stipends，可根據完成條件進行套用，並受限於 Microsoft 識別的驗證程式，請與您分享測驗的實體分享您的測驗結果和您的個人資訊。
 
-    如需了解有關 Microsoft 的資料收集和使用方式的更多資訊，請訪問 [https://privacy.microsoft.com](https://privacy.microsoft.com/)。若要進一步了解測驗辦理單位收集與使用資料的做法，請聯絡您的測驗辦理單位。
+    若要深入瞭解 Microsoft 的資料收集和使用實務，請造訪 [https://privacy.microsoft.com](https://privacy.microsoft.com/) 。 若要深入瞭解測驗提供者的資料收集和使用實務，請洽詢測驗提供者。
 
-6. **數據傳輸通知**
+6. **資料傳輸通知**
 
-    您的個人資料、考試資訊和考試成績（包括從歐洲經濟區、英國和瑞士收集的個人資料）可能被傳送到美國或任何其他國家進行存儲和處理，Microsoft 或其附屬公司或分包商在這些國家維護設施。您指定 Microsoft 及其附屬公司將您的資料、考試資訊和考試成績轉移到任何這樣的國家，並存儲和處理您的資料。有關我們可能如何收集、使用並共用您的資料的更多資訊，請參閱 [Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=248681)。
+    您的個人資料、測驗資訊和測驗結果 (包括從歐洲經濟區域收集的個人資料、英國和瑞士) 可能會在美國或 Microsoft 或其關係企業或轉包商維護設備所在的任何其他國家/地區進行儲存及處理。 您可以為 Microsoft 及其關係企業，執行任何這類的資料傳輸、測驗資訊和測驗結果到任何此類國家/地區，以及儲存和處理您的資料。 如需我們如何收集、使用及共用資料的詳細資訊，請參閱 [Microsoft 隱私權聲明](https://go.microsoft.com/fwlink/?LinkId=248681) 。
 
-7. **擁有權和著作權所有，並保留一切權利**
+7. **擁有權和所有保留的許可權**
 
-    7.1. **所有權**。 Microsoft擁有並保留 Microsoft Certification 測驗中的所有權利，所有權和利益。
+    7.1. **擁有權**。 Microsoft 擁有並保留 Microsoft 認證測驗的擁有權利、擁有權及興趣。
 
-    7.2. **補救措施**。 除了法律或本考试协议提供的任何其他权利和救济措施之外，Microsoft 特此明确保留因违反本考试协议和/或侵犯 Microsoft 的任何知识产权而引起的所有合法和公平的补救措施。
+    7.2. **補救**。 除了法律或本合約所提供的任何其他權利和因應措施之外，Microsoft 也明確地保留違反本合約及/或任何 Microsoft 智慧財產權權利所產生的所有法律和合理賠償措施。
+
+
+
+

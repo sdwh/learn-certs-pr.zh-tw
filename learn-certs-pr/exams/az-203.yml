@@ -1,22 +1,34 @@
 ### YamlMime:Examination
-title: Developing Solutions for Microsoft Azure
+title: 開發 Microsoft Azure 的解決方案
 metadata:
-  title: 'Exam AZ-203: Developing Solutions for Microsoft Azure'
-  description: 'Exam AZ-203: Developing Solutions for Microsoft Azure'
+  title: 測驗 AZ-203：開發 Microsoft Azure 的解決方案
+  description: 測驗 AZ-203：開發 Microsoft Azure 的解決方案
+  ms.openlocfilehash: 3a32816cd268bf12aeb8303e777f0ac588d662be
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101566"
 uid: exam.az-203
 displayName: AZ-203
-summary: |-
+summary: >-
   <div>
-  <div><strong>此測驗於 2020 年 8 月 31 日淘汰。可以進行替代考試 AZ-204。有關更多資訊，請訪問 <a href="/learn/certifications/exams/az-204">AZ-204 測驗詳細資訊頁面。</a>.</strong><br/><br/></div>
+
+  <div><strong>此測驗已于2020年8月31日淘汰。有一項替換測驗（AZ-204）可供使用。如需詳細資訊，請造訪 <a href="/learn/certifications/exams/az-204">AZ-204 測驗詳細資料網頁</a>。</strong><br/><br/></div>
+
   </div>
 
-  此測驗的應試者是負責設計與構建雲端解決方法(如應用程式與服務等)的 Azure 開發人員。他們參與了開發過程的全部階段，包括從解決方法設計到開發與部署，再到測試與維護。他們與雲端解決方法架構師、雲端 DBA、雲端管理員以及實作解決方法的客戶進行過合作。
+
+  這項測驗的候選人是設計和建立雲端解決方案（例如應用程式和服務）的 Azure 開發人員。 他們參與了開發的所有階段，從解決方案設計到開發和部署，到測試和維護。 它們與雲端解決方案架構設計人員、雲端 Dba、雲端系統管理員和用戶端合作，以實行解決方案。
+
   <br/>
 
-  應試者應精通使用 Azure 工具與技術(包括儲存、安全、計算與通信)開發應用與服務。
 
-  應試者必須在軟體開發的全部階段擁有至少一年的可擴展解決方法開發經驗，而且需要精通至少一種雲端支援程式設計語言。
-subTitle: '該測驗衡量您完成以下技術任務的能力：開發 Azure 基礎設施即服務計算解決方案；開發 Azure 平台即服務計算解決方案；開發 Azure 存儲；實作 Azure 安全；監視、排除故障和優化解決方案；並連接並使用 Azure 服務和第三方服務。'
+  在使用 Azure 工具和技術（包括儲存體、安全性、計算和通訊）來開發應用程式和服務時，候選人應該要熟練。
+
+
+  候選人必須至少有一年的經驗，可以透過軟體發展的所有階段開發可擴充的解決方案，並具備至少一個雲端支援的程式設計語言。
+subTitle: 這項測驗會測量您完成下列技術工作的能力：開發 Azure 基礎結構即服務計算解決方案;開發 Azure 平臺即服務計算解決方案;針對 Azure 儲存體進行開發;實行 Azure 安全性;監視、疑難排解和優化解決方案;並連接並使用 Azure 服務和協力廠商服務。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
 locales:
@@ -27,12 +39,12 @@ locales:
 levels:
 - intermediate
 skills:
-- 開發 Azure 基礎設施即服務計算解決方案 (10-15%)
-- 開發 Azure 平台即服務計算解決方案 (20-25%)
-- 開發 Azure 存儲 (15-20%)
-- 實作 Azure 安全 (10-15%)
-- 監控、故障排除和優化解決方案 (10-15%)
-- 連接並使用 Azure 和第三方服務 (20-25%)
+- Develop Azure Infrastructure as a Service compute solution (10-15%)
+- Develop Azure Platform as a Service compute solution (20-25%)
+- Develop for Azure storage (15-20%)
+- Implement Azure security (10-15%)
+- Monitor, troubleshoot, and optimize solutions (10-15%)
+- Connect to and consume Azure and third-party services (20-25%)
 retirementDate: 08/31/2020
 roles:
 - developer
@@ -60,25 +72,24 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md
-

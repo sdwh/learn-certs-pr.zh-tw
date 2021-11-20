@@ -1,54 +1,59 @@
-﻿### YamlMime:Role 
-title: Developer [開發人員] 
-metadata: 
-  title: Developer [開發人員] 
-  description: 開發人員設計，組建，測試和維護解決方案。開發人員透過與解決方案架構師和客戶合作，來實作應用程式和服務。
-uid: role.developer 
-summary: | 
-  開發人員設計，組建，測試和維護解決方案。開發人員透過與解決方案架構師和客戶合作，來實作應用程式和服務。 
-subTitle: 開發人員設計、組建、測試和維護雲解決方案。
-certificationPaths: 
-- title: Azure Developer
+### YamlMime:Role
+title: 開發人員
+metadata:
+  title: 開發人員
+  description: 開發人員設計、建立、測試及維護解決方案。 開發人員藉由與解決方案架構設計人員和客戶合作，來執行應用程式和服務。
+  ms.openlocfilehash: c2f02cf23e41d59d43048cdf95b245d0ae1bc9e7
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104821"
+uid: role.developer
+summary: "開發人員設計、建立、測試及維護解決方案。 開發人員藉由與解決方案架構設計人員和客戶合作，來執行應用程式和服務。 \n"
+subTitle: 開發人員設計、建立、測試及維護雲端解決方案。
+certificationPaths:
+- title: Azure 開發人員
   linkedInKeywords: Azure Developer
-  uid: certification-path.developer 
-  prerequisites: 
+  uid: certification-path.developer
+  prerequisites:
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-developer
     levels:
-    - intermediate 
-- title: Dynamics 365 Finance and Operations Apps Developer
+    - intermediate
+- title: Dynamics 365 財務和營運應用程式開發人員
   linkedInKeywords: Dynamics 365 Finance and Operations Apps Developer
   uid: certification-path.d365-finance-and-operations-apps-developer-associate
-  prerequisites: 
+  prerequisites:
   - uid: certification.d365-fundamentals-customer-engagement-apps-crm
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.d365-finance-and-operations-apps-developer-associate
     levels:
-    - intermediate 
-- title: Microsoft 365 Developer
+    - intermediate
+- title: 'Microsoft 365 開發人員 '
   linkedInKeywords: Microsoft 365 Developer
   uid: certification-path.m365-developer-associate
-  prerequisites: 
+  prerequisites:
   - uid: certification.microsoft-365-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.m365-developer-associate
     levels:
-    - intermediate 
-- title: Power Platform Developer
+    - intermediate
+- title: Power Platform 開發人員
   linkedInKeywords: Power Platform Developer
   uid: certification-path.power-platform-developer-associate
-  prerequisites: 
+  prerequisites:
   - uid: certification.power-platform-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.power-platform-developer-associate
     levels:
     - intermediate
@@ -70,12 +75,12 @@ certifications:
   requiredExams:
   - uid: exam.az-220
 resources:
-- title: Microsoft 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: Microsoft 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 訓練和認證海報
-  description: 透過此訓練和認證海報選取您的成功路徑。
+  description: 使用這個訓練和認證海報，選擇成功的途徑。
   href: https://aka.ms/traincertposter
-- title: 支援認證
+- title: 認證的支援
   href: ../help.md
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。

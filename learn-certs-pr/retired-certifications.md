@@ -1,76 +1,83 @@
 ---
-title: 認證的取消 | Microsoft Docs
-description: 認證的取消
+title: 認證淘汰 |Microsoft Docs
+description: 認證淘汰
 documentationcenter: NA
-author: venkatorugantimsft
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 07/30/2019
-ms.author: venkato
+ms.author: msulliv
+ms.prod: non-product-specific
+ms.openlocfilehash: df515f3561b4b1145bc3549f029fbb07175ee4ce
+ms.sourcegitcommit: 323a3a87c21cb338e05d34ca80341cb6b2e84520
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 10/15/2021
+ms.locfileid: "132105142"
 ---
-# 認證的取消
+# <a name="certification-retirement"></a>認證淘汰
 
-## 為何取消認證
+## <a name="why-certifications-get-retired"></a>為何憑證被淘汰
 
-技術和相關工作職能每年都在快速變化。為了使我們的認證計畫保持相關性，我們持續審查我們的考試與認證，以確保其能夠反映最新的技能和 Microsoft 技術，並取消不再相關的認證計畫。 我們的目標是讓考生處於技術前沿、擔任高需求的 cloud 職務，我們通過對説明組織進行數位化轉型的關鍵職務進行認證，來達到前述目標。如需有關這方面的更多詳細資訊，請訪問：[Updating Microsoft Certifications: How we keep them relevant – Microsoft Tech Community.](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/updating-microsoft-certifications-how-we-keep-them-relevant/ba-p/1469425)
+技術與相關聯的工作角色會每年的速度變得更快。 為了讓我們的認證程式保持相關，我們會持續審視我們的測驗和認證，以確保他們反映最新的技能和 Microsoft 技術，並淘汰那些不再相關的技術。 我們的目標是要讓候選人能以高需求的雲端式工作角色，在科技的頂尖邊緣上達成目標，並藉由提供重要工作角色的認證，協助組織進行數位轉換。 如需詳細資訊，請造訪：[更新 Microsoft 認證：我們如何保持相關-Microsoft Tech Community。](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/updating-microsoft-certifications-how-we-keep-them-relevant/ba-p/1469425)
 
-## 計畫取消的認證
+## <a name="certifications-scheduled-to-retire"></a>排定淘汰的認證
 
-計畫將在未來 12 個月中取消的認證列於此處。（該資訊可能會發生變化。）
+在接下來的12個月中，已排程要淘汰的認證如下所示。  (這項資訊可能會變更。 )   
 
 |                                             |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MTA: Database Fundamentals](/learn/certifications/mta-database-fundamentals) | 於 2022 年 6 月 30 日取消 |
-| [MTA: Windows Server Administration Fundamentals](/learn/certifications/mta-windows-server-administration-fundamentals) | 於 2022 年 6 月 30 日取消 |
-| [MTA: Security Fundamentals](/learn/certifications/mta-security-fundamentals) | 於 2022 年 6 月 30 日取消 |
-| [MTA: Windows Operating System Fundamentals](/learn/certifications/mta-windows-operating-system-fundamentals) | 於 2022 年 6 月 30 日取消 |
-| [MTA: Introduction to Programming Using Java](/learn/certifications/mta-introduction-to-programming-using-java) | 於 2022 年 6 月 30 日取消 |
-| [MTA: Software Development Fundamentals](/learn/certifications/mta-software-development-fundamentals) | 於 2022 年 6 月 30 日取消 |
-| [MTA: HTML5 Application Development Fundamentals](/learn/certifications/mta-html5-application-development-fundamentals) | 於 2022 年 6 月 30 日取消 |
-| [MTA: Introduction to Programming Using Python](/learn/certifications/mta-introduction-to-programming-using-python) | 於 2022 年 6 月 30 日取消 |
-| [MTA: Networking Fundamentals](/learn/certifications/mta-networking-fundamentals) | 於 2022 年 6 月 30 日取消 |
-| [MTA: Introduction to Programming Using HTML and CSS](/learn/certifications/mta-introduction-to-programming-using-html-and-css) | 於 2022 年 6 月 30 日取消 |
-| [MTA: Introduction to Programming Using JavaScript](/learn/certifications/mta-introduction-to-programming-using-javascript) | 於 2022 年 6 月 30 日取消 |
-| [MTA: Mobility and Device Fundamentals](/learn/certifications/mta-mobility-and-device-fundamentals) | 於 2022 年 6 月 30 日取消 |
+| [MTA：資料庫基礎](/learn/certifications/mta-database-fundamentals) | 2022年6月30日淘汰 |
+| [MTA： Windows Server 管理基礎](/learn/certifications/mta-windows-server-administration-fundamentals) | 2022年6月30日淘汰 |
+| [MTA：安全性基礎](/learn/certifications/mta-security-fundamentals) | 2022年6月30日淘汰 |
+| [MTA： Windows 作業系統基礎](/learn/certifications/mta-windows-operating-system-fundamentals) | 2022年6月30日淘汰 |
+| [MTA：使用 JAVA 進行程式設計簡介](/learn/certifications/mta-introduction-to-programming-using-java) | 2022年6月30日淘汰 |
+| [MTA：軟體發展基礎](/learn/certifications/mta-software-development-fundamentals) | 2022年6月30日淘汰 |
+| [MTA： HTML5 應用程式開發基礎](/learn/certifications/mta-html5-application-development-fundamentals) | 2022年6月30日淘汰 |
+| [MTA：使用 Python 進行程式設計簡介](/learn/certifications/mta-introduction-to-programming-using-python) | 2022年6月30日淘汰 |
+| [MTA：網路基礎](/learn/certifications/mta-networking-fundamentals) | 2022年6月30日淘汰 |
+| [MTA：使用 HTML 和 CSS 進行程式設計的簡介](/learn/certifications/mta-introduction-to-programming-using-html-and-css) | 2022年6月30日淘汰 |
+| [MTA：使用 JavaScript 進行程式設計的簡介](/learn/certifications/mta-introduction-to-programming-using-javascript) | 2022年6月30日淘汰 |
+| [MTA：行動裝置與裝置基礎](/learn/certifications/mta-mobility-and-device-fundamentals) | 2022年6月30日淘汰 |
 
-## 最近取消的認證
+## <a name="recently-retired-certifications"></a>最近淘汰的認證 
 
-這些認證已於去年取消。當某一認證已取消一年以上時，其將從此頁面中刪除。某一認證取消後，Microsoft Learn 課程或認證產品中將不再提供該認證。如果您在某一認證被取消之前獲得了該認證，其將被保留在您的成績報告單中。
+這些認證已在去年淘汰。 當認證已淘汰超過一年時，就會從此頁面移除。 一旦憑證淘汰之後，Microsoft Learn 課程或認證供應專案將無法再使用，因此您將無法再續訂。 如果您在憑證淘汰前獲得或續約，則會在您的活動區段中保留您的文字記錄，直到到期為止。 憑證到期後，就會移動文字記錄的 [認證歷程記錄] 區段。
 
-認證將在其被取消後，在您的成績報告單的 Active 部分中保留兩年。兩年後，其將被移至您的成績報告單的 Certification History部分中。
+在2023年1月31日前，舊版認證仍會保留在您文字記錄的使用中部分，然後將會移至您文字記錄的 [認證歷程記錄] 區段。
 
-| Role-based                                                                         |                    |
+| 角色型                                                                         |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 2021年6月30日 |
-| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | 2021年6月30日 |
-| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 2020 年 12 月 31 日 |
+| [Microsoft 認證： Dynamics 365 基本概念](/learn/certifications/d365-fundamentals) | 2021年6月30日 |
+| [Microsoft 認證： Dynamics 365 + Power Platform 解決方案架構設計師專家](/learn/certifications/power-apps-and-d365-solution-architect-expert) | 2021年6月30日 |
+| [Microsoft 認證： Power Apps + Dynamics 365 開發人員相關聯](/learn/certifications/power-apps-and-d365-developer-associate) | 2020 年 12 月 31 日 |
 
-| Microsoft Certified Solutions Developer                                            |                    |
+| Microsoft 認證解決方案開發人員                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSD: App Builder](/learn/certifications/mcsd-app-builder-certification)          | 2021 年 1 月 31 日 |
+| [MCSD： App Builder](/learn/certifications/mcsd-app-builder-certification)          | 2021年1月31日 |
 
-| Microsoft Certified Solutions Associate                                            |                    |
+| Microsoft 認證解決方案關聯                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSA: BI Reporting](/learn/certifications/mcsa-bi-reporting)                      | 2021 年 1 月 31 日 |
-| [MCSA: Dynamics 365 for Operations](/learn/certifications/mcsa-microsoft-dynamics-365-for-operations) | 2021 年 1 月 31 日 |
-| [MCSA: SQL 2016 Database Admin](/learn/certifications/mcsa-sql2016-database-administration-certification) | 2021 年 1 月 31 日 |
-| [MCSA: SQL 2016 BI Development](/learn/certifications/mcsa-sql2016-business-intelligence-certification) | 2021 年 1 月 31 日 |
-| [MCSA: SQL 2016 Database Dev](/learn/certifications/mcsa-sql2016-database-development-certification) | 2021 年 1 月 31 日 |
-| [MCSA: SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification)         | 2021 年 1 月 31 日 |
-| [MCSA: Universal Windows Platform](/learn/certifications/mcsa-universal-windows-platform) | 2021 年 1 月 31 日 |
-| [MCSA: Web Applications](/learn/certifications/mcsa-web-applications-certification) | 2021 年 1 月 31 日 |
-| [MCSA: Windows Server 2012](/learn/certifications/mcsa-windows-server-certification) | 2021 年 1 月 31 日 |
-| [MCSA: Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification) | 2021 年 1 月 31 日 |
+| [MCSA： BI 報表](/learn/certifications/mcsa-bi-reporting)                      | 2021年1月31日 |
+| [MCSA： Dynamics 365 for Operations](/learn/certifications/mcsa-microsoft-dynamics-365-for-operations) | 2021年1月31日 |
+| [MCSA： SQL 2016 資料庫管理員](/learn/certifications/mcsa-sql2016-database-administration-certification) | 2021年1月31日 |
+| [MCSA： SQL 2016 BI 開發](/learn/certifications/mcsa-sql2016-business-intelligence-certification) | 2021年1月31日 |
+| [MCSA： SQL 2016 資料庫開發人員](/learn/certifications/mcsa-sql2016-database-development-certification) | 2021年1月31日 |
+| [MCSA： SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification)         | 2021年1月31日 |
+| [MCSA：通用 Windows 平臺](/learn/certifications/mcsa-universal-windows-platform) | 2021年1月31日 |
+| [MCSA：Web 應用程式](/learn/certifications/mcsa-web-applications-certification) | 2021年1月31日 |
+| [MCSA： Windows Server 2012](/learn/certifications/mcsa-windows-server-certification) | 2021年1月31日 |
+| [MCSA： Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification) | 2021年1月31日 |
 
-| Microsoft Certified Solutions Expert                                               |                    |
+| Microsoft 認證的解決方案專家                                               |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSE: Business Applications](/learn/certifications/mcse-business-applications)    | 2021 年 1 月 31 日 |
-| [MCSE: Core Infrastructure](/learn/certifications/mcse-core-infrastructure)        | 2021 年 1 月 31 日 |
-| [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | 2021 年 1 月 31 日 |
-| [MCSE: Productivity](/learn/certifications/mcse-productivity-certification)        | 2021 年 1 月 31 日 |
+| [MCSE： Business Applications](/learn/certifications/mcse-business-applications)    | 2021年1月31日 |
+| [MCSE：核心基礎結構](/learn/certifications/mcse-core-infrastructure)        | 2021年1月31日 |
+| [MCSE：資料管理 & 分析](/learn/certifications/mcse-data-management-analytics) | 2021年1月31日 |
+| [MCSE：生產力](/learn/certifications/mcse-productivity-certification)        | 2021年1月31日 |
 
-| Microsoft Technology Associate                                                     |                    |
+| Microsoft 技術相關                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
+
 ___
-

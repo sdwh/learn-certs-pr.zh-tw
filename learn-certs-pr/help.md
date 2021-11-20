@@ -1,6 +1,6 @@
 ---
-title: 認證支持 | Microsoft Docs
-description: 認證支持
+title: 認證支援 |Microsoft Docs
+description: 認證支援
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -9,23 +9,29 @@ ms.workload: NA
 ms.date: 08/20/2020
 ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: 2d364f25404d903c88c16807d01e66d811989cc3
+ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 09/14/2021
+ms.locfileid: "132101426"
 ---
-# 認證支持
+# <a name="certification-support"></a>認證支援
 
-## 關於認證支援
+## <a name="about-certification-support"></a>關於認證支援
 
-我們隨時提供幫助。我們通過全面和詳細的網站以及主持人論壇來提供支援。
+我們在此提供協助。 我們會透過我們的全方位和詳細網站，以及我們的仲裁論壇提供支援。
 
-## 請與支持部門聯繫
+## <a name="contact-support"></a>請連絡支援人員
 
-| 支持的領域 | 如何聯繫我們 |
+| 支援區域 | 如何聯繫我們 |
 | ------------- | --- |
-| Microsoft Certification 考試和 Microsoft Certifications | 您的問題可能已在如下頁面被回答：<br/> - [認證流程概覽](/learn/certifications/certification-process-overview)<br/>- [線上監考介紹和 FAQs ](/learn/certifications/online-exams-intro) <br/>- [管理您的認證檔案](/learn/certifications/manage-certification-profile)<br/><br/>更新您的法定名稱：<br/>請訪問：[如何修改您在 Microsoft Certification 檔案上的名稱。](/learn/certifications/manage-certification-profile#how-to-change-the-name-on-your-microsoft-certification-profile)<br/><br/>供應：<br/>如果您因殘疾要依靠輔助技術或要求測試供應，請訪問：[請求供應。](/learn/certifications/request-accommodations)<br/><br/>所有其他支持問題：<br/>按照如下步驟通過我們適當的[認證支援論壇](https://aka.ms/MCPForum) 獲得幫助。|
-| Microsoft Certified Trainer (MCT) 專案 | 您的問題可能已經在我們關於 [Microsoft Certified Trainer](/learn/certifications/mct-certification) program 的頁面上得到了回答。<br/><br/>所有其他支持問題：<br/>請通過我們的[主持人支援論壇](https://trainingsupport.microsoft.com/en-us/tcmct/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1)聯繫我們的 Microsoft Certified Trainers。|
+| Microsoft 認證測驗和 Microsoft 認證 | 您的問題可能已在下列其中一個頁面上回答：<br/> - [認證流程總覽](/learn/certifications/certification-process-overview)<br/>- [線上 proctored 測驗簡介和常見問題](/learn/certifications/online-exams-intro) <br/>- [管理您的認證設定檔](/learn/certifications/manage-certification-profile)<br/><br/>更新您的法定名稱：<br/>造訪： [如何變更您的 Microsoft 認證設定檔上的名稱。](/learn/certifications/manage-certification-profile#how-to-change-the-name-on-your-microsoft-certification-profile)<br/><br/>住宿：<br/>如果您依賴輔助技術，或由於殘障人士需要測試住宿，請造訪： [要求住宿。](/learn/certifications/request-accommodations)<br/><br/>所有其他支援問題：<br/>依照下列步驟，透過我們的仲裁 [認證支援論壇](https://aka.ms/MCPForum) 取得協助。 |
+| Microsoft 認證講師 (MCT) 計畫 | 您的問題可能已在我們的 [Microsoft 認證講師](/learn/certifications/mct-certification) 計畫頁面上獲得解答。<br/><br/>所有其他支援問題：<br/>透過我們的 Microsoft 認證講師的 [仲裁支援論壇](https://trainingsupport.microsoft.com/en-us/tcmct/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) ，與我們聯繫。 |
 
-## 如何在論壇上發佈支持請求
+## <a name="how-to-post-a-support-request-in-the-forums"></a>如何在論壇中張貼支援要求
 
-1. 在該頁面頂部的主導航菜單中，點擊“提問”。你將需要用您的 Microsoft 帳號登錄
-2. 您將創建一個顯示名稱，然後通過範本來進行提問。
-3. 要明確您問題的主題。**您應該避免包含任何個人資訊，這是因為您的帖子會被公眾看到。**
-4. 論壇版主將在24小時內進行回復。
+1. 在頁面頂端的主要導覽功能表中，按一下 [詢問問題]。 您將需要使用 Microsoft 帳戶登入。
+2. 您將建立顯示名稱，然後提供範本來詢問問題。
+3. 請特別針對您的問題主題。 **您應該避免在您的文章公開顯示時包含任何個人資訊。**
+4. 論壇仲裁者將會在24個工作時間內回復。

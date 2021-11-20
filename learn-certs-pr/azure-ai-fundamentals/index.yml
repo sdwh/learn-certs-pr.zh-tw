@@ -1,25 +1,31 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure AI Fundamentals'
+title: Microsoft 認證： Azure AI 基礎
 metadata:
-  title: 'Microsoft Certified: Azure AI Fundamentals'
-  description: Azure AI Fundamentals 驗證機器學習和人工智慧概念以及相關 Microsoft Azure 服務的基礎知識。
+  title: Microsoft 認證： Azure AI 基礎
+  description: Azure AI 基礎概念會驗證機器學習和人工智慧概念的基本知識，以及相關的 Microsoft Azure 服務。
+  ms.openlocfilehash: deb7f894cc8d9364157aeaf4bfb10cdf87885e4c
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104161"
 uid: certification.azure-ai-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: "Azure AI Fundamentals 認證的應試者應具有機器學習 (ML) 和人工智慧  (AI) 概念以及相關 Microsoft Azure 服務的基礎知識。  \r\n\r\n該認證是一個展示常見的 ML 和 AI 工作負載以及如何在 Azure 上實作知識的機會。  \r\n\r\n該認證適用於具有技術和非技術背景的應試者。不需要資料科學和軟體工程經驗；但是，一些一般的編程知識或經驗將是有益的。  \r\n\r\nAzure AI Fundamentals 可用於準備其他基於 Azure 角色的認證，例如 Azure Data Scientist Associate 或 Azure AI Engineer Associate，但這不是其中任何一個的先決條件。"
-subTitle: Azure AI Fundamentals 驗證機器學習和人工智慧概念以及相關 Microsoft Azure 服務的基礎知識。
+summary: "Azure AI 基礎認證的候選項目應具備機器學習服務的基本知識 (ML) 和人工智慧 (AI) 概念和相關的 Microsoft Azure 服務。  \n\n此認證可讓您瞭解常見的 ML 和 AI 工作負載，以及如何在 Azure 上執行這些工作負載。  \n\n這項認證適用于具有技術性和非技術背景的候選人。 不需要資料科學和軟體工程體驗;不過，某些一般的程式設計知識或經驗會很有説明。  \n\nAzure AI 基礎概念可以用來為其他以 Azure 角色為基礎的認證（例如 Azure 資料科學家關聯或 Azure AI 工程師）進行準備，但這並不是其中任何一項的先決條件。"
+subTitle: Azure AI 基礎概念會驗證機器學習和人工智慧概念的基本知識，以及相關的 Microsoft Azure 服務。
 levels:
 - beginner
 skills:
-- 描述 AI 工作負載和注意事項
-- 描述 Azure 上機器學習的基本原理
-- 描述 Azure 上的電腦視覺工作負載的功能
-- 描述 Azure 上自然語言處理（NLP）工作負載的功能
-- 描述 Azure 上的對話式 AI 工作負載的功能
+- Describe AI workloads and considerations
+- Describe fundamental principles of machine learning on Azure
+- Describe features of computer vision workloads on Azure
+- Describe features of Natural Language Processing (NLP) workloads on Azure
+- Describe features of conversational AI workloads on Azure
 roles:
 - ai-engineer
-- data-scientist
 - developer
-- solution-architect
+- data-scientist
+- student
 type: fundamentals
 products:
 - azure
@@ -50,27 +56,26 @@ exams:
 - uid: exam.ai-900
 resources:
 - title: Azure 認證海報
-  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  description: 查看 Azure 的基本概念、角色型和專長認證等總覽。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 認證之旅
-  description: 探索 Azure AI Fundamentals 的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索 Azure AI 基本概念取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARlg
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

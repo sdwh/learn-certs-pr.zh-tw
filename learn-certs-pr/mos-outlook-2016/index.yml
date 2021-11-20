@@ -1,20 +1,25 @@
 ### YamlMime:Certification
-title: 'Microsoft Office Specialist: Microsoft Outlook 2016'
+title: Microsoft Office專家： Microsoft Outlook 2016
 metadata:
-  title: 'Microsoft Office Specialist: Microsoft Outlook 2016'
-  description: 'Microsoft Office Specialist: Microsoft Outlook 2016'
+  title: Microsoft Office專家： Microsoft Outlook 2016
+  description: Microsoft Office專家： Microsoft Outlook 2016
+  ms.openlocfilehash: c3fdfafbd1b14a421e871f53ac4faaadba22015e
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104329"
 uid: certification.mos-outlook-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  透過取得 Microsoft Office Specialist (MOS) 2016 認證，證明您具有充分利用 Outlook 所需的技能。成功的應試者將建立及編輯具專業外觀的電子郵件訊息、跨時區維護行事曆，以及針對各種用途與情況排程工作。
-subTitle: 該認證展現您取得特定 Office 程式的 Microsoft Office Specialist (MOS) 認證，具備充分運用 Office 所需的技能。
+summary: 藉由獲得 Microsoft Office 專家 (MOS) 2016 認證，示範您有充分利用 Outlook 所需的技能。 成功的候選人將會建立和編輯專業型式的電子郵件訊息、維護跨時區的行事曆，以及針對各種用途和情況排程工作。
+subTitle: 此認證會向 Microsoft Office 專家 (MOS 特定 Office 計畫中的) 認證，藉此證明您擁有充分利用 Office 所需的技能。
 levels:
 - intermediate
 skills:
-- 管理 Outlook 環境以提高生產力
-- 管理訊息
-- 管理時間表
-- 管理連絡人和群組
+- Manage the Outlook environment for productivity
+- Manage messages
+- Manage schedules
+- Manage contacts and groups
 roles:
 - business-user
 type: mos
@@ -23,19 +28,18 @@ products:
 exams:
 - uid: exam.77-731
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

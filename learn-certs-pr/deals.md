@@ -1,68 +1,75 @@
 ---
-title: 優惠| Microsoft Docs
-description: 優惠 
-documentationcenter: NA 
-author: bipach
+title: 優惠 |Microsoft Docs
+description: 供應項目
+documentationcenter: NA
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 08/22/2019
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
+ms.openlocfilehash: c91c4d7f76a299e2eb029655a0a2f7137126f273
+ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 09/14/2021
+ms.locfileid: "132101942"
 ---
-# 優惠
+# <a name="offers"></a>供應項目
 
-## 專用套裝程式
+## <a name="special-packages"></a>特殊套件
 
-我們與 Pearson VUE 合作，一起提供用於考試及實踐測試的專用套裝程式。我們明白考試是一件充滿挑戰和壓力的事情，知道您可以在考試前進行練習並且重新考試可以讓您充滿信心。目前這些套裝程式是：
+我們與皮耳森 VUE 合作，為測驗和實務測試提供特殊套件。 我們瞭解參加測驗可能具有挑戰性和壓力，並知道您在進行測驗之前可以練習，並讓您放心投注信任感您。 這些供應專案目前為：
 
-- Exam Replay.
-- 附帶 Practice Test 的 Exam Replay.
+- 測驗重新執行。
+- 實務測試的測驗重新執行。
 
-## 關於這些提供項
+## <a name="about-the-offers"></a>關於優惠
 
-### Exam Replay
+### <a name="exam-replay"></a>測驗重新執行
 
-Exam Replay 給您第二次通過認證考試的機會。如果您第一次沒有通過考試，不要擔心，只要提高您的技能，如果需要就再考一次。
+測驗重新執行讓您有第二次通過認證測驗的機會。 如果您沒有通過第一次嘗試，別擔心，只要將您的技能波蘭文，就可以視需要重試測驗。
 
-Exam Replay 包括：
+測驗重新執行包括：
 
-- Microsoft Certified Professional Certification 考試折扣券一張。
-- 同一考試的一次重考。
+- 一個 Microsoft 認證的 Professional 認證測驗憑證。
+- 一次重考相同的測驗。
 
-  [現在就購買 Exam Replay 吧。](https://www.mindhub.com/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3)
+  [立即購買測驗。](https://www.mindhub.com/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3)
 
-### 附帶 Practice Test 的 Exam Replay
+### <a name="exam-replay-with-practice-test"></a>使用實務測試進行測驗重新執行
 
-將 Microsoft Official Practice Test 添加到附帶一次重考的考試折扣券中，以便更好地準備通過您的 Microsoft 認證考試。實踐測試會提升您的準備程度，而重考會增加您的成功機會。
+使用重試將 Microsoft 官方實務測試新增至測驗券，以更好的準備通過您的 Microsoft 認證測驗。 實務測試可提升您的就緒程度，而測驗重試會增加您的成功機會。
 
-附帶 Practice Test 的 Exam Replay 包括：
+實務測試的測驗重新執行包括：
 
-- 一份Microsoft Official Practice Test。
-- Microsoft Certified Professional Certification 考試折扣券一張。
-- 同一考試的一次重考。
+- 一個 Microsoft 官方實務測試。
+- 一個 Microsoft 認證的 Professional 認證測驗憑證。
+- 一次重考相同的測驗。
 
-  [現在就購買 Exam Replay with practice test 吧。](https://www.mindhub.com/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink)
+  [立即使用實務測試來購買測驗重新執行。](https://www.mindhub.com/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink)
 
-您可以購買您所希望的盡可能多的 Exam Replay 套裝程式。Exam Replay 對所有 Microsoft Certification 考試都是有效的，**以下除外**：
-- Microsoft Technology Associate (MTA)。
-- Microsoft Office Specialist (MOS)。
-- Transition 考試。
-- Fundamentals 考試。
-- Beta 考試。
+您可以視需要購買任意數量的測驗重新執行套件。 測驗重新執行適用于所有的 Microsoft 認證測驗，但下列情況 **除外**：
+- Microsoft 技術與 (MTA) 相關聯。
+- Microsoft Office專家 (MOS) 。
+- 轉換測驗。
+- 基礎測驗。
+- Beta 測驗。
 
-在購買 Exam Replay with Practice Test 之前, [請確保您的考試有一次實踐測試。](https://www.mindhub.com/shop/microsoft?facetValueFilter=tenant~content-type%3Apractice-tests)
+在使用實務測試購買測驗重新執行之前， [請確定您的測驗有實務測試。](https://www.mindhub.com/shop/microsoft?facetValueFilter=tenant~content-type%3Apractice-tests)
 
-## 關於此套裝程式的其他重要說明
+## <a name="other-important-notes-about-this-offer"></a>這項供應專案的其他重要注意事項
 
-- 該認證考試及重考必須安排在購買後的12個月內進行。
-- 在您參加了初試並且未能通過之前，您不能安排您的重考。
-- 您可以利用這個套裝程式在網上參加考試。
-- Microsoft Official Practice Tests 可在購買後一年內於 [MeasureUp.com](https://www.measureup.com/) 處啟動，並在啟動後30天有效。 [請在這裡獲得啟動實踐測試的更多細節。](https://home.pearsonvue.com/microsoft/practicetests)
-- 您的實踐測試折扣券可用於推廣活動中所包含的任何有效的實踐測試。它並不需要是與您的正式考試或重考相同的測試。
-- 附帶 Practice Test 套裝程式的 Exam Replay 和 Exam Replay 不適用於您可能已經單獨購買的考試或實踐測試。
+- 認證測驗和重修必須經過排程，並在12個月的購買期間進行。
+- 您必須等到經過並無法通過初始測驗之後，才能將重修排程。
+- 您可以使用此供應專案線上參加測驗。
+- Microsoft 官方實務測試可在一年的購買期間于 [MeasureUp.com](https://www.measureup.com/) 啟用，並且在啟用後的30天內有效。 [在這裡取得啟用練習測試的詳細資料。](https://home.pearsonvue.com/microsoft/practicetests)
+- 您的練習測試憑證可用於升級中包含的任何可用實務測試。 它不需要與您的官方測驗或重修的測試相同。
+- 使用實務測試供應專案的測驗重新執行和測驗重新執行，不適用於您可能另行購買的測驗或練習測試。 
 
-## 如果您在購買或兌換這些套裝程式時需要幫助
-請 [給 Pearson VUE 團隊發電子郵件。](https://mindhub@pearson.com/)
+## <a name="if-you-need-help-purchasing-or-redeeming-these-offers"></a>如果您需要購買或兌換這些優惠的協助
+請傳送 [電子郵件給皮耳森 VUE 團隊。](https://mindhub@pearson.com/)
 
-## 針對學生的特別優惠
-請訪問：[學生折扣](/learn/certifications/student-discounts).
+## <a name="special-offers-for-students"></a>學生專用優惠
+造訪： [學生折扣](/learn/certifications/student-discounts)。

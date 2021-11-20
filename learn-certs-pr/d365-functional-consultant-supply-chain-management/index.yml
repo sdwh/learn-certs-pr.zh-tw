@@ -1,30 +1,38 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+title: Microsoft 認證： Dynamics 365 供應鏈管理功能顧問的關聯
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
-  description: 'Dynamics 365 供應鏈管理功能顧問助理負責為客戶簡明化成本核算、庫存管理、整體規劃，以及倉儲管理。'
+  title: Microsoft 認證： Dynamics 365 供應鏈管理功能顧問的關聯
+  description: Dynamics 365 供應鏈管理功能顧問可簡化其用戶端的成本會計、庫存管理、主要規劃和倉儲管理。
+  ms.openlocfilehash: 77a8e2cd27c90464988fc97b93f74fc996890b83
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101971"
 uid: certification.d365-functional-consultant-supply-chain-management
 certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  該認證的報考者需分析商業要求並對這些要求轉換到完全實現的實施行業最佳實踐的商業流程和解決方案中。報考者在實施和配置應用程式以滿足商業要求中起到關鍵的資源作用。
-  
-  該認證的報考者需擁有商業會計學原理和金融操作、客戶服務、現場服務、製造、零售及供應鏈管理概念的基礎理解。他們通常擅長金融和操作應用程式中的一項或更多功能集，包括金融、製造和供應鏈管理。
+summary: >-
+  這項認證的候選項目會分析商務需求，並將這些需求轉譯成完全瞭解的商務程式和解決方案，以實現業界最佳作法。 候選項目可作為執行和設定應用程式以符合商務需求的關鍵資源。
 
-  報考者必須擁有供應鏈管理實踐的一些知識，包括採購、貿易、物流、倉儲管理和運輸管理。
-subTitle: 'Dynamics 365 供應鏈管理功能顧問助理負責為客戶簡明化成本核算、庫存管理、整體規劃，以及倉儲管理。'
+
+  這項認證的候選人對企業、客戶服務、現場服務、製造、零售和供應鏈管理概念的會計原則和財務營運有基本的瞭解。 它們通常會特製化一或多個財務和營運應用程式功能集，包括財務、製造和供應鏈管理。
+
+
+  候選人必須有一些供應鏈管理實務的知識，包括採購、交易、物流、倉儲管理及運輸管理。
+subTitle: Dynamics 365 供應鏈管理功能顧問可簡化其用戶端的成本會計、庫存管理、主要規劃和倉儲管理。
 levels:
 - intermediate
 skills:
-- 使用 Microsoft Power Platform 技術描述金融和運營應用程式以及擴展應用程式。 
-- 配置管理功能和工作流 
-- 管理金融和運營資料
-- 驗證和支援解決方案
-- 實作產品資訊管理
-- 實施庫存管理 
-- 實現和管理Supply Chain流程
-- 實施倉庫管理和運輸管理
-- 實施規劃優化
+- Describe finance and operations apps, and extend apps by using Microsoft Power Platform technologies
+- Configure administrative features and workflows
+- Manage finance and operations data
+- Validate and support solutions
+- Implement product information management
+- Implement inventory management
+- Implement and manage Supply Chain processes
+- Implement warehouse management and transportation management
+- Implement Planning Optimization
 roles:
 - functional-consultant
 type: role-based
@@ -52,27 +60,26 @@ exams:
 - uid: exam.mb-330
 resources:
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 認證之旅
-  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjF
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
-- title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+- title: 認證學習路徑
+  description: 建議的訓練資源，以協助您準備進行必要的測驗並獲得您的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9S
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

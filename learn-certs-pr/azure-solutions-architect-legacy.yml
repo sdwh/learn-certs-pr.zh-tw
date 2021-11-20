@@ -1,28 +1,37 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure Solutions Architect Expert （遺留）'
+title: 'Microsoft 認證： Azure 解決方案架構專家 (舊版) '
 metadata:
-  title: 'Microsoft Certified: Azure Solutions Architect Expert （遺留）'
-  description: 'Azure 解決方案架構師設計並實作了可在 Microsoft Azure 上運行的解決方案，包括計算、網路、存儲和安全性等方面。'
+  title: 'Microsoft 認證： Azure 解決方案架構專家 (舊版) '
+  description: Azure 解決方案架構設計人員會設計和實行在 Microsoft Azure 上執行的解決方案，包括計算、網路、儲存體和安全性等層面。
+  ms.openlocfilehash: 8791223e344a17a0bb408c2768afb6747bc57d31
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104105"
 uid: certification.azure-solutions-architect-erlr
-certificationRenewalUid: renewal.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  <div><font color="#D83B01"><strong>此版本的證書不再有效。如果您有此版本的證書，您將自動取得此證書的最新版本。<br/><br/>  兩個版本的證書都將在您的「證書」列出。您只需更新到新的版本。當先前版本到期時，它將轉到您成績單的證書歷史部分。<br/><br/></strong></font></div>
-  
-  Azure 解決方案架構師專家認證的應試者應具有設計和實作可在 Microsoft Azure 上運行的解決方案的主題專業知識，包括計算、網路、存儲和安全性等方面。候選人應具備管理 Azure 的中級技能。候選人應瞭解 Azure 開發和 DevOps 流程。
+summary: >-
+  <div><font color="#D83B01"><strong>此版本的認證已無法再使用。 如果您有此版本的認證，系統會自動將最新版本的認證授與您。<br/><br/>  這兩種版本的認證都會列在您的認證中。 您只需要更新較新的版本。 當先前的版本過期時，它會移至文字記錄的 [認證歷程記錄] 區段。<br/><br/></strong></font></div>
 
-  擔任此職務的職責包括為利益相關者提供建議，並將業務需求轉換為安全，可擴充且可靠的雲端解決方案。
 
-  Azure 解決方案架構師與雲端管理員，雲端 DBA 和客戶端合作以實作解決方案。
+  適用于 Azure 解決方案架構專家認證的候選項目，在設計和實施在 Microsoft Azure 上執行的解決方案時，應具備專業知識，包括計算、網路、儲存體和安全性等層面。 候選人應具備可用於管理 Azure 的中繼層級技能。 候選項目應能瞭解 Azure 開發和 DevOps 流程。
 
-  參加此認證的應試者應該在 IT 運營方面具有先進的經驗和知識，包括網路、視覺效果、身份、安全性、業務連續性、災難恢復、資料管理、預算和治理——該角色應管理各個領域的決策如何影響整體解決方案。此外，該角色應具有 Azure 管理方面的專家級技能，並具有 Azure 開發和 DevOps 流程的經驗。
-subTitle: Azure 解決方案架構師設計並實作了可在 Microsoft Azure 上運行的解決方案，包括計算、網路、存儲和安全性等方面。
+
+  此角色的責任包括：專案關係人，以及將商務需求轉換成安全、可調整且可靠的雲端解決方案。
+
+
+  Azure 解決方案架構設計人員會與雲端系統管理員、雲端 Dba 和用戶端合作來實行解決方案。
+
+
+  此認證的候選項應該具有 IT 作業的 advanced 體驗和知識，包括網路、虛擬化、身分識別、安全性、商務持續性、嚴重損壞修復、資料平臺、預算和治理–此角色應管理每個區域中的決策如何影響整體解決方案。 此外，此角色應具備 azure 管理的專家層級技能，並具備 azure 開發和 DevOps 程式的經驗。
+subTitle: Azure 解決方案架構設計人員會設計和實行在 Microsoft Azure 上執行的解決方案，包括計算、網路、儲存體和安全性等層面。
 hidden: true
 hideFishboneDiagram: true
 levels:
 - advanced
 skills:
-- 無
+- None
 roles:
 - solution-architect
 type: role-based
@@ -67,28 +76,27 @@ exams:
 - uid: exam.az-301
 - uid: exam.az-302
 resources:
-- title: Azure認證海報
-  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+- title: Azure 認證海報
+  description: 查看 Azure 的基本概念、角色型和專長認證等總覽。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 認證之旅
-  description: 探索取得 Azure Solutions Architect Expert 認證的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索可作為 Azure 解決方案架構設計師專家取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: deals.md
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: badges.md
-

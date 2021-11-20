@@ -1,27 +1,36 @@
 ### YamlMime:Examination
-title: 'Microsoft Security, Compliance, and Identity Fundamentals'
+title: Microsoft 安全性、合規性及身分識別的基本概念
 metadata:
-  title: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals'
-  description: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals'
+  title: 測驗 SC-900： Microsoft 安全性、合規性和身分識別基礎
+  description: 測驗 SC-900： Microsoft 安全性、合規性和身分識別基礎
+  ms.openlocfilehash: 34b71c696266795682f68edb215b1009db89d1a3
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101434"
 uid: exam.sc-900
 displayName: SC-900
-summary: |-
-  <div><font color='red'><strong>該考試內容已在2021年7月26日更新。請在下方下載考量技能檔以瞭解變更內容。</strong></font><br/><br/></div>
+summary: >-
+  <div><font color='red'><strong>本測驗的內容已于2021年7月26日更新。請下載下列技能測量檔，以查看變更了哪些內容。</strong></font><br/><br/></div>
 
-  該考試針對希望讓自己熟悉基於 cloud 和相關 Microsoft 服務的安全、合規以及身份(SCI)的內容。
 
-  這是一個廣泛的受眾，其中可能包括業務利益相關者、新的或現有的IT專業人士，或者對Microsoft安全、合規及標識解決方案感興趣的學生。
-  
-  考生應熟悉Microsoft Azure和Microsoft 365，並瞭解Microsoft安全、合規及標識解決方案如何能夠跨越這些解決方案領域，以提供一個整體和端到端的解決方案。
-subTitle: '本次考試可衡量您描述以下內容的能力：安全、合規及標識的概念；Microsoft身份和訪問管理解決方案的能力；Microsoft安全解決方案的能力；以及Microsoft合規解決方案的能力。'
+  這項測驗的目標是想要熟悉安全性、合規性和身分識別的基本概念 (科幻跨雲端式和相關 Microsoft 服務的) 。
+
+
+  這是很廣大的物件，可能包含商務專案關係人、新的或現有的 IT 專業人員，或是對 Microsoft 安全性、合規性和身分識別解決方案有興趣的學生。
+
+
+  候選人應該熟悉 Microsoft Azure 和 Microsoft 365，而且想要瞭解 Microsoft 安全性、合規性和身分識別解決方案如何跨越這些解決方案區域，以提供整體和端對端解決方案。
+subTitle: 這項測驗會測量您描述下列各項的能力：安全性、合規性和身分識別的概念;Microsoft 身分識別與存取管理解決方案的功能;Microsoft 安全性解決方案的功能;以及 Microsoft 合規性解決方案的功能。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
 practiceTestUrl: https://in.mindhub.com/sc-900-microsoft-security-compliance-and-identity-fundamentals-microsoft-official-practice-test/p/MU-SC-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -39,11 +48,11 @@ locales:
 levels:
 - beginner
 skills:
-- 該考試內容已在2021年7月26日更新。請下載下面的考試技巧大綱，看看有何變化。
-- 描述安全、合規及標識的概念 (10-15%)
-- 描述Microsoft身份和訪問管理解決方案的能力 (30-35%)
-- 描述Microsoft安全解決方案的能力 (35-40%)
-- 描述Microsoft合規解決方案的能力 (25-30%)
+- The content of this exam was updated on July 26, 2021. Please download the exam skills outline below to see what changed.
+- Describe the concepts of security, compliance, and identity (10-15%)
+- Describe the capabilities of Microsoft identity and access management solutions (30-35%)
+- Describe the capabilities of Microsoft security solutions (35-40%)
+- Describe the capabilities of Microsoft compliance solutions (25-30%)
 roles:
 - business-user
 - student
@@ -78,24 +87,24 @@ relatedCertifications:
 - related:
     uid: certification.security-compliance-and-identity-fundamentals
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://aka.ms/traincertposter
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md

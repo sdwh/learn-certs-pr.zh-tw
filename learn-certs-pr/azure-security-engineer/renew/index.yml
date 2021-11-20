@@ -1,28 +1,33 @@
 ### YamlMime:CertificationRenewal
-title: '更新您的 Microsoft Certified: Azure Security Engineer Associate'
+title: Microsoft 認證續訂： Azure 安全性工程師相關聯
 metadata:
-  title: '更新您的 Microsoft Certified: Azure Security Engineer Associate'
-  description: '如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。'
+  title: Microsoft 認證續訂： Azure 安全性工程師相關聯
+  description: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。
+  ms.openlocfilehash: 8cd317d93887b6163535d126818a9c066c45562a
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104109"
 uid: renewal.azure-security-engineer
 certificationUid: certification.azure-security-engineer
 assessmentId: 824be456-aba3-45ba-a4b4-4478c41a7622
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。通過更新評估，表明您已瞭解最新的Azure更新。您還可以準備精選的學習模組更新。
+summary: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。 藉由傳遞續約評估，顯示您已透過最新的 Azure 更新保持最新狀態。 您也可以使用學習課程模組的策劃集合來準備續約。
 skills:
-- 使用Azure Active Directory加強身份驗證（條件存取）
-- 微軟Azure架構完善框架 - 性能效率
-- 在Azure Active Directory中啟用身份保護
-- 透過角色型的存取控制（RBAC）保護Azure資源
-- 透過使用網路安全群組和服務端點來保護和隔離對Azure資源的存取
-- 在Azure上設計整體監控策略
-- 保護您的Azure儲存帳戶
-- 使用Azure Key Vault管理伺服器應用程式中的機密
+- Strengthen authentication (conditional access) with Azure Active Directory
+- Secure administrator accounts in Azure Active Directory
+- Enable identity protection in Azure Active Directory
+- Secure your Azure resources with role-based access control (RBAC)
+- Secure and isolate access to Azure resources by using network security groups and service endpoints
+- Design a holistic monitoring strategy on Azure
+- Secure your Azure Storage account
+- Manage secrets in your server apps with Azure Key Vault
 examsPassed:
-- az-303, az-304
-studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft認證做準備：Azure解決方案架構師專家更新評估。'
+- az-500
+studyGuideDescription: 您可以使用此學習課程模組集合來協助您準備 Microsoft 認證： Azure 安全性工程師將續約評估相關聯。
 resources:
-- title: 關於證書更新
-  summary: 了解線上更新證書的過程和要求
+- title: 關於認證續約
+  summary: 瞭解在線上續訂認證的流程和需求
   url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

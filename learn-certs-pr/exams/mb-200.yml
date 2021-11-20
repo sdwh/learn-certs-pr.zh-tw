@@ -1,22 +1,32 @@
 ### YamlMime:Examination
-title: Microsoft Power Platform + Dynamics 365 Core
+title: Microsoft Power Platform + Dynamics 365 核心
 metadata:
-  title: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
-  description: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
+  title: MB-200： Microsoft Power Platform + Dynamics 365 Core
+  description: MB-200： Microsoft Power Platform + Dynamics 365 Core
+  ms.openlocfilehash: 539fff15371e2249b4969cc9b7ba938a52d6169c
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101538"
 uid: exam.mb-200
 displayName: MB-200
-summary: |-
+summary: >-
   <div>
-  <div><strong>本次考試將於2020年12月31日結束。您可以參加替代考試 PL-200。有關更多資訊，請訪問 <a href="/learn/certifications/exams/pl-200">PL-200 考試詳細資訊頁面</a>。</strong><br/><br/></div>
+
+  <div><strong>本測驗已于2020年12月31日淘汰。您可以取得替代測驗200（PL-）。如需詳細資訊，請造訪 <a href="/learn/certifications/exams/pl-200">PL-200 測驗詳細資料網頁</a>。</strong><br/><br/></div>
+
   </div>
 
-  該測驗的應試者是功能顧問，他們可以存取企業授權產品的特性和功能。作為一名功能顧問，候選人知道功能的捆綁版本，但並不主要使用這些捆綁產品。
 
-  應試者主要負責配置系統以滿足客戶需求，執行與實現新特性和功能相關的設計任務，以及實現和測試系統更改。
+  這項測驗的候選項目是可存取企業授權產品之特性和功能的功能顧問。 做為功能顧問，候選人可以知道配套版本的功能，但主要不會與這些配套的產品搭配使用。
 
-  應試者規劃解決方案的功能設計，實現應用程式生命周期管理(ALM)過程，從遺留系統和外部系統移轉資料和對象，將 Power 平台與其他系統整合，並管理 Power 平台環境。
 
-subTitle: '此測驗測量您在完成以下技術任務時的能力：執行發現，計劃與分析; 管理用戶體驗設計; 管理實體與這裡；實作安全性; 實作集成；以及執行解決方案部署與測試。'
+  候選項目主要負責設定系統以符合用戶端需求、執行與新功能和功能的相關設計工作，以及執行和測試系統變更。
+
+
+  候選方案可規劃解決方案的功能設計、實行應用程式生命週期管理 (ALM) 程式、從舊版和外部系統遷移資料和物件、將 Power Platform 與其他系統整合，以及管理 Power Platform 環境。
+subTitle: 這項測驗會測量您完成下列技術工作的能力：執行探索、規劃和分析;管理使用者體驗設計;管理實體和資料;實行安全性;實施整合;並執行解決方案部署和測試。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -26,12 +36,12 @@ locales:
 levels:
 - intermediate
 skills:
-- 執行探索，計畫和分析 (5-10%)
-- 管理使用者體驗設計 (20-25%)
-- 管理實體和數據 (15-20%)
-- 實作安全 (5-10%)
-- 實作集成 (15-20%)
-- 進行解決方案部署和測試 (25-30%)
+- Perform discovery, planning, and analysis (5-10%)
+- Manage user experience design (20-25%)
+- Manage entities and data (15-20%)
+- Implement security (5-10%)
+- Implement integration (15-20%)
+- Perform solutions deployment and testing (25-30%)
 retirementDate: 12/31/2020
 roles:
 - functional-consultant
@@ -55,25 +65,24 @@ relatedCertifications:
 - related:
     uid: certification.power-apps-and-d365-developer-associate
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md
-

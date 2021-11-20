@@ -1,49 +1,78 @@
 ### YamlMime:Examination
-title: Microsoft 365 Messaging Administrator Certification Transition
+title: Microsoft 365訊息系統管理員認證轉換
 metadata:
-  title: '測驗 MS-202：Microsoft 365 Messaging Administrator Certification Transition'
-  description: '測驗 MS-202：Microsoft 365 Messaging Administrator Certification Transition'
+  title: 測驗 MS-202： Microsoft 365 訊息系統管理員認證轉換
+  description: 測驗 MS-202： Microsoft 365 訊息系統管理員認證轉換
+  ms.openlocfilehash: a82a2652f9d7f8cfd4e3b15d06d498bef8a8f070
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101462"
 uid: exam.ms-202
 displayName: MS-202
-summary: "<div style='color&#58; red; font-weight&#58; bold;'>該測驗已於 2019年9月30日到期。測驗將在中部標準時間晚間11點59分到期<br/><br/></div>\n   \n該測驗僅適用於已參加 [測驗 70-345&#58;](https://www.microsoft.com/learning/exam-70-345.aspx) Designing and Deploying Microsoft Exchange Server 2016. 的應試者。若您沒有參加測驗 345，那麼您將無法透過此測驗獲得認證。\n\n該測驗的應試者是消息傳遞管理員，他們在本地和雲企業環境中部署、配置、管理、故障排除和監視收件人、權限、郵件保護、郵件流和公共文件夾。\n\n消息傳遞管理員負責管理衛生、消息傳遞基礎設施、混合配置、移轉、災難恢復、高可用性和客戶機存取。\n\n消息傳遞管理員與安全管理員和 Microsoft 365 企業管理員協作，以實現滿足現代組織業務需求的安全混合拓撲。\n\n消息傳遞管理員應該具有身份驗證類型、許可和與 Microsoft 365 應用程式整合的工作知識。"
-subTitle: 此項測驗僅適用於已參加 測驗 70-345 的應試者：Designing and Deploying Microsoft Exchange Server 2016。若您沒有參加測驗 345，那麼您將無法透過此測驗獲得認證。
+summary: >-
+  <div>
+
+  <div><strong>此測驗已于2019年9月30日淘汰。注意&#58; 測驗于 11:59 PM 中部標準時間淘汰</strong><br/></div>
+
+  </div>
+
+
+  這項測驗僅適用于已進行[測驗 70-345&#58;](https://www.microsoft.com/learning/exam-70-345.aspx)設計和部署 Microsoft Exchange Server 2016 的候選人。 如果您尚未參加測驗345，您將不會獲得這項測驗來取得認證。
+
+
+  這項測驗的候選項目是在內部部署和雲端企業環境中部署、設定、管理、疑難排解和監視收件者、許可權、郵件保護、郵件流程和公用資料夾的訊息系統管理員。
+
+
+  訊息系統管理員負責管理防護、訊息基礎結構、混合式設定、遷移、嚴重損壞修復、高可用性和用戶端存取。
+
+
+  訊息管理員會與安全性系統管理員和 Microsoft 365 企業版系統管理員共同作業，以實行符合現代化組織商務需求的安全混合式拓撲。
+
+
+  訊息管理員應該具備驗證類型、授權以及與 Microsoft 365 應用程式整合的實用知識。
+subTitle: 本測驗僅適用于已測驗70-345 的候選人：設計和部署 Microsoft Exchange Server 2016。 如果您尚未參加測驗345，您將不會獲得這項測驗來取得認證。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8R
+scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/
-retirementDate: 09/30/2019
 levels:
 - intermediate
 skills:
-- 管理現代消息框架 (20-25%)
-- 管理郵件流程拓撲(5-10%)
-- 管理接收人和設備(15-20%)
-- 規劃和實作一個混合配置和移轉 (20-25%)
-- 確保消息環境(35-40%)
+- Manage modern messaging infrastructure (20-25%)
+- Manage mail flow topology (5-10%)
+- Manage recipients and devices (10-15%)
+- Plan and implement a hybrid configuration and migration (20-25%)
+- Secure the messaging environment (35-40%)
+retirementDate: 09/30/2019
 roles:
 - administrator
+products:
+- m365
 exams:
 - uid: exam.ms-200
 - uid: exam.ms-201
-products:
-- m365
 relatedCertifications:
 - related:
     uid: certification.m365-messaging-administrator
 resources:
-- title: 訓練和認證指南
-  description: 透過-份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 支持認證考試
-  description: 透過Microsoft認證支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證海報
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
-  description: 瞭解更多有關為您的測驗申請無障礙設施的資訊。
+- title: 要求住宿
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗規則和常見問題解答
-  description: 檢閱測驗規定和常見問題解答。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md

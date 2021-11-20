@@ -1,29 +1,24 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Power Platform App Maker Associate'
+title: Microsoft 認證： Power Platform 的應用程式 Maker 關聯
 metadata:
-  title: 'Microsoft Certified: Power Platform App Maker Associate'
-  description: 該應用程式製造商為自己和他們的團隊構建了解決方案，以簡化，自動化和轉換任務和流程，他們在解決方案領域擁有豐富的專業知識。他們精通關鍵的技術業務分析師任務，例如資料建模，基本 UX 設計，需求分析和流程分析。
+  title: Microsoft 認證： Power Platform 的應用程式 Maker 關聯
+  description: 應用程式製作者會建立解決方案，以簡化、自動化和轉換自己及其小組的工作和程式，並在其中具有解決方案網域的深度專業知識。 他們很擅長重要的技術商務分析師工作，例如資料模型化、基本 UX 設計、需求分析和流程分析。
+  ms.openlocfilehash: ac8747e8b4b03610195769021fef4bede02208ad
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104645"
 uid: certification.power-platform-app-maker
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  如果您是在解決方案領域具有深厚專業知識的業務專家，並且希望利用構建 Microsoft Power Platform 解決方案的激情為您的團隊簡化、自動化並轉換任務和流程，那麼該認證就是專為您而設計的。您必須具備完成關鍵技術業務分析師任務的技能，比如資料建模、基本的 UX 設計、需求分析及過程分析。
-  
-  如果您是一個自我指導、專注於解決方案的人，並且使用 Microsoft Power Platform 的製作工具來解決業務問題，那麼您就適合應用製作者角色。您可能有使用 Visual Basic for Applications、Excel PivotTables、Teams 的經驗。儘管您可能沒有接受過正式的 IT 培訓，但您可以放心地與 IT 管理員和 Microsoft Power Platform 開發人員一起使用技術解決業務問題。您負責&#58;  
-  - 設計和創建應用程式和自動化工作流程。 
-  - 在應用程式或自動化工作流程的背景下分析和視覺化資料。 
-  - 實施和管理應用程式和自動化工作流程。
-
-  要瞭解更多資訊，請閱讀我們的帖子&#58; [您是 Power Platform 應用製作者嗎？現在是獲得認證的時候了](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/are-you-a-power-platform-app-maker-now-s-the-time-to-get/ba-p/1512993)。如果您在嘗試該認證之前需要更多經驗，您可以&#58;
-  - 自願參與一個專案，以獲得資料建模、基本使用者體驗設計、需求分析或流程分析方面的實際經驗。
-  - 在 Microsoft Learn 上進行學習。
-  - 報名參加講師指導的培訓課程。
-subTitle: 該應用程式製造商為自己和他們的團隊構建了解決方案，以簡化，自動化和轉換任務和流程，他們在解決方案領域擁有豐富的專業知識。他們精通關鍵的技術業務分析師任務，例如資料建模，基本 UX 設計，需求分析和流程分析。
+summary: "如果您是在解決方案領域中具有深度專業知識的商業專業人員，而您想要使用您的熱情來建立 Microsoft Power Platform 的解決方案，以簡化、自動化及轉換小組的工作和程式，則此認證是為您設計的。 您必須具備技能，才能完成重要的技術商務分析師工作，例如資料模型化、基本 UX 設計、需求分析和流程分析。 \n\n如果您是以自我引導且以解決方案為主，且您使用 Microsoft Power Platform 的 maker 工具來解決商務問題，您可以在應用程式建立者角色的設定檔中納入適當的設定檔。 您可能會遇到 Visual Basic for Applications、Excel 樞紐分析表、Teams 和其他工具的體驗。 雖然您可能沒有正式的 IT 訓練，但您很熟悉 IT 系統管理員，以及使用技術來解決商務問題的 Microsoft Power Platform 開發人員。 您必須負責&#58;  \n- 設計和建立應用程式，並將工作流程自動化。 \n- 在應用程式或自動化工作流程的內容中分析和視覺化資料。 \n- 執行和管理應用程式和自動化工作流程。\n\n若要深入瞭解，請閱讀我們 [的 post&#58; 是否為 Power Platform 的應用程式製作者？現在就是取得認證的時候了](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/are-you-a-power-platform-app-maker-now-s-the-time-to-get/ba-p/1512993)。 如果您需要更多的經驗，才能嘗試進行此認證，您可以&#58;\n- 自願使用專案，以取得資料模型化、基本 UX 設計、需求分析或流程分析的實際使用體驗。\n- 取得 Microsoft Learn 的學習路徑。\n- 報名講師主導的訓練課程。"
+subTitle: 應用程式製作者會建立解決方案，以簡化、自動化和轉換自己及其小組的工作和程式，並在其中具有解決方案網域的深度專業知識。 他們很擅長重要的技術商務分析師工作，例如資料模型化、基本 UX 設計、需求分析和流程分析。
 levels:
 - intermediate
 skills:
-- 設計商業解決方案
-- 建立解決方案
-- 分析及視覺化資料
+- Design business solutions
+- Create solutions
+- Analyze and visualize data
 roles:
 - business-analyst
 - business-owner
@@ -83,27 +78,26 @@ exams:
 - uid: exam.pl-100
 resources:
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 認證之旅
-  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjG
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
-- title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+- title: 認證學習路徑
+  description: 建議的訓練資源，以協助您準備進行必要的測驗並獲得您的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBF
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

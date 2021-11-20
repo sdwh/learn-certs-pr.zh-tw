@@ -1,7 +1,7 @@
 ---
-title: '管理您的認證個人資料 | Microsoft Docs'
-description: '管理您的認證個人資料' 
-documentationcenter: NA 
+title: 管理您的認證設定檔 |Microsoft Docs
+description: 管理您的認證設定檔
+documentationcenter: NA
 author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -9,63 +9,68 @@ ms.workload: NA
 ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: 1468b3299a5956931bd2f1bb8058a06475ea72b4
+ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 09/14/2021
+ms.locfileid: "132101354"
 ---
-# 管理您的認證個人資料
+# <a name="manage-your-certification-profile"></a>管理您的認證設定檔
 
-## 什麼是認證個人資料？
+## <a name="what-is-the-certification-profile"></a>什麼是認證設定檔？
 
-您的 Microsoft Certification 個人資料是重要的資料來源。當您參加考試時，監考人員會將您在參加考試時提供的資訊與您的個人資料資訊進行匹配度檢查。因此，您的個人資料資訊必須與政府簽發的身份證明信息完全相同。否則，您將無法參加考試。使您的個人資料保持為最新狀態，能夠為您節省時間並省去麻煩。
+您的 Microsoft 認證設定檔是很重要的資料來源。 當您進行測驗時，proctor 會比對您在進行測試時所提供的資訊與您設定檔中的內容。 因此，您的設定檔資訊必須與政府發出的身分識別相同。 如果不是，您將無法進行測驗。 保持您的設定檔更新可節省您的時間和麻煩。
 
-如需管理您的認證個人資料，首先您需要按以下步驟登錄您的 [Certification Dashboard](https://aka.ms/certdashboard)。
+若要管理您的憑證設定檔，您必須先遵循下列步驟來登入您的 [認證儀表板](https://aka.ms/certdashboard) 。
 
-## 如何訪問與更新您的認證個人資料
+## <a name="how-to-access-and-update-your-certification-profile"></a>如何存取及更新您的認證設定檔
 
-1. 登錄 Certification Dashboard.如需有關如何登錄的詳細說明，請訪問：[訪問您的 Certification Dashboard](/learn/certifications/access-certification-dashboard)。
+1. 登入認證儀表板。 如需如何登入的詳細指示，請造訪： [存取您的認證儀表板](/learn/certifications/access-certification-dashboard)。
 
-2. 在該頁面的右上角，點擊“編輯您的認證個人資料”。
+2. 在頁面的右上角，按一下 [編輯您的認證設定檔]。
 <br/>
 <br/>
-![點擊 編輯您的認證個人資料](images/manage-certification-profile-1.png)
+![按一下 [編輯您的認證設定檔]](images/manage-certification-profile-1.png)
 <br/>
 <br/>
-3. 點擊“認證個人資料”字樣旁邊的鉛筆圖示，編輯您的資料。
+3. 選取 [憑證設定檔] 標題旁的鉛筆圖示，以編輯您的資訊。
 <br/>
 <br/>
-![選擇鉛筆圖示，編輯您的資料](images/manage-certification-profile-2.png)
+![選取鉛筆圖示以編輯您的資訊](images/manage-certification-profile-2.png)
 <br/>
 <br/>
-4. 更新個人資料以後，選擇底部的 “保存並繼續”，保存修改。
+4. 更新您的設定檔資訊之後，請選取底部的 [儲存 & 繼續] 以儲存您的變更。
 <br/>
 <br/>
-![更新後點擊 “保存並繼續”](images/manage-certification-profile-3.png)
+![選取 [儲存] & 在更新後繼續](images/manage-certification-profile-3.png)
 <br/>
 <br/>
 
-## 使您的 Microsoft 帳戶保持有效
+## <a name="keeping-your-microsoft-account-active"></a>讓您的 Microsoft 帳戶保持作用中狀態
 
-為了能夠繼續訪問您的 Certification Dashboard，您必須使您的 Microsoft 帳戶保持有效。 您可以每兩年至少登錄一次您的 Microsoft 帳戶，以使其保持有效。 如果您的帳戶失效，則您可能需要聯繫支援人員，協助您辦理恢復程式，重新獲得對您的認證資訊的存取權限。
+為了持續存取您的憑證儀表板，您必須將 Microsoft 帳戶保持在作用中狀態。 您可以登入 Microsoft 帳戶至少每兩年一次，讓它保持使用中狀態。 如果您的帳戶變成非使用中，您可能必須聯絡支援人員，以協助您進行復原程式，以重新取得認證資訊的存取權。
 
-## 恢復丟失或遺忘的 Microsoft Certification 憑條
+## <a name="recover-your-lost-or-forgotten-microsoft-certification-credentials"></a>復原遺失或忘記的 Microsoft 認證認證
 
-訪問： [認證支持](/learn/certifications/help)，獲取詳細說明。
+造訪： [認證支援](/learn/certifications/help) 以取得詳細指示。
 
-## 如何修改您的 Microsoft Certification 個人資料中的姓名
+## <a name="how-to-change-the-name-on-your-microsoft-certification-profile"></a>如何變更 Microsoft 認證設定檔的名稱
 
-為了參加 Microsoft 認證考試，您的 Microsoft 認證個人資料中出現的您的姓名必須與您在（面對面和線上）預約考試時所出示的由政府簽發的身份證件上的姓名相一致。如果您需要修改個人資料中的姓名，請按照以下步驟操作。
+為了進行 Microsoft 認證測驗，在您的 Microsoft 認證設定檔中出現的名稱必須符合您在測驗約會中所提供之政府簽發的身分識別名稱， (親自和線上) 。 如果您需要變更設定檔的名稱，請遵循下列步驟。
 
-### 英語申請
+### <a name="english-language-requests"></a>英文要求的語言
 
-使用 [Microsoft Certification 檔案名稱修改請求表](https://aka.ms/MSCertificationLegalNamechange)提交您的修改請求。您將被要求驗證您在您的 Microsoft 認證檔案中所包含的資訊。 目前本表僅提供英文版。修改您的姓名需要 24 至 48 個工作小時。
+使用 [Microsoft 認證設定檔名稱變更要求表單](https://aka.ms/MSCertificationLegalNamechange)來提交您的變更要求。 系統會要求您確認您的 Microsoft 認證設定檔中包含的資訊。 目前，此表單只提供英文版。 請允許24-48 上班時間以變更您的名稱。
 
-### 除英語以外的語言
+### <a name="languages-other-than-english"></a>英文以外的語言
+透過我們的仲裁認證支援論壇提交要求。 造訪： [認證支援](/learn/certifications/help) ，協助您以英文以外的語言管理您的憑證設定檔。
 
-通過我們適中的認證支援論壇提交您的請求。請訪問：[認證支持](/learn/certifications/help) 獲得除英語之外的其他語言管理您的認證檔案的説明。
+## <a name="to-find-your-microsoft-certification-profile-identification-number-mcid"></a>若要尋找您的 Microsoft 認證設定檔識別碼 (MCID) 
 
-## 如需查找您的 Microsoft Certification 個人資料識別號 (MCID)
-
-請訪問：[查找您的MCID](/learn/certifications/find-mcid)。
+造訪： [尋找您的 MCID](/learn/certifications/find-mcid)。
 
 
-## 如需合併兩份 Microsoft Certification 個人資料
+## <a name="to-merge-two-microsoft-certification-profiles"></a>合併兩個 Microsoft 認證設定檔
 
-請訪問：[合併與傳輸認證個人資料](/learn/certifications/merge-profiles)。
+造訪： [合併和傳輸認證設定檔](/learn/certifications/merge-profiles)。

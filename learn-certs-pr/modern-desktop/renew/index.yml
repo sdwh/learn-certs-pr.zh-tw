@@ -1,29 +1,34 @@
 ### YamlMime:CertificationRenewal
-title: '更新您的 Microsoft 365 Certified: Modern Desktop Administrator Associate'
+title: Microsoft 365 認證的更新：新式桌面系統管理員相關聯
 metadata:
-  title: '更新您的 Microsoft 365 Certified: Modern Desktop Administrator Associate'
-  description: '如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。'
+  title: Microsoft 365 認證的更新：新式桌面系統管理員相關聯
+  description: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。
+  ms.openlocfilehash: aa4d0876058a806fcfda7e5a94b9c530d9846452
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101331"
 uid: renewal.m365-modern-desktop
 certificationUid: certification.modern-desktop
 assessmentId: 8602eec7-4017-456f-a878-62fe16630114
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。通過更新評估，表明您已保持最新的Microsoft 365更新。您還可以準備精選的學習模組更新。
+summary: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。 藉由傳遞續約評估，顯示您已將最新的 Microsoft 365 更新保持在最新狀態。 您也可以使用學習課程模組的策劃集合來準備續約。
 skills:
-- 使用Windows Autopilot自動化Windows部署
-- 使用Microsoft Endpoint Manager簡化設備管理
-- 使用Windows 10完成更多工作並保持安全
-- 在 cloud 中管理 Windows 更新
-- 使用 Microsoft Endpoint Manager 理解設備管理
-- 使用System Center Configuration Manager透過共同管理來管理Windows 10
-- 使用 Microsoft Endpoint Manager 理解有條件的訪問政策
-- 部署，升級和遷移到Windows 10
-- 使用Microsoft Intune管理應用程式
+- Automate Windows deployments by using Windows Autopilot
+- Simplify device management with Microsoft Endpoint Manager
+- Get more done and stay secure with Windows 10
+- Manage Windows updates in the cloud
+- Understand device management using Microsoft Endpoint Manager
+- Manage Windows 10 through co-management by using System Center Configuration Manager
+- Understand Conditional Access policies using Microsoft Endpoint Manager
+- Deploy, upgrade, and migrate to Windows 10
+- Manage applications by using Microsoft Intune
 examsPassed:
 - md-100, md-101
-studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft 365認證做準備：現代個人電腦管理員助理更新評估。'
+studyGuideDescription: 您可以使用此學習課程模組集合，協助您準備 Microsoft 365 認證：新式桌面系統管理員將更新評估相關聯。
 resources:
-- title: 關於證書更新
-  summary: 了解線上更新證書的過程和要求
+- title: 關於認證續約
+  summary: 瞭解在線上續訂認證的流程和需求
   url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

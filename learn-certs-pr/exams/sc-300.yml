@@ -1,21 +1,29 @@
 ### YamlMime:Examination
-title: 'Microsoft Identity and Access Administrator'
+title: Microsoft 身分識別與存取系統管理員
 metadata:
-  title: 'Exam SC-300: Microsoft Identity and Access Administrator'
-  description: 'Exam SC-300: Microsoft Identity and Access Administrator'
+  title: 測驗 SC-300： Microsoft 身分識別與存取系統管理員
+  description: 測驗 SC-300： Microsoft 身分識別與存取系統管理員
+  ms.openlocfilehash: 013c47a04179dee2d7054c0c6a451363d755f4d7
+  ms.sourcegitcommit: 8cad4571f4ed5db8e51cccdc1cf6355526195802
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/26/2021
+  ms.locfileid: "132104971"
 uid: exam.sc-300
 displayName: SC-300
-summary: |-
-  <div><div><font color='red'><strong>該考試內容已在2021年9月24日更新。請下載如下的技能測試檔以瞭解變更內容。</strong></font><br/><br/></div><div><font color='red'>請注意：通過分數：700。瞭解更多關於考試分數的內容，請點擊<a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">這裡</a>。</font><br/><br/></div></div>
+summary: >-
+  <div><div><font color='red'><strong>本測驗的內容已于2021年9月24日更新。請下載下列技能測量檔，以查看變更了哪些內容。</strong></font><br/><br/></div><div><font color='red'>注意：傳遞分數：700。 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">在此</a>深入瞭解測驗分數。</font><br/><br/></div></div>
 
-  通過使用Azure Active Directory (Azure AD)，“Microsoft身份和訪問管理員”設計、實施並操作一個組織的身份和訪問管理系統。他們管理一些任務，例如為企業應用程式提供安全的身份驗證及授權訪問。該管理員為所有用戶提供無縫體驗及自助服務管理能力。適應性訪問和治理是該角色的核心元素。該角色還負責標識和訪問環境的故障排除、監控及報告。
 
-  身份和訪問管理員可以是單獨的個體，或是較大團隊的成員。該角色與組織中的許多其他角色協作，以推動戰略身份項目，從而實現身份解決方案的現代化，實施混合標識解決方案，並實施身份治理。
-subTitle: '該考試可衡量您完成以下技術任務的能力：實施身份管理解決方案；實施身份驗證及訪問管理解決方案；實施應用程式訪問管理；以及計畫並實施身份治理戰略。'
+  Microsoft 身分識別與存取系統管理員會使用 Azure Active Directory (Azure AD) ，來設計、實行和操作組織的身分識別與存取管理系統。 他們會管理工作，例如為企業應用程式提供安全的驗證和授權存取權。 系統管理員為所有使用者提供順暢的體驗和自助式管理功能。 彈性存取和治理是角色的核心元素。 此角色也負責針對身分識別和存取環境進行疑難排解、監視和報告。
+
+
+  身分識別和存取系統管理員可以是單一個人或較大小組的成員。 此角色會與組織中的許多其他角色共同合作，以推動策略性的身分識別專案以現代化身分識別解決方案、實行混合式身分識別解決方案，以及執行身分識別管理。
+subTitle: 這項測驗會測量您完成下列技術工作的能力：實行身分識別管理解決方案;實行驗證和存取管理解決方案;執行應用程式的存取管理;以及規劃和實行身分識別治理策略。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp5
 practiceTestUrl: https://www.mindhub.com/p/MU-SC-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=SC-300&examname=Exam%20SC-300:%20Microsoft%20Identity%20and%20Access%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-300
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=SC-300&examname=Exam%20SC-300:%20Microsoft%20Identity%20and%20Access%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-300
 locales:
 - en
 - ja
@@ -32,11 +40,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 該考試內容已在2021年9月24日更新。請下載下面的考試技巧大綱，看看有何變化。
-- 實施身份管理解決方案 (25-30%)
-- 實施身份驗證及訪問管理解決方案 (25-30%)
-- 實施應用程式訪問管理 (10-15%)
-- 計畫並實施身份治理戰略 (25-30%)
+- The content of this exam was updated on September 24, 2021. Please download the exam skills outline below to see what changed.
+- Implement an identity management solution (25-30%)
+- Implement an authentication and access management solution (25-30%)
+- Implement access management for apps (10-15%)
+- Plan and implement an identity governance strategy (25-30%)
 roles:
 - administrator
 - identity-access-admin
@@ -57,24 +65,24 @@ relatedCertifications:
 - related:
     uid: certification.identity-and-access-administrator
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://aka.ms/traincertposter
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md

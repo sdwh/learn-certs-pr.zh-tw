@@ -1,31 +1,42 @@
 ### YamlMime:Examination
-title: Microsoft Azure Administrator
+title: Microsoft Azure管理員
 metadata:
-  title: 'Exam AZ-104: Microsoft Azure Administrator'
-  description: 'Exam AZ-104: Microsoft Azure Administrator'
+  title: 測驗 AZ-104： Microsoft Azure 系統管理員
+  description: 測驗 AZ-104： Microsoft Azure 系統管理員
+  ms.openlocfilehash: 0a931e54fffc1d0eb17a640388d3724780cd9011
+  ms.sourcegitcommit: 9d7c87bf1eec1cc6ecfd48c6997265bb0f47352f
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "132104995"
 uid: exam.az-104
 displayName: AZ-104
-summary: |-
-  <div><div><font color='red'><strong>該考試內容已在2021年9月24日更新。請下載如下的技能測試檔以瞭解變更內容。</strong></font><br/><br/></div><div><font color='red'>請注意：通過分數：700。瞭解更多關於考試分數的內容，請點擊<a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">這裡</a>。</font><br/><br/></div></div>
+summary: >-
+  <div><div><font color='red'><strong>本測驗的內容已于2021年9月24日更新。請下載下列技能測量檔，以查看變更了哪些內容。</strong></font><br/><br/></div><div><font color='red'>注意：傳遞分數：700。 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">在此</a>深入瞭解測驗分數。</font><br/><br/></div></div>
 
-  參加該測驗的考生應具有主題知識，可以實作、管理和監控組織的 Microsoft Azure 環境。
 
-  該崗位職責包括在 cloud 環境中實施、管理和監控身份、治理、存儲、計算和虛擬網路，以及在需要時規定、排列、監控和調整資源。
-  
-  Azure 管理員通常擔任致力於實施組織 cloud 基礎設施的更大型團隊的成員。
+  這項測驗的候選人應具備執行、管理和監視組織 Microsoft Azure 環境的主題專業知識。
 
-  參加該測驗的應試者應至少具有六個月的 Azure 管理實踐經驗，並對核心 Azure 服務、Azure 工作負載、安全性和治理有深刻的了解。此外，該角色應具有使用 PowerShell、Azure CLI、Azure 門戶和 Azure 資源管理員模板的經驗。
 
-  如果你通過本次認證考試，你可能有資格獲得 ACE 大學學分。有關詳細資訊，請參閱 [ACE 大學認證考試學分](/learn/certifications/ace-credit-for-certification-exams)。
-subTitle: '此測驗會評量您達成下方技術性工作的能力：管理 Azure 身份識別和治理； 實作和管理儲存； 部署和管理 Azure 計算資源； 設定和管理虛擬網路； 並監視和備份Azure資源。'
+  此角色的責任包括在雲端環境中實施、管理及監視身分識別、治理、儲存體、計算和虛擬網路，以及在需要時布建、調整規模、監視和調整資源。
+
+
+  Azure 系統管理員通常會成為更大型團隊的一部分，專門用來執行組織的雲端基礎結構。
+
+
+  這項測驗的候選版應該至少有六個月的 Azure 管理經驗，同時也對核心 Azure 服務、Azure 工作負載、安全性和治理有充分的瞭解。 此外，此角色應該有使用 PowerShell、Azure CLI、Azure 入口網站和 Azure Resource Manager 範本的體驗。
+
+
+  如果您通過此認證測驗，您可能會享有 ACE 大學點數的資格。 如需詳細資訊，請參閱 [ACE 大學點數以取得認證測驗](/learn/certifications/ace-credit-for-certification-exams) 。
+subTitle: 這項測驗會測量您完成下列技術工作的能力：管理 Azure 身分識別和治理;執行和管理儲存體;部署及管理 Azure 計算資源;設定和管理虛擬網路功能;並監視和備份 Azure 資源。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-104?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
 - providerType: gsi
-  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AZ-104&provider=psi&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-104&provider=psi&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
 locales:
 - en
 - zh-cn
@@ -34,16 +45,21 @@ locales:
 - fr
 - es
 - de
+- pt-br
+- ru
+- ar-sa
+- zh-tw
+- it
+- id-id
 levels:
 - intermediate
 skills:
-
-- 該考試內容已在2021年9月24日更新。請下載下面的考試技巧大綱，看看有何變化。
-- 管理 Azure 身份識別和治理 (15-20%)
-- 實作和管理存儲 (15-20%)
-- 部署和管理 Azure 計算資源 (20-25%)
-- 設定和管理虛擬網路 (25-30%)
-- 監視和備份Azure資源 (10-15%)
+- The content of this exam was updated on September 24, 2021. Please download the exam skills outline below to see what changed.
+- Manage Azure identities and governance (15-20%)
+- Implement and manage storage (15-20%)
+- Deploy and manage Azure compute resources (20-25%)
+- Configure and manage virtual networking (25-30%)
+- Monitor and back up Azure resources (10-15%)
 roles:
 - administrator
 products:
@@ -62,28 +78,27 @@ relatedCertifications:
 - related:
     uid: certification.azure-administrator
 resources:
-- title: 認證之旅
-  description: 探索取得 Azure administrator Associate 資格的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索可作為 Azure 系統管理員取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證考試
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
-  description: 詳細了解有關為測驗申請調整的資訊。
+- title: 要求住宿
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md
-

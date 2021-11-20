@@ -1,36 +1,47 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Windows Server Hybrid Administrator Associate'
+title: Microsoft 認證： Windows Server 混合式系統管理員關聯
 metadata:
-  title: 'Microsoft Certified: Windows Server Hybrid Administrator Associate'
-  description: '該認證將在2021年12月可用。Windows Server Hybrid Administrator Associate 認證的報考者應具備配置和管理 Windows Server 本地部署、混合部署和作為服務 (IaaS) 平臺負載基礎設施方面的學科知識專長。'
+  title: Microsoft 認證： Windows Server 混合式系統管理員關聯
+  description: 此認證將于2021年12月提供。 Windows Server 混合式系統管理員相關的候選項目，在設定和管理 Windows Server 內部部署、混合式和基礎結構即服務 (IaaS) 平臺工作負載方面，必須具備主題專業知識。
+  ms.openlocfilehash: cbab07469bab6e59dcd736caf97eb0871fb4f4f7
+  ms.sourcegitcommit: c0897fc6536adf49a00cbefbe0ee43945146c08b
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/17/2021
+  ms.locfileid: "132104937"
 uid: certification.windows-server-hybrid-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Windows Server Hybrid Administrator Associate 認證的報考者應具備配置和管理 Windows Server 本地部署、混合部署和作為服務 (IaaS) 平臺負載基礎設施方面的學科知識專長。
-  
-  該崗位的職責包括集成 Windows Server 環境和 Azure 服務以及在本地部署網路中管理 Windows Server。該崗位管理和維護 Azure 中的 Windows Server IaaS 負載，此外還有向 Azure 遷移和部署負載。
-  
-  該崗位通常與 Azure 管理員、企業設計師、Microsoft 365 管理員以及網路工程師合作共事。
-  
-  此認證的報考者使用本地部署、混合部署和 cloud 技術管理核心高級 Windows Server 負載和服務。 這些專業人士應具備實施和管理本地部署和混合部署解決方案的專業知識，如身份、管理、計算、網路和存儲等。他們也同樣是執行與安全、遷移、監控、高可用性、解決問題以及災難恢復相關任務的專家。這些專業人士使用管理工具和技術，如 Windows Admin Center、PowerShell、Azure Arc 和 IaaS 虛擬機器管理。他們也使用 Azure Automation 更新管理、Microsoft Defender for Identity、Azure Security Center、Azure Migrate 以及Azure Monitor。
-  
-  該認證的報考者應具備使用 Windows Server 作業系統的豐富經驗。
-  
-  <div><br/><font color='red'><strong>注意：該認證將於2021年12月可用。</strong></font></div>
-subTitle: 該認證將在2021年12月可用。Windows Server Hybrid Administrator Associate 認證的報考者應具備配置和管理 Windows Server 本地部署、混合部署和作為服務 (IaaS) 平臺負載基礎設施方面的學科知識專長。
+summary: >-
+  Windows Server 混合式系統管理員相關的候選項目，在設定和管理 Windows Server 內部部署、混合式和基礎結構即服務 (IaaS) 平臺工作負載方面，必須具備主題專業知識。
+
+
+  此角色的責任包括整合 Windows 伺服器環境與 Azure 服務，以及在內部部署網路中管理 Windows 伺服器。 除了將工作負載遷移至 azure 之外，此角色也會在 azure 中管理及維護 Windows Server IaaS 工作負載。
+
+
+  此角色通常會與 Azure 系統管理員、企業架構設計人員、Microsoft 365 系統管理員和網路工程師共同合作。
+
+
+  此認證的候選項目可管理使用內部部署、混合式和雲端技術的核心和先進 Windows 伺服器工作負載和服務。 這些專業人員應具備執行和管理內部部署和混合式解決方案的專業知識，例如身分識別、管理、計算、網路和儲存體。 它們也是執行與安全性、遷移、監視、高可用性、疑難排解和嚴重損壞修復相關之工作的專家。 這些專業人員使用系統管理工具和技術，包括 Windows Admin Center、PowerShell、Azure Arc 和 IaaS 虛擬機器管理。 它們也適用于 Azure 自動化更新管理、適用于身分識別的 Microsoft Defender、Azure 資訊安全中心、Azure Migrate 和 Azure 監視器。
+
+
+  這項認證的候選項應該具有使用 Windows Server 作業系統的廣泛體驗。
+
+
+  <div><br/><font color='red'><strong>注意：此認證將于2021年12月提供。</strong></font></div>
+subTitle: 此認證將于2021年12月提供。 Windows Server 混合式系統管理員相關的候選項目，在設定和管理 Windows Server 內部部署、混合式和基礎結構即服務 (IaaS) 平臺工作負載方面，必須具備主題專業知識。
 levels:
 - intermediate
 skills:
-- 在本地部署和 clund 環境中部署和管理 Active Directory Domain Services (AD DS)
-- 在混合部署環境中管理 Windows Servers 和負載
-- 管理虛擬機器和容器 
-- 實施和管理本地部署和混合部署網路基礎設施 
-- 管理存儲和檔服務
-- 保障 Windows Server 本地部署和混合部署基礎設施
-- 實施和管理 Windows Server 高可用性 
-- 實施災難恢復
-- 遷移伺服器和負載
-- 監控和解決 Windows Server 環境問題
+- Deploy and manage Active Directory Domain Services (AD DS) in on-premises and cloud environments
+- Manage Windows Servers and workloads in a hybrid environment
+- Manage virtual machines and containers
+- Implement and manage an on-premises and hybrid networking infrastructure
+- Manage storage and file services
+- Secure Windows Server on-premises and hybrid infrastructures
+- Implement and manage Windows Server high availability
+- Implement disaster recovery
+- Migrate servers and workloads
+- Monitor and troubleshoot Windows Server environments
 roles:
 - administrator
 - identity-access-admin
@@ -62,23 +73,23 @@ exams:
 - uid: exam.az-801
 resources:
 - title: Azure 認證海報
-  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  description: 查看 Azure 的基本概念、角色型和專長認證等總覽。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md

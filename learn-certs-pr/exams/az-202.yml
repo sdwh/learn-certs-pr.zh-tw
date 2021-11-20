@@ -1,66 +1,77 @@
 ### YamlMime:Examination
-title: Microsoft Azure Developer Certification Transition
+title: Microsoft Azure開發人員認證轉換
 metadata:
-  title: '測驗 AZ-202: Microsoft Azure Developer Certification Transition'
-  description: '測驗 AZ-202: Microsoft Azure Developer Certification Transition'
+  title: 測驗 AZ-202： Microsoft Azure 開發人員認證轉換
+  description: 測驗 AZ-202： Microsoft Azure 開發人員認證轉換
+  ms.openlocfilehash: 501af311729366fd144441e91fc67aed2a4083eb
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101567"
 uid: exam.az-202
 displayName: AZ-202
 summary: >-
-  <div><strong>該測驗已於 2019年3月31日到期。測驗將在中部標準時間晚間11點59分到期</strong></div>
+  <div>
 
-  <br/>
+  <div><strong>此測驗已于2019年3月31日淘汰。注意&#58; 測驗于 11:59 PM 中部標準時間淘汰</strong><br/><br/></div>
 
-
-  此項測驗僅適用於已參加 [測驗 70-532](https://www.microsoft.com/learning/exam-70-532.aspx) 的應試者&#58; Developing Microsoft Azure Solutions.若您沒有參加測驗 532，那麼您將無法透過此測驗獲得認證。
-
-
-  此轉換測驗針對的是已經通過即將被新的角色導向的認證測驗替代的現有測驗，從而在內容領域中展示了其技能的人。他們除了已通過當前的認證之外，而且還具有我們認為獲取這項新認證所應具有的能力。那些已經通過現有測驗的人已經展示了他們的勝任能力，我們不想再次針對相同內容對他們展開又一次測試。
+  </div>
 
 
-  轉換測驗包含了全新的內容，包括對之前內容的深入，以及自應試者參加測驗之後可能已經出現變化的技術方面的內容。因此，轉換測驗不會比典型的測驗更短，而是更多地關注於我們在現有的、即將被替代的測驗或認證中並未評估的關鍵任務與技能。
+  這項測驗僅適用于已進行[測驗 70-532](https://www.microsoft.com/learning/exam-70-532.aspx)&#58; 開發 Microsoft Azure 解決方案的候選人。 如果您尚未參加測驗532，您將不會獲得這項測驗來取得認證。
 
 
-  此測驗的應試者是負責設計與構建雲端解決方法（如應用程式與服務等）的 Azure 開發人員。他們參與了開發過程的全部階段，包括從解決方法設計到開發與部署，再到測試與維護。他們與雲端解決方法架構師、雲端 DBA、雲端管理員以及實作解決方法的客戶進行過合作。
+  轉換測驗適用于已經在內容領域中展示技能的人，方法是將新的「以角色為基礎的認證測驗」取代) ，藉由將現有的測驗 (的。 其中涵蓋目前憑證之間的差異，以及我們希望贏得新認證的人員能夠進行的差異。 我們不想要在已通過現有測驗的相同內容上重新測試人們的表現。
 
 
-  應試者應精通使用 Azure 工具與技術（包括儲存、安全、計算與通信）開發應用與服務。
+  轉換測驗涵蓋了新的內容、未涵蓋的內容，涵蓋的深度更多，以及因某人進行測驗而可能有所變更之技術方面的內容。 如此一來，轉換測驗不會比一般測驗還短，而是著重于未在即將取代的現有測驗或認證中評估的主要工作和技能。
 
 
-  應試者必須在軟體開發的全部階段擁有至少一年的可擴展解決方法開發經驗，而且需要精通至少一種雲端支援程式設計語言。
-subTitle: 此項測驗僅適用於已參加 測驗 70-532 的應試者：Developing Microsoft Azure Solutions.若您沒有參加測驗 532，那麼您將無法透過此測驗獲得認證。
+  這項測驗的候選人是設計和建立雲端解決方案（例如應用程式和服務）的 Azure 開發人員。 他們參與了開發的所有階段，從解決方案設計到開發和部署，到測試和維護。 它們與雲端解決方案架構設計人員、雲端 Dba、雲端系統管理員和用戶端合作，以實行解決方案。
+
+
+  在使用 Azure 工具和技術（包括儲存體、安全性、計算和通訊）來開發應用程式和服務時，候選人應該要熟練。
+
+
+  候選人必須至少有一年的經驗，可以透過軟體發展的所有階段開發可擴充的解決方案，並具備至少一個雲端支援的程式設計語言。
+subTitle: 本測驗僅適用于已測驗70-532 的候選人：開發 Microsoft Azure 解決方案。 如果您尚未參加測驗532，您將不會獲得這項測驗來取得認證。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJV3
+scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/
-retirementDate: 03/31/2019
 levels:
 - intermediate
 skills:
-- 開發雲端儲存 (15-20%)
-- 建立平台即服務 (PaaS) 解決方法 (30-35%)
-- 保護雲端解決方法 (5-10%)
-- 為 Azure 雲端模型進行開發 (25-30%)
-- 實施雲端整合解決方案 (15-20%)
+- Develop for cloud storage (15-20%)
+- Create Platform as a Service (PaaS) Solutions (30-35%)
+- Secure cloud solutions (5-10%)
+- Develop for an Azure cloud model (25-30%)
+- Implement cloud integration solutions (15-20%)
+retirementDate: 03/31/2019
 roles:
 - developer
-exams:
-- uid: exam.az-203
 products:
 - azure
+exams:
+- uid: exam.az-203
 relatedCertifications:
 - related:
     uid: certification.azure-developer
 resources:
-- title: 訓練和認證指南
-  description: 在簡明的訓練和認證指南中探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證海報
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 申請調整
-  description: 詳細了解有關為測驗申請調整的資訊。
+- title: 要求住宿
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md

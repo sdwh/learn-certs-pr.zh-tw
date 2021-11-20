@@ -1,28 +1,37 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure Developer Associate （遺留）'
+title: 'Microsoft 認證： Azure 開發人員將 (舊版) '
 metadata:
-  title: 'Microsoft Certified: Azure Developer Associate （遺留）'
-  description: 'Azure開發人員設計、構建、測試和維護雲端應用程式和服務。'
+  title: 'Microsoft 認證： Azure 開發人員將 (舊版) '
+  description: Azure 開發人員會設計、建立、測試及維護雲端應用程式和服務。
+  ms.openlocfilehash: c02a1de4e424831cde8234f7213aa0668a5c4bc5
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104140"
 uid: certification.azure-developer-erlr
-certificationRenewalUid: renewal.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color="#D83B01"><strong>此版本的證書不再有效。如果您有此版本的證書，您將自動取得此證書的最新版本。<br/><br/>  兩個版本的證書都將在您的「證書」列出。您只需更新到新的版本。當先前版本到期時，它將轉到您成績單的證書歷史部分。<br/><br/></strong></font></div>
-  
-  參加 Azure Developer Associate 認證的考生應具備在 Microsoft Azure 上設計、構建、測試和維護 cloud 應用程式及服務方面的學科知識專長。
-  
-  這個角色的職責包括參與 cloud 開發的所有階段，從需求、定義和設計到開發、部署和維護，再到性能調優和監控。
-  
-  Azure 開發人員與 cloud 解決方案架構師、cloud DBAs、cloud 管理員和客戶合作實施解決方案。
-  
-  參加該認證的考生應具有1-2年的專業開發經驗以及使用 Microsoft Azure 的經驗。此外，該認證的考生應該能夠使用 Azure 所支援的語言進行程式設計，並能熟練使用 Azure SDKs, Azure PowerShell, Azure CLI, 資料存儲選項、資料連接、APIs, 應用程式驗證和授權、計算和容器部署、調試、性能調優及監控。
-subTitle: Azure 開發人員設計、構建、測試和維護雲端應用程式和服務。
+summary: >-
+  <div><font color="#D83B01"><strong>此版本的認證已無法再使用。 如果您有此版本的認證，系統會自動將最新版本的認證授與您。<br/><br/>  這兩種版本的認證都會列在您的認證中。 您只需要更新較新的版本。 當先前的版本過期時，它會移至文字記錄的 [認證歷程記錄] 區段。<br/><br/></strong></font></div>
+
+
+  適用于 Azure 開發人員的認證，在 Microsoft Azure 上設計、建立、測試和維護雲端應用程式和服務時，必須具備主題專業知識。
+
+
+  此角色的責任包括參與雲端開發的所有階段，包括需求、定義和設計;開發、部署和維護;效能微調和監視。
+
+
+  Azure 開發人員會與雲端解決方案架構設計人員、雲端 Dba、雲端系統管理員和用戶端合作，以執行解決方案。
+
+
+  這項認證的候選版應該有1-2 年的專業開發經驗和 Microsoft Azure 體驗。 此外，此角色的候選項目應該能夠以 azure 所支援的語言進行程式設計，並在 azure sdk、Azure PowerShell、Azure CLI、資料儲存選項、資料連線、api、應用程式驗證和授權、計算和容器部署、偵錯工具、效能微調和監視方面獲得更高的能力。
+subTitle: Azure 開發人員會設計、建立、測試及維護雲端應用程式和服務。
 hidden: true
 hideFishboneDiagram: true
 levels:
 - intermediate
 skills:
-- 無
+- None
 roles:
 - developer
 type: role-based
@@ -54,27 +63,26 @@ exams:
 - uid: exam.az-201
 resources:
 - title: Azure 認證海報
-  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  description: 查看 Azure 的基本概念、角色型和專長認證等總覽。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 認證之旅
-  description: 探索獲得 Azure Developer Associate 資格的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索可作為 Azure 開發人員相關聯的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: badges.md
-

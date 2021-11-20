@@ -1,23 +1,30 @@
 ### YamlMime:Certification
-title: 'Microsoft Office Specialist: Microsoft Access Expert (Access and Access 2019)'
+title: 'Microsoft Office專家： Microsoft Access 專家 (存取及存取 2019) '
 metadata:
-  title: 'Microsoft Office Specialist: Microsoft Access Expert (Access and Access 2019)'
-  description: '透過獲得 Microsoft Office Specialist:  Access Expert 認證，證明您具有充分利用 Access 所需的技能。'
+  title: 'Microsoft Office專家： Microsoft Access 專家 (存取及存取 2019) '
+  description: 藉由獲得 Microsoft Office 專家：存取專家認證，來示範您具備取得最大存取權所需的技能。
+  ms.openlocfilehash: 202a149a8e7111322f702959e7ba4dc9fbd06e6f
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101327"
 uid: certification.mos-access-expert-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  透過獲得 Microsoft Office Specialist&#58; Access Expert 認證，證明您具有充分利用 Access 所需的技能。該認證證明了在資料庫設計原則方面的能力。
+summary: >-
+  藉由獲得 Microsoft Office 專家&#58; 存取專家認證的方式，示範您有需要獲得最大存取權的技能。 此認證示範資料庫設計原則的專長認證。
 
-  獲得此認證的個人擁有大約 150 個小時的教學經驗和產品實踐經驗，已在產業專家層面證明其能力，並準備進入工作市場。他們可以演示 Access 主要功能的正確應用，並可以獨立完成任務。
-subTitle: '透過獲得 Microsoft Office Specialist:  Access Expert 認證，證明您具有充分利用 Access 所需的技能。'
+
+  獲得此認證的個體有大約150小時的指示，以及產品的實際操作經驗，具有業界專家層級的經證實專長認證，而且已準備好進入作業市場。 他們可以示範存取主體功能的正確應用，而且可以獨立完成工作。
+subTitle: 藉由獲得 Microsoft Office 專家：存取專家認證，來示範您具備取得最大存取權所需的技能。
 levels:
 - advanced
 skills:
-- 管理資料庫
-- 創建和修改表
-- 創建和修改查詢
-- 在佈局視圖中修改表單
-- 在佈局視圖中修改報告
+- Manage databases
+- Create and modify tables
+- Create and modify queries
+- Modify forms in layout view
+- Modify reports in layout view
 roles:
 - business-user
 type: mos
@@ -28,19 +35,18 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBe
 exams:
 - uid: exam.mo-500
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

@@ -1,22 +1,29 @@
 ### YamlMime:Certification
-title: 'Microsoft Office Specialist: Outlook Associate (Outlook and Outlook 2019)'
+title: 'Microsoft Office專家： Outlook 將 (Outlook 和 Outlook 2019) '
 metadata:
-  title: 'Microsoft Office Specialist: Outlook Associate (Outlook and Outlook 2019)'
-  description: '透過獲得 Microsoft Office Specialist:  Outlook Associate 認證，證明您具有充分利用 Outlook 所需的技能。'
+  title: 'Microsoft Office專家： Outlook 將 (Outlook 和 Outlook 2019) '
+  description: 藉由獲得 Microsoft Office 專家，讓您擁有充分利用 Outlook 所需的技能： Outlook 關聯認證。
+  ms.openlocfilehash: 14a882f9fddb1338f47e97534e957575649b394d
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104325"
 uid: certification.mos-outlook-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  透過獲得 Microsoft Office Specialist&#58; Outlook Associate 認證，證明您具有充分利用 Outlook 所需的技能。該認證證明了定制 Outlook 用戶界面格式消息內容，創建或插入圖形元素以及發送和響應電子郵件以及會議要求的能力。
+summary: >-
+  藉由獲得 Microsoft Office 專家&#58; Outlook 關聯認證的方式，示範您擁有充分利用 Outlook 所需的技能。 此憑證示範專長認證，可自訂 Outlook 使用者介面格式訊息內容、建立或插入圖形元素，以及傳送和回應電子郵件和會議要求。
 
-  獲得此認證的個人擁有大約150個小時的教學經驗和產品實踐經驗，已在產業助理層面證明其能力，並準備進入工作市場。他們可以演示 Outlook 主要功能的正確應用，並可以獨立完成任務。
-subTitle: '透過獲得 Microsoft Office Specialist: Outlook Associate 認證，證明您具有充分利用 Outlook 所需的技能。'
+
+  獲得此認證的個體有大約150小時的指示，以及產品的實際操作經驗，具有業界相關聯層級的已證明專長認證，而且已準備好進入作業市場。 他們可以示範 Outlook 的主要功能的正確應用，而且可以獨立完成工作。
+subTitle: 藉由獲得 Microsoft Office 專家，讓您擁有充分利用 Outlook 所需的技能： Outlook 關聯認證。
 levels:
 - intermediate
 skills:
-- 管理 Outlook 設置和過程
-- 管理訊息
-- 管理時間表
-- 管理聯繫人和任務
+- Manage Outlook settings and processes
+- Manage messages
+- Manage schedules
+- Manage contacts and tasks
 roles:
 - business-user
 type: mos
@@ -27,19 +34,18 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nj1
 exams:
 - uid: exam.mo-400
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

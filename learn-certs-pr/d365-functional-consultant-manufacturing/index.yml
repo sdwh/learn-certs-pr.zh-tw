@@ -1,34 +1,47 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
+title: Microsoft 認證： Dynamics 365 供應鏈管理、製造功能顧問相關聯
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
-  description: 'Dynamics 365 供應鏈管理製造功能顧問負責整合數位與實際系統；提升可見性、製造效率與靈活度；並為客戶降低成本。'
+  title: Microsoft 認證： Dynamics 365 供應鏈管理、製造功能顧問相關聯
+  description: Dynamics 365 供應鏈管理、製造功能顧問整合數位和實體系統;改善可見度、製造效率和彈性;並降低其用戶端的成本。
+  ms.openlocfilehash: 61dbf9909672cc222c0847149673c38446285b37
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132102026"
 uid: certification.d365-functional-consultant-manufacturing
 certificationRenewalUid: renewal.d365-functional-consultant-manufacturing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  如果您是一位對製造業標準有著深刻理解的功能顧問或商業用戶，那麼此認證可能適合您。您還需要擁有配置和實施 Dynamics 365 Supply Chain Management 方面的經驗，以滿足您組織的需求。供應鏈管理、製造業功能顧問是核心資源，他們與財務、商業及供應鏈領域的開發人員、解決方案架構師、專案經理和功能顧問一起工作。
-  
-  如果您在設法獲得該認證之前需要更多的經驗，這裡有一些建議&#58;
-  
-  - 在 Microsoft Learn 上學習供應鏈管理以及供應鏈管理、製造模組，並完成更多的親身實踐。
-  - 報名參加一個由教師指導的培訓課程，此課程涵蓋 MB-300 或 MB-320 方向。
-  - 加入社區 [community.dynamics.com](https://community.dynamics.com/)，或加入一個用戶組。
-  - 在製造業工作流程中跟隨一位元製造業功能顧問。
-  - 找個導師，參觀生產線，並學習物體是如何製造的。
-  - 向專家和客戶提問並學習。
-subTitle: 'Dynamics 365 供應鏈管理製造功能顧問負責整合數位與實際系統；提升可見性、製造效率與靈活度；並為客戶降低成本。'
+summary: >-
+  如果您是可深入瞭解製造產業標準的功能顧問或商務使用者，則此認證可能適用于您。 您也需要設定和實行 Dynamics 365 供應鏈管理的經驗，以符合組織的需求。 供應鏈管理、製造功能顧問是與開發人員、解決方案架構設計人員、專案經理以及財務、商務和供應鏈中的功能顧問合作的重要資源。
+
+
+  如果您需要更多的經驗，才能嘗試獲得此認證，以下是一些建議&#58;
+
+
+  - 研究供應鏈管理和供應鏈管理、Microsoft Learn 的製造課程模組，以及完成更多實際操作練習。
+
+  - 報名講師指導的訓練課程，其中涵蓋了 MB-300 或 MB-320 的曲目。
+
+  - 參與 [community.dynamics.com](https://community.dynamics.com/)的元件，或加入使用者群組。
+
+  - 在製造工作流程中遮蔽製造功能顧問。
+
+  - 取得顧問、導覽製造線，以及瞭解如何進行。
+
+  - 提出問題，並向專家和客戶學習。
+subTitle: Dynamics 365 供應鏈管理、製造功能顧問整合數位和實體系統;改善可見度、製造效率和彈性;並降低其用戶端的成本。
 levels:
 - intermediate
 skills:
-- 使用 Microsoft Power Platform 技術描述金融和運營應用程式以及擴展應用程式。 
-- 配置管理功能和工作流 
-- 管理金融和運營資料
-- 驗證和支援解決方案
-- 配置Dynamics 365 Supply Chain Management, Manufacturing
-- 管理製造過程
-- 實施主生產計畫
-- 實現其他製造特徵
+- Describe finance and operations apps, and extend apps by using Microsoft Power Platform technologies
+- Configure administrative features and workflows
+- Manage finance and operations data
+- Validate and support solutions
+- Configure Dynamics 365 Supply Chain Management, Manufacturing
+- Manage manufacturing processes
+- Implement master planning for production
+- Implement other manufacturing features
 roles:
 - functional-consultant
 type: role-based
@@ -55,27 +68,26 @@ exams:
 - uid: exam.mb-320
 resources:
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 認證之旅
-  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRH
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
-- title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+- title: 認證學習路徑
+  description: 建議的訓練資源，以協助您準備進行必要的測驗並獲得您的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBE
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

@@ -1,21 +1,32 @@
 ### YamlMime:Examination
-title: Microsoft Azure Administrator
+title: Microsoft Azure管理員
 metadata:
-  title: 'Exam AZ-103: Microsoft Azure Administrator'
-  description: 'Exam AZ-103: Microsoft Azure Administrator'
+  title: 測驗 AZ-103： Microsoft Azure 系統管理員
+  description: 測驗 AZ-103： Microsoft Azure 系統管理員
+  ms.openlocfilehash: c06b714d61a58e638e47c1afd6dec7d5fd44819a
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101582"
 uid: exam.az-103
 displayName: AZ-103
-summary: |-
+summary: >-
   <div>
-  <div><strong>此測驗於 2020 年 8 月 31 日淘汰。可以進行替代考試 AZ-104。有關更多資訊，請訪問 <a href="/learn/certifications/exams/az-104">AZ-104 測驗詳細資訊頁面。</a>.</strong><br/><br/></div>
+
+  <div><strong>此測驗已于2020年8月31日淘汰。有一項替換測驗（AZ-104）可供使用。如需詳細資訊，請造訪 <a href="/learn/certifications/exams/az-104">AZ-104 測驗詳細資料網頁</a>。</strong><br/><br/></div>
+
   </div>
 
-  自2019年5月1日起，你僅需要通過 Exam AZ-103 便可獲得此認證。這項新測驗結合了AZ-100 和 AZ-101 (將在2019年5月1日退役)的技能，大部分的新測驗內容將取自 AZ-100。
 
-  此測驗的應試者是 Azure 管理員，他們管理跨越儲存、安全性、網路與計算雲端功能的雲端服務。應試者對整個 IT 生命週期中的每項服務都有深入的瞭解，並接受雲端基礎結構服務、應用程式與環境的請求。他們針對最佳性能與規模使用服務提出建議，並適當地佈建、規模、監控與調整資源。
+  自2019年5月1日起，您只需要通過測驗 AZ-103 即可獲得此認證。 這項新測驗結合了 AZ-100 和 AZ-101 (中所涵蓋的技能，這些技能已于年5月 1) 2019 日淘汰，且大部分的新測驗都來自 AZ-100。
 
-  測驗的應試者應該熟練使用 PowerShell 與命令列界面、Azure Portal、ARM 範本、操作系統、虛擬化、雲端基礎結構、儲存結構和網路。
-subTitle: '自2019年5月1日起，你僅需要通過 Exam AZ-103 便可獲得此認證。這項新測驗結合了AZ-100 和 AZ-101 (將在2019年5月1日退役)的技能，大部分的新測驗內容將取自 AZ-100。該測驗衡量您完成以下技術任務的能力：管理 Azure 訂閱和資源；實作和管理存儲；部署和管理虛擬機 (VM)；配置和管理虛擬網絡；和管理身份。'
+
+  這項測驗的候選項目是 Azure 系統管理員，負責管理跨儲存體、安全性、網路和計算雲端功能的雲端服務。 候選人對整個 IT 生命週期的每個服務都有深入的瞭解，並取得基礎結構服務、應用程式和環境的要求。 他們會對要使用的服務提出建議，以達到最佳效能和規模，以及視需要布建、調整規模、監視和調整資源。
+
+
+  這項測驗的候選項目應能熟練使用 PowerShell、命令列介面、Azure 入口網站、ARM 範本、作業系統、虛擬化、雲端基礎結構、儲存結構和網路功能。
+subTitle: 自2019年5月1日起，您只需要通過測驗 AZ-103 即可獲得此認證。 這項新測驗結合了 AZ-100 和 AZ-101 (中所涵蓋的技能，這些技能已于年5月 1) 2019 日淘汰，且大部分的新測驗都來自 AZ-100。 這項測驗會測量您完成下列技術工作的能力：管理 Azure 訂用帳戶和資源;執行和管理儲存體; (Vm 部署及管理虛擬機器) ;設定和管理虛擬網路;和管理身分識別。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUR
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -27,11 +38,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 管理 Azure 訂閱和資源 (15-20%)
-- 實作和管理存儲 (15-20%)
-- 部署和管理虛擬機 (VM) (15-20%)
-- 部署和管理虛擬網絡 (VM) (30-35%)
-- 管理身份 (15-20%)
+- Manage Azure subscriptions and resources (15-20%)
+- Implement and manage storage (15-20%)
+- Deploy and manage virtual machines (VMs) (15-20%)
+- Configure and manage virtual networks (30-35%)
+- Manage identities (15-20%)
 retirementDate: 08/31/2020
 roles:
 - administrator
@@ -44,7 +55,6 @@ products:
 - azure-resource-manager
 courses:
 - uid: course.az-010t00
-- uid: course.az-103t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure
 - uid: learn.architect-storage-infrastructure
@@ -61,25 +71,24 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md
-

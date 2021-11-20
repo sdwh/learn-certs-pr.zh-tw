@@ -1,37 +1,46 @@
 ### YamlMime:Examination
-title: 'Managing Microsoft Teams'
+title: 管理 Microsoft Teams
 metadata:
-  title: 'Exam MS-700: Managing Microsoft Teams'
-  description: 'Exam MS-700: Managing Microsoft Teams'
+  title: 測驗 MS-700：管理 Microsoft Teams
+  description: 測驗 MS-700：管理 Microsoft Teams
+  ms.openlocfilehash: 00d2a72f6abea874d241fc4a6afbbddd4be71d9e
+  ms.sourcegitcommit: 8cad4571f4ed5db8e51cccdc1cf6355526195802
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/26/2021
+  ms.locfileid: "132104969"
 uid: exam.ms-700
 displayName: MS-700
-summary: |-
-  <div><div><font color='red'><strong>該考試內容已在2021年9月24日更新。請下載如下的技能測試檔以瞭解變更內容。</strong></font><br/><br/></div><div><font color='red'>請注意：通過分數：700。瞭解更多關於考試分數的內容，請點擊<a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">這裡</a>。</font><br/><br/></div></div>
+summary: >-
+  <div><div><font color='red'><strong>本測驗的內容已于2021年9月24日更新。請下載下列技能測量檔，以查看變更了哪些內容。</strong></font><br/><br/></div><div><font color='red'>注意：傳遞分數：700。 <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">在此</a>深入瞭解測驗分數。</font><br/><br/></div></div>
 
-  該考試的報考者是管理 Microsoft Teams 以在 Microsoft 365 環境中促進高效和有效合作與交流的 Microsoft Teams 管理員。
-  
-  該考試的報考者必須能夠規劃、部署、配置和保障 Teams 聊天、管道、會議、音訊/視訊會議、現場活動、呼叫和 Microsoft Teams 認證設備。報考者應擁有將 Microsoft Teams 與其他工作集成的經驗，包括 SharePoint、OneDrive、Exchange、Microsoft 365 Groups、Power Platform 和其他 Microsoft 應用程式、協力廠商應用程式以及自訂應用程式。
-  
-  Microsoft Teams 管理員也與其他職責的專業人士合作，如網路、電話、許可證發放、安全、合規、使用者採納、應用程式開發和支援。
-subTitle: '該考試測試了您完成如下技術任務的能力：規劃和配置 Microsoft Teams 環境；管理聊天、團隊、頻道和應用程式；管理呼叫和會議；以及監控和解決 Microsoft Teams 環境問題。'
+
+  這項測驗的候選項目是管理 Microsoft Teams 的 Microsoft Teams 系統管理員，以促進 Microsoft 365 環境中有效率、有效率的共同作業與通訊。
+
+
+  這項測驗的候選人必須能夠規劃、部署、設定和保護 Teams 的聊天、應用程式、頻道、會議、音訊/視訊會議、實況活動、電話及 Microsoft Teams 認證的裝置。 候選人應該有整合 Microsoft Teams 與其他工作負載的體驗，包括 SharePoint、OneDrive、Exchange、Microsoft 365 群組、Power Platform，以及其他 Microsoft 應用程式、協力廠商應用程式及自訂應用程式。
+
+
+  Microsoft Teams 系統管理員也會共同合作其他功能，例如網路、電話語音、授權、安全性、合規性、使用者採用、應用程式開發和支援。
+subTitle: 這項測驗會測量您完成下列技術工作的能力：規劃和設定 Microsoft Teams 環境;管理聊天、小組、頻道和應用程式;管理通話和會議;並針對 Microsoft Teams 環境進行監視及疑難排解。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-700?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-700&examname=Exam%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-700
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-700&examname=Exam%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-700
 - providerType: gsi
-  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MS-700&provider=psi&examname=Exam%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-700
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-700&provider=psi&examname=Exam%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-700
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 該考試內容已在2021年9月24日更新。請下載下面的考試技巧大綱，看看有何變化。
-- 管理和配置 Microsoft Teams 環境(35-40%)
-- 管理聊天、團隊、頻道和應用程式(25-30%)
-- 管理呼叫和會議(15-20%)
-- 監控和解決 Microsoft Teams 環境問題(10-15%)
+- The content of this exam was updated on September 24, 2021. Please download the exam skills outline below to see what changed.
+- Plan and configure a Microsoft Teams environment (35-40%)
+- Manage chat, teams, channels, and apps (25-30%)
+- Manage calling and meetings (15-20%)
+- Monitor and troubleshoot a Microsoft Teams environment (10-15%)
 roles:
 - administrator
 products:
@@ -48,28 +57,27 @@ relatedCertifications:
 - related:
     uid: certification.m365-teams-administrator-associate
 resources:
-- title: 認證學習途徑
-  description: '發現訓練資源，以成為經 Microsoft Certified: Teams Administrator Associate.'
+- title: 認證 Learning 路徑
+  description: 探索訓練資源以成為 Microsoft 認證： Teams 系統管理員建立關聯。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證考試
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 請求無障礙設施
-  description: 詳細了解有關為測驗申請調整的資訊。
+- title: 要求住宿
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md
-

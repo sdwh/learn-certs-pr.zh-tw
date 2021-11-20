@@ -1,28 +1,33 @@
 ### YamlMime:CertificationRenewal
-title: '更新您的 Microsoft Certified: Azure Administrator Associate'
+title: Microsoft 認證的續約： Azure 系統管理員關聯
 metadata:
-  title: '更新您的 Microsoft Certified: Azure Administrator Associate'
-  description: '如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。'
+  title: Microsoft 認證的續約： Azure 系統管理員關聯
+  description: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。
+  ms.openlocfilehash: bd2a7daf70e34297ffe52650f04e7278d40ce29a
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104189"
 uid: renewal.azure-administrator
 certificationUid: certification.azure-administrator
 assessmentId: 5a6a0e34-b4e6-4690-af91-962c75421067
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  如果您擁有此認證，並且該認證將在六個月內到期，則您有資格更新。通過更新評估，表明您已瞭解最新的Azure更新。您還可以準備精選的學習模組更新。
+summary: 如果您有此認證，且它會在六個月內到期，則您有資格續訂。 藉由傳遞續約評估，顯示您已透過最新的 Azure 更新保持最新狀態。 您也可以使用學習課程模組的策劃集合來準備續約。
 skills:
-- 使用Azure 應用程式服務託管Web應用程式
-- 使用Docker構建容器化的Web應用程式
-- 安全儲存帳戶
-- 在Azure DNS上託管您的網域
-- 透過使用網路安全群組和服務端點來保護和隔離對Azure資源的存取
-- 使用Azure備份保護您的電腦
-- Kubernetes簡介
-- 在Azure Active Directory中管理用戶和群組
+- Host a web application with Azure App service
+- Build a containerized web application with Docker
+- Secure Storage Accounts
+- Host your domain on Azure DNS
+- Secure and isolate access to Azure resources by using network security groups and service endpoints
+- Protect your machines with Azure Backup
+- Introduction to Kubernetes
+- Manage users and groups in Azure Active Directory
 examsPassed:
 - az-104
-studyGuideDescription: '使用此學習模組集合可幫助您為Microsoft認證做準備：Azure管理員助理更新評估。'
+studyGuideDescription: 您可以使用此學習課程模組集合來協助您準備 Microsoft 認證： Azure 系統管理員將續約評估相關聯。
 resources:
-- title: 關於證書更新
-  summary: 了解線上更新證書的過程和要求
+- title: 關於認證續約
+  summary: 瞭解在線上續訂認證的流程和需求
   url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

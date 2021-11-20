@@ -1,31 +1,31 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure Data Fundamentals'
+title: Microsoft 認證： Azure 資料基礎
 metadata:
-  title: 'Microsoft Certified: Azure Data Fundamentals'
-  description: Azure 資料基礎知識驗證了核心資料概念的基礎知識以及如何使用 Microsoft Azure 資料服務實作它們。
+  title: Microsoft 認證： Azure 資料基礎
+  description: Azure 資料基礎概念會驗證核心資料概念的基本知識，以及它們如何使用 Microsoft Azure 資料服務來執行。
+  ms.openlocfilehash: 7bfb07b1be9c81d02412cf05bf471fdbb1b754b3
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132105206"
 uid: certification.azure-data-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  <div><font color='red'><strong>該認證內容將在2021年10月25日更新。請在 <a href="/learn/certifications/exams/dp-900">DP-900 考試頁面</a>下載技能考核檔以瞭解將要變更的內容。</strong></font><br/><br/></div>
-  
-  Azure 資料基礎認證的應試者應具有核心資料概念的基本知識，以及如何使用 Microsoft Azure 資料服務實作這些知識。  
-  
-  該認證適用於開始使用雲端中資料的應試者。  
-  
-  應試者應該熟悉關係和非關係資料的概念，以及不同類型的資料工作負載，例如事務性或分析性。  
-  
-  Azure 資料基礎知識可用於為其他基於 Azure 角色的認證做準備，例如 Azure Database Administrator Associate 或 Azure Data Engineer Associate，但這不是其中任何一個的先決條件。
-subTitle: Azure 資料基礎知識驗證了核心資料概念的基礎知識以及如何使用 Microsoft Azure 資料服務實作它們。
+summary: "<div><font color='red'><strong>此認證的內容已于2021年10月25日更新。請下載 <a href=\"/learn/certifications/exams/dp-900\">測驗 DP-900 頁面</a> 上的技能測量檔，以查看變更了哪些內容。</strong></font><br/><br/></div>\n\nAzure 資料基礎認證的候選項目應具備核心資料概念的基本知識，以及如何使用 Microsoft Azure 資料服務來實行這些概念。  \n\n這項認證適用于開始在雲端中使用資料的候選項目。  \n\n候選項目應熟悉關聯式和非關聯式資料的概念，以及不同類型的資料工作負載，例如交易式或分析。  \n\nAzure 資料基礎可以用來準備其他 Azure 角色型認證，例如與 Azure 資料庫管理員相關聯或 Azure 資料工程師相關聯，但不是其中任何一項的先決條件。"
+subTitle: Azure 資料基礎概念會驗證核心資料概念的基本知識，以及它們如何使用 Microsoft Azure 資料服務來執行。
 levels:
 - beginner
 skills:
-- 描述核心資料概念
-- 描述如何在 Azure 上使用關係資料
-- 描述如何在 Azure 上使用非關係資料
-- 描述 Azure 上的分析工作負載
+- Describe core data concepts
+- Describe how to work with relational data on Azure
+- Describe how to work with non-relational data on Azure
+- Describe an analytics workload on Azure
 roles:
-- data-engineer
 - database-administrator
+- data-analyst
+- data-engineer
+- developer
+- student
 type: fundamentals
 products:
 - azure
@@ -40,28 +40,27 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wqe
 exams:
 - uid: exam.dp-900
 resources:
-- title: Azure認證海報
-  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+- title: Azure 認證海報
+  description: 查看 Azure 的基本概念、角色型和專長認證等總覽。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 認證之旅
-  description: 探索Azure Data Fundamentals 的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索取得 Azure 資料基本概念認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

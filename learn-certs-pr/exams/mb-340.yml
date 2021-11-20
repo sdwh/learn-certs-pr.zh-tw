@@ -1,38 +1,48 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Commerce Functional Consultant
+title: Microsoft Dynamics 365 商務功能顧問
 metadata:
-  title: 'MB-340: Microsoft Dynamics 365 Commerce Functional Consultant'
-  description: 'MB-340: Microsoft Dynamics 365 Commerce Functional Consultant'
+  title: MB-340： Microsoft Dynamics 365 商務功能顧問
+  description: MB-340： Microsoft Dynamics 365 商務功能顧問
+  ms.openlocfilehash: 16770ca6f6c0c42b35b3ec29576fdd3a71ef9010
+  ms.sourcegitcommit: c0897fc6536adf49a00cbefbe0ee43945146c08b
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/17/2021
+  ms.locfileid: "132104948"
 uid: exam.mb-340
 displayName: MB-340
-summary: |-
-  <div><font color='red'>注意：通過分數：700。瞭解更多關於考試分數的內容，請點擊<a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">這裡</a>。</font><br/><br/></div>
+summary: >-
+  <div><font color='red'>注意：傳遞分數：700。 <strong><a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">在此</a></strong>深入瞭解測驗分數。</font><br/><br/></div>
 
-  參加本考試的考生在 Dynamics 365 Commerce 中設置和使用應用程式功能，並為應用程式提供支援。
-  
-  考生對於統一的商務運作有著較強的理解。他們可能具備配置、部署和維護 Dynamics 365 Commerce 的經驗。
-subTitle: '該考試考核了您完成如下技術任務的能力：配置 Dynamics 365 Commerce Headquarters；配置產品、價格、折扣、忠誠度和聯盟行銷；在 Dynamics 365 Commerce 中管理銷售點 (POS) ；配置和管理 Dynamics 365 Commerce 呼叫中心；和管理電子商務。'
+
+  此測驗的候選項目會設定並使用 Dynamics 365 Commerce 中的應用程式功能，並提供應用程式的支援。
+
+
+  候選項目對整合商務商務營運有充分的瞭解。 他們可能具有設定、部署和維護 Dynamics 365 Commerce 的經驗。
+subTitle: 這項測驗會測量您完成下列技術工作的能力：設定 Dynamics 365 Commerce 總部;設定產品、價格、折扣、忠誠度及合作關係;管理 Dynamics 365 Commerce 中的銷售點 (POS) ;設定及管理 Dynamics 365 Commerce 通話中心;和管理電子商務。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKn
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=MB-340&examname=Exam%20MB-340:%20Microsoft%20Dynamics%20365%20Commerce%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-340
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-340&examname=Exam%20MB-340:%20Microsoft%20Dynamics%20365%20Commerce%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-340
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 配置 Dynamics 365 Commerce “指揮部”(25-30%)
-- 配置產品、價格、折扣、忠誠度及附屬機構(25-30%)
-- 在 Dynamics 365 Commerce 中管理“銷售終端”(POS)(15-20%)
-- 配置並管理 Dynamics 365 Commerce 呼叫中心(10-15%)
-- 管理電子商務(15-20%)
+- Configure Dynamics 365 Commerce Headquarters (25-30%)
+- Configure products, prices, discounts, loyalty, and affiliations (25-30%)
+- Manage Point of Sales (POS) in Dynamics 365 Commerce (15-20%)
+- Configure and manage Dynamics 365 Commerce call centers (10-15%)
+- Manage e-commerce (15-20%)
 roles:
 - functional-consultant
-products: 
+products:
 - dynamics-365
 - dynamics-commerce
 - dynamics-cust-svc-insights
 - dynamics-retail
 - dynamics-sales
+exams:
+- uid: exam.mb-300
 paths:
 - uid: learn-dynamics.get-started-dynamics-365-commerce
 - uid: learn-dynamics.configure-work-omnichannel-prequisites-commerce
@@ -41,33 +51,31 @@ paths:
 - uid: learn-dynamics.configure-use-pos-commerce
 - uid: learn-dynamics.configure-work-call-centers-commerce
 - uid: learn-dynamics.configure-work-e-commerce
-exams:
-- uid: exam.mb-300
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-commerce
 resources:
 - title: 認證學習路徑
-  description: 推薦的培訓資源以幫助您準備要求的考試並獲得您的認證。
+  description: 建議的訓練資源，以協助您準備進行必要的測驗並獲得您的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWH8MJ
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md

@@ -1,34 +1,27 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Power Platform Fundamentals'
+title: Microsoft 認證： Power Platform 基礎
 metadata:
-  title: 'Microsoft Certified: Power Platform Fundamentals'
-  description: 證明您了解 Power Platform 的核心功能-從商業價值和核心產品功能到構建簡單的 Power Apps 畫布應用程式，連接資料源，使用 Power Automate 自動化基本業務流程，建立 Power BI 儀表板以及使用以下功能建立強大的聊天機器人電源虛擬代理。
+  title: Microsoft 認證： Power Platform 基礎
+  description: 證明您瞭解 Power Platform 的核心功能–從商務價值和核心產品功能，到建立簡單的 Power Apps 畫布應用程式、連接資料來源、使用 Power Automate 將基本商務程式自動化、建立 Power BI 儀表板，以及使用 Power Virtual Agents 建立強大的聊天機器人。
+  ms.openlocfilehash: 5cad2dc5f4e565272f52e7741e12c9478673afd4
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104745"
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  如果您是一名學生、商業用戶或剛入門的專業技術人士，該認證可以使您進步加速，並促進您的職業生涯，這是因為您可以使用Microsoft Power Platform的技能來提高您所在團隊的生產力。該認證的培訓無需經驗，只要基本熟悉電腦技術、資料分析、cloud計算和互聯網即可。可以考慮將基礎認證視為提高您的技能組合和晉升其他認證（如Microsoft Power Platform Functional Consultant）的第一步。
-  
-  如果您願意，Microsoft Power Platform Fundamentals認證可能非常適合您&#58;
-  - 使用Microsoft Power Platform來構建解決方案。
-  - 借助Power Automate來實現基本業務流程自動化。
-  - 通過Power BI進行資料分析。
-  - 創建簡單的Power Apps體驗。
-  - 借助Power Virtual Agents來構建實用的聊天機器人。
-  
-  該認證沒有前提條件。然而，如果您想獲得更多的經驗，你可以&#58;
-  - 在您的團隊中跟隨一位借助Microsoft Power Platform工作的人。
-  - 在Microsoft Learn上探究可用的學習途徑。
-  - 報名參加由導師指導的培訓課程。
-subTitle: 證明您了解 Power Platform 的核心功能-從商業價值和核心產品功能到構建簡單的 Power Apps 畫布應用程式，連接資料源，使用 Power Automate 自動化基本業務流程，建立 Power BI 儀表板以及使用以下功能建立強大的聊天機器人電源虛擬代理。
+summary: "如果您是學生、商務使用者或技術專業人員，此認證可加速您的進度，並讓您的事業提升，因為您使用 Microsoft Power Platform 技能來改善小組的生產力。 不需要經驗即可進行訓練，只對電腦技術、資料分析、雲端運算和網際網路有基本的熟悉程度。 您可以將基礎認證視為拓展技能的第一個步驟，並繼續進行其他認證，例如 Microsoft Power Platform 的功能顧問。\n\n如果您想要&#58;，Microsoft Power Platform 基礎認證可能很適合您。\n- 使用 Microsoft Power Platform 建立解決方案。\n- 使用 Power Automate 將基本商務程式自動化。\n- 使用 Power BI 來執行資料分析。 \n- 建立簡單的 Power Apps 體驗。\n- 使用 Power Virtual Agents 建立實用的聊天機器人。\n\n此認證沒有必要條件。 但是，如果您想要獲得更多的經驗，可以&#58;\n- 在您的小組中為使用 Microsoft Power Platform 的人員加上陰影。\n- 在 Microsoft Learn 探索可用的學習路徑。\n- 報名講師主導的訓練課程。"
+subTitle: 證明您瞭解 Power Platform 的核心功能–從商務價值和核心產品功能，到建立簡單的 Power Apps 畫布應用程式、連接資料來源、使用 Power Automate 將基本商務程式自動化、建立 Power BI 儀表板，以及使用 Power Virtual Agents 建立強大的聊天機器人。
 levels:
 - beginner
 skills:
-- 描述 Power Platform 的商業價值
-- 確定 Power Platform 的核心組件
-- 演示 Power BI 的功能
-- 描述 Power Apps 的功能
-- 演示 Power Automate 的功能
-- 展示 Power Virtual Agents 的商業價值
+- Describe the business value of Power Platform
+- Identify the core components of Power Platform
+- Demonstrate the capabilities of Power BI
+- Describe the capabilities of Power Apps
+- Demonstrate the capabilities of Power Automate
+- Demonstrate the business value of Power Virtual Agents
 roles:
 - business-user
 - functional-consultant
@@ -45,27 +38,26 @@ exams:
 - uid: exam.pl-900
 resources:
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 認證之旅
-  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4HabX
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證學習路徑
+  description: 建議的訓練資源，以協助您準備進行必要的測驗並獲得您的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gn
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

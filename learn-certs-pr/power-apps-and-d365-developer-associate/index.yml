@@ -1,33 +1,40 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
+title: Microsoft 認證： Power Apps + Dynamics 365 開發人員相關聯
 metadata:
-  title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
-  description: 處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。應試者實作解決方案的元件，包括應用程式增強功能，自訂使用者體驗、系統整合、資料轉換自訂流程自動化和自訂視覺效果。
+  title: Microsoft 認證： Power Apps + Dynamics 365 開發人員相關聯
+  description: 使用 Microsoft Power Apps 和 Dynamics 365 的開發人員必須負責設計、開發、保護及擴充 Dynamics 365 的執行。 候選項目可實行解決方案的元件，包括應用程式增強功能、自訂使用者體驗、系統整合、資料轉換、自訂程式自動化和自訂視覺效果。
+  ms.openlocfilehash: d6921b4001203cdb642b4405e3b3c723711bb5c4
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104761"
 uid: certification.power-apps-and-d365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
+summary: >-
   <div>
-  <div><strong>該認證已失效。有關當前可用的選項，請參閱<a href="/learn/certifications/browse/">流覽認證和考試頁面</a>。您在結束日期之前獲得的任何認證將繼續出現在您的<a href="https://aka.ms/certdashboard">認證儀錶板</a>中的成績單上。</strong><br/><br/></div></div>
 
-  處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。應試者實作解決方案的元件，包括應用程式增強功能，自訂使用者體驗，系統整合，資料轉換，自訂流程自動化和自訂視覺效果。
+  <div><strong>此認證已淘汰。如需目前可用的選項，請參閱 [ <a href="/learn/certifications/browse/">流覽認證和測驗] 頁面</a>。您在淘汰日期之前所獲得的任何認證，將會繼續出現在 <a href="https://aka.ms/certdashboard">認證儀表板</a>的文字記錄中。</strong><br/><br/></div></div>
 
-subTitle: 處理 Microsoft Power Apps 和 Dynamics 365 的研究人員負責設計、開發、保護及擴展 Dynamics 365 的實作。
+
+  使用 Microsoft Power Apps 和 Dynamics 365 的開發人員必須負責設計、開發、保護及擴充 Dynamics 365 的執行。 候選項目可實行解決方案的元件，包括應用程式增強功能、自訂使用者體驗、系統整合、資料轉換、自訂程式自動化和自訂視覺效果。
+subTitle: 使用 Microsoft Power Apps 和 Dynamics 365 的開發人員必須負責設計、開發、保護及擴充 Dynamics 365 的執行。
 levels:
 - intermediate
 skills:
-- 執行探索，計畫和分析
-- 管理使用者體驗設計
-- 管理實體和數據
-- 實作安全
-- 實作整合
-- 執行解決方案部署和測試
-- 建立一項技術設計
-- 設定公共資料服務
-- 創建和設定 Power Apps
-- 配置業務流程自動化
-- 擴展使用者體驗
-- 擴展平台
-- 開發整合
+- Perform discovery, planning, and analysis
+- Manage user experience design
+- Manage entities and data
+- Implement security
+- Implement integration
+- Perform solutions deployment and testing
+- Create a technical design
+- Configure Common Data Service
+- Create and configure Power Apps
+- Configure business process automation
+- Extend the user experience
+- Extend the platform
+- Develop integrations
 roles:
 - developer
 type: role-based
@@ -51,27 +58,26 @@ exams:
 - uid: exam.mb-400
 resources:
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 認證之旅
-  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkSW
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認證學習路徑
+  description: 建議的訓練資源，以協助您準備進行必要的測驗並獲得您的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C5rO
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

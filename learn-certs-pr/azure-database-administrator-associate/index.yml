@@ -1,29 +1,39 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure Database Administrator Associate'
+title: Microsoft 認證： Azure 資料庫管理員關聯
 metadata:
-  title: 'Microsoft Certified: Azure Database Administrator Associate'
-  description: 'Azure 資料庫管理員實作和管理建立在 Microsoft Azure 資料服務和 Microsoft SQL Server 的雲原生和混合式資料平台解決方案的可作業層面。'
+  title: Microsoft 認證： Azure 資料庫管理員關聯
+  description: Azure 資料庫系統管理員會針對以 Microsoft Azure 資料服務和 Microsoft SQL Server 為基礎的雲端原生和混合式資料平臺解決方案，實施及管理其操作層面。
+  ms.openlocfilehash: 17e690ce5ca22e0a89679d8acdbc03d049411a69
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132105203"
 uid: certification.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>該認證內容已在2021年9月24日更新。請在 <a href="/learn/certifications/exams/dp-300">DP-300 考試頁面</a>下載技能考核檔以瞭解變更內容。</strong></font><br/><br/></div>
-  
-  Azure 資料庫管理員實作和管理建立在 Microsoft Azure 資料服務和 Microsoft SQL Server 的雲原生和混合式資料平台解決方案的可作業層面。Azure 資料庫管理員使用各種方法和工具來執行日常操作，包括套用有關使用行政管理目的的 T-SQL 知識。
+summary: >-
+  <div><font color='red'><strong>此認證的內容將于2021年11月24日更新。請下載 <a href="/learn/certifications/exams/dp-300">測驗 DP-300 頁面</a> 上的技能測量檔，以瞭解有哪些變更。</strong></font><br/><br/></div>
+
+
+  Azure 資料庫系統管理員會執行和管理以 Microsoft SQL Server 和 Microsoft Azure 資料服務所建立之雲端原生和混合式資料平臺解決方案的操作層面。 Azure 資料庫管理員會使用各種方法和工具來執行日常作業，包括基於系統管理管理目的，運用 T SQL 的知識。
+
 
   <div></br>
-  此角色的候選人應瞭解 <a href='/learn/certifications/exams/dp-900'>Exam DP-900: Microsoft Azure Data Fundamentals</a> 中包含的所有概念。
+
+  此角色的候選項目應瞭解<a href='/learn/certifications/exams/dp-900'>測驗 DP-900： Microsoft Azure 資料基本</a>概念中涵蓋的所有概念。
+
   </div>
-subTitle: Azure 資料庫管理員實作和管理建立在 Microsoft Azure 資料服務和 Microsoft SQL Server 的雲原生和混合式資料平台解決方案的可作業層面。
+subTitle: Azure 資料庫系統管理員會針對以 Microsoft Azure 資料服務和 Microsoft SQL Server 為基礎的雲端原生和混合式資料平臺解決方案，實施及管理其操作層面。
 levels:
 - intermediate
 skills:
-- 規劃和實作資料平台資源
-- 實作安全的環境
-- 監視和最佳化可作業資源
-- 優化查詢性能
-- 執行工作自動化
-- 規劃並實作高可用性和災害復原（HADR）環境
-- 使用T-SQL執行管理
+- Plan and implement data platform resources
+- Implement a secure environment
+- Monitor and optimize operational resources
+- Optimize query performance
+- Perform automation of tasks
+- Plan and implement a High Availability and Disaster Recovery (HADR) environment
+- Perform administration by using T-SQL
 roles:
 - database-administrator
 type: role-based
@@ -50,28 +60,27 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qjf
 exams:
 - uid: exam.dp-300
 resources:
-- title: Azure認證海報
-  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+- title: Azure 認證海報
+  description: 查看 Azure 的基本概念、角色型和專長認證等總覽。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 認證之旅
-  description: 探索取得 Azure Database administrator Associate 資格的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索可讓 Azure 資料庫管理員取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

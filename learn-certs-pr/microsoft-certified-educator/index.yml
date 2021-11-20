@@ -1,27 +1,36 @@
 ### YamlMime:Certification
-title: Microsoft Certified Educator
+title: Microsoft 認證的教育者
 metadata:
-  title: Microsoft Certified Educator
-  description: Microsoft Certified Educator
+  title: Microsoft 認證的教育者
+  description: Microsoft 認證的教育者
+  ms.openlocfilehash: 5219ef47ac1fbd9e202387192d45602fce01befe
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132104368"
 uid: certification.microsoft-certified-educator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Microsoft Certified Educator (MCE) 認證可驗證教育人員是否具備所需的全球教育人員技術知識能力，可為學生提供內容豐富且量身打造的教學體驗。
-  MCE 認證適合實習中的教育人員、師範教育學院的教職員，以及任教中的教育人員。
+summary: >-
+  Microsoft 認證的教育者 (MCE) 認證，可驗證教育人員是否有全球的教育人員技術讀寫能力專長，為學生提供豐富的自訂學習體驗。
 
-  Microsoft 提供完備的線上學習課程，21CLD，以協助教育人員準備這項嚴峻的測驗。
+  MCE 認證適用于教育教育訓練人員、教師訓練大學教職員，以及服務教育人員。
 
-  **注意** Microsoft Certified Educator 測驗所評量的是教育人員是否瞭解如何在這六項不同的內容領域中運用技術工具，而非他們是否熟練特定技術工具的使用。如果您正在尋找有關認證以教授特定的 Microsoft 產品和技術的信息，請訪問 [Microsoft Certified Trainer](https://www.microsoft.com/learning/mct-certification.aspx)  頁。
-subTitle: Microsoft Certified Educator (MCE) 認證可驗證教育人員是否具備所需的全球教育人員技術知識能力，可為學生提供內容豐富且量身打造的教學體驗。
+
+  Microsoft 提供全方位的電子學習課程21CLD，可協助教育工作者做好這份嚴格測驗的準備。
+
+
+  **注意** Microsoft 認證的教育人員測驗會評估教師是否瞭解如何在六個不同的內容網域中套用技術工具，而不是他們是否精通使用特定的技術工具。 如果您想要取得認證以教授特定 Microsoft 產品和技術的相關資訊，請造訪 [Microsoft 認證講師](https://www.microsoft.com/learning/mct-certification.aspx) 頁面。
+subTitle: Microsoft 認證的教育者 (MCE) 認證，可驗證教育人員是否有全球的教育人員技術讀寫能力專長，為學生提供豐富的自訂學習體驗。
 levels:
 - advanced
 skills:
-- 促進學生合作
-- 促進熟練的交流
-- 促進自律
-- 促進現實世界的解決問題和創新
-- 促進學生使用資訊和通訊工具 (ICT)
-- 使用 ICT 成為一名有效的教育人員
+- Facilitate student collaboration
+- Facilitate skilled communication
+- Facilitate self-regulation
+- Facilitate real-world problem solving and innovation
+- Facilitate student use of Information and Communication Tools (ICT)
+- Use ICT to be an effective educator
 roles:
 - developer
 type: mce
@@ -31,13 +40,12 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHl
 exams:
 - uid: exam.62-193
 resources:
-- title: Microsoft教育者中心
-  description: 針對教育者的訓練、計劃和資源。
-  href: https://education.microsoft.com/zh-tw
-- title: 學習指南
-  description: 尋找訓練教材以準備測驗
+- title: Microsoft 教師中心
+  description: 教育工作者的訓練、程式和資源。
+  href: https://education.microsoft.com/en-us
+- title: 研究指南
+  description: 尋找訓練教材來為測驗做好準備
   href: https://aka.ms/MCEStudyGuide
-- title: Exam Replay
-  description: 數位工具套件，用於教育未來現在活動（海報、資料表和 MCE 測驗目標範圍）
+- title: 測驗重新執行
+  description: '用於教授未來的數位套件現在行銷活動 (海報、資料工作表和 MCE 測驗目標網域) '
   href: https://aka.ms/MCEAssets
-

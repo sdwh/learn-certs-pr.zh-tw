@@ -1,32 +1,43 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure AI Engineer Associate'
+title: Microsoft 認證： Azure AI 工程師的關聯
 metadata:
-  title: 'Microsoft Certified: Azure AI Engineer Associate'
-  description: 'Azure AI 工程師構建、管理和部署利用 Azure Cognitive Services、Azure Cognitive Search 和 Microsoft Bot 框架的 AI 解決方案。'
+  title: Microsoft 認證： Azure AI 工程師的關聯
+  description: Azure AI 工程師會建立、管理及部署運用 Azure 認知服務、Azure 認知搜尋和 Microsoft Bot Framework 的 AI 解決方案。
+  ms.openlocfilehash: 9e6e6688237b1b4e4fbfa8d3e070fd7a75f3d232
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132105207"
 uid: certification.azure-ai-engineer
 certificationRenewalUid: renewal.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>該認證內容已在2021年9月24日更新。請在 <a href="/learn/certifications/exams/ai-102">AI-102 考試頁面</a>下載技能考核檔以瞭解變更內容。</strong></font><br/><br/></div>
-  
-  Azure AI Engineer Associate認證的考生應具備專業技能，這些技能利用Azure Cognitive Services、Azure Cognitive Search及“Microsoft Bot框架”來構建、管理並部署AI解決方案。
+summary: >-
+  <div><font color='red'><strong>此認證的內容將于2021年11月30日更新。請下載 <a href="/learn/certifications/exams/ai-102">測驗 AI-102 頁面</a> 上的技能測量檔，以瞭解有哪些變更。</strong></font><br/><br/></div>
 
-  他們的職責包括參與AI解決方案開發的所有階段——從需求定義和設計到開發、部署、維護、性能優化及監控。
-  
-  Azure AI工程師與解決方案架構師合作，轉換他們的願景，並與資料科學家、資料工程師、IoT專家及AI開發人員一起構建完整的端到端AI解決方案。
 
-  此考試的報考者應精通 C# 或 Python 且應能夠使用基於 REST 的 APIs 和 SDKs 來構建電腦版本、自然語言處理、知識挖掘及 Azure 上的對話 AI 解決方案。
-  
-  他們也應該理解構成 Azure AI 組合的元件及可用的資料存儲選項。另外，報考者必須理解且能夠應用可靠的 AI 原理。
-subTitle: Azure AI 工程師構建、管理和部署利用 Azure Cognitive Services、Azure Cognitive Search 和 Microsoft Bot 框架的 AI 解決方案。
+  Azure AI 工程師的候選人必須建立、管理及部署運用 Azure 認知服務、Azure 認知搜尋和 Microsoft Bot Framework 的 AI 解決方案，才能建立認證。
+
+
+  其職責包括參與 AI 解決方案開發的所有階段，包括需求定義和設計、開發、部署、維護、效能微調和監視。
+
+
+  Azure AI 工程師與解決方案架構設計人員合作，以轉譯其願景，並與資料科學家、資料工程師、IoT 專家和 AI 開發人員合作，以建立完整的端對端 AI 解決方案。
+
+
+  這項認證的候選項目應該要熟悉 c # 或 Python，而且應該能夠使用 REST 型 Api 和 Sdk 來建立電腦視覺、自然語言處理、知識挖掘，以及 Azure 上的交談 AI 解決方案。
+
+
+  它們也應該瞭解組成 Azure AI 組合的元件，以及可用的資料儲存選項。 此外，候選人必須瞭解並能夠套用負責任的 AI 原則。
+subTitle: Azure AI 工程師會建立、管理及部署運用 Azure 認知服務、Azure 認知搜尋和 Microsoft Bot Framework 的 AI 解決方案。
 levels:
 - intermediate
 skills:
-- 計畫並管理Azure Cognitive Services解決方案
-- 實施“電腦視覺”解決方案
-- 實施自然語言處理解決方案
-- 實施知識挖掘解決方案
-- 實施對話式AI解決方案
+- Plan and manage an Azure Cognitive Services solution
+- Implement Computer Vision solutions
+- Implement natural language processing solutions
+- Implement knowledge mining solutions
+- Implement conversational AI solutions
 roles:
 - ai-engineer
 type: role-based
@@ -52,7 +63,7 @@ products:
 courses:
 - uid: course.ai-102t00
 paths:
-- uid: learn.wwl.prepare-for-ai-engineering 
+- uid: learn.wwl.prepare-for-ai-engineering
 - uid: learn.wwl.provision-manage-azure-cognitive-services
 - uid: learn.wwl.process-translate-text-azure-cognitive-services
 - uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
@@ -66,27 +77,27 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEH
 exams:
 - uid: exam.ai-102
 resources:
-- title: 認證之旅
-  description: 探索獲得Azure AI Engineer Associate認證的步驟以及説明您進行準備的可用資源。
+- title: 認證旅程
+  description: 探索取得認證的 Azure AI 工程師的相關步驟，以及可協助您準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWy1S2
 - title: Azure 認證海報
-  description: 查看概述，包括 Azure 的基礎知識、基於角色的和專業認證。
+  description: 查看 Azure 的基本概念、角色型和專長認證等總覽。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
+  href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色的認證和專業認證的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
+  href: https://aka.ms/traincertposter
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支持認證
-  description: 通過 Microsoft Certification 支持論壇獲得幫助。論壇主持人將在周一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md

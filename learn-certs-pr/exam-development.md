@@ -1,7 +1,7 @@
 ---
-title: '考試的開發 | Microsoft Docs'
-description: '考試的開發' 
-documentationcenter: NA 
+title: 測驗開發 |Microsoft Docs
+description: 測驗開發
+documentationcenter: NA
 author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -9,21 +9,27 @@ ms.workload: NA
 ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: ee715069f87d9858f668642d4db34540c4d4d7cf
+ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 09/14/2021
+ms.locfileid: "132101934"
 ---
-# 考試的開發
+# <a name="exam-development"></a>測驗開發
 
-## 關於考試的開發
+## <a name="about-exam-development"></a>關於測驗開發
 
-Microsoft Certification 考試根據行業專業人士的意見謹慎開發，用於反映勝任需要利用 Microsoft技術為組織的數位化轉型目標提供支援的關鍵職能，所需要的技能。
+Microsoft 認證測驗會謹慎地以產業專業人員的輸入進行開發，以反映在關鍵工作角色中成功所需的技能，這些角色利用 Microsoft 技術來支援組織的數位轉型目標。
 
-以下是我們在開發每項考試時所採用的步驟：
+以下是我們在開發每項測驗時所採取的步驟：
 
-1. 確定技能領域。由專家確定在特定職務/職能範圍內利用 Microsoft 技術和解決方案履行的關鍵任務。
-2. 確定考試中的技能分佈情況。通過第一個步驟確定的技能由來自世界各地的其他技術專家與職業專家進行評估。他們的評估結果被用作藍圖，用於確定考題在技能領域中的分佈情況。
-3. 編寫考題。主題專家 (SMEs) 根據通過步驟二創建的藍圖所確定的分佈情況，編寫關鍵技能測評考題。
-4. 評估每個考題的準確性、清晰度、合適性等（alpha 審查）。在 alpha 審查期間，未編寫考題的專家小組會審查每個考題的技術準確性、相關性以及與技能領域的一致性。
-5. 對考題進行 Beta 測試。經 alpha 審查的考題屆時會在類似於考試的情形下進行初步測試，稱為“beta exam”。這可確保只有最好的內容才會被包含在現場考試中。請訪問：[Beta 考試](/learn/certifications/beta-exams)，獲取更多資訊。 
-6. 最終確定考題池。根據難度、區分高低表現者的能力、可靠性等因素，對 beta exam 的結果進行心理測量分析。只有符合 Microsoft 的心理測量標準的考題才會出現在現場考試中。
-7. 設置及格分數。專家小組與  Microsoft 的心理測量師合作，確定及格分數。該分數基於與考試中所包含的考題難度相關的技能領域所需要的技能。
-8. 相關人員可在世界各地通過我方負責管理認證考試的考試合作方，參加考試。相關人員可在世界各地的考試中心參加考試，也可以通過有人監考的線上方式參加考試（若有）。
-9. 考試期間維持（監測）。Microsoft 會在整個考試期間監測考試的心理測量情況，確保其能持續用作技能領域的有效可靠測量標準。不再具備心理測量作用的考題會被刪除，同時，會隨著特性和功能的更新，增加新的考題，以及/或者增加新的考題，來替換因心理測量原因或技術變化而被刪除的考題。有時，考試會被取消。請訪問：[考試的取消](/learn/certifications/retired-certification-exams)，瞭解更多資訊。
+1. 定義技能領域。 專家會識別在特定工作角色中執行的重要工作，或運用 Microsoft 技術和解決方案的功能。
+2. 定義測驗技能的散發。 第一個步驟中所識別的技能，是由世界各地的其他技術和工作專家評估。 其評估會成為藍圖，以定義橫跨技能領域的問題分佈。
+3. 撰寫測驗問題。 主題專家 (Sme) 撰寫測驗問題，根據步驟2中建立的藍圖所定義的散發來測量重要技能。
+4. 評估每個問題的精確度、清楚、」適當性等 (Alpha 評論) 。 未撰寫問題的專家板，會在 Alpha 評論期間，針對技術的精確度、相關性和技能領域進行調整。
+5. Beta 測試問題。 然後以類似測驗的情況（稱為「搶鮮版測驗」）來試驗測試過的 Alpha 問題。 這可確保即時測驗中只包含最佳的內容。 造訪： [Beta 測驗](/learn/certifications/beta-exams) 以取得詳細資訊。 
+6. 完成問題集區。 搶鮮版（Beta）測驗的結果會 psychometrically 分析是否有一些因素，例如難以區分高和低的執行者、可靠性等等。 只有符合 Microsoft psychometric 準則的問題才會出現在現場測驗中。
+7. 設定剪下分數。 專家的面板可與 Microsoft 的 psychometrician 合作，以決定通過分數。 這項分數是根據技能領域所需的技能，這些技能與測驗所包含的問題很困難。
+8. 本測驗可透過我們的測驗傳遞合作夥伴管理認證測驗，在全球各地提供。 您可以在世界各地的測試中心或透過線上 proctoring 取得測驗。
+9. 維持/維持測驗的存留期。 Microsoft 會在整個生命週期中監視測驗的 psychometric 效能，以確保它們持續有效且可靠地測量技能領域。 已移除不再執行 psychometrically 的問題，並新增新的問題，因為功能已更新和/或因 psychometric 原因或因技術變更而移除的問題。 有時會淘汰測驗。 造訪： [測驗淘汰](/learn/certifications/retired-certification-exams) 以深入瞭解。

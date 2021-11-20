@@ -1,37 +1,50 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate'
+title: Microsoft 認證： Dynamics 365：財務與營運應用程式開發人員相關聯
 metadata:
-  title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate'
-  description: 處理 Microsoft Dynamics 365 中財務與營運應用程式的開發人員負責實作和擴展應用程式以滿足商務需求。應試者透過使用標準應用程式編碼模式、延伸功能以及外部整合來提供完全實作的解決方案。
+  title: Microsoft 認證： Dynamics 365：財務與營運應用程式開發人員相關聯
+  description: 使用 Microsoft Dynamics 365 中的財務和營運應用程式的開發人員，可實行並擴充應用程式，以符合企業的需求。 候選項目使用標準化的應用程式編碼模式、可延伸的功能和外部整合，提供完全實現的解決方案。
+  ms.openlocfilehash: 36486d2b8aa71a9a339318a2b8de6ecf641121b7
+  ms.sourcegitcommit: c0897fc6536adf49a00cbefbe0ee43945146c08b
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/17/2021
+  ms.locfileid: "132104947"
 uid: certification.d365-finance-and-operations-apps-developer-associate
 certificationRenewalUid: renewal.d365-finance-and-operations-apps-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  如果您是一位與功能顧問、解決方案及技術架構師一起工作的開發人員，並且借助 Dynamics 365 中的財務和運營應用程式，您負責將需求轉化為關鍵的系統功能，那麼您就可以使用該認證來推進您的職業生涯。您必須具備利用標準化的應用程式編碼模式、可擴展的特性以及外部的集成來提供完全實現的解決方案方面的經驗。
-  
-  您需要熟悉軟體發展週期方法論、資料完整性以及資料安全合規性。並且您必須具備利用 Dynamics 365 中與財務和運營解決方案相關的底層框架、資料結構及物件的豐富知識和經驗，而這些解決方案能夠提供一流的功能。
-  
-  如果您在設法獲得該認證之前需要更多的經驗，這裡有一些建議&#58;
-  - 在 Dynamics 365 中作為一個或多個財務和運營應用程式的開發人員。
-  - 自願幫助開發一個專案。
-  - 加入 [Dynamics 365 Community](https://community.dynamics.com/).
+summary: >-
+  如果您是與功能顧問、解決方案和技術架構設計人員合作的開發人員，而且您必須負責將需求轉譯為 Dynamics 365 中的財務和營運應用程式的重要系統功能，您可以使用此認證來提升您的事業。 您必須具備使用標準化應用程式編碼模式、可延伸功能和外部整合來提供完整實現解決方案的經驗。
+
+
+  您必須熟悉軟體發展週期方法、資料完整性和資料安全性合規性。 此外，您必須具備深入的知識和經驗，才能使用基礎架構、資料結構，以及與 Dynamics 365 中的財務和營運解決方案相關聯的物件，以提供頂級的功能。
+
+
+  如果您需要更多的經驗，才能嘗試獲得此認證，以下是一些建議&#58;
+
+  - 以開發人員身分在 Dynamics 365 中的一或多個財務和營運應用程式上工作。
+
+  - 自願協助開發專案。
+
+  - 加入[Dynamics 365 Community](https://community.dynamics.com/)。
+
   - 在 Microsoft Learn 上採用適用的學習路徑。
-  - 報名參加由教師指導的培訓，比如 Microsoft Dynamics 365&#58; “核心財務和運營”以及 Microsoft Dynamics 365&#58; “財務和運營應用開發者”。
-subTitle: 處理 Microsoft Dynamics 365 中財務與營運應用程式的開發人員負責實作和擴展應用程式以滿足商務需求。
+
+  - 報名講師主導的訓練，例如 Microsoft Dynamics 365&#58; 核心財務和營運，以及 Microsoft Dynamics 365&#58; 財務和營運應用程式開發人員。
+subTitle: 使用 Microsoft Dynamics 365 中的財務和營運應用程式的開發人員，可實行並擴充應用程式，以符合企業的需求。
 levels:
 - intermediate
 skills:
-- 使用 Microsoft Power Platform 技術描述金融和運營應用程式以及擴展應用程式。 
-- 配置管理功能和工作流 
-- 管理金融和運營資料
-- 驗證和支援解決方案
-- 規劃基礎架構和解決方案設計
-- 應用開發人員工具
-- 設計與開發 AOT 元素
-- 開發及測試代碼
-- 實作報告
-- 整合與管理資料解決方案
-- 實作安全性並最佳化效能
+- Describe finance and operations apps, and extend apps by using Microsoft Power Platform technologies
+- Configure administrative features and workflows
+- Manage finance and operations data
+- Validate and support solutions
+- Plan architecture and solution design
+- Apply developer tools
+- Design and develop AOT elements
+- Develop and test code
+- Implement reporting
+- Integrate and manage data solutions
+- Implement security and optimize performance
 roles:
 - developer
 type: role-based
@@ -57,27 +70,26 @@ exams:
 - uid: exam.mb-500
 resources:
 - title: 認證海報
-  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基礎知識、基於角色和專業的認證。
+  description: 查看摘要，包括 Dynamics 365 和 Power Platform 的基本概念、以角色為基礎的特殊認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: 認證之旅
-  description: 探索取得認證的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C5rP
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
-- title: 認證學習途徑
-  description: 推薦的培訓資源可幫助您準備所需的測驗並獲得認證。
+- title: 認證學習路徑
+  description: 建議的訓練資源，以協助您準備進行必要的測驗並獲得您的認證。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cdas
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 支援認證
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 認證的支援
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 分享您的認證徽章
-  description: 透過網路來慶祝您的成就。領取您的 Microsoft Certification 徽章，並將其加入到LinkedIn、您的簡歷等。
+- title: 共用您的認證徽章
+  description: 使用您的網路慶祝您的成就。 索取您的 Microsoft 認證徽章，並將其新增至 LinkedIn、簡歷等。
   href: ../badges.md
-

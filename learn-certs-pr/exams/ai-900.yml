@@ -1,31 +1,41 @@
 ### YamlMime:Examination
-title: 'Microsoft Azure AI Fundamentals'
+title: Microsoft AzureAI 基礎
 metadata:
-  title: 'Exam AI-900: Microsoft Azure AI Fundamentals'
-  description: 'Exam AI-900: Microsoft Azure AI Fundamentals'
+  title: 測驗 ai-900： Microsoft Azure AI 基礎
+  description: 測驗 ai-900： Microsoft Azure AI 基礎
+  ms.openlocfilehash: e8c853ce58fc23411b028d48dfe6c84ce65a1838
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132101591"
 uid: exam.ai-900
 displayName: AI-900
-summary: |-
-  <div><font color='red'><strong>本次考試的內容於2021年4月23日進行了更新。請下載下面的技能測試文檔，看看有何變化。</strong></font><br/><br/></div>
-  
-  參加此測驗的應試者應具有機器學習 (ML) 和人工智慧 (AI) 概念以及相關的 Microsoft Azure 服務的基礎知識。
-  
-  這次測驗是一次展示常見的 ML 和 AI 工作負載以及如何在 Azure 上實作知識的機會。
-  
-  該測驗適用於具有技術和非技術背景的考生。不需要資料科學和軟體工程經驗；但是，一些一般的編程知識或經驗將是有益的。
-  
-  Azure AI Fundamentals 可用於準備其他基於 Azure 角色的認證，例如 Azure Data Scientist Associate 或 Azure AI Engineer Associate，但這不是其中任何一個的先決條件。
-subTitle: '證明您可以描述以下內容：AI 工作負載和注意事項； Azure 上機器學習的基本原理； Azure 上的電腦視覺工作負載的功能； Azure 上的自然語言處理 (NLP) 工作負載的功能；和 Azure 上的對話式 AI 工作負載的功能。'
+summary: >-
+  <div><font color='red'><strong>本測驗的內容已于2021年4月23日更新。請下載下列技能測量檔，以查看變更了哪些內容。</strong></font><br/><br/></div>
+
+
+  這項測驗的候選人應具備機器學習服務 (ML) 和人工智慧 (AI) 概念和相關 Microsoft Azure 服務的基本知識。
+
+
+  這項測驗可讓您瞭解常見的 ML 和 AI 工作負載，以及如何在 Azure 上執行這些工作負載。
+
+
+  這項測驗適用于具有技術性和非技術背景的候選人。 不需要資料科學和軟體工程體驗;不過，某些一般的程式設計知識或經驗會很有説明。
+
+
+  Azure AI 基礎概念可以用來為其他以 Azure 角色為基礎的認證（例如 Azure 資料科學家關聯或 Azure AI 工程師）進行準備，但這並不是其中任何一項的先決條件。
+subTitle: 證明您可以描述下列各項： AI 工作負載和考慮;Azure 上機器學習服務的基本原則;Azure 上電腦視覺工作負載的功能;自然語言處理的功能 (在 Azure 上 NLP) 工作負載;以及 Azure 上交談 AI 工作負載的功能。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
 practiceTestUrl: https://www.mindhub.com/p/MU-AI-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 - providerType: gsi
-  examUrl: https://examregistration.microsoft.com/?locale=zh-tw&examcode=AI-900&provider=psi&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AI-900&provider=psi&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
 locales:
 - en
 - ja
@@ -43,17 +53,17 @@ locales:
 levels:
 - beginner
 skills:
-- 本次考試的內容於2021年4月23日進行了更新。請下載下面的考試技巧大綱，看看有何變化。
-- 描述 AI 工作負載和注意事項 (15-20%)
-- 描述 Azure 上機器學習的基本原理 (30-35%)
-- 描述 Azure 上的電腦視覺工作負載的功能 (15-20%)
-- 描述 Azure 上自然語言處理（NLP）工作負載的功能 (15-20%)
-- 描述 Azure 上的對話式 AI 工作負載的功能 (15-20%)
+- The content of this exam was updated on April 23, 2021. Please download the exam skills outline below to see what changed.
+- Describe AI workloads and considerations (15-20%)
+- Describe fundamental principles of machine learning on Azure (30-35%)
+- Describe features of computer vision workloads on Azure (15-20%)
+- Describe features of Natural Language Processing (NLP) workloads on Azure (15-20%)
+- Describe features of conversational AI workloads on Azure (15-20%)
 roles:
 - ai-engineer
-- data-scientist
 - developer
-- solution-architect
+- data-scientist
+- student
 products:
 - azure
 - azure-bot-service
@@ -82,28 +92,27 @@ relatedCertifications:
 - related:
     uid: certification.azure-ai-fundamentals
 resources:
-- title: 認證之旅
-  description: 探索 Azure AI Fundamentals 的步驟以及可用來幫助您進行準備的資源。
+- title: 認證旅程
+  description: 探索 Azure AI 基本概念取得認證的步驟，以及可用來協助您做好準備的資源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARlg
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 訓練與認證指南
+  description: 在簡短的訓練和認證指南中探索所有認證。
   href: https://aka.ms/TrainingCertDeck
 - title: 認證海報
-  description: 查看基本知識、基於角色和專業認證的概述。
+  description: 查看基礎、以角色為基礎和專長認證的總覽。
   href: https://aka.ms/traincertposter
-- title: 测验重放
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 測驗重新執行
+  description: 查看兩個絕佳的優惠，以協助提升您的成功機率。
   href: ../deals.md
-- title: 支援認證考試
-  description: 透過 Microsoft Certification 支援論壇取得幫助。論壇主持人將在週一至週五的一個工作日內做出回應。
+- title: 支援認證測驗
+  description: 透過 Microsoft 認證支援論壇取得協助。 論壇仲裁者將會在星期一到星期五的一個工作天內回應。
   href: ../help.md
-- title: 認證儀錶板
-  description: 查看和管理您的預定約會、證書和成績單。
+- title: 認證儀表板
+  description: 檢查及管理您的已排程約會、憑證和文字記錄。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 要求住宿
-  description: 詳細了解有關為測驗申請調整的資訊。
+  description: 深入瞭解如何申請您測驗的住宿。
   href: ../request-accommodations.md
-- title: 測驗政策和常見問題
-  description: 查看測驗政策和常見問題。
+- title: 測驗原則及常見問題集
+  description: 複習測驗原則和常見問題。
   href: ../certification-exam-policies.md
-
